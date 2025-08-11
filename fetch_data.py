@@ -56,6 +56,8 @@ def fetch_ctb_data():
     )
     data_route = response_route.json()
     data_route = data_route["data"]
+    for i in data_route:
+        del i["data_timestamp"]
     data_route.sort(key=lambda x: x["route"])
 
     with open("ctb_routes.json", "w", encoding="utf-8") as f:
