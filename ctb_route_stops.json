@@ -1,0 +1,698 @@
+[
+    {
+        "co": "CTB",
+        "route": "798",
+        "dir": "I",
+        "seq": 1,
+        "stop": "003603",
+        "stop_name_tc": "駿洋邨"
+    },
+    {
+        "co": "CTB",
+        "route": "798",
+        "dir": "I",
+        "seq": 2,
+        "stop": "003659",
+        "stop_name_tc": "麵房街, 火炭路"
+    },
+    {
+        "co": "CTB",
+        "route": "798",
+        "dir": "I",
+        "seq": 3,
+        "stop": "003296",
+        "stop_name_tc": "火炭村, 火炭路"
+    },
+    {
+        "co": "CTB",
+        "route": "798",
+        "dir": "I",
+        "seq": 4,
+        "stop": "003562",
+        "stop_name_tc": "禾輋邨, 源禾路"
+    },
+    {
+        "co": "CTB",
+        "route": "798",
+        "dir": "I",
+        "seq": 5,
+        "stop": "003563",
+        "stop_name_tc": "瀝源邨, 源禾路"
+    },
+    {
+        "co": "CTB",
+        "route": "798",
+        "dir": "I",
+        "seq": 6,
+        "stop": "002046",
+        "stop_name_tc": "沙田巿中心"
+    },
+    {
+        "co": "CTB",
+        "route": "798",
+        "dir": "I",
+        "seq": 7,
+        "stop": "001963",
+        "stop_name_tc": "田園閣, 沙田圍路"
+    },
+    {
+        "co": "CTB",
+        "route": "798",
+        "dir": "I",
+        "seq": 8,
+        "stop": "001986",
+        "stop_name_tc": "大老山隧道巴士轉乘站"
+    },
+    {
+        "co": "CTB",
+        "route": "798",
+        "dir": "I",
+        "seq": 9,
+        "stop": "003595",
+        "stop_name_tc": "將軍澳隧道巴士轉乘站"
+    },
+    {
+        "co": "CTB",
+        "route": "798",
+        "dir": "I",
+        "seq": 10,
+        "stop": "002903",
+        "stop_name_tc": "茵怡花園, 寶康路"
+    },
+    {
+        "co": "CTB",
+        "route": "798",
+        "dir": "I",
+        "seq": 11,
+        "stop": "001755",
+        "stop_name_tc": "寶林邨寶儉樓, 寶豐路"
+    },
+    {
+        "co": "CTB",
+        "route": "798",
+        "dir": "I",
+        "seq": 12,
+        "stop": "002908",
+        "stop_name_tc": "欣明苑, 欣景路"
+    },
+    {
+        "co": "CTB",
+        "route": "798",
+        "dir": "I",
+        "seq": 13,
+        "stop": "001672",
+        "stop_name_tc": "景林邨, 寶琳北路"
+    },
+    {
+        "co": "CTB",
+        "route": "798",
+        "dir": "I",
+        "seq": 14,
+        "stop": "001726",
+        "stop_name_tc": "厚德邨, 寶寧路"
+    },
+    {
+        "co": "CTB",
+        "route": "798",
+        "dir": "I",
+        "seq": 15,
+        "stop": "001727",
+        "stop_name_tc": "重華路"
+    },
+    {
+        "co": "CTB",
+        "route": "798",
+        "dir": "I",
+        "seq": 16,
+        "stop": "001754",
+        "stop_name_tc": "煜明苑, 銀澳路"
+    },
+    {
+        "co": "CTB",
+        "route": "798",
+        "dir": "I",
+        "seq": 17,
+        "stop": "001818",
+        "stop_name_tc": "寶盈花園, 寶邑路"
+    },
+    {
+        "co": "CTB",
+        "route": "798",
+        "dir": "I",
+        "seq": 18,
+        "stop": "001823",
+        "stop_name_tc": "唐明街公園, 唐明街"
+    },
+    {
+        "co": "CTB",
+        "route": "798",
+        "dir": "I",
+        "seq": 19,
+        "stop": "002917",
+        "stop_name_tc": "調景嶺站"
+    },
+    {
+        "co": "CTB",
+        "route": "798",
+        "dir": "O",
+        "seq": 1,
+        "stop": "002917",
+        "stop_name_tc": "調景嶺站"
+    },
+    {
+        "co": "CTB",
+        "route": "798",
+        "dir": "O",
+        "seq": 2,
+        "stop": "002906",
+        "stop_name_tc": "TKO Spot, 唐明街"
+    },
+    {
+        "co": "CTB",
+        "route": "798",
+        "dir": "O",
+        "seq": 3,
+        "stop": "001826",
+        "stop_name_tc": "將軍澳廣場, 寶邑路"
+    },
+    {
+        "co": "CTB",
+        "route": "798",
+        "dir": "O",
+        "seq": 4,
+        "stop": "001752",
+        "stop_name_tc": "新寶城, 銀澳路"
+    },
+    {
+        "co": "CTB",
+        "route": "798",
+        "dir": "O",
+        "seq": 5,
+        "stop": "001736",
+        "stop_name_tc": "南豐廣場, 培成路"
+    },
+    {
+        "co": "CTB",
+        "route": "798",
+        "dir": "O",
+        "seq": 6,
+        "stop": "001737",
+        "stop_name_tc": "厚德邨, 寶寧路"
+    },
+    {
+        "co": "CTB",
+        "route": "798",
+        "dir": "O",
+        "seq": 7,
+        "stop": "001753",
+        "stop_name_tc": "景林邨, 寶琳北路"
+    },
+    {
+        "co": "CTB",
+        "route": "798",
+        "dir": "O",
+        "seq": 8,
+        "stop": "001785",
+        "stop_name_tc": "欣景路"
+    },
+    {
+        "co": "CTB",
+        "route": "798",
+        "dir": "O",
+        "seq": 9,
+        "stop": "001683",
+        "stop_name_tc": "梁潔華小學, 寶豐路"
+    },
+    {
+        "co": "CTB",
+        "route": "798",
+        "dir": "O",
+        "seq": 10,
+        "stop": "001760",
+        "stop_name_tc": "茵怡花園, 寶康路"
+    },
+    {
+        "co": "CTB",
+        "route": "798",
+        "dir": "O",
+        "seq": 11,
+        "stop": "001759",
+        "stop_name_tc": "寶康公園, 寶康路"
+    },
+    {
+        "co": "CTB",
+        "route": "798",
+        "dir": "O",
+        "seq": 12,
+        "stop": "003589",
+        "stop_name_tc": "將軍澳隧道巴士轉乘站"
+    },
+    {
+        "co": "CTB",
+        "route": "798",
+        "dir": "O",
+        "seq": 13,
+        "stop": "001985",
+        "stop_name_tc": "大老山隧道巴士轉乘站"
+    },
+    {
+        "co": "CTB",
+        "route": "798",
+        "dir": "O",
+        "seq": 14,
+        "stop": "001962",
+        "stop_name_tc": "田園閣, 沙田圍路"
+    },
+    {
+        "co": "CTB",
+        "route": "798",
+        "dir": "O",
+        "seq": 15,
+        "stop": "001961",
+        "stop_name_tc": "沙田站"
+    },
+    {
+        "co": "CTB",
+        "route": "798",
+        "dir": "O",
+        "seq": 16,
+        "stop": "003560",
+        "stop_name_tc": "瀝源邨, 源禾路"
+    },
+    {
+        "co": "CTB",
+        "route": "798",
+        "dir": "O",
+        "seq": 17,
+        "stop": "003561",
+        "stop_name_tc": "禾輋邨, 源禾路"
+    },
+    {
+        "co": "CTB",
+        "route": "798",
+        "dir": "O",
+        "seq": 18,
+        "stop": "003294",
+        "stop_name_tc": "火炭村, 火炭路"
+    },
+    {
+        "co": "CTB",
+        "route": "798",
+        "dir": "O",
+        "seq": 19,
+        "stop": "003602",
+        "stop_name_tc": "松頭下路, 火炭路"
+    },
+    {
+        "co": "CTB",
+        "route": "798",
+        "dir": "O",
+        "seq": 20,
+        "stop": "003603",
+        "stop_name_tc": "駿洋邨"
+    },
+    {
+        "co": "CTB",
+        "route": "A29",
+        "dir": "I",
+        "seq": 1,
+        "stop": "001837",
+        "stop_name_tc": "機場 (地面運輸中心)"
+    },
+    {
+        "co": "CTB",
+        "route": "A29",
+        "dir": "I",
+        "seq": 2,
+        "stop": "002672",
+        "stop_name_tc": "機場博覽館, 航展道"
+    },
+    {
+        "co": "CTB",
+        "route": "A29",
+        "dir": "I",
+        "seq": 3,
+        "stop": "003304",
+        "stop_name_tc": "香港天際萬豪酒店, 航天城東路"
+    },
+    {
+        "co": "CTB",
+        "route": "A29",
+        "dir": "I",
+        "seq": 4,
+        "stop": "003482",
+        "stop_name_tc": "航天城交匯處, 航天城東路"
+    },
+    {
+        "co": "CTB",
+        "route": "A29",
+        "dir": "I",
+        "seq": 5,
+        "stop": "003540",
+        "stop_name_tc": "港珠澳大橋香港口岸"
+    },
+    {
+        "co": "CTB",
+        "route": "A29",
+        "dir": "I",
+        "seq": 6,
+        "stop": "001854",
+        "stop_name_tc": "青嶼幹線巴士轉乘站"
+    },
+    {
+        "co": "CTB",
+        "route": "A29",
+        "dir": "I",
+        "seq": 7,
+        "stop": "001766",
+        "stop_name_tc": "畢架山花園, 龍翔道"
+    },
+    {
+        "co": "CTB",
+        "route": "A29",
+        "dir": "I",
+        "seq": 8,
+        "stop": "001767",
+        "stop_name_tc": "豐力樓, 龍翔道"
+    },
+    {
+        "co": "CTB",
+        "route": "A29",
+        "dir": "I",
+        "seq": 9,
+        "stop": "001734",
+        "stop_name_tc": "天馬苑, 龍翔道"
+    },
+    {
+        "co": "CTB",
+        "route": "A29",
+        "dir": "I",
+        "seq": 10,
+        "stop": "001523",
+        "stop_name_tc": "黃大仙站, 龍翔道"
+    },
+    {
+        "co": "CTB",
+        "route": "A29",
+        "dir": "I",
+        "seq": 11,
+        "stop": "001688",
+        "stop_name_tc": "沙田坳道, 龍翔道"
+    },
+    {
+        "co": "CTB",
+        "route": "A29",
+        "dir": "I",
+        "seq": 12,
+        "stop": "001696",
+        "stop_name_tc": "鑽石山站, 大磡道"
+    },
+    {
+        "co": "CTB",
+        "route": "A29",
+        "dir": "I",
+        "seq": 13,
+        "stop": "001697",
+        "stop_name_tc": "牛池灣村, 龍翔道"
+    },
+    {
+        "co": "CTB",
+        "route": "A29",
+        "dir": "I",
+        "seq": 14,
+        "stop": "001505",
+        "stop_name_tc": "九龍灣站, 觀塘道"
+    },
+    {
+        "co": "CTB",
+        "route": "A29",
+        "dir": "I",
+        "seq": 15,
+        "stop": "001506",
+        "stop_name_tc": "牛頭角下邨, 觀塘道"
+    },
+    {
+        "co": "CTB",
+        "route": "A29",
+        "dir": "I",
+        "seq": 16,
+        "stop": "001507",
+        "stop_name_tc": "定富街, 觀塘道"
+    },
+    {
+        "co": "CTB",
+        "route": "A29",
+        "dir": "I",
+        "seq": 17,
+        "stop": "001508",
+        "stop_name_tc": "牛頭角站, 觀塘道"
+    },
+    {
+        "co": "CTB",
+        "route": "A29",
+        "dir": "I",
+        "seq": 18,
+        "stop": "001509",
+        "stop_name_tc": "觀塘市中心, 觀塘道"
+    },
+    {
+        "co": "CTB",
+        "route": "A29",
+        "dir": "I",
+        "seq": 19,
+        "stop": "001670",
+        "stop_name_tc": "觀塘警署, 將軍澳道"
+    },
+    {
+        "co": "CTB",
+        "route": "A29",
+        "dir": "I",
+        "seq": 20,
+        "stop": "003595",
+        "stop_name_tc": "將軍澳隧道巴士轉乘站"
+    },
+    {
+        "co": "CTB",
+        "route": "A29",
+        "dir": "I",
+        "seq": 21,
+        "stop": "001752",
+        "stop_name_tc": "新寶城, 銀澳路"
+    },
+    {
+        "co": "CTB",
+        "route": "A29",
+        "dir": "I",
+        "seq": 22,
+        "stop": "001736",
+        "stop_name_tc": "南豐廣場, 培成路"
+    },
+    {
+        "co": "CTB",
+        "route": "A29",
+        "dir": "I",
+        "seq": 23,
+        "stop": "001737",
+        "stop_name_tc": "厚德邨, 寶寧路"
+    },
+    {
+        "co": "CTB",
+        "route": "A29",
+        "dir": "I",
+        "seq": 24,
+        "stop": "001753",
+        "stop_name_tc": "景林邨, 寶琳北路"
+    },
+    {
+        "co": "CTB",
+        "route": "A29",
+        "dir": "I",
+        "seq": 25,
+        "stop": "001700",
+        "stop_name_tc": "寶琳站"
+    },
+    {
+        "co": "CTB",
+        "route": "A29",
+        "dir": "O",
+        "seq": 1,
+        "stop": "001700",
+        "stop_name_tc": "寶琳站"
+    },
+    {
+        "co": "CTB",
+        "route": "A29",
+        "dir": "O",
+        "seq": 2,
+        "stop": "002908",
+        "stop_name_tc": "欣明苑, 欣景路"
+    },
+    {
+        "co": "CTB",
+        "route": "A29",
+        "dir": "O",
+        "seq": 3,
+        "stop": "001672",
+        "stop_name_tc": "景林邨, 寶琳北路"
+    },
+    {
+        "co": "CTB",
+        "route": "A29",
+        "dir": "O",
+        "seq": 4,
+        "stop": "001726",
+        "stop_name_tc": "厚德邨, 寶寧路"
+    },
+    {
+        "co": "CTB",
+        "route": "A29",
+        "dir": "O",
+        "seq": 5,
+        "stop": "001727",
+        "stop_name_tc": "重華路"
+    },
+    {
+        "co": "CTB",
+        "route": "A29",
+        "dir": "O",
+        "seq": 6,
+        "stop": "001754",
+        "stop_name_tc": "煜明苑, 銀澳路"
+    },
+    {
+        "co": "CTB",
+        "route": "A29",
+        "dir": "O",
+        "seq": 7,
+        "stop": "003589",
+        "stop_name_tc": "將軍澳隧道巴士轉乘站"
+    },
+    {
+        "co": "CTB",
+        "route": "A29",
+        "dir": "O",
+        "seq": 8,
+        "stop": "001494",
+        "stop_name_tc": "駿業里, 觀塘道"
+    },
+    {
+        "co": "CTB",
+        "route": "A29",
+        "dir": "O",
+        "seq": 9,
+        "stop": "001495",
+        "stop_name_tc": "創紀之城, 觀塘道"
+    },
+    {
+        "co": "CTB",
+        "route": "A29",
+        "dir": "O",
+        "seq": 10,
+        "stop": "001500",
+        "stop_name_tc": "九龍灣站, 觀塘道"
+    },
+    {
+        "co": "CTB",
+        "route": "A29",
+        "dir": "O",
+        "seq": 11,
+        "stop": "001695",
+        "stop_name_tc": "鑽石山站, 龍翔道"
+    },
+    {
+        "co": "CTB",
+        "route": "A29",
+        "dir": "O",
+        "seq": 12,
+        "stop": "001690",
+        "stop_name_tc": "沙田坳道, 龍翔道"
+    },
+    {
+        "co": "CTB",
+        "route": "A29",
+        "dir": "O",
+        "seq": 13,
+        "stop": "001524",
+        "stop_name_tc": "摩士公園游泳池, 龍翔道"
+    },
+    {
+        "co": "CTB",
+        "route": "A29",
+        "dir": "O",
+        "seq": 14,
+        "stop": "001761",
+        "stop_name_tc": "天馬苑, 龍翔道"
+    },
+    {
+        "co": "CTB",
+        "route": "A29",
+        "dir": "O",
+        "seq": 15,
+        "stop": "001765",
+        "stop_name_tc": "豐力樓, 龍翔道"
+    },
+    {
+        "co": "CTB",
+        "route": "A29",
+        "dir": "O",
+        "seq": 16,
+        "stop": "001725",
+        "stop_name_tc": "畢架山花園, 龍翔道"
+    },
+    {
+        "co": "CTB",
+        "route": "A29",
+        "dir": "O",
+        "seq": 17,
+        "stop": "001853",
+        "stop_name_tc": "青嶼幹線巴士轉乘站"
+    },
+    {
+        "co": "CTB",
+        "route": "A29",
+        "dir": "O",
+        "seq": 18,
+        "stop": "002714",
+        "stop_name_tc": "機場 (1 號客運大樓)"
+    },
+    {
+        "co": "CTB",
+        "route": "A29",
+        "dir": "O",
+        "seq": 19,
+        "stop": "002672",
+        "stop_name_tc": "機場博覽館, 航展道"
+    },
+    {
+        "co": "CTB",
+        "route": "A29",
+        "dir": "O",
+        "seq": 20,
+        "stop": "003304",
+        "stop_name_tc": "香港天際萬豪酒店, 航天城東路"
+    },
+    {
+        "co": "CTB",
+        "route": "A29",
+        "dir": "O",
+        "seq": 21,
+        "stop": "003482",
+        "stop_name_tc": "航天城交匯處, 航天城東路"
+    },
+    {
+        "co": "CTB",
+        "route": "A29",
+        "dir": "O",
+        "seq": 22,
+        "stop": "003550",
+        "stop_name_tc": "港珠澳大橋旅檢大樓"
+    },
+    {
+        "co": "CTB",
+        "route": "A29",
+        "dir": "O",
+        "seq": 23,
+        "stop": "001837",
+        "stop_name_tc": "機場 (地面運輸中心)"
+    }
+]
