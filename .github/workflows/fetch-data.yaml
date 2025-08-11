@@ -1,0 +1,48 @@
+name: Fetch API Data Daily # Workflow name
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs daily at midnight UTC. Adjust as needed.
+  workflow_dispatch: # Allows manual triggering from GitHub UI
+
+permissions:
+  contents: write # Grant write permission for committing and pushing changes
+
+jobs:
+  fetch-and-push:
+    runs-on: ubuntu-latest # Run on a fresh Ubuntu virtual machine
+
+    steps:
+      - name: Checkout repository # Get a copy of your repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Fetch all history for proper git operations
+
+      - name: Set up Python # Use Python to fetch and process API data
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Install dependencies # Install requests library for HTTP calls
+        run: pip install requests
+
+      - name: Fetch API data and save to file # Execute the Python script
+        run: python fetch_data.py # Run the Python script
+
+      - name: Commit and push if changes # Commit and push only if the file content changed
+        run: |
+          git config user.name github-actions[bot] # Set git user name
+          git config user.email github-actions[bot]@users.noreply.github.com # Set git user email
+
+          git add . # Stage the file
+
+          # Check if there are any changes to commit
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "🤖 Update API data" # Commit changes
+            git push # Push to the default branch (e.g., main)
+            echo "Changes committed and pushed."
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # GitHub's built-in token for authentication
