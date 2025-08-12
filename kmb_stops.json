@@ -289,9 +289,9 @@
     },
     {
         "stop": "01E580BD435E9301",
-        "name_en": "CHEUNG LAI STREET CHEUNG SHA WAN (X43) (SS244)",
-        "name_tc": "長沙灣長荔街 (X43) (SS244)",
-        "name_sc": "长沙湾长荔街 (X43) (SS244)",
+        "name_en": "CHEUNG LAI STREET CHEUNG SHA WAN (SS244)",
+        "name_tc": "長沙灣長荔街 (SS244)",
+        "name_sc": "长沙湾长荔街 (SS244)",
         "lat": "22.336916",
         "long": "114.147431"
     },
@@ -913,9 +913,9 @@
     },
     {
         "stop": "04FC6E130D4953F4",
-        "name_en": "CHEUNG SHA WAN PLAYGROUND (X26) (SS227)",
-        "name_tc": "長沙灣遊樂場 (X26) (SS227)",
-        "name_sc": "长沙湾游乐场 (X26) (SS227)",
+        "name_en": "CHEUNG SHA WAN PLAYGROUND (SS227)",
+        "name_tc": "長沙灣遊樂場 (SS227)",
+        "name_sc": "长沙湾游乐场 (SS227)",
         "lat": "22.335618",
         "long": "114.155787"
     },
@@ -1169,9 +1169,9 @@
     },
     {
         "stop": "06566A7FE3C6466A",
-        "name_en": "CHEUNG LAI STREET CHEUNG SHA WAN (X44) (SS245)",
-        "name_tc": "長沙灣長荔街 (X44) (SS245)",
-        "name_sc": "长沙湾长荔街 (X44) (SS245)",
+        "name_en": "CHEUNG LAI STREET CHEUNG SHA WAN (SS245)",
+        "name_tc": "長沙灣長荔街 (SS245)",
+        "name_sc": "长沙湾长荔街 (SS245)",
         "lat": "22.336962",
         "long": "114.147567"
     },
@@ -1441,9 +1441,9 @@
     },
     {
         "stop": "07F21DF049D501B1",
-        "name_en": "YEN CHOW STREET SHAM SHUI PO (X10) (SS211)",
-        "name_tc": "深水埗欽州街 (X10) (SS211)",
-        "name_sc": "深水埗钦州街 (X10) (SS211)",
+        "name_en": "YEN CHOW STREET SHAM SHUI PO (SS211)",
+        "name_tc": "深水埗欽州街 (SS211)",
+        "name_sc": "深水埗钦州街 (SS211)",
         "lat": "22.331188",
         "long": "114.161505"
     },
@@ -1497,7 +1497,7 @@
     },
     {
         "stop": "0840B3F75A7B00BD",
-        "name_en": "East Tsim Sha Tsui Station, K11  MUSEA (YT217)",
+        "name_en": "EAST TSIM SHA TSUI STATION, K11  MUSEA (YT217)",
         "name_tc": "尖東站 K11 MUSEA (YT217)",
         "name_sc": "尖东站 K11 MUSEA (YT217)",
         "lat": "22.295264",
@@ -1705,17 +1705,17 @@
     },
     {
         "stop": "09889186EAB604F2",
-        "name_en": "PEI HO STREET SHAM SHUI PO (X3) (SS204)",
-        "name_tc": "深水埗北河街 (X3) (SS204)",
-        "name_sc": "深水埗北河街 (X3) (SS204)",
+        "name_en": "PEI HO STREET SHAM SHUI PO (SS204)",
+        "name_tc": "深水埗北河街 (SS204)",
+        "name_sc": "深水埗北河街 (SS204)",
         "lat": "22.330083",
         "long": "114.163062"
     },
     {
         "stop": "098AF67CBBB9FBA9",
-        "name_en": "YEE KOK COURT (X18) (SS219)",
-        "name_tc": "怡閣苑 (X18) (SS219)",
-        "name_sc": "怡阁苑 (X18) (SS219)",
+        "name_en": "YEE KOK COURT (SS219)",
+        "name_tc": "怡閣苑 (SS219)",
+        "name_sc": "怡阁苑 (SS219)",
         "lat": "22.333466",
         "long": "114.158514"
     },
@@ -1737,9 +1737,9 @@
     },
     {
         "stop": "09A156B1A802D093",
-        "name_en": "LAI CHI KOK STATION (Y3) (SS467)",
-        "name_tc": "荔枝角站 (Y3) (SS467)",
-        "name_sc": "荔枝角站 (Y3) (SS467)",
+        "name_en": "LAI CHI KOK STATION (SS467)",
+        "name_tc": "荔枝角站 (SS467)",
+        "name_sc": "荔枝角站 (SS467)",
         "lat": "22.337617",
         "long": "114.148799"
     },
@@ -2137,9 +2137,9 @@
     },
     {
         "stop": "0BADB28A19C2E0BE",
-        "name_en": "TRADE SQUARE (X27) (SS228)",
-        "name_tc": "貿易廣場 (X27) (SS228)",
-        "name_sc": "贸易广场 (X27) (SS228)",
+        "name_en": "TRADE SQUARE (SS228)",
+        "name_tc": "貿易廣場 (SS228)",
+        "name_sc": "贸易广场 (SS228)",
         "lat": "22.336740",
         "long": "114.154311"
     },
@@ -2401,9 +2401,9 @@
     },
     {
         "stop": "0CC9C5E5DBB3FF89",
-        "name_en": "MEI FOO BBI (A3) (SS322)",
-        "name_tc": "美孚轉車站 (A3) (SS322)",
-        "name_sc": "美孚转车站 (A3) (SS322)",
+        "name_en": "MEI FOO BBI (SS322)",
+        "name_tc": "美孚轉車站 (SS322)",
+        "name_sc": "美孚转车站 (SS322)",
         "lat": "22.336630",
         "long": "114.140316"
     },
@@ -2417,9 +2417,9 @@
     },
     {
         "stop": "0CE37125BC509E5D",
-        "name_en": "CHEUNG SHA WAN PATH (X31) (SS232)",
-        "name_tc": "長沙灣徑 (X31) (SS232)",
-        "name_sc": "长沙湾径 (X31) (SS232)",
+        "name_en": "CHEUNG SHA WAN PATH (SS232)",
+        "name_tc": "長沙灣徑 (SS232)",
+        "name_sc": "长沙湾径 (SS232)",
         "lat": "22.338203",
         "long": "114.151281"
     },
@@ -2721,9 +2721,9 @@
     },
     {
         "stop": "0E718C4DB85C8005",
-        "name_en": "CHEUNG SHA WAN PATH (X36) (SS237)",
-        "name_tc": "長沙灣徑 (X36) (SS237)",
-        "name_sc": "长沙湾径 (X36) (SS237)",
+        "name_en": "CHEUNG SHA WAN PATH (SS237)",
+        "name_tc": "長沙灣徑 (SS237)",
+        "name_sc": "长沙湾径 (SS237)",
         "lat": "22.337827",
         "long": "114.150084"
     },
@@ -2913,9 +2913,9 @@
     },
     {
         "stop": "0F4D809AED62F6E9",
-        "name_en": "YEN CHOW STREET SHAM SHUI PO (Y22) (SS486)",
-        "name_tc": "深水埗欽州街 (Y22) (SS486)",
-        "name_sc": "深水埗钦州街 (Y22) (SS486)",
+        "name_en": "YEN CHOW STREET SHAM SHUI PO (SS486)",
+        "name_tc": "深水埗欽州街 (SS486)",
+        "name_sc": "深水埗钦州街 (SS486)",
         "lat": "22.331237",
         "long": "114.161858"
     },
@@ -4409,9 +4409,9 @@
     },
     {
         "stop": "15FCDE0753176016",
-        "name_en": "PEI HO STREET SHAM SHUI PO (X7) (SS208)",
-        "name_tc": "深水埗北河街 (X7) (SS208)",
-        "name_sc": "深水埗北河街 (X7) (SS208)",
+        "name_en": "PEI HO STREET SHAM SHUI PO (SS208)",
+        "name_tc": "深水埗北河街 (SS208)",
+        "name_sc": "深水埗北河街 (SS208)",
         "lat": "22.330543",
         "long": "114.162338"
     },
@@ -5449,9 +5449,9 @@
     },
     {
         "stop": "1A85B99EDE6D01D8",
-        "name_en": "YEE KOK COURT (X17) (SS218)",
-        "name_tc": "怡閣苑 (X17) (SS218)",
-        "name_sc": "怡阁苑 (X17) (SS218)",
+        "name_en": "YEE KOK COURT (SS218)",
+        "name_tc": "怡閣苑 (SS218)",
+        "name_sc": "怡阁苑 (SS218)",
         "lat": "22.333414",
         "long": "114.158573"
     },
@@ -5633,9 +5633,9 @@
     },
     {
         "stop": "1B68DD9D137F906D",
-        "name_en": "LAI CHI KOK STATION (X40) (SS241)",
-        "name_tc": "荔枝角站 (X40) (SS241)",
-        "name_sc": "荔枝角站 (X40) (SS241)",
+        "name_en": "LAI CHI KOK STATION (SS241)",
+        "name_tc": "荔枝角站 (SS241)",
+        "name_sc": "荔枝角站 (SS241)",
         "lat": "22.337229",
         "long": "114.148332"
     },
@@ -6241,9 +6241,9 @@
     },
     {
         "stop": "1E29A8A8D3F6BABB",
-        "name_en": "PEI HO STREET SHAM SHUI PO (Y24) (SS488)",
-        "name_tc": "深水埗北河街 (Y24) (SS488)",
-        "name_sc": "深水埗北河街 (Y24) (SS488)",
+        "name_en": "PEI HO STREET SHAM SHUI PO (SS488)",
+        "name_tc": "深水埗北河街 (SS488)",
+        "name_sc": "深水埗北河街 (SS488)",
         "lat": "22.330875",
         "long": "114.162332"
     },
@@ -6513,9 +6513,9 @@
     },
     {
         "stop": "1F51B830DD359962",
-        "name_en": "LAI CHI KOK STATION (X41) (SS242)",
-        "name_tc": "荔枝角站 (X41) (SS242)",
-        "name_sc": "荔枝角站 (X41) (SS242)",
+        "name_en": "LAI CHI KOK STATION (SS242)",
+        "name_tc": "荔枝角站 (SS242)",
+        "name_sc": "荔枝角站 (SS242)",
         "lat": "22.337193",
         "long": "114.148229"
     },
@@ -6657,9 +6657,9 @@
     },
     {
         "stop": "2035C91B61C6DFC0",
-        "name_en": "HING WAH STREET CHEUNG SHA WAN (Y10) (SS474)",
-        "name_tc": "長沙灣興華街 (Y10) (SS474)",
-        "name_sc": "长沙湾兴华街 (Y10) (SS474)",
+        "name_en": "HING WAH STREET CHEUNG SHA WAN (SS474)",
+        "name_tc": "長沙灣興華街 (SS474)",
+        "name_sc": "长沙湾兴华街 (SS474)",
         "lat": "22.337928",
         "long": "114.153199"
     },
@@ -6777,9 +6777,9 @@
     },
     {
         "stop": "20FADDD5EB4002B3",
-        "name_en": "CHEUNG LAI STREET CHEUNG SHA WAN (X42) (SS243)",
-        "name_tc": "長沙灣長荔街 (X42) (SS243)",
-        "name_sc": "长沙湾长荔街 (X42) (SS243)",
+        "name_en": "CHEUNG LAI STREET CHEUNG SHA WAN (SS243)",
+        "name_tc": "長沙灣長荔街 (SS243)",
+        "name_sc": "长沙湾长荔街 (SS243)",
         "lat": "22.336875",
         "long": "114.147299"
     },
@@ -7521,7 +7521,7 @@
     },
     {
         "stop": "243A28F74F73A045",
-        "name_en": "East Tsim Sha Tsui Station, K11  MUSEA (YT630)",
+        "name_en": "EAST TSIM SHA TSUI STATION, K11  MUSEA (YT630)",
         "name_tc": "尖東站 K11 MUSEA (YT630)",
         "name_sc": "尖东站 K11 MUSEA (YT630)",
         "lat": "22.294779",
@@ -10281,9 +10281,9 @@
     },
     {
         "stop": "315B55985B328146",
-        "name_en": "YEE KOK COURT (X19) (SS220)",
-        "name_tc": "怡閣苑 (X19) (SS220)",
-        "name_sc": "怡阁苑 (X19) (SS220)",
+        "name_en": "YEE KOK COURT (SS220)",
+        "name_tc": "怡閣苑 (SS220)",
+        "name_sc": "怡阁苑 (SS220)",
         "lat": "22.333442",
         "long": "114.158535"
     },
@@ -10585,9 +10585,9 @@
     },
     {
         "stop": "325788C7375BFC0B",
-        "name_en": "CHEUNG SHA WAN PLAYGROUND (X25) (SS226)",
-        "name_tc": "長沙灣遊樂場 (X25) (SS226)",
-        "name_sc": "长沙湾游乐场 (X25) (SS226)",
+        "name_en": "CHEUNG SHA WAN PLAYGROUND (SS226)",
+        "name_tc": "長沙灣遊樂場 (SS226)",
+        "name_sc": "长沙湾游乐场 (SS226)",
         "lat": "22.335563",
         "long": "114.155853"
     },
@@ -12305,9 +12305,9 @@
     },
     {
         "stop": "3A5C336CCB38A3FA",
-        "name_en": "UN CHAU ESTATE (Y15) (SS479)",
-        "name_tc": "元州邨 (Y15) (SS479)",
-        "name_sc": "元州邨 (Y15) (SS479)",
+        "name_en": "UN CHAU ESTATE (SS479)",
+        "name_tc": "元州邨 (SS479)",
+        "name_sc": "元州邨 (SS479)",
         "lat": "22.335758",
         "long": "114.155971"
     },
@@ -14569,9 +14569,9 @@
     },
     {
         "stop": "44EA73AE2E27AC12",
-        "name_en": "LAI CHI KOK STATION (X37) (SS238)",
-        "name_tc": "荔枝角站 (X37) (SS238)",
-        "name_sc": "荔枝角站 (X37) (SS238)",
+        "name_en": "LAI CHI KOK STATION (SS238)",
+        "name_tc": "荔枝角站 (SS238)",
+        "name_sc": "荔枝角站 (SS238)",
         "lat": "22.337271",
         "long": "114.148454"
     },
@@ -15753,9 +15753,9 @@
     },
     {
         "stop": "4A1EEF2271FA16D3",
-        "name_en": "LAI CHI KOK STATION (X38) (SS239)",
-        "name_tc": "荔枝角站 (X38) (SS239)",
-        "name_sc": "荔枝角站 (X38) (SS239)",
+        "name_en": "LAI CHI KOK STATION (SS239)",
+        "name_tc": "荔枝角站 (SS239)",
+        "name_sc": "荔枝角站 (SS239)",
         "lat": "22.337258",
         "long": "114.148408"
     },
@@ -15937,9 +15937,9 @@
     },
     {
         "stop": "4AFCFC726ADBD5F7",
-        "name_en": "YEE KOK COURT (X20) (SS221)",
-        "name_tc": "怡閣苑 (X20) (SS221)",
-        "name_sc": "怡阁苑 (X20) (SS221)",
+        "name_en": "YEE KOK COURT (SS221)",
+        "name_tc": "怡閣苑 (SS221)",
+        "name_sc": "怡阁苑 (SS221)",
         "lat": "22.333706",
         "long": "114.158398"
     },
@@ -17073,9 +17073,9 @@
     },
     {
         "stop": "50E78EB09845863E",
-        "name_en": "MEI FOO BBI (C2) (SS463)",
-        "name_tc": "美孚轉車站 (C2) (SS463)",
-        "name_sc": "美孚转车站 (C2) (SS463)",
+        "name_en": "MEI FOO BBI (SS463)",
+        "name_tc": "美孚轉車站 (SS463)",
+        "name_sc": "美孚转车站 (SS463)",
         "lat": "22.337202",
         "long": "114.141455"
     },
@@ -17193,9 +17193,9 @@
     },
     {
         "stop": "5159E5E97EA88D9D",
-        "name_en": "PEI HO STREET SHAM SHUI PO (Y23) (SS487)",
-        "name_tc": "深水埗北河街 (Y23) (SS487)",
-        "name_sc": "深水埗北河街 (Y23) (SS487)",
+        "name_en": "PEI HO STREET SHAM SHUI PO (SS487)",
+        "name_tc": "深水埗北河街 (SS487)",
+        "name_sc": "深水埗北河街 (SS487)",
         "lat": "22.330935",
         "long": "114.162251"
     },
@@ -18017,9 +18017,9 @@
     },
     {
         "stop": "551045DD53EA529D",
-        "name_en": "YEE CHING COURT (X16) (SS217)",
-        "name_tc": "怡靖苑 (X16) (SS217)",
-        "name_sc": "怡靖苑 (X16) (SS217)",
+        "name_en": "YEE CHING COURT (SS217)",
+        "name_tc": "怡靖苑 (SS217)",
+        "name_sc": "怡靖苑 (SS217)",
         "lat": "22.332839",
         "long": "114.159552"
     },
@@ -18177,9 +18177,9 @@
     },
     {
         "stop": "55973ABF49182097",
-        "name_en": "TONKIN STREET CHEUNG SHA WAN (X22) (SS223)",
-        "name_tc": "長沙灣東京街 (X22) (SS223)",
-        "name_sc": "长沙湾东京街 (X22) (SS223)",
+        "name_en": "TONKIN STREET CHEUNG SHA WAN (SS223)",
+        "name_tc": "長沙灣東京街 (SS223)",
+        "name_sc": "长沙湾东京街 (SS223)",
         "lat": "22.334934",
         "long": "114.156659"
     },
@@ -18473,7 +18473,7 @@
     },
     {
         "stop": "576538E1395C8508",
-        "name_en": "East Tsim Sha Tsui Station, K11  MUSEA (YT215)",
+        "name_en": "EAST TSIM SHA TSUI STATION, K11  MUSEA (YT215)",
         "name_tc": "尖東站 K11 MUSEA (YT215)",
         "name_sc": "尖东站 K11 MUSEA (YT215)",
         "lat": "22.295226",
@@ -19689,9 +19689,9 @@
     },
     {
         "stop": "5CF51F3B971D4D56",
-        "name_en": "CHEUNG WAH STREET (Y8) (SS472)",
-        "name_tc": "昌華街 (Y8) (SS472)",
-        "name_sc": "昌华街 (Y8) (SS472)",
+        "name_en": "CHEUNG WAH STREET (SS472)",
+        "name_tc": "昌華街 (SS472)",
+        "name_sc": "昌华街 (SS472)",
         "lat": "22.338556",
         "long": "114.152201"
     },
@@ -19785,7 +19785,7 @@
     },
     {
         "stop": "5D75A800F823B45D",
-        "name_en": "East Tsim Sha Tsui Station, K11  MUSEA (YT216)",
+        "name_en": "EAST TSIM SHA TSUI STATION, K11  MUSEA (YT216)",
         "name_tc": "尖東站 K11 MUSEA (YT216)",
         "name_sc": "尖东站 K11 MUSEA (YT216)",
         "lat": "22.295152",
@@ -20905,9 +20905,9 @@
     },
     {
         "stop": "62E0E61D5250535A",
-        "name_en": "MEI FOO BBI (D2) (SS460)",
-        "name_tc": "美孚轉車站 (D2) (SS460)",
-        "name_sc": "美孚转车站 (D2) (SS460)",
+        "name_en": "MEI FOO BBI (SS460)",
+        "name_tc": "美孚轉車站 (SS460)",
+        "name_sc": "美孚转车站 (SS460)",
         "lat": "22.337485",
         "long": "114.140456"
     },
@@ -21265,9 +21265,9 @@
     },
     {
         "stop": "647AB0AD358F10DF",
-        "name_en": "MEI FOO BBI (C1) (SS464)",
-        "name_tc": "美孚轉車站 (C1) (SS464)",
-        "name_sc": "美孚转车站 (C1) (SS464)",
+        "name_en": "MEI FOO BBI (SS464)",
+        "name_tc": "美孚轉車站 (SS464)",
+        "name_sc": "美孚转车站 (SS464)",
         "lat": "22.337132",
         "long": "114.141718"
     },
@@ -21401,9 +21401,9 @@
     },
     {
         "stop": "652BD65D62F807DE",
-        "name_en": "PEI HO STREET SHAM SHUI PO (Y25) (SS489)",
-        "name_tc": "深水埗北河街 (Y25) (SS489)",
-        "name_sc": "深水埗北河街 (Y25) (SS489)",
+        "name_en": "PEI HO STREET SHAM SHUI PO (SS489)",
+        "name_tc": "深水埗北河街 (SS489)",
+        "name_sc": "深水埗北河街 (SS489)",
         "lat": "22.330821",
         "long": "114.162391"
     },
@@ -21457,9 +21457,9 @@
     },
     {
         "stop": "6564600C3B5BFB65",
-        "name_en": "HING WAH STREET CHEUNG SHA WAN (X29) (SS230)",
-        "name_tc": "長沙灣興華街 (X29) (SS230)",
-        "name_sc": "长沙湾兴华街 (X29) (SS230)",
+        "name_en": "HING WAH STREET CHEUNG SHA WAN (SS230)",
+        "name_tc": "長沙灣興華街 (SS230)",
+        "name_sc": "长沙湾兴华街 (SS230)",
         "lat": "22.338299",
         "long": "114.152182"
     },
@@ -21697,9 +21697,9 @@
     },
     {
         "stop": "6604521664B97039",
-        "name_en": "MEI FOO BBI (B3) (SS319)",
-        "name_tc": "美孚轉車站 (B3) (SS319)",
-        "name_sc": "美孚转车站 (B3) (SS319)",
+        "name_en": "MEI FOO BBI (SS319)",
+        "name_tc": "美孚轉車站 (SS319)",
+        "name_sc": "美孚转车站 (SS319)",
         "lat": "22.336450",
         "long": "114.141521"
     },
@@ -21977,9 +21977,9 @@
     },
     {
         "stop": "6762DEA1B89E6354",
-        "name_en": "CHEUNG LAI STREET CHEUNG SHA WAN (X45) (SS246)",
-        "name_tc": "長沙灣長荔街 (X45) (SS246)",
-        "name_sc": "长沙湾长荔街 (X45) (SS246)",
+        "name_en": "CHEUNG LAI STREET CHEUNG SHA WAN (SS246)",
+        "name_tc": "長沙灣長荔街 (SS246)",
+        "name_sc": "长沙湾长荔街 (SS246)",
         "lat": "22.336786",
         "long": "114.147023"
     },
@@ -23801,9 +23801,9 @@
     },
     {
         "stop": "70349D91EC82AFE1",
-        "name_en": "MEI FOO BBI (B4) (SS318)",
-        "name_tc": "美孚轉車站 (B4) (SS318)",
-        "name_sc": "美孚转车站 (B4) (SS318)",
+        "name_en": "MEI FOO BBI (SS318)",
+        "name_tc": "美孚轉車站 (SS318)",
+        "name_sc": "美孚转车站 (SS318)",
         "lat": "22.336449",
         "long": "114.141577"
     },
@@ -25377,9 +25377,9 @@
     },
     {
         "stop": "789384E5DC5AF7A9",
-        "name_en": "KIU KIANG STREET SHAM SHUI PO (Y20) (SS484)",
-        "name_tc": "深水埗九江街 (Y20) (SS484)",
-        "name_sc": "深水埗九江街 (Y20) (SS484)",
+        "name_en": "KIU KIANG STREET SHAM SHUI PO (SS484)",
+        "name_tc": "深水埗九江街 (SS484)",
+        "name_sc": "深水埗九江街 (SS484)",
         "lat": "22.332801",
         "long": "114.159824"
     },
@@ -25913,9 +25913,9 @@
     },
     {
         "stop": "7BA304A9D0662541",
-        "name_en": "KIU KIANG STREET SHAM SHUI PO (Y19) (SS483)",
-        "name_tc": "深水埗九江街 (Y19) (SS483)",
-        "name_sc": "深水埗九江街 (Y19) (SS483)",
+        "name_en": "KIU KIANG STREET SHAM SHUI PO (SS483)",
+        "name_tc": "深水埗九江街 (SS483)",
+        "name_sc": "深水埗九江街 (SS483)",
         "lat": "22.332873",
         "long": "114.159755"
     },
@@ -26289,9 +26289,9 @@
     },
     {
         "stop": "7DD772B7D55C54B2",
-        "name_en": "MEI FOO BBI (B1) (SS321)",
-        "name_tc": "美孚轉車站 (B1) (SS321)",
-        "name_sc": "美孚转车站 (B1) (SS321)",
+        "name_en": "MEI FOO BBI (SS321)",
+        "name_tc": "美孚轉車站 (SS321)",
+        "name_sc": "美孚转车站 (SS321)",
         "lat": "22.336459",
         "long": "114.141340"
     },
@@ -26961,9 +26961,9 @@
     },
     {
         "stop": "812E72C257C94B73",
-        "name_en": "PEI HO STREET SHAM SHUI PO (Y27) (SS491)",
-        "name_tc": "深水埗北河街 (Y27) (SS491)",
-        "name_sc": "深水埗北河街 (Y27) (SS491)",
+        "name_en": "PEI HO STREET SHAM SHUI PO (SS491)",
+        "name_tc": "深水埗北河街 (SS491)",
+        "name_sc": "深水埗北河街 (SS491)",
         "lat": "22.330678",
         "long": "114.162566"
     },
@@ -27417,9 +27417,9 @@
     },
     {
         "stop": "833DE523F16B97C3",
-        "name_en": "WONG CHUK STREET SHAM SHUI PO (Y29) (SS493)",
-        "name_tc": "深水埗黃竹街 (Y29) (SS493)",
-        "name_sc": "深水埗黄竹街 (Y29) (SS493)",
+        "name_en": "WONG CHUK STREET SHAM SHUI PO (SS493)",
+        "name_tc": "深水埗黃竹街 (SS493)",
+        "name_sc": "深水埗黄竹街 (SS493)",
         "lat": "22.328895",
         "long": "114.164877"
     },
@@ -27865,9 +27865,9 @@
     },
     {
         "stop": "854BC3A8D4DE6AA9",
-        "name_en": "MEI FOO BBI (C3) (SS462)",
-        "name_tc": "美孚轉車站 (C3) (SS462)",
-        "name_sc": "美孚转车站 (C3) (SS462)",
+        "name_en": "MEI FOO BBI (SS462)",
+        "name_tc": "美孚轉車站 (SS462)",
+        "name_sc": "美孚转车站 (SS462)",
         "lat": "22.337256",
         "long": "114.141259"
     },
@@ -28785,7 +28785,7 @@
     },
     {
         "stop": "89D32777124F4039",
-        "name_en": "East Tsim Sha Tsui Station, K11  MUSEA (YT631)",
+        "name_en": "EAST TSIM SHA TSUI STATION, K11  MUSEA (YT631)",
         "name_tc": "尖東站 K11 MUSEA (YT631)",
         "name_sc": "尖东站 K11 MUSEA (YT631)",
         "lat": "22.294828",
@@ -29049,9 +29049,9 @@
     },
     {
         "stop": "8BCB786E1F1A2457",
-        "name_en": "LAI CHI KOK STATION (Y1) (SS465)",
-        "name_tc": "荔枝角站 (Y1) (SS465)",
-        "name_sc": "荔枝角站 (Y1) (SS465)",
+        "name_en": "LAI CHI KOK STATION (SS465)",
+        "name_tc": "荔枝角站 (SS465)",
+        "name_sc": "荔枝角站 (SS465)",
         "lat": "22.337301",
         "long": "114.147868"
     },
@@ -29281,9 +29281,9 @@
     },
     {
         "stop": "8CE4B83B45F22F1F",
-        "name_en": "KOWLOON TECHNICAL SCHOOL (Y17) (SS481)",
-        "name_tc": "九龍工業學校 (Y17) (SS481)",
-        "name_sc": "九龙工业学校 (Y17) (SS481)",
+        "name_en": "KOWLOON TECHNICAL SCHOOL (SS481)",
+        "name_tc": "九龍工業學校 (SS481)",
+        "name_sc": "九龙工业学校 (SS481)",
         "lat": "22.333804",
         "long": "114.158553"
     },
@@ -29521,9 +29521,9 @@
     },
     {
         "stop": "8EAD803DDD2C3BBA",
-        "name_en": "KWONG CHEUNG STREET CHEUNG SHA WAN (Y5) (SS469)",
-        "name_tc": "長沙灣光昌街 (Y5) (SS469)",
-        "name_sc": "长沙湾光昌街 (Y5) (SS469)",
+        "name_en": "KWONG CHEUNG STREET CHEUNG SHA WAN (SS469)",
+        "name_tc": "長沙灣光昌街 (SS469)",
+        "name_sc": "长沙湾光昌街 (SS469)",
         "lat": "22.338442",
         "long": "114.151193"
     },
@@ -30161,9 +30161,9 @@
     },
     {
         "stop": "91C7F46612ADD9EF",
-        "name_en": "MEI FOO BBI (A2) (SS323)",
-        "name_tc": "美孚轉車站 (A2) (SS323)",
-        "name_sc": "美孚转车站 (A2) (SS323)",
+        "name_en": "MEI FOO BBI (SS323)",
+        "name_tc": "美孚轉車站 (SS323)",
+        "name_sc": "美孚转车站 (SS323)",
         "lat": "22.336723",
         "long": "114.139795"
     },
@@ -30641,9 +30641,9 @@
     },
     {
         "stop": "943DA171019723CE",
-        "name_en": "PEI HO STREET SHAM SHUI PO (Y26) (SS490)",
-        "name_tc": "深水埗北河街 (Y26) (SS490)",
-        "name_sc": "深水埗北河街 (Y26) (SS490)",
+        "name_en": "PEI HO STREET SHAM SHUI PO (SS490)",
+        "name_tc": "深水埗北河街 (SS490)",
+        "name_sc": "深水埗北河街 (SS490)",
         "lat": "22.330642",
         "long": "114.162617"
     },
@@ -30817,9 +30817,9 @@
     },
     {
         "stop": "950140C36BBC6369",
-        "name_en": "MEI FOO BBI (B2) (SS320)",
-        "name_tc": "美孚轉車站 (B2) (SS320)",
-        "name_sc": "美孚转车站 (B2) (SS320)",
+        "name_en": "MEI FOO BBI (SS320)",
+        "name_tc": "美孚轉車站 (SS320)",
+        "name_sc": "美孚转车站 (SS320)",
         "lat": "22.336454",
         "long": "114.141467"
     },
@@ -30913,9 +30913,9 @@
     },
     {
         "stop": "95731C2B3563CF5E",
-        "name_en": "YEN CHOW STREET SHAM SHUI PO (X12) (SS213)",
-        "name_tc": "深水埗欽州街 (X12) (SS213)",
-        "name_sc": "深水埗钦州街 (X12) (SS213)",
+        "name_en": "YEN CHOW STREET SHAM SHUI PO (SS213)",
+        "name_tc": "深水埗欽州街 (SS213)",
+        "name_sc": "深水埗钦州街 (SS213)",
         "lat": "22.331227",
         "long": "114.161465"
     },
@@ -31289,9 +31289,9 @@
     },
     {
         "stop": "972145F4BB2B535F",
-        "name_en": "MEI FOO BBI (D1) (SS461)",
-        "name_tc": "美孚轉車站 (D1) (SS461)",
-        "name_sc": "美孚转车站 (D1) (SS461)",
+        "name_en": "MEI FOO BBI (SS461)",
+        "name_tc": "美孚轉車站 (SS461)",
+        "name_sc": "美孚转车站 (SS461)",
         "lat": "22.337460",
         "long": "114.140547"
     },
@@ -32265,7 +32265,7 @@
     },
     {
         "stop": "9CAF2FDA35EEF9E2",
-        "name_en": "East Tsim Sha Tsui Station, K11  MUSEA (YT632)",
+        "name_en": "EAST TSIM SHA TSUI STATION, K11  MUSEA (YT632)",
         "name_tc": "尖東站 K11 MUSEA (YT632)",
         "name_sc": "尖东站 K11 MUSEA (YT632)",
         "lat": "22.294850",
@@ -32521,9 +32521,9 @@
     },
     {
         "stop": "9DA9C859E574B8B4",
-        "name_en": "CHEUNG SHA WAN STATION (Y12) (SS476)",
-        "name_tc": "長沙灣站 (Y12) (SS476)",
-        "name_sc": "长沙湾站 (Y12) (SS476)",
+        "name_en": "CHEUNG SHA WAN STATION (SS476)",
+        "name_tc": "長沙灣站 (SS476)",
+        "name_sc": "长沙湾站 (SS476)",
         "lat": "22.336841",
         "long": "114.154597"
     },
@@ -33497,9 +33497,9 @@
     },
     {
         "stop": "A1AA846971415968",
-        "name_en": "CHEUNG SHA WAN PATH (X33) (SS234)",
-        "name_tc": "長沙灣徑 (X33) (SS234)",
-        "name_sc": "长沙湾径 (X33) (SS234)",
+        "name_en": "CHEUNG SHA WAN PATH (SS234)",
+        "name_tc": "長沙灣徑 (SS234)",
+        "name_sc": "长沙湾径 (SS234)",
         "lat": "22.338091",
         "long": "114.150935"
     },
@@ -34049,9 +34049,9 @@
     },
     {
         "stop": "A468A530A8C84E11",
-        "name_en": "CHEUNG SHA WAN PATH (X35) (SS236)",
-        "name_tc": "長沙灣徑 (X35) (SS236)",
-        "name_sc": "长沙湾径 (X35) (SS236)",
+        "name_en": "CHEUNG SHA WAN PATH (SS236)",
+        "name_tc": "長沙灣徑 (SS236)",
+        "name_sc": "长沙湾径 (SS236)",
         "lat": "22.337878",
         "long": "114.150247"
     },
@@ -34129,9 +34129,9 @@
     },
     {
         "stop": "A4D7F88689232BE9",
-        "name_en": "WONG CHUK STREET SHAM SHUI PO (X2) (SS203)",
-        "name_tc": "深水埗黃竹街 (X2) (SS203)",
-        "name_sc": "深水埗黄竹街 (X2) (SS203)",
+        "name_en": "WONG CHUK STREET SHAM SHUI PO (SS203)",
+        "name_tc": "深水埗黃竹街 (SS203)",
+        "name_sc": "深水埗黄竹街 (SS203)",
         "lat": "22.328683",
         "long": "114.164710"
     },
@@ -34385,9 +34385,9 @@
     },
     {
         "stop": "A6013462EAC8AA50",
-        "name_en": "KWONG CHEUNG STREET CHEUNG SHA WAN (Y4) (SS468)",
-        "name_tc": "長沙灣光昌街 (Y4) (SS468)",
-        "name_sc": "长沙湾光昌街 (Y4) (SS468)",
+        "name_en": "KWONG CHEUNG STREET CHEUNG SHA WAN (SS468)",
+        "name_tc": "長沙灣光昌街 (SS468)",
+        "name_sc": "长沙湾光昌街 (SS468)",
         "lat": "22.338442",
         "long": "114.151193"
     },
@@ -34609,9 +34609,9 @@
     },
     {
         "stop": "A701BCC43DF54B6B",
-        "name_en": "TONKIN STREET CHEUNG SHA WAN (Y16) (SS480)",
-        "name_tc": "長沙灣東京街 (Y16) (SS480)",
-        "name_sc": "长沙湾东京街 (Y16) (SS480)",
+        "name_en": "TONKIN STREET CHEUNG SHA WAN (SS480)",
+        "name_tc": "長沙灣東京街 (SS480)",
+        "name_sc": "长沙湾东京街 (SS480)",
         "lat": "22.335199",
         "long": "114.156697"
     },
@@ -35017,9 +35017,9 @@
     },
     {
         "stop": "A88468CF154B16E9",
-        "name_en": "TONKIN STREET CHEUNG SHA WAN (X23) (SS224)",
-        "name_tc": "長沙灣東京街 (X23) (SS224)",
-        "name_sc": "长沙湾东京街 (X23) (SS224)",
+        "name_en": "TONKIN STREET CHEUNG SHA WAN (SS224)",
+        "name_tc": "長沙灣東京街 (SS224)",
+        "name_sc": "长沙湾东京街 (SS224)",
         "lat": "22.334980",
         "long": "114.156595"
     },
@@ -35561,9 +35561,9 @@
     },
     {
         "stop": "AAB25066B96C6588",
-        "name_en": "UN CHAU ESTATE (Y14) (SS478)",
-        "name_tc": "元州邨 (Y14) (SS478)",
-        "name_sc": "元州邨 (Y14) (SS478)",
+        "name_en": "UN CHAU ESTATE (SS478)",
+        "name_tc": "元州邨 (SS478)",
+        "name_sc": "元州邨 (SS478)",
         "lat": "22.335706",
         "long": "114.156039"
     },
@@ -36329,9 +36329,9 @@
     },
     {
         "stop": "AE9F399F5ACF4837",
-        "name_en": "CHEUNG WAH STREET (Y7) (SS471)",
-        "name_tc": "昌華街 (Y7) (SS471)",
-        "name_sc": "昌华街 (Y7) (SS471)",
+        "name_en": "CHEUNG WAH STREET (SS471)",
+        "name_tc": "昌華街 (SS471)",
+        "name_sc": "昌华街 (SS471)",
         "lat": "22.338579",
         "long": "114.152137"
     },
@@ -37065,9 +37065,9 @@
     },
     {
         "stop": "B294A8638290F5C2",
-        "name_en": "CHEUNG SHA WAN PATH (X34) (SS235)",
-        "name_tc": "長沙灣徑 (X34) (SS235)",
-        "name_sc": "长沙湾径 (X34) (SS235)",
+        "name_en": "CHEUNG SHA WAN PATH (SS235)",
+        "name_tc": "長沙灣徑 (SS235)",
+        "name_sc": "长沙湾径 (SS235)",
         "lat": "22.337936",
         "long": "114.150416"
     },
@@ -37905,9 +37905,9 @@
     },
     {
         "stop": "B6ECF261EB79418C",
-        "name_en": "CHEUNG LAI STREET CHEUNG SHA WAN (X46) (SS247)",
-        "name_tc": "長沙灣長荔街 (X46) (SS247)",
-        "name_sc": "长沙湾长荔街 (X46) (SS247)",
+        "name_en": "CHEUNG LAI STREET CHEUNG SHA WAN (SS247)",
+        "name_tc": "長沙灣長荔街 (SS247)",
+        "name_sc": "长沙湾长荔街 (SS247)",
         "lat": "22.336684",
         "long": "114.146749"
     },
@@ -38081,9 +38081,9 @@
     },
     {
         "stop": "B7C0A83790F94D99",
-        "name_en": "HING WAH STREET CHEUNG SHA WAN (X30) (SS231)",
-        "name_tc": "長沙灣興華街 (X30) (SS231)",
-        "name_sc": "长沙湾兴华街 (X30) (SS231)",
+        "name_en": "HING WAH STREET CHEUNG SHA WAN (SS231)",
+        "name_tc": "長沙灣興華街 (SS231)",
+        "name_sc": "长沙湾兴华街 (SS231)",
         "lat": "22.338323",
         "long": "114.152087"
     },
@@ -38657,9 +38657,9 @@
     },
     {
         "stop": "BA2F4E8CB1D43CD8",
-        "name_en": "YEE CHING COURT (X15) (SS216)",
-        "name_tc": "怡靖苑 (X15) (SS216)",
-        "name_sc": "怡靖苑 (X15) (SS216)",
+        "name_en": "YEE CHING COURT (SS216)",
+        "name_tc": "怡靖苑 (SS216)",
+        "name_sc": "怡靖苑 (SS216)",
         "lat": "22.332397",
         "long": "114.159929"
     },
@@ -39225,9 +39225,9 @@
     },
     {
         "stop": "BD34A7B702373B12",
-        "name_en": "CHEUNG WAH STREET (Y9) (SS473)",
-        "name_tc": "昌華街 (Y9) (SS473)",
-        "name_sc": "昌华街 (Y9) (SS473)",
+        "name_en": "CHEUNG WAH STREET (SS473)",
+        "name_tc": "昌華街 (SS473)",
+        "name_sc": "昌华街 (SS473)",
         "lat": "22.338530",
         "long": "114.152280"
     },
@@ -39857,9 +39857,9 @@
     },
     {
         "stop": "C06334CA2AF7814B",
-        "name_en": "KIU KIANG STREET SHAM SHUI PO (Y18) (SS482)",
-        "name_tc": "深水埗九江街 (Y18) (SS482)",
-        "name_sc": "深水埗九江街 (Y18) (SS482)",
+        "name_en": "KIU KIANG STREET SHAM SHUI PO (SS482)",
+        "name_tc": "深水埗九江街 (SS482)",
+        "name_sc": "深水埗九江街 (SS482)",
         "lat": "22.333000",
         "long": "114.159601"
     },
@@ -40017,9 +40017,9 @@
     },
     {
         "stop": "C13E41666B5A1394",
-        "name_en": "PEI HO STREET SHAM SHUI PO (X6) (SS207)",
-        "name_tc": "深水埗北河街 (X6) (SS207)",
-        "name_sc": "深水埗北河街 (X6) (SS207)",
+        "name_en": "PEI HO STREET SHAM SHUI PO (SS207)",
+        "name_tc": "深水埗北河街 (SS207)",
+        "name_sc": "深水埗北河街 (SS207)",
         "lat": "22.330543",
         "long": "114.162338"
     },
@@ -40617,9 +40617,9 @@
     },
     {
         "stop": "C3FD63E226246052",
-        "name_en": "PEI HO STREET SHAM SHUI PO (X8) (SS209)",
-        "name_tc": "深水埗北河街 (X8) (SS209)",
-        "name_sc": "深水埗北河街 (X8) (SS209)",
+        "name_en": "PEI HO STREET SHAM SHUI PO (SS209)",
+        "name_tc": "深水埗北河街 (SS209)",
+        "name_sc": "深水埗北河街 (SS209)",
         "lat": "22.330756",
         "long": "114.162065"
     },
@@ -41153,9 +41153,9 @@
     },
     {
         "stop": "C6E9CA12DCD8F695",
-        "name_en": "YEE CHING COURT (X13) (SS214)",
-        "name_tc": "怡靖苑 (X13) (SS214)",
-        "name_sc": "怡靖苑 (X13) (SS214)",
+        "name_en": "YEE CHING COURT (SS214)",
+        "name_tc": "怡靖苑 (SS214)",
+        "name_sc": "怡靖苑 (SS214)",
         "lat": "22.332425",
         "long": "114.159871"
     },
@@ -42745,9 +42745,9 @@
     },
     {
         "stop": "CF17F8C87DBBF2BC",
-        "name_en": "MEI FOO BBI (A1) (SS324)",
-        "name_tc": "美孚轉車站 (A1) (SS324)",
-        "name_sc": "美孚转车站 (A1) (SS324)",
+        "name_en": "MEI FOO BBI (SS324)",
+        "name_tc": "美孚轉車站 (SS324)",
+        "name_sc": "美孚转车站 (SS324)",
         "lat": "22.336751",
         "long": "114.139698"
     },
@@ -43681,9 +43681,9 @@
     },
     {
         "stop": "D355B700FF30B3D7",
-        "name_en": "HING WAH STREET CHEUNG SHA WAN (X28) (SS229)",
-        "name_tc": "長沙灣興華街 (X28) (SS229)",
-        "name_sc": "长沙湾兴华街 (X28) (SS229)",
+        "name_en": "HING WAH STREET CHEUNG SHA WAN (SS229)",
+        "name_tc": "長沙灣興華街 (SS229)",
+        "name_sc": "长沙湾兴华街 (SS229)",
         "lat": "22.337744",
         "long": "114.152954"
     },
@@ -44249,9 +44249,9 @@
     },
     {
         "stop": "D5C36653A51759C3",
-        "name_en": "PEI HO STREET SHAM SHUI PO (X4) (SS205)",
-        "name_tc": "深水埗北河街 (X4) (SS205)",
-        "name_sc": "深水埗北河街 (X4) (SS205)",
+        "name_en": "PEI HO STREET SHAM SHUI PO (SS205)",
+        "name_tc": "深水埗北河街 (SS205)",
+        "name_sc": "深水埗北河街 (SS205)",
         "lat": "22.330100",
         "long": "114.162879"
     },
@@ -45369,9 +45369,9 @@
     },
     {
         "stop": "DAE9E14BA67CEC80",
-        "name_en": "HING WAH STREET CHEUNG SHA WAN (Y11) (SS475)",
-        "name_tc": "長沙灣興華街 (Y11) (SS475)",
-        "name_sc": "长沙湾兴华街 (Y11) (SS475)",
+        "name_en": "HING WAH STREET CHEUNG SHA WAN (SS475)",
+        "name_tc": "長沙灣興華街 (SS475)",
+        "name_sc": "长沙湾兴华街 (SS475)",
         "lat": "22.337851",
         "long": "114.153289"
     },
@@ -45881,9 +45881,9 @@
     },
     {
         "stop": "DD9DF46F3BA040EE",
-        "name_en": "CHEUNG SHA WAN PLAYGROUND (X24) (SS225)",
-        "name_tc": "長沙灣遊樂場 (X24) (SS225)",
-        "name_sc": "长沙湾游乐场 (X24) (SS225)",
+        "name_en": "CHEUNG SHA WAN PLAYGROUND (SS225)",
+        "name_tc": "長沙灣遊樂場 (SS225)",
+        "name_sc": "长沙湾游乐场 (SS225)",
         "lat": "22.335507",
         "long": "114.155923"
     },
@@ -46889,9 +46889,9 @@
     },
     {
         "stop": "E30C2815DA280036",
-        "name_en": "UN CHAU ESTATE (Y13) (SS477)",
-        "name_tc": "元州邨 (Y13) (SS477)",
-        "name_sc": "元州邨 (Y13) (SS477)",
+        "name_en": "UN CHAU ESTATE (SS477)",
+        "name_tc": "元州邨 (SS477)",
+        "name_sc": "元州邨 (SS477)",
         "lat": "22.335838",
         "long": "114.155871"
     },
@@ -47465,9 +47465,9 @@
     },
     {
         "stop": "E5EBA1D47BA06FCC",
-        "name_en": "PEI HO STREET SHAM SHUI PO (Y28) (SS492)",
-        "name_tc": "深水埗北河街 (Y28) (SS492)",
-        "name_sc": "深水埗北河街 (Y28) (SS492)",
+        "name_en": "PEI HO STREET SHAM SHUI PO (SS492)",
+        "name_tc": "深水埗北河街 (SS492)",
+        "name_sc": "深水埗北河街 (SS492)",
         "lat": "22.330603",
         "long": "114.162668"
     },
@@ -48289,9 +48289,9 @@
     },
     {
         "stop": "E9F3DC5D89154BB7",
-        "name_en": "PEI HO STREET SHAM SHUI PO (X5) (SS206)",
-        "name_tc": "深水埗北河街 (X5) (SS206)",
-        "name_sc": "深水埗北河街 (X5) (SS206)",
+        "name_en": "PEI HO STREET SHAM SHUI PO (SS206)",
+        "name_tc": "深水埗北河街 (SS206)",
+        "name_sc": "深水埗北河街 (SS206)",
         "lat": "22.330100",
         "long": "114.162879"
     },
@@ -48577,9 +48577,9 @@
     },
     {
         "stop": "EB9E9B5EEE20114C",
-        "name_en": "LAI KOK ESTATE (X21) (SS222)",
-        "name_tc": "麗閣邨 (X21) (SS222)",
-        "name_sc": "丽阁邨 (X21) (SS222)",
+        "name_en": "LAI KOK ESTATE (SS222)",
+        "name_tc": "麗閣邨 (SS222)",
+        "name_sc": "丽阁邨 (SS222)",
         "lat": "22.333843",
         "long": "114.158223"
     },
@@ -48633,9 +48633,9 @@
     },
     {
         "stop": "EBE72869FC78A62D",
-        "name_en": "YEN CHOW STREET SHAM SHUI PO (X11) (SS212)",
-        "name_tc": "深水埗欽州街 (X11) (SS212)",
-        "name_sc": "深水埗钦州街 (X11) (SS212)",
+        "name_en": "YEN CHOW STREET SHAM SHUI PO (SS212)",
+        "name_tc": "深水埗欽州街 (SS212)",
+        "name_sc": "深水埗钦州街 (SS212)",
         "lat": "22.331227",
         "long": "114.161465"
     },
@@ -49313,9 +49313,9 @@
     },
     {
         "stop": "EEBBD352B7F16E3F",
-        "name_en": "CHEUNG SHA WAN PATH (X32) (SS233)",
-        "name_tc": "長沙灣徑 (X32) (SS233)",
-        "name_sc": "长沙湾径 (X32) (SS233)",
+        "name_en": "CHEUNG SHA WAN PATH (SS233)",
+        "name_tc": "長沙灣徑 (SS233)",
+        "name_sc": "长沙湾径 (SS233)",
         "lat": "22.338147",
         "long": "114.151104"
     },
@@ -49625,9 +49625,9 @@
     },
     {
         "stop": "F01F8CF411A34AA7",
-        "name_en": "LAI CHI KOK STATION (Y2) (SS466)",
-        "name_tc": "荔枝角站 (Y2) (SS466)",
-        "name_sc": "荔枝角站 (Y2) (SS466)",
+        "name_en": "LAI CHI KOK STATION (SS466)",
+        "name_tc": "荔枝角站 (SS466)",
+        "name_sc": "荔枝角站 (SS466)",
         "lat": "22.337559",
         "long": "114.148620"
     },
@@ -51313,9 +51313,9 @@
     },
     {
         "stop": "F75C1A9AFDBB52F1",
-        "name_en": "YEE CHING COURT (X14) (SS215)",
-        "name_tc": "怡靖苑 (X14) (SS215)",
-        "name_sc": "怡靖苑 (X14) (SS215)",
+        "name_en": "YEE CHING COURT (SS215)",
+        "name_tc": "怡靖苑 (SS215)",
+        "name_sc": "怡靖苑 (SS215)",
         "lat": "22.332470",
         "long": "114.159832"
     },
@@ -51625,9 +51625,9 @@
     },
     {
         "stop": "F88278FBE1C3FF34",
-        "name_en": "YEN CHOW STREET SHAM SHUI PO (X9) (SS210)",
-        "name_tc": "深水埗欽州街 (X9) (SS210)",
-        "name_sc": "深水埗钦州街 (X9) (SS210)",
+        "name_en": "YEN CHOW STREET SHAM SHUI PO (SS210)",
+        "name_tc": "深水埗欽州街 (SS210)",
+        "name_sc": "深水埗钦州街 (SS210)",
         "lat": "22.331188",
         "long": "114.161505"
     },
@@ -52393,9 +52393,9 @@
     },
     {
         "stop": "FC28F96F0BAF8FF7",
-        "name_en": "YEN CHOW STREET SHAM SHUI PO (Y21) (SS485)",
-        "name_tc": "深水埗欽州街 (Y21) (SS485)",
-        "name_sc": "深水埗钦州街 (Y21) (SS485)",
+        "name_en": "YEN CHOW STREET SHAM SHUI PO (SS485)",
+        "name_tc": "深水埗欽州街 (SS485)",
+        "name_sc": "深水埗钦州街 (SS485)",
         "lat": "22.332413",
         "long": "114.160366"
     },
@@ -52841,9 +52841,9 @@
     },
     {
         "stop": "FE3B71A48A6B0C30",
-        "name_en": "LAI CHI KOK STATION (X39) (SS240)",
-        "name_tc": "荔枝角站 (X39) (SS240)",
-        "name_sc": "荔枝角站 (X39) (SS240)",
+        "name_en": "LAI CHI KOK STATION (SS240)",
+        "name_tc": "荔枝角站 (SS240)",
+        "name_sc": "荔枝角站 (SS240)",
         "lat": "22.337248",
         "long": "114.148368"
     },
@@ -53041,9 +53041,9 @@
     },
     {
         "stop": "FF3CD465098B03A5",
-        "name_en": "CHEUNG WAH STREET (Y6) (SS470)",
-        "name_tc": "昌華街 (Y6) (SS470)",
-        "name_sc": "昌华街 (Y6) (SS470)",
+        "name_en": "CHEUNG WAH STREET (SS470)",
+        "name_tc": "昌華街 (SS470)",
+        "name_sc": "昌华街 (SS470)",
         "lat": "22.338530",
         "long": "114.151457"
     },
