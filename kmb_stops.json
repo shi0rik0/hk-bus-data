@@ -5584,14 +5584,6 @@
         "long": "113.973925"
     },
     {
-        "stop": "1B3543ED95A64338",
-        "name_en": "WAH SUM ESTATE (ND140)",
-        "name_tc": "華心邨 (ND140)",
-        "name_sc": "华心邨 (ND140)",
-        "lat": "22.485490",
-        "long": "114.142806"
-    },
-    {
         "stop": "1B38FC0124479B7F",
         "name_en": "POTTINGER STREET (CW777)",
         "name_tc": "砵典乍街 (CW777)",
@@ -44222,14 +44214,6 @@
         "name_sc": "祖尧邨商场 (KW430)",
         "lat": "22.346017",
         "long": "114.128420"
-    },
-    {
-        "stop": "D59A5DE108F804DF",
-        "name_en": "CHAK ON ESTATE BUS TERMINUS (SS909)",
-        "name_tc": "澤安邨巴士總站 (SS909)",
-        "name_sc": "泽安邨巴士总站 (SS909)",
-        "lat": "22.340473",
-        "long": "114.164524"
     },
     {
         "stop": "D5A646B379EFFD63",
