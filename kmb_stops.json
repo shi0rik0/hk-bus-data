@@ -80,6 +80,14 @@
         "long": "113.975114"
     },
     {
+        "stop": "005FD6D24F6AFA36",
+        "name_en": "ANDERSON BUS TERMINUS (AN911)",
+        "name_tc": "安達臣總站 (AN911)",
+        "name_sc": "安达臣总站 (AN911)",
+        "lat": "22.328839",
+        "long": "114.233609"
+    },
+    {
         "stop": "0083ED6E0A4B1B04",
         "name_en": "ILLUMINATION TERRACE (ED261)",
         "name_tc": "光明台 (ED261)",
@@ -6960,6 +6968,14 @@
         "long": "114.259550"
     },
     {
+        "stop": "21F97AD41821FC73",
+        "name_en": "ON YU PATH (AN420)",
+        "name_tc": "安愉徑 (AN420)",
+        "name_sc": "安愉径 (AN420)",
+        "lat": "22.320909",
+        "long": "114.238235"
+    },
+    {
         "stop": "21FC719DAF5F9D28",
         "name_en": "TUEN MUN ROAD BBI (A3) (TM756)",
         "name_tc": "屯門公路轉車站 (A3) (TM756)",
@@ -7982,6 +7998,14 @@
         "name_sc": "菲林明道 (WC212)",
         "lat": "22.277774",
         "long": "114.173550"
+    },
+    {
+        "stop": "2643152EC74E1168",
+        "name_en": "SHAM SHUI PO (YEN CHOW STREET) (SS972)",
+        "name_tc": "深水埗(欽州街) (SS972)",
+        "name_sc": "深水埗(钦州街) (SS972)",
+        "lat": "22.331051",
+        "long": "114.159891"
     },
     {
         "stop": "264B29FD223D9C4E",
@@ -13366,6 +13390,14 @@
         "name_sc": "启德体育园",
         "lat": "22.322875",
         "long": "114.193579"
+    },
+    {
+        "stop": "3F64427262A691C1",
+        "name_en": "ON YING COURT (AN620)",
+        "name_tc": "安楹苑 (AN620)",
+        "name_sc": "安楹苑 (AN620)",
+        "lat": "22.326676",
+        "long": "114.233195"
     },
     {
         "stop": "3F68D834013E6E08",
@@ -18942,6 +18974,14 @@
         "name_sc": "荃湾荃富街 (TW231)",
         "lat": "22.367617",
         "long": "114.121892"
+    },
+    {
+        "stop": "5996115DCAE8C603",
+        "name_en": "ON YU PATH (AN600)",
+        "name_tc": "安愉徑 (AN600)",
+        "name_sc": "安愉径 (AN600)",
+        "lat": "22.321008",
+        "long": "114.238017"
     },
     {
         "stop": "5998A11C63EAB82E",
@@ -25740,8 +25780,8 @@
         "name_en": "KAI TAK TUNNEL BBI - KAI FUK ROAD (L1) (KT590)",
         "name_tc": "啟隧轉車站-啟福道(L1) (KT590)",
         "name_sc": "启隧转车站-启福道(L1) (KT590)",
-        "lat": "22.322033",
-        "long": "114.204300"
+        "lat": "22.323065",
+        "long": "114.203197"
     },
     {
         "stop": "7A98D182671B86E1",
@@ -25838,6 +25878,14 @@
         "name_sc": "白牛石",
         "lat": "22.440183",
         "long": "114.125116"
+    },
+    {
+        "stop": "7B0BAF8C626CDF2D",
+        "name_en": "ANDERSON BUS TERMINUS (AN914)",
+        "name_tc": "安達臣總站 (AN914)",
+        "name_sc": "安达臣总站 (AN914)",
+        "lat": "22.328893",
+        "long": "114.233640"
     },
     {
         "stop": "7B0FD0608D0C1A49",
@@ -43934,6 +43982,14 @@
         "name_sc": "畅达路(一号停车场) (CL301)",
         "lat": "22.312875",
         "long": "113.937116"
+    },
+    {
+        "stop": "D456864A2E0933B2",
+        "name_en": "ON YING COURT (AN400)",
+        "name_tc": "安楹苑 (AN400)",
+        "name_sc": "安楹苑 (AN400)",
+        "lat": "22.326128",
+        "long": "114.233619"
     },
     {
         "stop": "D45717E1168534C5",
