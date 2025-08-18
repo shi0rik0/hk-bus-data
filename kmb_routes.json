@@ -8737,9 +8737,9 @@
         "route": "61A",
         "bound": "O",
         "service_type": "1",
-        "orig_en": "TUEN MUN (YAU OI SOUTH)",
-        "orig_tc": "屯門(友愛南)",
-        "orig_sc": "屯门(友爱南)",
+        "orig_en": "TUEN MUN (HOI WING ROAD)",
+        "orig_tc": "屯門(海榮路)",
+        "orig_sc": "屯门(海荣路)",
         "dest_en": "TUEN MUN ROAD BBI - URBAN BOUND",
         "dest_tc": "屯門公路轉車站- 市區方向",
         "dest_sc": "屯门公路转车站- 市区方向"
@@ -8751,17 +8751,17 @@
         "orig_en": "LAI KING (NORTH)",
         "orig_tc": "荔景(北)",
         "orig_sc": "荔景(北)",
-        "dest_en": "TUEN MUN (YAU OI SOUTH)",
-        "dest_tc": "屯門(友愛南)",
-        "dest_sc": "屯门(友爱南)"
+        "dest_en": "TUEN MUN (HOI WING ROAD)",
+        "dest_tc": "屯門(海榮路)",
+        "dest_sc": "屯门(海荣路)"
     },
     {
         "route": "61M",
         "bound": "O",
         "service_type": "1",
-        "orig_en": "TUEN MUN (YAU OI SOUTH)",
-        "orig_tc": "屯門(友愛南)",
-        "orig_sc": "屯门(友爱南)",
+        "orig_en": "TUEN MUN (HOI WING ROAD)",
+        "orig_tc": "屯門(海榮路)",
+        "orig_sc": "屯门(海荣路)",
         "dest_en": "LAI KING (NORTH)",
         "dest_tc": "荔景(北)",
         "dest_sc": "荔景(北)"

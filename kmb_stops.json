@@ -8096,6 +8096,14 @@
         "long": "114.125620"
     },
     {
+        "stop": "26A66C479A0278FC",
+        "name_en": "TUEN MUN (HOI WING ROAD) (TM421)",
+        "name_tc": "屯門(海榮路) (TM421)",
+        "name_sc": "屯门(海荣路) (TM421)",
+        "lat": "22.380927",
+        "long": "113.972213"
+    },
+    {
         "stop": "26A996F589C84844",
         "name_en": "KOWLOON BAY STATION (KT675)",
         "name_tc": "九龍灣站 (KT675)",
@@ -10134,6 +10142,14 @@
         "name_sc": "西洋菜南街 旺角站 (MK342)",
         "lat": "22.320135",
         "long": "114.169894"
+    },
+    {
+        "stop": "30B6E2D8C299ED45",
+        "name_en": "TUEN MUN CENTRAL SQUARE (TM689)",
+        "name_tc": "屯門中央廣場 (TM689)",
+        "name_sc": "屯门中央广场 (TM689)",
+        "lat": "22.381190",
+        "long": "113.972298"
     },
     {
         "stop": "30BF9D28A0DB0551",
@@ -14366,14 +14382,6 @@
         "name_sc": "白田邨瑞田楼 (SS108)",
         "lat": "22.335588",
         "long": "114.168822"
-    },
-    {
-        "stop": "43C6EA95975E21E8",
-        "name_en": "YAU OI (SOUTH) BUS TERMINUS (TM982)",
-        "name_tc": "友愛(南)總站 (TM982)",
-        "name_sc": "友爱(南)总站 (TM982)",
-        "lat": "22.383772",
-        "long": "113.972345"
     },
     {
         "stop": "43C8B0C86DE8805D",
@@ -23624,14 +23632,6 @@
         "long": "114.269767"
     },
     {
-        "stop": "6F4C27D4E845432E",
-        "name_en": "GOLDEN BAUHINIA SQUARE WAN CHAI(2-3/8CatExpo only)",
-        "name_tc": "灣仔金紫荊廣場(2-3/8貓展限定)",
-        "name_sc": "湾仔金紫荆广场(2-3/8猫展限定)",
-        "lat": "22.284272",
-        "long": "114.173972"
-    },
-    {
         "stop": "6F4DAAD065795B4D",
         "name_en": "QUARRY BAY (KING'S ROAD) TERMINUS (ED551)",
         "name_tc": "鰂魚涌（英皇道）總站 (ED551)",
@@ -27096,6 +27096,14 @@
         "long": "114.235884"
     },
     {
+        "stop": "81866FDF3A892313",
+        "name_en": "TUEN MUN (HOI WING ROAD) (TM422)",
+        "name_tc": "屯門(海榮路) (TM422)",
+        "name_sc": "屯门(海荣路) (TM422)",
+        "lat": "22.380856",
+        "long": "113.972046"
+    },
+    {
         "stop": "818CD5D5B9FD5B97",
         "name_en": "KOWLOON STATION BUS TERMINUS (YT940)",
         "name_tc": "九龍站巴士總站 (YT940)",
@@ -28550,14 +28558,6 @@
         "name_sc": "西沙路黄竹湾 (SK311)",
         "lat": "22.397977",
         "long": "114.284001"
-    },
-    {
-        "stop": "8890B5BA8EC088D9",
-        "name_en": "YAU OI (SOUTH) BUS TERMINUS (TM983)",
-        "name_tc": "友愛(南)總站 (TM983)",
-        "name_sc": "友爱(南)总站 (TM983)",
-        "lat": "22.383672",
-        "long": "113.972336"
     },
     {
         "stop": "889783C98226115D",
@@ -50262,14 +50262,6 @@
         "name_sc": "田景邨田裕楼 (TM541)",
         "lat": "22.405517",
         "long": "113.964557"
-    },
-    {
-        "stop": "F31934717DD5DC52",
-        "name_en": "YAU OI (SOUTH) BUS TERMINUS (TM981)",
-        "name_tc": "友愛(南)總站 (TM981)",
-        "name_sc": "友爱(南)总站 (TM981)",
-        "lat": "22.383762",
-        "long": "113.972553"
     },
     {
         "stop": "F31B9B0CD79FCC8F",
