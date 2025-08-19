@@ -2771,6 +2771,16 @@
     },
     {
         "co": "CTB",
+        "route": "976S",
+        "orig_tc": "銅鑼灣 (摩頓台)",
+        "orig_en": "Causeway Bay (Moreton Terrace)",
+        "dest_tc": "落馬洲 (新田)",
+        "dest_en": "Lok Ma Chau (San Tin)",
+        "orig_sc": "铜锣湾 (摩顿台)",
+        "dest_sc": "落马洲 (新田)"
+    },
+    {
+        "co": "CTB",
         "route": "979",
         "orig_tc": "粉嶺皇后山",
         "orig_en": "Queen's Hill Fanling",
