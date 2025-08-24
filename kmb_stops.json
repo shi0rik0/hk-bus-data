@@ -2580,8 +2580,8 @@
         "name_en": "KWUN TONG FERRY (KT935)",
         "name_tc": "觀塘碼頭 (KT935)",
         "name_sc": "观塘码头 (KT935)",
-        "lat": "22.308102",
-        "long": "114.221728"
+        "lat": "22.307715",
+        "long": "114.221616"
     },
     {
         "stop": "0D9F5E10DA9CCE02",
@@ -3084,8 +3084,8 @@
         "name_en": "KWUN TONG FERRY (KT939)",
         "name_tc": "觀塘碼頭 (KT939)",
         "name_sc": "观塘码头 (KT939)",
-        "lat": "22.307814",
-        "long": "114.221860"
+        "lat": "22.307505",
+        "long": "114.221804"
     },
     {
         "stop": "100C82F4AC0F0E05",
@@ -7084,8 +7084,8 @@
         "name_en": "KWUN TONG FERRY (KT931)",
         "name_tc": "觀塘碼頭 (KT931)",
         "name_sc": "观塘码头 (KT931)",
-        "lat": "22.308209",
-        "long": "114.221633"
+        "lat": "22.307963",
+        "long": "114.221485"
     },
     {
         "stop": "225D34B4D891AFB1",
@@ -7636,8 +7636,8 @@
         "name_en": "KWUN TONG FERRY (KT933)",
         "name_tc": "觀塘碼頭 (KT933)",
         "name_sc": "观塘码头 (KT933)",
-        "lat": "22.308139",
-        "long": "114.221698"
+        "lat": "22.307829",
+        "long": "114.221555"
     },
     {
         "stop": "24C3C62F633948AD",
@@ -9380,8 +9380,8 @@
         "name_en": "KWUN TONG FERRY (KT930)",
         "name_tc": "觀塘碼頭 (KT930)",
         "name_sc": "观塘码头 (KT930)",
-        "lat": "22.308306",
-        "long": "114.221694"
+        "lat": "22.308047",
+        "long": "114.221468"
     },
     {
         "stop": "2D3D025684145373",
@@ -9664,14 +9664,6 @@
         "long": "114.150736"
     },
     {
-        "stop": "2ED2AD0C19C9CAAB",
-        "name_en": "KWUN TONG FERRY",
-        "name_tc": "觀塘碼頭",
-        "name_sc": "观塘码头",
-        "lat": "22.307773",
-        "long": "114.221438"
-    },
-    {
         "stop": "2EEB9CB69FB6A58D",
         "name_en": "CHINA HONG KONG CITY, XIQU CENTRE (YT645)",
         "name_tc": "中港城 戲曲中心 (YT645)",
@@ -9924,8 +9916,8 @@
         "name_en": "KWUN TONG FERRY (KT937)",
         "name_tc": "觀塘碼頭 (KT937)",
         "name_sc": "观塘码头 (KT937)",
-        "lat": "22.307929",
-        "long": "114.221795"
+        "lat": "22.307648",
+        "long": "114.221693"
     },
     {
         "stop": "2FD7EBBD4AF78A93",
@@ -17812,8 +17804,8 @@
         "name_en": "KWUN TONG FERRY (KT938)",
         "name_tc": "觀塘碼頭 (KT938)",
         "name_sc": "观塘码头 (KT938)",
-        "lat": "22.307853",
-        "long": "114.221832"
+        "lat": "22.307560",
+        "long": "114.221771"
     },
     {
         "stop": "53FCF9B3DFD6C9F2",
@@ -23668,16 +23660,16 @@
         "name_en": "KWUN TONG FERRY (KT932)",
         "name_tc": "觀塘碼頭 (KT932)",
         "name_sc": "观塘码头 (KT932)",
-        "lat": "22.308179",
-        "long": "114.221665"
+        "lat": "22.307904",
+        "long": "114.221533"
     },
     {
         "stop": "6F666C5235BD859B",
         "name_en": "KWUN TONG FERRY (KT934)",
         "name_tc": "觀塘碼頭 (KT934)",
         "name_sc": "观塘码头 (KT934)",
-        "lat": "22.308102",
-        "long": "114.221728"
+        "lat": "22.307794",
+        "long": "114.221580"
     },
     {
         "stop": "6F755DD7C8AEB1B4",
@@ -29358,14 +29350,6 @@
         "name_sc": "翠石楼 (WT618)",
         "lat": "22.333261",
         "long": "114.207770"
-    },
-    {
-        "stop": "8D0555A78A132018",
-        "name_en": "KWUN TONG FERRY (ALIGHTING STOP)",
-        "name_tc": "觀塘碼頭 (落客站)",
-        "name_sc": "观塘码头 (落客站)",
-        "lat": "22.307430",
-        "long": "114.221682"
     },
     {
         "stop": "8D05916401FE8BCB",
@@ -36960,6 +36944,14 @@
         "long": "114.124570"
     },
     {
+        "stop": "B18F49819CAF37B7",
+        "name_en": "KWUN TONG FERRY (KT942)",
+        "name_tc": "觀塘碼頭 (KT942)",
+        "name_sc": "观塘码头 (KT942)",
+        "lat": "22.307108",
+        "long": "114.222031"
+    },
+    {
         "stop": "B190B4EE3D663C7D",
         "name_en": "LAM TSUEN WISHING TREE FONG MA PO",
         "name_tc": "放馬莆林村許願樹",
@@ -40548,8 +40540,8 @@
         "name_en": "KWUN TONG FERRY (KT940)",
         "name_tc": "觀塘碼頭 (KT940)",
         "name_sc": "观塘码头 (KT940)",
-        "lat": "22.307833",
-        "long": "114.221944"
+        "lat": "22.307459",
+        "long": "114.221842"
     },
     {
         "stop": "C33442BEF9C1B280",
@@ -43428,8 +43420,8 @@
         "name_en": "KWUN TONG FERRY (KT936)",
         "name_tc": "觀塘碼頭 (KT936)",
         "name_sc": "观塘码头 (KT936)",
-        "lat": "22.308004",
-        "long": "114.221800"
+        "lat": "22.307655",
+        "long": "114.221659"
     },
     {
         "stop": "D1F2F468672FB541",
