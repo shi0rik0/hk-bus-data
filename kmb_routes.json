@@ -3664,6 +3664,17 @@
     },
     {
         "route": "269P",
+        "bound": "I",
+        "service_type": "1",
+        "orig_en": "TIN YAN ESTATE",
+        "orig_tc": "天恩邨",
+        "orig_sc": "天恩邨",
+        "dest_en": "KWAI CHUNG (KWAI FONG ESTATE)",
+        "dest_tc": "葵涌(葵芳邨)",
+        "dest_sc": "葵涌(葵芳邨)"
+    },
+    {
+        "route": "269P",
         "bound": "O",
         "service_type": "1",
         "orig_en": "KWAI CHUNG (KWAI FONG ESTATE)",
@@ -6933,9 +6944,9 @@
         "route": "3X",
         "bound": "I",
         "service_type": "1",
-        "orig_en": "JORDAN (WEST KOWLOON STATION)",
-        "orig_tc": "佐敦(西九龍站)",
-        "orig_sc": "佐敦(西九龙站)",
+        "orig_en": "CHINA FERRY TERMINAL",
+        "orig_tc": "中港碼頭",
+        "orig_sc": "中港码头",
         "dest_en": "TSZ WAN SHAN (NORTH)",
         "dest_tc": "慈雲山(北)",
         "dest_sc": "慈云山(北)"
@@ -11364,17 +11375,6 @@
     },
     {
         "route": "84M",
-        "bound": "I",
-        "service_type": "1",
-        "orig_en": "LOK FU",
-        "orig_tc": "樂富",
-        "orig_sc": "乐富",
-        "dest_en": "CHEVALIER GARDEN",
-        "dest_tc": "富安花園",
-        "dest_sc": "富安花园"
-    },
-    {
-        "route": "84M",
         "bound": "O",
         "service_type": "1",
         "orig_en": "CHEVALIER GARDEN",
@@ -11383,6 +11383,28 @@
         "dest_en": "LOK FU",
         "dest_tc": "樂富",
         "dest_sc": "乐富"
+    },
+    {
+        "route": "84M",
+        "bound": "O",
+        "service_type": "2",
+        "orig_en": "CHEVALIER GARDEN",
+        "orig_tc": "富安花園",
+        "orig_sc": "富安花园",
+        "dest_en": "LOK FU, KWONG YUEN & CHEVALIER GARDEN",
+        "dest_tc": "黃大仙，樂富，廣源，富安花園",
+        "dest_sc": "黄大仙，乐富，广源，富安花园"
+    },
+    {
+        "route": "84M",
+        "bound": "O",
+        "service_type": "3",
+        "orig_en": "LOK FU",
+        "orig_tc": "樂富",
+        "orig_sc": "乐富",
+        "dest_en": "CHEVALIER GARDEN",
+        "dest_tc": "富安花園",
+        "dest_sc": "富安花园"
     },
     {
         "route": "85",
@@ -14620,11 +14642,33 @@
     },
     {
         "route": "A43P",
+        "bound": "I",
+        "service_type": "3",
+        "orig_en": "AIRPORT (GROUND TRANSPORTATION CENTRE)",
+        "orig_tc": "機場(地面運輸中心)",
+        "orig_sc": "机场(地面运输中心)",
+        "dest_en": "QUEEN'S HILL",
+        "dest_tc": "皇后山",
+        "dest_sc": "皇后山"
+    },
+    {
+        "route": "A43P",
         "bound": "O",
         "service_type": "1",
         "orig_en": "FANLING (LUEN WO HUI)",
         "orig_tc": "粉嶺(聯和墟)",
         "orig_sc": "粉岭(联和墟)",
+        "dest_en": "AIRPORT (GROUND TRANSPORTATION CENTRE)",
+        "dest_tc": "機場(地面運輸中心)",
+        "dest_sc": "机场(地面运输中心)"
+    },
+    {
+        "route": "A43P",
+        "bound": "O",
+        "service_type": "3",
+        "orig_en": "QUEEN'S HILL",
+        "orig_tc": "皇后山",
+        "orig_sc": "皇后山",
         "dest_en": "AIRPORT (GROUND TRANSPORTATION CENTRE)",
         "dest_tc": "機場(地面運輸中心)",
         "dest_sc": "机场(地面运输中心)"

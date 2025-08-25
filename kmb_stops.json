@@ -14480,6 +14480,14 @@
         "long": "114.042265"
     },
     {
+        "stop": "4455776ABFCD1605",
+        "name_en": "LUNG YEUK TAU",
+        "name_tc": "龍躍頭",
+        "name_sc": "龙跃头",
+        "lat": "22.503705",
+        "long": "114.149464"
+    },
+    {
         "stop": "4459E386C8525C34",
         "name_en": "FA YUEN STREET MARKET, MONG KOK ROAD (MK336)",
         "name_tc": "旺角道 花園街街市 (MK336)",
@@ -18822,6 +18830,14 @@
         "name_sc": "瓦窰头 (SK305)",
         "lat": "22.419956",
         "long": "114.266141"
+    },
+    {
+        "stop": "58BDEDBF06BF314F",
+        "name_en": "QUEEN'S HILL BUS TERMINUS (ND972)",
+        "name_tc": "皇后山總站 (ND972)",
+        "name_sc": "皇后山总站 (ND972)",
+        "lat": "22.504497",
+        "long": "114.156079"
     },
     {
         "stop": "58C01C52768108CC",
@@ -24100,8 +24116,8 @@
         "name_en": "KWUN TONG FERRY (KT941)",
         "name_tc": "觀塘碼頭 (KT941)",
         "name_sc": "观塘码头 (KT941)",
-        "lat": "22.307735",
-        "long": "114.221909"
+        "lat": "22.307147",
+        "long": "114.222113"
     },
     {
         "stop": "7192051038B36F08",
@@ -40352,6 +40368,14 @@
         "long": "114.138528"
     },
     {
+        "stop": "C247F858F91516CF",
+        "name_en": "ON LOK TSUEN",
+        "name_tc": "安樂村",
+        "name_sc": "安乐村",
+        "lat": "22.499857",
+        "long": "114.145735"
+    },
+    {
         "stop": "C24D0D91E47E942E",
         "name_en": "SHAM SHUI PO (YEN CHOW STREET) (SS974)",
         "name_tc": "深水埗(欽州街) (SS974)",
@@ -47974,6 +47998,14 @@
         "name_sc": "安泰总站 (AN901)",
         "lat": "22.326944",
         "long": "114.230431"
+    },
+    {
+        "stop": "E8074D7F42D23647",
+        "name_en": "SHAN LAI COURT",
+        "name_tc": "山麗苑",
+        "name_sc": "山丽苑",
+        "lat": "22.503694",
+        "long": "114.160603"
     },
     {
         "stop": "E80A3E968CCEEFF7",
