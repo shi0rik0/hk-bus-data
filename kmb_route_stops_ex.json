@@ -413,7 +413,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "5D77A5CBE41F2984",
-        "stop_name_tc": "牛池灣轉車站 - 彩虹站 (K2)"
+        "stop_name_tc": "牛池灣轉車站 - 彩虹站 (WT891)"
     },
     {
         "route": "10",
@@ -421,7 +421,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "F6512E7C4A6D5C2E",
-        "stop_name_tc": "牛池灣轉車站 - 丹鳳樓 (J1)"
+        "stop_name_tc": "牛池灣轉車站 - 丹鳳樓 (WT700)"
     },
     {
         "route": "10",
@@ -429,7 +429,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "9AC3AFC5216B9711",
-        "stop_name_tc": "彩虹轉車站 - 錦雲樓 (P1)"
+        "stop_name_tc": "彩虹轉車站 - 錦雲樓 (WT370)"
     },
     {
         "route": "10",
@@ -749,7 +749,7 @@
         "service_type": "1",
         "seq": "44",
         "stop": "64CE8117895E8FAD",
-        "stop_name_tc": "牛池灣轉車站-牛池灣村 (G2)"
+        "stop_name_tc": "牛池灣轉車站-牛池灣村 (WT213)"
     },
     {
         "route": "10",
@@ -757,7 +757,7 @@
         "service_type": "1",
         "seq": "45",
         "stop": "5CD4C77378D3A4AE",
-        "stop_name_tc": "牛池灣轉車站 - 牛池灣街市 (F2)"
+        "stop_name_tc": "牛池灣轉車站 - 牛池灣街市"
     },
     {
         "route": "10",
@@ -2293,7 +2293,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "4A8AAC7402C3F60F",
-        "stop_name_tc": "彩虹轉車站 - 金碧樓 (L2)"
+        "stop_name_tc": "彩虹轉車站 - 金碧樓 (WT346)"
     },
     {
         "route": "101R",
@@ -10765,7 +10765,7 @@
         "service_type": "1",
         "seq": "23",
         "stop": "3BB1407BA61E0A9B",
-        "stop_name_tc": "彩虹轉車站 - 金碧樓 (L1)"
+        "stop_name_tc": "彩虹轉車站 - 金碧樓 (WT345)"
     },
     {
         "route": "111",
@@ -10789,7 +10789,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "917DF4AF0ED7B258",
-        "stop_name_tc": "牛池灣轉車站 - 丹鳳樓 (J2)"
+        "stop_name_tc": "牛池灣轉車站 - 丹鳳樓 (WT701)"
     },
     {
         "route": "111",
@@ -10797,7 +10797,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "92540DF9CB08304C",
-        "stop_name_tc": "彩虹轉車站 - 錦雲樓 (P3)"
+        "stop_name_tc": "彩虹轉車站 - 錦雲樓 (WT372)"
     },
     {
         "route": "111",
@@ -11109,7 +11109,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "3BB1407BA61E0A9B",
-        "stop_name_tc": "彩虹轉車站 - 金碧樓 (L1)"
+        "stop_name_tc": "彩虹轉車站 - 金碧樓 (WT345)"
     },
     {
         "route": "111P",
@@ -11965,7 +11965,7 @@
         "service_type": "1",
         "seq": "37",
         "stop": "5169C5ACEA8B1746",
-        "stop_name_tc": "彩虹轉車站- 碧海樓 (M1)"
+        "stop_name_tc": "彩虹轉車站- 碧海樓 (WT340)"
     },
     {
         "route": "113",
@@ -11973,7 +11973,7 @@
         "service_type": "1",
         "seq": "38",
         "stop": "4FDB108B1B5186DF",
-        "stop_name_tc": "彩虹轉車站 - 彩虹總站 (N3)"
+        "stop_name_tc": "彩虹轉車站 - 彩虹總站 (WT992)"
     },
     {
         "route": "113",
@@ -11981,7 +11981,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "4FDB108B1B5186DF",
-        "stop_name_tc": "彩虹轉車站 - 彩虹總站 (N3)"
+        "stop_name_tc": "彩虹轉車站 - 彩虹總站 (WT992)"
     },
     {
         "route": "113",
@@ -11997,7 +11997,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "AA2D8DCDD78651B0",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (C2)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "113",
@@ -15661,7 +15661,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "F6512E7C4A6D5C2E",
-        "stop_name_tc": "牛池灣轉車站 - 丹鳳樓 (J1)"
+        "stop_name_tc": "牛池灣轉車站 - 丹鳳樓 (WT700)"
     },
     {
         "route": "11C",
@@ -15669,7 +15669,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "9AC3AFC5216B9711",
-        "stop_name_tc": "彩虹轉車站 - 錦雲樓 (P1)"
+        "stop_name_tc": "彩虹轉車站 - 錦雲樓 (WT370)"
     },
     {
         "route": "11C",
@@ -15773,7 +15773,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "9FD865B00B2D54A1",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (B5)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "11C",
@@ -15781,7 +15781,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "A15FFC3149FB92A0",
-        "stop_name_tc": "黃大仙轉車站 - 沙田坳道 (A2)"
+        "stop_name_tc": "黃大仙轉車站 - 沙田坳道"
     },
     {
         "route": "11C",
@@ -15805,7 +15805,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "3BB1407BA61E0A9B",
-        "stop_name_tc": "彩虹轉車站 - 金碧樓 (L1)"
+        "stop_name_tc": "彩虹轉車站 - 金碧樓 (WT345)"
     },
     {
         "route": "11C",
@@ -21765,7 +21765,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "9241EFF6313B41E8",
-        "stop_name_tc": "彩虹轉車站 - 彩虹總站 (N7)"
+        "stop_name_tc": "彩虹轉車站 - 彩虹總站 (WT996)"
     },
     {
         "route": "14D",
@@ -21773,7 +21773,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "5CD4C77378D3A4AE",
-        "stop_name_tc": "牛池灣轉車站 - 牛池灣街市 (F2)"
+        "stop_name_tc": "牛池灣轉車站 - 牛池灣街市"
     },
     {
         "route": "14D",
@@ -22093,7 +22093,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "54733D2BB5BE7121",
-        "stop_name_tc": "牛池灣轉車站 - 彩虹站 (K6)"
+        "stop_name_tc": "牛池灣轉車站 - 彩虹站 (WT895)"
     },
     {
         "route": "14D",
@@ -22101,7 +22101,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "9241EFF6313B41E8",
-        "stop_name_tc": "彩虹轉車站 - 彩虹總站 (N7)"
+        "stop_name_tc": "彩虹轉車站 - 彩虹總站 (WT996)"
     },
     {
         "route": "14D",
@@ -22253,7 +22253,7 @@
         "service_type": "2",
         "seq": "19",
         "stop": "54733D2BB5BE7121",
-        "stop_name_tc": "牛池灣轉車站 - 彩虹站 (K6)"
+        "stop_name_tc": "牛池灣轉車站 - 彩虹站 (WT895)"
     },
     {
         "route": "14D",
@@ -22261,7 +22261,7 @@
         "service_type": "2",
         "seq": "20",
         "stop": "9241EFF6313B41E8",
-        "stop_name_tc": "彩虹轉車站 - 彩虹總站 (N7)"
+        "stop_name_tc": "彩虹轉車站 - 彩虹總站 (WT996)"
     },
     {
         "route": "14H",
@@ -23445,7 +23445,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "279C78D8C04A83BB",
-        "stop_name_tc": "彩虹轉車站 - 碧海樓 (M3)"
+        "stop_name_tc": "彩虹轉車站 - 碧海樓 (WT342)"
     },
     {
         "route": "15A",
@@ -23781,7 +23781,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "AD0B5EFA2471962C",
-        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (H7)"
+        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (WT709)"
     },
     {
         "route": "15A",
@@ -30061,7 +30061,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "2EFDB1EADF5955E6",
-        "stop_name_tc": "牛池灣轉車站 - 牛池灣村 (G3)"
+        "stop_name_tc": "牛池灣轉車站 - 牛池灣村"
     },
     {
         "route": "19",
@@ -30069,7 +30069,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "E7116B44D9E9393A",
-        "stop_name_tc": "牛池灣轉車站 - 彩雲聖若瑟 (E1)"
+        "stop_name_tc": "牛池灣轉車站 - 彩雲聖若瑟"
     },
     {
         "route": "19",
@@ -30157,7 +30157,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "5D77A5CBE41F2984",
-        "stop_name_tc": "牛池灣轉車站 - 彩虹站 (K2)"
+        "stop_name_tc": "牛池灣轉車站 - 彩虹站 (WT891)"
     },
     {
         "route": "19",
@@ -30165,7 +30165,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "AB194503D9CC9465",
-        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (H1)"
+        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (WT703)"
     },
     {
         "route": "19",
@@ -31797,7 +31797,7 @@
         "service_type": "1",
         "seq": "26",
         "stop": "5169C5ACEA8B1746",
-        "stop_name_tc": "彩虹轉車站- 碧海樓 (M1)"
+        "stop_name_tc": "彩虹轉車站- 碧海樓 (WT340)"
     },
     {
         "route": "203E",
@@ -31805,7 +31805,7 @@
         "service_type": "1",
         "seq": "27",
         "stop": "55DFA7DF300865AF",
-        "stop_name_tc": "彩虹轉車站 - 彩虹總站 (N1)"
+        "stop_name_tc": "彩虹轉車站 - 彩虹總站 (WT990)"
     },
     {
         "route": "203E",
@@ -31813,7 +31813,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "55DFA7DF300865AF",
-        "stop_name_tc": "彩虹轉車站 - 彩虹總站 (N1)"
+        "stop_name_tc": "彩虹轉車站 - 彩虹總站 (WT990)"
     },
     {
         "route": "203E",
@@ -32701,7 +32701,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "87825C8E4FE99CD8",
-        "stop_name_tc": "彩虹轉車站 - 碧海樓 (M2)"
+        "stop_name_tc": "彩虹轉車站 - 碧海樓 (WT341)"
     },
     {
         "route": "21",
@@ -32709,7 +32709,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "5CD4C77378D3A4AE",
-        "stop_name_tc": "牛池灣轉車站 - 牛池灣街市 (F2)"
+        "stop_name_tc": "牛池灣轉車站 - 牛池灣街市"
     },
     {
         "route": "21",
@@ -32749,7 +32749,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "93E0033436973DA7",
-        "stop_name_tc": "牛池灣轉車站 - 彩虹站 (K3)"
+        "stop_name_tc": "牛池灣轉車站 - 彩虹站 (WT892)"
     },
     {
         "route": "21",
@@ -32757,7 +32757,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "F6512E7C4A6D5C2E",
-        "stop_name_tc": "牛池灣轉車站 - 丹鳳樓 (J1)"
+        "stop_name_tc": "牛池灣轉車站 - 丹鳳樓 (WT700)"
     },
     {
         "route": "21",
@@ -32765,7 +32765,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "92540DF9CB08304C",
-        "stop_name_tc": "彩虹轉車站 - 錦雲樓 (P3)"
+        "stop_name_tc": "彩虹轉車站 - 錦雲樓 (WT372)"
     },
     {
         "route": "21",
@@ -32949,7 +32949,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "A7ACF96685132360",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (B1)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "211",
@@ -33165,7 +33165,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "29B66F2353388E18",
-        "stop_name_tc": "牛池灣轉車站 - 彩虹站 (K7)"
+        "stop_name_tc": "牛池灣轉車站 - 彩虹站 (WT896)"
     },
     {
         "route": "213B",
@@ -33301,7 +33301,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "29B66F2353388E18",
-        "stop_name_tc": "牛池灣轉車站 - 彩虹站 (K7)"
+        "stop_name_tc": "牛池灣轉車站 - 彩虹站 (WT896)"
     },
     {
         "route": "213D",
@@ -33461,7 +33461,7 @@
         "service_type": "1",
         "seq": "31",
         "stop": "E7116B44D9E9393A",
-        "stop_name_tc": "牛池灣轉車站 - 彩雲聖若瑟 (E1)"
+        "stop_name_tc": "牛池灣轉車站 - 彩雲聖若瑟"
     },
     {
         "route": "213D",
@@ -34653,7 +34653,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "9FD865B00B2D54A1",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (B5)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "214",
@@ -34661,7 +34661,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "A15FFC3149FB92A0",
-        "stop_name_tc": "黃大仙轉車站 - 沙田坳道 (A2)"
+        "stop_name_tc": "黃大仙轉車站 - 沙田坳道"
     },
     {
         "route": "214",
@@ -34677,7 +34677,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "2EFDB1EADF5955E6",
-        "stop_name_tc": "牛池灣轉車站 - 牛池灣村 (G3)"
+        "stop_name_tc": "牛池灣轉車站 - 牛池灣村"
     },
     {
         "route": "214",
@@ -34685,7 +34685,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "E7116B44D9E9393A",
-        "stop_name_tc": "牛池灣轉車站 - 彩雲聖若瑟 (E1)"
+        "stop_name_tc": "牛池灣轉車站 - 彩雲聖若瑟"
     },
     {
         "route": "214",
@@ -34957,7 +34957,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "29B66F2353388E18",
-        "stop_name_tc": "牛池灣轉車站 - 彩虹站 (K7)"
+        "stop_name_tc": "牛池灣轉車站 - 彩虹站 (WT896)"
     },
     {
         "route": "214",
@@ -34973,7 +34973,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "62A1C8EFAC876BDB",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (D2)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "214",
@@ -35157,7 +35157,7 @@
         "service_type": "2",
         "seq": "8",
         "stop": "29B66F2353388E18",
-        "stop_name_tc": "牛池灣轉車站 - 彩虹站 (K7)"
+        "stop_name_tc": "牛池灣轉車站 - 彩虹站 (WT896)"
     },
     {
         "route": "214",
@@ -35173,7 +35173,7 @@
         "service_type": "2",
         "seq": "10",
         "stop": "62A1C8EFAC876BDB",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (D2)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "214",
@@ -35341,7 +35341,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "29B66F2353388E18",
-        "stop_name_tc": "牛池灣轉車站 - 彩虹站 (K7)"
+        "stop_name_tc": "牛池灣轉車站 - 彩虹站 (WT896)"
     },
     {
         "route": "214P",
@@ -35357,7 +35357,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "62A1C8EFAC876BDB",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (D2)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "214P",
@@ -36965,7 +36965,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "917DF4AF0ED7B258",
-        "stop_name_tc": "牛池灣轉車站 - 丹鳳樓 (J2)"
+        "stop_name_tc": "牛池灣轉車站 - 丹鳳樓 (WT701)"
     },
     {
         "route": "224R",
@@ -39237,7 +39237,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "62A1C8EFAC876BDB",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (D2)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "234D",
@@ -39589,7 +39589,7 @@
         "service_type": "1",
         "seq": "24",
         "stop": "96A6FE5F07BDF203",
-        "stop_name_tc": "黃大仙轉車站 - 沙田坳道 (A1)"
+        "stop_name_tc": "黃大仙轉車站 - 沙田坳道"
     },
     {
         "route": "234D",
@@ -46181,7 +46181,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "AA6F0A2661759A49",
-        "stop_name_tc": "牛池灣轉車站 - 丹鳳樓 (J3)"
+        "stop_name_tc": "牛池灣轉車站 - 丹鳳樓 (WT702)"
     },
     {
         "route": "252X",
@@ -46197,7 +46197,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "0EAFBD8737911A6A",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (D3)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "252X",
@@ -46525,7 +46525,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "B27236FC63F891D9",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (B3)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "252X",
@@ -46541,7 +46541,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "D80313EC29620E1D",
-        "stop_name_tc": "彩虹轉車站 - 碧海樓 (M5)"
+        "stop_name_tc": "彩虹轉車站 - 碧海樓 (WT344)"
     },
     {
         "route": "252X",
@@ -46709,7 +46709,7 @@
         "service_type": "2",
         "seq": "14",
         "stop": "B27236FC63F891D9",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (B3)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "252X",
@@ -46725,7 +46725,7 @@
         "service_type": "2",
         "seq": "16",
         "stop": "D80313EC29620E1D",
-        "stop_name_tc": "彩虹轉車站 - 碧海樓 (M5)"
+        "stop_name_tc": "彩虹轉車站 - 碧海樓 (WT344)"
     },
     {
         "route": "252X",
@@ -46925,7 +46925,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "5536C9E3A0CE1228",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (B6)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "258A",
@@ -46933,7 +46933,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "A15FFC3149FB92A0",
-        "stop_name_tc": "黃大仙轉車站 - 沙田坳道 (A2)"
+        "stop_name_tc": "黃大仙轉車站 - 沙田坳道"
     },
     {
         "route": "258A",
@@ -46949,7 +46949,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "D80313EC29620E1D",
-        "stop_name_tc": "彩虹轉車站 - 碧海樓 (M5)"
+        "stop_name_tc": "彩虹轉車站 - 碧海樓 (WT344)"
     },
     {
         "route": "258A",
@@ -47077,7 +47077,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "AA6F0A2661759A49",
-        "stop_name_tc": "牛池灣轉車站 - 丹鳳樓 (J3)"
+        "stop_name_tc": "牛池灣轉車站 - 丹鳳樓 (WT702)"
     },
     {
         "route": "258D",
@@ -47093,7 +47093,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "0EAFBD8737911A6A",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (D3)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "258D",
@@ -47357,7 +47357,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "9FD865B00B2D54A1",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (B5)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "258D",
@@ -47365,7 +47365,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "A15FFC3149FB92A0",
-        "stop_name_tc": "黃大仙轉車站 - 沙田坳道 (A2)"
+        "stop_name_tc": "黃大仙轉車站 - 沙田坳道"
     },
     {
         "route": "258D",
@@ -47381,7 +47381,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "279C78D8C04A83BB",
-        "stop_name_tc": "彩虹轉車站 - 碧海樓 (M3)"
+        "stop_name_tc": "彩虹轉車站 - 碧海樓 (WT342)"
     },
     {
         "route": "258D",
@@ -47517,7 +47517,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "AA6F0A2661759A49",
-        "stop_name_tc": "牛池灣轉車站 - 丹鳳樓 (J3)"
+        "stop_name_tc": "牛池灣轉車站 - 丹鳳樓 (WT702)"
     },
     {
         "route": "258P",
@@ -47533,7 +47533,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "0EAFBD8737911A6A",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (D3)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "258P",
@@ -47877,7 +47877,7 @@
         "service_type": "1",
         "seq": "23",
         "stop": "5536C9E3A0CE1228",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (B6)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "258P",
@@ -47885,7 +47885,7 @@
         "service_type": "1",
         "seq": "24",
         "stop": "A15FFC3149FB92A0",
-        "stop_name_tc": "黃大仙轉車站 - 沙田坳道 (A2)"
+        "stop_name_tc": "黃大仙轉車站 - 沙田坳道"
     },
     {
         "route": "258P",
@@ -47901,7 +47901,7 @@
         "service_type": "1",
         "seq": "26",
         "stop": "D80313EC29620E1D",
-        "stop_name_tc": "彩虹轉車站 - 碧海樓 (M5)"
+        "stop_name_tc": "彩虹轉車站 - 碧海樓 (WT344)"
     },
     {
         "route": "258P",
@@ -48045,7 +48045,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "5536C9E3A0CE1228",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (B6)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "258S",
@@ -48053,7 +48053,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "A15FFC3149FB92A0",
-        "stop_name_tc": "黃大仙轉車站 - 沙田坳道 (A2)"
+        "stop_name_tc": "黃大仙轉車站 - 沙田坳道"
     },
     {
         "route": "258S",
@@ -48069,7 +48069,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "D80313EC29620E1D",
-        "stop_name_tc": "彩虹轉車站 - 碧海樓 (M5)"
+        "stop_name_tc": "彩虹轉車站 - 碧海樓 (WT344)"
     },
     {
         "route": "258S",
@@ -48173,7 +48173,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "0EAFBD8737911A6A",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (D3)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "258X",
@@ -48741,7 +48741,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "AA6F0A2661759A49",
-        "stop_name_tc": "牛池灣轉車站 - 丹鳳樓 (J3)"
+        "stop_name_tc": "牛池灣轉車站 - 丹鳳樓 (WT702)"
     },
     {
         "route": "259D",
@@ -48757,7 +48757,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "0EAFBD8737911A6A",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (D3)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "259D",
@@ -48981,7 +48981,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "38330C642568FE3F",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (B4)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "259D",
@@ -48989,7 +48989,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "A15FFC3149FB92A0",
-        "stop_name_tc": "黃大仙轉車站 - 沙田坳道 (A2)"
+        "stop_name_tc": "黃大仙轉車站 - 沙田坳道"
     },
     {
         "route": "259D",
@@ -49005,7 +49005,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "279C78D8C04A83BB",
-        "stop_name_tc": "彩虹轉車站 - 碧海樓 (M3)"
+        "stop_name_tc": "彩虹轉車站 - 碧海樓 (WT342)"
     },
     {
         "route": "259D",
@@ -49181,7 +49181,7 @@
         "service_type": "3",
         "seq": "12",
         "stop": "38330C642568FE3F",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (B4)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "259D",
@@ -49189,7 +49189,7 @@
         "service_type": "3",
         "seq": "13",
         "stop": "A15FFC3149FB92A0",
-        "stop_name_tc": "黃大仙轉車站 - 沙田坳道 (A2)"
+        "stop_name_tc": "黃大仙轉車站 - 沙田坳道"
     },
     {
         "route": "259D",
@@ -49205,7 +49205,7 @@
         "service_type": "3",
         "seq": "15",
         "stop": "279C78D8C04A83BB",
-        "stop_name_tc": "彩虹轉車站 - 碧海樓 (M3)"
+        "stop_name_tc": "彩虹轉車站 - 碧海樓 (WT342)"
     },
     {
         "route": "259D",
@@ -49661,7 +49661,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "0EAFBD8737911A6A",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (D3)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "259X",
@@ -49765,7 +49765,7 @@
         "service_type": "3",
         "seq": "4",
         "stop": "0EAFBD8737911A6A",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (D3)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "259X",
@@ -50149,7 +50149,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "5CD4C77378D3A4AE",
-        "stop_name_tc": "牛池灣轉車站 - 牛池灣街市 (F2)"
+        "stop_name_tc": "牛池灣轉車站 - 牛池灣街市"
     },
     {
         "route": "26",
@@ -50157,7 +50157,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "F065C32E9D2CB689",
-        "stop_name_tc": "牛池灣轉車站 - 彩雲聖若瑟(E2)"
+        "stop_name_tc": "牛池灣轉車站 - 彩雲聖若瑟"
     },
     {
         "route": "26",
@@ -50261,7 +50261,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "29B66F2353388E18",
-        "stop_name_tc": "牛池灣轉車站 - 彩虹站 (K7)"
+        "stop_name_tc": "牛池灣轉車站 - 彩虹站 (WT896)"
     },
     {
         "route": "26",
@@ -56277,7 +56277,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "AA6F0A2661759A49",
-        "stop_name_tc": "牛池灣轉車站 - 丹鳳樓 (J3)"
+        "stop_name_tc": "牛池灣轉車站 - 丹鳳樓 (WT702)"
     },
     {
         "route": "267X",
@@ -56293,7 +56293,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "0EAFBD8737911A6A",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (D3)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "267X",
@@ -56525,7 +56525,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "B27236FC63F891D9",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (B3)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "267X",
@@ -56541,7 +56541,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "D80313EC29620E1D",
-        "stop_name_tc": "彩虹轉車站 - 碧海樓 (M5)"
+        "stop_name_tc": "彩虹轉車站 - 碧海樓 (WT344)"
     },
     {
         "route": "267X",
@@ -56917,7 +56917,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "7917BB962CCB11C0",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (C3)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "268A",
@@ -57117,7 +57117,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "5536C9E3A0CE1228",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (B6)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "268A",
@@ -57125,7 +57125,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "96A6FE5F07BDF203",
-        "stop_name_tc": "黃大仙轉車站 - 沙田坳道 (A1)"
+        "stop_name_tc": "黃大仙轉車站 - 沙田坳道"
     },
     {
         "route": "268A",
@@ -57141,7 +57141,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "D80313EC29620E1D",
-        "stop_name_tc": "彩虹轉車站 - 碧海樓 (M5)"
+        "stop_name_tc": "彩虹轉車站 - 碧海樓 (WT344)"
     },
     {
         "route": "268A",
@@ -57829,7 +57829,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "AA6F0A2661759A49",
-        "stop_name_tc": "牛池灣轉車站 - 丹鳳樓 (J3)"
+        "stop_name_tc": "牛池灣轉車站 - 丹鳳樓 (WT702)"
     },
     {
         "route": "268C",
@@ -57853,7 +57853,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "7917BB962CCB11C0",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (C3)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "268C",
@@ -58013,7 +58013,7 @@
         "service_type": "2",
         "seq": "5",
         "stop": "AA6F0A2661759A49",
-        "stop_name_tc": "牛池灣轉車站 - 丹鳳樓 (J3)"
+        "stop_name_tc": "牛池灣轉車站 - 丹鳳樓 (WT702)"
     },
     {
         "route": "268C",
@@ -58037,7 +58037,7 @@
         "service_type": "2",
         "seq": "8",
         "stop": "7917BB962CCB11C0",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (C3)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "268C",
@@ -58237,7 +58237,7 @@
         "service_type": "4",
         "seq": "10",
         "stop": "AA6F0A2661759A49",
-        "stop_name_tc": "牛池灣轉車站 - 丹鳳樓 (J3)"
+        "stop_name_tc": "牛池灣轉車站 - 丹鳳樓 (WT702)"
     },
     {
         "route": "268C",
@@ -58253,7 +58253,7 @@
         "service_type": "4",
         "seq": "12",
         "stop": "7917BB962CCB11C0",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (C3)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "268C",
@@ -58509,7 +58509,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "38330C642568FE3F",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (B4)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "268C",
@@ -58517,7 +58517,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "96A6FE5F07BDF203",
-        "stop_name_tc": "黃大仙轉車站 - 沙田坳道 (A1)"
+        "stop_name_tc": "黃大仙轉車站 - 沙田坳道"
     },
     {
         "route": "268C",
@@ -58533,7 +58533,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "EDDE9311F49AC296",
-        "stop_name_tc": "彩虹轉車站 -碧海樓 (M4)"
+        "stop_name_tc": "彩虹轉車站 -碧海樓 (WT343)"
     },
     {
         "route": "268C",
@@ -58717,7 +58717,7 @@
         "service_type": "2",
         "seq": "15",
         "stop": "38330C642568FE3F",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (B4)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "268C",
@@ -58725,7 +58725,7 @@
         "service_type": "2",
         "seq": "16",
         "stop": "96A6FE5F07BDF203",
-        "stop_name_tc": "黃大仙轉車站 - 沙田坳道 (A1)"
+        "stop_name_tc": "黃大仙轉車站 - 沙田坳道"
     },
     {
         "route": "268C",
@@ -58741,7 +58741,7 @@
         "service_type": "2",
         "seq": "18",
         "stop": "EDDE9311F49AC296",
-        "stop_name_tc": "彩虹轉車站 -碧海樓 (M4)"
+        "stop_name_tc": "彩虹轉車站 -碧海樓 (WT343)"
     },
     {
         "route": "268C",
@@ -58997,7 +58997,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "7917BB962CCB11C0",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (C3)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "268P",
@@ -59157,7 +59157,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "96A6FE5F07BDF203",
-        "stop_name_tc": "黃大仙轉車站 - 沙田坳道 (A1)"
+        "stop_name_tc": "黃大仙轉車站 - 沙田坳道"
     },
     {
         "route": "268P",
@@ -59694,158 +59694,6 @@
         "seq": "16",
         "stop": "DE620CFFEE15A211",
         "stop_name_tc": "佐敦(西九龍站)巴士總站 (YT955)"
-    },
-    {
-        "route": "269A",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "1",
-        "stop": "71D916F7E97D18A3",
-        "stop_name_tc": "濕地公園路 (TN400)"
-    },
-    {
-        "route": "269A",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "2",
-        "stop": "42AEF6365E78DA56",
-        "stop_name_tc": "香港濕地公園 (TN402)"
-    },
-    {
-        "route": "269A",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "3",
-        "stop": "8753A8442C2FFF53",
-        "stop_name_tc": "天逸邨逸潭樓 (TN501)"
-    },
-    {
-        "route": "269A",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "4",
-        "stop": "1BE574CAE40EFF17",
-        "stop_name_tc": "天逸邨逸洋樓 (TN521)"
-    },
-    {
-        "route": "269A",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "5",
-        "stop": "797CC0222B9EFBEF",
-        "stop_name_tc": "天晴邨晴碧樓 (TN522)"
-    },
-    {
-        "route": "269A",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "6",
-        "stop": "308112BE50081258",
-        "stop_name_tc": "香港青年協會李兆基書院 (TN533)"
-    },
-    {
-        "route": "269A",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "7",
-        "stop": "D2425B7147B58E1D",
-        "stop_name_tc": "美湖居 (TN535)"
-    },
-    {
-        "route": "269A",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "8",
-        "stop": "A4607B71730E8F46",
-        "stop_name_tc": "景湖居 (TN602)"
-    },
-    {
-        "route": "269A",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "9",
-        "stop": "3ECEF3B735084236",
-        "stop_name_tc": "大欖隧道轉車站 (A5) (YL791)"
-    },
-    {
-        "route": "269A",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "10",
-        "stop": "7E2E1F1269E520DE",
-        "stop_name_tc": "大欖隧道轉車站 (A4) (YL792)"
-    },
-    {
-        "route": "269A",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "11",
-        "stop": "ED364A58F885DC92",
-        "stop_name_tc": "荃景圍天橋 (TW378)"
-    },
-    {
-        "route": "269A",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "12",
-        "stop": "D6C06E7091666AB4",
-        "stop_name_tc": "愉景新城 (TW383)"
-    },
-    {
-        "route": "269A",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "13",
-        "stop": "F8D8D0AED9889278",
-        "stop_name_tc": "荃灣站 (TW386)"
-    },
-    {
-        "route": "269A",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "14",
-        "stop": "2D33D39F61B74C5D",
-        "stop_name_tc": "荃灣眾安街 (TW388)"
-    },
-    {
-        "route": "269A",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "15",
-        "stop": "AAB411C52D067AD1",
-        "stop_name_tc": "大窩口轉車站 -大窩口站 (A2)"
-    },
-    {
-        "route": "269A",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "16",
-        "stop": "558D298696B57A4D",
-        "stop_name_tc": "昌榮路迴旋處 (KW398)"
-    },
-    {
-        "route": "269A",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "17",
-        "stop": "0E65D3EC41A1D34B",
-        "stop_name_tc": "葵俊苑 (KW454)"
-    },
-    {
-        "route": "269A",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "18",
-        "stop": "4E3FEA4E559A5D16",
-        "stop_name_tc": "新葵興花園 (KW458)"
-    },
-    {
-        "route": "269A",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "19",
-        "stop": "DA17B01A4A61A358",
-        "stop_name_tc": "葵芳邨 (KW462)"
     },
     {
         "route": "269B",
@@ -60445,7 +60293,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "AA6F0A2661759A49",
-        "stop_name_tc": "牛池灣轉車站 - 丹鳳樓 (J3)"
+        "stop_name_tc": "牛池灣轉車站 - 丹鳳樓 (WT702)"
     },
     {
         "route": "269C",
@@ -60469,7 +60317,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "7917BB962CCB11C0",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (C3)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "269C",
@@ -60733,7 +60581,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "38330C642568FE3F",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (B4)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "269C",
@@ -60741,7 +60589,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "96A6FE5F07BDF203",
-        "stop_name_tc": "黃大仙轉車站 - 沙田坳道 (A1)"
+        "stop_name_tc": "黃大仙轉車站 - 沙田坳道"
     },
     {
         "route": "269C",
@@ -60757,7 +60605,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "EDDE9311F49AC296",
-        "stop_name_tc": "彩虹轉車站 -碧海樓 (M4)"
+        "stop_name_tc": "彩虹轉車站 -碧海樓 (WT343)"
     },
     {
         "route": "269C",
@@ -60917,7 +60765,7 @@
         "service_type": "5",
         "seq": "12",
         "stop": "38330C642568FE3F",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (B4)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "269C",
@@ -60925,7 +60773,7 @@
         "service_type": "5",
         "seq": "13",
         "stop": "96A6FE5F07BDF203",
-        "stop_name_tc": "黃大仙轉車站 - 沙田坳道 (A1)"
+        "stop_name_tc": "黃大仙轉車站 - 沙田坳道"
     },
     {
         "route": "269C",
@@ -60941,7 +60789,7 @@
         "service_type": "5",
         "seq": "15",
         "stop": "EDDE9311F49AC296",
-        "stop_name_tc": "彩虹轉車站 -碧海樓 (M4)"
+        "stop_name_tc": "彩虹轉車站 -碧海樓 (WT343)"
     },
     {
         "route": "269C",
@@ -62517,7 +62365,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "7917BB962CCB11C0",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (C3)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "269S",
@@ -62661,7 +62509,7 @@
         "service_type": "2",
         "seq": "6",
         "stop": "7917BB962CCB11C0",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (C3)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "269S",
@@ -62853,7 +62701,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "96A6FE5F07BDF203",
-        "stop_name_tc": "黃大仙轉車站 - 沙田坳道 (A1)"
+        "stop_name_tc": "黃大仙轉車站 - 沙田坳道"
     },
     {
         "route": "269S",
@@ -62997,7 +62845,7 @@
         "service_type": "2",
         "seq": "12",
         "stop": "96A6FE5F07BDF203",
-        "stop_name_tc": "黃大仙轉車站 - 沙田坳道 (A1)"
+        "stop_name_tc": "黃大仙轉車站 - 沙田坳道"
     },
     {
         "route": "269S",
@@ -63397,7 +63245,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "2CFA2F3EA6304C56",
-        "stop_name_tc": "彩虹轉車站 - 彩虹總站 (N4)"
+        "stop_name_tc": "彩虹轉車站 - 彩虹總站 (WT993)"
     },
     {
         "route": "26M",
@@ -63405,7 +63253,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "4513DF30B4CBA349",
-        "stop_name_tc": "牛池灣轉車站 - 牛池灣街市 (F1)"
+        "stop_name_tc": "牛池灣轉車站 - 牛池灣街市"
     },
     {
         "route": "26M",
@@ -63413,7 +63261,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "F065C32E9D2CB689",
-        "stop_name_tc": "牛池灣轉車站 - 彩雲聖若瑟(E2)"
+        "stop_name_tc": "牛池灣轉車站 - 彩雲聖若瑟"
     },
     {
         "route": "26M",
@@ -63581,7 +63429,7 @@
         "service_type": "1",
         "seq": "24",
         "stop": "54733D2BB5BE7121",
-        "stop_name_tc": "牛池灣轉車站 - 彩虹站 (K6)"
+        "stop_name_tc": "牛池灣轉車站 - 彩虹站 (WT895)"
     },
     {
         "route": "26M",
@@ -63589,7 +63437,7 @@
         "service_type": "1",
         "seq": "25",
         "stop": "917DF4AF0ED7B258",
-        "stop_name_tc": "牛池灣轉車站 - 丹鳳樓 (J2)"
+        "stop_name_tc": "牛池灣轉車站 - 丹鳳樓 (WT701)"
     },
     {
         "route": "26M",
@@ -63597,7 +63445,7 @@
         "service_type": "1",
         "seq": "26",
         "stop": "2CFA2F3EA6304C56",
-        "stop_name_tc": "彩虹轉車站 - 彩虹總站 (N4)"
+        "stop_name_tc": "彩虹轉車站 - 彩虹總站 (WT993)"
     },
     {
         "route": "26X",
@@ -63693,7 +63541,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "5CD4C77378D3A4AE",
-        "stop_name_tc": "牛池灣轉車站 - 牛池灣街市 (F2)"
+        "stop_name_tc": "牛池灣轉車站 - 牛池灣街市"
     },
     {
         "route": "26X",
@@ -63701,7 +63549,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "F065C32E9D2CB689",
-        "stop_name_tc": "牛池灣轉車站 - 彩雲聖若瑟(E2)"
+        "stop_name_tc": "牛池灣轉車站 - 彩雲聖若瑟"
     },
     {
         "route": "26X",
@@ -63805,7 +63653,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "29B66F2353388E18",
-        "stop_name_tc": "牛池灣轉車站 - 彩虹站 (K7)"
+        "stop_name_tc": "牛池灣轉車站 - 彩虹站 (WT896)"
     },
     {
         "route": "26X",
@@ -63933,7 +63781,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "29B66F2353388E18",
-        "stop_name_tc": "牛池灣轉車站 - 彩虹站 (K7)"
+        "stop_name_tc": "牛池灣轉車站 - 彩虹站 (WT896)"
     },
     {
         "route": "27",
@@ -64101,7 +63949,7 @@
         "service_type": "1",
         "seq": "28",
         "stop": "4513DF30B4CBA349",
-        "stop_name_tc": "牛池灣轉車站 - 牛池灣街市 (F1)"
+        "stop_name_tc": "牛池灣轉車站 - 牛池灣街市"
     },
     {
         "route": "27",
@@ -64109,7 +63957,7 @@
         "service_type": "1",
         "seq": "29",
         "stop": "F065C32E9D2CB689",
-        "stop_name_tc": "牛池灣轉車站 - 彩雲聖若瑟(E2)"
+        "stop_name_tc": "牛池灣轉車站 - 彩雲聖若瑟"
     },
     {
         "route": "27",
@@ -75885,7 +75733,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "AD0B5EFA2471962C",
-        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (H7)"
+        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (WT709)"
     },
     {
         "route": "277A",
@@ -76333,7 +76181,7 @@
         "service_type": "1",
         "seq": "28",
         "stop": "279C78D8C04A83BB",
-        "stop_name_tc": "彩虹轉車站 - 碧海樓 (M3)"
+        "stop_name_tc": "彩虹轉車站 - 碧海樓 (WT342)"
     },
     {
         "route": "277A",
@@ -76477,7 +76325,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "AD0B5EFA2471962C",
-        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (H7)"
+        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (WT709)"
     },
     {
         "route": "277E",
@@ -76925,7 +76773,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "AD0B5EFA2471962C",
-        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (H7)"
+        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (WT709)"
     },
     {
         "route": "277P",
@@ -77221,7 +77069,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "279C78D8C04A83BB",
-        "stop_name_tc": "彩虹轉車站 - 碧海樓 (M3)"
+        "stop_name_tc": "彩虹轉車站 - 碧海樓 (WT342)"
     },
     {
         "route": "277P",
@@ -77365,7 +77213,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "AD0B5EFA2471962C",
-        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (H7)"
+        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (WT709)"
     },
     {
         "route": "277X",
@@ -77565,7 +77413,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "279C78D8C04A83BB",
-        "stop_name_tc": "彩虹轉車站 - 碧海樓 (M3)"
+        "stop_name_tc": "彩虹轉車站 - 碧海樓 (WT342)"
     },
     {
         "route": "277X",
@@ -77709,7 +77557,7 @@
         "service_type": "2",
         "seq": "10",
         "stop": "279C78D8C04A83BB",
-        "stop_name_tc": "彩虹轉車站 - 碧海樓 (M3)"
+        "stop_name_tc": "彩虹轉車站 - 碧海樓 (WT342)"
     },
     {
         "route": "277X",
@@ -77821,7 +77669,7 @@
         "service_type": "3",
         "seq": "6",
         "stop": "279C78D8C04A83BB",
-        "stop_name_tc": "彩虹轉車站 - 碧海樓 (M3)"
+        "stop_name_tc": "彩虹轉車站 - 碧海樓 (WT342)"
     },
     {
         "route": "277X",
@@ -79813,7 +79661,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "4513DF30B4CBA349",
-        "stop_name_tc": "牛池灣轉車站 - 牛池灣街市 (F1)"
+        "stop_name_tc": "牛池灣轉車站 - 牛池灣街市"
     },
     {
         "route": "27X",
@@ -86501,7 +86349,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "9FD865B00B2D54A1",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (B5)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "290",
@@ -86509,7 +86357,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "64CE8117895E8FAD",
-        "stop_name_tc": "牛池灣轉車站-牛池灣村 (G2)"
+        "stop_name_tc": "牛池灣轉車站-牛池灣村 (WT213)"
     },
     {
         "route": "290",
@@ -86749,7 +86597,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "29B66F2353388E18",
-        "stop_name_tc": "牛池灣轉車站 - 彩虹站 (K7)"
+        "stop_name_tc": "牛池灣轉車站 - 彩虹站 (WT896)"
     },
     {
         "route": "290",
@@ -86757,7 +86605,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "58584BC1AC41723C",
-        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (H2)"
+        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (WT704)"
     },
     {
         "route": "290",
@@ -86765,7 +86613,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "0EB21C27E769261B",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (D1)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "290",
@@ -86949,7 +86797,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "9FD865B00B2D54A1",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (B5)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "290A",
@@ -86957,7 +86805,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "64CE8117895E8FAD",
-        "stop_name_tc": "牛池灣轉車站-牛池灣村 (G2)"
+        "stop_name_tc": "牛池灣轉車站-牛池灣村 (WT213)"
     },
     {
         "route": "290A",
@@ -87381,7 +87229,7 @@
         "service_type": "1",
         "seq": "26",
         "stop": "29B66F2353388E18",
-        "stop_name_tc": "牛池灣轉車站 - 彩虹站 (K7)"
+        "stop_name_tc": "牛池灣轉車站 - 彩虹站 (WT896)"
     },
     {
         "route": "290A",
@@ -87389,7 +87237,7 @@
         "service_type": "1",
         "seq": "27",
         "stop": "58584BC1AC41723C",
-        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (H2)"
+        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (WT704)"
     },
     {
         "route": "290A",
@@ -87397,7 +87245,7 @@
         "service_type": "1",
         "seq": "28",
         "stop": "0EB21C27E769261B",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (D1)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "290A",
@@ -87581,7 +87429,7 @@
         "service_type": "2",
         "seq": "12",
         "stop": "29B66F2353388E18",
-        "stop_name_tc": "牛池灣轉車站 - 彩虹站 (K7)"
+        "stop_name_tc": "牛池灣轉車站 - 彩虹站 (WT896)"
     },
     {
         "route": "290A",
@@ -87589,7 +87437,7 @@
         "service_type": "2",
         "seq": "13",
         "stop": "58584BC1AC41723C",
-        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (H2)"
+        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (WT704)"
     },
     {
         "route": "290A",
@@ -87597,7 +87445,7 @@
         "service_type": "2",
         "seq": "14",
         "stop": "0EB21C27E769261B",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (D1)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "290A",
@@ -87789,7 +87637,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "9FD865B00B2D54A1",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (B5)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "290E",
@@ -87797,7 +87645,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "68B207DDC9A182AB",
-        "stop_name_tc": "牛池灣轉車站 - 牛池灣村 (G1)"
+        "stop_name_tc": "牛池灣轉車站 - 牛池灣村"
     },
     {
         "route": "290E",
@@ -88045,7 +87893,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "58584BC1AC41723C",
-        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (H2)"
+        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (WT704)"
     },
     {
         "route": "290E",
@@ -88053,7 +87901,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "0EB21C27E769261B",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (D1)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "290E",
@@ -88229,7 +88077,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "9FD865B00B2D54A1",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (B5)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "290X",
@@ -88237,7 +88085,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "64CE8117895E8FAD",
-        "stop_name_tc": "牛池灣轉車站-牛池灣村 (G2)"
+        "stop_name_tc": "牛池灣轉車站-牛池灣村 (WT213)"
     },
     {
         "route": "290X",
@@ -88533,7 +88381,7 @@
         "service_type": "2",
         "seq": "12",
         "stop": "9FD865B00B2D54A1",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (B5)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "290X",
@@ -88541,7 +88389,7 @@
         "service_type": "2",
         "seq": "13",
         "stop": "64CE8117895E8FAD",
-        "stop_name_tc": "牛池灣轉車站-牛池灣村 (G2)"
+        "stop_name_tc": "牛池灣轉車站-牛池灣村 (WT213)"
     },
     {
         "route": "290X",
@@ -88917,7 +88765,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "29B66F2353388E18",
-        "stop_name_tc": "牛池灣轉車站 - 彩虹站 (K7)"
+        "stop_name_tc": "牛池灣轉車站 - 彩虹站 (WT896)"
     },
     {
         "route": "290X",
@@ -88925,7 +88773,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "58584BC1AC41723C",
-        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (H2)"
+        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (WT704)"
     },
     {
         "route": "290X",
@@ -88933,7 +88781,7 @@
         "service_type": "1",
         "seq": "23",
         "stop": "0EB21C27E769261B",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (D1)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "290X",
@@ -89109,7 +88957,7 @@
         "service_type": "2",
         "seq": "12",
         "stop": "29B66F2353388E18",
-        "stop_name_tc": "牛池灣轉車站 - 彩虹站 (K7)"
+        "stop_name_tc": "牛池灣轉車站 - 彩虹站 (WT896)"
     },
     {
         "route": "290X",
@@ -89117,7 +88965,7 @@
         "service_type": "2",
         "seq": "13",
         "stop": "58584BC1AC41723C",
-        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (H2)"
+        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (WT704)"
     },
     {
         "route": "290X",
@@ -89125,7 +88973,7 @@
         "service_type": "2",
         "seq": "14",
         "stop": "0EB21C27E769261B",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (D1)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "290X",
@@ -89293,7 +89141,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "5D77A5CBE41F2984",
-        "stop_name_tc": "牛池灣轉車站 - 彩虹站 (K2)"
+        "stop_name_tc": "牛池灣轉車站 - 彩虹站 (WT891)"
     },
     {
         "route": "291P",
@@ -89509,7 +89357,7 @@
         "service_type": "1",
         "seq": "25",
         "stop": "54733D2BB5BE7121",
-        "stop_name_tc": "牛池灣轉車站 - 彩虹站 (K6)"
+        "stop_name_tc": "牛池灣轉車站 - 彩虹站 (WT895)"
     },
     {
         "route": "292P",
@@ -93629,7 +93477,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "34BC6DF4457C3BED",
-        "stop_name_tc": "牛池灣轉車站 - 彩虹站 (K5)"
+        "stop_name_tc": "牛池灣轉車站 - 彩虹站 (WT894)"
     },
     {
         "route": "29M",
@@ -93637,7 +93485,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "3B35E109EB76E70D",
-        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (H5)"
+        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (WT707)"
     },
     {
         "route": "29M",
@@ -93685,7 +93533,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "4513DF30B4CBA349",
-        "stop_name_tc": "牛池灣轉車站 - 牛池灣街市 (F1)"
+        "stop_name_tc": "牛池灣轉車站 - 牛池灣街市"
     },
     {
         "route": "29M",
@@ -93693,7 +93541,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "F065C32E9D2CB689",
-        "stop_name_tc": "牛池灣轉車站 - 彩雲聖若瑟(E2)"
+        "stop_name_tc": "牛池灣轉車站 - 彩雲聖若瑟"
     },
     {
         "route": "29M",
@@ -95469,7 +95317,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "B27236FC63F891D9",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (B3)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "2F",
@@ -95477,7 +95325,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "A15FFC3149FB92A0",
-        "stop_name_tc": "黃大仙轉車站 - 沙田坳道 (A2)"
+        "stop_name_tc": "黃大仙轉車站 - 沙田坳道"
     },
     {
         "route": "2F",
@@ -95621,7 +95469,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "62A1C8EFAC876BDB",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (D2)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "2F",
@@ -95845,7 +95693,7 @@
         "service_type": "2",
         "seq": "10",
         "stop": "62A1C8EFAC876BDB",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (D2)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "2F",
@@ -96069,7 +95917,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "B27236FC63F891D9",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (B3)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "2P",
@@ -96077,7 +95925,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "A15FFC3149FB92A0",
-        "stop_name_tc": "黃大仙轉車站 - 沙田坳道 (A2)"
+        "stop_name_tc": "黃大仙轉車站 - 沙田坳道"
     },
     {
         "route": "2P",
@@ -97117,7 +96965,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "3BB1407BA61E0A9B",
-        "stop_name_tc": "彩虹轉車站 - 金碧樓 (L1)"
+        "stop_name_tc": "彩虹轉車站 - 金碧樓 (WT345)"
     },
     {
         "route": "302",
@@ -97261,7 +97109,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "3BB1407BA61E0A9B",
-        "stop_name_tc": "彩虹轉車站 - 金碧樓 (L1)"
+        "stop_name_tc": "彩虹轉車站 - 金碧樓 (WT345)"
     },
     {
         "route": "302A",
@@ -101453,7 +101301,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "0EB21C27E769261B",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (D1)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "33",
@@ -101581,7 +101429,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "9FD865B00B2D54A1",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (B5)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "33",
@@ -101589,7 +101437,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "96A6FE5F07BDF203",
-        "stop_name_tc": "黃大仙轉車站 - 沙田坳道 (A1)"
+        "stop_name_tc": "黃大仙轉車站 - 沙田坳道"
     },
     {
         "route": "33",
@@ -102373,7 +102221,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "0EB21C27E769261B",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (D1)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "33B",
@@ -102501,7 +102349,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "9FD865B00B2D54A1",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (B5)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "33B",
@@ -102509,7 +102357,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "96A6FE5F07BDF203",
-        "stop_name_tc": "黃大仙轉車站 - 沙田坳道 (A1)"
+        "stop_name_tc": "黃大仙轉車站 - 沙田坳道"
     },
     {
         "route": "33B",
@@ -107525,7 +107373,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "58584BC1AC41723C",
-        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (H2)"
+        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (WT704)"
     },
     {
         "route": "38",
@@ -107541,7 +107389,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "0EB21C27E769261B",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (D1)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "38",
@@ -107909,7 +107757,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "38330C642568FE3F",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (B4)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "38",
@@ -107917,7 +107765,7 @@
         "service_type": "1",
         "seq": "23",
         "stop": "A15FFC3149FB92A0",
-        "stop_name_tc": "黃大仙轉車站 - 沙田坳道 (A2)"
+        "stop_name_tc": "黃大仙轉車站 - 沙田坳道"
     },
     {
         "route": "38",
@@ -107933,7 +107781,7 @@
         "service_type": "1",
         "seq": "25",
         "stop": "68B207DDC9A182AB",
-        "stop_name_tc": "牛池灣轉車站 - 牛池灣村 (G1)"
+        "stop_name_tc": "牛池灣轉車站 - 牛池灣村"
     },
     {
         "route": "38",
@@ -108677,7 +108525,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "0EB21C27E769261B",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (D1)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "38P",
@@ -109013,7 +108861,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "9FD865B00B2D54A1",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (B5)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "38P",
@@ -110277,7 +110125,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "B27236FC63F891D9",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (B3)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "3C",
@@ -110285,7 +110133,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "A15FFC3149FB92A0",
-        "stop_name_tc": "黃大仙轉車站 - 沙田坳道 (A2)"
+        "stop_name_tc": "黃大仙轉車站 - 沙田坳道"
     },
     {
         "route": "3C",
@@ -110421,7 +110269,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "62A1C8EFAC876BDB",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (D2)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "3C",
@@ -110637,7 +110485,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "917DF4AF0ED7B258",
-        "stop_name_tc": "牛池灣轉車站 - 丹鳳樓 (J2)"
+        "stop_name_tc": "牛池灣轉車站 - 丹鳳樓 (WT701)"
     },
     {
         "route": "3D",
@@ -110645,7 +110493,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "7FB952821E3FCAD2",
-        "stop_name_tc": "彩虹轉車站 - 彩虹總站 (N6)"
+        "stop_name_tc": "彩虹轉車站 - 彩虹總站 (WT995)"
     },
     {
         "route": "3D",
@@ -110773,7 +110621,7 @@
         "service_type": "2",
         "seq": "8",
         "stop": "917DF4AF0ED7B258",
-        "stop_name_tc": "牛池灣轉車站 - 丹鳳樓 (J2)"
+        "stop_name_tc": "牛池灣轉車站 - 丹鳳樓 (WT701)"
     },
     {
         "route": "3D",
@@ -110781,7 +110629,7 @@
         "service_type": "2",
         "seq": "9",
         "stop": "7FB952821E3FCAD2",
-        "stop_name_tc": "彩虹轉車站 - 彩虹總站 (N6)"
+        "stop_name_tc": "彩虹轉車站 - 彩虹總站 (WT995)"
     },
     {
         "route": "3D",
@@ -110885,7 +110733,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "EDDE9311F49AC296",
-        "stop_name_tc": "彩虹轉車站 -碧海樓 (M4)"
+        "stop_name_tc": "彩虹轉車站 -碧海樓 (WT343)"
     },
     {
         "route": "3D",
@@ -110981,7 +110829,7 @@
         "service_type": "2",
         "seq": "6",
         "stop": "EDDE9311F49AC296",
-        "stop_name_tc": "彩虹轉車站 -碧海樓 (M4)"
+        "stop_name_tc": "彩虹轉車站 -碧海樓 (WT343)"
     },
     {
         "route": "3D",
@@ -111085,7 +110933,7 @@
         "service_type": "3",
         "seq": "7",
         "stop": "EDDE9311F49AC296",
-        "stop_name_tc": "彩虹轉車站 -碧海樓 (M4)"
+        "stop_name_tc": "彩虹轉車站 -碧海樓 (WT343)"
     },
     {
         "route": "3D",
@@ -111149,7 +110997,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "93E0033436973DA7",
-        "stop_name_tc": "牛池灣轉車站 - 彩虹站 (K3)"
+        "stop_name_tc": "牛池灣轉車站 - 彩虹站 (WT892)"
     },
     {
         "route": "3M",
@@ -111157,7 +111005,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "917DF4AF0ED7B258",
-        "stop_name_tc": "牛池灣轉車站 - 丹鳳樓 (J2)"
+        "stop_name_tc": "牛池灣轉車站 - 丹鳳樓 (WT701)"
     },
     {
         "route": "3M",
@@ -111165,7 +111013,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "7FB952821E3FCAD2",
-        "stop_name_tc": "彩虹轉車站 - 彩虹總站 (N6)"
+        "stop_name_tc": "彩虹轉車站 - 彩虹總站 (WT995)"
     },
     {
         "route": "3M",
@@ -111245,7 +111093,7 @@
         "service_type": "2",
         "seq": "2",
         "stop": "93E0033436973DA7",
-        "stop_name_tc": "牛池灣轉車站 - 彩虹站 (K3)"
+        "stop_name_tc": "牛池灣轉車站 - 彩虹站 (WT892)"
     },
     {
         "route": "3M",
@@ -111253,7 +111101,7 @@
         "service_type": "2",
         "seq": "3",
         "stop": "917DF4AF0ED7B258",
-        "stop_name_tc": "牛池灣轉車站 - 丹鳳樓 (J2)"
+        "stop_name_tc": "牛池灣轉車站 - 丹鳳樓 (WT701)"
     },
     {
         "route": "3M",
@@ -111261,7 +111109,7 @@
         "service_type": "2",
         "seq": "4",
         "stop": "7FB952821E3FCAD2",
-        "stop_name_tc": "彩虹轉車站 - 彩虹總站 (N6)"
+        "stop_name_tc": "彩虹轉車站 - 彩虹總站 (WT995)"
     },
     {
         "route": "3M",
@@ -111365,7 +111213,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "64CE8117895E8FAD",
-        "stop_name_tc": "牛池灣轉車站-牛池灣村 (G2)"
+        "stop_name_tc": "牛池灣轉車站-牛池灣村 (WT213)"
     },
     {
         "route": "3M",
@@ -111373,7 +111221,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "5CD4C77378D3A4AE",
-        "stop_name_tc": "牛池灣轉車站 - 牛池灣街市 (F2)"
+        "stop_name_tc": "牛池灣轉車站 - 牛池灣街市"
     },
     {
         "route": "3M",
@@ -112053,7 +111901,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "58584BC1AC41723C",
-        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (H2)"
+        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (WT704)"
     },
     {
         "route": "40",
@@ -112069,7 +111917,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "62A1C8EFAC876BDB",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (D2)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "40",
@@ -112389,7 +112237,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "38330C642568FE3F",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (B4)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "40",
@@ -112397,7 +112245,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "96A6FE5F07BDF203",
-        "stop_name_tc": "黃大仙轉車站 - 沙田坳道 (A1)"
+        "stop_name_tc": "黃大仙轉車站 - 沙田坳道"
     },
     {
         "route": "40",
@@ -112413,7 +112261,7 @@
         "service_type": "1",
         "seq": "24",
         "stop": "68B207DDC9A182AB",
-        "stop_name_tc": "牛池灣轉車站 - 牛池灣村 (G1)"
+        "stop_name_tc": "牛池灣轉車站 - 牛池灣村"
     },
     {
         "route": "40",
@@ -112669,7 +112517,7 @@
         "service_type": "2",
         "seq": "22",
         "stop": "38330C642568FE3F",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (B4)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "40",
@@ -112677,7 +112525,7 @@
         "service_type": "2",
         "seq": "23",
         "stop": "96A6FE5F07BDF203",
-        "stop_name_tc": "黃大仙轉車站 - 沙田坳道 (A1)"
+        "stop_name_tc": "黃大仙轉車站 - 沙田坳道"
     },
     {
         "route": "40",
@@ -112693,7 +112541,7 @@
         "service_type": "2",
         "seq": "25",
         "stop": "68B207DDC9A182AB",
-        "stop_name_tc": "牛池灣轉車站 - 牛池灣村 (G1)"
+        "stop_name_tc": "牛池灣轉車站 - 牛池灣村"
     },
     {
         "route": "40",
@@ -112861,7 +112709,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "5536C9E3A0CE1228",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (B6)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "40A",
@@ -112869,7 +112717,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "96A6FE5F07BDF203",
-        "stop_name_tc": "黃大仙轉車站 - 沙田坳道 (A1)"
+        "stop_name_tc": "黃大仙轉車站 - 沙田坳道"
     },
     {
         "route": "40A",
@@ -112885,7 +112733,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "68B207DDC9A182AB",
-        "stop_name_tc": "牛池灣轉車站 - 牛池灣村 (G1)"
+        "stop_name_tc": "牛池灣轉車站 - 牛池灣村"
     },
     {
         "route": "40A",
@@ -113149,7 +112997,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "5536C9E3A0CE1228",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (B6)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "40B",
@@ -113157,7 +113005,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "96A6FE5F07BDF203",
-        "stop_name_tc": "黃大仙轉車站 - 沙田坳道 (A1)"
+        "stop_name_tc": "黃大仙轉車站 - 沙田坳道"
     },
     {
         "route": "40B",
@@ -113173,7 +113021,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "68B207DDC9A182AB",
-        "stop_name_tc": "牛池灣轉車站 - 牛池灣村 (G1)"
+        "stop_name_tc": "牛池灣轉車站 - 牛池灣村"
     },
     {
         "route": "40B",
@@ -113677,7 +113525,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "58584BC1AC41723C",
-        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (H2)"
+        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (WT704)"
     },
     {
         "route": "40P",
@@ -113693,7 +113541,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "0EB21C27E769261B",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (D1)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "40P",
@@ -114053,7 +113901,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "5536C9E3A0CE1228",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (B6)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "40P",
@@ -114061,7 +113909,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "96A6FE5F07BDF203",
-        "stop_name_tc": "黃大仙轉車站 - 沙田坳道 (A1)"
+        "stop_name_tc": "黃大仙轉車站 - 沙田坳道"
     },
     {
         "route": "40P",
@@ -114077,7 +113925,7 @@
         "service_type": "1",
         "seq": "23",
         "stop": "68B207DDC9A182AB",
-        "stop_name_tc": "牛池灣轉車站 - 牛池灣村 (G1)"
+        "stop_name_tc": "牛池灣轉車站 - 牛池灣村"
     },
     {
         "route": "40P",
@@ -114213,7 +114061,7 @@
         "service_type": "2",
         "seq": "10",
         "stop": "5536C9E3A0CE1228",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (B6)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "40P",
@@ -114221,7 +114069,7 @@
         "service_type": "2",
         "seq": "11",
         "stop": "96A6FE5F07BDF203",
-        "stop_name_tc": "黃大仙轉車站 - 沙田坳道 (A1)"
+        "stop_name_tc": "黃大仙轉車站 - 沙田坳道"
     },
     {
         "route": "40P",
@@ -114237,7 +114085,7 @@
         "service_type": "2",
         "seq": "13",
         "stop": "68B207DDC9A182AB",
-        "stop_name_tc": "牛池灣轉車站 - 牛池灣村 (G1)"
+        "stop_name_tc": "牛池灣轉車站 - 牛池灣村"
     },
     {
         "route": "40P",
@@ -115557,7 +115405,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "F6703708A375C67E",
-        "stop_name_tc": "牛池灣轉車站 - 彩虹站 (K4)"
+        "stop_name_tc": "牛池灣轉車站 - 彩虹站 (WT893)"
     },
     {
         "route": "42",
@@ -116157,7 +116005,7 @@
         "service_type": "1",
         "seq": "40",
         "stop": "E7116B44D9E9393A",
-        "stop_name_tc": "牛池灣轉車站 - 彩雲聖若瑟 (E1)"
+        "stop_name_tc": "牛池灣轉車站 - 彩雲聖若瑟"
     },
     {
         "route": "42",
@@ -116661,7 +116509,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "58584BC1AC41723C",
-        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (H2)"
+        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (WT704)"
     },
     {
         "route": "42C",
@@ -116677,7 +116525,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "62A1C8EFAC876BDB",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (D2)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "42C",
@@ -117037,7 +116885,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "9FD865B00B2D54A1",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (B5)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "42C",
@@ -117045,7 +116893,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "A15FFC3149FB92A0",
-        "stop_name_tc": "黃大仙轉車站 - 沙田坳道 (A2)"
+        "stop_name_tc": "黃大仙轉車站 - 沙田坳道"
     },
     {
         "route": "42C",
@@ -117061,7 +116909,7 @@
         "service_type": "1",
         "seq": "24",
         "stop": "279C78D8C04A83BB",
-        "stop_name_tc": "彩虹轉車站 - 碧海樓 (M3)"
+        "stop_name_tc": "彩虹轉車站 - 碧海樓 (WT342)"
     },
     {
         "route": "42C",
@@ -126461,7 +126309,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "87825C8E4FE99CD8",
-        "stop_name_tc": "彩虹轉車站 - 碧海樓 (M2)"
+        "stop_name_tc": "彩虹轉車站 - 碧海樓 (WT341)"
     },
     {
         "route": "5",
@@ -126469,7 +126317,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "90901971846A40E7",
-        "stop_name_tc": "彩虹轉車站 - 彩虹總站 (N5)"
+        "stop_name_tc": "彩虹轉車站 - 彩虹總站 (WT994)"
     },
     {
         "route": "5",
@@ -126525,7 +126373,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "49EF17D5925C652A",
-        "stop_name_tc": "彩虹轉車站 - 彩虹總站 (N2)"
+        "stop_name_tc": "彩虹轉車站 - 彩虹總站 (WT991)"
     },
     {
         "route": "5",
@@ -137565,7 +137413,7 @@
         "service_type": "1",
         "seq": "39",
         "stop": "E7116B44D9E9393A",
-        "stop_name_tc": "牛池灣轉車站 - 彩雲聖若瑟 (E1)"
+        "stop_name_tc": "牛池灣轉車站 - 彩雲聖若瑟"
     },
     {
         "route": "606",
@@ -137605,7 +137453,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "54733D2BB5BE7121",
-        "stop_name_tc": "牛池灣轉車站 - 彩虹站 (K6)"
+        "stop_name_tc": "牛池灣轉車站 - 彩虹站 (WT895)"
     },
     {
         "route": "606",
@@ -137965,7 +137813,7 @@
         "service_type": "4",
         "seq": "3",
         "stop": "54733D2BB5BE7121",
-        "stop_name_tc": "牛池灣轉車站 - 彩虹站 (K6)"
+        "stop_name_tc": "牛池灣轉車站 - 彩虹站 (WT895)"
     },
     {
         "route": "606",
@@ -138493,7 +138341,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "E7116B44D9E9393A",
-        "stop_name_tc": "牛池灣轉車站 - 彩雲聖若瑟 (E1)"
+        "stop_name_tc": "牛池灣轉車站 - 彩雲聖若瑟"
     },
     {
         "route": "606A",
@@ -138533,7 +138381,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "54733D2BB5BE7121",
-        "stop_name_tc": "牛池灣轉車站 - 彩虹站 (K6)"
+        "stop_name_tc": "牛池灣轉車站 - 彩虹站 (WT895)"
     },
     {
         "route": "606A",
@@ -143405,7 +143253,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "0EAFBD8737911A6A",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (D3)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "61X",
@@ -143581,7 +143429,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "9FD865B00B2D54A1",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (B5)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "61X",
@@ -143589,7 +143437,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "96A6FE5F07BDF203",
-        "stop_name_tc": "黃大仙轉車站 - 沙田坳道 (A1)"
+        "stop_name_tc": "黃大仙轉車站 - 沙田坳道"
     },
     {
         "route": "61X",
@@ -143973,7 +143821,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "38330C642568FE3F",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (B4)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "62P",
@@ -143981,7 +143829,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "A15FFC3149FB92A0",
-        "stop_name_tc": "黃大仙轉車站 - 沙田坳道 (A2)"
+        "stop_name_tc": "黃大仙轉車站 - 沙田坳道"
     },
     {
         "route": "62P",
@@ -143997,7 +143845,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "279C78D8C04A83BB",
-        "stop_name_tc": "彩虹轉車站 - 碧海樓 (M3)"
+        "stop_name_tc": "彩虹轉車站 - 碧海樓 (WT342)"
     },
     {
         "route": "62P",
@@ -144197,7 +144045,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "AA6F0A2661759A49",
-        "stop_name_tc": "牛池灣轉車站 - 丹鳳樓 (J3)"
+        "stop_name_tc": "牛池灣轉車站 - 丹鳳樓 (WT702)"
     },
     {
         "route": "62X",
@@ -144213,7 +144061,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "0EAFBD8737911A6A",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (D3)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "62X",
@@ -144445,7 +144293,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "38330C642568FE3F",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (B4)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "62X",
@@ -144453,7 +144301,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "A15FFC3149FB92A0",
-        "stop_name_tc": "黃大仙轉車站 - 沙田坳道 (A2)"
+        "stop_name_tc": "黃大仙轉車站 - 沙田坳道"
     },
     {
         "route": "62X",
@@ -144469,7 +144317,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "279C78D8C04A83BB",
-        "stop_name_tc": "彩虹轉車站 - 碧海樓 (M3)"
+        "stop_name_tc": "彩虹轉車站 - 碧海樓 (WT342)"
     },
     {
         "route": "62X",
@@ -148045,7 +147893,7 @@
         "service_type": "1",
         "seq": "34",
         "stop": "F6512E7C4A6D5C2E",
-        "stop_name_tc": "牛池灣轉車站 - 丹鳳樓 (J1)"
+        "stop_name_tc": "牛池灣轉車站 - 丹鳳樓 (WT700)"
     },
     {
         "route": "671",
@@ -148053,7 +147901,7 @@
         "service_type": "1",
         "seq": "35",
         "stop": "9AC3AFC5216B9711",
-        "stop_name_tc": "彩虹轉車站 - 錦雲樓 (P1)"
+        "stop_name_tc": "彩虹轉車站 - 錦雲樓 (WT370)"
     },
     {
         "route": "671",
@@ -148109,7 +147957,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "3BB1407BA61E0A9B",
-        "stop_name_tc": "彩虹轉車站 - 金碧樓 (L1)"
+        "stop_name_tc": "彩虹轉車站 - 金碧樓 (WT345)"
     },
     {
         "route": "671",
@@ -148565,7 +148413,7 @@
         "service_type": "1",
         "seq": "25",
         "stop": "F6512E7C4A6D5C2E",
-        "stop_name_tc": "牛池灣轉車站 - 丹鳳樓 (J1)"
+        "stop_name_tc": "牛池灣轉車站 - 丹鳳樓 (WT700)"
     },
     {
         "route": "671X",
@@ -148573,7 +148421,7 @@
         "service_type": "1",
         "seq": "26",
         "stop": "9AC3AFC5216B9711",
-        "stop_name_tc": "彩虹轉車站 - 錦雲樓 (P1)"
+        "stop_name_tc": "彩虹轉車站 - 錦雲樓 (WT370)"
     },
     {
         "route": "671X",
@@ -156829,7 +156677,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "AA6F0A2661759A49",
-        "stop_name_tc": "牛池灣轉車站 - 丹鳳樓 (J3)"
+        "stop_name_tc": "牛池灣轉車站 - 丹鳳樓 (WT702)"
     },
     {
         "route": "69C",
@@ -156853,7 +156701,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "7917BB962CCB11C0",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (C3)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "69C",
@@ -157133,7 +156981,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "5536C9E3A0CE1228",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (B6)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "69C",
@@ -157141,7 +156989,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "96A6FE5F07BDF203",
-        "stop_name_tc": "黃大仙轉車站 - 沙田坳道 (A1)"
+        "stop_name_tc": "黃大仙轉車站 - 沙田坳道"
     },
     {
         "route": "69C",
@@ -157157,7 +157005,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "D80313EC29620E1D",
-        "stop_name_tc": "彩虹轉車站 - 碧海樓 (M5)"
+        "stop_name_tc": "彩虹轉車站 - 碧海樓 (WT344)"
     },
     {
         "route": "69C",
@@ -157325,7 +157173,7 @@
         "service_type": "2",
         "seq": "12",
         "stop": "5536C9E3A0CE1228",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (B6)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "69C",
@@ -157333,7 +157181,7 @@
         "service_type": "2",
         "seq": "13",
         "stop": "96A6FE5F07BDF203",
-        "stop_name_tc": "黃大仙轉車站 - 沙田坳道 (A1)"
+        "stop_name_tc": "黃大仙轉車站 - 沙田坳道"
     },
     {
         "route": "69C",
@@ -157349,7 +157197,7 @@
         "service_type": "2",
         "seq": "15",
         "stop": "D80313EC29620E1D",
-        "stop_name_tc": "彩虹轉車站 - 碧海樓 (M5)"
+        "stop_name_tc": "彩虹轉車站 - 碧海樓 (WT344)"
     },
     {
         "route": "69C",
@@ -158941,7 +158789,7 @@
         "service_type": "1",
         "seq": "24",
         "stop": "3BB1407BA61E0A9B",
-        "stop_name_tc": "彩虹轉車站 - 金碧樓 (L1)"
+        "stop_name_tc": "彩虹轉車站 - 金碧樓 (WT345)"
     },
     {
         "route": "6D",
@@ -158997,7 +158845,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "3B35E109EB76E70D",
-        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (H5)"
+        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (WT707)"
     },
     {
         "route": "6D",
@@ -160101,7 +159949,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "3B35E109EB76E70D",
-        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (H5)"
+        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (WT707)"
     },
     {
         "route": "6P",
@@ -160405,7 +160253,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "D80313EC29620E1D",
-        "stop_name_tc": "彩虹轉車站 - 碧海樓 (M5)"
+        "stop_name_tc": "彩虹轉車站 - 碧海樓 (WT344)"
     },
     {
         "route": "6P",
@@ -169117,7 +168965,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "F1ED37F1BA6D054F",
-        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (H6)"
+        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (WT708)"
     },
     {
         "route": "74A",
@@ -169141,7 +168989,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "99440967B8390837",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (C1)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "74A",
@@ -169653,7 +169501,7 @@
         "service_type": "1",
         "seq": "33",
         "stop": "9FD865B00B2D54A1",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (B5)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "74A",
@@ -169661,7 +169509,7 @@
         "service_type": "1",
         "seq": "34",
         "stop": "96A6FE5F07BDF203",
-        "stop_name_tc": "黃大仙轉車站 - 沙田坳道 (A1)"
+        "stop_name_tc": "黃大仙轉車站 - 沙田坳道"
     },
     {
         "route": "74A",
@@ -169677,7 +169525,7 @@
         "service_type": "1",
         "seq": "36",
         "stop": "279C78D8C04A83BB",
-        "stop_name_tc": "彩虹轉車站 - 碧海樓 (M3)"
+        "stop_name_tc": "彩虹轉車站 - 碧海樓 (WT342)"
     },
     {
         "route": "74A",
@@ -169845,7 +169693,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "F1ED37F1BA6D054F",
-        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (H6)"
+        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (WT708)"
     },
     {
         "route": "74B",
@@ -170061,7 +169909,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "D80313EC29620E1D",
-        "stop_name_tc": "彩虹轉車站 - 碧海樓 (M5)"
+        "stop_name_tc": "彩虹轉車站 - 碧海樓 (WT344)"
     },
     {
         "route": "74C",
@@ -170213,7 +170061,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "F1ED37F1BA6D054F",
-        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (H6)"
+        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (WT708)"
     },
     {
         "route": "74D",
@@ -170597,7 +170445,7 @@
         "service_type": "1",
         "seq": "26",
         "stop": "EDDE9311F49AC296",
-        "stop_name_tc": "彩虹轉車站 -碧海樓 (M4)"
+        "stop_name_tc": "彩虹轉車站 -碧海樓 (WT343)"
     },
     {
         "route": "74D",
@@ -170749,7 +170597,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "F1ED37F1BA6D054F",
-        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (H6)"
+        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (WT708)"
     },
     {
         "route": "74E",
@@ -171133,7 +170981,7 @@
         "service_type": "1",
         "seq": "23",
         "stop": "D80313EC29620E1D",
-        "stop_name_tc": "彩虹轉車站 - 碧海樓 (M5)"
+        "stop_name_tc": "彩虹轉車站 - 碧海樓 (WT344)"
     },
     {
         "route": "74E",
@@ -171253,7 +171101,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "D80313EC29620E1D",
-        "stop_name_tc": "彩虹轉車站 - 碧海樓 (M5)"
+        "stop_name_tc": "彩虹轉車站 - 碧海樓 (WT344)"
     },
     {
         "route": "74F",
@@ -171405,7 +171253,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "F1ED37F1BA6D054F",
-        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (H6)"
+        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (WT708)"
     },
     {
         "route": "74F",
@@ -172181,7 +172029,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "EDDE9311F49AC296",
-        "stop_name_tc": "彩虹轉車站 -碧海樓 (M4)"
+        "stop_name_tc": "彩虹轉車站 -碧海樓 (WT343)"
     },
     {
         "route": "74P",
@@ -172309,7 +172157,7 @@
         "service_type": "2",
         "seq": "8",
         "stop": "EDDE9311F49AC296",
-        "stop_name_tc": "彩虹轉車站 -碧海樓 (M4)"
+        "stop_name_tc": "彩虹轉車站 -碧海樓 (WT343)"
     },
     {
         "route": "74P",
@@ -172461,7 +172309,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "F1ED37F1BA6D054F",
-        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (H6)"
+        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (WT708)"
     },
     {
         "route": "74P",
@@ -173029,7 +172877,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "5536C9E3A0CE1228",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (B6)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "74S",
@@ -173037,7 +172885,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "96A6FE5F07BDF203",
-        "stop_name_tc": "黃大仙轉車站 - 沙田坳道 (A1)"
+        "stop_name_tc": "黃大仙轉車站 - 沙田坳道"
     },
     {
         "route": "74S",
@@ -173053,7 +172901,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "4A8AAC7402C3F60F",
-        "stop_name_tc": "彩虹轉車站 - 金碧樓 (L2)"
+        "stop_name_tc": "彩虹轉車站 - 金碧樓 (WT346)"
     },
     {
         "route": "74S",
@@ -173285,7 +173133,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "AD0B5EFA2471962C",
-        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (H7)"
+        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (WT709)"
     },
     {
         "route": "74S",
@@ -173301,7 +173149,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "7917BB962CCB11C0",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (C3)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "74S",
@@ -173413,7 +173261,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "F1ED37F1BA6D054F",
-        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (H6)"
+        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (WT708)"
     },
     {
         "route": "74X",
@@ -173541,7 +173389,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "EDDE9311F49AC296",
-        "stop_name_tc": "彩虹轉車站 -碧海樓 (M4)"
+        "stop_name_tc": "彩虹轉車站 -碧海樓 (WT343)"
     },
     {
         "route": "74X",
@@ -173645,7 +173493,7 @@
         "service_type": "2",
         "seq": "4",
         "stop": "EDDE9311F49AC296",
-        "stop_name_tc": "彩虹轉車站 -碧海樓 (M4)"
+        "stop_name_tc": "彩虹轉車站 -碧海樓 (WT343)"
     },
     {
         "route": "74X",
@@ -173741,7 +173589,7 @@
         "service_type": "3",
         "seq": "3",
         "stop": "EDDE9311F49AC296",
-        "stop_name_tc": "彩虹轉車站 -碧海樓 (M4)"
+        "stop_name_tc": "彩虹轉車站 -碧海樓 (WT343)"
     },
     {
         "route": "74X",
@@ -174645,7 +174493,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "B27236FC63F891D9",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (B3)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "75X",
@@ -174653,7 +174501,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "96A6FE5F07BDF203",
-        "stop_name_tc": "黃大仙轉車站 - 沙田坳道 (A1)"
+        "stop_name_tc": "黃大仙轉車站 - 沙田坳道"
     },
     {
         "route": "75X",
@@ -174853,7 +174701,7 @@
         "service_type": "2",
         "seq": "16",
         "stop": "B27236FC63F891D9",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (B3)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "75X",
@@ -174861,7 +174709,7 @@
         "service_type": "2",
         "seq": "17",
         "stop": "96A6FE5F07BDF203",
-        "stop_name_tc": "黃大仙轉車站 - 沙田坳道 (A1)"
+        "stop_name_tc": "黃大仙轉車站 - 沙田坳道"
     },
     {
         "route": "75X",
@@ -174997,7 +174845,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "AA2D8DCDD78651B0",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (C2)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "75X",
@@ -181261,7 +181109,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "AB194503D9CC9465",
-        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (H1)"
+        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (WT703)"
     },
     {
         "route": "80",
@@ -181277,7 +181125,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "99440967B8390837",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (C1)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "80",
@@ -181501,7 +181349,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "38330C642568FE3F",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (B4)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "80",
@@ -181509,7 +181357,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "96A6FE5F07BDF203",
-        "stop_name_tc": "黃大仙轉車站 - 沙田坳道 (A1)"
+        "stop_name_tc": "黃大仙轉車站 - 沙田坳道"
     },
     {
         "route": "80",
@@ -181525,7 +181373,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "68B207DDC9A182AB",
-        "stop_name_tc": "牛池灣轉車站 - 牛池灣村 (G1)"
+        "stop_name_tc": "牛池灣轉車站 - 牛池灣村"
     },
     {
         "route": "80",
@@ -181653,7 +181501,7 @@
         "service_type": "2",
         "seq": "9",
         "stop": "38330C642568FE3F",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (B4)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "80",
@@ -181661,7 +181509,7 @@
         "service_type": "2",
         "seq": "10",
         "stop": "96A6FE5F07BDF203",
-        "stop_name_tc": "黃大仙轉車站 - 沙田坳道 (A1)"
+        "stop_name_tc": "黃大仙轉車站 - 沙田坳道"
     },
     {
         "route": "80",
@@ -181677,7 +181525,7 @@
         "service_type": "2",
         "seq": "12",
         "stop": "68B207DDC9A182AB",
-        "stop_name_tc": "牛池灣轉車站 - 牛池灣村 (G1)"
+        "stop_name_tc": "牛池灣轉車站 - 牛池灣村"
     },
     {
         "route": "80",
@@ -181837,7 +181685,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "96A6FE5F07BDF203",
-        "stop_name_tc": "黃大仙轉車站 - 沙田坳道 (A1)"
+        "stop_name_tc": "黃大仙轉車站 - 沙田坳道"
     },
     {
         "route": "80A",
@@ -182205,7 +182053,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "5536C9E3A0CE1228",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (B6)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "80P",
@@ -182213,7 +182061,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "96A6FE5F07BDF203",
-        "stop_name_tc": "黃大仙轉車站 - 沙田坳道 (A1)"
+        "stop_name_tc": "黃大仙轉車站 - 沙田坳道"
     },
     {
         "route": "80P",
@@ -182229,7 +182077,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "68B207DDC9A182AB",
-        "stop_name_tc": "牛池灣轉車站 - 牛池灣村 (G1)"
+        "stop_name_tc": "牛池灣轉車站 - 牛池灣村"
     },
     {
         "route": "80P",
@@ -182373,7 +182221,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "18F3C20116BFE83D",
-        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (H3)"
+        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (WT705)"
     },
     {
         "route": "80X",
@@ -182493,7 +182341,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "EDDE9311F49AC296",
-        "stop_name_tc": "彩虹轉車站 -碧海樓 (M4)"
+        "stop_name_tc": "彩虹轉車站 -碧海樓 (WT343)"
     },
     {
         "route": "80X",
@@ -182725,7 +182573,7 @@
         "service_type": "3",
         "seq": "10",
         "stop": "EDDE9311F49AC296",
-        "stop_name_tc": "彩虹轉車站 -碧海樓 (M4)"
+        "stop_name_tc": "彩虹轉車站 -碧海樓 (WT343)"
     },
     {
         "route": "80X",
@@ -185517,7 +185365,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "D80313EC29620E1D",
-        "stop_name_tc": "彩虹轉車站 - 碧海樓 (M5)"
+        "stop_name_tc": "彩虹轉車站 - 碧海樓 (WT344)"
     },
     {
         "route": "83A",
@@ -186157,7 +186005,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "E7A8D18CC7046843",
-        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (H4)"
+        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (WT706)"
     },
     {
         "route": "83X",
@@ -186317,7 +186165,7 @@
         "service_type": "2",
         "seq": "11",
         "stop": "E7A8D18CC7046843",
-        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (H4)"
+        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (WT706)"
     },
     {
         "route": "83X",
@@ -186429,7 +186277,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "EDDE9311F49AC296",
-        "stop_name_tc": "彩虹轉車站 -碧海樓 (M4)"
+        "stop_name_tc": "彩虹轉車站 -碧海樓 (WT343)"
     },
     {
         "route": "83X",
@@ -186533,7 +186381,7 @@
         "service_type": "2",
         "seq": "5",
         "stop": "EDDE9311F49AC296",
-        "stop_name_tc": "彩虹轉車站 -碧海樓 (M4)"
+        "stop_name_tc": "彩虹轉車站 -碧海樓 (WT343)"
     },
     {
         "route": "83X",
@@ -186821,7 +186669,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "AA2D8DCDD78651B0",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (C2)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "84M",
@@ -186981,7 +186829,7 @@
         "service_type": "2",
         "seq": "17",
         "stop": "AA2D8DCDD78651B0",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (C2)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "84M",
@@ -187213,7 +187061,7 @@
         "service_type": "3",
         "seq": "3",
         "stop": "B27236FC63F891D9",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (B3)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "84M",
@@ -187221,7 +187069,7 @@
         "service_type": "3",
         "seq": "4",
         "stop": "96A6FE5F07BDF203",
-        "stop_name_tc": "黃大仙轉車站 - 沙田坳道 (A1)"
+        "stop_name_tc": "黃大仙轉車站 - 沙田坳道"
     },
     {
         "route": "84M",
@@ -195197,7 +195045,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "2EFDB1EADF5955E6",
-        "stop_name_tc": "牛池灣轉車站 - 牛池灣村 (G3)"
+        "stop_name_tc": "牛池灣轉車站 - 牛池灣村"
     },
     {
         "route": "88",
@@ -195205,7 +195053,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "E7116B44D9E9393A",
-        "stop_name_tc": "牛池灣轉車站 - 彩雲聖若瑟 (E1)"
+        "stop_name_tc": "牛池灣轉車站 - 彩雲聖若瑟"
     },
     {
         "route": "88",
@@ -195389,7 +195237,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "F6703708A375C67E",
-        "stop_name_tc": "牛池灣轉車站 - 彩虹站 (K4)"
+        "stop_name_tc": "牛池灣轉車站 - 彩虹站 (WT893)"
     },
     {
         "route": "88",
@@ -195397,7 +195245,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "AB194503D9CC9465",
-        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (H1)"
+        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (WT703)"
     },
     {
         "route": "88",
@@ -195629,7 +195477,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "B27236FC63F891D9",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (B3)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "889",
@@ -195637,7 +195485,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "96A6FE5F07BDF203",
-        "stop_name_tc": "黃大仙轉車站 - 沙田坳道 (A1)"
+        "stop_name_tc": "黃大仙轉車站 - 沙田坳道"
     },
     {
         "route": "889",
@@ -195653,7 +195501,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "4A8AAC7402C3F60F",
-        "stop_name_tc": "彩虹轉車站 - 金碧樓 (L2)"
+        "stop_name_tc": "彩虹轉車站 - 金碧樓 (WT346)"
     },
     {
         "route": "889",
@@ -197013,7 +196861,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "AB194503D9CC9465",
-        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (H1)"
+        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (WT703)"
     },
     {
         "route": "89",
@@ -197029,7 +196877,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "99440967B8390837",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (C1)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "89",
@@ -197189,7 +197037,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "38330C642568FE3F",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (B4)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "89",
@@ -197197,7 +197045,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "A15FFC3149FB92A0",
-        "stop_name_tc": "黃大仙轉車站 - 沙田坳道 (A2)"
+        "stop_name_tc": "黃大仙轉車站 - 沙田坳道"
     },
     {
         "route": "89",
@@ -197213,7 +197061,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "68B207DDC9A182AB",
-        "stop_name_tc": "牛池灣轉車站 - 牛池灣村 (G1)"
+        "stop_name_tc": "牛池灣轉車站 - 牛池灣村"
     },
     {
         "route": "89",
@@ -197541,7 +197389,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "18F3C20116BFE83D",
-        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (H3)"
+        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (WT705)"
     },
     {
         "route": "89B",
@@ -197565,7 +197413,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "99440967B8390837",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (C1)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "89B",
@@ -197725,7 +197573,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "38330C642568FE3F",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (B4)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "89B",
@@ -197733,7 +197581,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "A15FFC3149FB92A0",
-        "stop_name_tc": "黃大仙轉車站 - 沙田坳道 (A2)"
+        "stop_name_tc": "黃大仙轉車站 - 沙田坳道"
     },
     {
         "route": "89B",
@@ -197749,7 +197597,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "3BB1407BA61E0A9B",
-        "stop_name_tc": "彩虹轉車站 - 金碧樓 (L1)"
+        "stop_name_tc": "彩虹轉車站 - 金碧樓 (WT345)"
     },
     {
         "route": "89B",
@@ -197869,7 +197717,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "E7A8D18CC7046843",
-        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (H4)"
+        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (WT706)"
     },
     {
         "route": "89C",
@@ -198133,7 +197981,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "3BB1407BA61E0A9B",
-        "stop_name_tc": "彩虹轉車站 - 金碧樓 (L1)"
+        "stop_name_tc": "彩虹轉車站 - 金碧樓 (WT345)"
     },
     {
         "route": "89C",
@@ -198445,7 +198293,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "E7A8D18CC7046843",
-        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (H4)"
+        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (WT706)"
     },
     {
         "route": "89D",
@@ -198837,7 +198685,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "279C78D8C04A83BB",
-        "stop_name_tc": "彩虹轉車站 - 碧海樓 (M3)"
+        "stop_name_tc": "彩虹轉車站 - 碧海樓 (WT342)"
     },
     {
         "route": "89D",
@@ -199861,7 +199709,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "AB194503D9CC9465",
-        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (H1)"
+        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (WT703)"
     },
     {
         "route": "89X",
@@ -200045,7 +199893,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "3BB1407BA61E0A9B",
-        "stop_name_tc": "彩虹轉車站 - 金碧樓 (L1)"
+        "stop_name_tc": "彩虹轉車站 - 金碧樓 (WT345)"
     },
     {
         "route": "89X",
@@ -200533,7 +200381,7 @@
         "service_type": "1",
         "seq": "24",
         "stop": "4A8AAC7402C3F60F",
-        "stop_name_tc": "彩虹轉車站 - 金碧樓 (L2)"
+        "stop_name_tc": "彩虹轉車站 - 金碧樓 (WT346)"
     },
     {
         "route": "9",
@@ -200613,7 +200461,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "29B66F2353388E18",
-        "stop_name_tc": "牛池灣轉車站 - 彩虹站 (K7)"
+        "stop_name_tc": "牛池灣轉車站 - 彩虹站 (WT896)"
     },
     {
         "route": "9",
@@ -200621,7 +200469,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "917DF4AF0ED7B258",
-        "stop_name_tc": "牛池灣轉車站 - 丹鳳樓 (J2)"
+        "stop_name_tc": "牛池灣轉車站 - 丹鳳樓 (WT701)"
     },
     {
         "route": "9",
@@ -200629,7 +200477,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "92540DF9CB08304C",
-        "stop_name_tc": "彩虹轉車站 - 錦雲樓 (P3)"
+        "stop_name_tc": "彩虹轉車站 - 錦雲樓 (WT372)"
     },
     {
         "route": "9",
@@ -204077,7 +203925,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "5169C5ACEA8B1746",
-        "stop_name_tc": "彩虹轉車站- 碧海樓 (M1)"
+        "stop_name_tc": "彩虹轉車站- 碧海樓 (WT340)"
     },
     {
         "route": "91",
@@ -204085,7 +203933,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "2EFDB1EADF5955E6",
-        "stop_name_tc": "牛池灣轉車站 - 牛池灣村 (G3)"
+        "stop_name_tc": "牛池灣轉車站 - 牛池灣村"
     },
     {
         "route": "91",
@@ -204333,7 +204181,7 @@
         "service_type": "2",
         "seq": "1",
         "stop": "5169C5ACEA8B1746",
-        "stop_name_tc": "彩虹轉車站- 碧海樓 (M1)"
+        "stop_name_tc": "彩虹轉車站- 碧海樓 (WT340)"
     },
     {
         "route": "91",
@@ -204341,7 +204189,7 @@
         "service_type": "2",
         "seq": "2",
         "stop": "2EFDB1EADF5955E6",
-        "stop_name_tc": "牛池灣轉車站 - 牛池灣村 (G3)"
+        "stop_name_tc": "牛池灣轉車站 - 牛池灣村"
     },
     {
         "route": "91",
@@ -204797,7 +204645,7 @@
         "service_type": "1",
         "seq": "27",
         "stop": "5D77A5CBE41F2984",
-        "stop_name_tc": "牛池灣轉車站 - 彩虹站 (K2)"
+        "stop_name_tc": "牛池灣轉車站 - 彩虹站 (WT891)"
     },
     {
         "route": "91",
@@ -204805,7 +204653,7 @@
         "service_type": "1",
         "seq": "28",
         "stop": "18F3C20116BFE83D",
-        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (H3)"
+        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (WT705)"
     },
     {
         "route": "91",
@@ -204813,7 +204661,7 @@
         "service_type": "1",
         "seq": "29",
         "stop": "332F374B6CB17C57",
-        "stop_name_tc": "彩虹轉車站 - 錦雲樓 (P2)"
+        "stop_name_tc": "彩虹轉車站 - 錦雲樓 (WT371)"
     },
     {
         "route": "91",
@@ -206565,7 +206413,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "5169C5ACEA8B1746",
-        "stop_name_tc": "彩虹轉車站- 碧海樓 (M1)"
+        "stop_name_tc": "彩虹轉車站- 碧海樓 (WT340)"
     },
     {
         "route": "91M",
@@ -206573,7 +206421,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "2EFDB1EADF5955E6",
-        "stop_name_tc": "牛池灣轉車站 - 牛池灣村 (G3)"
+        "stop_name_tc": "牛池灣轉車站 - 牛池灣村"
     },
     {
         "route": "91M",
@@ -207045,7 +206893,7 @@
         "service_type": "1",
         "seq": "24",
         "stop": "5D77A5CBE41F2984",
-        "stop_name_tc": "牛池灣轉車站 - 彩虹站 (K2)"
+        "stop_name_tc": "牛池灣轉車站 - 彩虹站 (WT891)"
     },
     {
         "route": "91M",
@@ -207053,7 +206901,7 @@
         "service_type": "1",
         "seq": "25",
         "stop": "18F3C20116BFE83D",
-        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (H3)"
+        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (WT705)"
     },
     {
         "route": "91M",
@@ -207061,7 +206909,7 @@
         "service_type": "1",
         "seq": "26",
         "stop": "332F374B6CB17C57",
-        "stop_name_tc": "彩虹轉車站 - 錦雲樓 (P2)"
+        "stop_name_tc": "彩虹轉車站 - 錦雲樓 (WT371)"
     },
     {
         "route": "91M",
@@ -207173,7 +207021,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "5D77A5CBE41F2984",
-        "stop_name_tc": "牛池灣轉車站 - 彩虹站 (K2)"
+        "stop_name_tc": "牛池灣轉車站 - 彩虹站 (WT891)"
     },
     {
         "route": "91P",
@@ -207189,7 +207037,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "2EFDB1EADF5955E6",
-        "stop_name_tc": "牛池灣轉車站 - 牛池灣村 (G3)"
+        "stop_name_tc": "牛池灣轉車站 - 牛池灣村"
     },
     {
         "route": "91P",
@@ -207677,7 +207525,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "87825C8E4FE99CD8",
-        "stop_name_tc": "彩虹轉車站 - 碧海樓 (M2)"
+        "stop_name_tc": "彩虹轉車站 - 碧海樓 (WT341)"
     },
     {
         "route": "92",
@@ -207685,7 +207533,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "38021D9E2840F8CC",
-        "stop_name_tc": "牛池灣轉車站 - 牛池灣村 (G4)"
+        "stop_name_tc": "牛池灣轉車站 - 牛池灣村"
     },
     {
         "route": "92",
@@ -207901,7 +207749,7 @@
         "service_type": "2",
         "seq": "2",
         "stop": "38021D9E2840F8CC",
-        "stop_name_tc": "牛池灣轉車站 - 牛池灣村 (G4)"
+        "stop_name_tc": "牛池灣轉車站 - 牛池灣村"
     },
     {
         "route": "92",
@@ -208157,7 +208005,7 @@
         "service_type": "1",
         "seq": "25",
         "stop": "5D77A5CBE41F2984",
-        "stop_name_tc": "牛池灣轉車站 - 彩虹站 (K2)"
+        "stop_name_tc": "牛池灣轉車站 - 彩虹站 (WT891)"
     },
     {
         "route": "92",
@@ -208165,7 +208013,7 @@
         "service_type": "1",
         "seq": "26",
         "stop": "18F3C20116BFE83D",
-        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (H3)"
+        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (WT705)"
     },
     {
         "route": "92",
@@ -208173,7 +208021,7 @@
         "service_type": "1",
         "seq": "27",
         "stop": "332F374B6CB17C57",
-        "stop_name_tc": "彩虹轉車站 - 錦雲樓 (P2)"
+        "stop_name_tc": "彩虹轉車站 - 錦雲樓 (WT371)"
     },
     {
         "route": "92",
@@ -208229,7 +208077,7 @@
         "service_type": "2",
         "seq": "5",
         "stop": "5D77A5CBE41F2984",
-        "stop_name_tc": "牛池灣轉車站 - 彩虹站 (K2)"
+        "stop_name_tc": "牛池灣轉車站 - 彩虹站 (WT891)"
     },
     {
         "route": "92",
@@ -208237,7 +208085,7 @@
         "service_type": "2",
         "seq": "6",
         "stop": "18F3C20116BFE83D",
-        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (H3)"
+        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (WT705)"
     },
     {
         "route": "92",
@@ -208317,7 +208165,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "38021D9E2840F8CC",
-        "stop_name_tc": "牛池灣轉車站 - 牛池灣村 (G4)"
+        "stop_name_tc": "牛池灣轉車站 - 牛池灣村"
     },
     {
         "route": "92R",
@@ -208413,7 +208261,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "5D77A5CBE41F2984",
-        "stop_name_tc": "牛池灣轉車站 - 彩虹站 (K2)"
+        "stop_name_tc": "牛池灣轉車站 - 彩虹站 (WT891)"
     },
     {
         "route": "92R",
@@ -214093,7 +213941,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "E7116B44D9E9393A",
-        "stop_name_tc": "牛池灣轉車站 - 彩雲聖若瑟 (E1)"
+        "stop_name_tc": "牛池灣轉車站 - 彩雲聖若瑟"
     },
     {
         "route": "95",
@@ -214333,7 +214181,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "29B66F2353388E18",
-        "stop_name_tc": "牛池灣轉車站 - 彩虹站 (K7)"
+        "stop_name_tc": "牛池灣轉車站 - 彩虹站 (WT896)"
     },
     {
         "route": "95",
@@ -214341,7 +214189,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "917DF4AF0ED7B258",
-        "stop_name_tc": "牛池灣轉車站 - 丹鳳樓 (J2)"
+        "stop_name_tc": "牛池灣轉車站 - 丹鳳樓 (WT701)"
     },
     {
         "route": "95",
@@ -214349,7 +214197,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "92540DF9CB08304C",
-        "stop_name_tc": "彩虹轉車站 - 錦雲樓 (P3)"
+        "stop_name_tc": "彩虹轉車站 - 錦雲樓 (WT372)"
     },
     {
         "route": "95",
@@ -220653,7 +220501,7 @@
         "service_type": "1",
         "seq": "48",
         "stop": "5D77A5CBE41F2984",
-        "stop_name_tc": "牛池灣轉車站 - 彩虹站 (K2)"
+        "stop_name_tc": "牛池灣轉車站 - 彩虹站 (WT891)"
     },
     {
         "route": "96R",
@@ -220661,7 +220509,7 @@
         "service_type": "1",
         "seq": "49",
         "stop": "18F3C20116BFE83D",
-        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (H3)"
+        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (WT705)"
     },
     {
         "route": "96R",
@@ -220669,7 +220517,7 @@
         "service_type": "1",
         "seq": "50",
         "stop": "332F374B6CB17C57",
-        "stop_name_tc": "彩虹轉車站 - 錦雲樓 (P2)"
+        "stop_name_tc": "彩虹轉車站 - 錦雲樓 (WT371)"
     },
     {
         "route": "96R",
@@ -220709,7 +220557,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "87825C8E4FE99CD8",
-        "stop_name_tc": "彩虹轉車站 - 碧海樓 (M2)"
+        "stop_name_tc": "彩虹轉車站 - 碧海樓 (WT341)"
     },
     {
         "route": "96R",
@@ -220717,7 +220565,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "38021D9E2840F8CC",
-        "stop_name_tc": "牛池灣轉車站 - 牛池灣村 (G4)"
+        "stop_name_tc": "牛池灣轉車站 - 牛池灣村"
     },
     {
         "route": "96R",
@@ -250973,7 +250821,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "AA6F0A2661759A49",
-        "stop_name_tc": "牛池灣轉車站 - 丹鳳樓 (J3)"
+        "stop_name_tc": "牛池灣轉車站 - 丹鳳樓 (WT702)"
     },
     {
         "route": "N121",
@@ -250981,7 +250829,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "92540DF9CB08304C",
-        "stop_name_tc": "彩虹轉車站 - 錦雲樓 (P3)"
+        "stop_name_tc": "彩虹轉車站 - 錦雲樓 (WT372)"
     },
     {
         "route": "N121",
@@ -251397,7 +251245,7 @@
         "service_type": "1",
         "seq": "27",
         "stop": "D80313EC29620E1D",
-        "stop_name_tc": "彩虹轉車站 - 碧海樓 (M5)"
+        "stop_name_tc": "彩虹轉車站 - 碧海樓 (WT344)"
     },
     {
         "route": "N121",
@@ -254277,7 +254125,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "29B66F2353388E18",
-        "stop_name_tc": "牛池灣轉車站 - 彩虹站 (K7)"
+        "stop_name_tc": "牛池灣轉車站 - 彩虹站 (WT896)"
     },
     {
         "route": "N214",
@@ -254293,7 +254141,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "62A1C8EFAC876BDB",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (D2)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "N214",
@@ -254669,7 +254517,7 @@
         "service_type": "1",
         "seq": "32",
         "stop": "D80313EC29620E1D",
-        "stop_name_tc": "彩虹轉車站 - 碧海樓 (M5)"
+        "stop_name_tc": "彩虹轉車站 - 碧海樓 (WT344)"
     },
     {
         "route": "N216",
@@ -254677,7 +254525,7 @@
         "service_type": "1",
         "seq": "33",
         "stop": "4513DF30B4CBA349",
-        "stop_name_tc": "牛池灣轉車站 - 牛池灣街市 (F1)"
+        "stop_name_tc": "牛池灣轉車站 - 牛池灣街市"
     },
     {
         "route": "N216",
@@ -254685,7 +254533,7 @@
         "service_type": "1",
         "seq": "34",
         "stop": "E7116B44D9E9393A",
-        "stop_name_tc": "牛池灣轉車站 - 彩雲聖若瑟 (E1)"
+        "stop_name_tc": "牛池灣轉車站 - 彩雲聖若瑟"
     },
     {
         "route": "N216",
@@ -255021,7 +254869,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "29B66F2353388E18",
-        "stop_name_tc": "牛池灣轉車站 - 彩虹站 (K7)"
+        "stop_name_tc": "牛池灣轉車站 - 彩虹站 (WT896)"
     },
     {
         "route": "N216",
@@ -255029,7 +254877,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "AA6F0A2661759A49",
-        "stop_name_tc": "牛池灣轉車站 - 丹鳳樓 (J3)"
+        "stop_name_tc": "牛池灣轉車站 - 丹鳳樓 (WT702)"
     },
     {
         "route": "N216",
@@ -255037,7 +254885,7 @@
         "service_type": "1",
         "seq": "23",
         "stop": "92540DF9CB08304C",
-        "stop_name_tc": "彩虹轉車站 - 錦雲樓 (P3)"
+        "stop_name_tc": "彩虹轉車站 - 錦雲樓 (WT372)"
     },
     {
         "route": "N216",
@@ -260821,7 +260669,7 @@
         "service_type": "1",
         "seq": "36",
         "stop": "29B66F2353388E18",
-        "stop_name_tc": "牛池灣轉車站 - 彩虹站 (K7)"
+        "stop_name_tc": "牛池灣轉車站 - 彩虹站 (WT896)"
     },
     {
         "route": "N290",
@@ -260829,7 +260677,7 @@
         "service_type": "1",
         "seq": "37",
         "stop": "58584BC1AC41723C",
-        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (H2)"
+        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (WT704)"
     },
     {
         "route": "N290",
@@ -260845,7 +260693,7 @@
         "service_type": "1",
         "seq": "39",
         "stop": "0EB21C27E769261B",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (D1)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "N290",
@@ -261037,7 +260885,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "9FD865B00B2D54A1",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (B5)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "N290",
@@ -261045,7 +260893,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "64CE8117895E8FAD",
-        "stop_name_tc": "牛池灣轉車站-牛池灣村 (G2)"
+        "stop_name_tc": "牛池灣轉車站-牛池灣村 (WT213)"
     },
     {
         "route": "N290",
@@ -265269,7 +265117,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "EDDE9311F49AC296",
-        "stop_name_tc": "彩虹轉車站 -碧海樓 (M4)"
+        "stop_name_tc": "彩虹轉車站 -碧海樓 (WT343)"
     },
     {
         "route": "N3D",
@@ -265381,7 +265229,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "917DF4AF0ED7B258",
-        "stop_name_tc": "牛池灣轉車站 - 丹鳳樓 (J2)"
+        "stop_name_tc": "牛池灣轉車站 - 丹鳳樓 (WT701)"
     },
     {
         "route": "N3D",
@@ -265389,7 +265237,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "7FB952821E3FCAD2",
-        "stop_name_tc": "彩虹轉車站 - 彩虹總站 (N6)"
+        "stop_name_tc": "彩虹轉車站 - 彩虹總站 (WT995)"
     },
     {
         "route": "N3D",
@@ -283125,7 +282973,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "58584BC1AC41723C",
-        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (H2)"
+        "stop_name_tc": "牛池灣轉車站 - 紅萼樓 (WT704)"
     },
     {
         "route": "X42C",
@@ -283141,7 +282989,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "62A1C8EFAC876BDB",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (D2)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "X42C",
@@ -283429,7 +283277,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "5536C9E3A0CE1228",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (B6)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "X42C",
@@ -283437,7 +283285,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "A15FFC3149FB92A0",
-        "stop_name_tc": "黃大仙轉車站 - 沙田坳道 (A2)"
+        "stop_name_tc": "黃大仙轉車站 - 沙田坳道"
     },
     {
         "route": "X42C",
@@ -283453,7 +283301,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "D80313EC29620E1D",
-        "stop_name_tc": "彩虹轉車站 - 碧海樓 (M5)"
+        "stop_name_tc": "彩虹轉車站 - 碧海樓 (WT344)"
     },
     {
         "route": "X42C",
@@ -283613,7 +283461,7 @@
         "service_type": "2",
         "seq": "10",
         "stop": "5536C9E3A0CE1228",
-        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟 (B6)"
+        "stop_name_tc": "黃大仙轉車站 - 黃大仙廟"
     },
     {
         "route": "X42C",
@@ -283621,7 +283469,7 @@
         "service_type": "2",
         "seq": "11",
         "stop": "A15FFC3149FB92A0",
-        "stop_name_tc": "黃大仙轉車站 - 沙田坳道 (A2)"
+        "stop_name_tc": "黃大仙轉車站 - 沙田坳道"
     },
     {
         "route": "X42C",
@@ -283637,7 +283485,7 @@
         "service_type": "2",
         "seq": "13",
         "stop": "D80313EC29620E1D",
-        "stop_name_tc": "彩虹轉車站 - 碧海樓 (M5)"
+        "stop_name_tc": "彩虹轉車站 - 碧海樓 (WT344)"
     },
     {
         "route": "X42C",
