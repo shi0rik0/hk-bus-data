@@ -2793,9 +2793,9 @@
     },
     {
         "stop": "0EAFBD8737911A6A",
-        "name_en": "WONG TAI SIN BBI - WONG TAI SIN TEMPLE (WT713)",
-        "name_tc": "黃大仙轉車站 - 黃大仙廟",
-        "name_sc": "黄大仙转车站 - 黄大仙庙",
+        "name_en": "WONG TAI SIN BBI-WONG TAI SIN TEMPLE (WT713)",
+        "name_tc": "黃大仙轉車站-黃大仙廟 (WT713)",
+        "name_sc": "黄大仙转车站-黄大仙庙 (WT713)",
         "lat": "22.341474",
         "long": "114.195481"
     },
@@ -2809,9 +2809,9 @@
     },
     {
         "stop": "0EB21C27E769261B",
-        "name_en": "WONG TAI SIN BBI - WONG TAI SIN TEMPLE (WT715)",
-        "name_tc": "黃大仙轉車站 - 黃大仙廟",
-        "name_sc": "黄大仙转车站 - 黄大仙庙",
+        "name_en": "WONG TAI SIN BBI-WONG TAI SIN TEMPLE (WT715)",
+        "name_tc": "黃大仙轉車站-黃大仙廟 (WT715)",
+        "name_sc": "黄大仙转车站-黄大仙庙 (WT715)",
         "lat": "22.341470",
         "long": "114.195370"
     },
@@ -5153,9 +5153,9 @@
     },
     {
         "stop": "18F3C20116BFE83D",
-        "name_en": "NGAU CHI WAN BBI - HUNG NGOK HOUSE (WT705)",
-        "name_tc": "牛池灣轉車站 - 紅萼樓 (WT705)",
-        "name_sc": "牛池湾转车站 - 红萼楼 (WT705)",
+        "name_en": "NGAU CHI WAN BBI-HUNG NGOK HOUSE (WT705)",
+        "name_tc": "牛池灣轉車站-紅萼樓 (WT705)",
+        "name_sc": "牛池湾转车站-红萼楼 (WT705)",
         "lat": "22.336926",
         "long": "114.206219"
     },
@@ -5513,9 +5513,9 @@
     },
     {
         "stop": "1ACC12FB59AE1A98",
-        "name_en": "PING SHEK BUS TERMINUS (K1) (WT890)",
-        "name_tc": "坪石總站 (K1) (WT890)",
-        "name_sc": "坪石总站 (K1) (WT890)",
+        "name_en": "PING SHEK BUS TERMINUS (WT890)",
+        "name_tc": "坪石總站 (WT890)",
+        "name_sc": "坪石总站 (WT890)",
         "lat": "22.333985",
         "long": "114.210024"
     },
@@ -9681,9 +9681,9 @@
     },
     {
         "stop": "2EFDB1EADF5955E6",
-        "name_en": "NGAU CHI WAN BBI - NGAU CHI WAN VILLAGE (WT214)",
-        "name_tc": "牛池灣轉車站 - 牛池灣村",
-        "name_sc": "牛池湾转车站 - 牛池湾村",
+        "name_en": "NGAU CHI WAN BBI-NGAU CHI WAN VILLAGE (WT214)",
+        "name_tc": "牛池灣轉車站-牛池灣村 (WT214)",
+        "name_sc": "牛池湾转车站-牛池湾村 (WT214)",
         "lat": "22.336020",
         "long": "114.207625"
     },
@@ -11857,9 +11857,9 @@
     },
     {
         "stop": "38021D9E2840F8CC",
-        "name_en": "NGAU CHI WAN BBI - NGAU CHI WAN VILLAGE (WT215)",
-        "name_tc": "牛池灣轉車站 - 牛池灣村",
-        "name_sc": "牛池湾转车站 - 牛池湾村",
+        "name_en": "NGAU CHI WAN BBI-NGAU CHI WAN VILLAGE (WT215)",
+        "name_tc": "牛池灣轉車站-牛池灣村 (WT215)",
+        "name_sc": "牛池湾转车站-牛池湾村 (WT215)",
         "lat": "22.335535",
         "long": "114.207944"
     },
@@ -11873,9 +11873,9 @@
     },
     {
         "stop": "38330C642568FE3F",
-        "name_en": "WONG TAI SIN BBI - WONG TAI SIN TEMPLE (WT205)",
-        "name_tc": "黃大仙轉車站 - 黃大仙廟",
-        "name_sc": "黄大仙转车站 - 黄大仙庙",
+        "name_en": "WONG TAI SIN BBI-WONG TAI SIN TEMPLE (WT205)",
+        "name_tc": "黃大仙轉車站-黃大仙廟 (WT205)",
+        "name_sc": "黄大仙转车站-黄大仙庙 (WT205)",
         "lat": "22.341855",
         "long": "114.192179"
     },
@@ -12441,9 +12441,9 @@
     },
     {
         "stop": "3B35E109EB76E70D",
-        "name_en": "NGAU CHI WAI BBI - HUNG NGOK HOUSE (WT707)",
-        "name_tc": "牛池灣轉車站 - 紅萼樓 (WT707)",
-        "name_sc": "牛池湾转车站 - 红萼楼 (WT707)",
+        "name_en": "NGAU CHI WAI BBI-HUNG NGOK HOUSE (WT707)",
+        "name_tc": "牛池灣轉車站-紅萼樓 (WT707)",
+        "name_sc": "牛池湾转车站-红萼楼 (WT707)",
         "lat": "22.336996",
         "long": "114.206102"
     },
@@ -14641,9 +14641,9 @@
     },
     {
         "stop": "4513DF30B4CBA349",
-        "name_en": "NGAU CHI WAN BBI - NGAU CHI WAN MARKET (WT225)",
-        "name_tc": "牛池灣轉車站 - 牛池灣街市",
-        "name_sc": "牛池湾转车站 - 牛池湾街市",
+        "name_en": "NGAU CHI WAN BBI-NGAU CHI WAN MARKET (WT225)",
+        "name_tc": "牛池灣轉車站-牛池灣街市",
+        "name_sc": "牛池湾转车站-牛池湾街市",
         "lat": "22.334284",
         "long": "114.209224"
     },
@@ -18089,9 +18089,9 @@
     },
     {
         "stop": "5536C9E3A0CE1228",
-        "name_en": "WONG TAI SIN BBI - WONG TAI SIN TEMPLE (WT203)",
-        "name_tc": "黃大仙轉車站 - 黃大仙廟",
-        "name_sc": "黄大仙转车站 - 黄大仙庙",
+        "name_en": "WONG TAI SIN BBI-WONG TAI SIN TEMPLE (WT203)",
+        "name_tc": "黃大仙轉車站-黃大仙廟 (WT203)",
+        "name_sc": "黄大仙转车站-黄大仙庙 (WT203)",
         "lat": "22.341855",
         "long": "114.192100"
     },
@@ -18753,9 +18753,9 @@
     },
     {
         "stop": "58584BC1AC41723C",
-        "name_en": "NGAU CHI WAN BBI - HUNG NGOK HOUSE (WT704)",
-        "name_tc": "牛池灣轉車站 - 紅萼樓 (WT704)",
-        "name_sc": "牛池湾转车站 - 红萼楼 (WT704)",
+        "name_en": "NGAU CHI WAN BBI-HUNG NGOK HOUSE (WT704)",
+        "name_tc": "牛池灣轉車站-紅萼樓 (WT704)",
+        "name_sc": "牛池湾转车站-红萼楼 (WT704)",
         "lat": "22.336895",
         "long": "114.206268"
     },
@@ -19681,9 +19681,9 @@
     },
     {
         "stop": "5CD4C77378D3A4AE",
-        "name_en": "NGAU CHI WAN BBI - NGAU CHI WAN MARKET) (WT226)",
-        "name_tc": "牛池灣轉車站 - 牛池灣街市",
-        "name_sc": "牛池湾转车站 - 牛池湾街市",
+        "name_en": "NGAU CHI WAN BBI-NGAU CHI WAN MARKET) (WT226)",
+        "name_tc": "牛池灣轉車站-牛池灣街市",
+        "name_sc": "牛池湾转车站-牛池湾街市",
         "lat": "22.334351",
         "long": "114.209490"
     },
@@ -20905,9 +20905,9 @@
     },
     {
         "stop": "62A1C8EFAC876BDB",
-        "name_en": "WONG TAI SIN BBI - WONG TAI SIN TEMPLE (WT714)",
-        "name_tc": "黃大仙轉車站 - 黃大仙廟",
-        "name_sc": "黄大仙转车站 - 黄大仙庙",
+        "name_en": "WONG TAI SIN BBI-WONG TAI SIN TEMPLE (WT714)",
+        "name_tc": "黃大仙轉車站-黃大仙廟 (WT714)",
+        "name_sc": "黄大仙转车站-黄大仙庙 (WT714)",
         "lat": "22.341470",
         "long": "114.195370"
     },
@@ -22305,9 +22305,9 @@
     },
     {
         "stop": "68B207DDC9A182AB",
-        "name_en": "NGAU CHI WAN BBI - NGAU CHI WAN VILLAGE (WT211)",
-        "name_tc": "牛池灣轉車站 - 牛池灣村",
-        "name_sc": "牛池湾转车站 - 牛池湾村",
+        "name_en": "NGAU CHI WAN BBI-NGAU CHI WAN VILLAGE (WT211)",
+        "name_tc": "牛池灣轉車站-牛池灣村 (WT211)",
+        "name_sc": "牛池湾转车站-牛池湾村 (WT211)",
         "lat": "22.336630",
         "long": "114.207400"
     },
@@ -25545,9 +25545,9 @@
     },
     {
         "stop": "7917BB962CCB11C0",
-        "name_en": "WONG TAI SIN BBI - WONG TAI SIN TEMPLE (WT716)",
-        "name_tc": "黃大仙轉車站 - 黃大仙廟",
-        "name_sc": "黄大仙转车站 - 黄大仙庙",
+        "name_en": "WONG TAI SIN BBI-WONG TAI SIN TEMPLE (WT716)",
+        "name_tc": "黃大仙轉車站-黃大仙廟 (WT716)",
+        "name_sc": "黄大仙转车站-黄大仙庙 (WT716)",
         "lat": "22.341481",
         "long": "114.194522"
     },
@@ -30129,9 +30129,9 @@
     },
     {
         "stop": "917DF4AF0ED7B258",
-        "name_en": "NGAU CHI WAN BBI - TAN FUNG HOUSE (WT701)",
-        "name_tc": "牛池灣轉車站 - 丹鳳樓 (WT701)",
-        "name_sc": "牛池湾转车站 - 丹凤楼 (WT701)",
+        "name_en": "NGAU CHI WAN BBI-TAN FUNG HOUSE (WT701)",
+        "name_tc": "牛池灣轉車站-丹鳳樓 (WT701)",
+        "name_sc": "牛池湾转车站-丹凤楼 (WT701)",
         "lat": "22.335294",
         "long": "114.207582"
     },
@@ -31233,9 +31233,9 @@
     },
     {
         "stop": "96A6FE5F07BDF203",
-        "name_en": "WONG TAI SIN BBI - SHATIN PASS ROAD (WT210)",
-        "name_tc": "黃大仙轉車站 - 沙田坳道",
-        "name_sc": "黄大仙转车站 - 沙田坳道",
+        "name_en": "WONG TAI SIN BBI-SHATIN PASS ROAD (WT210)",
+        "name_tc": "黃大仙轉車站-沙田坳道 (WT210)",
+        "name_sc": "黄大仙转车站-沙田坳道 (WT210)",
         "lat": "22.341856",
         "long": "114.195281"
     },
@@ -31705,9 +31705,9 @@
     },
     {
         "stop": "99440967B8390837",
-        "name_en": "WONG TAI SIN BBI - WONG TAI SIN TEMPLE (WT718)",
-        "name_tc": "黃大仙轉車站 - 黃大仙廟",
-        "name_sc": "黄大仙转车站 - 黄大仙庙",
+        "name_en": "WONG TAI SIN BBI-WONG TAI SIN TEMPLE (WT718)",
+        "name_tc": "黃大仙轉車站-黃大仙廟 (WT718)",
+        "name_sc": "黄大仙转车站-黄大仙庙 (WT718)",
         "lat": "22.341481",
         "long": "114.194301"
     },
@@ -33073,9 +33073,9 @@
     },
     {
         "stop": "9FD865B00B2D54A1",
-        "name_en": "WONG TAI SIN BBI - WONG TAI SIN TEMPLE (WT204)",
-        "name_tc": "黃大仙轉車站 - 黃大仙廟",
-        "name_sc": "黄大仙转车站 - 黄大仙庙",
+        "name_en": "WONG TAI SIN BBI-WONG TAI SIN TEMPLE (WT204)",
+        "name_tc": "黃大仙轉車站-黃大仙廟 (WT204)",
+        "name_sc": "黄大仙转车站-黄大仙庙 (WT204)",
         "lat": "22.341855",
         "long": "114.192100"
     },
@@ -33489,9 +33489,9 @@
     },
     {
         "stop": "A15FFC3149FB92A0",
-        "name_en": "WONG TAI SIN BBI - SHATIN PASS ROAD (WT209)",
-        "name_tc": "黃大仙轉車站 - 沙田坳道",
-        "name_sc": "黄大仙转车站 - 沙田坳道",
+        "name_en": "WONG TAI SIN BBI-SHATIN PASS ROAD (WT209)",
+        "name_tc": "黃大仙轉車站-沙田坳道 (WT209)",
+        "name_sc": "黄大仙转车站-沙田坳道 (WT209)",
         "lat": "22.341856",
         "long": "114.195204"
     },
@@ -34833,9 +34833,9 @@
     },
     {
         "stop": "A7ACF96685132360",
-        "name_en": "WONG TAI SIN BBI - WONG TAI SIN TEMPLE (WT208)",
-        "name_tc": "黃大仙轉車站 - 黃大仙廟",
-        "name_sc": "黄大仙转车站 - 黄大仙庙",
+        "name_en": "WONG TAI SIN BBI-WONG TAI SIN TEMPLE (WT208)",
+        "name_tc": "黃大仙轉車站-黃大仙廟 (WT208)",
+        "name_sc": "黄大仙转车站-黄大仙庙 (WT208)",
         "lat": "22.341850",
         "long": "114.192418"
     },
@@ -35489,9 +35489,9 @@
     },
     {
         "stop": "AA2D8DCDD78651B0",
-        "name_en": "WONG TAI SIN BBI - WONG TAI SIN TEMPLE (WT717)",
-        "name_tc": "黃大仙轉車站 - 黃大仙廟",
-        "name_sc": "黄大仙转车站 - 黄大仙庙",
+        "name_en": "WONG TAI SIN BBI-WONG TAI SIN TEMPLE (WT717)",
+        "name_tc": "黃大仙轉車站-黃大仙廟 (WT717)",
+        "name_sc": "黄大仙转车站-黄大仙庙 (WT717)",
         "lat": "22.341479",
         "long": "114.194399"
     },
@@ -35561,9 +35561,9 @@
     },
     {
         "stop": "AA6F0A2661759A49",
-        "name_en": "NGAU CHI WAN BBI - TAN FUNG HOUSE (WT702)",
-        "name_tc": "牛池灣轉車站 - 丹鳳樓 (WT702)",
-        "name_sc": "牛池湾转车站 - 丹凤楼 (WT702)",
+        "name_en": "NGAU CHI WAN BBI-TAN FUNG HOUSE (WT702)",
+        "name_tc": "牛池灣轉車站-丹鳳樓 (WT702)",
+        "name_sc": "牛池湾转车站-丹凤楼 (WT702)",
         "lat": "22.335360",
         "long": "114.207552"
     },
@@ -35713,9 +35713,9 @@
     },
     {
         "stop": "AB194503D9CC9465",
-        "name_en": "NGAU CHI WAN BBI - HUNG NGOK HOUSE (WT703)",
-        "name_tc": "牛池灣轉車站 - 紅萼樓 (WT703)",
-        "name_sc": "牛池湾转车站 - 红萼楼 (WT703)",
+        "name_en": "NGAU CHI WAN BBI-HUNG NGOK HOUSE (WT703)",
+        "name_tc": "牛池灣轉車站-紅萼樓 (WT703)",
+        "name_sc": "牛池湾转车站-红萼楼 (WT703)",
         "lat": "22.336858",
         "long": "114.206330"
     },
@@ -36097,9 +36097,9 @@
     },
     {
         "stop": "AD0B5EFA2471962C",
-        "name_en": "NGAU CHI WAN BBI - HUNG NGOK HOUSE (WT709)",
-        "name_tc": "牛池灣轉車站 - 紅萼樓 (WT709)",
-        "name_sc": "牛池湾转车站 - 红萼楼 (WT709)",
+        "name_en": "NGAU CHI WAN BBI-HUNG NGOK HOUSE (WT709)",
+        "name_tc": "牛池灣轉車站-紅萼樓 (WT709)",
+        "name_sc": "牛池湾转车站-红萼楼 (WT709)",
         "lat": "22.337067",
         "long": "114.205979"
     },
@@ -37089,9 +37089,9 @@
     },
     {
         "stop": "B27236FC63F891D9",
-        "name_en": "WONG TAI SIN BBI - WONG TAI SIN TEMPLE (WT206)",
-        "name_tc": "黃大仙轉車站 - 黃大仙廟",
-        "name_sc": "黄大仙转车站 - 黄大仙庙",
+        "name_en": "WONG TAI SIN BBI-WONG TAI SIN TEMPLE (WT206)",
+        "name_tc": "黃大仙轉車站-黃大仙廟 (WT206)",
+        "name_sc": "黄大仙转车站-黄大仙庙 (WT206)",
         "lat": "22.341855",
         "long": "114.192263"
     },
@@ -47770,8 +47770,8 @@
     {
         "stop": "E7116B44D9E9393A",
         "name_en": "NGAU CHI WAN BBI-CHOI WAN ST. JOSEPH'S SCHOOL",
-        "name_tc": "牛池灣轉車站 - 彩雲聖若瑟",
-        "name_sc": "牛池湾转车站 - 彩云圣若瑟",
+        "name_tc": "牛池灣轉車站-彩雲聖若瑟",
+        "name_sc": "牛池湾转车站-彩云圣若瑟",
         "lat": "22.334458",
         "long": "114.211619"
     },
@@ -47945,9 +47945,9 @@
     },
     {
         "stop": "E7A8D18CC7046843",
-        "name_en": "NGAU CHI WAN BBI - HUNG NGOK HOUSE (WT706)",
-        "name_tc": "牛池灣轉車站 - 紅萼樓 (WT706)",
-        "name_sc": "牛池湾转车站 - 红萼楼 (WT706)",
+        "name_en": "NGAU CHI WAN BBI-HUNG NGOK HOUSE (WT706)",
+        "name_tc": "牛池灣轉車站-紅萼樓 (WT706)",
+        "name_sc": "牛池湾转车站-红萼楼 (WT706)",
         "lat": "22.336963",
         "long": "114.206156"
     },
@@ -49738,8 +49738,8 @@
     {
         "stop": "F065C32E9D2CB689",
         "name_en": "NGAU CHI WAN BBI-CHOI WAN ST. JOSEPH'S SCHOOL",
-        "name_tc": "牛池灣轉車站 - 彩雲聖若瑟",
-        "name_sc": "牛池湾转车站 - 彩云圣若瑟",
+        "name_tc": "牛池灣轉車站-彩雲聖若瑟",
+        "name_sc": "牛池湾转车站-彩云圣若瑟",
         "lat": "22.334412",
         "long": "114.211700"
     },
@@ -50025,9 +50025,9 @@
     },
     {
         "stop": "F1ED37F1BA6D054F",
-        "name_en": "NGAU CHI WAN BBI - HUNG NGOK HOUSE (WT708)",
-        "name_tc": "牛池灣轉車站 - 紅萼樓 (WT708)",
-        "name_sc": "牛池湾转车站 - 红萼楼 (WT708)",
+        "name_en": "NGAU CHI WAN BBI-HUNG NGOK HOUSE (WT708)",
+        "name_tc": "牛池灣轉車站-紅萼樓 (WT708)",
+        "name_sc": "牛池湾转车站-红萼楼 (WT708)",
         "lat": "22.337035",
         "long": "114.206039"
     },
@@ -51113,9 +51113,9 @@
     },
     {
         "stop": "F6512E7C4A6D5C2E",
-        "name_en": "NGAU CHI WAN BBI - TAN FUNG HOUSE (WT700)",
-        "name_tc": "牛池灣轉車站 - 丹鳳樓 (WT700)",
-        "name_sc": "牛池湾转车站 - 丹凤楼 (WT700)",
+        "name_en": "NGAU CHI WAN BBI-TAN FUNG HOUSE (WT700)",
+        "name_tc": "牛池灣轉車站-丹鳳樓 (WT700)",
+        "name_sc": "牛池湾转车站-丹凤楼 (WT700)",
         "lat": "22.335233",
         "long": "114.207616"
     },
