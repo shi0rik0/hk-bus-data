@@ -118500,8 +118500,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "14",
-        "stop": "CA60760D2303E6D0",
-        "stop_name_tc": "長青邨青桃樓 (TY332)"
+        "stop": "B085DDE8E381E370",
+        "stop_name_tc": "長青邨青桃樓 (TY331)"
     },
     {
         "route": "43M",
@@ -186844,8 +186844,8 @@
         "bound": "O",
         "service_type": "2",
         "seq": "19",
-        "stop": "FBAA9F0F9B1893F7",
-        "stop_name_tc": "宏業樓 (WT441)"
+        "stop": "7BD4817D61C47157",
+        "stop_name_tc": "宏業樓"
     },
     {
         "route": "84M",
@@ -275516,14 +275516,6 @@
         "bound": "O",
         "service_type": "1",
         "seq": "3",
-        "stop": "A31DD8C4FD6740D4",
-        "stop_name_tc": "青衣SPCA"
-    },
-    {
-        "route": "PB2A",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "4",
         "stop": "045FB4EAE4FE52D6",
         "stop_name_tc": "南昌站 (V WALK)"
     },
@@ -275531,7 +275523,7 @@
         "route": "PB2A",
         "bound": "O",
         "service_type": "1",
-        "seq": "5",
+        "seq": "4",
         "stop": "0524415976F284A4",
         "stop_name_tc": "柯士甸道西"
     },
@@ -275539,7 +275531,7 @@
         "route": "PB2A",
         "bound": "O",
         "service_type": "1",
-        "seq": "6",
+        "seq": "5",
         "stop": "045FB4EAE4FE52D6",
         "stop_name_tc": "南昌站 (V WALK)"
     },
@@ -275547,15 +275539,7 @@
         "route": "PB2A",
         "bound": "O",
         "service_type": "1",
-        "seq": "7",
-        "stop": "A31DD8C4FD6740D4",
-        "stop_name_tc": "青衣SPCA"
-    },
-    {
-        "route": "PB2A",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "8",
+        "seq": "6",
         "stop": "96E1024FD71C979F",
         "stop_name_tc": "荃灣南豐紗廠"
     },
@@ -275563,7 +275547,7 @@
         "route": "PB2A",
         "bound": "O",
         "service_type": "1",
-        "seq": "9",
+        "seq": "7",
         "stop": "F493236404A4FABF",
         "stop_name_tc": "元朗 形點"
     },
