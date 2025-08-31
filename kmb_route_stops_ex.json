@@ -4685,7 +4685,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "C9109584C37A5B98",
-        "stop_name_tc": "舊灣仔警署"
+        "stop_name_tc": "國際調解院"
     },
     {
         "route": "104",
@@ -12581,7 +12581,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "C9109584C37A5B98",
-        "stop_name_tc": "舊灣仔警署"
+        "stop_name_tc": "國際調解院"
     },
     {
         "route": "115",
@@ -12685,7 +12685,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "C9109584C37A5B98",
-        "stop_name_tc": "舊灣仔警署"
+        "stop_name_tc": "國際調解院"
     },
     {
         "route": "115P",
@@ -29829,7 +29829,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "182976403F291FE0",
-        "stop_name_tc": "舊灣仔警署"
+        "stop_name_tc": "國際調解院"
     },
     {
         "route": "182",
@@ -96997,7 +96997,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "C9109584C37A5B98",
-        "stop_name_tc": "舊灣仔警署"
+        "stop_name_tc": "國際調解院"
     },
     {
         "route": "302",
@@ -97373,7 +97373,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "182976403F291FE0",
-        "stop_name_tc": "舊灣仔警署"
+        "stop_name_tc": "國際調解院"
     },
     {
         "route": "307",
@@ -97493,7 +97493,7 @@
         "service_type": "3",
         "seq": "8",
         "stop": "182976403F291FE0",
-        "stop_name_tc": "舊灣仔警署"
+        "stop_name_tc": "國際調解院"
     },
     {
         "route": "307",
@@ -97589,7 +97589,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "182976403F291FE0",
-        "stop_name_tc": "舊灣仔警署"
+        "stop_name_tc": "國際調解院"
     },
     {
         "route": "307A",
@@ -106925,7 +106925,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "B7F8CCEBD9365739",
-        "stop_name_tc": "舊灣仔警署 (WC721)"
+        "stop_name_tc": "國際調解院 (WC721)"
     },
     {
         "route": "373",
@@ -136093,7 +136093,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "B7F8CCEBD9365739",
-        "stop_name_tc": "舊灣仔警署 (WC721)"
+        "stop_name_tc": "國際調解院 (WC721)"
     },
     {
         "route": "603",
@@ -136261,7 +136261,7 @@
         "service_type": "2",
         "seq": "15",
         "stop": "B7F8CCEBD9365739",
-        "stop_name_tc": "舊灣仔警署 (WC721)"
+        "stop_name_tc": "國際調解院 (WC721)"
     },
     {
         "route": "603",
@@ -137069,7 +137069,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "B7F8CCEBD9365739",
-        "stop_name_tc": "舊灣仔警署 (WC721)"
+        "stop_name_tc": "國際調解院 (WC721)"
     },
     {
         "route": "603S",
@@ -141701,7 +141701,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "182976403F291FE0",
-        "stop_name_tc": "舊灣仔警署"
+        "stop_name_tc": "國際調解院"
     },
     {
         "route": "619P",
@@ -145093,7 +145093,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "C9109584C37A5B98",
-        "stop_name_tc": "舊灣仔警署"
+        "stop_name_tc": "國際調解院"
     },
     {
         "route": "641",
@@ -152493,7 +152493,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "C9109584C37A5B98",
-        "stop_name_tc": "舊灣仔警署"
+        "stop_name_tc": "國際調解院"
     },
     {
         "route": "680X",
@@ -152589,7 +152589,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "182976403F291FE0",
-        "stop_name_tc": "舊灣仔警署"
+        "stop_name_tc": "國際調解院"
     },
     {
         "route": "681",
@@ -153117,7 +153117,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "182976403F291FE0",
-        "stop_name_tc": "舊灣仔警署"
+        "stop_name_tc": "國際調解院"
     },
     {
         "route": "681P",
@@ -156277,7 +156277,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "182976403F291FE0",
-        "stop_name_tc": "舊灣仔警署"
+        "stop_name_tc": "國際調解院"
     },
     {
         "route": "690P",
@@ -156557,7 +156557,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "182976403F291FE0",
-        "stop_name_tc": "舊灣仔警署"
+        "stop_name_tc": "國際調解院"
     },
     {
         "route": "690S",
@@ -253541,7 +253541,7 @@
         "service_type": "1",
         "seq": "28",
         "stop": "182976403F291FE0",
-        "stop_name_tc": "舊灣仔警署"
+        "stop_name_tc": "國際調解院"
     },
     {
         "route": "N182",
@@ -264869,7 +264869,7 @@
         "service_type": "1",
         "seq": "34",
         "stop": "B7F8CCEBD9365739",
-        "stop_name_tc": "舊灣仔警署 (WC721)"
+        "stop_name_tc": "國際調解院 (WC721)"
     },
     {
         "route": "N373",
