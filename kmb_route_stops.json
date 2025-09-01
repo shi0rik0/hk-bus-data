@@ -26349,6 +26349,13 @@
     },
     {
         "route": "19",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "9",
+        "stop": "5FC1356198AD471D"
+    },
+    {
+        "route": "19",
         "bound": "O",
         "service_type": "1",
         "seq": "1",
@@ -26402,6 +26409,13 @@
         "service_type": "1",
         "seq": "8",
         "stop": "AB194503D9CC9465"
+    },
+    {
+        "route": "19",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "9",
+        "stop": "17EC583ACAB167BE"
     },
     {
         "route": "1A",
