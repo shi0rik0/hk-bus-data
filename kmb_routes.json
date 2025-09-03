@@ -12672,17 +12672,6 @@
         "dest_sc": "香港科技大学(北)"
     },
     {
-        "route": "91R",
-        "bound": "O",
-        "service_type": "1",
-        "orig_en": "CLEAR WATER BAY",
-        "orig_tc": "清水灣",
-        "orig_sc": "清水湾",
-        "dest_en": "TSEUNG KWAN O (CHOI MING)",
-        "dest_tc": "將軍澳(彩明)",
-        "dest_sc": "将军澳(彩明)"
-    },
-    {
         "route": "91S",
         "bound": "O",
         "service_type": "1",

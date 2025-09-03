@@ -2328,14 +2328,6 @@
         "long": "114.240773"
     },
     {
-        "stop": "0C82A7979D96D1FD",
-        "name_en": "CHEUNG FAT STREET (SS526)",
-        "name_tc": "長發街 (SS526)",
-        "name_sc": "长发街 (SS526)",
-        "lat": "22.338486",
-        "long": "114.156253"
-    },
-    {
         "stop": "0C8D3ED04A656619",
         "name_en": "VILLAGE GARDENS (SS155)",
         "name_tc": "又一村花園 (SS155)",
@@ -31420,8 +31412,8 @@
         "name_en": "MA WAN(PAK YAN ROAD)",
         "name_tc": "馬灣(珀欣路)",
         "name_sc": "马湾(珀欣路)",
-        "lat": "22.347285",
-        "long": "114.059854"
+        "lat": "22.347256",
+        "long": "114.059732"
     },
     {
         "stop": "97A265C9E6F9AA61",
@@ -37092,8 +37084,8 @@
         "name_en": "DB NORTH PLAZA",
         "name_tc": "愉景北商場",
         "name_sc": "愉景北商场",
-        "lat": "22.309182",
-        "long": "114.016652"
+        "lat": "22.307652",
+        "long": "114.016498"
     },
     {
         "stop": "B27236FC63F891D9",
@@ -40646,14 +40638,6 @@
         "name_sc": "跑马地马场",
         "lat": "22.275225",
         "long": "114.180385"
-    },
-    {
-        "stop": "C37E7CF06680272D",
-        "name_en": "CHUI LING ROAD",
-        "name_tc": "翠嶺路",
-        "name_sc": "翠岭路",
-        "lat": "22.304726",
-        "long": "114.253849"
     },
     {
         "stop": "C39037A588387F32",

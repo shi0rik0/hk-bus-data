@@ -134068,7 +134068,7 @@
         "bound": "I",
         "service_type": "1",
         "seq": "7",
-        "stop": "0C82A7979D96D1FD",
+        "stop": "A81F3E1AC5EDEB1F",
         "stop_name_tc": "長發街 (SS526)"
     },
     {
@@ -207136,198 +207136,6 @@
         "stop_name_tc": "香港科技大學(北) (SK930)"
     },
     {
-        "route": "91R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "1",
-        "stop": "440AEE375A242B6D",
-        "stop_name_tc": "清水灣總站 (SK960)"
-    },
-    {
-        "route": "91R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "2",
-        "stop": "55950D2113A80E72",
-        "stop_name_tc": "清水灣第一灘 (SK480)"
-    },
-    {
-        "route": "91R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "3",
-        "stop": "31C7E8E4A4626178",
-        "stop_name_tc": "大環頭路 (SK481)"
-    },
-    {
-        "route": "91R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "4",
-        "stop": "F7EE3594526686DB",
-        "stop_name_tc": "相思灣 (SK490)"
-    },
-    {
-        "route": "91R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "5",
-        "stop": "80D6E715DA51CA02",
-        "stop_name_tc": "兩塊田 (SK491)"
-    },
-    {
-        "route": "91R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "6",
-        "stop": "225FBE9D52AD0ED2",
-        "stop_name_tc": "下洋 (SK492)"
-    },
-    {
-        "route": "91R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "7",
-        "stop": "2A62A6244F598604",
-        "stop_name_tc": "上洋 (SK493)"
-    },
-    {
-        "route": "91R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "8",
-        "stop": "0CF0429A4BEE8F4C",
-        "stop_name_tc": "檳榔灣 (SK494)"
-    },
-    {
-        "route": "91R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "9",
-        "stop": "F937BECF8C53EEF3",
-        "stop_name_tc": "五塊田 (SK495)"
-    },
-    {
-        "route": "91R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "10",
-        "stop": "EA5AF653CB5975F8",
-        "stop_name_tc": "孟公屋 (SK496)"
-    },
-    {
-        "route": "91R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "11",
-        "stop": "7BFE214AF3036D86",
-        "stop_name_tc": "碧沙路 (SK497)"
-    },
-    {
-        "route": "91R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "12",
-        "stop": "5B4EE863B18FED7D",
-        "stop_name_tc": "銀線灣廣場 (SK498)"
-    },
-    {
-        "route": "91R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "13",
-        "stop": "8353D95EF9733231",
-        "stop_name_tc": "坑口道 (SK499)"
-    },
-    {
-        "route": "91R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "14",
-        "stop": "511D1F0A4F2B25C0",
-        "stop_name_tc": "水邊村 (TK275)"
-    },
-    {
-        "route": "91R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "15",
-        "stop": "C9E33E7E7EDAA459",
-        "stop_name_tc": "半見村 (TK276)"
-    },
-    {
-        "route": "91R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "16",
-        "stop": "5016E25156D72ADA",
-        "stop_name_tc": "明德邨 (TK426)"
-    },
-    {
-        "route": "91R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "17",
-        "stop": "10590D40479607E8",
-        "stop_name_tc": "重華路 東港城 (TK234)"
-    },
-    {
-        "route": "91R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "18",
-        "stop": "54FCA9F5D8F3587E",
-        "stop_name_tc": "銀澳路 (TK240)"
-    },
-    {
-        "route": "91R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "19",
-        "stop": "711927A9FAEF1158",
-        "stop_name_tc": "寶盈花園 (TK560)"
-    },
-    {
-        "route": "91R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "20",
-        "stop": "F09FF6C6349030C6",
-        "stop_name_tc": "將軍澳站 (TK570)"
-    },
-    {
-        "route": "91R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "21",
-        "stop": "D13C7436B13B4A4B",
-        "stop_name_tc": "唐明街公園 (TK576)"
-    },
-    {
-        "route": "91R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "22",
-        "stop": "C37E7CF06680272D",
-        "stop_name_tc": "翠嶺路"
-    },
-    {
-        "route": "91R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "23",
-        "stop": "26F23B1B4A5AB703",
-        "stop_name_tc": "調景嶺站 (TK974)"
-    },
-    {
-        "route": "91R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "24",
-        "stop": "938667F4F953DFCA",
-        "stop_name_tc": "彩明總站 (TK916)"
-    },
-    {
         "route": "91S",
         "bound": "O",
         "service_type": "1",
@@ -251644,7 +251452,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "5",
-        "stop": "0C82A7979D96D1FD",
+        "stop": "A81F3E1AC5EDEB1F",
         "stop_name_tc": "長發街 (SS526)"
     },
     {
@@ -255572,7 +255380,7 @@
         "bound": "I",
         "service_type": "1",
         "seq": "35",
-        "stop": "0C82A7979D96D1FD",
+        "stop": "A81F3E1AC5EDEB1F",
         "stop_name_tc": "長發街 (SS526)"
     },
     {

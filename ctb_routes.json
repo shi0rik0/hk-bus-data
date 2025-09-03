@@ -92,11 +92,11 @@
     {
         "co": "CTB",
         "route": "104",
-        "orig_tc": "堅尼地城／中環",
-        "orig_en": "Kennedy Town / Central",
+        "orig_tc": "堅尼地城",
+        "orig_en": "Kennedy Town",
         "dest_tc": "白田邨",
         "dest_en": "Pak Tin Estate",
-        "orig_sc": "坚尼地城／中环",
+        "orig_sc": "坚尼地城",
         "dest_sc": "白田邨"
     },
     {
