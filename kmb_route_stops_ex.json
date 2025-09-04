@@ -10773,7 +10773,7 @@
         "service_type": "1",
         "seq": "24",
         "stop": "1ACC12FB59AE1A98",
-        "stop_name_tc": "坪石總站 (WT890)"
+        "stop_name_tc": "坪石總站 (WT889)"
     },
     {
         "route": "111",
@@ -10781,7 +10781,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "1ACC12FB59AE1A98",
-        "stop_name_tc": "坪石總站 (WT890)"
+        "stop_name_tc": "坪石總站 (WT889)"
     },
     {
         "route": "111",
@@ -186702,14 +186702,6 @@
         "seq": "16",
         "stop": "FBAA9F0F9B1893F7",
         "stop_name_tc": "宏業樓 (WT441)"
-    },
-    {
-        "route": "84M",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "17",
-        "stop": "8569ED53DDB3A570",
-        "stop_name_tc": "樂富總站 (WT905)"
     },
     {
         "route": "84M",

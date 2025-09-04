@@ -5505,9 +5505,9 @@
     },
     {
         "stop": "1ACC12FB59AE1A98",
-        "name_en": "PING SHEK BUS TERMINUS (WT890)",
-        "name_tc": "坪石總站 (WT890)",
-        "name_sc": "坪石总站 (WT890)",
+        "name_en": "PING SHEK BUS TERMINUS (WT889)",
+        "name_tc": "坪石總站 (WT889)",
+        "name_sc": "坪石总站 (WT889)",
         "lat": "22.333985",
         "long": "114.210024"
     },
@@ -27044,8 +27044,8 @@
         "name_en": "GOLDEN BEACH (TM221)",
         "name_tc": "黃金泳灘 (TM221)",
         "name_sc": "黄金泳滩 (TM221)",
-        "lat": "22.373454",
-        "long": "113.991954"
+        "lat": "22.373531",
+        "long": "113.991238"
     },
     {
         "stop": "81423EF62957C8C6",
@@ -30988,8 +30988,8 @@
         "name_en": "GOLDEN BEACH (TM222)",
         "name_tc": "黃金泳灘 (TM222)",
         "name_sc": "黄金泳滩 (TM222)",
-        "lat": "22.373454",
-        "long": "113.991954"
+        "lat": "22.373531",
+        "long": "113.991238"
     },
     {
         "stop": "959651A2B15D9593",
