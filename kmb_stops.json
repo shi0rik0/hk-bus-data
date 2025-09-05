@@ -22368,6 +22368,14 @@
         "long": "114.107065"
     },
     {
+        "stop": "68DF1DA183CDFCF2",
+        "name_en": "H.K.U.S.T. (SHAW AUDITORIUM) (SK941)",
+        "name_tc": "科大(逸夫演藝中心) (SK941)",
+        "name_sc": "科大(逸夫演艺中心) (SK941)",
+        "lat": "22.333804",
+        "long": "114.263002"
+    },
+    {
         "stop": "68DF2B78CD2B9C76",
         "name_en": "TSIM SHA TSUI EAST (MODY ROAD) (YT922)",
         "name_tc": "尖沙咀東（麼地道） (YT922)",
@@ -30144,6 +30152,14 @@
         "long": "114.111269"
     },
     {
+        "stop": "9183F3104902B748",
+        "name_en": "H.K.U.S.T. (LO KWEE-SEONG BUILDING) (SK940)",
+        "name_tc": "科大(羅桂祥樓) (SK940)",
+        "name_sc": "科大(罗桂祥楼) (SK940)",
+        "lat": "22.336309",
+        "long": "114.262663"
+    },
+    {
         "stop": "91929D42214F3D7F",
         "name_en": "HUNG FOOK STREET (KC770)",
         "name_tc": "鴻福街 (KC770)",
@@ -33814,14 +33830,6 @@
         "name_sc": "石田路",
         "lat": "22.427392",
         "long": "114.072655"
-    },
-    {
-        "stop": "A31DD8C4FD6740D4",
-        "name_en": "SPCA TSING YI",
-        "name_tc": "青衣SPCA",
-        "name_sc": "青衣SPCA",
-        "lat": "22.346439",
-        "long": "114.111897"
     },
     {
         "stop": "A332AF8FFAE8947D",
