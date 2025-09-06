@@ -186722,14 +186722,6 @@
     {
         "route": "84M",
         "bound": "O",
-        "service_type": "1",
-        "seq": "17",
-        "stop": "8569ED53DDB3A570",
-        "stop_name_tc": "樂富總站 (WT905)"
-    },
-    {
-        "route": "84M",
-        "bound": "O",
         "service_type": "2",
         "seq": "1",
         "stop": "36D7B643B6B5680A",
@@ -275660,8 +275652,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "2",
-        "stop": "B26B63709D8A7DFA",
-        "stop_name_tc": "愉景北商場"
+        "stop": "98C945957285E149",
+        "stop_name_tc": null
     },
     {
         "route": "PBD1",
@@ -275724,8 +275716,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "2",
-        "stop": "B26B63709D8A7DFA",
-        "stop_name_tc": "愉景北商場"
+        "stop": "98C945957285E149",
+        "stop_name_tc": null
     },
     {
         "route": "PBD2",
@@ -275820,14 +275812,6 @@
         "bound": "O",
         "service_type": "1",
         "seq": "6",
-        "stop": "A31DD8C4FD6740D4",
-        "stop_name_tc": null
-    },
-    {
-        "route": "PBS1",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "7",
         "stop": "9774D8AAAD859409",
         "stop_name_tc": "馬灣(珀欣路)"
     },
@@ -275835,15 +275819,7 @@
         "route": "PBS1",
         "bound": "O",
         "service_type": "1",
-        "seq": "8",
-        "stop": "A31DD8C4FD6740D4",
-        "stop_name_tc": null
-    },
-    {
-        "route": "PBS1",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "9",
+        "seq": "7",
         "stop": "A8DC6F85E7043234",
         "stop_name_tc": "青衣站"
     },
@@ -275851,7 +275827,7 @@
         "route": "PBS1",
         "bound": "O",
         "service_type": "1",
-        "seq": "10",
+        "seq": "8",
         "stop": "7033D904840D5F18",
         "stop_name_tc": "曼克頓山"
     },
@@ -275859,9 +275835,25 @@
         "route": "PBS1",
         "bound": "O",
         "service_type": "1",
-        "seq": "11",
+        "seq": "9",
         "stop": "0524415976F284A4",
         "stop_name_tc": "柯士甸道西"
+    },
+    {
+        "route": "PBS1",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "10",
+        "stop": "232DC1B2BE92C86F",
+        "stop_name_tc": "灣仔海濱"
+    },
+    {
+        "route": "PBS1",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "11",
+        "stop": "E33098F43CF205B8",
+        "stop_name_tc": "中環龍和道"
     },
     {
         "route": "PBS2",
@@ -281236,6 +281228,14 @@
         "bound": "O",
         "service_type": "1",
         "seq": "3",
+        "stop": "98F2067168C267FE",
+        "stop_name_tc": "西九龍站 (YT242)"
+    },
+    {
+        "route": "W2",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "4",
         "stop": "4C49804674904130",
         "stop_name_tc": "上海街 廟街夜市 (YT246)"
     },
@@ -281243,7 +281243,7 @@
         "route": "W2",
         "bound": "O",
         "service_type": "1",
-        "seq": "4",
+        "seq": "5",
         "stop": "8864CF7D3E4B1EF6",
         "stop_name_tc": "佐敦志和街 (YT250)"
     },
@@ -281251,7 +281251,7 @@
         "route": "W2",
         "bound": "O",
         "service_type": "1",
-        "seq": "5",
+        "seq": "6",
         "stop": "BE27F066CF40DF7D",
         "stop_name_tc": "啟隧轉車站-啟福道(K1) (KT100)"
     },
@@ -281259,7 +281259,7 @@
         "route": "W2",
         "bound": "O",
         "service_type": "1",
-        "seq": "6",
+        "seq": "7",
         "stop": "07521BB848913F74",
         "stop_name_tc": "九龍灣宏通街 (KT101)"
     },
@@ -281267,7 +281267,7 @@
         "route": "W2",
         "bound": "O",
         "service_type": "1",
-        "seq": "7",
+        "seq": "8",
         "stop": "5D8FCEF2915882FD",
         "stop_name_tc": "觀塘順業街 (KT200)"
     },
@@ -281275,7 +281275,7 @@
         "route": "W2",
         "bound": "O",
         "service_type": "1",
-        "seq": "8",
+        "seq": "9",
         "stop": "C2605DED84199B84",
         "stop_name_tc": "觀塘勵業街 (KT201)"
     },
@@ -281283,7 +281283,7 @@
         "route": "W2",
         "bound": "O",
         "service_type": "1",
-        "seq": "9",
+        "seq": "10",
         "stop": "38B86AC474D1060D",
         "stop_name_tc": "創紀之城 (U5) (KT341)"
     },
@@ -281291,7 +281291,7 @@
         "route": "W2",
         "bound": "O",
         "service_type": "1",
-        "seq": "10",
+        "seq": "11",
         "stop": "0B8C52E4C34E3B64",
         "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T5)"
     },
@@ -281299,7 +281299,7 @@
         "route": "W2",
         "bound": "O",
         "service_type": "1",
-        "seq": "11",
+        "seq": "12",
         "stop": "144E9479168069DD",
         "stop_name_tc": "觀塘游泳池 (R2) (KT361)"
     },
@@ -281307,7 +281307,7 @@
         "route": "W2",
         "bound": "O",
         "service_type": "1",
-        "seq": "12",
+        "seq": "13",
         "stop": "DA0947682FC19B0B",
         "stop_name_tc": "藍田站 (LT910)"
     },
@@ -281315,7 +281315,7 @@
         "route": "W2",
         "bound": "O",
         "service_type": "1",
-        "seq": "13",
+        "seq": "14",
         "stop": "2EF9764BE18FC290",
         "stop_name_tc": "藍田站 (LT607)"
     },
@@ -281323,7 +281323,7 @@
         "route": "W2",
         "bound": "O",
         "service_type": "1",
-        "seq": "14",
+        "seq": "15",
         "stop": "FF6E49051D6D9A8C",
         "stop_name_tc": "麗港公園 (LT421)"
     },
@@ -281331,7 +281331,7 @@
         "route": "W2",
         "bound": "O",
         "service_type": "1",
-        "seq": "15",
+        "seq": "16",
         "stop": "7A95C545D0393126",
         "stop_name_tc": "啟隧轉車站-啟福道(L1) (KT590)"
     },
@@ -281339,7 +281339,7 @@
         "route": "W2",
         "bound": "O",
         "service_type": "1",
-        "seq": "16",
+        "seq": "17",
         "stop": "5CCBD9A6B58BF20D",
         "stop_name_tc": "九龍佑寧堂 (YT670)"
     },
@@ -281347,7 +281347,7 @@
         "route": "W2",
         "bound": "O",
         "service_type": "1",
-        "seq": "17",
+        "seq": "18",
         "stop": "E049C81469E2B3C0",
         "stop_name_tc": "白加士街 廟街夜市 (YT671)"
     },
@@ -281355,7 +281355,7 @@
         "route": "W2",
         "bound": "O",
         "service_type": "1",
-        "seq": "18",
+        "seq": "19",
         "stop": "FD1B403FD4EC3E8D",
         "stop_name_tc": "佐敦炮台街 (YT674)"
     },
@@ -281363,17 +281363,9 @@
         "route": "W2",
         "bound": "O",
         "service_type": "1",
-        "seq": "19",
+        "seq": "20",
         "stop": "4DB8054CDFBB9E43",
         "stop_name_tc": "西九龍站 (YT280)"
-    },
-    {
-        "route": "W2",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "20",
-        "stop": "40D067F126426DC6",
-        "stop_name_tc": "佐敦(西九龍站)巴士總站 (YT957)"
     },
     {
         "route": "W2",
@@ -281396,6 +281388,14 @@
         "bound": "O",
         "service_type": "2",
         "seq": "3",
+        "stop": "98F2067168C267FE",
+        "stop_name_tc": "西九龍站 (YT242)"
+    },
+    {
+        "route": "W2",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "4",
         "stop": "4C49804674904130",
         "stop_name_tc": "上海街 廟街夜市 (YT246)"
     },
@@ -281403,7 +281403,7 @@
         "route": "W2",
         "bound": "O",
         "service_type": "2",
-        "seq": "4",
+        "seq": "5",
         "stop": "8864CF7D3E4B1EF6",
         "stop_name_tc": "佐敦志和街 (YT250)"
     },
@@ -281411,7 +281411,7 @@
         "route": "W2",
         "bound": "O",
         "service_type": "2",
-        "seq": "5",
+        "seq": "6",
         "stop": "BE27F066CF40DF7D",
         "stop_name_tc": "啟隧轉車站-啟福道(K1) (KT100)"
     },
@@ -281419,7 +281419,7 @@
         "route": "W2",
         "bound": "O",
         "service_type": "2",
-        "seq": "6",
+        "seq": "7",
         "stop": "07521BB848913F74",
         "stop_name_tc": "九龍灣宏通街 (KT101)"
     },
@@ -281427,7 +281427,7 @@
         "route": "W2",
         "bound": "O",
         "service_type": "2",
-        "seq": "7",
+        "seq": "8",
         "stop": "5D8FCEF2915882FD",
         "stop_name_tc": "觀塘順業街 (KT200)"
     },
@@ -281435,7 +281435,7 @@
         "route": "W2",
         "bound": "O",
         "service_type": "2",
-        "seq": "8",
+        "seq": "9",
         "stop": "C2605DED84199B84",
         "stop_name_tc": "觀塘勵業街 (KT201)"
     },
@@ -281443,7 +281443,7 @@
         "route": "W2",
         "bound": "O",
         "service_type": "2",
-        "seq": "9",
+        "seq": "10",
         "stop": "38B86AC474D1060D",
         "stop_name_tc": "創紀之城 (U5) (KT341)"
     },
@@ -281451,7 +281451,7 @@
         "route": "W2",
         "bound": "O",
         "service_type": "2",
-        "seq": "10",
+        "seq": "11",
         "stop": "0B8C52E4C34E3B64",
         "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T5)"
     },
@@ -281459,7 +281459,7 @@
         "route": "W2",
         "bound": "O",
         "service_type": "2",
-        "seq": "11",
+        "seq": "12",
         "stop": "144E9479168069DD",
         "stop_name_tc": "觀塘游泳池 (R2) (KT361)"
     },
@@ -281467,7 +281467,7 @@
         "route": "W2",
         "bound": "O",
         "service_type": "2",
-        "seq": "12",
+        "seq": "13",
         "stop": "DA0947682FC19B0B",
         "stop_name_tc": "藍田站 (LT910)"
     },
@@ -281475,17 +281475,9 @@
         "route": "W2",
         "bound": "O",
         "service_type": "2",
-        "seq": "13",
+        "seq": "14",
         "stop": "2EF9764BE18FC290",
         "stop_name_tc": "藍田站 (LT607)"
-    },
-    {
-        "route": "W2",
-        "bound": "O",
-        "service_type": "2",
-        "seq": "14",
-        "stop": "FF6E49051D6D9A8C",
-        "stop_name_tc": "麗港公園 (LT421)"
     },
     {
         "route": "W2",
