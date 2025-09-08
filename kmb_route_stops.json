@@ -246206,6 +246206,13 @@
     {
         "route": "W2",
         "bound": "O",
+        "service_type": "1",
+        "seq": "21",
+        "stop": "40D067F126426DC6"
+    },
+    {
+        "route": "W2",
+        "bound": "O",
         "service_type": "2",
         "seq": "1",
         "stop": "40D067F126426DC6"
@@ -246300,6 +246307,13 @@
         "service_type": "2",
         "seq": "14",
         "stop": "2EF9764BE18FC290"
+    },
+    {
+        "route": "W2",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "15",
+        "stop": "FF6E49051D6D9A8C"
     },
     {
         "route": "W2",

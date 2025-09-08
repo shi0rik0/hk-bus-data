@@ -14753,9 +14753,9 @@
     },
     {
         "stop": "457F82CA73DB77ED",
-        "name_en": "WEST KOWLOON STATION (YT241)",
-        "name_tc": "西九龍站 (YT241)",
-        "name_sc": "西九龙站 (YT241)",
+        "name_en": "JORDAN ROAD WEST KOWLOON STATION (YT241)",
+        "name_tc": "佐敦道西九龍站 (YT241)",
+        "name_sc": "佐敦道西九龙站 (YT241)",
         "lat": "22.306180",
         "long": "114.166315"
     },
@@ -20409,9 +20409,9 @@
     },
     {
         "stop": "6085C420AB7E6FF9",
-        "name_en": "WEST KOWLOON STATION (YT240)",
-        "name_tc": "西九龍站 (YT240)",
-        "name_sc": "西九龙站 (YT240)",
+        "name_en": "JORDAN ROAD WEST KOWLOON STATION (YT240)",
+        "name_tc": "佐敦道西九龍站 (YT240)",
+        "name_sc": "佐敦道西九龙站 (YT240)",
         "lat": "22.306180",
         "long": "114.166315"
     },
@@ -25929,9 +25929,9 @@
     },
     {
         "stop": "7B4FD0F182DCC294",
-        "name_en": "AUSTIN STATION JORDAN ROAD (YT674a)",
-        "name_tc": "佐敦道柯士甸站 (YT674a)",
-        "name_sc": "佐敦道柯士甸站 (YT674a)",
+        "name_en": "JORDAN ROAD WEST KOWLOON STATION (YT674a)",
+        "name_tc": "佐敦道西九龍站 (YT674a)",
+        "name_sc": "佐敦道西九龙站 (YT674a)",
         "lat": "22.305945",
         "long": "114.166374"
     },
@@ -28825,9 +28825,9 @@
     },
     {
         "stop": "89A8085A1605FDB4",
-        "name_en": "AUSTIN STATION JORDAN ROAD (YT676)",
-        "name_tc": "佐敦道柯士甸站 (YT676)",
-        "name_sc": "佐敦道柯士甸站 (YT676)",
+        "name_en": "JORDAN ROAD WEST KOWLOON STATION (YT676)",
+        "name_tc": "佐敦道西九龍站 (YT676)",
+        "name_sc": "佐敦道西九龙站 (YT676)",
         "lat": "22.306354",
         "long": "114.164444"
     },
@@ -31624,6 +31624,14 @@
         "long": "114.198066"
     },
     {
+        "stop": "98C945957285E149",
+        "name_en": "DB NORTH PLAZA",
+        "name_tc": "愉景北商場",
+        "name_sc": "愉景北商场",
+        "lat": "22.307218",
+        "long": "114.016418"
+    },
+    {
         "stop": "98CB0D8D3F739CC1",
         "name_en": "SUTHERLAND STREET",
         "name_tc": "修打蘭街",
@@ -31649,9 +31657,9 @@
     },
     {
         "stop": "98F2067168C267FE",
-        "name_en": "WEST KOWLOON STATION (YT242)",
-        "name_tc": "西九龍站 (YT242)",
-        "name_sc": "西九龙站 (YT242)",
+        "name_en": "JORDAN ROAD WEST KOWLOON STATION (YT242)",
+        "name_tc": "佐敦道西九龍站 (YT242)",
+        "name_sc": "佐敦道西九龙站 (YT242)",
         "lat": "22.306180",
         "long": "114.166315"
     },
@@ -45881,9 +45889,9 @@
     },
     {
         "stop": "DD161A7AB0D39192",
-        "name_en": "AUSTIN STATION JORDAN ROAD (YT675)",
-        "name_tc": "佐敦道柯士甸站 (YT675)",
-        "name_sc": "佐敦道柯士甸站 (YT675)",
+        "name_en": "JORDAN ROAD WEST KOWLOON STATION (YT675)",
+        "name_tc": "佐敦道西九龍站 (YT675)",
+        "name_sc": "佐敦道西九龙站 (YT675)",
         "lat": "22.306354",
         "long": "114.164444"
     },
