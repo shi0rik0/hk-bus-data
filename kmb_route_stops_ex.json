@@ -15309,7 +15309,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "2437897A21642D85",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T3)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "11B",
@@ -15373,7 +15373,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "B9560CB9F6044374",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (B7)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT637)"
     },
     {
         "route": "11B",
@@ -15381,7 +15381,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "83BB162ED5F1355F",
-        "stop_name_tc": "觀塘轉車站 - 牛頭角站 (A1)"
+        "stop_name_tc": "觀塘轉車站 - 牛頭角站 (KT645)"
     },
     {
         "route": "11B",
@@ -15605,7 +15605,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "20B34B5CA0E66973",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (B5)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT639)"
     },
     {
         "route": "11C",
@@ -15613,7 +15613,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "83BB162ED5F1355F",
-        "stop_name_tc": "觀塘轉車站 - 牛頭角站 (A1)"
+        "stop_name_tc": "觀塘轉車站 - 牛頭角站 (KT645)"
     },
     {
         "route": "11C",
@@ -15853,7 +15853,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "2437897A21642D85",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T3)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "11C",
@@ -15981,7 +15981,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "015AD27DAC83E698",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (B8)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT636)"
     },
     {
         "route": "11D",
@@ -15989,7 +15989,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "83BB162ED5F1355F",
-        "stop_name_tc": "觀塘轉車站 - 牛頭角站 (A1)"
+        "stop_name_tc": "觀塘轉車站 - 牛頭角站 (KT645)"
     },
     {
         "route": "11D",
@@ -16229,7 +16229,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "80B56E2C7719DAF4",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T1)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "11D",
@@ -16837,7 +16837,7 @@
         "service_type": "1",
         "seq": "28",
         "stop": "466BC4C1908A1A06",
-        "stop_name_tc": "寶達邨轉車站 (N1) (KT191)"
+        "stop_name_tc": "寶達邨轉車站 (KT191)"
     },
     {
         "route": "11X",
@@ -16909,7 +16909,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "EA2CFF27310EAEC3",
-        "stop_name_tc": "寶達邨轉車站 (H2) (KT459)"
+        "stop_name_tc": "寶達邨轉車站 (KT459)"
     },
     {
         "route": "11X",
@@ -16997,7 +16997,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "FDFA7692A141612F",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (B10)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT634)"
     },
     {
         "route": "11X",
@@ -18181,7 +18181,7 @@
         "service_type": "1",
         "seq": "39",
         "stop": "466BC4C1908A1A06",
-        "stop_name_tc": "寶達邨轉車站 (N1) (KT191)"
+        "stop_name_tc": "寶達邨轉車站 (KT191)"
     },
     {
         "route": "13",
@@ -18269,7 +18269,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "EA2CFF27310EAEC3",
-        "stop_name_tc": "寶達邨轉車站 (H2) (KT459)"
+        "stop_name_tc": "寶達邨轉車站 (KT459)"
     },
     {
         "route": "13",
@@ -19325,7 +19325,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "2437897A21642D85",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T3)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "13M",
@@ -19621,7 +19621,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "015AD27DAC83E698",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (B8)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT636)"
     },
     {
         "route": "13P",
@@ -21125,7 +21125,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "0B8C52E4C34E3B64",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T5)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "14",
@@ -21253,7 +21253,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "FDFA7692A141612F",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (B10)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT634)"
     },
     {
         "route": "14",
@@ -22701,7 +22701,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "179C182ADEF1070D",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (B9)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT635)"
     },
     {
         "route": "14X",
@@ -22837,7 +22837,7 @@
         "service_type": "1",
         "seq": "26",
         "stop": "0B8C52E4C34E3B64",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T5)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "14X",
@@ -23077,7 +23077,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "0B8C52E4C34E3B64",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T5)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "15",
@@ -23213,7 +23213,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "FDFA7692A141612F",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (B10)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT634)"
     },
     {
         "route": "15",
@@ -23541,7 +23541,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "0B8C52E4C34E3B64",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T5)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "15A",
@@ -23701,7 +23701,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "83BB162ED5F1355F",
-        "stop_name_tc": "觀塘轉車站 - 牛頭角站 (A1)"
+        "stop_name_tc": "觀塘轉車站 - 牛頭角站 (KT645)"
     },
     {
         "route": "15A",
@@ -23941,7 +23941,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "0B8C52E4C34E3B64",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T5)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "15X",
@@ -24141,7 +24141,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "FDFA7692A141612F",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (B10)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT634)"
     },
     {
         "route": "15X",
@@ -24397,7 +24397,7 @@
         "service_type": "1",
         "seq": "23",
         "stop": "0B8C52E4C34E3B64",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T5)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "16",
@@ -24533,7 +24533,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "015AD27DAC83E698",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (B8)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT636)"
     },
     {
         "route": "16",
@@ -24749,7 +24749,7 @@
         "service_type": "2",
         "seq": "6",
         "stop": "015AD27DAC83E698",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (B8)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT636)"
     },
     {
         "route": "16",
@@ -24933,7 +24933,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "0B8C52E4C34E3B64",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T5)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "16M",
@@ -25861,7 +25861,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "B9560CB9F6044374",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (B7)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT637)"
     },
     {
         "route": "17",
@@ -30397,7 +30397,7 @@
         "service_type": "1",
         "seq": "26",
         "stop": "2437897A21642D85",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T3)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "1A",
@@ -30533,7 +30533,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "B9560CB9F6044374",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (B7)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT637)"
     },
     {
         "route": "1A",
@@ -33221,7 +33221,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "FDFA7692A141612F",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (B10)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT634)"
     },
     {
         "route": "213B",
@@ -33269,7 +33269,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "466BC4C1908A1A06",
-        "stop_name_tc": "寶達邨轉車站 (N1) (KT191)"
+        "stop_name_tc": "寶達邨轉車站 (KT191)"
     },
     {
         "route": "213D",
@@ -33525,7 +33525,7 @@
         "service_type": "1",
         "seq": "37",
         "stop": "39AB774DC35311C0",
-        "stop_name_tc": "寶達邨轉車站 (H3) (KT458)"
+        "stop_name_tc": "寶達邨轉車站 (KT458)"
     },
     {
         "route": "213D",
@@ -33661,7 +33661,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "466BC4C1908A1A06",
-        "stop_name_tc": "寶達邨轉車站 (N1) (KT191)"
+        "stop_name_tc": "寶達邨轉車站 (KT191)"
     },
     {
         "route": "213E",
@@ -33733,7 +33733,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "EA2CFF27310EAEC3",
-        "stop_name_tc": "寶達邨轉車站 (H2) (KT459)"
+        "stop_name_tc": "寶達邨轉車站 (KT459)"
     },
     {
         "route": "213E",
@@ -33837,7 +33837,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "39AB774DC35311C0",
-        "stop_name_tc": "寶達邨轉車站 (H3) (KT458)"
+        "stop_name_tc": "寶達邨轉車站 (KT458)"
     },
     {
         "route": "213M",
@@ -33877,7 +33877,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "466BC4C1908A1A06",
-        "stop_name_tc": "寶達邨轉車站 (N1) (KT191)"
+        "stop_name_tc": "寶達邨轉車站 (KT191)"
     },
     {
         "route": "213M",
@@ -33925,7 +33925,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "39AB774DC35311C0",
-        "stop_name_tc": "寶達邨轉車站 (H3) (KT458)"
+        "stop_name_tc": "寶達邨轉車站 (KT458)"
     },
     {
         "route": "213S",
@@ -33965,7 +33965,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "466BC4C1908A1A06",
-        "stop_name_tc": "寶達邨轉車站 (N1) (KT191)"
+        "stop_name_tc": "寶達邨轉車站 (KT191)"
     },
     {
         "route": "213S",
@@ -34021,7 +34021,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "EA2CFF27310EAEC3",
-        "stop_name_tc": "寶達邨轉車站 (H2) (KT459)"
+        "stop_name_tc": "寶達邨轉車站 (KT459)"
     },
     {
         "route": "213X",
@@ -34269,7 +34269,7 @@
         "service_type": "1",
         "seq": "36",
         "stop": "466BC4C1908A1A06",
-        "stop_name_tc": "寶達邨轉車站 (N1) (KT191)"
+        "stop_name_tc": "寶達邨轉車站 (KT191)"
     },
     {
         "route": "213X",
@@ -34509,7 +34509,7 @@
         "service_type": "2",
         "seq": "26",
         "stop": "466BC4C1908A1A06",
-        "stop_name_tc": "寶達邨轉車站 (N1) (KT191)"
+        "stop_name_tc": "寶達邨轉車站 (KT191)"
     },
     {
         "route": "213X",
@@ -34749,7 +34749,7 @@
         "service_type": "1",
         "seq": "26",
         "stop": "39AB774DC35311C0",
-        "stop_name_tc": "寶達邨轉車站 (H3) (KT458)"
+        "stop_name_tc": "寶達邨轉車站 (KT458)"
     },
     {
         "route": "214",
@@ -34917,7 +34917,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "466BC4C1908A1A06",
-        "stop_name_tc": "寶達邨轉車站 (N1) (KT191)"
+        "stop_name_tc": "寶達邨轉車站 (KT191)"
     },
     {
         "route": "214",
@@ -35573,7 +35573,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "179C182ADEF1070D",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (B9)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT635)"
     },
     {
         "route": "215P",
@@ -35661,7 +35661,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "0B8C52E4C34E3B64",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T5)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "215R",
@@ -35949,7 +35949,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "0B8C52E4C34E3B64",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T5)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "215X",
@@ -36141,7 +36141,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "179C182ADEF1070D",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (B9)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT635)"
     },
     {
         "route": "215X",
@@ -36309,7 +36309,7 @@
         "service_type": "2",
         "seq": "11",
         "stop": "179C182ADEF1070D",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (B9)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT635)"
     },
     {
         "route": "215X",
@@ -38685,7 +38685,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "671775E6AF279B42",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (B2)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT642)"
     },
     {
         "route": "234C",
@@ -39165,7 +39165,7 @@
         "service_type": "1",
         "seq": "30",
         "stop": "F2127FD781019971",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T2)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "234C",
@@ -39213,7 +39213,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "671775E6AF279B42",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (B2)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT642)"
     },
     {
         "route": "234D",
@@ -39653,7 +39653,7 @@
         "service_type": "1",
         "seq": "30",
         "stop": "F2127FD781019971",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T2)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "234D",
@@ -41077,7 +41077,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "0644E10571B8CA12",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (U2)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT344)"
     },
     {
         "route": "23M",
@@ -41285,7 +41285,7 @@
         "service_type": "2",
         "seq": "6",
         "stop": "0644E10571B8CA12",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (U2)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT344)"
     },
     {
         "route": "23M",
@@ -46157,7 +46157,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "9E1F0E5A57F3D3D5",
-        "stop_name_tc": "觀塘轉車站 - 牛頭角站 (A2)"
+        "stop_name_tc": "觀塘轉車站 - 牛頭角站 (KT644)"
     },
     {
         "route": "252X",
@@ -46597,7 +46597,7 @@
         "service_type": "1",
         "seq": "24",
         "stop": "0644E10571B8CA12",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (U2)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT344)"
     },
     {
         "route": "252X",
@@ -46781,7 +46781,7 @@
         "service_type": "2",
         "seq": "21",
         "stop": "0644E10571B8CA12",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (U2)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT344)"
     },
     {
         "route": "252X",
@@ -47005,7 +47005,7 @@
         "service_type": "1",
         "seq": "26",
         "stop": "5FE12AC5660F89D6",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (U1)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT345)"
     },
     {
         "route": "258A",
@@ -47053,7 +47053,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "9E1F0E5A57F3D3D5",
-        "stop_name_tc": "觀塘轉車站 - 牛頭角站 (A2)"
+        "stop_name_tc": "觀塘轉車站 - 牛頭角站 (KT644)"
     },
     {
         "route": "258D",
@@ -47437,7 +47437,7 @@
         "service_type": "1",
         "seq": "25",
         "stop": "5FE12AC5660F89D6",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (U1)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT345)"
     },
     {
         "route": "258D",
@@ -47493,7 +47493,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "9E1F0E5A57F3D3D5",
-        "stop_name_tc": "觀塘轉車站 - 牛頭角站 (A2)"
+        "stop_name_tc": "觀塘轉車站 - 牛頭角站 (KT644)"
     },
     {
         "route": "258P",
@@ -47957,7 +47957,7 @@
         "service_type": "1",
         "seq": "31",
         "stop": "5FE12AC5660F89D6",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (U1)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT345)"
     },
     {
         "route": "258P",
@@ -48125,7 +48125,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "5FE12AC5660F89D6",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (U1)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT345)"
     },
     {
         "route": "258S",
@@ -48717,7 +48717,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "9E1F0E5A57F3D3D5",
-        "stop_name_tc": "觀塘轉車站 - 牛頭角站 (A2)"
+        "stop_name_tc": "觀塘轉車站 - 牛頭角站 (KT644)"
     },
     {
         "route": "259D",
@@ -49061,7 +49061,7 @@
         "service_type": "1",
         "seq": "23",
         "stop": "0644E10571B8CA12",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (U2)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT344)"
     },
     {
         "route": "259D",
@@ -49261,7 +49261,7 @@
         "service_type": "3",
         "seq": "20",
         "stop": "0644E10571B8CA12",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (U2)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT344)"
     },
     {
         "route": "259D",
@@ -56253,7 +56253,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "9E1F0E5A57F3D3D5",
-        "stop_name_tc": "觀塘轉車站 - 牛頭角站 (A2)"
+        "stop_name_tc": "觀塘轉車站 - 牛頭角站 (KT644)"
     },
     {
         "route": "267X",
@@ -56597,7 +56597,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "0644E10571B8CA12",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (U2)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT344)"
     },
     {
         "route": "267X",
@@ -56893,7 +56893,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "671775E6AF279B42",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (B2)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT642)"
     },
     {
         "route": "268A",
@@ -57213,7 +57213,7 @@
         "service_type": "1",
         "seq": "23",
         "stop": "80B56E2C7719DAF4",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T1)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "268A",
@@ -57805,7 +57805,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "671775E6AF279B42",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (B2)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT642)"
     },
     {
         "route": "268C",
@@ -58213,7 +58213,7 @@
         "service_type": "4",
         "seq": "5",
         "stop": "671775E6AF279B42",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (B2)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT642)"
     },
     {
         "route": "268C",
@@ -58597,7 +58597,7 @@
         "service_type": "1",
         "seq": "26",
         "stop": "80B56E2C7719DAF4",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T1)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "268C",
@@ -58805,7 +58805,7 @@
         "service_type": "2",
         "seq": "24",
         "stop": "80B56E2C7719DAF4",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T1)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "268C",
@@ -60269,7 +60269,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "671775E6AF279B42",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (B2)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT642)"
     },
     {
         "route": "269C",
@@ -60669,7 +60669,7 @@
         "service_type": "1",
         "seq": "26",
         "stop": "80B56E2C7719DAF4",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T1)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "269C",
@@ -60853,7 +60853,7 @@
         "service_type": "5",
         "seq": "21",
         "stop": "80B56E2C7719DAF4",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T1)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "269C",
@@ -73405,7 +73405,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "C9A46DDC082BAEE0",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (B1)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT643)"
     },
     {
         "route": "274X",
@@ -75701,7 +75701,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "C9A46DDC082BAEE0",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (B1)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT643)"
     },
     {
         "route": "277A",
@@ -76237,7 +76237,7 @@
         "service_type": "1",
         "seq": "33",
         "stop": "5FE12AC5660F89D6",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (U1)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT345)"
     },
     {
         "route": "277A",
@@ -76293,7 +76293,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "C9A46DDC082BAEE0",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (B1)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT643)"
     },
     {
         "route": "277E",
@@ -76541,7 +76541,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "5FE12AC5660F89D6",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (U1)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT345)"
     },
     {
         "route": "277E",
@@ -76685,7 +76685,7 @@
         "service_type": "2",
         "seq": "15",
         "stop": "5FE12AC5660F89D6",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (U1)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT345)"
     },
     {
         "route": "277E",
@@ -76741,7 +76741,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "C9A46DDC082BAEE0",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (B1)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT643)"
     },
     {
         "route": "277P",
@@ -77125,7 +77125,7 @@
         "service_type": "1",
         "seq": "25",
         "stop": "5FE12AC5660F89D6",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (U1)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT345)"
     },
     {
         "route": "277P",
@@ -77181,7 +77181,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "C9A46DDC082BAEE0",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (B1)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT643)"
     },
     {
         "route": "277X",
@@ -77469,7 +77469,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "5FE12AC5660F89D6",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (U1)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT345)"
     },
     {
         "route": "277X",
@@ -77613,7 +77613,7 @@
         "service_type": "2",
         "seq": "15",
         "stop": "5FE12AC5660F89D6",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (U1)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT345)"
     },
     {
         "route": "277X",
@@ -77725,7 +77725,7 @@
         "service_type": "3",
         "seq": "11",
         "stop": "5FE12AC5660F89D6",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (U1)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT345)"
     },
     {
         "route": "277X",
@@ -86405,7 +86405,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "466BC4C1908A1A06",
-        "stop_name_tc": "寶達邨轉車站 (N1) (KT191)"
+        "stop_name_tc": "寶達邨轉車站 (KT191)"
     },
     {
         "route": "290",
@@ -86613,7 +86613,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "EA2CFF27310EAEC3",
-        "stop_name_tc": "寶達邨轉車站 (H2) (KT459)"
+        "stop_name_tc": "寶達邨轉車站 (KT459)"
     },
     {
         "route": "290",
@@ -86917,7 +86917,7 @@
         "service_type": "1",
         "seq": "24",
         "stop": "466BC4C1908A1A06",
-        "stop_name_tc": "寶達邨轉車站 (N1) (KT191)"
+        "stop_name_tc": "寶達邨轉車站 (KT191)"
     },
     {
         "route": "290A",
@@ -87165,7 +87165,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "EA2CFF27310EAEC3",
-        "stop_name_tc": "寶達邨轉車站 (H2) (KT459)"
+        "stop_name_tc": "寶達邨轉車站 (KT459)"
     },
     {
         "route": "290A",
@@ -89445,7 +89445,7 @@
         "service_type": "1",
         "seq": "32",
         "stop": "0644E10571B8CA12",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (U2)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT344)"
     },
     {
         "route": "293S",
@@ -89581,7 +89581,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "466BC4C1908A1A06",
-        "stop_name_tc": "寶達邨轉車站 (N1) (KT191)"
+        "stop_name_tc": "寶達邨轉車站 (KT191)"
     },
     {
         "route": "293S",
@@ -89773,7 +89773,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "EA2CFF27310EAEC3",
-        "stop_name_tc": "寶達邨轉車站 (H2) (KT459)"
+        "stop_name_tc": "寶達邨轉車站 (KT459)"
     },
     {
         "route": "293S",
@@ -89933,7 +89933,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "0306B53F46955E3E",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (B3)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT641)"
     },
     {
         "route": "296A",
@@ -89949,7 +89949,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "14CF94DF66FCD0C8",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T7)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "296A",
@@ -90189,7 +90189,7 @@
         "service_type": "1",
         "seq": "25",
         "stop": "14CF94DF66FCD0C8",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T7)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "296C",
@@ -90261,7 +90261,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "015AD27DAC83E698",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (B8)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT636)"
     },
     {
         "route": "296C",
@@ -102213,7 +102213,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "671775E6AF279B42",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (B2)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT642)"
     },
     {
         "route": "33B",
@@ -102429,7 +102429,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "EB177E95B39626AE",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T6)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "33B",
@@ -107357,7 +107357,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "671775E6AF279B42",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (B2)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT642)"
     },
     {
         "route": "38",
@@ -107853,7 +107853,7 @@
         "service_type": "1",
         "seq": "30",
         "stop": "0B8C52E4C34E3B64",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T5)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "38",
@@ -108517,7 +108517,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "671775E6AF279B42",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (B2)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT642)"
     },
     {
         "route": "38P",
@@ -108949,7 +108949,7 @@
         "service_type": "1",
         "seq": "29",
         "stop": "0B8C52E4C34E3B64",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T5)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "38P",
@@ -110469,7 +110469,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "8BAB6AA783EE0508",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (B4)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT640)"
     },
     {
         "route": "3D",
@@ -110605,7 +110605,7 @@
         "service_type": "2",
         "seq": "2",
         "stop": "8BAB6AA783EE0508",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (B4)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT640)"
     },
     {
         "route": "3D",
@@ -110805,7 +110805,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "F59AE1D39E8B2E29",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (U3)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT343)"
     },
     {
         "route": "3D",
@@ -110901,7 +110901,7 @@
         "service_type": "2",
         "seq": "11",
         "stop": "F59AE1D39E8B2E29",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (U3)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT343)"
     },
     {
         "route": "3D",
@@ -111005,7 +111005,7 @@
         "service_type": "3",
         "seq": "12",
         "stop": "F59AE1D39E8B2E29",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (U3)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT343)"
     },
     {
         "route": "3D",
@@ -111885,7 +111885,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "671775E6AF279B42",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (B2)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT642)"
     },
     {
         "route": "40",
@@ -112333,7 +112333,7 @@
         "service_type": "1",
         "seq": "29",
         "stop": "EB177E95B39626AE",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T6)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "40",
@@ -112613,7 +112613,7 @@
         "service_type": "2",
         "seq": "30",
         "stop": "EB177E95B39626AE",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T6)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "40",
@@ -112805,7 +112805,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "EB177E95B39626AE",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T6)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "40A",
@@ -113093,7 +113093,7 @@
         "service_type": "1",
         "seq": "27",
         "stop": "EB177E95B39626AE",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T6)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "40B",
@@ -113509,7 +113509,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "671775E6AF279B42",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (B2)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT642)"
     },
     {
         "route": "40P",
@@ -113997,7 +113997,7 @@
         "service_type": "1",
         "seq": "28",
         "stop": "EB177E95B39626AE",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T6)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "40P",
@@ -114157,7 +114157,7 @@
         "service_type": "2",
         "seq": "18",
         "stop": "EB177E95B39626AE",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T6)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "40P",
@@ -116493,7 +116493,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "671775E6AF279B42",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (B2)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT642)"
     },
     {
         "route": "42C",
@@ -116989,7 +116989,7 @@
         "service_type": "1",
         "seq": "30",
         "stop": "EB177E95B39626AE",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T6)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "42C",
@@ -133869,7 +133869,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "83BB162ED5F1355F",
-        "stop_name_tc": "觀塘轉車站 - 牛頭角站 (A1)"
+        "stop_name_tc": "觀塘轉車站 - 牛頭角站 (KT645)"
     },
     {
         "route": "5R",
@@ -133997,7 +133997,7 @@
         "service_type": "3",
         "seq": "3",
         "stop": "83BB162ED5F1355F",
-        "stop_name_tc": "觀塘轉車站 - 牛頭角站 (A1)"
+        "stop_name_tc": "觀塘轉車站 - 牛頭角站 (KT645)"
     },
     {
         "route": "5R",
@@ -134573,7 +134573,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "466BC4C1908A1A06",
-        "stop_name_tc": "寶達邨轉車站 (N1) (KT191)"
+        "stop_name_tc": "寶達邨轉車站 (KT191)"
     },
     {
         "route": "600",
@@ -134677,7 +134677,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "39AB774DC35311C0",
-        "stop_name_tc": "寶達邨轉車站 (H3) (KT458)"
+        "stop_name_tc": "寶達邨轉車站 (KT458)"
     },
     {
         "route": "600",
@@ -137549,7 +137549,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "F2127FD781019971",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T2)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "606",
@@ -137941,7 +137941,7 @@
         "service_type": "4",
         "seq": "14",
         "stop": "F2127FD781019971",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T2)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "606",
@@ -138509,7 +138509,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "F2127FD781019971",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T2)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "606A",
@@ -138869,7 +138869,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "F2127FD781019971",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T2)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "606X",
@@ -139053,7 +139053,7 @@
         "service_type": "2",
         "seq": "6",
         "stop": "F2127FD781019971",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T2)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "606X",
@@ -139245,7 +139245,7 @@
         "service_type": "3",
         "seq": "7",
         "stop": "F2127FD781019971",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T2)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "606X",
@@ -140101,7 +140101,7 @@
         "service_type": "1",
         "seq": "24",
         "stop": "466BC4C1908A1A06",
-        "stop_name_tc": "寶達邨轉車站 (N1) (KT191)"
+        "stop_name_tc": "寶達邨轉車站 (KT191)"
     },
     {
         "route": "613",
@@ -140173,7 +140173,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "39AB774DC35311C0",
-        "stop_name_tc": "寶達邨轉車站 (H3) (KT458)"
+        "stop_name_tc": "寶達邨轉車站 (KT458)"
     },
     {
         "route": "613",
@@ -140725,7 +140725,7 @@
         "service_type": "1",
         "seq": "39",
         "stop": "466BC4C1908A1A06",
-        "stop_name_tc": "寶達邨轉車站 (N1) (KT191)"
+        "stop_name_tc": "寶達邨轉車站 (KT191)"
     },
     {
         "route": "613A",
@@ -140797,7 +140797,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "39AB774DC35311C0",
-        "stop_name_tc": "寶達邨轉車站 (H3) (KT458)"
+        "stop_name_tc": "寶達邨轉車站 (KT458)"
     },
     {
         "route": "613A",
@@ -141445,7 +141445,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "F2127FD781019971",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T2)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "619",
@@ -141701,7 +141701,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "F2127FD781019971",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T2)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "619P",
@@ -143925,7 +143925,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "EB177E95B39626AE",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T6)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "62P",
@@ -144045,7 +144045,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "9E1F0E5A57F3D3D5",
-        "stop_name_tc": "觀塘轉車站 - 牛頭角站 (A2)"
+        "stop_name_tc": "觀塘轉車站 - 牛頭角站 (KT644)"
     },
     {
         "route": "62X",
@@ -144397,7 +144397,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "EB177E95B39626AE",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T6)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "62X",
@@ -145093,7 +145093,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "F2127FD781019971",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T2)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "641",
@@ -147885,7 +147885,7 @@
         "service_type": "1",
         "seq": "28",
         "stop": "FDFA7692A141612F",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (B10)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT634)"
     },
     {
         "route": "671",
@@ -147893,7 +147893,7 @@
         "service_type": "1",
         "seq": "29",
         "stop": "83BB162ED5F1355F",
-        "stop_name_tc": "觀塘轉車站 - 牛頭角站 (A1)"
+        "stop_name_tc": "觀塘轉車站 - 牛頭角站 (KT645)"
     },
     {
         "route": "671",
@@ -148045,7 +148045,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "EB177E95B39626AE",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T6)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "671",
@@ -148405,7 +148405,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "FDFA7692A141612F",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (B10)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT634)"
     },
     {
         "route": "671X",
@@ -148413,7 +148413,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "83BB162ED5F1355F",
-        "stop_name_tc": "觀塘轉車站 - 牛頭角站 (A1)"
+        "stop_name_tc": "觀塘轉車站 - 牛頭角站 (KT645)"
     },
     {
         "route": "671X",
@@ -156677,7 +156677,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "671775E6AF279B42",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (B2)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT642)"
     },
     {
         "route": "69C",
@@ -157101,7 +157101,7 @@
         "service_type": "1",
         "seq": "28",
         "stop": "80B56E2C7719DAF4",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T1)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "69C",
@@ -157293,7 +157293,7 @@
         "service_type": "2",
         "seq": "22",
         "stop": "80B56E2C7719DAF4",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T1)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "69C",
@@ -159125,7 +159125,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "015AD27DAC83E698",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (B8)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT636)"
     },
     {
         "route": "6E",
@@ -159469,7 +159469,7 @@
         "service_type": "1",
         "seq": "24",
         "stop": "0B8C52E4C34E3B64",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T5)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "6E",
@@ -159949,7 +159949,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "015AD27DAC83E698",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (B8)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT636)"
     },
     {
         "route": "6P",
@@ -160333,7 +160333,7 @@
         "service_type": "1",
         "seq": "26",
         "stop": "0B8C52E4C34E3B64",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T5)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "6P",
@@ -169997,7 +169997,7 @@
         "service_type": "1",
         "seq": "24",
         "stop": "80B56E2C7719DAF4",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T1)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "74C",
@@ -170053,7 +170053,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "C9A46DDC082BAEE0",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (B1)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT643)"
     },
     {
         "route": "74D",
@@ -170533,7 +170533,7 @@
         "service_type": "1",
         "seq": "32",
         "stop": "80B56E2C7719DAF4",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T1)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "74D",
@@ -170589,7 +170589,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "C9A46DDC082BAEE0",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (B1)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT643)"
     },
     {
         "route": "74E",
@@ -171069,7 +171069,7 @@
         "service_type": "1",
         "seq": "29",
         "stop": "80B56E2C7719DAF4",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T1)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "74E",
@@ -171189,7 +171189,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "80B56E2C7719DAF4",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T1)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "74F",
@@ -171245,7 +171245,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "C9A46DDC082BAEE0",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (B1)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT643)"
     },
     {
         "route": "74F",
@@ -172117,7 +172117,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "80B56E2C7719DAF4",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T1)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "74P",
@@ -172245,7 +172245,7 @@
         "service_type": "2",
         "seq": "14",
         "stop": "80B56E2C7719DAF4",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T1)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "74P",
@@ -172301,7 +172301,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "C9A46DDC082BAEE0",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (B1)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT643)"
     },
     {
         "route": "74P",
@@ -172989,7 +172989,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "0B8C52E4C34E3B64",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T5)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "74S",
@@ -173125,7 +173125,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "C9A46DDC082BAEE0",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (B1)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT643)"
     },
     {
         "route": "74S",
@@ -173253,7 +173253,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "C9A46DDC082BAEE0",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (B1)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT643)"
     },
     {
         "route": "74X",
@@ -173485,7 +173485,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "80B56E2C7719DAF4",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T1)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "74X",
@@ -173589,7 +173589,7 @@
         "service_type": "2",
         "seq": "11",
         "stop": "80B56E2C7719DAF4",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T1)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "74X",
@@ -173685,7 +173685,7 @@
         "service_type": "3",
         "seq": "10",
         "stop": "80B56E2C7719DAF4",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T1)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "74X",
@@ -181101,7 +181101,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "20B34B5CA0E66973",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (B5)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT639)"
     },
     {
         "route": "80",
@@ -181453,7 +181453,7 @@
         "service_type": "1",
         "seq": "23",
         "stop": "80B56E2C7719DAF4",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T1)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "80",
@@ -181605,7 +181605,7 @@
         "service_type": "2",
         "seq": "17",
         "stop": "80B56E2C7719DAF4",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T1)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "80",
@@ -182157,7 +182157,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "80B56E2C7719DAF4",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T1)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "80P",
@@ -182213,7 +182213,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "20B34B5CA0E66973",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (B5)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT639)"
     },
     {
         "route": "80X",
@@ -182429,7 +182429,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "80B56E2C7719DAF4",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T1)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "80X",
@@ -182517,7 +182517,7 @@
         "service_type": "2",
         "seq": "9",
         "stop": "80B56E2C7719DAF4",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T1)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "80X",
@@ -182661,7 +182661,7 @@
         "service_type": "3",
         "seq": "16",
         "stop": "80B56E2C7719DAF4",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T1)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "80X",
@@ -185453,7 +185453,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "80B56E2C7719DAF4",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T1)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "83A",
@@ -185997,7 +185997,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "0ACB63B00DEE1B37",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (B6)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT638)"
     },
     {
         "route": "83X",
@@ -186157,7 +186157,7 @@
         "service_type": "2",
         "seq": "5",
         "stop": "0ACB63B00DEE1B37",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (B6)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT638)"
     },
     {
         "route": "83X",
@@ -186365,7 +186365,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "80B56E2C7719DAF4",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T1)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "83X",
@@ -186469,7 +186469,7 @@
         "service_type": "2",
         "seq": "11",
         "stop": "80B56E2C7719DAF4",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T1)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "83X",
@@ -195141,7 +195141,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "39AB774DC35311C0",
-        "stop_name_tc": "寶達邨轉車站 (H3) (KT458)"
+        "stop_name_tc": "寶達邨轉車站 (KT458)"
     },
     {
         "route": "88",
@@ -195213,7 +195213,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "466BC4C1908A1A06",
-        "stop_name_tc": "寶達邨轉車站 (N1) (KT191)"
+        "stop_name_tc": "寶達邨轉車站 (KT191)"
     },
     {
         "route": "88",
@@ -195573,7 +195573,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "0B8C52E4C34E3B64",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T5)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "889",
@@ -196085,7 +196085,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "0ACB63B00DEE1B37",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (B6)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT638)"
     },
     {
         "route": "88X",
@@ -196701,7 +196701,7 @@
         "service_type": "2",
         "seq": "14",
         "stop": "0644E10571B8CA12",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (U2)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT344)"
     },
     {
         "route": "88X",
@@ -197701,7 +197701,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "0ACB63B00DEE1B37",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (B6)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT638)"
     },
     {
         "route": "89C",
@@ -198277,7 +198277,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "0ACB63B00DEE1B37",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (B6)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT638)"
     },
     {
         "route": "89D",
@@ -198461,7 +198461,7 @@
         "service_type": "2",
         "seq": "4",
         "stop": "0ACB63B00DEE1B37",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (B6)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT638)"
     },
     {
         "route": "89D",
@@ -198765,7 +198765,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "EB177E95B39626AE",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T6)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "89D",
@@ -198877,7 +198877,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "EB177E95B39626AE",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T6)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "89P",
@@ -198965,7 +198965,7 @@
         "service_type": "2",
         "seq": "9",
         "stop": "EB177E95B39626AE",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T6)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "89P",
@@ -199045,7 +199045,7 @@
         "service_type": "3",
         "seq": "8",
         "stop": "EB177E95B39626AE",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T6)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "89P",
@@ -199693,7 +199693,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "0ACB63B00DEE1B37",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (B6)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT638)"
     },
     {
         "route": "89X",
@@ -207365,7 +207365,7 @@
         "service_type": "1",
         "seq": "24",
         "stop": "0306B53F46955E3E",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (B3)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT641)"
     },
     {
         "route": "92",
@@ -210109,7 +210109,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "03C3F537C41E4986",
-        "stop_name_tc": "寶達邨轉車站 (N2) (KT190)"
+        "stop_name_tc": "寶達邨轉車站 (KT190)"
     },
     {
         "route": "93A",
@@ -210261,7 +210261,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "EA2CFF27310EAEC3",
-        "stop_name_tc": "寶達邨轉車站 (H2) (KT459)"
+        "stop_name_tc": "寶達邨轉車站 (KT459)"
     },
     {
         "route": "93A",
@@ -210525,7 +210525,7 @@
         "service_type": "1",
         "seq": "25",
         "stop": "5FD7848A339751B6",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T4)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "93K",
@@ -210557,7 +210557,7 @@
         "service_type": "1",
         "seq": "29",
         "stop": "03C3F537C41E4986",
-        "stop_name_tc": "寶達邨轉車站 (N2) (KT190)"
+        "stop_name_tc": "寶達邨轉車站 (KT190)"
     },
     {
         "route": "93K",
@@ -210709,7 +210709,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "AE0DC8745DFCA0FA",
-        "stop_name_tc": "寶達邨轉車站 (H1) (KT460)"
+        "stop_name_tc": "寶達邨轉車站 (KT460)"
     },
     {
         "route": "93K",
@@ -210733,7 +210733,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "015AD27DAC83E698",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (B8)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT636)"
     },
     {
         "route": "93K",
@@ -211005,7 +211005,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "39AB774DC35311C0",
-        "stop_name_tc": "寶達邨轉車站 (H3) (KT458)"
+        "stop_name_tc": "寶達邨轉車站 (KT458)"
     },
     {
         "route": "93M",
@@ -211085,7 +211085,7 @@
         "service_type": "1",
         "seq": "24",
         "stop": "03C3F537C41E4986",
-        "stop_name_tc": "寶達邨轉車站 (N2) (KT190)"
+        "stop_name_tc": "寶達邨轉車站 (KT190)"
     },
     {
         "route": "93M",
@@ -211325,7 +211325,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "03C3F537C41E4986",
-        "stop_name_tc": "寶達邨轉車站 (N2) (KT190)"
+        "stop_name_tc": "寶達邨轉車站 (KT190)"
     },
     {
         "route": "93P",
@@ -211477,7 +211477,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "AE0DC8745DFCA0FA",
-        "stop_name_tc": "寶達邨轉車站 (H1) (KT460)"
+        "stop_name_tc": "寶達邨轉車站 (KT460)"
     },
     {
         "route": "93P",
@@ -213893,7 +213893,7 @@
         "service_type": "1",
         "seq": "30",
         "stop": "03C3F537C41E4986",
-        "stop_name_tc": "寶達邨轉車站 (N2) (KT190)"
+        "stop_name_tc": "寶達邨轉車站 (KT190)"
     },
     {
         "route": "95",
@@ -213973,7 +213973,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "AE0DC8745DFCA0FA",
-        "stop_name_tc": "寶達邨轉車站 (H1) (KT460)"
+        "stop_name_tc": "寶達邨轉車站 (KT460)"
     },
     {
         "route": "95",
@@ -214245,7 +214245,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "5FD7848A339751B6",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T4)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "95M",
@@ -214293,7 +214293,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "03C3F537C41E4986",
-        "stop_name_tc": "寶達邨轉車站 (N2) (KT190)"
+        "stop_name_tc": "寶達邨轉車站 (KT190)"
     },
     {
         "route": "95M",
@@ -214373,7 +214373,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "EA2CFF27310EAEC3",
-        "stop_name_tc": "寶達邨轉車站 (H2) (KT459)"
+        "stop_name_tc": "寶達邨轉車站 (KT459)"
     },
     {
         "route": "95M",
@@ -222165,7 +222165,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "0306B53F46955E3E",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (B3)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT641)"
     },
     {
         "route": "98",
@@ -222181,7 +222181,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "14CF94DF66FCD0C8",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T7)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "98",
@@ -222349,7 +222349,7 @@
         "service_type": "3",
         "seq": "11",
         "stop": "0306B53F46955E3E",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (B3)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT641)"
     },
     {
         "route": "98",
@@ -224093,7 +224093,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "AE0DC8745DFCA0FA",
-        "stop_name_tc": "寶達邨轉車站 (H1) (KT460)"
+        "stop_name_tc": "寶達邨轉車站 (KT460)"
     },
     {
         "route": "98A",
@@ -224117,7 +224117,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "0306B53F46955E3E",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (B3)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT641)"
     },
     {
         "route": "98A",
@@ -224133,7 +224133,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "5FD7848A339751B6",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T4)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "98A",
@@ -224173,7 +224173,7 @@
         "service_type": "1",
         "seq": "23",
         "stop": "03C3F537C41E4986",
-        "stop_name_tc": "寶達邨轉車站 (N2) (KT190)"
+        "stop_name_tc": "寶達邨轉車站 (KT190)"
     },
     {
         "route": "98A",
@@ -224301,7 +224301,7 @@
         "service_type": "3",
         "seq": "2",
         "stop": "5FD7848A339751B6",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T4)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "98A",
@@ -224341,7 +224341,7 @@
         "service_type": "3",
         "seq": "7",
         "stop": "03C3F537C41E4986",
-        "stop_name_tc": "寶達邨轉車站 (N2) (KT190)"
+        "stop_name_tc": "寶達邨轉車站 (KT190)"
     },
     {
         "route": "98A",
@@ -224557,7 +224557,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "0306B53F46955E3E",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (B3)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT641)"
     },
     {
         "route": "98B",
@@ -224573,7 +224573,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "5FD7848A339751B6",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T4)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "98C",
@@ -224741,7 +224741,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "03C3F537C41E4986",
-        "stop_name_tc": "寶達邨轉車站 (N2) (KT190)"
+        "stop_name_tc": "寶達邨轉車站 (KT190)"
     },
     {
         "route": "98C",
@@ -224949,7 +224949,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "AE0DC8745DFCA0FA",
-        "stop_name_tc": "寶達邨轉車站 (H1) (KT460)"
+        "stop_name_tc": "寶達邨轉車站 (KT460)"
     },
     {
         "route": "98C",
@@ -226069,7 +226069,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "03C3F537C41E4986",
-        "stop_name_tc": "寶達邨轉車站 (N2) (KT190)"
+        "stop_name_tc": "寶達邨轉車站 (KT190)"
     },
     {
         "route": "98E",
@@ -226277,7 +226277,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "AE0DC8745DFCA0FA",
-        "stop_name_tc": "寶達邨轉車站 (H1) (KT460)"
+        "stop_name_tc": "寶達邨轉車站 (KT460)"
     },
     {
         "route": "98E",
@@ -226485,7 +226485,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "03C3F537C41E4986",
-        "stop_name_tc": "寶達邨轉車站 (N2) (KT190)"
+        "stop_name_tc": "寶達邨轉車站 (KT190)"
     },
     {
         "route": "98P",
@@ -226813,7 +226813,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "03C3F537C41E4986",
-        "stop_name_tc": "寶達邨轉車站 (N2) (KT190)"
+        "stop_name_tc": "寶達邨轉車站 (KT190)"
     },
     {
         "route": "98R",
@@ -253813,7 +253813,7 @@
         "service_type": "1",
         "seq": "44",
         "stop": "466BC4C1908A1A06",
-        "stop_name_tc": "寶達邨轉車站 (N1) (KT191)"
+        "stop_name_tc": "寶達邨轉車站 (KT191)"
     },
     {
         "route": "N213",
@@ -253933,7 +253933,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "466BC4C1908A1A06",
-        "stop_name_tc": "寶達邨轉車站 (N1) (KT191)"
+        "stop_name_tc": "寶達邨轉車站 (KT191)"
     },
     {
         "route": "N214",
@@ -260437,7 +260437,7 @@
         "service_type": "1",
         "seq": "24",
         "stop": "EA2CFF27310EAEC3",
-        "stop_name_tc": "寶達邨轉車站 (H2) (KT459)"
+        "stop_name_tc": "寶達邨轉車站 (KT459)"
     },
     {
         "route": "N290",
@@ -260837,7 +260837,7 @@
         "service_type": "1",
         "seq": "24",
         "stop": "466BC4C1908A1A06",
-        "stop_name_tc": "寶達邨轉車站 (N1) (KT191)"
+        "stop_name_tc": "寶達邨轉車站 (KT191)"
     },
     {
         "route": "N290",
@@ -261261,7 +261261,7 @@
         "service_type": "1",
         "seq": "26",
         "stop": "466BC4C1908A1A06",
-        "stop_name_tc": "寶達邨轉車站 (N1) (KT191)"
+        "stop_name_tc": "寶達邨轉車站 (KT191)"
     },
     {
         "route": "N293",
@@ -261549,7 +261549,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "EA2CFF27310EAEC3",
-        "stop_name_tc": "寶達邨轉車站 (H2) (KT459)"
+        "stop_name_tc": "寶達邨轉車站 (KT459)"
     },
     {
         "route": "N293",
@@ -265021,7 +265021,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "F59AE1D39E8B2E29",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (U3)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT343)"
     },
     {
         "route": "N3D",
@@ -265045,7 +265045,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "8BAB6AA783EE0508",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (B4)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT640)"
     },
     {
         "route": "N3D",
@@ -267717,7 +267717,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "F2127FD781019971",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T2)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "N619",
@@ -268781,7 +268781,7 @@
         "service_type": "1",
         "seq": "24",
         "stop": "466BC4C1908A1A06",
-        "stop_name_tc": "寶達邨轉車站 (N1) (KT191)"
+        "stop_name_tc": "寶達邨轉車站 (KT191)"
     },
     {
         "route": "N691",
@@ -269085,7 +269085,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "EA2CFF27310EAEC3",
-        "stop_name_tc": "寶達邨轉車站 (H2) (KT459)"
+        "stop_name_tc": "寶達邨轉車站 (KT459)"
     },
     {
         "route": "N691",
@@ -278925,7 +278925,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "0B8C52E4C34E3B64",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T5)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "SP1",
@@ -278981,7 +278981,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "03C3F537C41E4986",
-        "stop_name_tc": "寶達邨轉車站 (N2) (KT190)"
+        "stop_name_tc": "寶達邨轉車站 (KT190)"
     },
     {
         "route": "SP1",
@@ -281301,7 +281301,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "0B8C52E4C34E3B64",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T5)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "W2",
@@ -281469,7 +281469,7 @@
         "service_type": "2",
         "seq": "11",
         "stop": "0B8C52E4C34E3B64",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T5)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "W2",
@@ -281517,7 +281517,7 @@
         "service_type": "3",
         "seq": "2",
         "stop": "0B8C52E4C34E3B64",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T5)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "W2",
@@ -282725,7 +282725,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "671775E6AF279B42",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (B2)"
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT642)"
     },
     {
         "route": "X42C",
@@ -283149,7 +283149,7 @@
         "service_type": "1",
         "seq": "28",
         "stop": "EB177E95B39626AE",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T6)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "X42C",
@@ -283333,7 +283333,7 @@
         "service_type": "2",
         "seq": "19",
         "stop": "EB177E95B39626AE",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T6)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "X42C",
@@ -283469,7 +283469,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "EB177E95B39626AE",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心 (T6)"
+        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
     },
     {
         "route": "X42P",
