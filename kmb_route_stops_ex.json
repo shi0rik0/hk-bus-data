@@ -1053,7 +1053,7 @@
         "service_type": "1",
         "seq": "34",
         "stop": "3F9AE21DC3A540B9",
-        "stop_name_tc": "牛頭角站 (V1) (KT338)"
+        "stop_name_tc": "牛頭角站 (KT338)"
     },
     {
         "route": "101",
@@ -1253,7 +1253,7 @@
         "service_type": "2",
         "seq": "24",
         "stop": "3F9AE21DC3A540B9",
-        "stop_name_tc": "牛頭角站 (V1) (KT338)"
+        "stop_name_tc": "牛頭角站 (KT338)"
     },
     {
         "route": "101",
@@ -2341,7 +2341,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "3F9AE21DC3A540B9",
-        "stop_name_tc": "牛頭角站 (V1) (KT338)"
+        "stop_name_tc": "牛頭角站 (KT338)"
     },
     {
         "route": "101R",
@@ -12461,15 +12461,15 @@
         "service_type": "1",
         "seq": "21",
         "stop": "F088E9BC1B13B13D",
-        "stop_name_tc": "九龍城碼頭 (KC953)"
+        "stop_name_tc": "九龍城碼頭巴士總站 (KC953)"
     },
     {
         "route": "115",
         "bound": "O",
         "service_type": "1",
         "seq": "1",
-        "stop": "F088E9BC1B13B13D",
-        "stop_name_tc": "九龍城碼頭 (KC953)"
+        "stop": "60C1F7910C07C52B",
+        "stop_name_tc": "九龍城碼頭巴士總站 (KC954)"
     },
     {
         "route": "115",
@@ -15196,8 +15196,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "1",
-        "stop": "6098480103C44C62",
-        "stop_name_tc": "九龍城碼頭巴士總站 (KC942)"
+        "stop": "F088E9BC1B13B13D",
+        "stop_name_tc": "九龍城碼頭巴士總站 (KC953)"
     },
     {
         "route": "11B",
@@ -15301,7 +15301,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "9627881F2180C5AB",
-        "stop_name_tc": "創紀之城 (U4) (KT342)"
+        "stop_name_tc": "創紀之城 (KT342)"
     },
     {
         "route": "11B",
@@ -15845,7 +15845,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "9627881F2180C5AB",
-        "stop_name_tc": "創紀之城 (U4) (KT342)"
+        "stop_name_tc": "創紀之城 (KT342)"
     },
     {
         "route": "11C",
@@ -15973,7 +15973,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "177E7222D0968DE5",
-        "stop_name_tc": "觀塘駿業里 (C5) (KT629)"
+        "stop_name_tc": "觀塘駿業里 (KT629)"
     },
     {
         "route": "11D",
@@ -16221,7 +16221,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "2DDD1CB69E981669",
-        "stop_name_tc": "創紀之城 (U6) (KT340)"
+        "stop_name_tc": "創紀之城 (KT340)"
     },
     {
         "route": "11D",
@@ -16749,7 +16749,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "CB341BEEABF66D6E",
-        "stop_name_tc": "觀塘站 (E3) (KT620)"
+        "stop_name_tc": "觀塘站 (KT620)"
     },
     {
         "route": "11X",
@@ -16989,7 +16989,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "3D40B78AACF268D7",
-        "stop_name_tc": "apm創紀之城5期 (D2) (KT625)"
+        "stop_name_tc": "apm創紀之城5期 (KT625)"
     },
     {
         "route": "11X",
@@ -19525,7 +19525,7 @@
         "service_type": "2",
         "seq": "3",
         "stop": "F36DEB05146E271D",
-        "stop_name_tc": "觀塘站 (E1) (KT622)"
+        "stop_name_tc": "觀塘站 (KT622)"
     },
     {
         "route": "13P",
@@ -21117,7 +21117,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "38B86AC474D1060D",
-        "stop_name_tc": "創紀之城 (U5) (KT341)"
+        "stop_name_tc": "創紀之城 (KT341)"
     },
     {
         "route": "14",
@@ -21133,7 +21133,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "144E9479168069DD",
-        "stop_name_tc": "觀塘游泳池 (R2) (KT361)"
+        "stop_name_tc": "觀塘游泳池 (KT361)"
     },
     {
         "route": "14",
@@ -21245,7 +21245,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "47266DB98060A64E",
-        "stop_name_tc": "觀塘法院 (F3) (KT610)"
+        "stop_name_tc": "觀塘法院 (KT610)"
     },
     {
         "route": "14",
@@ -21469,7 +21469,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "5B04604E989BBDF0",
-        "stop_name_tc": "觀塘法院 (F1) (KT612)"
+        "stop_name_tc": "觀塘法院 (KT612)"
     },
     {
         "route": "14B",
@@ -21477,7 +21477,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "70F41B968EA8E456",
-        "stop_name_tc": "觀塘站 (E2) (KT621)"
+        "stop_name_tc": "觀塘站 (KT621)"
     },
     {
         "route": "14B",
@@ -21573,7 +21573,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "144E9479168069DD",
-        "stop_name_tc": "觀塘游泳池 (R2) (KT361)"
+        "stop_name_tc": "觀塘游泳池 (KT361)"
     },
     {
         "route": "14B",
@@ -21701,7 +21701,7 @@
         "service_type": "3",
         "seq": "9",
         "stop": "144E9479168069DD",
-        "stop_name_tc": "觀塘游泳池 (R2) (KT361)"
+        "stop_name_tc": "觀塘游泳池 (KT361)"
     },
     {
         "route": "14B",
@@ -22365,7 +22365,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "5B04604E989BBDF0",
-        "stop_name_tc": "觀塘法院 (F1) (KT612)"
+        "stop_name_tc": "觀塘法院 (KT612)"
     },
     {
         "route": "14H",
@@ -22373,7 +22373,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "F36DEB05146E271D",
-        "stop_name_tc": "觀塘站 (E1) (KT622)"
+        "stop_name_tc": "觀塘站 (KT622)"
     },
     {
         "route": "14H",
@@ -22493,7 +22493,7 @@
         "service_type": "1",
         "seq": "29",
         "stop": "144E9479168069DD",
-        "stop_name_tc": "觀塘游泳池 (R2) (KT361)"
+        "stop_name_tc": "觀塘游泳池 (KT361)"
     },
     {
         "route": "14H",
@@ -22693,7 +22693,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "47266DB98060A64E",
-        "stop_name_tc": "觀塘法院 (F3) (KT610)"
+        "stop_name_tc": "觀塘法院 (KT610)"
     },
     {
         "route": "14X",
@@ -22829,7 +22829,7 @@
         "service_type": "1",
         "seq": "25",
         "stop": "38B86AC474D1060D",
-        "stop_name_tc": "創紀之城 (U5) (KT341)"
+        "stop_name_tc": "創紀之城 (KT341)"
     },
     {
         "route": "14X",
@@ -22845,7 +22845,7 @@
         "service_type": "1",
         "seq": "27",
         "stop": "144E9479168069DD",
-        "stop_name_tc": "觀塘游泳池 (R2) (KT361)"
+        "stop_name_tc": "觀塘游泳池 (KT361)"
     },
     {
         "route": "14X",
@@ -23069,7 +23069,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "38B86AC474D1060D",
-        "stop_name_tc": "創紀之城 (U5) (KT341)"
+        "stop_name_tc": "創紀之城 (KT341)"
     },
     {
         "route": "15",
@@ -23085,7 +23085,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "144E9479168069DD",
-        "stop_name_tc": "觀塘游泳池 (R2) (KT361)"
+        "stop_name_tc": "觀塘游泳池 (KT361)"
     },
     {
         "route": "15",
@@ -23205,7 +23205,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "47266DB98060A64E",
-        "stop_name_tc": "觀塘法院 (F3) (KT610)"
+        "stop_name_tc": "觀塘法院 (KT610)"
     },
     {
         "route": "15",
@@ -23533,7 +23533,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "CF579AAA2A4E506C",
-        "stop_name_tc": "牛頭角站 (V3) (KT336)"
+        "stop_name_tc": "牛頭角站 (KT336)"
     },
     {
         "route": "15A",
@@ -23557,7 +23557,7 @@
         "service_type": "1",
         "seq": "24",
         "stop": "144E9479168069DD",
-        "stop_name_tc": "觀塘游泳池 (R2) (KT361)"
+        "stop_name_tc": "觀塘游泳池 (KT361)"
     },
     {
         "route": "15A",
@@ -23677,7 +23677,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "5B04604E989BBDF0",
-        "stop_name_tc": "觀塘法院 (F1) (KT612)"
+        "stop_name_tc": "觀塘法院 (KT612)"
     },
     {
         "route": "15A",
@@ -23685,7 +23685,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "F36DEB05146E271D",
-        "stop_name_tc": "觀塘站 (E1) (KT622)"
+        "stop_name_tc": "觀塘站 (KT622)"
     },
     {
         "route": "15A",
@@ -23693,7 +23693,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "1E3A342DF7D5B8B5",
-        "stop_name_tc": "apm創紀之城5期 (D1) (KT626)"
+        "stop_name_tc": "apm創紀之城5期 (KT626)"
     },
     {
         "route": "15A",
@@ -23933,7 +23933,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "38B86AC474D1060D",
-        "stop_name_tc": "創紀之城 (U5) (KT341)"
+        "stop_name_tc": "創紀之城 (KT341)"
     },
     {
         "route": "15X",
@@ -23949,7 +23949,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "144E9479168069DD",
-        "stop_name_tc": "觀塘游泳池 (R2) (KT361)"
+        "stop_name_tc": "觀塘游泳池 (KT361)"
     },
     {
         "route": "15X",
@@ -24133,7 +24133,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "47266DB98060A64E",
-        "stop_name_tc": "觀塘法院 (F3) (KT610)"
+        "stop_name_tc": "觀塘法院 (KT610)"
     },
     {
         "route": "15X",
@@ -24389,7 +24389,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "38B86AC474D1060D",
-        "stop_name_tc": "創紀之城 (U5) (KT341)"
+        "stop_name_tc": "創紀之城 (KT341)"
     },
     {
         "route": "16",
@@ -24405,7 +24405,7 @@
         "service_type": "1",
         "seq": "24",
         "stop": "2A5B424322D35B0A",
-        "stop_name_tc": "觀塘游泳池 (R1) (KT362)"
+        "stop_name_tc": "觀塘游泳池 (KT362)"
     },
     {
         "route": "16",
@@ -24413,7 +24413,7 @@
         "service_type": "1",
         "seq": "25",
         "stop": "ED8812E232F6958A",
-        "stop_name_tc": "觀塘警署 (Q1) (LT190)"
+        "stop_name_tc": "觀塘警署 (LT190)"
     },
     {
         "route": "16",
@@ -24525,7 +24525,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "F36DEB05146E271D",
-        "stop_name_tc": "觀塘站 (E1) (KT622)"
+        "stop_name_tc": "觀塘站 (KT622)"
     },
     {
         "route": "16",
@@ -24741,7 +24741,7 @@
         "service_type": "2",
         "seq": "5",
         "stop": "F36DEB05146E271D",
-        "stop_name_tc": "觀塘站 (E1) (KT622)"
+        "stop_name_tc": "觀塘站 (KT622)"
     },
     {
         "route": "16",
@@ -24941,7 +24941,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "2A5B424322D35B0A",
-        "stop_name_tc": "觀塘游泳池 (R1) (KT362)"
+        "stop_name_tc": "觀塘游泳池 (KT362)"
     },
     {
         "route": "16M",
@@ -24949,7 +24949,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "ED8812E232F6958A",
-        "stop_name_tc": "觀塘警署 (Q1) (LT190)"
+        "stop_name_tc": "觀塘警署 (LT190)"
     },
     {
         "route": "16M",
@@ -25013,7 +25013,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "5B04604E989BBDF0",
-        "stop_name_tc": "觀塘法院 (F1) (KT612)"
+        "stop_name_tc": "觀塘法院 (KT612)"
     },
     {
         "route": "16M",
@@ -25021,7 +25021,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "70F41B968EA8E456",
-        "stop_name_tc": "觀塘站 (E2) (KT621)"
+        "stop_name_tc": "觀塘站 (KT621)"
     },
     {
         "route": "16M",
@@ -25837,7 +25837,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "9627881F2180C5AB",
-        "stop_name_tc": "創紀之城 (U4) (KT342)"
+        "stop_name_tc": "創紀之城 (KT342)"
     },
     {
         "route": "17",
@@ -30389,7 +30389,7 @@
         "service_type": "1",
         "seq": "25",
         "stop": "9627881F2180C5AB",
-        "stop_name_tc": "創紀之城 (U4) (KT342)"
+        "stop_name_tc": "創紀之城 (KT342)"
     },
     {
         "route": "1A",
@@ -33861,7 +33861,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "ED8812E232F6958A",
-        "stop_name_tc": "觀塘警署 (Q1) (LT190)"
+        "stop_name_tc": "觀塘警署 (LT190)"
     },
     {
         "route": "213M",
@@ -33949,7 +33949,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "ED8812E232F6958A",
-        "stop_name_tc": "觀塘警署 (Q1) (LT190)"
+        "stop_name_tc": "觀塘警署 (LT190)"
     },
     {
         "route": "213S",
@@ -35565,7 +35565,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "47266DB98060A64E",
-        "stop_name_tc": "觀塘法院 (F3) (KT610)"
+        "stop_name_tc": "觀塘法院 (KT610)"
     },
     {
         "route": "215P",
@@ -35669,7 +35669,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "144E9479168069DD",
-        "stop_name_tc": "觀塘游泳池 (R2) (KT361)"
+        "stop_name_tc": "觀塘游泳池 (KT361)"
     },
     {
         "route": "215R",
@@ -35941,7 +35941,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "38B86AC474D1060D",
-        "stop_name_tc": "創紀之城 (U5) (KT341)"
+        "stop_name_tc": "創紀之城 (KT341)"
     },
     {
         "route": "215X",
@@ -35957,7 +35957,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "144E9479168069DD",
-        "stop_name_tc": "觀塘游泳池 (R2) (KT361)"
+        "stop_name_tc": "觀塘游泳池 (KT361)"
     },
     {
         "route": "215X",
@@ -36133,7 +36133,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "47266DB98060A64E",
-        "stop_name_tc": "觀塘法院 (F3) (KT610)"
+        "stop_name_tc": "觀塘法院 (KT610)"
     },
     {
         "route": "215X",
@@ -36301,7 +36301,7 @@
         "service_type": "2",
         "seq": "10",
         "stop": "47266DB98060A64E",
-        "stop_name_tc": "觀塘法院 (F3) (KT610)"
+        "stop_name_tc": "觀塘法院 (KT610)"
     },
     {
         "route": "215X",
@@ -38677,7 +38677,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "3CA81FA2944B754D",
-        "stop_name_tc": "觀塘駿業里 (C6) (KT628)"
+        "stop_name_tc": "觀塘駿業里 (KT628)"
     },
     {
         "route": "234C",
@@ -39157,7 +39157,7 @@
         "service_type": "1",
         "seq": "29",
         "stop": "CF579AAA2A4E506C",
-        "stop_name_tc": "牛頭角站 (V3) (KT336)"
+        "stop_name_tc": "牛頭角站 (KT336)"
     },
     {
         "route": "234C",
@@ -39205,7 +39205,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "3CA81FA2944B754D",
-        "stop_name_tc": "觀塘駿業里 (C6) (KT628)"
+        "stop_name_tc": "觀塘駿業里 (KT628)"
     },
     {
         "route": "234D",
@@ -39645,7 +39645,7 @@
         "service_type": "1",
         "seq": "29",
         "stop": "CF579AAA2A4E506C",
-        "stop_name_tc": "牛頭角站 (V3) (KT336)"
+        "stop_name_tc": "牛頭角站 (KT336)"
     },
     {
         "route": "234D",
@@ -42652,8 +42652,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "1",
-        "stop": "D6BE89205CDC6645",
-        "stop_name_tc": "九龍城碼頭 (KC952)"
+        "stop": "3241EDA71CCCF867",
+        "stop_name_tc": null
     },
     {
         "route": "241X",
@@ -43197,7 +43197,7 @@
         "service_type": "1",
         "seq": "32",
         "stop": "D6BE89205CDC6645",
-        "stop_name_tc": "九龍城碼頭 (KC952)"
+        "stop_name_tc": "九龍城碼頭巴士總站 (KC952)"
     },
     {
         "route": "242X",
@@ -46141,7 +46141,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "25F3EF8ACD865DFB",
-        "stop_name_tc": "觀塘法院 (F4) (KT609)"
+        "stop_name_tc": "觀塘法院 (KT609)"
     },
     {
         "route": "252X",
@@ -46149,7 +46149,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "478A61BE44E34707",
-        "stop_name_tc": "觀塘駿業里 (C2) (KT632)"
+        "stop_name_tc": "觀塘駿業里 (KT632)"
     },
     {
         "route": "252X",
@@ -46605,7 +46605,7 @@
         "service_type": "1",
         "seq": "25",
         "stop": "5AAC6A858427D04E",
-        "stop_name_tc": "觀塘游泳池 (R3) (KT360)"
+        "stop_name_tc": "觀塘游泳池 (KT360)"
     },
     {
         "route": "252X",
@@ -46789,7 +46789,7 @@
         "service_type": "2",
         "seq": "22",
         "stop": "5AAC6A858427D04E",
-        "stop_name_tc": "觀塘游泳池 (R3) (KT360)"
+        "stop_name_tc": "觀塘游泳池 (KT360)"
     },
     {
         "route": "252X",
@@ -47013,7 +47013,7 @@
         "service_type": "1",
         "seq": "27",
         "stop": "5AAC6A858427D04E",
-        "stop_name_tc": "觀塘游泳池 (R3) (KT360)"
+        "stop_name_tc": "觀塘游泳池 (KT360)"
     },
     {
         "route": "258A",
@@ -47037,7 +47037,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "25F3EF8ACD865DFB",
-        "stop_name_tc": "觀塘法院 (F4) (KT609)"
+        "stop_name_tc": "觀塘法院 (KT609)"
     },
     {
         "route": "258D",
@@ -47045,7 +47045,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "478A61BE44E34707",
-        "stop_name_tc": "觀塘駿業里 (C2) (KT632)"
+        "stop_name_tc": "觀塘駿業里 (KT632)"
     },
     {
         "route": "258D",
@@ -47445,7 +47445,7 @@
         "service_type": "1",
         "seq": "26",
         "stop": "5AAC6A858427D04E",
-        "stop_name_tc": "觀塘游泳池 (R3) (KT360)"
+        "stop_name_tc": "觀塘游泳池 (KT360)"
     },
     {
         "route": "258D",
@@ -47477,7 +47477,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "25F3EF8ACD865DFB",
-        "stop_name_tc": "觀塘法院 (F4) (KT609)"
+        "stop_name_tc": "觀塘法院 (KT609)"
     },
     {
         "route": "258P",
@@ -47485,7 +47485,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "478A61BE44E34707",
-        "stop_name_tc": "觀塘駿業里 (C2) (KT632)"
+        "stop_name_tc": "觀塘駿業里 (KT632)"
     },
     {
         "route": "258P",
@@ -47965,7 +47965,7 @@
         "service_type": "1",
         "seq": "32",
         "stop": "5AAC6A858427D04E",
-        "stop_name_tc": "觀塘游泳池 (R3) (KT360)"
+        "stop_name_tc": "觀塘游泳池 (KT360)"
     },
     {
         "route": "258P",
@@ -48133,7 +48133,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "5AAC6A858427D04E",
-        "stop_name_tc": "觀塘游泳池 (R3) (KT360)"
+        "stop_name_tc": "觀塘游泳池 (KT360)"
     },
     {
         "route": "258S",
@@ -48701,7 +48701,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "25F3EF8ACD865DFB",
-        "stop_name_tc": "觀塘法院 (F4) (KT609)"
+        "stop_name_tc": "觀塘法院 (KT609)"
     },
     {
         "route": "259D",
@@ -48709,7 +48709,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "478A61BE44E34707",
-        "stop_name_tc": "觀塘駿業里 (C2) (KT632)"
+        "stop_name_tc": "觀塘駿業里 (KT632)"
     },
     {
         "route": "259D",
@@ -49069,7 +49069,7 @@
         "service_type": "1",
         "seq": "24",
         "stop": "144E9479168069DD",
-        "stop_name_tc": "觀塘游泳池 (R2) (KT361)"
+        "stop_name_tc": "觀塘游泳池 (KT361)"
     },
     {
         "route": "259D",
@@ -49269,7 +49269,7 @@
         "service_type": "3",
         "seq": "21",
         "stop": "144E9479168069DD",
-        "stop_name_tc": "觀塘游泳池 (R2) (KT361)"
+        "stop_name_tc": "觀塘游泳池 (KT361)"
     },
     {
         "route": "259D",
@@ -50005,7 +50005,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "1E3A342DF7D5B8B5",
-        "stop_name_tc": "apm創紀之城5期 (D1) (KT626)"
+        "stop_name_tc": "apm創紀之城5期 (KT626)"
     },
     {
         "route": "26",
@@ -56237,7 +56237,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "25F3EF8ACD865DFB",
-        "stop_name_tc": "觀塘法院 (F4) (KT609)"
+        "stop_name_tc": "觀塘法院 (KT609)"
     },
     {
         "route": "267X",
@@ -56245,7 +56245,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "478A61BE44E34707",
-        "stop_name_tc": "觀塘駿業里 (C2) (KT632)"
+        "stop_name_tc": "觀塘駿業里 (KT632)"
     },
     {
         "route": "267X",
@@ -56605,7 +56605,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "5AAC6A858427D04E",
-        "stop_name_tc": "觀塘游泳池 (R3) (KT360)"
+        "stop_name_tc": "觀塘游泳池 (KT360)"
     },
     {
         "route": "267X",
@@ -56885,7 +56885,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "2C7BF1ADFCFB5545",
-        "stop_name_tc": "觀塘駿業里 (C1) (KT633)"
+        "stop_name_tc": "觀塘駿業里 (KT633)"
     },
     {
         "route": "268A",
@@ -57205,7 +57205,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "CF579AAA2A4E506C",
-        "stop_name_tc": "牛頭角站 (V3) (KT336)"
+        "stop_name_tc": "牛頭角站 (KT336)"
     },
     {
         "route": "268A",
@@ -57797,7 +57797,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "2C7BF1ADFCFB5545",
-        "stop_name_tc": "觀塘駿業里 (C1) (KT633)"
+        "stop_name_tc": "觀塘駿業里 (KT633)"
     },
     {
         "route": "268C",
@@ -58205,7 +58205,7 @@
         "service_type": "4",
         "seq": "4",
         "stop": "2C7BF1ADFCFB5545",
-        "stop_name_tc": "觀塘駿業里 (C1) (KT633)"
+        "stop_name_tc": "觀塘駿業里 (KT633)"
     },
     {
         "route": "268C",
@@ -58589,7 +58589,7 @@
         "service_type": "1",
         "seq": "25",
         "stop": "CF579AAA2A4E506C",
-        "stop_name_tc": "牛頭角站 (V3) (KT336)"
+        "stop_name_tc": "牛頭角站 (KT336)"
     },
     {
         "route": "268C",
@@ -58797,7 +58797,7 @@
         "service_type": "2",
         "seq": "23",
         "stop": "CF579AAA2A4E506C",
-        "stop_name_tc": "牛頭角站 (V3) (KT336)"
+        "stop_name_tc": "牛頭角站 (KT336)"
     },
     {
         "route": "268C",
@@ -60261,7 +60261,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "2C7BF1ADFCFB5545",
-        "stop_name_tc": "觀塘駿業里 (C1) (KT633)"
+        "stop_name_tc": "觀塘駿業里 (KT633)"
     },
     {
         "route": "269C",
@@ -60661,7 +60661,7 @@
         "service_type": "1",
         "seq": "25",
         "stop": "CF579AAA2A4E506C",
-        "stop_name_tc": "牛頭角站 (V3) (KT336)"
+        "stop_name_tc": "牛頭角站 (KT336)"
     },
     {
         "route": "269C",
@@ -60845,7 +60845,7 @@
         "service_type": "5",
         "seq": "20",
         "stop": "CF579AAA2A4E506C",
-        "stop_name_tc": "牛頭角站 (V3) (KT336)"
+        "stop_name_tc": "牛頭角站 (KT336)"
     },
     {
         "route": "269C",
@@ -73397,7 +73397,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "42AF8D1ADA2FA6C0",
-        "stop_name_tc": "apm創紀之城5期 (D3) (KT624)"
+        "stop_name_tc": "apm創紀之城5期 (KT624)"
     },
     {
         "route": "274X",
@@ -75685,7 +75685,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "5B04604E989BBDF0",
-        "stop_name_tc": "觀塘法院 (F1) (KT612)"
+        "stop_name_tc": "觀塘法院 (KT612)"
     },
     {
         "route": "277A",
@@ -75693,7 +75693,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "64303D83BDF8C92F",
-        "stop_name_tc": "apm創紀之城5期 (D4) (KT623)"
+        "stop_name_tc": "apm創紀之城5期 (KT623)"
     },
     {
         "route": "277A",
@@ -76245,7 +76245,7 @@
         "service_type": "1",
         "seq": "34",
         "stop": "144E9479168069DD",
-        "stop_name_tc": "觀塘游泳池 (R2) (KT361)"
+        "stop_name_tc": "觀塘游泳池 (KT361)"
     },
     {
         "route": "277A",
@@ -76277,7 +76277,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "5B04604E989BBDF0",
-        "stop_name_tc": "觀塘法院 (F1) (KT612)"
+        "stop_name_tc": "觀塘法院 (KT612)"
     },
     {
         "route": "277E",
@@ -76285,7 +76285,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "1E3A342DF7D5B8B5",
-        "stop_name_tc": "apm創紀之城5期 (D1) (KT626)"
+        "stop_name_tc": "apm創紀之城5期 (KT626)"
     },
     {
         "route": "277E",
@@ -76549,7 +76549,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "144E9479168069DD",
-        "stop_name_tc": "觀塘游泳池 (R2) (KT361)"
+        "stop_name_tc": "觀塘游泳池 (KT361)"
     },
     {
         "route": "277E",
@@ -76693,7 +76693,7 @@
         "service_type": "2",
         "seq": "16",
         "stop": "144E9479168069DD",
-        "stop_name_tc": "觀塘游泳池 (R2) (KT361)"
+        "stop_name_tc": "觀塘游泳池 (KT361)"
     },
     {
         "route": "277E",
@@ -76725,7 +76725,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "5B04604E989BBDF0",
-        "stop_name_tc": "觀塘法院 (F1) (KT612)"
+        "stop_name_tc": "觀塘法院 (KT612)"
     },
     {
         "route": "277P",
@@ -76733,7 +76733,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "1E3A342DF7D5B8B5",
-        "stop_name_tc": "apm創紀之城5期 (D1) (KT626)"
+        "stop_name_tc": "apm創紀之城5期 (KT626)"
     },
     {
         "route": "277P",
@@ -77133,7 +77133,7 @@
         "service_type": "1",
         "seq": "26",
         "stop": "144E9479168069DD",
-        "stop_name_tc": "觀塘游泳池 (R2) (KT361)"
+        "stop_name_tc": "觀塘游泳池 (KT361)"
     },
     {
         "route": "277P",
@@ -77165,7 +77165,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "5B04604E989BBDF0",
-        "stop_name_tc": "觀塘法院 (F1) (KT612)"
+        "stop_name_tc": "觀塘法院 (KT612)"
     },
     {
         "route": "277X",
@@ -77173,7 +77173,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "64303D83BDF8C92F",
-        "stop_name_tc": "apm創紀之城5期 (D4) (KT623)"
+        "stop_name_tc": "apm創紀之城5期 (KT623)"
     },
     {
         "route": "277X",
@@ -77477,7 +77477,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "144E9479168069DD",
-        "stop_name_tc": "觀塘游泳池 (R2) (KT361)"
+        "stop_name_tc": "觀塘游泳池 (KT361)"
     },
     {
         "route": "277X",
@@ -77621,7 +77621,7 @@
         "service_type": "2",
         "seq": "16",
         "stop": "144E9479168069DD",
-        "stop_name_tc": "觀塘游泳池 (R2) (KT361)"
+        "stop_name_tc": "觀塘游泳池 (KT361)"
     },
     {
         "route": "277X",
@@ -77733,7 +77733,7 @@
         "service_type": "3",
         "seq": "12",
         "stop": "144E9479168069DD",
-        "stop_name_tc": "觀塘游泳池 (R2) (KT361)"
+        "stop_name_tc": "觀塘游泳池 (KT361)"
     },
     {
         "route": "277X",
@@ -78124,14 +78124,6 @@
         "bound": "O",
         "service_type": "1",
         "seq": "3",
-        "stop": "B85E71E9AFF5B087",
-        "stop_name_tc": "粉嶺樓路 (ND293)"
-    },
-    {
-        "route": "278K",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "4",
         "stop": "EDFAC4F35C0E51C7",
         "stop_name_tc": "禮賢會中學 (ND567)"
     },
@@ -78139,7 +78131,7 @@
         "route": "278K",
         "bound": "O",
         "service_type": "1",
-        "seq": "5",
+        "seq": "4",
         "stop": "25721F85DC026ACA",
         "stop_name_tc": "粉嶺站轉車站 - 祥華邨(A1)"
     },
@@ -78147,7 +78139,7 @@
         "route": "278K",
         "bound": "O",
         "service_type": "1",
-        "seq": "6",
+        "seq": "5",
         "stop": "D4A97E2A758EDC64",
         "stop_name_tc": "粉嶺站轉車站 - 粉嶺站(C1)"
     },
@@ -78155,7 +78147,7 @@
         "route": "278K",
         "bound": "O",
         "service_type": "1",
-        "seq": "7",
+        "seq": "6",
         "stop": "000CFEE2F92DC17B",
         "stop_name_tc": "粉嶺樓 (ND261)"
     },
@@ -78163,7 +78155,7 @@
         "route": "278K",
         "bound": "O",
         "service_type": "1",
-        "seq": "8",
+        "seq": "7",
         "stop": "BA995ECF3EFCA99E",
         "stop_name_tc": "粉嶺樓村 (ND291)"
     },
@@ -78171,15 +78163,7 @@
         "route": "278K",
         "bound": "O",
         "service_type": "1",
-        "seq": "9",
-        "stop": "4235BA400EB10F0E",
-        "stop_name_tc": "粉嶺樓路 (ND565)"
-    },
-    {
-        "route": "278K",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "10",
+        "seq": "8",
         "stop": "879A98CD29D9433F",
         "stop_name_tc": "上水宣道小學 (ND296)"
     },
@@ -78187,7 +78171,167 @@
         "route": "278K",
         "bound": "O",
         "service_type": "1",
-        "seq": "11",
+        "seq": "9",
+        "stop": "1AB800949FF1203B",
+        "stop_name_tc": "聯和墟總站 (ND961)"
+    },
+    {
+        "route": "278K",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "1",
+        "stop": "1AB800949FF1203B",
+        "stop_name_tc": "聯和墟總站 (ND961)"
+    },
+    {
+        "route": "278K",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "2",
+        "stop": "B28798C421AB2D6B",
+        "stop_name_tc": "海聯廣場 (ND560)"
+    },
+    {
+        "route": "278K",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "3",
+        "stop": "4235BA400EB10F0E",
+        "stop_name_tc": "粉嶺樓路 (ND565)"
+    },
+    {
+        "route": "278K",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "4",
+        "stop": "EDFAC4F35C0E51C7",
+        "stop_name_tc": "禮賢會中學 (ND567)"
+    },
+    {
+        "route": "278K",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "5",
+        "stop": "25721F85DC026ACA",
+        "stop_name_tc": "粉嶺站轉車站 - 祥華邨(A1)"
+    },
+    {
+        "route": "278K",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "6",
+        "stop": "D4A97E2A758EDC64",
+        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站(C1)"
+    },
+    {
+        "route": "278K",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "7",
+        "stop": "000CFEE2F92DC17B",
+        "stop_name_tc": "粉嶺樓 (ND261)"
+    },
+    {
+        "route": "278K",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "8",
+        "stop": "BA995ECF3EFCA99E",
+        "stop_name_tc": "粉嶺樓村 (ND291)"
+    },
+    {
+        "route": "278K",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "9",
+        "stop": "879A98CD29D9433F",
+        "stop_name_tc": "上水宣道小學 (ND296)"
+    },
+    {
+        "route": "278K",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "10",
+        "stop": "1AB800949FF1203B",
+        "stop_name_tc": "聯和墟總站 (ND961)"
+    },
+    {
+        "route": "278K",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "1",
+        "stop": "1AB800949FF1203B",
+        "stop_name_tc": "聯和墟總站 (ND961)"
+    },
+    {
+        "route": "278K",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "2",
+        "stop": "B28798C421AB2D6B",
+        "stop_name_tc": "海聯廣場 (ND560)"
+    },
+    {
+        "route": "278K",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "3",
+        "stop": "EDFAC4F35C0E51C7",
+        "stop_name_tc": "禮賢會中學 (ND567)"
+    },
+    {
+        "route": "278K",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "4",
+        "stop": "25721F85DC026ACA",
+        "stop_name_tc": "粉嶺站轉車站 - 祥華邨(A1)"
+    },
+    {
+        "route": "278K",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "5",
+        "stop": "D4A97E2A758EDC64",
+        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站(C1)"
+    },
+    {
+        "route": "278K",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "6",
+        "stop": "000CFEE2F92DC17B",
+        "stop_name_tc": "粉嶺樓 (ND261)"
+    },
+    {
+        "route": "278K",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "7",
+        "stop": "BA995ECF3EFCA99E",
+        "stop_name_tc": "粉嶺樓村 (ND291)"
+    },
+    {
+        "route": "278K",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "8",
+        "stop": "B85E71E9AFF5B087",
+        "stop_name_tc": "粉嶺樓路 (ND293)"
+    },
+    {
+        "route": "278K",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "9",
+        "stop": "879A98CD29D9433F",
+        "stop_name_tc": "上水宣道小學 (ND296)"
+    },
+    {
+        "route": "278K",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "10",
         "stop": "1AB800949FF1203B",
         "stop_name_tc": "聯和墟總站 (ND961)"
     },
@@ -89941,7 +90085,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "C057639478BE0168",
-        "stop_name_tc": "牛頭角站 (V4) (KT335)"
+        "stop_name_tc": "牛頭角站 (KT335)"
     },
     {
         "route": "296A",
@@ -89957,7 +90101,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "2A5B424322D35B0A",
-        "stop_name_tc": "觀塘游泳池 (R1) (KT362)"
+        "stop_name_tc": "觀塘游泳池 (KT362)"
     },
     {
         "route": "296A",
@@ -89965,7 +90109,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "ED8812E232F6958A",
-        "stop_name_tc": "觀塘警署 (Q1) (LT190)"
+        "stop_name_tc": "觀塘警署 (LT190)"
     },
     {
         "route": "296A",
@@ -90197,7 +90341,7 @@
         "service_type": "1",
         "seq": "26",
         "stop": "2A5B424322D35B0A",
-        "stop_name_tc": "觀塘游泳池 (R1) (KT362)"
+        "stop_name_tc": "觀塘游泳池 (KT362)"
     },
     {
         "route": "296C",
@@ -90205,7 +90349,7 @@
         "service_type": "1",
         "seq": "27",
         "stop": "ED8812E232F6958A",
-        "stop_name_tc": "觀塘警署 (Q1) (LT190)"
+        "stop_name_tc": "觀塘警署 (LT190)"
     },
     {
         "route": "296C",
@@ -95012,8 +95156,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "1",
-        "stop": "C3427DE8E291FFA6",
-        "stop_name_tc": "九龍城碼頭巴士總站 (KC941)"
+        "stop": "6098480103C44C62",
+        "stop_name_tc": "九龍城碼頭巴士總站 (KC942)"
     },
     {
         "route": "2E",
@@ -102197,7 +102341,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "F1A90CEE2B8C40CC",
-        "stop_name_tc": "觀塘法院 (F2) (KT611)"
+        "stop_name_tc": "觀塘法院 (KT611)"
     },
     {
         "route": "33B",
@@ -102205,7 +102349,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "84B384771F1CE484",
-        "stop_name_tc": "觀塘駿業里 (C7) (KT627)"
+        "stop_name_tc": "觀塘駿業里 (KT627)"
     },
     {
         "route": "33B",
@@ -102421,7 +102565,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "38B86AC474D1060D",
-        "stop_name_tc": "創紀之城 (U5) (KT341)"
+        "stop_name_tc": "創紀之城 (KT341)"
     },
     {
         "route": "33B",
@@ -102437,7 +102581,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "5AAC6A858427D04E",
-        "stop_name_tc": "觀塘游泳池 (R3) (KT360)"
+        "stop_name_tc": "觀塘游泳池 (KT360)"
     },
     {
         "route": "33B",
@@ -107341,7 +107485,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "F1A90CEE2B8C40CC",
-        "stop_name_tc": "觀塘法院 (F2) (KT611)"
+        "stop_name_tc": "觀塘法院 (KT611)"
     },
     {
         "route": "38",
@@ -107349,7 +107493,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "84B384771F1CE484",
-        "stop_name_tc": "觀塘駿業里 (C7) (KT627)"
+        "stop_name_tc": "觀塘駿業里 (KT627)"
     },
     {
         "route": "38",
@@ -107845,7 +107989,7 @@
         "service_type": "1",
         "seq": "29",
         "stop": "CF579AAA2A4E506C",
-        "stop_name_tc": "牛頭角站 (V3) (KT336)"
+        "stop_name_tc": "牛頭角站 (KT336)"
     },
     {
         "route": "38",
@@ -107861,7 +108005,7 @@
         "service_type": "1",
         "seq": "31",
         "stop": "144E9479168069DD",
-        "stop_name_tc": "觀塘游泳池 (R2) (KT361)"
+        "stop_name_tc": "觀塘游泳池 (KT361)"
     },
     {
         "route": "38",
@@ -108501,7 +108645,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "F1A90CEE2B8C40CC",
-        "stop_name_tc": "觀塘法院 (F2) (KT611)"
+        "stop_name_tc": "觀塘法院 (KT611)"
     },
     {
         "route": "38P",
@@ -108509,7 +108653,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "84B384771F1CE484",
-        "stop_name_tc": "觀塘駿業里 (C7) (KT627)"
+        "stop_name_tc": "觀塘駿業里 (KT627)"
     },
     {
         "route": "38P",
@@ -108941,7 +109085,7 @@
         "service_type": "1",
         "seq": "28",
         "stop": "CF579AAA2A4E506C",
-        "stop_name_tc": "牛頭角站 (V3) (KT336)"
+        "stop_name_tc": "牛頭角站 (KT336)"
     },
     {
         "route": "38P",
@@ -108957,7 +109101,7 @@
         "service_type": "1",
         "seq": "30",
         "stop": "144E9479168069DD",
-        "stop_name_tc": "觀塘游泳池 (R2) (KT361)"
+        "stop_name_tc": "觀塘游泳池 (KT361)"
     },
     {
         "route": "38P",
@@ -111877,7 +112021,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "3CA81FA2944B754D",
-        "stop_name_tc": "觀塘駿業里 (C6) (KT628)"
+        "stop_name_tc": "觀塘駿業里 (KT628)"
     },
     {
         "route": "40",
@@ -112325,7 +112469,7 @@
         "service_type": "1",
         "seq": "28",
         "stop": "FCA3906F0282A3CE",
-        "stop_name_tc": "牛頭角站 (V5) (KT334)"
+        "stop_name_tc": "牛頭角站 (KT334)"
     },
     {
         "route": "40",
@@ -112605,7 +112749,7 @@
         "service_type": "2",
         "seq": "29",
         "stop": "FCA3906F0282A3CE",
-        "stop_name_tc": "牛頭角站 (V5) (KT334)"
+        "stop_name_tc": "牛頭角站 (KT334)"
     },
     {
         "route": "40",
@@ -112797,7 +112941,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "FCA3906F0282A3CE",
-        "stop_name_tc": "牛頭角站 (V5) (KT334)"
+        "stop_name_tc": "牛頭角站 (KT334)"
     },
     {
         "route": "40A",
@@ -112813,7 +112957,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "144E9479168069DD",
-        "stop_name_tc": "觀塘游泳池 (R2) (KT361)"
+        "stop_name_tc": "觀塘游泳池 (KT361)"
     },
     {
         "route": "40A",
@@ -113085,7 +113229,7 @@
         "service_type": "1",
         "seq": "26",
         "stop": "FCA3906F0282A3CE",
-        "stop_name_tc": "牛頭角站 (V5) (KT334)"
+        "stop_name_tc": "牛頭角站 (KT334)"
     },
     {
         "route": "40B",
@@ -113101,7 +113245,7 @@
         "service_type": "1",
         "seq": "28",
         "stop": "144E9479168069DD",
-        "stop_name_tc": "觀塘游泳池 (R2) (KT361)"
+        "stop_name_tc": "觀塘游泳池 (KT361)"
     },
     {
         "route": "40B",
@@ -113501,7 +113645,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "84B384771F1CE484",
-        "stop_name_tc": "觀塘駿業里 (C7) (KT627)"
+        "stop_name_tc": "觀塘駿業里 (KT627)"
     },
     {
         "route": "40P",
@@ -113989,7 +114133,7 @@
         "service_type": "1",
         "seq": "27",
         "stop": "FCA3906F0282A3CE",
-        "stop_name_tc": "牛頭角站 (V5) (KT334)"
+        "stop_name_tc": "牛頭角站 (KT334)"
     },
     {
         "route": "40P",
@@ -114149,7 +114293,7 @@
         "service_type": "2",
         "seq": "17",
         "stop": "FCA3906F0282A3CE",
-        "stop_name_tc": "牛頭角站 (V5) (KT334)"
+        "stop_name_tc": "牛頭角站 (KT334)"
     },
     {
         "route": "40P",
@@ -116477,7 +116621,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "F1A90CEE2B8C40CC",
-        "stop_name_tc": "觀塘法院 (F2) (KT611)"
+        "stop_name_tc": "觀塘法院 (KT611)"
     },
     {
         "route": "42C",
@@ -116485,7 +116629,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "84B384771F1CE484",
-        "stop_name_tc": "觀塘駿業里 (C7) (KT627)"
+        "stop_name_tc": "觀塘駿業里 (KT627)"
     },
     {
         "route": "42C",
@@ -116981,7 +117125,7 @@
         "service_type": "1",
         "seq": "29",
         "stop": "38B86AC474D1060D",
-        "stop_name_tc": "創紀之城 (U5) (KT341)"
+        "stop_name_tc": "創紀之城 (KT341)"
     },
     {
         "route": "42C",
@@ -116997,7 +117141,7 @@
         "service_type": "1",
         "seq": "31",
         "stop": "5AAC6A858427D04E",
-        "stop_name_tc": "觀塘游泳池 (R3) (KT360)"
+        "stop_name_tc": "觀塘游泳池 (KT360)"
     },
     {
         "route": "42C",
@@ -120629,15 +120773,15 @@
         "service_type": "1",
         "seq": "40",
         "stop": "D6BE89205CDC6645",
-        "stop_name_tc": "九龍城碼頭 (KC952)"
+        "stop_name_tc": "九龍城碼頭巴士總站 (KC952)"
     },
     {
         "route": "45",
         "bound": "O",
         "service_type": "1",
         "seq": "1",
-        "stop": "D6BE89205CDC6645",
-        "stop_name_tc": "九龍城碼頭 (KC952)"
+        "stop": "3241EDA71CCCF867",
+        "stop_name_tc": null
     },
     {
         "route": "45",
@@ -133853,7 +133997,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "C057639478BE0168",
-        "stop_name_tc": "牛頭角站 (V4) (KT335)"
+        "stop_name_tc": "牛頭角站 (KT335)"
     },
     {
         "route": "5R",
@@ -133861,7 +134005,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "1E3A342DF7D5B8B5",
-        "stop_name_tc": "apm創紀之城5期 (D1) (KT626)"
+        "stop_name_tc": "apm創紀之城5期 (KT626)"
     },
     {
         "route": "5R",
@@ -133965,7 +134109,7 @@
         "service_type": "2",
         "seq": "7",
         "stop": "C057639478BE0168",
-        "stop_name_tc": "牛頭角站 (V4) (KT335)"
+        "stop_name_tc": "牛頭角站 (KT335)"
     },
     {
         "route": "5R",
@@ -133973,7 +134117,7 @@
         "service_type": "2",
         "seq": "8",
         "stop": "1E3A342DF7D5B8B5",
-        "stop_name_tc": "apm創紀之城5期 (D1) (KT626)"
+        "stop_name_tc": "apm創紀之城5期 (KT626)"
     },
     {
         "route": "5R",
@@ -133981,7 +134125,7 @@
         "service_type": "3",
         "seq": "1",
         "stop": "C057639478BE0168",
-        "stop_name_tc": "牛頭角站 (V4) (KT335)"
+        "stop_name_tc": "牛頭角站 (KT335)"
     },
     {
         "route": "5R",
@@ -133989,7 +134133,7 @@
         "service_type": "3",
         "seq": "2",
         "stop": "1E3A342DF7D5B8B5",
-        "stop_name_tc": "apm創紀之城5期 (D1) (KT626)"
+        "stop_name_tc": "apm創紀之城5期 (KT626)"
     },
     {
         "route": "5R",
@@ -134557,7 +134701,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "ED8812E232F6958A",
-        "stop_name_tc": "觀塘警署 (Q1) (LT190)"
+        "stop_name_tc": "觀塘警署 (LT190)"
     },
     {
         "route": "600",
@@ -134973,7 +135117,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "F1A90CEE2B8C40CC",
-        "stop_name_tc": "觀塘法院 (F2) (KT611)"
+        "stop_name_tc": "觀塘法院 (KT611)"
     },
     {
         "route": "601",
@@ -135181,7 +135325,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "5AAC6A858427D04E",
-        "stop_name_tc": "觀塘游泳池 (R3) (KT360)"
+        "stop_name_tc": "觀塘游泳池 (KT360)"
     },
     {
         "route": "601",
@@ -135421,7 +135565,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "F1A90CEE2B8C40CC",
-        "stop_name_tc": "觀塘法院 (F2) (KT611)"
+        "stop_name_tc": "觀塘法院 (KT611)"
     },
     {
         "route": "601P",
@@ -135629,7 +135773,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "5AAC6A858427D04E",
-        "stop_name_tc": "觀塘游泳池 (R3) (KT360)"
+        "stop_name_tc": "觀塘游泳池 (KT360)"
     },
     {
         "route": "601P",
@@ -135733,7 +135877,7 @@
         "service_type": "2",
         "seq": "6",
         "stop": "5AAC6A858427D04E",
-        "stop_name_tc": "觀塘游泳池 (R3) (KT360)"
+        "stop_name_tc": "觀塘游泳池 (KT360)"
     },
     {
         "route": "601P",
@@ -137405,7 +137549,7 @@
         "service_type": "1",
         "seq": "33",
         "stop": "F1A90CEE2B8C40CC",
-        "stop_name_tc": "觀塘法院 (F2) (KT611)"
+        "stop_name_tc": "觀塘法院 (KT611)"
     },
     {
         "route": "606",
@@ -137541,7 +137685,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "3F9AE21DC3A540B9",
-        "stop_name_tc": "牛頭角站 (V1) (KT338)"
+        "stop_name_tc": "牛頭角站 (KT338)"
     },
     {
         "route": "606",
@@ -137565,7 +137709,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "5AAC6A858427D04E",
-        "stop_name_tc": "觀塘游泳池 (R3) (KT360)"
+        "stop_name_tc": "觀塘游泳池 (KT360)"
     },
     {
         "route": "606",
@@ -137933,7 +138077,7 @@
         "service_type": "4",
         "seq": "13",
         "stop": "3F9AE21DC3A540B9",
-        "stop_name_tc": "牛頭角站 (V1) (KT338)"
+        "stop_name_tc": "牛頭角站 (KT338)"
     },
     {
         "route": "606",
@@ -137957,7 +138101,7 @@
         "service_type": "4",
         "seq": "16",
         "stop": "5AAC6A858427D04E",
-        "stop_name_tc": "觀塘游泳池 (R3) (KT360)"
+        "stop_name_tc": "觀塘游泳池 (KT360)"
     },
     {
         "route": "606",
@@ -138333,7 +138477,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "F1A90CEE2B8C40CC",
-        "stop_name_tc": "觀塘法院 (F2) (KT611)"
+        "stop_name_tc": "觀塘法院 (KT611)"
     },
     {
         "route": "606A",
@@ -138501,7 +138645,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "3F9AE21DC3A540B9",
-        "stop_name_tc": "牛頭角站 (V1) (KT338)"
+        "stop_name_tc": "牛頭角站 (KT338)"
     },
     {
         "route": "606A",
@@ -138525,7 +138669,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "5AAC6A858427D04E",
-        "stop_name_tc": "觀塘游泳池 (R3) (KT360)"
+        "stop_name_tc": "觀塘游泳池 (KT360)"
     },
     {
         "route": "606A",
@@ -138789,7 +138933,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "F1A90CEE2B8C40CC",
-        "stop_name_tc": "觀塘法院 (F2) (KT611)"
+        "stop_name_tc": "觀塘法院 (KT611)"
     },
     {
         "route": "606X",
@@ -138861,7 +139005,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "3F9AE21DC3A540B9",
-        "stop_name_tc": "牛頭角站 (V1) (KT338)"
+        "stop_name_tc": "牛頭角站 (KT338)"
     },
     {
         "route": "606X",
@@ -138885,7 +139029,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "5AAC6A858427D04E",
-        "stop_name_tc": "觀塘游泳池 (R3) (KT360)"
+        "stop_name_tc": "觀塘游泳池 (KT360)"
     },
     {
         "route": "606X",
@@ -139045,7 +139189,7 @@
         "service_type": "2",
         "seq": "5",
         "stop": "3F9AE21DC3A540B9",
-        "stop_name_tc": "牛頭角站 (V1) (KT338)"
+        "stop_name_tc": "牛頭角站 (KT338)"
     },
     {
         "route": "606X",
@@ -139069,7 +139213,7 @@
         "service_type": "2",
         "seq": "8",
         "stop": "5AAC6A858427D04E",
-        "stop_name_tc": "觀塘游泳池 (R3) (KT360)"
+        "stop_name_tc": "觀塘游泳池 (KT360)"
     },
     {
         "route": "606X",
@@ -139237,7 +139381,7 @@
         "service_type": "3",
         "seq": "6",
         "stop": "3F9AE21DC3A540B9",
-        "stop_name_tc": "牛頭角站 (V1) (KT338)"
+        "stop_name_tc": "牛頭角站 (KT338)"
     },
     {
         "route": "606X",
@@ -139261,7 +139405,7 @@
         "service_type": "3",
         "seq": "9",
         "stop": "5AAC6A858427D04E",
-        "stop_name_tc": "觀塘游泳池 (R3) (KT360)"
+        "stop_name_tc": "觀塘游泳池 (KT360)"
     },
     {
         "route": "606X",
@@ -140661,7 +140805,7 @@
         "service_type": "1",
         "seq": "31",
         "stop": "ED8812E232F6958A",
-        "stop_name_tc": "觀塘警署 (Q1) (LT190)"
+        "stop_name_tc": "觀塘警署 (LT190)"
     },
     {
         "route": "613A",
@@ -141237,7 +141381,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "5B04604E989BBDF0",
-        "stop_name_tc": "觀塘法院 (F1) (KT612)"
+        "stop_name_tc": "觀塘法院 (KT612)"
     },
     {
         "route": "619",
@@ -141437,7 +141581,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "A880D4A7E3310AEB",
-        "stop_name_tc": "創紀之城 (U7) (KT339)"
+        "stop_name_tc": "創紀之城 (KT339)"
     },
     {
         "route": "619",
@@ -141461,7 +141605,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "5AAC6A858427D04E",
-        "stop_name_tc": "觀塘游泳池 (R3) (KT360)"
+        "stop_name_tc": "觀塘游泳池 (KT360)"
     },
     {
         "route": "619",
@@ -141693,7 +141837,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "A880D4A7E3310AEB",
-        "stop_name_tc": "創紀之城 (U7) (KT339)"
+        "stop_name_tc": "創紀之城 (KT339)"
     },
     {
         "route": "619P",
@@ -141717,7 +141861,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "5AAC6A858427D04E",
-        "stop_name_tc": "觀塘游泳池 (R3) (KT360)"
+        "stop_name_tc": "觀塘游泳池 (KT360)"
     },
     {
         "route": "619P",
@@ -141949,7 +142093,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "ED8812E232F6958A",
-        "stop_name_tc": "觀塘警署 (Q1) (LT190)"
+        "stop_name_tc": "觀塘警署 (LT190)"
     },
     {
         "route": "619X",
@@ -143212,8 +143356,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "1",
-        "stop": "A92AD89F447B3339",
-        "stop_name_tc": "九龍城碼頭巴士總站 (KC943)"
+        "stop": "D6BE89205CDC6645",
+        "stop_name_tc": "九龍城碼頭巴士總站 (KC952)"
     },
     {
         "route": "61X",
@@ -143556,8 +143700,16 @@
         "bound": "O",
         "service_type": "1",
         "seq": "22",
-        "stop": "A92AD89F447B3339",
-        "stop_name_tc": "九龍城碼頭巴士總站 (KC943)"
+        "stop": "C3427DE8E291FFA6",
+        "stop_name_tc": "九龍城碼頭巴士總站 (KC941)"
+    },
+    {
+        "route": "61X",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "23",
+        "stop": "D6BE89205CDC6645",
+        "stop_name_tc": "九龍城碼頭巴士總站 (KC952)"
     },
     {
         "route": "621",
@@ -143933,7 +144085,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "144E9479168069DD",
-        "stop_name_tc": "觀塘游泳池 (R2) (KT361)"
+        "stop_name_tc": "觀塘游泳池 (KT361)"
     },
     {
         "route": "62P",
@@ -144029,7 +144181,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "25F3EF8ACD865DFB",
-        "stop_name_tc": "觀塘法院 (F4) (KT609)"
+        "stop_name_tc": "觀塘法院 (KT609)"
     },
     {
         "route": "62X",
@@ -144037,7 +144189,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "478A61BE44E34707",
-        "stop_name_tc": "觀塘駿業里 (C2) (KT632)"
+        "stop_name_tc": "觀塘駿業里 (KT632)"
     },
     {
         "route": "62X",
@@ -144405,7 +144557,7 @@
         "service_type": "1",
         "seq": "23",
         "stop": "144E9479168069DD",
-        "stop_name_tc": "觀塘游泳池 (R2) (KT361)"
+        "stop_name_tc": "觀塘游泳池 (KT361)"
     },
     {
         "route": "62X",
@@ -144933,7 +145085,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "5B04604E989BBDF0",
-        "stop_name_tc": "觀塘法院 (F1) (KT612)"
+        "stop_name_tc": "觀塘法院 (KT612)"
     },
     {
         "route": "641",
@@ -145085,7 +145237,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "A880D4A7E3310AEB",
-        "stop_name_tc": "創紀之城 (U7) (KT339)"
+        "stop_name_tc": "創紀之城 (KT339)"
     },
     {
         "route": "641",
@@ -145109,7 +145261,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "5AAC6A858427D04E",
-        "stop_name_tc": "觀塘游泳池 (R3) (KT360)"
+        "stop_name_tc": "觀塘游泳池 (KT360)"
     },
     {
         "route": "641",
@@ -147877,7 +148029,7 @@
         "service_type": "1",
         "seq": "27",
         "stop": "25F3EF8ACD865DFB",
-        "stop_name_tc": "觀塘法院 (F4) (KT609)"
+        "stop_name_tc": "觀塘法院 (KT609)"
     },
     {
         "route": "671",
@@ -148037,7 +148189,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "A880D4A7E3310AEB",
-        "stop_name_tc": "創紀之城 (U7) (KT339)"
+        "stop_name_tc": "創紀之城 (KT339)"
     },
     {
         "route": "671",
@@ -148053,7 +148205,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "5AAC6A858427D04E",
-        "stop_name_tc": "觀塘游泳池 (R3) (KT360)"
+        "stop_name_tc": "觀塘游泳池 (KT360)"
     },
     {
         "route": "671",
@@ -148397,7 +148549,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "25F3EF8ACD865DFB",
-        "stop_name_tc": "觀塘法院 (F4) (KT609)"
+        "stop_name_tc": "觀塘法院 (KT609)"
     },
     {
         "route": "671X",
@@ -155661,7 +155813,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "ED8812E232F6958A",
-        "stop_name_tc": "觀塘警署 (Q1) (LT190)"
+        "stop_name_tc": "觀塘警署 (LT190)"
     },
     {
         "route": "690",
@@ -156669,7 +156821,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "2C7BF1ADFCFB5545",
-        "stop_name_tc": "觀塘駿業里 (C1) (KT633)"
+        "stop_name_tc": "觀塘駿業里 (KT633)"
     },
     {
         "route": "69C",
@@ -157093,7 +157245,7 @@
         "service_type": "1",
         "seq": "27",
         "stop": "CF579AAA2A4E506C",
-        "stop_name_tc": "牛頭角站 (V3) (KT336)"
+        "stop_name_tc": "牛頭角站 (KT336)"
     },
     {
         "route": "69C",
@@ -157285,7 +157437,7 @@
         "service_type": "2",
         "seq": "21",
         "stop": "CF579AAA2A4E506C",
-        "stop_name_tc": "牛頭角站 (V3) (KT336)"
+        "stop_name_tc": "牛頭角站 (KT336)"
     },
     {
         "route": "69C",
@@ -158460,8 +158612,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "1",
-        "stop": "C3427DE8E291FFA6",
-        "stop_name_tc": "九龍城碼頭巴士總站 (KC941)"
+        "stop": "A92AD89F447B3339",
+        "stop_name_tc": "九龍城碼頭巴士總站 (KC943)"
     },
     {
         "route": "6C",
@@ -159117,7 +159269,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "F1A90CEE2B8C40CC",
-        "stop_name_tc": "觀塘法院 (F2) (KT611)"
+        "stop_name_tc": "觀塘法院 (KT611)"
     },
     {
         "route": "6E",
@@ -159477,7 +159629,7 @@
         "service_type": "1",
         "seq": "25",
         "stop": "144E9479168069DD",
-        "stop_name_tc": "觀塘游泳池 (R2) (KT361)"
+        "stop_name_tc": "觀塘游泳池 (KT361)"
     },
     {
         "route": "6E",
@@ -159692,8 +159844,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "1",
-        "stop": "C3427DE8E291FFA6",
-        "stop_name_tc": "九龍城碼頭巴士總站 (KC941)"
+        "stop": "E6DCDD4CCE10E4B7",
+        "stop_name_tc": "九龍城碼頭巴士總站 (KC945)"
     },
     {
         "route": "6F",
@@ -159941,7 +160093,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "F1A90CEE2B8C40CC",
-        "stop_name_tc": "觀塘法院 (F2) (KT611)"
+        "stop_name_tc": "觀塘法院 (KT611)"
     },
     {
         "route": "6P",
@@ -160341,7 +160493,7 @@
         "service_type": "1",
         "seq": "27",
         "stop": "144E9479168069DD",
-        "stop_name_tc": "觀塘游泳池 (R2) (KT361)"
+        "stop_name_tc": "觀塘游泳池 (KT361)"
     },
     {
         "route": "6P",
@@ -160580,14 +160732,6 @@
         "bound": "I",
         "service_type": "1",
         "seq": "14",
-        "stop": "1D0E096C4E9766C6",
-        "stop_name_tc": "九龍城碼頭巴士總站(落客站)"
-    },
-    {
-        "route": "6X",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "15",
         "stop": "C3427DE8E291FFA6",
         "stop_name_tc": "九龍城碼頭巴士總站 (KC941)"
     },
@@ -169989,7 +170133,7 @@
         "service_type": "1",
         "seq": "23",
         "stop": "136E2FF5A3A98495",
-        "stop_name_tc": "牛頭角站 (V2) (KT337)"
+        "stop_name_tc": "牛頭角站 (KT337)"
     },
     {
         "route": "74C",
@@ -170045,7 +170189,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "42AF8D1ADA2FA6C0",
-        "stop_name_tc": "apm創紀之城5期 (D3) (KT624)"
+        "stop_name_tc": "apm創紀之城5期 (KT624)"
     },
     {
         "route": "74D",
@@ -170525,7 +170669,7 @@
         "service_type": "1",
         "seq": "31",
         "stop": "136E2FF5A3A98495",
-        "stop_name_tc": "牛頭角站 (V2) (KT337)"
+        "stop_name_tc": "牛頭角站 (KT337)"
     },
     {
         "route": "74D",
@@ -170581,7 +170725,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "42AF8D1ADA2FA6C0",
-        "stop_name_tc": "apm創紀之城5期 (D3) (KT624)"
+        "stop_name_tc": "apm創紀之城5期 (KT624)"
     },
     {
         "route": "74E",
@@ -171061,7 +171205,7 @@
         "service_type": "1",
         "seq": "28",
         "stop": "136E2FF5A3A98495",
-        "stop_name_tc": "牛頭角站 (V2) (KT337)"
+        "stop_name_tc": "牛頭角站 (KT337)"
     },
     {
         "route": "74E",
@@ -171181,7 +171325,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "136E2FF5A3A98495",
-        "stop_name_tc": "牛頭角站 (V2) (KT337)"
+        "stop_name_tc": "牛頭角站 (KT337)"
     },
     {
         "route": "74F",
@@ -171237,7 +171381,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "42AF8D1ADA2FA6C0",
-        "stop_name_tc": "apm創紀之城5期 (D3) (KT624)"
+        "stop_name_tc": "apm創紀之城5期 (KT624)"
     },
     {
         "route": "74F",
@@ -172109,7 +172253,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "136E2FF5A3A98495",
-        "stop_name_tc": "牛頭角站 (V2) (KT337)"
+        "stop_name_tc": "牛頭角站 (KT337)"
     },
     {
         "route": "74P",
@@ -172237,7 +172381,7 @@
         "service_type": "2",
         "seq": "13",
         "stop": "136E2FF5A3A98495",
-        "stop_name_tc": "牛頭角站 (V2) (KT337)"
+        "stop_name_tc": "牛頭角站 (KT337)"
     },
     {
         "route": "74P",
@@ -172293,7 +172437,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "42AF8D1ADA2FA6C0",
-        "stop_name_tc": "apm創紀之城5期 (D3) (KT624)"
+        "stop_name_tc": "apm創紀之城5期 (KT624)"
     },
     {
         "route": "74P",
@@ -172981,7 +173125,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "CF579AAA2A4E506C",
-        "stop_name_tc": "牛頭角站 (V3) (KT336)"
+        "stop_name_tc": "牛頭角站 (KT336)"
     },
     {
         "route": "74S",
@@ -172997,7 +173141,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "144E9479168069DD",
-        "stop_name_tc": "觀塘游泳池 (R2) (KT361)"
+        "stop_name_tc": "觀塘游泳池 (KT361)"
     },
     {
         "route": "74S",
@@ -173101,7 +173245,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "5B04604E989BBDF0",
-        "stop_name_tc": "觀塘法院 (F1) (KT612)"
+        "stop_name_tc": "觀塘法院 (KT612)"
     },
     {
         "route": "74S",
@@ -173109,7 +173253,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "F36DEB05146E271D",
-        "stop_name_tc": "觀塘站 (E1) (KT622)"
+        "stop_name_tc": "觀塘站 (KT622)"
     },
     {
         "route": "74S",
@@ -173117,7 +173261,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "3CA81FA2944B754D",
-        "stop_name_tc": "觀塘駿業里 (C6) (KT628)"
+        "stop_name_tc": "觀塘駿業里 (KT628)"
     },
     {
         "route": "74S",
@@ -173245,7 +173389,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "42AF8D1ADA2FA6C0",
-        "stop_name_tc": "apm創紀之城5期 (D3) (KT624)"
+        "stop_name_tc": "apm創紀之城5期 (KT624)"
     },
     {
         "route": "74X",
@@ -173477,7 +173621,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "136E2FF5A3A98495",
-        "stop_name_tc": "牛頭角站 (V2) (KT337)"
+        "stop_name_tc": "牛頭角站 (KT337)"
     },
     {
         "route": "74X",
@@ -173581,7 +173725,7 @@
         "service_type": "2",
         "seq": "10",
         "stop": "136E2FF5A3A98495",
-        "stop_name_tc": "牛頭角站 (V2) (KT337)"
+        "stop_name_tc": "牛頭角站 (KT337)"
     },
     {
         "route": "74X",
@@ -173677,7 +173821,7 @@
         "service_type": "3",
         "seq": "9",
         "stop": "136E2FF5A3A98495",
-        "stop_name_tc": "牛頭角站 (V2) (KT337)"
+        "stop_name_tc": "牛頭角站 (KT337)"
     },
     {
         "route": "74X",
@@ -174412,8 +174556,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "1",
-        "stop": "60C1F7910C07C52B",
-        "stop_name_tc": "九龍城碼頭 (KC954)"
+        "stop": "C72D7C053FC3AEBB",
+        "stop_name_tc": null
     },
     {
         "route": "75X",
@@ -174620,8 +174764,8 @@
         "bound": "I",
         "service_type": "2",
         "seq": "1",
-        "stop": "60C1F7910C07C52B",
-        "stop_name_tc": "九龍城碼頭 (KC954)"
+        "stop": "C72D7C053FC3AEBB",
+        "stop_name_tc": null
     },
     {
         "route": "75X",
@@ -174997,7 +175141,7 @@
         "service_type": "1",
         "seq": "23",
         "stop": "60C1F7910C07C52B",
-        "stop_name_tc": "九龍城碼頭 (KC954)"
+        "stop_name_tc": "九龍城碼頭巴士總站 (KC954)"
     },
     {
         "route": "76",
@@ -181093,7 +181237,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "177E7222D0968DE5",
-        "stop_name_tc": "觀塘駿業里 (C5) (KT629)"
+        "stop_name_tc": "觀塘駿業里 (KT629)"
     },
     {
         "route": "80",
@@ -181445,7 +181589,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "2DDD1CB69E981669",
-        "stop_name_tc": "創紀之城 (U6) (KT340)"
+        "stop_name_tc": "創紀之城 (KT340)"
     },
     {
         "route": "80",
@@ -181597,7 +181741,7 @@
         "service_type": "2",
         "seq": "16",
         "stop": "2DDD1CB69E981669",
-        "stop_name_tc": "創紀之城 (U6) (KT340)"
+        "stop_name_tc": "創紀之城 (KT340)"
     },
     {
         "route": "80",
@@ -182149,7 +182293,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "2DDD1CB69E981669",
-        "stop_name_tc": "創紀之城 (U6) (KT340)"
+        "stop_name_tc": "創紀之城 (KT340)"
     },
     {
         "route": "80P",
@@ -182205,7 +182349,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "3221A3FF8CA898FF",
-        "stop_name_tc": "觀塘駿業里 (C3) (KT631)"
+        "stop_name_tc": "觀塘駿業里 (KT631)"
     },
     {
         "route": "80X",
@@ -182421,7 +182565,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "2DDD1CB69E981669",
-        "stop_name_tc": "創紀之城 (U6) (KT340)"
+        "stop_name_tc": "創紀之城 (KT340)"
     },
     {
         "route": "80X",
@@ -182509,7 +182653,7 @@
         "service_type": "2",
         "seq": "8",
         "stop": "2DDD1CB69E981669",
-        "stop_name_tc": "創紀之城 (U6) (KT340)"
+        "stop_name_tc": "創紀之城 (KT340)"
     },
     {
         "route": "80X",
@@ -182653,7 +182797,7 @@
         "service_type": "3",
         "seq": "15",
         "stop": "2DDD1CB69E981669",
-        "stop_name_tc": "創紀之城 (U6) (KT340)"
+        "stop_name_tc": "創紀之城 (KT340)"
     },
     {
         "route": "80X",
@@ -185445,7 +185589,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "2DDD1CB69E981669",
-        "stop_name_tc": "創紀之城 (U6) (KT340)"
+        "stop_name_tc": "創紀之城 (KT340)"
     },
     {
         "route": "83A",
@@ -185989,7 +186133,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "3221A3FF8CA898FF",
-        "stop_name_tc": "觀塘駿業里 (C3) (KT631)"
+        "stop_name_tc": "觀塘駿業里 (KT631)"
     },
     {
         "route": "83X",
@@ -186149,7 +186293,7 @@
         "service_type": "2",
         "seq": "4",
         "stop": "3221A3FF8CA898FF",
-        "stop_name_tc": "觀塘駿業里 (C3) (KT631)"
+        "stop_name_tc": "觀塘駿業里 (KT631)"
     },
     {
         "route": "83X",
@@ -186357,7 +186501,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "2DDD1CB69E981669",
-        "stop_name_tc": "創紀之城 (U6) (KT340)"
+        "stop_name_tc": "創紀之城 (KT340)"
     },
     {
         "route": "83X",
@@ -186461,7 +186605,7 @@
         "service_type": "2",
         "seq": "10",
         "stop": "2DDD1CB69E981669",
-        "stop_name_tc": "創紀之城 (U6) (KT340)"
+        "stop_name_tc": "創紀之城 (KT340)"
     },
     {
         "route": "83X",
@@ -187220,8 +187364,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "1",
-        "stop": "E6DCDD4CCE10E4B7",
-        "stop_name_tc": "九龍城碼頭巴士總站 (KC945)"
+        "stop": "1D0E096C4E9766C6",
+        "stop_name_tc": "九龍城碼頭巴士總站(落客站)"
     },
     {
         "route": "85",
@@ -188284,8 +188428,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "24",
-        "stop": "1D0E096C4E9766C6",
-        "stop_name_tc": "九龍城碼頭巴士總站(落客站)"
+        "stop": "C3427DE8E291FFA6",
+        "stop_name_tc": "九龍城碼頭巴士總站 (KC941)"
     },
     {
         "route": "85K",
@@ -195581,7 +195725,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "144E9479168069DD",
-        "stop_name_tc": "觀塘游泳池 (R2) (KT361)"
+        "stop_name_tc": "觀塘游泳池 (KT361)"
     },
     {
         "route": "889",
@@ -196077,7 +196221,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "3221A3FF8CA898FF",
-        "stop_name_tc": "觀塘駿業里 (C3) (KT631)"
+        "stop_name_tc": "觀塘駿業里 (KT631)"
     },
     {
         "route": "88X",
@@ -196709,7 +196853,7 @@
         "service_type": "2",
         "seq": "15",
         "stop": "144E9479168069DD",
-        "stop_name_tc": "觀塘游泳池 (R2) (KT361)"
+        "stop_name_tc": "觀塘游泳池 (KT361)"
     },
     {
         "route": "88X",
@@ -197260,8 +197404,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "14",
-        "stop": "E6DCDD4CCE10E4B7",
-        "stop_name_tc": "九龍城碼頭巴士總站 (KC945)"
+        "stop": "C3427DE8E291FFA6",
+        "stop_name_tc": "九龍城碼頭巴士總站 (KC941)"
     },
     {
         "route": "893",
@@ -197693,7 +197837,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "3221A3FF8CA898FF",
-        "stop_name_tc": "觀塘駿業里 (C3) (KT631)"
+        "stop_name_tc": "觀塘駿業里 (KT631)"
     },
     {
         "route": "89C",
@@ -198053,7 +198197,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "FCA3906F0282A3CE",
-        "stop_name_tc": "牛頭角站 (V5) (KT334)"
+        "stop_name_tc": "牛頭角站 (KT334)"
     },
     {
         "route": "89C",
@@ -198061,7 +198205,7 @@
         "service_type": "1",
         "seq": "23",
         "stop": "9627881F2180C5AB",
-        "stop_name_tc": "創紀之城 (U4) (KT342)"
+        "stop_name_tc": "創紀之城 (KT342)"
     },
     {
         "route": "89C",
@@ -198213,7 +198357,7 @@
         "service_type": "2",
         "seq": "16",
         "stop": "FCA3906F0282A3CE",
-        "stop_name_tc": "牛頭角站 (V5) (KT334)"
+        "stop_name_tc": "牛頭角站 (KT334)"
     },
     {
         "route": "89C",
@@ -198221,7 +198365,7 @@
         "service_type": "2",
         "seq": "17",
         "stop": "9627881F2180C5AB",
-        "stop_name_tc": "創紀之城 (U4) (KT342)"
+        "stop_name_tc": "創紀之城 (KT342)"
     },
     {
         "route": "89C",
@@ -198261,7 +198405,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "5B04604E989BBDF0",
-        "stop_name_tc": "觀塘法院 (F1) (KT612)"
+        "stop_name_tc": "觀塘法院 (KT612)"
     },
     {
         "route": "89D",
@@ -198269,7 +198413,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "8C67C373BC19EDF5",
-        "stop_name_tc": "觀塘駿業里 (C4) (KT630)"
+        "stop_name_tc": "觀塘駿業里 (KT630)"
     },
     {
         "route": "89D",
@@ -198445,7 +198589,7 @@
         "service_type": "2",
         "seq": "2",
         "stop": "5B04604E989BBDF0",
-        "stop_name_tc": "觀塘法院 (F1) (KT612)"
+        "stop_name_tc": "觀塘法院 (KT612)"
     },
     {
         "route": "89D",
@@ -198453,7 +198597,7 @@
         "service_type": "2",
         "seq": "3",
         "stop": "8C67C373BC19EDF5",
-        "stop_name_tc": "觀塘駿業里 (C4) (KT630)"
+        "stop_name_tc": "觀塘駿業里 (KT630)"
     },
     {
         "route": "89D",
@@ -198757,7 +198901,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "38B86AC474D1060D",
-        "stop_name_tc": "創紀之城 (U5) (KT341)"
+        "stop_name_tc": "創紀之城 (KT341)"
     },
     {
         "route": "89D",
@@ -198773,7 +198917,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "5AAC6A858427D04E",
-        "stop_name_tc": "觀塘游泳池 (R3) (KT360)"
+        "stop_name_tc": "觀塘游泳池 (KT360)"
     },
     {
         "route": "89D",
@@ -198869,7 +199013,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "38B86AC474D1060D",
-        "stop_name_tc": "創紀之城 (U5) (KT341)"
+        "stop_name_tc": "創紀之城 (KT341)"
     },
     {
         "route": "89P",
@@ -198885,7 +199029,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "5AAC6A858427D04E",
-        "stop_name_tc": "觀塘游泳池 (R3) (KT360)"
+        "stop_name_tc": "觀塘游泳池 (KT360)"
     },
     {
         "route": "89P",
@@ -198957,7 +199101,7 @@
         "service_type": "2",
         "seq": "8",
         "stop": "38B86AC474D1060D",
-        "stop_name_tc": "創紀之城 (U5) (KT341)"
+        "stop_name_tc": "創紀之城 (KT341)"
     },
     {
         "route": "89P",
@@ -198973,7 +199117,7 @@
         "service_type": "2",
         "seq": "10",
         "stop": "5AAC6A858427D04E",
-        "stop_name_tc": "觀塘游泳池 (R3) (KT360)"
+        "stop_name_tc": "觀塘游泳池 (KT360)"
     },
     {
         "route": "89P",
@@ -199037,7 +199181,7 @@
         "service_type": "3",
         "seq": "7",
         "stop": "38B86AC474D1060D",
-        "stop_name_tc": "創紀之城 (U5) (KT341)"
+        "stop_name_tc": "創紀之城 (KT341)"
     },
     {
         "route": "89P",
@@ -199053,7 +199197,7 @@
         "service_type": "3",
         "seq": "9",
         "stop": "5AAC6A858427D04E",
-        "stop_name_tc": "觀塘游泳池 (R3) (KT360)"
+        "stop_name_tc": "觀塘游泳池 (KT360)"
     },
     {
         "route": "89P",
@@ -199965,7 +200109,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "FCA3906F0282A3CE",
-        "stop_name_tc": "牛頭角站 (V5) (KT334)"
+        "stop_name_tc": "牛頭角站 (KT334)"
     },
     {
         "route": "89X",
@@ -207349,7 +207493,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "CB341BEEABF66D6E",
-        "stop_name_tc": "觀塘站 (E3) (KT620)"
+        "stop_name_tc": "觀塘站 (KT620)"
     },
     {
         "route": "91S",
@@ -207357,7 +207501,7 @@
         "service_type": "1",
         "seq": "23",
         "stop": "3D40B78AACF268D7",
-        "stop_name_tc": "apm創紀之城5期 (D2) (KT625)"
+        "stop_name_tc": "apm創紀之城5期 (KT625)"
     },
     {
         "route": "91S",
@@ -210517,7 +210661,7 @@
         "service_type": "1",
         "seq": "24",
         "stop": "3F9AE21DC3A540B9",
-        "stop_name_tc": "牛頭角站 (V1) (KT338)"
+        "stop_name_tc": "牛頭角站 (KT338)"
     },
     {
         "route": "93K",
@@ -210533,7 +210677,7 @@
         "service_type": "1",
         "seq": "26",
         "stop": "2A5B424322D35B0A",
-        "stop_name_tc": "觀塘游泳池 (R1) (KT362)"
+        "stop_name_tc": "觀塘游泳池 (KT362)"
     },
     {
         "route": "93K",
@@ -210541,7 +210685,7 @@
         "service_type": "1",
         "seq": "27",
         "stop": "ED8812E232F6958A",
-        "stop_name_tc": "觀塘警署 (Q1) (LT190)"
+        "stop_name_tc": "觀塘警署 (LT190)"
     },
     {
         "route": "93K",
@@ -210725,7 +210869,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "3D40B78AACF268D7",
-        "stop_name_tc": "apm創紀之城5期 (D2) (KT625)"
+        "stop_name_tc": "apm創紀之城5期 (KT625)"
     },
     {
         "route": "93K",
@@ -222173,7 +222317,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "C057639478BE0168",
-        "stop_name_tc": "牛頭角站 (V4) (KT335)"
+        "stop_name_tc": "牛頭角站 (KT335)"
     },
     {
         "route": "98",
@@ -222189,7 +222333,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "2A5B424322D35B0A",
-        "stop_name_tc": "觀塘游泳池 (R1) (KT362)"
+        "stop_name_tc": "觀塘游泳池 (KT362)"
     },
     {
         "route": "98",
@@ -222197,7 +222341,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "ED8812E232F6958A",
-        "stop_name_tc": "觀塘警署 (Q1) (LT190)"
+        "stop_name_tc": "觀塘警署 (LT190)"
     },
     {
         "route": "98",
@@ -222357,7 +222501,7 @@
         "service_type": "3",
         "seq": "12",
         "stop": "C057639478BE0168",
-        "stop_name_tc": "牛頭角站 (V4) (KT335)"
+        "stop_name_tc": "牛頭角站 (KT335)"
     },
     {
         "route": "980A",
@@ -224109,7 +224253,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "1E3A342DF7D5B8B5",
-        "stop_name_tc": "apm創紀之城5期 (D1) (KT626)"
+        "stop_name_tc": "apm創紀之城5期 (KT626)"
     },
     {
         "route": "98A",
@@ -224125,7 +224269,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "3F9AE21DC3A540B9",
-        "stop_name_tc": "牛頭角站 (V1) (KT338)"
+        "stop_name_tc": "牛頭角站 (KT338)"
     },
     {
         "route": "98A",
@@ -224149,7 +224293,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "2A5B424322D35B0A",
-        "stop_name_tc": "觀塘游泳池 (R1) (KT362)"
+        "stop_name_tc": "觀塘游泳池 (KT362)"
     },
     {
         "route": "98A",
@@ -224157,7 +224301,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "ED8812E232F6958A",
-        "stop_name_tc": "觀塘警署 (Q1) (LT190)"
+        "stop_name_tc": "觀塘警署 (LT190)"
     },
     {
         "route": "98A",
@@ -224293,7 +224437,7 @@
         "service_type": "3",
         "seq": "1",
         "stop": "3F9AE21DC3A540B9",
-        "stop_name_tc": "牛頭角站 (V1) (KT338)"
+        "stop_name_tc": "牛頭角站 (KT338)"
     },
     {
         "route": "98A",
@@ -224317,7 +224461,7 @@
         "service_type": "3",
         "seq": "4",
         "stop": "2A5B424322D35B0A",
-        "stop_name_tc": "觀塘游泳池 (R1) (KT362)"
+        "stop_name_tc": "觀塘游泳池 (KT362)"
     },
     {
         "route": "98A",
@@ -224325,7 +224469,7 @@
         "service_type": "3",
         "seq": "5",
         "stop": "ED8812E232F6958A",
-        "stop_name_tc": "觀塘警署 (Q1) (LT190)"
+        "stop_name_tc": "觀塘警署 (LT190)"
     },
     {
         "route": "98A",
@@ -224549,7 +224693,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "CB341BEEABF66D6E",
-        "stop_name_tc": "觀塘站 (E3) (KT620)"
+        "stop_name_tc": "觀塘站 (KT620)"
     },
     {
         "route": "98B",
@@ -224565,7 +224709,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "3F9AE21DC3A540B9",
-        "stop_name_tc": "牛頭角站 (V1) (KT338)"
+        "stop_name_tc": "牛頭角站 (KT338)"
     },
     {
         "route": "98B",
@@ -267245,7 +267389,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "F1A90CEE2B8C40CC",
-        "stop_name_tc": "觀塘法院 (F2) (KT611)"
+        "stop_name_tc": "觀塘法院 (KT611)"
     },
     {
         "route": "N601",
@@ -267253,7 +267397,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "CB341BEEABF66D6E",
-        "stop_name_tc": "觀塘站 (E3) (KT620)"
+        "stop_name_tc": "觀塘站 (KT620)"
     },
     {
         "route": "N601",
@@ -267517,7 +267661,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "5B04604E989BBDF0",
-        "stop_name_tc": "觀塘法院 (F1) (KT612)"
+        "stop_name_tc": "觀塘法院 (KT612)"
     },
     {
         "route": "N619",
@@ -267709,7 +267853,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "A880D4A7E3310AEB",
-        "stop_name_tc": "創紀之城 (U7) (KT339)"
+        "stop_name_tc": "創紀之城 (KT339)"
     },
     {
         "route": "N619",
@@ -267733,7 +267877,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "5AAC6A858427D04E",
-        "stop_name_tc": "觀塘游泳池 (R3) (KT360)"
+        "stop_name_tc": "觀塘游泳池 (KT360)"
     },
     {
         "route": "N619",
@@ -268765,7 +268909,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "ED8812E232F6958A",
-        "stop_name_tc": "觀塘警署 (Q1) (LT190)"
+        "stop_name_tc": "觀塘警署 (LT190)"
     },
     {
         "route": "N691",
@@ -278917,7 +279061,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "38B86AC474D1060D",
-        "stop_name_tc": "創紀之城 (U5) (KT341)"
+        "stop_name_tc": "創紀之城 (KT341)"
     },
     {
         "route": "SP1",
@@ -281293,7 +281437,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "38B86AC474D1060D",
-        "stop_name_tc": "創紀之城 (U5) (KT341)"
+        "stop_name_tc": "創紀之城 (KT341)"
     },
     {
         "route": "W2",
@@ -281309,7 +281453,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "144E9479168069DD",
-        "stop_name_tc": "觀塘游泳池 (R2) (KT361)"
+        "stop_name_tc": "觀塘游泳池 (KT361)"
     },
     {
         "route": "W2",
@@ -281461,7 +281605,7 @@
         "service_type": "2",
         "seq": "10",
         "stop": "38B86AC474D1060D",
-        "stop_name_tc": "創紀之城 (U5) (KT341)"
+        "stop_name_tc": "創紀之城 (KT341)"
     },
     {
         "route": "W2",
@@ -281477,7 +281621,7 @@
         "service_type": "2",
         "seq": "12",
         "stop": "144E9479168069DD",
-        "stop_name_tc": "觀塘游泳池 (R2) (KT361)"
+        "stop_name_tc": "觀塘游泳池 (KT361)"
     },
     {
         "route": "W2",
@@ -281509,7 +281653,7 @@
         "service_type": "3",
         "seq": "1",
         "stop": "38B86AC474D1060D",
-        "stop_name_tc": "創紀之城 (U5) (KT341)"
+        "stop_name_tc": "創紀之城 (KT341)"
     },
     {
         "route": "W2",
@@ -281525,7 +281669,7 @@
         "service_type": "3",
         "seq": "3",
         "stop": "144E9479168069DD",
-        "stop_name_tc": "觀塘游泳池 (R2) (KT361)"
+        "stop_name_tc": "觀塘游泳池 (KT361)"
     },
     {
         "route": "W2",
@@ -282709,7 +282853,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "F1A90CEE2B8C40CC",
-        "stop_name_tc": "觀塘法院 (F2) (KT611)"
+        "stop_name_tc": "觀塘法院 (KT611)"
     },
     {
         "route": "X42C",
@@ -282717,7 +282861,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "84B384771F1CE484",
-        "stop_name_tc": "觀塘駿業里 (C7) (KT627)"
+        "stop_name_tc": "觀塘駿業里 (KT627)"
     },
     {
         "route": "X42C",
@@ -283141,7 +283285,7 @@
         "service_type": "1",
         "seq": "27",
         "stop": "38B86AC474D1060D",
-        "stop_name_tc": "創紀之城 (U5) (KT341)"
+        "stop_name_tc": "創紀之城 (KT341)"
     },
     {
         "route": "X42C",
@@ -283157,7 +283301,7 @@
         "service_type": "1",
         "seq": "29",
         "stop": "5AAC6A858427D04E",
-        "stop_name_tc": "觀塘游泳池 (R3) (KT360)"
+        "stop_name_tc": "觀塘游泳池 (KT360)"
     },
     {
         "route": "X42C",
@@ -283325,7 +283469,7 @@
         "service_type": "2",
         "seq": "18",
         "stop": "38B86AC474D1060D",
-        "stop_name_tc": "創紀之城 (U5) (KT341)"
+        "stop_name_tc": "創紀之城 (KT341)"
     },
     {
         "route": "X42C",
@@ -283341,7 +283485,7 @@
         "service_type": "2",
         "seq": "20",
         "stop": "5AAC6A858427D04E",
-        "stop_name_tc": "觀塘游泳池 (R3) (KT360)"
+        "stop_name_tc": "觀塘游泳池 (KT360)"
     },
     {
         "route": "X42C",
@@ -283461,7 +283605,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "38B86AC474D1060D",
-        "stop_name_tc": "創紀之城 (U5) (KT341)"
+        "stop_name_tc": "創紀之城 (KT341)"
     },
     {
         "route": "X42P",
@@ -283477,7 +283621,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "5AAC6A858427D04E",
-        "stop_name_tc": "觀塘游泳池 (R3) (KT360)"
+        "stop_name_tc": "觀塘游泳池 (KT360)"
     },
     {
         "route": "X42P",

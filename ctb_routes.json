@@ -821,6 +821,16 @@
     },
     {
         "co": "CTB",
+        "route": "382",
+        "orig_tc": "柴灣 (東)",
+        "orig_en": "Chai Wan (East)",
+        "dest_tc": "泥涌",
+        "dest_en": "Nai Chung",
+        "orig_sc": "柴湾 (东)",
+        "dest_sc": "泥涌"
+    },
+    {
+        "co": "CTB",
         "route": "388",
         "orig_tc": "柴灣站",
         "orig_en": "Chai Wan Station",
