@@ -5956,8 +5956,8 @@
         "name_en": "KOWLOON CITY FERRY BUS TERMINUS (ALIGHTING STOP)",
         "name_tc": "九龍城碼頭巴士總站(落客站)",
         "name_sc": "九龙城码头巴士总站(落客站)",
-        "lat": "22.318413",
-        "long": "114.193434"
+        "lat": "22.318422",
+        "long": "114.194044"
     },
     {
         "stop": "1D13B640481F4CD1",
@@ -10560,6 +10560,14 @@
         "long": "114.120724"
     },
     {
+        "stop": "3241EDA71CCCF867",
+        "name_en": "KOWLOON CITY FERRY BUS TERMINUS",
+        "name_tc": "九龍城碼頭巴士總站",
+        "name_sc": "九龙城码头巴士总站",
+        "lat": "22.318559",
+        "long": "114.193613"
+    },
+    {
         "stop": "32450B36AD15FDE7",
         "name_en": "LOK FU BUS TERMINUS (WT903)",
         "name_tc": "樂富總站 (WT903)",
@@ -14473,9 +14481,9 @@
     },
     {
         "stop": "4455776ABFCD1605",
-        "name_en": "LUNG YEUK TAU",
-        "name_tc": "龍躍頭",
-        "name_sc": "龙跃头",
+        "name_en": "LUNG YEUK TAU (ND550a)",
+        "name_tc": "龍躍頭 (ND550a)",
+        "name_sc": "龙跃头 (ND550a)",
         "lat": "22.503705",
         "long": "114.149464"
     },
@@ -20428,8 +20436,8 @@
         "name_en": "KOWLOON CITY FERRY BUS TERMINUS (KC942)",
         "name_tc": "九龍城碼頭巴士總站 (KC942)",
         "name_sc": "九龙城码头巴士总站 (KC942)",
-        "lat": "22.318413",
-        "long": "114.193434"
+        "lat": "22.317968",
+        "long": "114.193448"
     },
     {
         "stop": "60A445D9ACD40C12",
@@ -34540,8 +34548,8 @@
         "name_en": "KOWLOON CITY FERRY BUS TERMINUS (KC944)",
         "name_tc": "九龍城碼頭巴士總站 (KC944)",
         "name_sc": "九龙城码头巴士总站 (KC944)",
-        "lat": "22.318298",
-        "long": "114.193894"
+        "lat": "22.317996",
+        "long": "114.193511"
     },
     {
         "stop": "A67A34E89E860BB8",
@@ -35308,8 +35316,8 @@
         "name_en": "KOWLOON CITY FERRY BUS TERMINUS (KC943)",
         "name_tc": "九龍城碼頭巴士總站 (KC943)",
         "name_sc": "九龙城码头巴士总站 (KC943)",
-        "lat": "22.318413",
-        "long": "114.193434"
+        "lat": "22.318228",
+        "long": "114.193140"
     },
     {
         "stop": "A930EDA042B0F47A",
@@ -40393,9 +40401,9 @@
     },
     {
         "stop": "C247F858F91516CF",
-        "name_en": "ON LOK TSUEN",
-        "name_tc": "安樂村",
-        "name_sc": "安乐村",
+        "name_en": "ON LOK TSUEN (ND551a)",
+        "name_tc": "安樂村 (ND551a)",
+        "name_sc": "安乐村 (ND551a)",
         "lat": "22.499857",
         "long": "114.145735"
     },
@@ -40604,8 +40612,8 @@
         "name_en": "KOWLOON CITY FERRY BUS TERMINUS (KC941)",
         "name_tc": "九龍城碼頭巴士總站 (KC941)",
         "name_sc": "九龙城码头巴士总站 (KC941)",
-        "lat": "22.318226",
-        "long": "114.193132"
+        "lat": "22.318348",
+        "long": "114.194041"
     },
     {
         "stop": "C355E5F825B9864F",
@@ -41294,6 +41302,14 @@
         "name_sc": "青屿干线转车站 (A3) (TW604)",
         "lat": "22.338302",
         "long": "114.042190"
+    },
+    {
+        "stop": "C72D7C053FC3AEBB",
+        "name_en": "KOWLOON CITY FERRY BUS TERMINUS",
+        "name_tc": "九龍城碼頭巴士總站",
+        "name_sc": "九龙城码头巴士总站",
+        "lat": "22.318573",
+        "long": "114.193554"
     },
     {
         "stop": "C7392BC1280A591E",
@@ -48017,9 +48033,9 @@
     },
     {
         "stop": "E8074D7F42D23647",
-        "name_en": "SHAN LAI COURT",
-        "name_tc": "山麗苑",
-        "name_sc": "山丽苑",
+        "name_en": "SHAN LAI COURT (ND519)",
+        "name_tc": "山麗苑 (ND519)",
+        "name_sc": "山丽苑 (ND519)",
         "lat": "22.503694",
         "long": "114.160603"
     },
