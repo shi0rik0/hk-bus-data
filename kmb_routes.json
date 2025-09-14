@@ -770,6 +770,17 @@
         "dest_sc": "基荣小学"
     },
     {
+        "route": "118R",
+        "bound": "O",
+        "service_type": "1",
+        "orig_en": "SIU SAI WAN SPORTS GROUND",
+        "orig_tc": "小西灣運動場",
+        "orig_sc": "小西湾运动场",
+        "dest_en": "MONG KOK",
+        "dest_tc": "旺角",
+        "dest_sc": "旺角"
+    },
+    {
         "route": "11B",
         "bound": "I",
         "service_type": "1",
