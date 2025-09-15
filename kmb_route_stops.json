@@ -99955,6 +99955,13 @@
     {
         "route": "40P",
         "bound": "O",
+        "service_type": "1",
+        "seq": "31",
+        "stop": "7188D2451C5AF461"
+    },
+    {
+        "route": "40P",
+        "bound": "O",
         "service_type": "2",
         "seq": "1",
         "stop": "C95751DB2112F279"
