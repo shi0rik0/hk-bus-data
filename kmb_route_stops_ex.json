@@ -12461,7 +12461,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "C3427DE8E291FFA6",
-        "stop_name_tc": "九龍城碼頭巴士總站 (KC941)"
+        "stop_name_tc": "九龍城碼頭巴士總站(落客站)"
     },
     {
         "route": "115",
@@ -15373,7 +15373,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "2437897A21642D85",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT350)"
     },
     {
         "route": "11B",
@@ -15461,7 +15461,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "60D0B9706B352D1C",
-        "stop_name_tc": "香港建造學院 - 九龍灣院校"
+        "stop_name_tc": "香港建造學院-九龍灣院校"
     },
     {
         "route": "11B",
@@ -15557,7 +15557,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "C3427DE8E291FFA6",
-        "stop_name_tc": "九龍城碼頭巴士總站 (KC941)"
+        "stop_name_tc": "九龍城碼頭巴士總站(落客站)"
     },
     {
         "route": "11B",
@@ -15701,7 +15701,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "60D0B9706B352D1C",
-        "stop_name_tc": "香港建造學院 - 九龍灣院校"
+        "stop_name_tc": "香港建造學院-九龍灣院校"
     },
     {
         "route": "11C",
@@ -15925,7 +15925,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "2437897A21642D85",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT350)"
     },
     {
         "route": "11C",
@@ -16077,7 +16077,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "60D0B9706B352D1C",
-        "stop_name_tc": "香港建造學院 - 九龍灣院校"
+        "stop_name_tc": "香港建造學院-九龍灣院校"
     },
     {
         "route": "11D",
@@ -16301,7 +16301,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "80B56E2C7719DAF4",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT352)"
     },
     {
         "route": "11D",
@@ -19397,7 +19397,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "2437897A21642D85",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT350)"
     },
     {
         "route": "13M",
@@ -21197,7 +21197,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "0B8C52E4C34E3B64",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT348)"
     },
     {
         "route": "14",
@@ -21341,7 +21341,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "60D0B9706B352D1C",
-        "stop_name_tc": "香港建造學院 - 九龍灣院校"
+        "stop_name_tc": "香港建造學院-九龍灣院校"
     },
     {
         "route": "14",
@@ -22909,7 +22909,7 @@
         "service_type": "1",
         "seq": "26",
         "stop": "0B8C52E4C34E3B64",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT348)"
     },
     {
         "route": "14X",
@@ -23149,7 +23149,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "0B8C52E4C34E3B64",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT348)"
     },
     {
         "route": "15",
@@ -23301,7 +23301,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "60D0B9706B352D1C",
-        "stop_name_tc": "香港建造學院 - 九龍灣院校"
+        "stop_name_tc": "香港建造學院-九龍灣院校"
     },
     {
         "route": "15",
@@ -23613,7 +23613,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "0B8C52E4C34E3B64",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT348)"
     },
     {
         "route": "15A",
@@ -24013,7 +24013,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "0B8C52E4C34E3B64",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT348)"
     },
     {
         "route": "15X",
@@ -24469,7 +24469,7 @@
         "service_type": "1",
         "seq": "23",
         "stop": "0B8C52E4C34E3B64",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT348)"
     },
     {
         "route": "16",
@@ -25005,7 +25005,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "0B8C52E4C34E3B64",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT348)"
     },
     {
         "route": "16M",
@@ -25949,7 +25949,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "60D0B9706B352D1C",
-        "stop_name_tc": "香港建造學院 - 九龍灣院校"
+        "stop_name_tc": "香港建造學院-九龍灣院校"
     },
     {
         "route": "17",
@@ -30469,7 +30469,7 @@
         "service_type": "1",
         "seq": "26",
         "stop": "2437897A21642D85",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT350)"
     },
     {
         "route": "1A",
@@ -35733,7 +35733,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "0B8C52E4C34E3B64",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT348)"
     },
     {
         "route": "215R",
@@ -36021,7 +36021,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "0B8C52E4C34E3B64",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT348)"
     },
     {
         "route": "215X",
@@ -39237,7 +39237,7 @@
         "service_type": "1",
         "seq": "30",
         "stop": "F2127FD781019971",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT351)"
     },
     {
         "route": "234C",
@@ -39725,7 +39725,7 @@
         "service_type": "1",
         "seq": "30",
         "stop": "F2127FD781019971",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT351)"
     },
     {
         "route": "234D",
@@ -57285,7 +57285,7 @@
         "service_type": "1",
         "seq": "23",
         "stop": "80B56E2C7719DAF4",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT352)"
     },
     {
         "route": "268A",
@@ -58669,7 +58669,7 @@
         "service_type": "1",
         "seq": "26",
         "stop": "80B56E2C7719DAF4",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT352)"
     },
     {
         "route": "268C",
@@ -58877,7 +58877,7 @@
         "service_type": "2",
         "seq": "24",
         "stop": "80B56E2C7719DAF4",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT352)"
     },
     {
         "route": "268C",
@@ -60741,7 +60741,7 @@
         "service_type": "1",
         "seq": "26",
         "stop": "80B56E2C7719DAF4",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT352)"
     },
     {
         "route": "269C",
@@ -60925,7 +60925,7 @@
         "service_type": "5",
         "seq": "21",
         "stop": "80B56E2C7719DAF4",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT352)"
     },
     {
         "route": "269C",
@@ -90109,7 +90109,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "14CF94DF66FCD0C8",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT346)"
     },
     {
         "route": "296A",
@@ -90349,7 +90349,7 @@
         "service_type": "1",
         "seq": "25",
         "stop": "14CF94DF66FCD0C8",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT346)"
     },
     {
         "route": "296C",
@@ -95157,7 +95157,7 @@
         "service_type": "1",
         "seq": "23",
         "stop": "C3427DE8E291FFA6",
-        "stop_name_tc": "九龍城碼頭巴士總站 (KC941)"
+        "stop_name_tc": "九龍城碼頭巴士總站(落客站)"
     },
     {
         "route": "2E",
@@ -102589,7 +102589,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "EB177E95B39626AE",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT347)"
     },
     {
         "route": "33B",
@@ -108013,7 +108013,7 @@
         "service_type": "1",
         "seq": "30",
         "stop": "0B8C52E4C34E3B64",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT348)"
     },
     {
         "route": "38",
@@ -109109,7 +109109,7 @@
         "service_type": "1",
         "seq": "29",
         "stop": "0B8C52E4C34E3B64",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT348)"
     },
     {
         "route": "38P",
@@ -112493,7 +112493,7 @@
         "service_type": "1",
         "seq": "29",
         "stop": "EB177E95B39626AE",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT347)"
     },
     {
         "route": "40",
@@ -112773,7 +112773,7 @@
         "service_type": "2",
         "seq": "30",
         "stop": "EB177E95B39626AE",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT347)"
     },
     {
         "route": "40",
@@ -112965,7 +112965,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "EB177E95B39626AE",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT347)"
     },
     {
         "route": "40A",
@@ -113253,7 +113253,7 @@
         "service_type": "1",
         "seq": "27",
         "stop": "EB177E95B39626AE",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT347)"
     },
     {
         "route": "40B",
@@ -114165,7 +114165,7 @@
         "service_type": "1",
         "seq": "29",
         "stop": "EB177E95B39626AE",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT347)"
     },
     {
         "route": "40P",
@@ -114325,7 +114325,7 @@
         "service_type": "2",
         "seq": "18",
         "stop": "EB177E95B39626AE",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT347)"
     },
     {
         "route": "40P",
@@ -117157,7 +117157,7 @@
         "service_type": "1",
         "seq": "30",
         "stop": "EB177E95B39626AE",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT347)"
     },
     {
         "route": "42C",
@@ -137717,7 +137717,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "F2127FD781019971",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT351)"
     },
     {
         "route": "606",
@@ -138109,7 +138109,7 @@
         "service_type": "4",
         "seq": "14",
         "stop": "F2127FD781019971",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT351)"
     },
     {
         "route": "606",
@@ -138677,7 +138677,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "F2127FD781019971",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT351)"
     },
     {
         "route": "606A",
@@ -139037,7 +139037,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "F2127FD781019971",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT351)"
     },
     {
         "route": "606X",
@@ -139221,7 +139221,7 @@
         "service_type": "2",
         "seq": "6",
         "stop": "F2127FD781019971",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT351)"
     },
     {
         "route": "606X",
@@ -139413,7 +139413,7 @@
         "service_type": "3",
         "seq": "7",
         "stop": "F2127FD781019971",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT351)"
     },
     {
         "route": "606X",
@@ -141613,7 +141613,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "F2127FD781019971",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT351)"
     },
     {
         "route": "619",
@@ -141869,7 +141869,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "F2127FD781019971",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT351)"
     },
     {
         "route": "619P",
@@ -143725,7 +143725,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "C3427DE8E291FFA6",
-        "stop_name_tc": "九龍城碼頭巴士總站 (KC941)"
+        "stop_name_tc": "九龍城碼頭巴士總站(落客站)"
     },
     {
         "route": "61X",
@@ -144101,7 +144101,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "EB177E95B39626AE",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT347)"
     },
     {
         "route": "62P",
@@ -144573,7 +144573,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "EB177E95B39626AE",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT347)"
     },
     {
         "route": "62X",
@@ -145269,7 +145269,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "F2127FD781019971",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT351)"
     },
     {
         "route": "641",
@@ -148085,7 +148085,7 @@
         "service_type": "1",
         "seq": "31",
         "stop": "60D0B9706B352D1C",
-        "stop_name_tc": "香港建造學院 - 九龍灣院校"
+        "stop_name_tc": "香港建造學院-九龍灣院校"
     },
     {
         "route": "671",
@@ -148221,7 +148221,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "EB177E95B39626AE",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT347)"
     },
     {
         "route": "671",
@@ -148605,7 +148605,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "60D0B9706B352D1C",
-        "stop_name_tc": "香港建造學院 - 九龍灣院校"
+        "stop_name_tc": "香港建造學院-九龍灣院校"
     },
     {
         "route": "671X",
@@ -157277,7 +157277,7 @@
         "service_type": "1",
         "seq": "28",
         "stop": "80B56E2C7719DAF4",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT352)"
     },
     {
         "route": "69C",
@@ -157469,7 +157469,7 @@
         "service_type": "2",
         "seq": "22",
         "stop": "80B56E2C7719DAF4",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT352)"
     },
     {
         "route": "69C",
@@ -158621,7 +158621,7 @@
         "service_type": "1",
         "seq": "23",
         "stop": "C3427DE8E291FFA6",
-        "stop_name_tc": "九龍城碼頭巴士總站 (KC941)"
+        "stop_name_tc": "九龍城碼頭巴士總站(落客站)"
     },
     {
         "route": "6C",
@@ -159645,7 +159645,7 @@
         "service_type": "1",
         "seq": "24",
         "stop": "0B8C52E4C34E3B64",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT348)"
     },
     {
         "route": "6E",
@@ -159853,7 +159853,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "C3427DE8E291FFA6",
-        "stop_name_tc": "九龍城碼頭巴士總站 (KC941)"
+        "stop_name_tc": "九龍城碼頭巴士總站(落客站)"
     },
     {
         "route": "6F",
@@ -160509,7 +160509,7 @@
         "service_type": "1",
         "seq": "26",
         "stop": "0B8C52E4C34E3B64",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT348)"
     },
     {
         "route": "6P",
@@ -160757,7 +160757,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "C3427DE8E291FFA6",
-        "stop_name_tc": "九龍城碼頭巴士總站 (KC941)"
+        "stop_name_tc": "九龍城碼頭巴士總站(落客站)"
     },
     {
         "route": "6X",
@@ -170165,7 +170165,7 @@
         "service_type": "1",
         "seq": "24",
         "stop": "80B56E2C7719DAF4",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT352)"
     },
     {
         "route": "74C",
@@ -170701,7 +170701,7 @@
         "service_type": "1",
         "seq": "32",
         "stop": "80B56E2C7719DAF4",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT352)"
     },
     {
         "route": "74D",
@@ -171237,7 +171237,7 @@
         "service_type": "1",
         "seq": "29",
         "stop": "80B56E2C7719DAF4",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT352)"
     },
     {
         "route": "74E",
@@ -171357,7 +171357,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "80B56E2C7719DAF4",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT352)"
     },
     {
         "route": "74F",
@@ -172285,7 +172285,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "80B56E2C7719DAF4",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT352)"
     },
     {
         "route": "74P",
@@ -172413,7 +172413,7 @@
         "service_type": "2",
         "seq": "14",
         "stop": "80B56E2C7719DAF4",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT352)"
     },
     {
         "route": "74P",
@@ -173157,7 +173157,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "0B8C52E4C34E3B64",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT348)"
     },
     {
         "route": "74S",
@@ -173653,7 +173653,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "80B56E2C7719DAF4",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT352)"
     },
     {
         "route": "74X",
@@ -173757,7 +173757,7 @@
         "service_type": "2",
         "seq": "11",
         "stop": "80B56E2C7719DAF4",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT352)"
     },
     {
         "route": "74X",
@@ -173853,7 +173853,7 @@
         "service_type": "3",
         "seq": "10",
         "stop": "80B56E2C7719DAF4",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT352)"
     },
     {
         "route": "74X",
@@ -181621,7 +181621,7 @@
         "service_type": "1",
         "seq": "23",
         "stop": "80B56E2C7719DAF4",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT352)"
     },
     {
         "route": "80",
@@ -181773,7 +181773,7 @@
         "service_type": "2",
         "seq": "17",
         "stop": "80B56E2C7719DAF4",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT352)"
     },
     {
         "route": "80",
@@ -182325,7 +182325,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "80B56E2C7719DAF4",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT352)"
     },
     {
         "route": "80P",
@@ -182597,7 +182597,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "80B56E2C7719DAF4",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT352)"
     },
     {
         "route": "80X",
@@ -182685,7 +182685,7 @@
         "service_type": "2",
         "seq": "9",
         "stop": "80B56E2C7719DAF4",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT352)"
     },
     {
         "route": "80X",
@@ -182829,7 +182829,7 @@
         "service_type": "3",
         "seq": "16",
         "stop": "80B56E2C7719DAF4",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT352)"
     },
     {
         "route": "80X",
@@ -185621,7 +185621,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "80B56E2C7719DAF4",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT352)"
     },
     {
         "route": "83A",
@@ -186533,7 +186533,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "80B56E2C7719DAF4",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT352)"
     },
     {
         "route": "83X",
@@ -186637,7 +186637,7 @@
         "service_type": "2",
         "seq": "11",
         "stop": "80B56E2C7719DAF4",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT352)"
     },
     {
         "route": "83X",
@@ -187389,7 +187389,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "1D0E096C4E9766C6",
-        "stop_name_tc": "九龍城碼頭巴士總站(落客站)"
+        "stop_name_tc": "九龍城碼頭巴士總站"
     },
     {
         "route": "85",
@@ -187805,7 +187805,7 @@
         "service_type": "1",
         "seq": "24",
         "stop": "C3427DE8E291FFA6",
-        "stop_name_tc": "九龍城碼頭巴士總站 (KC941)"
+        "stop_name_tc": "九龍城碼頭巴士總站(落客站)"
     },
     {
         "route": "85",
@@ -187813,7 +187813,7 @@
         "service_type": "1",
         "seq": "25",
         "stop": "1D0E096C4E9766C6",
-        "stop_name_tc": "九龍城碼頭巴士總站(落客站)"
+        "stop_name_tc": "九龍城碼頭巴士總站"
     },
     {
         "route": "85A",
@@ -188269,7 +188269,7 @@
         "service_type": "1",
         "seq": "29",
         "stop": "C3427DE8E291FFA6",
-        "stop_name_tc": "九龍城碼頭巴士總站 (KC941)"
+        "stop_name_tc": "九龍城碼頭巴士總站(落客站)"
     },
     {
         "route": "85A",
@@ -188469,7 +188469,7 @@
         "service_type": "1",
         "seq": "24",
         "stop": "C3427DE8E291FFA6",
-        "stop_name_tc": "九龍城碼頭巴士總站 (KC941)"
+        "stop_name_tc": "九龍城碼頭巴士總站(落客站)"
     },
     {
         "route": "85K",
@@ -195757,7 +195757,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "0B8C52E4C34E3B64",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT348)"
     },
     {
         "route": "889",
@@ -197445,7 +197445,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "C3427DE8E291FFA6",
-        "stop_name_tc": "九龍城碼頭巴士總站 (KC941)"
+        "stop_name_tc": "九龍城碼頭巴士總站(落客站)"
     },
     {
         "route": "893",
@@ -198949,7 +198949,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "EB177E95B39626AE",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT347)"
     },
     {
         "route": "89D",
@@ -199061,7 +199061,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "EB177E95B39626AE",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT347)"
     },
     {
         "route": "89P",
@@ -199149,7 +199149,7 @@
         "service_type": "2",
         "seq": "9",
         "stop": "EB177E95B39626AE",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT347)"
     },
     {
         "route": "89P",
@@ -199229,7 +199229,7 @@
         "service_type": "3",
         "seq": "8",
         "stop": "EB177E95B39626AE",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT347)"
     },
     {
         "route": "89P",
@@ -210709,7 +210709,7 @@
         "service_type": "1",
         "seq": "25",
         "stop": "5FD7848A339751B6",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT349)"
     },
     {
         "route": "93K",
@@ -210933,7 +210933,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "60D0B9706B352D1C",
-        "stop_name_tc": "香港建造學院 - 九龍灣院校"
+        "stop_name_tc": "香港建造學院-九龍灣院校"
     },
     {
         "route": "93K",
@@ -214429,7 +214429,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "5FD7848A339751B6",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT349)"
     },
     {
         "route": "95M",
@@ -222365,7 +222365,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "14CF94DF66FCD0C8",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT346)"
     },
     {
         "route": "98",
@@ -224317,7 +224317,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "5FD7848A339751B6",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT349)"
     },
     {
         "route": "98A",
@@ -224485,7 +224485,7 @@
         "service_type": "3",
         "seq": "2",
         "stop": "5FD7848A339751B6",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT349)"
     },
     {
         "route": "98A",
@@ -224757,7 +224757,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "5FD7848A339751B6",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT349)"
     },
     {
         "route": "98C",
@@ -267901,7 +267901,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "F2127FD781019971",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT351)"
     },
     {
         "route": "N619",
@@ -279109,7 +279109,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "0B8C52E4C34E3B64",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT348)"
     },
     {
         "route": "SP1",
@@ -281485,7 +281485,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "0B8C52E4C34E3B64",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT348)"
     },
     {
         "route": "W2",
@@ -281653,7 +281653,7 @@
         "service_type": "2",
         "seq": "11",
         "stop": "0B8C52E4C34E3B64",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT348)"
     },
     {
         "route": "W2",
@@ -281701,7 +281701,7 @@
         "service_type": "3",
         "seq": "2",
         "stop": "0B8C52E4C34E3B64",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT348)"
     },
     {
         "route": "W2",
@@ -283333,7 +283333,7 @@
         "service_type": "1",
         "seq": "28",
         "stop": "EB177E95B39626AE",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT347)"
     },
     {
         "route": "X42C",
@@ -283517,7 +283517,7 @@
         "service_type": "2",
         "seq": "19",
         "stop": "EB177E95B39626AE",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT347)"
     },
     {
         "route": "X42C",
@@ -283653,7 +283653,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "EB177E95B39626AE",
-        "stop_name_tc": "觀塘轉車站 - 觀塘市中心"
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT347)"
     },
     {
         "route": "X42P",

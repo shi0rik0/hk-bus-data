@@ -4769,9 +4769,9 @@
         "orig_en": "FANLING (LUEN WO HUI)",
         "orig_tc": "粉嶺(聯和墟)",
         "orig_sc": "粉岭(联和墟)",
-        "dest_en": "FANLING STATION (CIRCULAR)",
-        "dest_tc": "FANLING STATION (CIRCULAR)",
-        "dest_sc": "FANLING STATION (CIRCULAR)"
+        "dest_en": "FANLING STATION (CIR.) [AM Special Route]",
+        "dest_tc": "粉嶺站(循環線) [上午特別路線]",
+        "dest_sc": "粉岭站(循环线) [上午特别路线]"
     },
     {
         "route": "278K",
@@ -4780,9 +4780,9 @@
         "orig_en": "FANLING (LUEN WO HUI)",
         "orig_tc": "粉嶺(聯和墟)",
         "orig_sc": "粉岭(联和墟)",
-        "dest_en": "FANLING STATION (CIRCULAR)",
-        "dest_tc": "FANLING STATION (CIRCULAR)",
-        "dest_sc": "FANLING STATION (CIRCULAR)"
+        "dest_en": "FANLING STATION (CIR.) [PM Special Route]",
+        "dest_tc": "粉嶺站(循環線) [下午特別路線]",
+        "dest_sc": "粉岭站(循环线) [下午特别路线]"
     },
     {
         "route": "278P",
