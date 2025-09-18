@@ -134076,8 +134076,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "14",
-        "stop": "5F1C669F444A0556",
-        "stop_name_tc": "啟德郵輪碼頭 (KA900)"
+        "stop": "2F9C6EBE1A9AA07E",
+        "stop_name_tc": null
     },
     {
         "route": "5R",
@@ -134204,8 +134204,8 @@
         "bound": "O",
         "service_type": "3",
         "seq": "8",
-        "stop": "5F1C669F444A0556",
-        "stop_name_tc": "啟德郵輪碼頭 (KA900)"
+        "stop": "2F9C6EBE1A9AA07E",
+        "stop_name_tc": null
     },
     {
         "route": "6",

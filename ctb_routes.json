@@ -3134,10 +3134,10 @@
         "route": "B7",
         "orig_tc": "上水 (寶運路) (經粉嶺站)",
         "orig_en": "Sheung Shui (Po Wan Road) (via Fanling Station)",
-        "dest_tc": "香園圍口岸 (經粉嶺站)",
-        "dest_en": "Heung Yuen Wai Port (via Fanling Station)",
+        "dest_tc": "香園圍 (蓮塘) 口岸 (經粉嶺站)",
+        "dest_en": "Heung Yuen Wai (Liantang) Port (via Fanling Station)",
         "orig_sc": "上水 (宝运路) (经粉岭站)",
-        "dest_sc": "香园围口岸 (经粉岭站)"
+        "dest_sc": "香园围 (莲塘) 口岸 (经粉岭站)"
     },
     {
         "co": "CTB",
@@ -3154,10 +3154,10 @@
         "route": "B8",
         "orig_tc": "大圍站 (經大埔)",
         "orig_en": "Tai Wai Station (via Tai Po)",
-        "dest_tc": "香園圍口岸 (經大埔)",
-        "dest_en": "Heung Yuen Wai Port (via Tai Po)",
+        "dest_tc": "香園圍 (蓮塘) 口岸 (經大埔)",
+        "dest_en": "Heung Yuen Wai (Liantang) Port (via Tai Po)",
         "orig_sc": "大围站 (经大埔)",
-        "dest_sc": "香园围口岸 (经大埔)"
+        "dest_sc": "香园围 (莲塘) 口岸 (经大埔)"
     },
     {
         "co": "CTB",
