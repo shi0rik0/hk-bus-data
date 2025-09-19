@@ -12469,7 +12469,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "60C1F7910C07C52B",
-        "stop_name_tc": "九龍城碼頭巴士總站 (KC954)"
+        "stop_name_tc": "九龍城碼頭巴士總站 (KC949)"
     },
     {
         "route": "115",
@@ -12477,7 +12477,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "60C1F7910C07C52B",
-        "stop_name_tc": "九龍城碼頭巴士總站 (KC954)"
+        "stop_name_tc": "九龍城碼頭巴士總站 (KC949)"
     },
     {
         "route": "115",
@@ -15261,7 +15261,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "F088E9BC1B13B13D",
-        "stop_name_tc": "九龍城碼頭巴士總站 (KC953)"
+        "stop_name_tc": "九龍城碼頭巴士總站 (KC948)"
     },
     {
         "route": "11B",
@@ -15565,7 +15565,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "F088E9BC1B13B13D",
-        "stop_name_tc": "九龍城碼頭巴士總站 (KC953)"
+        "stop_name_tc": "九龍城碼頭巴士總站 (KC948)"
     },
     {
         "route": "11C",
@@ -42725,7 +42725,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "3241EDA71CCCF867",
-        "stop_name_tc": "九龍城碼頭巴士總站"
+        "stop_name_tc": "九龍城碼頭巴士總站 (KC951)"
     },
     {
         "route": "241X",
@@ -43269,7 +43269,7 @@
         "service_type": "1",
         "seq": "32",
         "stop": "D6BE89205CDC6645",
-        "stop_name_tc": "九龍城碼頭巴士總站 (KC952)"
+        "stop_name_tc": "九龍城碼頭巴士總站 (KC945)"
     },
     {
         "route": "242X",
@@ -120797,7 +120797,7 @@
         "service_type": "1",
         "seq": "40",
         "stop": "D6BE89205CDC6645",
-        "stop_name_tc": "九龍城碼頭巴士總站 (KC952)"
+        "stop_name_tc": "九龍城碼頭巴士總站 (KC945)"
     },
     {
         "route": "45",
@@ -120805,7 +120805,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "3241EDA71CCCF867",
-        "stop_name_tc": "九龍城碼頭巴士總站"
+        "stop_name_tc": "九龍城碼頭巴士總站 (KC951)"
     },
     {
         "route": "45",
@@ -143381,7 +143381,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "D6BE89205CDC6645",
-        "stop_name_tc": "九龍城碼頭巴士總站 (KC952)"
+        "stop_name_tc": "九龍城碼頭巴士總站 (KC945)"
     },
     {
         "route": "61X",
@@ -143733,7 +143733,7 @@
         "service_type": "1",
         "seq": "23",
         "stop": "D6BE89205CDC6645",
-        "stop_name_tc": "九龍城碼頭巴士總站 (KC952)"
+        "stop_name_tc": "九龍城碼頭巴士總站 (KC945)"
     },
     {
         "route": "621",
@@ -158629,7 +158629,7 @@
         "service_type": "1",
         "seq": "24",
         "stop": "A92AD89F447B3339",
-        "stop_name_tc": "九龍城碼頭巴士總站 (KC943)"
+        "stop_name_tc": "九龍城碼頭巴士總站 (KC946)"
     },
     {
         "route": "6C",
@@ -158637,7 +158637,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "A92AD89F447B3339",
-        "stop_name_tc": "九龍城碼頭巴士總站 (KC943)"
+        "stop_name_tc": "九龍城碼頭巴士總站 (KC946)"
     },
     {
         "route": "6C",
@@ -159861,7 +159861,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "E6DCDD4CCE10E4B7",
-        "stop_name_tc": "九龍城碼頭巴士總站 (KC945)"
+        "stop_name_tc": "九龍城碼頭巴士總站 (KC947)"
     },
     {
         "route": "6F",
@@ -159869,7 +159869,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "E6DCDD4CCE10E4B7",
-        "stop_name_tc": "九龍城碼頭巴士總站 (KC945)"
+        "stop_name_tc": "九龍城碼頭巴士總站 (KC947)"
     },
     {
         "route": "6F",
@@ -174581,7 +174581,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "C72D7C053FC3AEBB",
-        "stop_name_tc": "九龍城碼頭巴士總站"
+        "stop_name_tc": "九龍城碼頭巴士總站 (KC950)"
     },
     {
         "route": "75X",
@@ -174789,7 +174789,7 @@
         "service_type": "2",
         "seq": "1",
         "stop": "C72D7C053FC3AEBB",
-        "stop_name_tc": "九龍城碼頭巴士總站"
+        "stop_name_tc": "九龍城碼頭巴士總站 (KC950)"
     },
     {
         "route": "75X",
@@ -175165,7 +175165,7 @@
         "service_type": "1",
         "seq": "23",
         "stop": "60C1F7910C07C52B",
-        "stop_name_tc": "九龍城碼頭巴士總站 (KC954)"
+        "stop_name_tc": "九龍城碼頭巴士總站 (KC949)"
     },
     {
         "route": "76",
@@ -187389,7 +187389,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "1D0E096C4E9766C6",
-        "stop_name_tc": "九龍城碼頭巴士總站"
+        "stop_name_tc": "九龍城碼頭巴士總站 (KC944)"
     },
     {
         "route": "85",
@@ -187813,7 +187813,7 @@
         "service_type": "1",
         "seq": "25",
         "stop": "1D0E096C4E9766C6",
-        "stop_name_tc": "九龍城碼頭巴士總站"
+        "stop_name_tc": "九龍城碼頭巴士總站 (KC944)"
     },
     {
         "route": "85A",
@@ -187821,7 +187821,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "A678D9D2809B3BE4",
-        "stop_name_tc": "九龍城碼頭巴士總站 (KC944)"
+        "stop_name_tc": "九龍城碼頭巴士總站 (KC943)"
     },
     {
         "route": "85A",
@@ -188277,7 +188277,7 @@
         "service_type": "1",
         "seq": "30",
         "stop": "A678D9D2809B3BE4",
-        "stop_name_tc": "九龍城碼頭巴士總站 (KC944)"
+        "stop_name_tc": "九龍城碼頭巴士總站 (KC943)"
     },
     {
         "route": "85B",
@@ -235409,230 +235409,6 @@
     },
     {
         "route": "A38",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "1",
-        "stop": "5E1FA939586B3FD1",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
-    },
-    {
-        "route": "A38",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "2",
-        "stop": "9C9F817064169CE7",
-        "stop_name_tc": "機場博覽館 (CL320)"
-    },
-    {
-        "route": "A38",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "3",
-        "stop": "57B34182D2844A35",
-        "stop_name_tc": "港珠澳大橋香港口岸 (W7)"
-    },
-    {
-        "route": "A38",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "4",
-        "stop": "28E722A4FDD9ABB9",
-        "stop_name_tc": "青嶼幹線轉車站 (N5) (TW702)"
-    },
-    {
-        "route": "A38",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "5",
-        "stop": "5476E155980E85F9",
-        "stop_name_tc": "碧堤半島 (TW189)"
-    },
-    {
-        "route": "A38",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "6",
-        "stop": "03DF3BB7102FE4A4",
-        "stop_name_tc": "深井村 (TW191)"
-    },
-    {
-        "route": "A38",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "7",
-        "stop": "64046AF19443F736",
-        "stop_name_tc": "馬灣碼頭 (TW193)"
-    },
-    {
-        "route": "A38",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "8",
-        "stop": "EEE72EA029EB8438",
-        "stop_name_tc": "浪翠園第三期 (TW195)"
-    },
-    {
-        "route": "A38",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "9",
-        "stop": "D85C3A15814F927B",
-        "stop_name_tc": "浪翠園第四期 (TW197)"
-    },
-    {
-        "route": "A38",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "10",
-        "stop": "040BF3E98E34C65C",
-        "stop_name_tc": "青龍頭村 (TW334)"
-    },
-    {
-        "route": "A38",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "11",
-        "stop": "DDEF448B9FD8E0A5",
-        "stop_name_tc": "深井深慈街 (TW347)"
-    },
-    {
-        "route": "A38",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "12",
-        "stop": "A494158699C58BFF",
-        "stop_name_tc": "海美灣 (TW350)"
-    },
-    {
-        "route": "A38",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "13",
-        "stop": "9B876C4A7054DCF5",
-        "stop_name_tc": "麗都灣 (TW351)"
-    },
-    {
-        "route": "A38",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "14",
-        "stop": "E2385520ADCFC607",
-        "stop_name_tc": "汀九 (TW354)"
-    },
-    {
-        "route": "A38",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "15",
-        "stop": "6F36400A6E1FBE49",
-        "stop_name_tc": "南山游泳會 (TW355)"
-    },
-    {
-        "route": "A38",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "16",
-        "stop": "B78CDC6E85060BE4",
-        "stop_name_tc": "金麗苑 (TW357)"
-    },
-    {
-        "route": "A38",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "17",
-        "stop": "BF876DC97B6395D2",
-        "stop_name_tc": "油柑頭 (TW359)"
-    },
-    {
-        "route": "A38",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "18",
-        "stop": "177F8A8A3716DBE0",
-        "stop_name_tc": "翠景臺 (TW362)"
-    },
-    {
-        "route": "A38",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "19",
-        "stop": "66EA5E4B2C7CAE82",
-        "stop_name_tc": "灣景花園 (TW364)"
-    },
-    {
-        "route": "A38",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "20",
-        "stop": "98A787294A2089F6",
-        "stop_name_tc": "麗城花園第三期 (TW366)"
-    },
-    {
-        "route": "A38",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "21",
-        "stop": "9FE135F7D7D377E6",
-        "stop_name_tc": "麗城花園第一期 (TW368)"
-    },
-    {
-        "route": "A38",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "22",
-        "stop": "B7F443B0BB14A4EC",
-        "stop_name_tc": "荃景圍天橋 (TW372)"
-    },
-    {
-        "route": "A38",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "23",
-        "stop": "BD67BA334834CACB",
-        "stop_name_tc": "美環街 (TW211)"
-    },
-    {
-        "route": "A38",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "24",
-        "stop": "6FF0624000B3D53D",
-        "stop_name_tc": "荃景花園 (TW213)"
-    },
-    {
-        "route": "A38",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "25",
-        "stop": "982E419BB26ED8AA",
-        "stop_name_tc": "荃灣中心 (TW215)"
-    },
-    {
-        "route": "A38",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "26",
-        "stop": "8F60B176234176D8",
-        "stop_name_tc": "聖母領報堂 (TW220)"
-    },
-    {
-        "route": "A38",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "27",
-        "stop": "431CFBCADDFF352C",
-        "stop_name_tc": "荃灣港安醫院 (TW216)"
-    },
-    {
-        "route": "A38",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "28",
-        "stop": "6D12ACD9163EDD99",
-        "stop_name_tc": "荃威花園總站 (TW934)"
-    },
-    {
-        "route": "A38",
         "bound": "O",
         "service_type": "1",
         "seq": "1",
@@ -235844,230 +235620,6 @@
         "bound": "O",
         "service_type": "1",
         "seq": "27",
-        "stop": "5E1FA939586B3FD1",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
-    },
-    {
-        "route": "A38",
-        "bound": "O",
-        "service_type": "2",
-        "seq": "1",
-        "stop": "6D12ACD9163EDD99",
-        "stop_name_tc": "荃威花園總站 (TW934)"
-    },
-    {
-        "route": "A38",
-        "bound": "O",
-        "service_type": "2",
-        "seq": "2",
-        "stop": "2C9BABEC2D1F04A3",
-        "stop_name_tc": "荃景圍街市 (TW442)"
-    },
-    {
-        "route": "A38",
-        "bound": "O",
-        "service_type": "2",
-        "seq": "3",
-        "stop": "5834E2A330B9C3F4",
-        "stop_name_tc": "荃灣中心 (TW445)"
-    },
-    {
-        "route": "A38",
-        "bound": "O",
-        "service_type": "2",
-        "seq": "4",
-        "stop": "4970D7BEAE2A7422",
-        "stop_name_tc": "荃景花園第二期 (TW448)"
-    },
-    {
-        "route": "A38",
-        "bound": "O",
-        "service_type": "2",
-        "seq": "5",
-        "stop": "1D7A47D38CE1E6D7",
-        "stop_name_tc": "荃景圍天橋 (TW158)"
-    },
-    {
-        "route": "A38",
-        "bound": "O",
-        "service_type": "2",
-        "seq": "6",
-        "stop": "D388EAE9181708D7",
-        "stop_name_tc": "柴灣角街 (TW161)"
-    },
-    {
-        "route": "A38",
-        "bound": "O",
-        "service_type": "2",
-        "seq": "7",
-        "stop": "09141DBE74259A87",
-        "stop_name_tc": "麗城花園第三期 (TW165)"
-    },
-    {
-        "route": "A38",
-        "bound": "O",
-        "service_type": "2",
-        "seq": "8",
-        "stop": "6D6DCAA9E6584422",
-        "stop_name_tc": "灣景花園 (TW171)"
-    },
-    {
-        "route": "A38",
-        "bound": "O",
-        "service_type": "2",
-        "seq": "9",
-        "stop": "9FFB27C9E799FDC9",
-        "stop_name_tc": "翠景臺 (TW173)"
-    },
-    {
-        "route": "A38",
-        "bound": "O",
-        "service_type": "2",
-        "seq": "10",
-        "stop": "0932BC34DBEAA8CD",
-        "stop_name_tc": "油柑頭 (TW174)"
-    },
-    {
-        "route": "A38",
-        "bound": "O",
-        "service_type": "2",
-        "seq": "11",
-        "stop": "B0F54576BC1B2CF2",
-        "stop_name_tc": "近水灣 (TW176)"
-    },
-    {
-        "route": "A38",
-        "bound": "O",
-        "service_type": "2",
-        "seq": "12",
-        "stop": "513616D2281F7EBD",
-        "stop_name_tc": "南山游泳會 (TW179)"
-    },
-    {
-        "route": "A38",
-        "bound": "O",
-        "service_type": "2",
-        "seq": "13",
-        "stop": "2BDB4CC59A344CA3",
-        "stop_name_tc": "汀九 (TW181)"
-    },
-    {
-        "route": "A38",
-        "bound": "O",
-        "service_type": "2",
-        "seq": "14",
-        "stop": "48F4A12FBE9186E3",
-        "stop_name_tc": "麗都灣 (TW182)"
-    },
-    {
-        "route": "A38",
-        "bound": "O",
-        "service_type": "2",
-        "seq": "15",
-        "stop": "47E8177BC55580BC",
-        "stop_name_tc": "海美灣 (TW184)"
-    },
-    {
-        "route": "A38",
-        "bound": "O",
-        "service_type": "2",
-        "seq": "16",
-        "stop": "5A2A66038B409879",
-        "stop_name_tc": "深井深慈街 (TW186)"
-    },
-    {
-        "route": "A38",
-        "bound": "O",
-        "service_type": "2",
-        "seq": "17",
-        "stop": "040BF3E98E34C65C",
-        "stop_name_tc": "青龍頭村 (TW334)"
-    },
-    {
-        "route": "A38",
-        "bound": "O",
-        "service_type": "2",
-        "seq": "18",
-        "stop": "5D54365755195601",
-        "stop_name_tc": "浪翠園第四期 (TW336)"
-    },
-    {
-        "route": "A38",
-        "bound": "O",
-        "service_type": "2",
-        "seq": "19",
-        "stop": "2BBF7E74B792F4D9",
-        "stop_name_tc": "浪翠園第三期 (TW338)"
-    },
-    {
-        "route": "A38",
-        "bound": "O",
-        "service_type": "2",
-        "seq": "20",
-        "stop": "B70D89DFA52011DB",
-        "stop_name_tc": "馬灣碼頭 (TW340)"
-    },
-    {
-        "route": "A38",
-        "bound": "O",
-        "service_type": "2",
-        "seq": "21",
-        "stop": "A68800ABF9DC075B",
-        "stop_name_tc": "深井村 (TW342)"
-    },
-    {
-        "route": "A38",
-        "bound": "O",
-        "service_type": "2",
-        "seq": "22",
-        "stop": "1684F750FEB1342E",
-        "stop_name_tc": "海韻花園 (TW345)"
-    },
-    {
-        "route": "A38",
-        "bound": "O",
-        "service_type": "2",
-        "seq": "23",
-        "stop": "412DEEF534E127AF",
-        "stop_name_tc": "青嶼幹線轉車站 (A1) (TW606)"
-    },
-    {
-        "route": "A38",
-        "bound": "O",
-        "service_type": "2",
-        "seq": "24",
-        "stop": "C552CE565E1F0C85",
-        "stop_name_tc": "一號客運大樓 (落客站)"
-    },
-    {
-        "route": "A38",
-        "bound": "O",
-        "service_type": "2",
-        "seq": "25",
-        "stop": "9C9F817064169CE7",
-        "stop_name_tc": "機場博覽館 (CL320)"
-    },
-    {
-        "route": "A38",
-        "bound": "O",
-        "service_type": "2",
-        "seq": "26",
-        "stop": "0D5759F7A4B185FE",
-        "stop_name_tc": "港珠澳大橋旅檢大樓 (落客站)"
-    },
-    {
-        "route": "A38",
-        "bound": "O",
-        "service_type": "2",
-        "seq": "27",
-        "stop": "21466046C6868AA7",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
-    },
-    {
-        "route": "A38",
-        "bound": "O",
-        "service_type": "2",
-        "seq": "28",
         "stop": "5E1FA939586B3FD1",
         "stop_name_tc": "機場(地面運輸中心)巴士總站"
     },
@@ -282124,8 +281676,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "6",
-        "stop": "1A0F813116024D92",
-        "stop_name_tc": "高鐵(西九龍站) (YT290)"
+        "stop": "5F60283656DF3016",
+        "stop_name_tc": "廣東道,新港中心 (YT205)"
     },
     {
         "route": "X1",
