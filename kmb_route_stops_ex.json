@@ -134077,7 +134077,15 @@
         "service_type": "1",
         "seq": "14",
         "stop": "2F9C6EBE1A9AA07E",
-        "stop_name_tc": null
+        "stop_name_tc": "承景街 (KA541)"
+    },
+    {
+        "route": "5R",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "15",
+        "stop": "5F1C669F444A0556",
+        "stop_name_tc": "啟德郵輪碼頭 (KA900)"
     },
     {
         "route": "5R",
@@ -134205,7 +134213,15 @@
         "service_type": "3",
         "seq": "8",
         "stop": "2F9C6EBE1A9AA07E",
-        "stop_name_tc": null
+        "stop_name_tc": "承景街 (KA541)"
+    },
+    {
+        "route": "5R",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "9",
+        "stop": "5F1C669F444A0556",
+        "stop_name_tc": "啟德郵輪碼頭 (KA900)"
     },
     {
         "route": "6",
@@ -281678,6 +281694,86 @@
         "seq": "6",
         "stop": "5F60283656DF3016",
         "stop_name_tc": "廣東道,新港中心 (YT205)"
+    },
+    {
+        "route": "W4",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "7",
+        "stop": "F57E1173086C7A51",
+        "stop_name_tc": "廣東道,北京道 (YT207)"
+    },
+    {
+        "route": "W4",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "8",
+        "stop": "576538E1395C8508",
+        "stop_name_tc": "尖東站 K11 MUSEA (YT215)"
+    },
+    {
+        "route": "W4",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "9",
+        "stop": "1864222D8939BD69",
+        "stop_name_tc": "永安廣場 星光大道 (YT218)"
+    },
+    {
+        "route": "W4",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "10",
+        "stop": "C650BECDAF9D9EB0",
+        "stop_name_tc": "永安廣場 星光大道 (YT629)"
+    },
+    {
+        "route": "W4",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "11",
+        "stop": "E3A083E4F64D93CD",
+        "stop_name_tc": "九龍公園徑 (YT640)"
+    },
+    {
+        "route": "W4",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "12",
+        "stop": "2EEB9CB69FB6A58D",
+        "stop_name_tc": "中港城 戲曲中心 (YT645)"
+    },
+    {
+        "route": "W4",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "13",
+        "stop": "0CC0B21EFF42EE19",
+        "stop_name_tc": "柯士甸道西 (YT262)"
+    },
+    {
+        "route": "W4",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "14",
+        "stop": "B3E70C6DEFD93416",
+        "stop_name_tc": "M+ (YT265)"
+    },
+    {
+        "route": "W4",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "15",
+        "stop": "C50C67D1BFF70DDF",
+        "stop_name_tc": "香港故宮文化博物館 (YT271)"
+    },
+    {
+        "route": "W4",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "16",
+        "stop": "1A0F813116024D92",
+        "stop_name_tc": "高鐵(西九龍站) (YT290)"
     },
     {
         "route": "X1",
