@@ -14127,7 +14127,7 @@
         "route": "A33",
         "bound": "O",
         "service_type": "1",
-        "orig_en": "TUEN MUN ROAD INTERCHANGE",
+        "orig_en": "TUEN MUN ROAD BBI",
         "orig_tc": "屯門公路轉車站",
         "orig_sc": "屯门公路转车站",
         "dest_en": "AIRPORT (GROUND TRANSPORTATION CENTRE)",
@@ -14138,7 +14138,7 @@
         "route": "A33",
         "bound": "O",
         "service_type": "2",
-        "orig_en": "TUEN MUN ROAD INTERCHANGE",
+        "orig_en": "TUEN MUN ROAD BBI",
         "orig_tc": "屯門公路轉車站",
         "orig_sc": "屯门公路转车站",
         "dest_en": "AIRPORT (GROUND TRANSPORTATION CENTRE)",
@@ -16264,7 +16264,7 @@
         "orig_en": "TUEN MUN (FU TAI ESTATE)",
         "orig_tc": "屯門(富泰邨)",
         "orig_sc": "屯门(富泰邨)",
-        "dest_en": "Cathay Pacific City",
+        "dest_en": "Cathay City",
         "dest_tc": "國泰城",
         "dest_sc": "国泰城"
     },
@@ -16272,7 +16272,7 @@
         "route": "NA33",
         "bound": "O",
         "service_type": "1",
-        "orig_en": "Cathay Pacific City",
+        "orig_en": "Cathay City",
         "orig_tc": "國泰城",
         "orig_sc": "国泰城",
         "dest_en": "TUEN MUN (FU TAI ESTATE)",
@@ -17089,9 +17089,9 @@
         "orig_en": "HIGH SPEED RAIL (WEST KOWLOON STATION)",
         "orig_tc": "高鐵(西九龍站)",
         "orig_sc": "高铁(西九龙站)",
-        "dest_en": "HONG KONG PALACE MUSEUM (CIRCULAR)",
-        "dest_tc": "香港故宮文化博物館(循環線)",
-        "dest_sc": "香港故宫文化博物馆(循环线)"
+        "dest_en": "WKCD ‧ TSIM SHA TSUI ‧ HIGH SPEED RAIL",
+        "dest_tc": "西九文化區 ‧ 尖沙咀 ‧ 高鐵站",
+        "dest_sc": "西九文化区 · 尖沙咀 · 高铁站"
     },
     {
         "route": "X1",
