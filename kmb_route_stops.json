@@ -163550,6 +163550,13 @@
     {
         "route": "84M",
         "bound": "O",
+        "service_type": "1",
+        "seq": "17",
+        "stop": "8569ED53DDB3A570"
+    },
+    {
+        "route": "84M",
+        "bound": "O",
         "service_type": "2",
         "seq": "1",
         "stop": "36D7B643B6B5680A"
