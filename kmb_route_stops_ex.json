@@ -124557,7 +124557,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "838E1F95E4AE1657",
-        "stop_name_tc": "禾輋邨豐禾樓 (ST720)"
+        "stop_name_tc": "禾輋邨豐和樓 (ST720)"
     },
     {
         "route": "48X",
@@ -183101,7 +183101,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "838E1F95E4AE1657",
-        "stop_name_tc": "禾輋邨豐禾樓 (ST720)"
+        "stop_name_tc": "禾輋邨豐和樓 (ST720)"
     },
     {
         "route": "81",
@@ -186910,14 +186910,6 @@
         "seq": "16",
         "stop": "FBAA9F0F9B1893F7",
         "stop_name_tc": "宏業樓 (WT441)"
-    },
-    {
-        "route": "84M",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "17",
-        "stop": "8569ED53DDB3A570",
-        "stop_name_tc": "樂富總站 (WT905)"
     },
     {
         "route": "84M",
