@@ -49564,8 +49564,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "14",
-        "stop": "4DA3813D3CE3A5DF",
-        "stop_name_tc": "屯門碼頭總站 (TM880)"
+        "stop": "E3E171AEDE35ACDF",
+        "stop_name_tc": null
     },
     {
         "route": "259S",
@@ -256764,16 +256764,16 @@
         "bound": "I",
         "service_type": "1",
         "seq": "38",
-        "stop": "4DA3813D3CE3A5DF",
-        "stop_name_tc": "屯門碼頭總站 (TM880)"
+        "stop": "E3E171AEDE35ACDF",
+        "stop_name_tc": null
     },
     {
         "route": "N260",
         "bound": "O",
         "service_type": "1",
         "seq": "1",
-        "stop": "4DA3813D3CE3A5DF",
-        "stop_name_tc": "屯門碼頭總站 (TM880)"
+        "stop": "E3E171AEDE35ACDF",
+        "stop_name_tc": null
     },
     {
         "route": "N260",
@@ -279508,8 +279508,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "28",
-        "stop": "4DA3813D3CE3A5DF",
-        "stop_name_tc": "屯門碼頭總站 (TM880)"
+        "stop": "E3E171AEDE35ACDF",
+        "stop_name_tc": null
     },
     {
         "route": "SP6",
