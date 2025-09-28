@@ -49565,7 +49565,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "E3E171AEDE35ACDF",
-        "stop_name_tc": null
+        "stop_name_tc": "屯門碼頭總站"
     },
     {
         "route": "259S",
@@ -256765,7 +256765,7 @@
         "service_type": "1",
         "seq": "38",
         "stop": "E3E171AEDE35ACDF",
-        "stop_name_tc": null
+        "stop_name_tc": "屯門碼頭總站"
     },
     {
         "route": "N260",
@@ -256773,7 +256773,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "E3E171AEDE35ACDF",
-        "stop_name_tc": null
+        "stop_name_tc": "屯門碼頭總站"
     },
     {
         "route": "N260",
@@ -279509,7 +279509,7 @@
         "service_type": "1",
         "seq": "28",
         "stop": "E3E171AEDE35ACDF",
-        "stop_name_tc": null
+        "stop_name_tc": "屯門碼頭總站"
     },
     {
         "route": "SP6",

@@ -16480,14 +16480,6 @@
         "long": "114.201583"
     },
     {
-        "stop": "4DA3813D3CE3A5DF",
-        "name_en": "TUEN MUN PIER HEAD BUS TERMINUS (TM880)",
-        "name_tc": "屯門碼頭總站 (TM880)",
-        "name_sc": "屯门码头总站 (TM880)",
-        "lat": "22.372753",
-        "long": "113.966531"
-    },
-    {
         "stop": "4DB8054CDFBB9E43",
         "name_en": "WEST KOWLOON STATION (YT280)",
         "name_tc": "西九龍站 (YT280)",
@@ -47174,6 +47166,14 @@
         "name_sc": "日出康城晋海 (TK330)",
         "lat": "22.291917",
         "long": "114.272205"
+    },
+    {
+        "stop": "E3E171AEDE35ACDF",
+        "name_en": "TUEN MUN PIER HEAD B/T",
+        "name_tc": "屯門碼頭總站",
+        "name_sc": "屯门码头总站",
+        "lat": "22.372714",
+        "long": "113.966656"
     },
     {
         "stop": "E3E26EC8322AC889",
