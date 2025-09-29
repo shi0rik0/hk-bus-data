@@ -61624,6 +61624,166 @@
         "stop_name_tc": "瀝源巴士總站 (ST947)"
     },
     {
+        "route": "269D",
+        "bound": "O",
+        "service_type": "4",
+        "seq": "1",
+        "stop": "D834EE67780F47CD",
+        "stop_name_tc": "天富總站 (TN960)"
+    },
+    {
+        "route": "269D",
+        "bound": "O",
+        "service_type": "4",
+        "seq": "2",
+        "stop": "A00D00FC2F4F8400",
+        "stop_name_tc": "天頌苑 (TN504)"
+    },
+    {
+        "route": "269D",
+        "bound": "O",
+        "service_type": "4",
+        "seq": "3",
+        "stop": "C052B4D46E1F48EA",
+        "stop_name_tc": "天瑞邨 (TN507)"
+    },
+    {
+        "route": "269D",
+        "bound": "O",
+        "service_type": "4",
+        "seq": "4",
+        "stop": "AFB9321F7CD2C2E4",
+        "stop_name_tc": "天水圍公園 (TN510)"
+    },
+    {
+        "route": "269D",
+        "bound": "O",
+        "service_type": "4",
+        "seq": "5",
+        "stop": "7898B605E39613A8",
+        "stop_name_tc": "天耀邨耀盛樓 (TN571)"
+    },
+    {
+        "route": "269D",
+        "bound": "O",
+        "service_type": "4",
+        "seq": "6",
+        "stop": "0BC0F64B076ED373",
+        "stop_name_tc": "天耀邨耀民樓 (TN583)"
+    },
+    {
+        "route": "269D",
+        "bound": "O",
+        "service_type": "4",
+        "seq": "7",
+        "stop": "5DE9BD1D773946A0",
+        "stop_name_tc": "天祐苑 (TN591)"
+    },
+    {
+        "route": "269D",
+        "bound": "O",
+        "service_type": "4",
+        "seq": "8",
+        "stop": "1C0A89BD67A4CFF0",
+        "stop_name_tc": "鳳池村 (YL140)"
+    },
+    {
+        "route": "269D",
+        "bound": "O",
+        "service_type": "4",
+        "seq": "9",
+        "stop": "E0E2097354500456",
+        "stop_name_tc": "山水樓 (YL226)"
+    },
+    {
+        "route": "269D",
+        "bound": "O",
+        "service_type": "4",
+        "seq": "10",
+        "stop": "BCC6E5BA6810FED6",
+        "stop_name_tc": "水邊圍邨 (YL358)"
+    },
+    {
+        "route": "269D",
+        "bound": "O",
+        "service_type": "4",
+        "seq": "11",
+        "stop": "4EE417C5EF5FEF4E",
+        "stop_name_tc": "元朗喜利徑 (N5) (YL364)"
+    },
+    {
+        "route": "269D",
+        "bound": "O",
+        "service_type": "4",
+        "seq": "12",
+        "stop": "51BD0FD05C62F3F4",
+        "stop_name_tc": "元朗谷亭街 (N13) (YL374)"
+    },
+    {
+        "route": "269D",
+        "bound": "O",
+        "service_type": "4",
+        "seq": "13",
+        "stop": "53AC50E46ABDA85B",
+        "stop_name_tc": "形點 II (YL391)"
+    },
+    {
+        "route": "269D",
+        "bound": "O",
+        "service_type": "4",
+        "seq": "14",
+        "stop": "30A583775F35FD7D",
+        "stop_name_tc": "形點 I (YL409)"
+    },
+    {
+        "route": "269D",
+        "bound": "O",
+        "service_type": "4",
+        "seq": "15",
+        "stop": "878E5C4AF6C4B0D4",
+        "stop_name_tc": "大欖隧道轉車站 (A6) (YL790)"
+    },
+    {
+        "route": "269D",
+        "bound": "O",
+        "service_type": "4",
+        "seq": "16",
+        "stop": "81B719F7DC3F0FAD",
+        "stop_name_tc": "城門隧道轉車站 (A5) (TW500)"
+    },
+    {
+        "route": "269D",
+        "bound": "O",
+        "service_type": "4",
+        "seq": "17",
+        "stop": "9E8E99C5BB698AC2",
+        "stop_name_tc": "城門隧道轉車站 (A4) (TW501)"
+    },
+    {
+        "route": "269D",
+        "bound": "O",
+        "service_type": "4",
+        "seq": "18",
+        "stop": "B9270C10E51D95F4",
+        "stop_name_tc": "沙田市中心總站 (ST925)"
+    },
+    {
+        "route": "269D",
+        "bound": "O",
+        "service_type": "4",
+        "seq": "19",
+        "stop": "D507B4722D750F5A",
+        "stop_name_tc": "祿泉樓 (ST191)"
+    },
+    {
+        "route": "269D",
+        "bound": "O",
+        "service_type": "4",
+        "seq": "20",
+        "stop": "7377B802B9C37904",
+        "stop_name_tc": "瀝源巴士總站 (ST947)"
+    },
+    {
         "route": "269M",
         "bound": "I",
         "service_type": "1",
@@ -125286,6 +125446,14 @@
         "seq": "36",
         "stop": "4A195F954ACD67C5",
         "stop_name_tc": "駿日街 (TK321)"
+    },
+    {
+        "route": "49",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "37",
+        "stop": "27EF80951F8ED49E",
+        "stop_name_tc": "將軍澳工業邨巴士總站 (TK990)"
     },
     {
         "route": "49A",
@@ -271516,6 +271684,14 @@
         "bound": "I",
         "service_type": "1",
         "seq": "17",
+        "stop": "E43D49B42EAF898B",
+        "stop_name_tc": null
+    },
+    {
+        "route": "NA33",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "18",
         "stop": "D74B67D55C63895F",
         "stop_name_tc": "屯門站總站 (V6) (TM953)"
     },
@@ -271523,7 +271699,7 @@
         "route": "NA33",
         "bound": "I",
         "service_type": "1",
-        "seq": "18",
+        "seq": "19",
         "stop": "249DF4A1B287E14F",
         "stop_name_tc": "屯門市中心 (TM975)"
     },
@@ -271531,7 +271707,7 @@
         "route": "NA33",
         "bound": "I",
         "service_type": "1",
-        "seq": "19",
+        "seq": "20",
         "stop": "AF9FE138E3D5D5F0",
         "stop_name_tc": "安定邨 (TM612)"
     },
@@ -271539,7 +271715,7 @@
         "route": "NA33",
         "bound": "I",
         "service_type": "1",
-        "seq": "20",
+        "seq": "21",
         "stop": "1D44677AEFBA8773",
         "stop_name_tc": "兆麟苑 (TM615)"
     },
@@ -271547,7 +271723,7 @@
         "route": "NA33",
         "bound": "I",
         "service_type": "1",
-        "seq": "21",
+        "seq": "22",
         "stop": "18580F35B0A312CF",
         "stop_name_tc": "豐景園 (TM622)"
     },
@@ -271555,7 +271731,7 @@
         "route": "NA33",
         "bound": "I",
         "service_type": "1",
-        "seq": "22",
+        "seq": "23",
         "stop": "40ADE0A2BB16271A",
         "stop_name_tc": "龍逸邨 (TM427)"
     },
@@ -271563,7 +271739,7 @@
         "route": "NA33",
         "bound": "I",
         "service_type": "1",
-        "seq": "23",
+        "seq": "24",
         "stop": "333A88A8E07C956B",
         "stop_name_tc": "富健花園 (TM432)"
     },
@@ -271571,7 +271747,7 @@
         "route": "NA33",
         "bound": "I",
         "service_type": "1",
-        "seq": "24",
+        "seq": "25",
         "stop": "B2442AC56532517B",
         "stop_name_tc": "新屯門中心 (TM434)"
     },
@@ -271579,7 +271755,7 @@
         "route": "NA33",
         "bound": "I",
         "service_type": "1",
-        "seq": "25",
+        "seq": "26",
         "stop": "78644FF7E8B7BBA0",
         "stop_name_tc": "兆山苑柳景閣 (TM436)"
     },
@@ -271587,7 +271763,7 @@
         "route": "NA33",
         "bound": "I",
         "service_type": "1",
-        "seq": "26",
+        "seq": "27",
         "stop": "0221966C1116C4EC",
         "stop_name_tc": "蝴蝶灣 (TM437)"
     },
@@ -271595,7 +271771,7 @@
         "route": "NA33",
         "bound": "I",
         "service_type": "1",
-        "seq": "27",
+        "seq": "28",
         "stop": "C70342BF7C6A4732",
         "stop_name_tc": "屯門赤鱲角隧道轉車站 (A1)"
     },
@@ -271603,7 +271779,7 @@
         "route": "NA33",
         "bound": "I",
         "service_type": "1",
-        "seq": "28",
+        "seq": "29",
         "stop": "0D5759F7A4B185FE",
         "stop_name_tc": "港珠澳大橋旅檢大樓 (落客站)"
     },
@@ -271611,17 +271787,9 @@
         "route": "NA33",
         "bound": "I",
         "service_type": "1",
-        "seq": "29",
+        "seq": "30",
         "stop": "C552CE565E1F0C85",
         "stop_name_tc": "一號客運大樓 (落客站)"
-    },
-    {
-        "route": "NA33",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "30",
-        "stop": "AAC64BCDD5B55A86",
-        "stop_name_tc": "國泰城 (CL221)"
     },
     {
         "route": "NA33",
@@ -271732,6 +271900,14 @@
         "bound": "O",
         "service_type": "1",
         "seq": "14",
+        "stop": "7F4EB0203DF27B35",
+        "stop_name_tc": "屯門消防局 (TM177)"
+    },
+    {
+        "route": "NA33",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "15",
         "stop": "9E1FC92F86D2F4E3",
         "stop_name_tc": "鳴琴站 (TM186)"
     },
@@ -271739,7 +271915,7 @@
         "route": "NA33",
         "bound": "O",
         "service_type": "1",
-        "seq": "15",
+        "seq": "16",
         "stop": "AA239AD010294414",
         "stop_name_tc": "中電 (TM471)"
     },
@@ -271747,7 +271923,7 @@
         "route": "NA33",
         "bound": "O",
         "service_type": "1",
-        "seq": "16",
+        "seq": "17",
         "stop": "284790CC047436BE",
         "stop_name_tc": "台山小學 (TM473)"
     },
@@ -271755,7 +271931,7 @@
         "route": "NA33",
         "bound": "O",
         "service_type": "1",
-        "seq": "17",
+        "seq": "18",
         "stop": "A80A0719C2068B68",
         "stop_name_tc": "大興體育館 (TM475)"
     },
@@ -271763,7 +271939,7 @@
         "route": "NA33",
         "bound": "O",
         "service_type": "1",
-        "seq": "18",
+        "seq": "19",
         "stop": "8667AD096EEED0A8",
         "stop_name_tc": "建生邨樂生樓 (TM375)"
     },
@@ -271771,7 +271947,7 @@
         "route": "NA33",
         "bound": "O",
         "service_type": "1",
-        "seq": "19",
+        "seq": "20",
         "stop": "BA72A994EEF9FABE",
         "stop_name_tc": "新圍苑 (TM381)"
     },
@@ -271779,7 +271955,7 @@
         "route": "NA33",
         "bound": "O",
         "service_type": "1",
-        "seq": "20",
+        "seq": "21",
         "stop": "F8FE29B1FAF8BA77",
         "stop_name_tc": "兆邦苑 (TM383)"
     },
@@ -271787,7 +271963,7 @@
         "route": "NA33",
         "bound": "O",
         "service_type": "1",
-        "seq": "21",
+        "seq": "22",
         "stop": "B26245505565A1E0",
         "stop_name_tc": "寶田轉車站 - 寶田 (T1) (TM192)"
     },
@@ -271795,7 +271971,7 @@
         "route": "NA33",
         "bound": "O",
         "service_type": "1",
-        "seq": "22",
+        "seq": "23",
         "stop": "88F986C270B16408",
         "stop_name_tc": "和田邨 (TM501)"
     },
@@ -271803,7 +271979,7 @@
         "route": "NA33",
         "bound": "O",
         "service_type": "1",
-        "seq": "23",
+        "seq": "24",
         "stop": "90CFA838B3C95AE0",
         "stop_name_tc": "NOVO LAND (TM520)"
     },
@@ -271811,7 +271987,7 @@
         "route": "NA33",
         "bound": "O",
         "service_type": "1",
-        "seq": "24",
+        "seq": "25",
         "stop": "3C6FA714F5D6EE83",
         "stop_name_tc": "紫田村 (TM522)"
     },
@@ -271819,7 +271995,7 @@
         "route": "NA33",
         "bound": "O",
         "service_type": "1",
-        "seq": "25",
+        "seq": "26",
         "stop": "2D1C73EF002336DC",
         "stop_name_tc": "欣田邨 (TM487)"
     },
@@ -271827,7 +272003,7 @@
         "route": "NA33",
         "bound": "O",
         "service_type": "1",
-        "seq": "26",
+        "seq": "27",
         "stop": "66C1F17901E91CD9",
         "stop_name_tc": "五柳路 (TM489)"
     },
@@ -271835,17 +272011,9 @@
         "route": "NA33",
         "bound": "O",
         "service_type": "1",
-        "seq": "27",
-        "stop": "CDE9BBBDE0226995",
-        "stop_name_tc": "聚康山莊 (TM145)"
-    },
-    {
-        "route": "NA33",
-        "bound": "O",
-        "service_type": "1",
         "seq": "28",
-        "stop": "CBCE32D56C5263A9",
-        "stop_name_tc": "富泰邨總站 (TM917)"
+        "stop": "5B54D6F8B590E039",
+        "stop_name_tc": "富泰邨 (TM287)"
     },
     {
         "route": "NA36",
@@ -271964,6 +272132,14 @@
         "bound": "I",
         "service_type": "1",
         "seq": "15",
+        "stop": "D424B5C4A9386481",
+        "stop_name_tc": null
+    },
+    {
+        "route": "NA36",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "16",
         "stop": "98197302E98C548E",
         "stop_name_tc": "華都花園 (TM722)"
     },
@@ -271971,7 +272147,7 @@
         "route": "NA36",
         "bound": "I",
         "service_type": "1",
-        "seq": "16",
+        "seq": "17",
         "stop": "C70342BF7C6A4732",
         "stop_name_tc": "屯門赤鱲角隧道轉車站 (A1)"
     },
@@ -271979,7 +272155,7 @@
         "route": "NA36",
         "bound": "I",
         "service_type": "1",
-        "seq": "17",
+        "seq": "18",
         "stop": "0D5759F7A4B185FE",
         "stop_name_tc": "港珠澳大橋旅檢大樓 (落客站)"
     },
@@ -271987,17 +272163,9 @@
         "route": "NA36",
         "bound": "I",
         "service_type": "1",
-        "seq": "18",
+        "seq": "19",
         "stop": "C552CE565E1F0C85",
         "stop_name_tc": "一號客運大樓 (落客站)"
-    },
-    {
-        "route": "NA36",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "19",
-        "stop": "AAC64BCDD5B55A86",
-        "stop_name_tc": "國泰城 (CL221)"
     },
     {
         "route": "NA36",
@@ -272044,6 +272212,14 @@
         "bound": "O",
         "service_type": "1",
         "seq": "6",
+        "stop": "B876788F86A8D127",
+        "stop_name_tc": "新墟街市 (TM131)"
+    },
+    {
+        "route": "NA36",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "7",
         "stop": "D9B82EE66AFF2975",
         "stop_name_tc": "紅橋 (TM134)"
     },
@@ -272051,7 +272227,7 @@
         "route": "NA36",
         "bound": "O",
         "service_type": "1",
-        "seq": "7",
+        "seq": "8",
         "stop": "ADD19B88AA8E99DC",
         "stop_name_tc": "鳳池村 (YL141)"
     },
@@ -272059,7 +272235,15 @@
         "route": "NA36",
         "bound": "O",
         "service_type": "1",
-        "seq": "8",
+        "seq": "9",
+        "stop": "00115688D89603F9",
+        "stop_name_tc": "香港家庭計劃指導會 (YL221)"
+    },
+    {
+        "route": "NA36",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "10",
         "stop": "F87A56BD0A2640ED",
         "stop_name_tc": "元朗廣場 (N2) (YL360)"
     },
@@ -272067,7 +272251,7 @@
         "route": "NA36",
         "bound": "O",
         "service_type": "1",
-        "seq": "9",
+        "seq": "11",
         "stop": "D54B0CA58FE5559D",
         "stop_name_tc": "元朗同樂街 (N12) (YL372)"
     },
@@ -272075,7 +272259,7 @@
         "route": "NA36",
         "bound": "O",
         "service_type": "1",
-        "seq": "10",
+        "seq": "12",
         "stop": "3D566753F149907F",
         "stop_name_tc": "谷亭街 (N17) (YL378)"
     },
@@ -272083,7 +272267,7 @@
         "route": "NA36",
         "bound": "O",
         "service_type": "1",
-        "seq": "11",
+        "seq": "13",
         "stop": "9FB710B737A32C3A",
         "stop_name_tc": "形點 II (YL393)"
     },
@@ -272091,7 +272275,7 @@
         "route": "NA36",
         "bound": "O",
         "service_type": "1",
-        "seq": "12",
+        "seq": "14",
         "stop": "39CA64EA95DEE080",
         "stop_name_tc": "形點 I (YL405)"
     },
@@ -272099,7 +272283,7 @@
         "route": "NA36",
         "bound": "O",
         "service_type": "1",
-        "seq": "13",
+        "seq": "15",
         "stop": "C59B16415222709D",
         "stop_name_tc": "東成里 (YL421)"
     },
@@ -272107,7 +272291,7 @@
         "route": "NA36",
         "bound": "O",
         "service_type": "1",
-        "seq": "14",
+        "seq": "16",
         "stop": "88B9BE4ED93A3292",
         "stop_name_tc": "凹頭 (YL631)"
     },
@@ -272115,25 +272299,9 @@
         "route": "NA36",
         "bound": "O",
         "service_type": "1",
-        "seq": "15",
+        "seq": "17",
         "stop": "7469F3B24F889F1B",
         "stop_name_tc": "下高埔村 (YL634)"
-    },
-    {
-        "route": "NA36",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "16",
-        "stop": "8DBA8FDF35CE7CC0",
-        "stop_name_tc": "高埔村 (YL635)"
-    },
-    {
-        "route": "NA36",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "17",
-        "stop": "FD27DF93530C7540",
-        "stop_name_tc": "錦上路站 (YL863)"
     },
     {
         "route": "NA37",
