@@ -43984,6 +43984,14 @@
         "long": "114.129594"
     },
     {
+        "stop": "D424B5C4A9386481",
+        "name_en": "TUEN YAN STREET TUEN MUN",
+        "name_tc": "屯門屯仁街",
+        "name_sc": "屯门屯仁街",
+        "lat": "22.394185",
+        "long": "113.977084"
+    },
+    {
         "stop": "D429372493B73002",
         "name_en": "WESTLANDS GARDENS",
         "name_tc": "惠安苑",
@@ -47248,6 +47256,14 @@
         "long": "114.191604"
     },
     {
+        "stop": "E43D49B42EAF898B",
+        "name_en": "TUEN MUN FIRE STATION",
+        "name_tc": "屯門消防局",
+        "name_sc": "屯门消防局",
+        "lat": "22.395072",
+        "long": "113.970184"
+    },
+    {
         "stop": "E43D7EE404F2F7AC",
         "name_en": "SUN TIN WAI BUS TERMINUS (TA912)",
         "name_tc": "新田圍巴士總站 (TA912)",
@@ -49750,6 +49766,14 @@
         "name_sc": "长康邨康祥楼 (TY256)",
         "lat": "22.349964",
         "long": "114.100818"
+    },
+    {
+        "stop": "F050648C108571ED",
+        "name_en": "HONG KONG PALACE MUSEUM",
+        "name_tc": "香港故宮文化博物館",
+        "name_sc": "香港故宫文化博物馆",
+        "lat": "22.301530",
+        "long": "114.156018"
     },
     {
         "stop": "F0536729876AA9D0",
