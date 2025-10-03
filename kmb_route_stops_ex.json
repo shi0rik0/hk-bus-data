@@ -37636,8 +37636,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "1",
-        "stop": "C3313FB0649BBD41",
-        "stop_name_tc": "觀塘碼頭 (KT940)"
+        "stop": "D1DCF0AEFDDA4EF0",
+        "stop_name_tc": "觀塘碼頭 (KT936)"
     },
     {
         "route": "23",
@@ -37780,8 +37780,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "19",
-        "stop": "C3313FB0649BBD41",
-        "stop_name_tc": "觀塘碼頭 (KT940)"
+        "stop": "D1DCF0AEFDDA4EF0",
+        "stop_name_tc": "觀塘碼頭 (KT936)"
     },
     {
         "route": "23",
@@ -37876,8 +37876,8 @@
         "bound": "O",
         "service_type": "2",
         "seq": "12",
-        "stop": "C3313FB0649BBD41",
-        "stop_name_tc": "觀塘碼頭 (KT940)"
+        "stop": "D1DCF0AEFDDA4EF0",
+        "stop_name_tc": "觀塘碼頭 (KT936)"
     },
     {
         "route": "230R",
@@ -73604,8 +73604,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "1",
-        "stop": "0D9932C476D51576",
-        "stop_name_tc": "觀塘碼頭 (KT935)"
+        "stop": "53FC6F95C61542C1",
+        "stop_name_tc": "觀塘碼頭 (KT938)"
     },
     {
         "route": "274X",
@@ -113796,8 +113796,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "1",
-        "stop": "7188D2451C5AF461",
-        "stop_name_tc": "觀塘碼頭 (KT941)"
+        "stop": "6F666C5235BD859B",
+        "stop_name_tc": "觀塘碼頭 (KT934)"
     },
     {
         "route": "40P",
@@ -114340,8 +114340,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "31",
-        "stop": "7188D2451C5AF461",
-        "stop_name_tc": "觀塘碼頭 (KT941)"
+        "stop": "6F666C5235BD859B",
+        "stop_name_tc": "觀塘碼頭 (KT934)"
     },
     {
         "route": "40P",
@@ -114500,8 +114500,8 @@
         "bound": "O",
         "service_type": "2",
         "seq": "20",
-        "stop": "7188D2451C5AF461",
-        "stop_name_tc": "觀塘碼頭 (KT941)"
+        "stop": "6F666C5235BD859B",
+        "stop_name_tc": "觀塘碼頭 (KT934)"
     },
     {
         "route": "40X",
@@ -170060,8 +170060,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "12",
-        "stop": "0D9932C476D51576",
-        "stop_name_tc": "觀塘碼頭 (KT935)"
+        "stop": "53FC6F95C61542C1",
+        "stop_name_tc": "觀塘碼頭 (KT938)"
     },
     {
         "route": "74B",
@@ -170364,16 +170364,16 @@
         "bound": "O",
         "service_type": "1",
         "seq": "26",
-        "stop": "0D9932C476D51576",
-        "stop_name_tc": "觀塘碼頭 (KT935)"
+        "stop": "53FC6F95C61542C1",
+        "stop_name_tc": "觀塘碼頭 (KT938)"
     },
     {
         "route": "74D",
         "bound": "I",
         "service_type": "1",
         "seq": "1",
-        "stop": "6F666C5235BD859B",
-        "stop_name_tc": "觀塘碼頭 (KT934)"
+        "stop": "C3313FB0649BBD41",
+        "stop_name_tc": "觀塘碼頭 (KT940)"
     },
     {
         "route": "74D",
@@ -170900,16 +170900,16 @@
         "bound": "O",
         "service_type": "1",
         "seq": "34",
-        "stop": "6F666C5235BD859B",
-        "stop_name_tc": "觀塘碼頭 (KT934)"
+        "stop": "C3313FB0649BBD41",
+        "stop_name_tc": "觀塘碼頭 (KT940)"
     },
     {
         "route": "74E",
         "bound": "I",
         "service_type": "1",
         "seq": "1",
-        "stop": "0D9932C476D51576",
-        "stop_name_tc": "觀塘碼頭 (KT935)"
+        "stop": "C3313FB0649BBD41",
+        "stop_name_tc": "觀塘碼頭 (KT940)"
     },
     {
         "route": "74E",
@@ -171436,8 +171436,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "31",
-        "stop": "0D9932C476D51576",
-        "stop_name_tc": "觀塘碼頭 (KT935)"
+        "stop": "C3313FB0649BBD41",
+        "stop_name_tc": "觀塘碼頭 (KT940)"
     },
     {
         "route": "74F",
@@ -171556,16 +171556,16 @@
         "bound": "I",
         "service_type": "1",
         "seq": "15",
-        "stop": "6F666C5235BD859B",
-        "stop_name_tc": "觀塘碼頭 (KT934)"
+        "stop": "1001A444985DA59D",
+        "stop_name_tc": "觀塘碼頭 (KT939)"
     },
     {
         "route": "74F",
         "bound": "O",
         "service_type": "1",
         "seq": "1",
-        "stop": "6F666C5235BD859B",
-        "stop_name_tc": "觀塘碼頭 (KT934)"
+        "stop": "1001A444985DA59D",
+        "stop_name_tc": "觀塘碼頭 (KT939)"
     },
     {
         "route": "74F",
@@ -172484,8 +172484,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "24",
-        "stop": "6F666C5235BD859B",
-        "stop_name_tc": "觀塘碼頭 (KT934)"
+        "stop": "1001A444985DA59D",
+        "stop_name_tc": "觀塘碼頭 (KT939)"
     },
     {
         "route": "74P",
@@ -172612,16 +172612,16 @@
         "bound": "I",
         "service_type": "2",
         "seq": "16",
-        "stop": "6F666C5235BD859B",
-        "stop_name_tc": "觀塘碼頭 (KT934)"
+        "stop": "1001A444985DA59D",
+        "stop_name_tc": "觀塘碼頭 (KT939)"
     },
     {
         "route": "74P",
         "bound": "O",
         "service_type": "1",
         "seq": "1",
-        "stop": "6F666C5235BD859B",
-        "stop_name_tc": "觀塘碼頭 (KT934)"
+        "stop": "1001A444985DA59D",
+        "stop_name_tc": "觀塘碼頭 (KT939)"
     },
     {
         "route": "74P",
@@ -173572,8 +173572,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "1",
-        "stop": "0D9932C476D51576",
-        "stop_name_tc": "觀塘碼頭 (KT935)"
+        "stop": "53FC6F95C61542C1",
+        "stop_name_tc": "觀塘碼頭 (KT938)"
     },
     {
         "route": "74X",
@@ -173852,8 +173852,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "16",
-        "stop": "0D9932C476D51576",
-        "stop_name_tc": "觀塘碼頭 (KT935)"
+        "stop": "53FC6F95C61542C1",
+        "stop_name_tc": "觀塘碼頭 (KT938)"
     },
     {
         "route": "74X",
@@ -173956,8 +173956,8 @@
         "bound": "O",
         "service_type": "2",
         "seq": "13",
-        "stop": "0D9932C476D51576",
-        "stop_name_tc": "觀塘碼頭 (KT935)"
+        "stop": "53FC6F95C61542C1",
+        "stop_name_tc": "觀塘碼頭 (KT938)"
     },
     {
         "route": "74X",
@@ -174052,8 +174052,8 @@
         "bound": "O",
         "service_type": "3",
         "seq": "12",
-        "stop": "0D9932C476D51576",
-        "stop_name_tc": "觀塘碼頭 (KT935)"
+        "stop": "53FC6F95C61542C1",
+        "stop_name_tc": "觀塘碼頭 (KT938)"
     },
     {
         "route": "75K",
@@ -181420,8 +181420,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "1",
-        "stop": "53FC6F95C61542C1",
-        "stop_name_tc": "觀塘碼頭 (KT938)"
+        "stop": "0D9932C476D51576",
+        "stop_name_tc": "觀塘碼頭 (KT935)"
     },
     {
         "route": "80",
@@ -181820,8 +181820,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "25",
-        "stop": "53FC6F95C61542C1",
-        "stop_name_tc": "觀塘碼頭 (KT938)"
+        "stop": "0D9932C476D51576",
+        "stop_name_tc": "觀塘碼頭 (KT935)"
     },
     {
         "route": "80",
@@ -181972,8 +181972,8 @@
         "bound": "O",
         "service_type": "2",
         "seq": "19",
-        "stop": "53FC6F95C61542C1",
-        "stop_name_tc": "觀塘碼頭 (KT938)"
+        "stop": "0D9932C476D51576",
+        "stop_name_tc": "觀塘碼頭 (KT935)"
     },
     {
         "route": "80A",
@@ -182124,8 +182124,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "19",
-        "stop": "53FC6F95C61542C1",
-        "stop_name_tc": "觀塘碼頭 (KT938)"
+        "stop": "0D9932C476D51576",
+        "stop_name_tc": "觀塘碼頭 (KT935)"
     },
     {
         "route": "80K",
@@ -182524,16 +182524,16 @@
         "bound": "O",
         "service_type": "1",
         "seq": "18",
-        "stop": "53FC6F95C61542C1",
-        "stop_name_tc": "觀塘碼頭 (KT938)"
+        "stop": "0D9932C476D51576",
+        "stop_name_tc": "觀塘碼頭 (KT935)"
     },
     {
         "route": "80X",
         "bound": "I",
         "service_type": "1",
         "seq": "1",
-        "stop": "D1DCF0AEFDDA4EF0",
-        "stop_name_tc": "觀塘碼頭 (KT936)"
+        "stop": "7188D2451C5AF461",
+        "stop_name_tc": "觀塘碼頭 (KT941)"
     },
     {
         "route": "80X",
@@ -182796,8 +182796,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "16",
-        "stop": "D1DCF0AEFDDA4EF0",
-        "stop_name_tc": "觀塘碼頭 (KT936)"
+        "stop": "7188D2451C5AF461",
+        "stop_name_tc": "觀塘碼頭 (KT941)"
     },
     {
         "route": "80X",
@@ -182884,8 +182884,8 @@
         "bound": "O",
         "service_type": "2",
         "seq": "11",
-        "stop": "D1DCF0AEFDDA4EF0",
-        "stop_name_tc": "觀塘碼頭 (KT936)"
+        "stop": "7188D2451C5AF461",
+        "stop_name_tc": "觀塘碼頭 (KT941)"
     },
     {
         "route": "80X",
@@ -183028,8 +183028,8 @@
         "bound": "O",
         "service_type": "3",
         "seq": "18",
-        "stop": "D1DCF0AEFDDA4EF0",
-        "stop_name_tc": "觀塘碼頭 (KT936)"
+        "stop": "7188D2451C5AF461",
+        "stop_name_tc": "觀塘碼頭 (KT941)"
     },
     {
         "route": "81",
@@ -185820,8 +185820,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "12",
-        "stop": "2FCE924121B95FE8",
-        "stop_name_tc": "觀塘碼頭 (KT937)"
+        "stop": "7188D2451C5AF461",
+        "stop_name_tc": "觀塘碼頭 (KT941)"
     },
     {
         "route": "83K",
@@ -186316,8 +186316,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "1",
-        "stop": "2FCE924121B95FE8",
-        "stop_name_tc": "觀塘碼頭 (KT937)"
+        "stop": "7188D2451C5AF461",
+        "stop_name_tc": "觀塘碼頭 (KT941)"
     },
     {
         "route": "83X",
@@ -186476,8 +186476,8 @@
         "bound": "I",
         "service_type": "2",
         "seq": "1",
-        "stop": "2FCE924121B95FE8",
-        "stop_name_tc": "觀塘碼頭 (KT937)"
+        "stop": "7188D2451C5AF461",
+        "stop_name_tc": "觀塘碼頭 (KT941)"
     },
     {
         "route": "83X",
@@ -186732,8 +186732,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "18",
-        "stop": "2FCE924121B95FE8",
-        "stop_name_tc": "觀塘碼頭 (KT937)"
+        "stop": "7188D2451C5AF461",
+        "stop_name_tc": "觀塘碼頭 (KT941)"
     },
     {
         "route": "83X",
@@ -186836,8 +186836,8 @@
         "bound": "O",
         "service_type": "2",
         "seq": "13",
-        "stop": "2FCE924121B95FE8",
-        "stop_name_tc": "觀塘碼頭 (KT937)"
+        "stop": "7188D2451C5AF461",
+        "stop_name_tc": "觀塘碼頭 (KT941)"
     },
     {
         "route": "848",
@@ -210396,8 +210396,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "1",
-        "stop": "1001A444985DA59D",
-        "stop_name_tc": "觀塘碼頭 (KT939)"
+        "stop": "2FCE924121B95FE8",
+        "stop_name_tc": "觀塘碼頭 (KT937)"
     },
     {
         "route": "93A",
@@ -210692,8 +210692,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "17",
-        "stop": "1001A444985DA59D",
-        "stop_name_tc": "觀塘碼頭 (KT939)"
+        "stop": "2FCE924121B95FE8",
+        "stop_name_tc": "觀塘碼頭 (KT937)"
     },
     {
         "route": "93K",
@@ -216036,6 +216036,22 @@
         "bound": "O",
         "service_type": "1",
         "seq": "2",
+        "stop": "B8FBAC0A201E0F2C",
+        "stop_name_tc": "機利文街 (CW778)"
+    },
+    {
+        "route": "960A",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "3",
+        "stop": "16F1654702825C04",
+        "stop_name_tc": "林士街 (CW780)"
+    },
+    {
+        "route": "960A",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "4",
         "stop": "AD97EA183A25102C",
         "stop_name_tc": "西隧轉車站 (B1) (YT603)"
     },
@@ -216043,7 +216059,7 @@
         "route": "960A",
         "bound": "O",
         "service_type": "1",
-        "seq": "3",
+        "seq": "5",
         "stop": "DFE346B2C7332BC0",
         "stop_name_tc": "屯門公路轉車站 (B6) (TM102)"
     },
@@ -216051,7 +216067,7 @@
         "route": "960A",
         "bound": "O",
         "service_type": "1",
-        "seq": "4",
+        "seq": "6",
         "stop": "872110C8ADA14DA1",
         "stop_name_tc": "屯門公路轉車站 (B1) (TM107)"
     },
@@ -216059,7 +216075,7 @@
         "route": "960A",
         "bound": "O",
         "service_type": "1",
-        "seq": "5",
+        "seq": "7",
         "stop": "25BC743BF6EB726E",
         "stop_name_tc": "屯門市廣場 (TM122)"
     },
@@ -216067,7 +216083,7 @@
         "route": "960A",
         "bound": "O",
         "service_type": "1",
-        "seq": "6",
+        "seq": "8",
         "stop": "7AC6625D894BA101",
         "stop_name_tc": "新墟街市 (TM130)"
     },
@@ -216075,7 +216091,7 @@
         "route": "960A",
         "bound": "O",
         "service_type": "1",
-        "seq": "7",
+        "seq": "9",
         "stop": "CBE54DB551C24A02",
         "stop_name_tc": "紅橋 (TM133)"
     },
@@ -216083,7 +216099,7 @@
         "route": "960A",
         "bound": "O",
         "service_type": "1",
-        "seq": "8",
+        "seq": "10",
         "stop": "78B537644BD4FE00",
         "stop_name_tc": "建生邨樂生樓 (TM376)"
     },
@@ -216091,7 +216107,7 @@
         "route": "960A",
         "bound": "O",
         "service_type": "1",
-        "seq": "9",
+        "seq": "11",
         "stop": "542CC0EC83BAEA01",
         "stop_name_tc": "新圍苑 (TM380)"
     },
@@ -216099,7 +216115,7 @@
         "route": "960A",
         "bound": "O",
         "service_type": "1",
-        "seq": "10",
+        "seq": "12",
         "stop": "840532B7C95DF870",
         "stop_name_tc": "兆邦苑 (TM382)"
     },
@@ -216107,7 +216123,7 @@
         "route": "960A",
         "bound": "O",
         "service_type": "1",
-        "seq": "11",
+        "seq": "13",
         "stop": "315BE0CA231DCD4F",
         "stop_name_tc": "寶田轉車站 - 寶田 (T2) (TM190)"
     },
@@ -216115,7 +216131,7 @@
         "route": "960A",
         "bound": "O",
         "service_type": "1",
-        "seq": "12",
+        "seq": "14",
         "stop": "EDF4C2EAFDBD4693",
         "stop_name_tc": "大興警署 (TM550)"
     },
@@ -216123,7 +216139,7 @@
         "route": "960A",
         "bound": "O",
         "service_type": "1",
-        "seq": "13",
+        "seq": "15",
         "stop": "12CF2025741EF844",
         "stop_name_tc": "麒麟圍 (TM485)"
     },
@@ -216131,7 +216147,7 @@
         "route": "960A",
         "bound": "O",
         "service_type": "1",
-        "seq": "14",
+        "seq": "16",
         "stop": "580D52F4D93CAD9B",
         "stop_name_tc": "欣田邨 (TM488)"
     },
@@ -216139,7 +216155,7 @@
         "route": "960A",
         "bound": "O",
         "service_type": "1",
-        "seq": "15",
+        "seq": "17",
         "stop": "3199543D3AE70527",
         "stop_name_tc": "五柳路 (TM490)"
     },
@@ -216147,7 +216163,7 @@
         "route": "960A",
         "bound": "O",
         "service_type": "1",
-        "seq": "16",
+        "seq": "18",
         "stop": "F1D1F84A466543BE",
         "stop_name_tc": "富泰邨 (TM286)"
     },
@@ -216155,7 +216171,7 @@
         "route": "960A",
         "bound": "O",
         "service_type": "1",
-        "seq": "17",
+        "seq": "19",
         "stop": "CDE9BBBDE0226995",
         "stop_name_tc": "聚康山莊 (TM145)"
     },
@@ -216163,65 +216179,9 @@
         "route": "960A",
         "bound": "O",
         "service_type": "1",
-        "seq": "18",
-        "stop": "7FE552E3792C9047",
-        "stop_name_tc": "藍地站 (TM340)"
-    },
-    {
-        "route": "960A",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "19",
-        "stop": "5587F6CBEF8C74F1",
-        "stop_name_tc": "青磚圍 (TM342)"
-    },
-    {
-        "route": "960A",
-        "bound": "O",
-        "service_type": "1",
         "seq": "20",
-        "stop": "468DB19F9ECA7507",
-        "stop_name_tc": "泥圍站 (TM344)"
-    },
-    {
-        "route": "960A",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "21",
-        "stop": "030A0F57C577B5EA",
-        "stop_name_tc": "亦園村 (TM346)"
-    },
-    {
-        "route": "960A",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "22",
-        "stop": "F1A6B3410C090751",
-        "stop_name_tc": "鍾屋村站 (TM348)"
-    },
-    {
-        "route": "960A",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "23",
-        "stop": "0BFC5F7FC4A2D431",
-        "stop_name_tc": "洪水橋站 (YL350)"
-    },
-    {
-        "route": "960A",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "24",
-        "stop": "595CE3974AB6F377",
-        "stop_name_tc": "洪水橋(洪元路)總站 (YL910)"
-    },
-    {
-        "route": "960A",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "25",
-        "stop": "55E3A1A6E995A9CB",
-        "stop_name_tc": "洪水橋(洪福邨)總站 (YL903)"
+        "stop": "664C6FCE94BB37FD",
+        "stop_name_tc": "富泰邨總站 (TM916)"
     },
     {
         "route": "960B",
@@ -232725,7 +232685,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "A1843D30B9F347DE",
-        "stop_name_tc": "尚城 (YL268)"
+        "stop_name_tc": "尚城"
     },
     {
         "route": "A34",
@@ -233157,7 +233117,7 @@
         "service_type": "3",
         "seq": "3",
         "stop": "A1843D30B9F347DE",
-        "stop_name_tc": "尚城 (YL268)"
+        "stop_name_tc": "尚城"
     },
     {
         "route": "A34",
@@ -272933,7 +272893,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "A1843D30B9F347DE",
-        "stop_name_tc": "尚城 (YL268)"
+        "stop_name_tc": "尚城"
     },
     {
         "route": "NA37",
@@ -281348,8 +281308,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "1",
-        "stop": "0D9932C476D51576",
-        "stop_name_tc": "觀塘碼頭 (KT935)"
+        "stop": "53FC6F95C61542C1",
+        "stop_name_tc": "觀塘碼頭 (KT938)"
     },
     {
         "route": "T74",
@@ -281764,8 +281724,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "28",
-        "stop": "0D9932C476D51576",
-        "stop_name_tc": "觀塘碼頭 (KT935)"
+        "stop": "53FC6F95C61542C1",
+        "stop_name_tc": "觀塘碼頭 (KT938)"
     },
     {
         "route": "T80",
@@ -284980,8 +284940,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "1",
-        "stop": "53FC6F95C61542C1",
-        "stop_name_tc": "觀塘碼頭 (KT938)"
+        "stop": "0D9932C476D51576",
+        "stop_name_tc": "觀塘碼頭 (KT935)"
     },
     {
         "route": "X89D",
@@ -285188,8 +285148,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "14",
-        "stop": "53FC6F95C61542C1",
-        "stop_name_tc": "觀塘碼頭 (KT938)"
+        "stop": "0D9932C476D51576",
+        "stop_name_tc": "觀塘碼頭 (KT935)"
     },
     {
         "route": "X89D",
