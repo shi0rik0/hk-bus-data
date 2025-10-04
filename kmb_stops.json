@@ -2649,9 +2649,9 @@
     },
     {
         "stop": "0E2B8E1D544C6889",
-        "name_en": "YUEN LONG POLICE STATION (S12) (YL256)",
-        "name_tc": "元朗警署 (S12) (YL256)",
-        "name_sc": "元朗警署 (S12) (YL256)",
+        "name_en": "YUEN LONG POLICE STATION (YL256)",
+        "name_tc": "元朗警署 (YL256)",
+        "name_sc": "元朗警署 (YL256)",
         "lat": "22.444429",
         "long": "114.023959"
     },
@@ -4041,9 +4041,9 @@
     },
     {
         "stop": "14157BA5C06B0B6B",
-        "name_en": "YOHO MIX (Platform Y1) (YL243)",
-        "name_tc": "元點 (Y1 月台) (YL243)",
-        "name_sc": "元点 (Y1 月台) (YL243)",
+        "name_en": "YOHO MIX (YL243)",
+        "name_tc": "元點 (YL243)",
+        "name_sc": "元点 (YL243)",
         "lat": "22.444403",
         "long": "114.034469"
     },
@@ -5553,9 +5553,9 @@
     },
     {
         "stop": "1B0FD9C27F5FE0BE",
-        "name_en": "YUEN LONG POLICE STATION (S14) (YL258)",
-        "name_tc": "元朗警署 (S14) (YL258)",
-        "name_sc": "元朗警署 (S14) (YL258)",
+        "name_en": "YUEN LONG POLICE STATION (YL258)",
+        "name_tc": "元朗警署 (YL258)",
+        "name_sc": "元朗警署 (YL258)",
         "lat": "22.444452",
         "long": "114.023955"
     },
@@ -6129,9 +6129,9 @@
     },
     {
         "stop": "1DBADE3376C4149E",
-        "name_en": "YUEN LONG POLICE STATION (S13) (YL257)",
-        "name_tc": "元朗警署 (S13) (YL257)",
-        "name_sc": "元朗警署 (S13) (YL257)",
+        "name_en": "YUEN LONG POLICE STATION (YL257)",
+        "name_tc": "元朗警署 (YL257)",
+        "name_sc": "元朗警署 (YL257)",
         "lat": "22.444466",
         "long": "114.023938"
     },
@@ -6169,9 +6169,9 @@
     },
     {
         "stop": "1DEFCF90AB170FD7",
-        "name_en": "TUNG LOK STREET YUEN LONG (N11) (YL371)",
-        "name_tc": "元朗同樂街 (N11) (YL371)",
-        "name_sc": "元朗同乐街 (N11) (YL371)",
+        "name_en": "TUNG LOK STREET YUEN LONG (YL371)",
+        "name_tc": "元朗同樂街 (YL371)",
+        "name_sc": "元朗同乐街 (YL371)",
         "lat": "22.444616",
         "long": "114.028346"
     },
@@ -6945,9 +6945,9 @@
     },
     {
         "stop": "21DA1E33BF580B96",
-        "name_en": "YOHO MIX (C1) (YL244)",
-        "name_tc": "元點 (C1) (YL244)",
-        "name_sc": "元点 (C1) (YL244)",
+        "name_en": "YOHO MIX (YL244)",
+        "name_tc": "元點 (YL244)",
+        "name_sc": "元点 (YL244)",
         "lat": "22.444520",
         "long": "114.033402"
     },
@@ -7217,9 +7217,9 @@
     },
     {
         "stop": "22D525468860D203",
-        "name_en": "HI LEE PATH YUEN LONG (N6) (YL365)",
-        "name_tc": "元朗喜利徑 (N6) (YL365)",
-        "name_sc": "元朗喜利径 (N6) (YL365)",
+        "name_en": "HI LEE PATH YUEN LONG (YL365)",
+        "name_tc": "元朗喜利徑 (YL365)",
+        "name_sc": "元朗喜利径 (YL365)",
         "lat": "22.444662",
         "long": "114.025534"
     },
@@ -9889,9 +9889,9 @@
     },
     {
         "stop": "2FB355A2C89B7922",
-        "name_en": "TUNG LOK STREET YUEN LONG (N8) (YL368)",
-        "name_tc": "元朗同樂街 (N8) (YL368)",
-        "name_sc": "元朗同乐街 (N8) (YL368)",
+        "name_en": "TUNG LOK STREET YUEN LONG (YL368)",
+        "name_tc": "元朗同樂街 (YL368)",
+        "name_sc": "元朗同乐街 (YL368)",
         "lat": "22.444569",
         "long": "114.027507"
     },
@@ -12897,9 +12897,9 @@
     },
     {
         "stop": "3D566753F149907F",
-        "name_en": "KUK TING STREET (N17) (YL378)",
-        "name_tc": "谷亭街 (N17) (YL378)",
-        "name_sc": "谷亭街 (N17) (YL378)",
+        "name_en": "KUK TING STREET (YL378)",
+        "name_tc": "谷亭街 (YL378)",
+        "name_sc": "谷亭街 (YL378)",
         "lat": "22.444578",
         "long": "114.030375"
     },
@@ -14393,9 +14393,9 @@
     },
     {
         "stop": "43E5D3A445382F82",
-        "name_en": "TAI TONG ROAD YUEN LONG (S8) (YL252)",
-        "name_tc": "元朗大棠路 (S8) (YL252)",
-        "name_sc": "元朗大棠路 (S8) (YL252)",
+        "name_en": "TAI TONG ROAD YUEN LONG (YL252)",
+        "name_tc": "元朗大棠路 (YL252)",
+        "name_sc": "元朗大棠路 (YL252)",
         "lat": "22.444344",
         "long": "114.028219"
     },
@@ -14513,9 +14513,9 @@
     },
     {
         "stop": "445B2A02DB891CA9",
-        "name_en": "KUK TING STREET YUEN LONG (N14) (YL375)",
-        "name_tc": "元朗谷亭街 (N14) (YL375)",
-        "name_sc": "元朗谷亭街 (N14) (YL375)",
+        "name_en": "KUK TING STREET YUEN LONG (YL375)",
+        "name_tc": "元朗谷亭街 (YL375)",
+        "name_sc": "元朗谷亭街 (YL375)",
         "lat": "22.444580",
         "long": "114.030435"
     },
@@ -15561,9 +15561,9 @@
     },
     {
         "stop": "48FBCEF0B05599F8",
-        "name_en": "HI LEE PATH YUEN LONG (N7) (YL367)",
-        "name_tc": "元朗喜利徑 (N7) (YL367)",
-        "name_sc": "元朗喜利径 (N7) (YL367)",
+        "name_en": "HI LEE PATH YUEN LONG (YL367)",
+        "name_tc": "元朗喜利徑 (YL367)",
+        "name_sc": "元朗喜利径 (YL367)",
         "lat": "22.444661",
         "long": "114.025612"
     },
@@ -16745,9 +16745,9 @@
     },
     {
         "stop": "4EE417C5EF5FEF4E",
-        "name_en": "HI LEE PATH YUEN LONG (N5) (YL364)",
-        "name_tc": "元朗喜利徑 (N5) (YL364)",
-        "name_sc": "元朗喜利径 (N5) (YL364)",
+        "name_en": "HI LEE PATH YUEN LONG (YL364)",
+        "name_tc": "元朗喜利徑 (YL364)",
+        "name_sc": "元朗喜利径 (YL364)",
         "lat": "22.444659",
         "long": "114.025457"
     },
@@ -17361,9 +17361,9 @@
     },
     {
         "stop": "51BD0FD05C62F3F4",
-        "name_en": "KUK TING STREET YUEN LONG (N13) (YL374)",
-        "name_tc": "元朗谷亭街 (N13) (YL374)",
-        "name_sc": "元朗谷亭街 (N13) (YL374)",
+        "name_en": "KUK TING STREET YUEN LONG (YL374)",
+        "name_tc": "元朗谷亭街 (YL374)",
+        "name_sc": "元朗谷亭街 (YL374)",
         "lat": "22.444579",
         "long": "114.030320"
     },
@@ -17529,9 +17529,9 @@
     },
     {
         "stop": "52656E6A7D0EB9E4",
-        "name_en": "KUK TING STREET YUEN LONG (N18) (YL379)",
-        "name_tc": "元朗谷亭街 (N18) (YL379)",
-        "name_sc": "元朗谷亭街 (N18) (YL379)",
+        "name_en": "KUK TING STREET YUEN LONG (YL379)",
+        "name_tc": "元朗谷亭街 (YL379)",
+        "name_sc": "元朗谷亭街 (YL379)",
         "lat": "22.444518",
         "long": "114.031179"
     },
@@ -20321,7 +20321,7 @@
     },
     {
         "stop": "5FE1FD252713A49B",
-        "name_en": "CATHAY CITY (CL342)",
+        "name_en": "CATHAY PACIFIC CITY (CL342)",
         "name_tc": "國泰城 (CL342)",
         "name_sc": "国泰城 (CL342)",
         "lat": "22.297608",
@@ -20385,9 +20385,9 @@
     },
     {
         "stop": "605B05317A40A2A4",
-        "name_en": "YAU SAN STREET YUEN LONG (S2) (YL246)",
-        "name_tc": "元朗又新街 (S2) (YL246)",
-        "name_sc": "元朗又新街 (S2) (YL246)",
+        "name_en": "YAU SAN STREET YUEN LONG (YL246)",
+        "name_tc": "元朗又新街 (YL246)",
+        "name_sc": "元朗又新街 (YL246)",
         "lat": "22.444293",
         "long": "114.031066"
     },
@@ -20841,9 +20841,9 @@
     },
     {
         "stop": "6258E0091BFF52C3",
-        "name_en": "HI LEE PATH YUEN LONG (N7) (YL366)",
-        "name_tc": "元朗喜利徑 (N7) (YL366)",
-        "name_sc": "元朗喜利径 (N7) (YL366)",
+        "name_en": "HI LEE PATH YUEN LONG (YL366)",
+        "name_tc": "元朗喜利徑 (YL366)",
+        "name_sc": "元朗喜利径 (YL366)",
         "lat": "22.444661",
         "long": "114.025612"
     },
@@ -22633,9 +22633,9 @@
     },
     {
         "stop": "6A4B371546D489BF",
-        "name_en": "YOHO MALL I (A3) (YL242)",
-        "name_tc": "形點 I (A3) (YL242)",
-        "name_sc": "形点 I (A3) (YL242)",
+        "name_en": "YOHO MALL I (YL242)",
+        "name_tc": "形點 I (YL242)",
+        "name_sc": "形点 I (YL242)",
         "lat": "22.444324",
         "long": "114.035984"
     },
@@ -23473,9 +23473,9 @@
     },
     {
         "stop": "6E85D42922E5A10C",
-        "name_en": "YUEN LONG PLAZA (N1) (YL359)",
-        "name_tc": "元朗廣場 (N1) (YL359)",
-        "name_sc": "元朗广场 (N1) (YL359)",
+        "name_en": "YUEN LONG PLAZA (YL359)",
+        "name_tc": "元朗廣場 (YL359)",
+        "name_sc": "元朗广场 (YL359)",
         "lat": "22.444678",
         "long": "114.023992"
     },
@@ -24729,9 +24729,9 @@
     },
     {
         "stop": "74C51A8A3D783F40",
-        "name_en": "TAI TONG ROAD YUEN LONG (S9) (YL253)",
-        "name_tc": "元朗大棠路 (S9) (YL253)",
-        "name_sc": "元朗大棠路 (S9) (YL253)",
+        "name_en": "TAI TONG ROAD YUEN LONG (YL253)",
+        "name_tc": "元朗大棠路 (YL253)",
+        "name_sc": "元朗大棠路 (YL253)",
         "lat": "22.444356",
         "long": "114.027829"
     },
@@ -25465,9 +25465,9 @@
     },
     {
         "stop": "78AD2432201EF5EE",
-        "name_en": "TAI TONG ROAD YUEN LONG (S7) (YL251)",
-        "name_tc": "元朗大棠路 (S7) (YL251)",
-        "name_sc": "元朗大棠路 (S7) (YL251)",
+        "name_en": "TAI TONG ROAD YUEN LONG (YL251)",
+        "name_tc": "元朗大棠路 (YL251)",
+        "name_sc": "元朗大棠路 (YL251)",
         "lat": "22.444342",
         "long": "114.028334"
     },
@@ -25945,9 +25945,9 @@
     },
     {
         "stop": "7B93AB79165E79E6",
-        "name_en": "YOHO MALL I (A2) (YL241)",
-        "name_tc": "形點 I (A2) (YL241)",
-        "name_sc": "形点 I (A2) (YL241)",
+        "name_en": "YOHO MALL (YL241)",
+        "name_tc": "形點 I (YL241)",
+        "name_sc": "形点 I (YL241)",
         "lat": "22.444276",
         "long": "114.036040"
     },
@@ -29137,9 +29137,9 @@
     },
     {
         "stop": "8BE58FAD7E9C94C7",
-        "name_en": "HONG LOK ROAD (S11) (YL255)",
-        "name_tc": "康樂路 (S11) (YL255)",
-        "name_sc": "康乐路 (S11) (YL255)",
+        "name_en": "HONG LOK ROAD (YL255)",
+        "name_tc": "康樂路 (YL255)",
+        "name_sc": "康乐路 (YL255)",
         "lat": "22.444383",
         "long": "114.026050"
     },
@@ -36033,9 +36033,9 @@
     },
     {
         "stop": "AC935792C88AF135",
-        "name_en": "YAU SAN STREET YUEN LONG (S5) (YL249)",
-        "name_tc": "元朗又新街 (S5) (YL249)",
-        "name_sc": "元朗又新街 (S5) (YL249)",
+        "name_en": "YAU SAN STREET YUEN LONG (YL249)",
+        "name_tc": "元朗又新街 (YL249)",
+        "name_sc": "元朗又新街 (YL249)",
         "lat": "22.444300",
         "long": "114.030811"
     },
@@ -36185,9 +36185,9 @@
     },
     {
         "stop": "AD4CB5E1CAAF8063",
-        "name_en": "KUK TING STREET YUEN LONG (N15) (YL376)",
-        "name_tc": "元朗谷亭街 (N15) (YL376)",
-        "name_sc": "元朗谷亭街 (N15) (YL376)",
+        "name_en": "KUK TING STREET YUEN LONG (YL376)",
+        "name_tc": "元朗谷亭街 (YL376)",
+        "name_sc": "元朗谷亭街 (YL376)",
         "lat": "22.444525",
         "long": "114.030933"
     },
@@ -36681,9 +36681,9 @@
     },
     {
         "stop": "B02B0B9F73E50D93",
-        "name_en": "YUEN LONG PLAZA (N3) (YL362)",
-        "name_tc": "元朗廣場 (N3) (YL362)",
-        "name_sc": "元朗广场 (N3) (YL362)",
+        "name_en": "YUEN LONG PLAZA (YL362)",
+        "name_tc": "元朗廣場 (YL362)",
+        "name_sc": "元朗广场 (YL362)",
         "lat": "22.444678",
         "long": "114.023992"
     },
@@ -38217,9 +38217,9 @@
     },
     {
         "stop": "B802C4681F58E3E2",
-        "name_en": "YAU SAN STREET (S1) (YL245)",
-        "name_tc": "又新街 (S1) (YL245)",
-        "name_sc": "又新街 (S1) (YL245)",
+        "name_en": "YAU SAN STREET (YL245)",
+        "name_tc": "又新街 (YL245)",
+        "name_sc": "又新街 (YL245)",
         "lat": "22.444292",
         "long": "114.031170"
     },
@@ -39737,9 +39737,9 @@
     },
     {
         "stop": "BF85B8D218CD0FF6",
-        "name_en": "YUEN LONG PLAZA (N4) (YL363)",
-        "name_tc": "元朗廣場 (N4) (YL363)",
-        "name_sc": "元朗广场 (N4) (YL363)",
+        "name_en": "YUEN LONG PLAZA (YL363)",
+        "name_tc": "元朗廣場 (YL363)",
+        "name_sc": "元朗广场 (YL363)",
         "lat": "22.444678",
         "long": "114.023858"
     },
@@ -40497,9 +40497,9 @@
     },
     {
         "stop": "C296D9B3313C1F77",
-        "name_en": "TUNG LOK STREET YUEN LONG (N9) (YL369)",
-        "name_tc": "元朗同樂街 (N9) (YL369)",
-        "name_sc": "元朗同乐街 (N9) (YL369)",
+        "name_en": "TUNG LOK STREET YUEN LONG (YL369)",
+        "name_tc": "元朗同樂街 (YL369)",
+        "name_sc": "元朗同乐街 (YL369)",
         "lat": "22.444617",
         "long": "114.028259"
     },
@@ -42465,9 +42465,9 @@
     },
     {
         "stop": "CCBBE2779B1765C4",
-        "name_en": "YAU SAN STREET YUEN LONG (S4) (YL248)",
-        "name_tc": "元朗又新街 (S4) (YL248)",
-        "name_sc": "元朗又新街 (S4) (YL248)",
+        "name_en": "YAU SAN STREET YUEN LONG (YL248)",
+        "name_tc": "元朗又新街 (YL248)",
+        "name_sc": "元朗又新街 (YL248)",
         "lat": "22.444299",
         "long": "114.030887"
     },
@@ -44257,9 +44257,9 @@
     },
     {
         "stop": "D54B0CA58FE5559D",
-        "name_en": "TUNG LOK STREET YUEN LONG (N12) (YL372)",
-        "name_tc": "元朗同樂街 (N12) (YL372)",
-        "name_sc": "元朗同乐街 (N12) (YL372)",
+        "name_en": "TUNG LOK STREET YUEN LONG (YL372)",
+        "name_tc": "元朗同樂街 (YL372)",
+        "name_sc": "元朗同乐街 (YL372)",
         "lat": "22.444616",
         "long": "114.028395"
     },
@@ -44657,9 +44657,9 @@
     },
     {
         "stop": "D747ADD80335605C",
-        "name_en": "TUNG LOK STREET YUEN LONG (N10) (YL370)",
-        "name_tc": "元朗同樂街 (N10) (YL370)",
-        "name_sc": "元朗同乐街 (N10) (YL370)",
+        "name_en": "TUNG LOK STREET YUEN LONG (YL370)",
+        "name_tc": "元朗同樂街 (YL370)",
+        "name_sc": "元朗同乐街 (YL370)",
         "lat": "22.444616",
         "long": "114.028298"
     },
@@ -45225,9 +45225,9 @@
     },
     {
         "stop": "D9CE618F99BAC2B6",
-        "name_en": "HONG LOK ROAD YUEN LONG (S10) (YL254)",
-        "name_tc": "元朗康樂路 (S10) (YL254)",
-        "name_sc": "元朗康乐路 (S10) (YL254)",
+        "name_en": "HONG LOK ROAD YUEN LONG (YL254)",
+        "name_tc": "元朗康樂路 (YL254)",
+        "name_sc": "元朗康乐路 (YL254)",
         "lat": "22.444365",
         "long": "114.026102"
     },
@@ -47793,9 +47793,9 @@
     },
     {
         "stop": "E7057BF64CF7D89D",
-        "name_en": "YOHO MALL I (A1) (YL240)",
-        "name_tc": "形點 I (A1) (YL240)",
-        "name_sc": "形点 I (A1) (YL240)",
+        "name_en": "YOHO MALL I (YL240)",
+        "name_tc": "形點 I (YL240)",
+        "name_sc": "形点 I (YL240)",
         "lat": "22.444324",
         "long": "114.035984"
     },
@@ -51137,9 +51137,9 @@
     },
     {
         "stop": "F63C4B8B958E9830",
-        "name_en": "YAU SAN STREET YUEN LONG (S3) (YL247)",
-        "name_tc": "元朗又新街 (S3) (YL247)",
-        "name_sc": "元朗又新街 (S3) (YL247)",
+        "name_en": "YAU SAN STREET YUEN LONG (YL247)",
+        "name_tc": "元朗又新街 (YL247)",
+        "name_sc": "元朗又新街 (YL247)",
         "lat": "22.444298",
         "long": "114.030970"
     },
@@ -51737,9 +51737,9 @@
     },
     {
         "stop": "F87A56BD0A2640ED",
-        "name_en": "YUEN LONG PLAZA (N2) (YL360)",
-        "name_tc": "元朗廣場 (N2) (YL360)",
-        "name_sc": "元朗广场 (N2) (YL360)",
+        "name_en": "YUEN LONG PLAZA (YL360)",
+        "name_tc": "元朗廣場 (YL360)",
+        "name_sc": "元朗广场 (YL360)",
         "lat": "22.444681",
         "long": "114.023872"
     },
@@ -51889,9 +51889,9 @@
     },
     {
         "stop": "F8DED1E04A074504",
-        "name_en": "TAI TONG ROAD (S6) (YL250)",
-        "name_tc": "大棠路 (S6) (YL250)",
-        "name_sc": "大棠路 (S6) (YL250)",
+        "name_en": "TAI TONG ROAD (YL250)",
+        "name_tc": "大棠路 (YL250)",
+        "name_sc": "大棠路 (YL250)",
         "lat": "22.444354",
         "long": "114.028391"
     },
@@ -53073,9 +53073,9 @@
     },
     {
         "stop": "FEE97828AB584E76",
-        "name_en": "KUK TING STREET YUEN LONG (N16) (YL377)",
-        "name_tc": "元朗谷亭街 (N16) (YL377)",
-        "name_sc": "元朗谷亭街 (N16) (YL377)",
+        "name_en": "KUK TING STREET YUEN LONG (YL377)",
+        "name_tc": "元朗谷亭街 (YL377)",
+        "name_sc": "元朗谷亭街 (YL377)",
         "lat": "22.444575",
         "long": "114.031020"
     },

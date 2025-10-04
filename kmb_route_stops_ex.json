@@ -45261,7 +45261,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "6A4B371546D489BF",
-        "stop_name_tc": "形點 I (A3) (YL242)"
+        "stop_name_tc": "形點 I (YL242)"
     },
     {
         "route": "251C",
@@ -45269,7 +45269,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "AC935792C88AF135",
-        "stop_name_tc": "元朗又新街 (S5) (YL249)"
+        "stop_name_tc": "元朗又新街 (YL249)"
     },
     {
         "route": "251C",
@@ -45277,7 +45277,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "43E5D3A445382F82",
-        "stop_name_tc": "元朗大棠路 (S8) (YL252)"
+        "stop_name_tc": "元朗大棠路 (YL252)"
     },
     {
         "route": "251C",
@@ -45285,7 +45285,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "D9CE618F99BAC2B6",
-        "stop_name_tc": "元朗康樂路 (S10) (YL254)"
+        "stop_name_tc": "元朗康樂路 (YL254)"
     },
     {
         "route": "251C",
@@ -45301,7 +45301,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "6E85D42922E5A10C",
-        "stop_name_tc": "元朗廣場 (N1) (YL359)"
+        "stop_name_tc": "元朗廣場 (YL359)"
     },
     {
         "route": "251C",
@@ -45309,7 +45309,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "D54B0CA58FE5559D",
-        "stop_name_tc": "元朗同樂街 (N12) (YL372)"
+        "stop_name_tc": "元朗同樂街 (YL372)"
     },
     {
         "route": "251C",
@@ -45317,7 +45317,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "445B2A02DB891CA9",
-        "stop_name_tc": "元朗谷亭街 (N14) (YL375)"
+        "stop_name_tc": "元朗谷亭街 (YL375)"
     },
     {
         "route": "251C",
@@ -54333,7 +54333,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "6A4B371546D489BF",
-        "stop_name_tc": "形點 I (A3) (YL242)"
+        "stop_name_tc": "形點 I (YL242)"
     },
     {
         "route": "264R",
@@ -54341,7 +54341,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "F63C4B8B958E9830",
-        "stop_name_tc": "元朗又新街 (S3) (YL247)"
+        "stop_name_tc": "元朗又新街 (YL247)"
     },
     {
         "route": "264R",
@@ -54349,7 +54349,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "78AD2432201EF5EE",
-        "stop_name_tc": "元朗大棠路 (S7) (YL251)"
+        "stop_name_tc": "元朗大棠路 (YL251)"
     },
     {
         "route": "264R",
@@ -54357,7 +54357,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "1B0FD9C27F5FE0BE",
-        "stop_name_tc": "元朗警署 (S14) (YL258)"
+        "stop_name_tc": "元朗警署 (YL258)"
     },
     {
         "route": "264R",
@@ -54589,7 +54589,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "6E85D42922E5A10C",
-        "stop_name_tc": "元朗廣場 (N1) (YL359)"
+        "stop_name_tc": "元朗廣場 (YL359)"
     },
     {
         "route": "264R",
@@ -54597,7 +54597,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "D54B0CA58FE5559D",
-        "stop_name_tc": "元朗同樂街 (N12) (YL372)"
+        "stop_name_tc": "元朗同樂街 (YL372)"
     },
     {
         "route": "264R",
@@ -54605,7 +54605,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "445B2A02DB891CA9",
-        "stop_name_tc": "元朗谷亭街 (N14) (YL375)"
+        "stop_name_tc": "元朗谷亭街 (YL375)"
     },
     {
         "route": "264R",
@@ -56133,7 +56133,7 @@
         "service_type": "2",
         "seq": "17",
         "stop": "6E85D42922E5A10C",
-        "stop_name_tc": "元朗廣場 (N1) (YL359)"
+        "stop_name_tc": "元朗廣場 (YL359)"
     },
     {
         "route": "265S",
@@ -56141,7 +56141,7 @@
         "service_type": "2",
         "seq": "18",
         "stop": "D54B0CA58FE5559D",
-        "stop_name_tc": "元朗同樂街 (N12) (YL372)"
+        "stop_name_tc": "元朗同樂街 (YL372)"
     },
     {
         "route": "265S",
@@ -56149,7 +56149,7 @@
         "service_type": "2",
         "seq": "19",
         "stop": "445B2A02DB891CA9",
-        "stop_name_tc": "元朗谷亭街 (N14) (YL375)"
+        "stop_name_tc": "元朗谷亭街 (YL375)"
     },
     {
         "route": "265S",
@@ -57061,7 +57061,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "21DA1E33BF580B96",
-        "stop_name_tc": "元點 (C1) (YL244)"
+        "stop_name_tc": "元點 (YL244)"
     },
     {
         "route": "268A",
@@ -57421,7 +57421,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "21DA1E33BF580B96",
-        "stop_name_tc": "元點 (C1) (YL244)"
+        "stop_name_tc": "元點 (YL244)"
     },
     {
         "route": "268B",
@@ -57429,7 +57429,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "CCBBE2779B1765C4",
-        "stop_name_tc": "元朗又新街 (S4) (YL248)"
+        "stop_name_tc": "元朗又新街 (YL248)"
     },
     {
         "route": "268B",
@@ -57437,7 +57437,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "74C51A8A3D783F40",
-        "stop_name_tc": "元朗大棠路 (S9) (YL253)"
+        "stop_name_tc": "元朗大棠路 (YL253)"
     },
     {
         "route": "268B",
@@ -57445,7 +57445,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "0E2B8E1D544C6889",
-        "stop_name_tc": "元朗警署 (S12) (YL256)"
+        "stop_name_tc": "元朗警署 (YL256)"
     },
     {
         "route": "268B",
@@ -57541,7 +57541,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "22D525468860D203",
-        "stop_name_tc": "元朗喜利徑 (N6) (YL365)"
+        "stop_name_tc": "元朗喜利徑 (YL365)"
     },
     {
         "route": "268B",
@@ -57549,7 +57549,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "C296D9B3313C1F77",
-        "stop_name_tc": "元朗同樂街 (N9) (YL369)"
+        "stop_name_tc": "元朗同樂街 (YL369)"
     },
     {
         "route": "268B",
@@ -57733,7 +57733,7 @@
         "service_type": "3",
         "seq": "11",
         "stop": "22D525468860D203",
-        "stop_name_tc": "元朗喜利徑 (N6) (YL365)"
+        "stop_name_tc": "元朗喜利徑 (YL365)"
     },
     {
         "route": "268B",
@@ -57741,7 +57741,7 @@
         "service_type": "3",
         "seq": "12",
         "stop": "C296D9B3313C1F77",
-        "stop_name_tc": "元朗同樂街 (N9) (YL369)"
+        "stop_name_tc": "元朗同樂街 (YL369)"
     },
     {
         "route": "268B",
@@ -57997,7 +57997,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "21DA1E33BF580B96",
-        "stop_name_tc": "元點 (C1) (YL244)"
+        "stop_name_tc": "元點 (YL244)"
     },
     {
         "route": "268C",
@@ -58005,7 +58005,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "CCBBE2779B1765C4",
-        "stop_name_tc": "元朗又新街 (S4) (YL248)"
+        "stop_name_tc": "元朗又新街 (YL248)"
     },
     {
         "route": "268C",
@@ -58013,7 +58013,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "74C51A8A3D783F40",
-        "stop_name_tc": "元朗大棠路 (S9) (YL253)"
+        "stop_name_tc": "元朗大棠路 (YL253)"
     },
     {
         "route": "268C",
@@ -58021,7 +58021,7 @@
         "service_type": "1",
         "seq": "23",
         "stop": "0E2B8E1D544C6889",
-        "stop_name_tc": "元朗警署 (S12) (YL256)"
+        "stop_name_tc": "元朗警署 (YL256)"
     },
     {
         "route": "268C",
@@ -58181,7 +58181,7 @@
         "service_type": "2",
         "seq": "15",
         "stop": "21DA1E33BF580B96",
-        "stop_name_tc": "元點 (C1) (YL244)"
+        "stop_name_tc": "元點 (YL244)"
     },
     {
         "route": "268C",
@@ -58189,7 +58189,7 @@
         "service_type": "2",
         "seq": "16",
         "stop": "CCBBE2779B1765C4",
-        "stop_name_tc": "元朗又新街 (S4) (YL248)"
+        "stop_name_tc": "元朗又新街 (YL248)"
     },
     {
         "route": "268C",
@@ -58197,7 +58197,7 @@
         "service_type": "2",
         "seq": "17",
         "stop": "74C51A8A3D783F40",
-        "stop_name_tc": "元朗大棠路 (S9) (YL253)"
+        "stop_name_tc": "元朗大棠路 (YL253)"
     },
     {
         "route": "268C",
@@ -58205,7 +58205,7 @@
         "service_type": "2",
         "seq": "18",
         "stop": "0E2B8E1D544C6889",
-        "stop_name_tc": "元朗警署 (S12) (YL256)"
+        "stop_name_tc": "元朗警署 (YL256)"
     },
     {
         "route": "268C",
@@ -58397,7 +58397,7 @@
         "service_type": "4",
         "seq": "19",
         "stop": "21DA1E33BF580B96",
-        "stop_name_tc": "元點 (C1) (YL244)"
+        "stop_name_tc": "元點 (YL244)"
     },
     {
         "route": "268C",
@@ -58405,7 +58405,7 @@
         "service_type": "4",
         "seq": "20",
         "stop": "CCBBE2779B1765C4",
-        "stop_name_tc": "元朗又新街 (S4) (YL248)"
+        "stop_name_tc": "元朗又新街 (YL248)"
     },
     {
         "route": "268C",
@@ -58413,7 +58413,7 @@
         "service_type": "4",
         "seq": "21",
         "stop": "74C51A8A3D783F40",
-        "stop_name_tc": "元朗大棠路 (S9) (YL253)"
+        "stop_name_tc": "元朗大棠路 (YL253)"
     },
     {
         "route": "268C",
@@ -58421,7 +58421,7 @@
         "service_type": "4",
         "seq": "22",
         "stop": "0E2B8E1D544C6889",
-        "stop_name_tc": "元朗警署 (S12) (YL256)"
+        "stop_name_tc": "元朗警署 (YL256)"
     },
     {
         "route": "268C",
@@ -58517,7 +58517,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "22D525468860D203",
-        "stop_name_tc": "元朗喜利徑 (N6) (YL365)"
+        "stop_name_tc": "元朗喜利徑 (YL365)"
     },
     {
         "route": "268C",
@@ -58525,7 +58525,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "51BD0FD05C62F3F4",
-        "stop_name_tc": "元朗谷亭街 (N13) (YL374)"
+        "stop_name_tc": "元朗谷亭街 (YL374)"
     },
     {
         "route": "268C",
@@ -59109,7 +59109,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "21DA1E33BF580B96",
-        "stop_name_tc": "元點 (C1) (YL244)"
+        "stop_name_tc": "元點 (YL244)"
     },
     {
         "route": "268P",
@@ -59117,7 +59117,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "CCBBE2779B1765C4",
-        "stop_name_tc": "元朗又新街 (S4) (YL248)"
+        "stop_name_tc": "元朗又新街 (YL248)"
     },
     {
         "route": "268P",
@@ -59125,7 +59125,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "74C51A8A3D783F40",
-        "stop_name_tc": "元朗大棠路 (S9) (YL253)"
+        "stop_name_tc": "元朗大棠路 (YL253)"
     },
     {
         "route": "268P",
@@ -59133,7 +59133,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "0E2B8E1D544C6889",
-        "stop_name_tc": "元朗警署 (S12) (YL256)"
+        "stop_name_tc": "元朗警署 (YL256)"
     },
     {
         "route": "268P",
@@ -59197,7 +59197,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "22D525468860D203",
-        "stop_name_tc": "元朗喜利徑 (N6) (YL365)"
+        "stop_name_tc": "元朗喜利徑 (YL365)"
     },
     {
         "route": "268P",
@@ -59205,7 +59205,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "51BD0FD05C62F3F4",
-        "stop_name_tc": "元朗谷亭街 (N13) (YL374)"
+        "stop_name_tc": "元朗谷亭街 (YL374)"
     },
     {
         "route": "268P",
@@ -59397,7 +59397,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "14157BA5C06B0B6B",
-        "stop_name_tc": "元點 (Y1 月台) (YL243)"
+        "stop_name_tc": "元點 (YL243)"
     },
     {
         "route": "268X",
@@ -59405,7 +59405,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "F63C4B8B958E9830",
-        "stop_name_tc": "元朗又新街 (S3) (YL247)"
+        "stop_name_tc": "元朗又新街 (YL247)"
     },
     {
         "route": "268X",
@@ -59413,7 +59413,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "74C51A8A3D783F40",
-        "stop_name_tc": "元朗大棠路 (S9) (YL253)"
+        "stop_name_tc": "元朗大棠路 (YL253)"
     },
     {
         "route": "268X",
@@ -59421,7 +59421,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "0E2B8E1D544C6889",
-        "stop_name_tc": "元朗警署 (S12) (YL256)"
+        "stop_name_tc": "元朗警署 (YL256)"
     },
     {
         "route": "268X",
@@ -59549,7 +59549,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "6258E0091BFF52C3",
-        "stop_name_tc": "元朗喜利徑 (N7) (YL366)"
+        "stop_name_tc": "元朗喜利徑 (YL366)"
     },
     {
         "route": "268X",
@@ -59557,7 +59557,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "1DEFCF90AB170FD7",
-        "stop_name_tc": "元朗同樂街 (N11) (YL371)"
+        "stop_name_tc": "元朗同樂街 (YL371)"
     },
     {
         "route": "268X",
@@ -59565,7 +59565,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "FEE97828AB584E76",
-        "stop_name_tc": "元朗谷亭街 (N16) (YL377)"
+        "stop_name_tc": "元朗谷亭街 (YL377)"
     },
     {
         "route": "268X",
@@ -61005,7 +61005,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "14157BA5C06B0B6B",
-        "stop_name_tc": "元點 (Y1 月台) (YL243)"
+        "stop_name_tc": "元點 (YL243)"
     },
     {
         "route": "269D",
@@ -61013,7 +61013,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "F63C4B8B958E9830",
-        "stop_name_tc": "元朗又新街 (S3) (YL247)"
+        "stop_name_tc": "元朗又新街 (YL247)"
     },
     {
         "route": "269D",
@@ -61021,7 +61021,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "78AD2432201EF5EE",
-        "stop_name_tc": "元朗大棠路 (S7) (YL251)"
+        "stop_name_tc": "元朗大棠路 (YL251)"
     },
     {
         "route": "269D",
@@ -61029,7 +61029,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "D9CE618F99BAC2B6",
-        "stop_name_tc": "元朗康樂路 (S10) (YL254)"
+        "stop_name_tc": "元朗康樂路 (YL254)"
     },
     {
         "route": "269D",
@@ -61037,7 +61037,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "1B0FD9C27F5FE0BE",
-        "stop_name_tc": "元朗警署 (S14) (YL258)"
+        "stop_name_tc": "元朗警署 (YL258)"
     },
     {
         "route": "269D",
@@ -61229,7 +61229,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "4EE417C5EF5FEF4E",
-        "stop_name_tc": "元朗喜利徑 (N5) (YL364)"
+        "stop_name_tc": "元朗喜利徑 (YL364)"
     },
     {
         "route": "269D",
@@ -61237,7 +61237,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "51BD0FD05C62F3F4",
-        "stop_name_tc": "元朗谷亭街 (N13) (YL374)"
+        "stop_name_tc": "元朗谷亭街 (YL374)"
     },
     {
         "route": "269D",
@@ -61709,7 +61709,7 @@
         "service_type": "4",
         "seq": "11",
         "stop": "4EE417C5EF5FEF4E",
-        "stop_name_tc": "元朗喜利徑 (N5) (YL364)"
+        "stop_name_tc": "元朗喜利徑 (YL364)"
     },
     {
         "route": "269D",
@@ -61717,7 +61717,7 @@
         "service_type": "4",
         "seq": "12",
         "stop": "51BD0FD05C62F3F4",
-        "stop_name_tc": "元朗谷亭街 (N13) (YL374)"
+        "stop_name_tc": "元朗谷亭街 (YL374)"
     },
     {
         "route": "269D",
@@ -62445,7 +62445,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "14157BA5C06B0B6B",
-        "stop_name_tc": "元點 (Y1 月台) (YL243)"
+        "stop_name_tc": "元點 (YL243)"
     },
     {
         "route": "269R",
@@ -62453,7 +62453,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "605B05317A40A2A4",
-        "stop_name_tc": "元朗又新街 (S2) (YL246)"
+        "stop_name_tc": "元朗又新街 (YL246)"
     },
     {
         "route": "269R",
@@ -62461,7 +62461,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "78AD2432201EF5EE",
-        "stop_name_tc": "元朗大棠路 (S7) (YL251)"
+        "stop_name_tc": "元朗大棠路 (YL251)"
     },
     {
         "route": "269R",
@@ -62469,7 +62469,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "D9CE618F99BAC2B6",
-        "stop_name_tc": "元朗康樂路 (S10) (YL254)"
+        "stop_name_tc": "元朗康樂路 (YL254)"
     },
     {
         "route": "269R",
@@ -62477,7 +62477,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "0E2B8E1D544C6889",
-        "stop_name_tc": "元朗警署 (S12) (YL256)"
+        "stop_name_tc": "元朗警署 (YL256)"
     },
     {
         "route": "269R",
@@ -74461,7 +74461,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "14157BA5C06B0B6B",
-        "stop_name_tc": "元點 (Y1 月台) (YL243)"
+        "stop_name_tc": "元點 (YL243)"
     },
     {
         "route": "276",
@@ -74469,7 +74469,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "605B05317A40A2A4",
-        "stop_name_tc": "元朗又新街 (S2) (YL246)"
+        "stop_name_tc": "元朗又新街 (YL246)"
     },
     {
         "route": "276",
@@ -74477,7 +74477,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "78AD2432201EF5EE",
-        "stop_name_tc": "元朗大棠路 (S7) (YL251)"
+        "stop_name_tc": "元朗大棠路 (YL251)"
     },
     {
         "route": "276",
@@ -74485,7 +74485,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "D9CE618F99BAC2B6",
-        "stop_name_tc": "元朗康樂路 (S10) (YL254)"
+        "stop_name_tc": "元朗康樂路 (YL254)"
     },
     {
         "route": "276",
@@ -74645,7 +74645,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "F87A56BD0A2640ED",
-        "stop_name_tc": "元朗廣場 (N2) (YL360)"
+        "stop_name_tc": "元朗廣場 (YL360)"
     },
     {
         "route": "276",
@@ -74653,7 +74653,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "D747ADD80335605C",
-        "stop_name_tc": "元朗同樂街 (N10) (YL370)"
+        "stop_name_tc": "元朗同樂街 (YL370)"
     },
     {
         "route": "276",
@@ -74661,7 +74661,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "445B2A02DB891CA9",
-        "stop_name_tc": "元朗谷亭街 (N14) (YL375)"
+        "stop_name_tc": "元朗谷亭街 (YL375)"
     },
     {
         "route": "276",
@@ -75341,7 +75341,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "E7057BF64CF7D89D",
-        "stop_name_tc": "形點 I (A1) (YL240)"
+        "stop_name_tc": "形點 I (YL240)"
     },
     {
         "route": "276C",
@@ -75429,7 +75429,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "F87A56BD0A2640ED",
-        "stop_name_tc": "元朗廣場 (N2) (YL360)"
+        "stop_name_tc": "元朗廣場 (YL360)"
     },
     {
         "route": "276C",
@@ -75437,7 +75437,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "D747ADD80335605C",
-        "stop_name_tc": "元朗同樂街 (N10) (YL370)"
+        "stop_name_tc": "元朗同樂街 (YL370)"
     },
     {
         "route": "276C",
@@ -75445,7 +75445,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "445B2A02DB891CA9",
-        "stop_name_tc": "元朗谷亭街 (N14) (YL375)"
+        "stop_name_tc": "元朗谷亭街 (YL375)"
     },
     {
         "route": "276C",
@@ -75589,7 +75589,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "14157BA5C06B0B6B",
-        "stop_name_tc": "元點 (Y1 月台) (YL243)"
+        "stop_name_tc": "元點 (YL243)"
     },
     {
         "route": "276P",
@@ -75597,7 +75597,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "F63C4B8B958E9830",
-        "stop_name_tc": "元朗又新街 (S3) (YL247)"
+        "stop_name_tc": "元朗又新街 (YL247)"
     },
     {
         "route": "276P",
@@ -75605,7 +75605,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "74C51A8A3D783F40",
-        "stop_name_tc": "元朗大棠路 (S9) (YL253)"
+        "stop_name_tc": "元朗大棠路 (YL253)"
     },
     {
         "route": "276P",
@@ -75613,7 +75613,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "D9CE618F99BAC2B6",
-        "stop_name_tc": "元朗康樂路 (S10) (YL254)"
+        "stop_name_tc": "元朗康樂路 (YL254)"
     },
     {
         "route": "276P",
@@ -75853,7 +75853,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "F87A56BD0A2640ED",
-        "stop_name_tc": "元朗廣場 (N2) (YL360)"
+        "stop_name_tc": "元朗廣場 (YL360)"
     },
     {
         "route": "276P",
@@ -75861,7 +75861,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "D747ADD80335605C",
-        "stop_name_tc": "元朗同樂街 (N10) (YL370)"
+        "stop_name_tc": "元朗同樂街 (YL370)"
     },
     {
         "route": "276P",
@@ -75869,7 +75869,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "445B2A02DB891CA9",
-        "stop_name_tc": "元朗谷亭街 (N14) (YL375)"
+        "stop_name_tc": "元朗谷亭街 (YL375)"
     },
     {
         "route": "276P",
@@ -128669,7 +128669,7 @@
         "service_type": "1",
         "seq": "72",
         "stop": "22D525468860D203",
-        "stop_name_tc": "元朗喜利徑 (N6) (YL365)"
+        "stop_name_tc": "元朗喜利徑 (YL365)"
     },
     {
         "route": "53",
@@ -128677,7 +128677,7 @@
         "service_type": "1",
         "seq": "73",
         "stop": "445B2A02DB891CA9",
-        "stop_name_tc": "元朗谷亭街 (N14) (YL375)"
+        "stop_name_tc": "元朗谷亭街 (YL375)"
     },
     {
         "route": "53",
@@ -128701,7 +128701,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "CCBBE2779B1765C4",
-        "stop_name_tc": "元朗又新街 (S4) (YL248)"
+        "stop_name_tc": "元朗又新街 (YL248)"
     },
     {
         "route": "53",
@@ -128709,7 +128709,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "D9CE618F99BAC2B6",
-        "stop_name_tc": "元朗康樂路 (S10) (YL254)"
+        "stop_name_tc": "元朗康樂路 (YL254)"
     },
     {
         "route": "53",
@@ -128717,7 +128717,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "1B0FD9C27F5FE0BE",
-        "stop_name_tc": "元朗警署 (S14) (YL258)"
+        "stop_name_tc": "元朗警署 (YL258)"
     },
     {
         "route": "53",
@@ -129293,7 +129293,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "C296D9B3313C1F77",
-        "stop_name_tc": "元朗同樂街 (N9) (YL369)"
+        "stop_name_tc": "元朗同樂街 (YL369)"
     },
     {
         "route": "54",
@@ -129301,7 +129301,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "445B2A02DB891CA9",
-        "stop_name_tc": "元朗谷亭街 (N14) (YL375)"
+        "stop_name_tc": "元朗谷亭街 (YL375)"
     },
     {
         "route": "54",
@@ -129701,7 +129701,7 @@
         "service_type": "1",
         "seq": "53",
         "stop": "6A4B371546D489BF",
-        "stop_name_tc": "形點 I (A3) (YL242)"
+        "stop_name_tc": "形點 I (YL242)"
     },
     {
         "route": "54",
@@ -129709,7 +129709,7 @@
         "service_type": "1",
         "seq": "54",
         "stop": "AC935792C88AF135",
-        "stop_name_tc": "元朗又新街 (S5) (YL249)"
+        "stop_name_tc": "元朗又新街 (YL249)"
     },
     {
         "route": "54",
@@ -129717,7 +129717,7 @@
         "service_type": "1",
         "seq": "55",
         "stop": "43E5D3A445382F82",
-        "stop_name_tc": "元朗大棠路 (S8) (YL252)"
+        "stop_name_tc": "元朗大棠路 (YL252)"
     },
     {
         "route": "54",
@@ -145965,7 +145965,7 @@
         "service_type": "1",
         "seq": "53",
         "stop": "6A4B371546D489BF",
-        "stop_name_tc": "形點 I (A3) (YL242)"
+        "stop_name_tc": "形點 I (YL242)"
     },
     {
         "route": "64K",
@@ -145973,7 +145973,7 @@
         "service_type": "1",
         "seq": "54",
         "stop": "AC935792C88AF135",
-        "stop_name_tc": "元朗又新街 (S5) (YL249)"
+        "stop_name_tc": "元朗又新街 (YL249)"
     },
     {
         "route": "64K",
@@ -145981,7 +145981,7 @@
         "service_type": "1",
         "seq": "55",
         "stop": "43E5D3A445382F82",
-        "stop_name_tc": "元朗大棠路 (S8) (YL252)"
+        "stop_name_tc": "元朗大棠路 (YL252)"
     },
     {
         "route": "64K",
@@ -146005,7 +146005,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "D54B0CA58FE5559D",
-        "stop_name_tc": "元朗同樂街 (N12) (YL372)"
+        "stop_name_tc": "元朗同樂街 (YL372)"
     },
     {
         "route": "64K",
@@ -146013,7 +146013,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "445B2A02DB891CA9",
-        "stop_name_tc": "元朗谷亭街 (N14) (YL375)"
+        "stop_name_tc": "元朗谷亭街 (YL375)"
     },
     {
         "route": "64K",
@@ -147005,7 +147005,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "F87A56BD0A2640ED",
-        "stop_name_tc": "元朗廣場 (N2) (YL360)"
+        "stop_name_tc": "元朗廣場 (YL360)"
     },
     {
         "route": "64X",
@@ -147013,7 +147013,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "D54B0CA58FE5559D",
-        "stop_name_tc": "元朗同樂街 (N12) (YL372)"
+        "stop_name_tc": "元朗同樂街 (YL372)"
     },
     {
         "route": "64X",
@@ -147021,7 +147021,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "445B2A02DB891CA9",
-        "stop_name_tc": "元朗谷亭街 (N14) (YL375)"
+        "stop_name_tc": "元朗谷亭街 (YL375)"
     },
     {
         "route": "64X",
@@ -151541,7 +151541,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "6A4B371546D489BF",
-        "stop_name_tc": "形點 I (A3) (YL242)"
+        "stop_name_tc": "形點 I (YL242)"
     },
     {
         "route": "68",
@@ -153757,7 +153757,7 @@
         "service_type": "1",
         "seq": "25",
         "stop": "6E85D42922E5A10C",
-        "stop_name_tc": "元朗廣場 (N1) (YL359)"
+        "stop_name_tc": "元朗廣場 (YL359)"
     },
     {
         "route": "68A",
@@ -154133,7 +154133,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "6A4B371546D489BF",
-        "stop_name_tc": "形點 I (A3) (YL242)"
+        "stop_name_tc": "形點 I (YL242)"
     },
     {
         "route": "68E",
@@ -154141,7 +154141,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "21DA1E33BF580B96",
-        "stop_name_tc": "元點 (C1) (YL244)"
+        "stop_name_tc": "元點 (YL244)"
     },
     {
         "route": "68E",
@@ -154405,7 +154405,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "6A4B371546D489BF",
-        "stop_name_tc": "形點 I (A3) (YL242)"
+        "stop_name_tc": "形點 I (YL242)"
     },
     {
         "route": "68F",
@@ -154413,7 +154413,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "21DA1E33BF580B96",
-        "stop_name_tc": "元點 (C1) (YL244)"
+        "stop_name_tc": "元點 (YL244)"
     },
     {
         "route": "68F",
@@ -154597,7 +154597,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "2FB355A2C89B7922",
-        "stop_name_tc": "元朗同樂街 (N8) (YL368)"
+        "stop_name_tc": "元朗同樂街 (YL368)"
     },
     {
         "route": "68M",
@@ -154605,7 +154605,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "FEE97828AB584E76",
-        "stop_name_tc": "元朗谷亭街 (N16) (YL377)"
+        "stop_name_tc": "元朗谷亭街 (YL377)"
     },
     {
         "route": "68M",
@@ -154709,7 +154709,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "6A4B371546D489BF",
-        "stop_name_tc": "形點 I (A3) (YL242)"
+        "stop_name_tc": "形點 I (YL242)"
     },
     {
         "route": "68M",
@@ -154717,7 +154717,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "AC935792C88AF135",
-        "stop_name_tc": "元朗又新街 (S5) (YL249)"
+        "stop_name_tc": "元朗又新街 (YL249)"
     },
     {
         "route": "68M",
@@ -154725,7 +154725,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "43E5D3A445382F82",
-        "stop_name_tc": "元朗大棠路 (S8) (YL252)"
+        "stop_name_tc": "元朗大棠路 (YL252)"
     },
     {
         "route": "68M",
@@ -154877,7 +154877,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "14157BA5C06B0B6B",
-        "stop_name_tc": "元點 (Y1 月台) (YL243)"
+        "stop_name_tc": "元點 (YL243)"
     },
     {
         "route": "68X",
@@ -154885,7 +154885,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "F63C4B8B958E9830",
-        "stop_name_tc": "元朗又新街 (S3) (YL247)"
+        "stop_name_tc": "元朗又新街 (YL247)"
     },
     {
         "route": "68X",
@@ -154893,7 +154893,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "74C51A8A3D783F40",
-        "stop_name_tc": "元朗大棠路 (S9) (YL253)"
+        "stop_name_tc": "元朗大棠路 (YL253)"
     },
     {
         "route": "68X",
@@ -154901,7 +154901,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "0E2B8E1D544C6889",
-        "stop_name_tc": "元朗警署 (S12) (YL256)"
+        "stop_name_tc": "元朗警署 (YL256)"
     },
     {
         "route": "68X",
@@ -155093,7 +155093,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "48FBCEF0B05599F8",
-        "stop_name_tc": "元朗喜利徑 (N7) (YL367)"
+        "stop_name_tc": "元朗喜利徑 (YL367)"
     },
     {
         "route": "68X",
@@ -155101,7 +155101,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "1DEFCF90AB170FD7",
-        "stop_name_tc": "元朗同樂街 (N11) (YL371)"
+        "stop_name_tc": "元朗同樂街 (YL371)"
     },
     {
         "route": "68X",
@@ -155109,7 +155109,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "FEE97828AB584E76",
-        "stop_name_tc": "元朗谷亭街 (N16) (YL377)"
+        "stop_name_tc": "元朗谷亭街 (YL377)"
     },
     {
         "route": "68X",
@@ -155269,7 +155269,7 @@
         "service_type": "3",
         "seq": "2",
         "stop": "48FBCEF0B05599F8",
-        "stop_name_tc": "元朗喜利徑 (N7) (YL367)"
+        "stop_name_tc": "元朗喜利徑 (YL367)"
     },
     {
         "route": "68X",
@@ -155277,7 +155277,7 @@
         "service_type": "3",
         "seq": "3",
         "stop": "1DEFCF90AB170FD7",
-        "stop_name_tc": "元朗同樂街 (N11) (YL371)"
+        "stop_name_tc": "元朗同樂街 (YL371)"
     },
     {
         "route": "68X",
@@ -155285,7 +155285,7 @@
         "service_type": "3",
         "seq": "4",
         "stop": "FEE97828AB584E76",
-        "stop_name_tc": "元朗谷亭街 (N16) (YL377)"
+        "stop_name_tc": "元朗谷亭街 (YL377)"
     },
     {
         "route": "68X",
@@ -155645,7 +155645,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "F63C4B8B958E9830",
-        "stop_name_tc": "元朗又新街 (S3) (YL247)"
+        "stop_name_tc": "元朗又新街 (YL247)"
     },
     {
         "route": "69",
@@ -155653,7 +155653,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "78AD2432201EF5EE",
-        "stop_name_tc": "元朗大棠路 (S7) (YL251)"
+        "stop_name_tc": "元朗大棠路 (YL251)"
     },
     {
         "route": "69",
@@ -155661,7 +155661,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "D9CE618F99BAC2B6",
-        "stop_name_tc": "元朗康樂路 (S10) (YL254)"
+        "stop_name_tc": "元朗康樂路 (YL254)"
     },
     {
         "route": "69",
@@ -155829,7 +155829,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "6E85D42922E5A10C",
-        "stop_name_tc": "元朗廣場 (N1) (YL359)"
+        "stop_name_tc": "元朗廣場 (YL359)"
     },
     {
         "route": "69",
@@ -155837,7 +155837,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "C296D9B3313C1F77",
-        "stop_name_tc": "元朗同樂街 (N9) (YL369)"
+        "stop_name_tc": "元朗同樂街 (YL369)"
     },
     {
         "route": "69",
@@ -155845,7 +155845,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "FEE97828AB584E76",
-        "stop_name_tc": "元朗谷亭街 (N16) (YL377)"
+        "stop_name_tc": "元朗谷亭街 (YL377)"
     },
     {
         "route": "69",
@@ -175485,7 +175485,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "4EE417C5EF5FEF4E",
-        "stop_name_tc": "元朗喜利徑 (N5) (YL364)"
+        "stop_name_tc": "元朗喜利徑 (YL364)"
     },
     {
         "route": "76K",
@@ -175493,7 +175493,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "445B2A02DB891CA9",
-        "stop_name_tc": "元朗谷亭街 (N14) (YL375)"
+        "stop_name_tc": "元朗谷亭街 (YL375)"
     },
     {
         "route": "76K",
@@ -176053,7 +176053,7 @@
         "service_type": "1",
         "seq": "36",
         "stop": "6A4B371546D489BF",
-        "stop_name_tc": "形點 I (A3) (YL242)"
+        "stop_name_tc": "形點 I (YL242)"
     },
     {
         "route": "76K",
@@ -176061,7 +176061,7 @@
         "service_type": "1",
         "seq": "37",
         "stop": "CCBBE2779B1765C4",
-        "stop_name_tc": "元朗又新街 (S4) (YL248)"
+        "stop_name_tc": "元朗又新街 (YL248)"
     },
     {
         "route": "76K",
@@ -176069,7 +176069,7 @@
         "service_type": "1",
         "seq": "38",
         "stop": "74C51A8A3D783F40",
-        "stop_name_tc": "元朗大棠路 (S9) (YL253)"
+        "stop_name_tc": "元朗大棠路 (YL253)"
     },
     {
         "route": "76K",
@@ -176453,7 +176453,7 @@
         "service_type": "2",
         "seq": "43",
         "stop": "6A4B371546D489BF",
-        "stop_name_tc": "形點 I (A3) (YL242)"
+        "stop_name_tc": "形點 I (YL242)"
     },
     {
         "route": "76K",
@@ -176461,7 +176461,7 @@
         "service_type": "2",
         "seq": "44",
         "stop": "CCBBE2779B1765C4",
-        "stop_name_tc": "元朗又新街 (S4) (YL248)"
+        "stop_name_tc": "元朗又新街 (YL248)"
     },
     {
         "route": "76K",
@@ -176469,7 +176469,7 @@
         "service_type": "2",
         "seq": "45",
         "stop": "74C51A8A3D783F40",
-        "stop_name_tc": "元朗大棠路 (S9) (YL253)"
+        "stop_name_tc": "元朗大棠路 (YL253)"
     },
     {
         "route": "76K",
@@ -177165,7 +177165,7 @@
         "service_type": "1",
         "seq": "40",
         "stop": "6A4B371546D489BF",
-        "stop_name_tc": "形點 I (A3) (YL242)"
+        "stop_name_tc": "形點 I (YL242)"
     },
     {
         "route": "77K",
@@ -177485,7 +177485,7 @@
         "service_type": "2",
         "seq": "39",
         "stop": "6A4B371546D489BF",
-        "stop_name_tc": "形點 I (A3) (YL242)"
+        "stop_name_tc": "形點 I (YL242)"
     },
     {
         "route": "77K",
@@ -177493,7 +177493,7 @@
         "service_type": "2",
         "seq": "40",
         "stop": "AC935792C88AF135",
-        "stop_name_tc": "元朗又新街 (S5) (YL249)"
+        "stop_name_tc": "元朗又新街 (YL249)"
     },
     {
         "route": "77K",
@@ -177501,7 +177501,7 @@
         "service_type": "2",
         "seq": "41",
         "stop": "43E5D3A445382F82",
-        "stop_name_tc": "元朗大棠路 (S8) (YL252)"
+        "stop_name_tc": "元朗大棠路 (YL252)"
     },
     {
         "route": "77K",
@@ -190829,7 +190829,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "6A4B371546D489BF",
-        "stop_name_tc": "形點 I (A3) (YL242)"
+        "stop_name_tc": "形點 I (YL242)"
     },
     {
         "route": "869",
@@ -190837,7 +190837,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "CCBBE2779B1765C4",
-        "stop_name_tc": "元朗又新街 (S4) (YL248)"
+        "stop_name_tc": "元朗又新街 (YL248)"
     },
     {
         "route": "869",
@@ -190845,7 +190845,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "78AD2432201EF5EE",
-        "stop_name_tc": "元朗大棠路 (S7) (YL251)"
+        "stop_name_tc": "元朗大棠路 (YL251)"
     },
     {
         "route": "869",
@@ -190853,7 +190853,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "D9CE618F99BAC2B6",
-        "stop_name_tc": "元朗康樂路 (S10) (YL254)"
+        "stop_name_tc": "元朗康樂路 (YL254)"
     },
     {
         "route": "869",
@@ -190861,7 +190861,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "1B0FD9C27F5FE0BE",
-        "stop_name_tc": "元朗警署 (S14) (YL258)"
+        "stop_name_tc": "元朗警署 (YL258)"
     },
     {
         "route": "869",
@@ -219437,7 +219437,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "21DA1E33BF580B96",
-        "stop_name_tc": "元點 (C1) (YL244)"
+        "stop_name_tc": "元點 (YL244)"
     },
     {
         "route": "968",
@@ -219445,7 +219445,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "AC935792C88AF135",
-        "stop_name_tc": "元朗又新街 (S5) (YL249)"
+        "stop_name_tc": "元朗又新街 (YL249)"
     },
     {
         "route": "968",
@@ -219453,7 +219453,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "43E5D3A445382F82",
-        "stop_name_tc": "元朗大棠路 (S8) (YL252)"
+        "stop_name_tc": "元朗大棠路 (YL252)"
     },
     {
         "route": "968",
@@ -219541,7 +219541,7 @@
         "service_type": "3",
         "seq": "10",
         "stop": "21DA1E33BF580B96",
-        "stop_name_tc": "元點 (C1) (YL244)"
+        "stop_name_tc": "元點 (YL244)"
     },
     {
         "route": "968",
@@ -219549,7 +219549,7 @@
         "service_type": "3",
         "seq": "11",
         "stop": "AC935792C88AF135",
-        "stop_name_tc": "元朗又新街 (S5) (YL249)"
+        "stop_name_tc": "元朗又新街 (YL249)"
     },
     {
         "route": "968",
@@ -219557,7 +219557,7 @@
         "service_type": "3",
         "seq": "12",
         "stop": "43E5D3A445382F82",
-        "stop_name_tc": "元朗大棠路 (S8) (YL252)"
+        "stop_name_tc": "元朗大棠路 (YL252)"
     },
     {
         "route": "968",
@@ -219581,7 +219581,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "C296D9B3313C1F77",
-        "stop_name_tc": "元朗同樂街 (N9) (YL369)"
+        "stop_name_tc": "元朗同樂街 (YL369)"
     },
     {
         "route": "968",
@@ -219589,7 +219589,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "AD4CB5E1CAAF8063",
-        "stop_name_tc": "元朗谷亭街 (N15) (YL376)"
+        "stop_name_tc": "元朗谷亭街 (YL376)"
     },
     {
         "route": "968",
@@ -220133,7 +220133,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "21DA1E33BF580B96",
-        "stop_name_tc": "元點 (C1) (YL244)"
+        "stop_name_tc": "元點 (YL244)"
     },
     {
         "route": "968X",
@@ -220141,7 +220141,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "AC935792C88AF135",
-        "stop_name_tc": "元朗又新街 (S5) (YL249)"
+        "stop_name_tc": "元朗又新街 (YL249)"
     },
     {
         "route": "968X",
@@ -220149,7 +220149,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "43E5D3A445382F82",
-        "stop_name_tc": "元朗大棠路 (S8) (YL252)"
+        "stop_name_tc": "元朗大棠路 (YL252)"
     },
     {
         "route": "968X",
@@ -220229,7 +220229,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "6258E0091BFF52C3",
-        "stop_name_tc": "元朗喜利徑 (N7) (YL366)"
+        "stop_name_tc": "元朗喜利徑 (YL366)"
     },
     {
         "route": "968X",
@@ -220237,7 +220237,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "C296D9B3313C1F77",
-        "stop_name_tc": "元朗同樂街 (N9) (YL369)"
+        "stop_name_tc": "元朗同樂街 (YL369)"
     },
     {
         "route": "968X",
@@ -220245,7 +220245,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "AD4CB5E1CAAF8063",
-        "stop_name_tc": "元朗谷亭街 (N15) (YL376)"
+        "stop_name_tc": "元朗谷亭街 (YL376)"
     },
     {
         "route": "968X",
@@ -233613,7 +233613,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "F87A56BD0A2640ED",
-        "stop_name_tc": "元朗廣場 (N2) (YL360)"
+        "stop_name_tc": "元朗廣場 (YL360)"
     },
     {
         "route": "A36",
@@ -233621,7 +233621,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "D54B0CA58FE5559D",
-        "stop_name_tc": "元朗同樂街 (N12) (YL372)"
+        "stop_name_tc": "元朗同樂街 (YL372)"
     },
     {
         "route": "A36",
@@ -233629,7 +233629,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "3D566753F149907F",
-        "stop_name_tc": "谷亭街 (N17) (YL378)"
+        "stop_name_tc": "谷亭街 (YL378)"
     },
     {
         "route": "A36",
@@ -233749,7 +233749,7 @@
         "service_type": "3",
         "seq": "8",
         "stop": "F87A56BD0A2640ED",
-        "stop_name_tc": "元朗廣場 (N2) (YL360)"
+        "stop_name_tc": "元朗廣場 (YL360)"
     },
     {
         "route": "A36",
@@ -233757,7 +233757,7 @@
         "service_type": "3",
         "seq": "9",
         "stop": "D54B0CA58FE5559D",
-        "stop_name_tc": "元朗同樂街 (N12) (YL372)"
+        "stop_name_tc": "元朗同樂街 (YL372)"
     },
     {
         "route": "A36",
@@ -233765,7 +233765,7 @@
         "service_type": "3",
         "seq": "10",
         "stop": "3D566753F149907F",
-        "stop_name_tc": "谷亭街 (N17) (YL378)"
+        "stop_name_tc": "谷亭街 (YL378)"
     },
     {
         "route": "A36",
@@ -233885,7 +233885,7 @@
         "service_type": "5",
         "seq": "8",
         "stop": "F87A56BD0A2640ED",
-        "stop_name_tc": "元朗廣場 (N2) (YL360)"
+        "stop_name_tc": "元朗廣場 (YL360)"
     },
     {
         "route": "A36",
@@ -233893,7 +233893,7 @@
         "service_type": "5",
         "seq": "9",
         "stop": "D54B0CA58FE5559D",
-        "stop_name_tc": "元朗同樂街 (N12) (YL372)"
+        "stop_name_tc": "元朗同樂街 (YL372)"
     },
     {
         "route": "A36",
@@ -233901,7 +233901,7 @@
         "service_type": "5",
         "seq": "10",
         "stop": "3D566753F149907F",
-        "stop_name_tc": "谷亭街 (N17) (YL378)"
+        "stop_name_tc": "谷亭街 (YL378)"
     },
     {
         "route": "A36",
@@ -234029,7 +234029,7 @@
         "service_type": "6",
         "seq": "9",
         "stop": "F87A56BD0A2640ED",
-        "stop_name_tc": "元朗廣場 (N2) (YL360)"
+        "stop_name_tc": "元朗廣場 (YL360)"
     },
     {
         "route": "A36",
@@ -234037,7 +234037,7 @@
         "service_type": "6",
         "seq": "10",
         "stop": "D54B0CA58FE5559D",
-        "stop_name_tc": "元朗同樂街 (N12) (YL372)"
+        "stop_name_tc": "元朗同樂街 (YL372)"
     },
     {
         "route": "A36",
@@ -234045,7 +234045,7 @@
         "service_type": "6",
         "seq": "11",
         "stop": "3D566753F149907F",
-        "stop_name_tc": "谷亭街 (N17) (YL378)"
+        "stop_name_tc": "谷亭街 (YL378)"
     },
     {
         "route": "A36",
@@ -234157,7 +234157,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "7B93AB79165E79E6",
-        "stop_name_tc": "形點 I (A2) (YL241)"
+        "stop_name_tc": "形點 I (YL241)"
     },
     {
         "route": "A36",
@@ -234165,7 +234165,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "B802C4681F58E3E2",
-        "stop_name_tc": "又新街 (S1) (YL245)"
+        "stop_name_tc": "又新街 (YL245)"
     },
     {
         "route": "A36",
@@ -234173,7 +234173,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "F8DED1E04A074504",
-        "stop_name_tc": "大棠路 (S6) (YL250)"
+        "stop_name_tc": "大棠路 (YL250)"
     },
     {
         "route": "A36",
@@ -234181,7 +234181,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "8BE58FAD7E9C94C7",
-        "stop_name_tc": "康樂路 (S11) (YL255)"
+        "stop_name_tc": "康樂路 (YL255)"
     },
     {
         "route": "A36",
@@ -234189,7 +234189,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "1DBADE3376C4149E",
-        "stop_name_tc": "元朗警署 (S13) (YL257)"
+        "stop_name_tc": "元朗警署 (YL257)"
     },
     {
         "route": "A36",
@@ -234301,7 +234301,7 @@
         "service_type": "2",
         "seq": "7",
         "stop": "7B93AB79165E79E6",
-        "stop_name_tc": "形點 I (A2) (YL241)"
+        "stop_name_tc": "形點 I (YL241)"
     },
     {
         "route": "A36",
@@ -234309,7 +234309,7 @@
         "service_type": "2",
         "seq": "8",
         "stop": "B802C4681F58E3E2",
-        "stop_name_tc": "又新街 (S1) (YL245)"
+        "stop_name_tc": "又新街 (YL245)"
     },
     {
         "route": "A36",
@@ -234317,7 +234317,7 @@
         "service_type": "2",
         "seq": "9",
         "stop": "F8DED1E04A074504",
-        "stop_name_tc": "大棠路 (S6) (YL250)"
+        "stop_name_tc": "大棠路 (YL250)"
     },
     {
         "route": "A36",
@@ -234325,7 +234325,7 @@
         "service_type": "2",
         "seq": "10",
         "stop": "8BE58FAD7E9C94C7",
-        "stop_name_tc": "康樂路 (S11) (YL255)"
+        "stop_name_tc": "康樂路 (YL255)"
     },
     {
         "route": "A36",
@@ -234333,7 +234333,7 @@
         "service_type": "2",
         "seq": "11",
         "stop": "1DBADE3376C4149E",
-        "stop_name_tc": "元朗警署 (S13) (YL257)"
+        "stop_name_tc": "元朗警署 (YL257)"
     },
     {
         "route": "A36",
@@ -234453,7 +234453,7 @@
         "service_type": "3",
         "seq": "7",
         "stop": "7B93AB79165E79E6",
-        "stop_name_tc": "形點 I (A2) (YL241)"
+        "stop_name_tc": "形點 I (YL241)"
     },
     {
         "route": "A36",
@@ -234461,7 +234461,7 @@
         "service_type": "3",
         "seq": "8",
         "stop": "B802C4681F58E3E2",
-        "stop_name_tc": "又新街 (S1) (YL245)"
+        "stop_name_tc": "又新街 (YL245)"
     },
     {
         "route": "A36",
@@ -234469,7 +234469,7 @@
         "service_type": "3",
         "seq": "9",
         "stop": "F8DED1E04A074504",
-        "stop_name_tc": "大棠路 (S6) (YL250)"
+        "stop_name_tc": "大棠路 (YL250)"
     },
     {
         "route": "A36",
@@ -234477,7 +234477,7 @@
         "service_type": "3",
         "seq": "10",
         "stop": "8BE58FAD7E9C94C7",
-        "stop_name_tc": "康樂路 (S11) (YL255)"
+        "stop_name_tc": "康樂路 (YL255)"
     },
     {
         "route": "A36",
@@ -234485,7 +234485,7 @@
         "service_type": "3",
         "seq": "11",
         "stop": "1DBADE3376C4149E",
-        "stop_name_tc": "元朗警署 (S13) (YL257)"
+        "stop_name_tc": "元朗警署 (YL257)"
     },
     {
         "route": "A36",
@@ -234613,7 +234613,7 @@
         "service_type": "5",
         "seq": "7",
         "stop": "7B93AB79165E79E6",
-        "stop_name_tc": "形點 I (A2) (YL241)"
+        "stop_name_tc": "形點 I (YL241)"
     },
     {
         "route": "A36",
@@ -234621,7 +234621,7 @@
         "service_type": "5",
         "seq": "8",
         "stop": "B802C4681F58E3E2",
-        "stop_name_tc": "又新街 (S1) (YL245)"
+        "stop_name_tc": "又新街 (YL245)"
     },
     {
         "route": "A36",
@@ -234629,7 +234629,7 @@
         "service_type": "5",
         "seq": "9",
         "stop": "F8DED1E04A074504",
-        "stop_name_tc": "大棠路 (S6) (YL250)"
+        "stop_name_tc": "大棠路 (YL250)"
     },
     {
         "route": "A36",
@@ -234637,7 +234637,7 @@
         "service_type": "5",
         "seq": "10",
         "stop": "8BE58FAD7E9C94C7",
-        "stop_name_tc": "康樂路 (S11) (YL255)"
+        "stop_name_tc": "康樂路 (YL255)"
     },
     {
         "route": "A36",
@@ -234645,7 +234645,7 @@
         "service_type": "5",
         "seq": "11",
         "stop": "1DBADE3376C4149E",
-        "stop_name_tc": "元朗警署 (S13) (YL257)"
+        "stop_name_tc": "元朗警署 (YL257)"
     },
     {
         "route": "A36",
@@ -240917,7 +240917,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "14157BA5C06B0B6B",
-        "stop_name_tc": "元點 (Y1 月台) (YL243)"
+        "stop_name_tc": "元點 (YL243)"
     },
     {
         "route": "B1",
@@ -240925,7 +240925,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "605B05317A40A2A4",
-        "stop_name_tc": "元朗又新街 (S2) (YL246)"
+        "stop_name_tc": "元朗又新街 (YL246)"
     },
     {
         "route": "B1",
@@ -240933,7 +240933,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "78AD2432201EF5EE",
-        "stop_name_tc": "元朗大棠路 (S7) (YL251)"
+        "stop_name_tc": "元朗大棠路 (YL251)"
     },
     {
         "route": "B1",
@@ -240941,7 +240941,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "1B0FD9C27F5FE0BE",
-        "stop_name_tc": "元朗警署 (S14) (YL258)"
+        "stop_name_tc": "元朗警署 (YL258)"
     },
     {
         "route": "B1",
@@ -241045,7 +241045,7 @@
         "service_type": "2",
         "seq": "6",
         "stop": "14157BA5C06B0B6B",
-        "stop_name_tc": "元點 (Y1 月台) (YL243)"
+        "stop_name_tc": "元點 (YL243)"
     },
     {
         "route": "B1",
@@ -241053,7 +241053,7 @@
         "service_type": "2",
         "seq": "7",
         "stop": "605B05317A40A2A4",
-        "stop_name_tc": "元朗又新街 (S2) (YL246)"
+        "stop_name_tc": "元朗又新街 (YL246)"
     },
     {
         "route": "B1",
@@ -241061,7 +241061,7 @@
         "service_type": "2",
         "seq": "8",
         "stop": "78AD2432201EF5EE",
-        "stop_name_tc": "元朗大棠路 (S7) (YL251)"
+        "stop_name_tc": "元朗大棠路 (YL251)"
     },
     {
         "route": "B1",
@@ -241069,7 +241069,7 @@
         "service_type": "2",
         "seq": "9",
         "stop": "1B0FD9C27F5FE0BE",
-        "stop_name_tc": "元朗警署 (S14) (YL258)"
+        "stop_name_tc": "元朗警署 (YL258)"
     },
     {
         "route": "B1",
@@ -241157,7 +241157,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "BF85B8D218CD0FF6",
-        "stop_name_tc": "元朗廣場 (N4) (YL363)"
+        "stop_name_tc": "元朗廣場 (YL363)"
     },
     {
         "route": "B1",
@@ -241165,7 +241165,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "2FB355A2C89B7922",
-        "stop_name_tc": "元朗同樂街 (N8) (YL368)"
+        "stop_name_tc": "元朗同樂街 (YL368)"
     },
     {
         "route": "B1",
@@ -241173,7 +241173,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "52656E6A7D0EB9E4",
-        "stop_name_tc": "元朗谷亭街 (N18) (YL379)"
+        "stop_name_tc": "元朗谷亭街 (YL379)"
     },
     {
         "route": "B1",
@@ -241253,7 +241253,7 @@
         "service_type": "2",
         "seq": "3",
         "stop": "BF85B8D218CD0FF6",
-        "stop_name_tc": "元朗廣場 (N4) (YL363)"
+        "stop_name_tc": "元朗廣場 (YL363)"
     },
     {
         "route": "B1",
@@ -241261,7 +241261,7 @@
         "service_type": "2",
         "seq": "4",
         "stop": "2FB355A2C89B7922",
-        "stop_name_tc": "元朗同樂街 (N8) (YL368)"
+        "stop_name_tc": "元朗同樂街 (YL368)"
     },
     {
         "route": "B1",
@@ -241269,7 +241269,7 @@
         "service_type": "2",
         "seq": "5",
         "stop": "52656E6A7D0EB9E4",
-        "stop_name_tc": "元朗谷亭街 (N18) (YL379)"
+        "stop_name_tc": "元朗谷亭街 (YL379)"
     },
     {
         "route": "B1",
@@ -241341,7 +241341,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "14157BA5C06B0B6B",
-        "stop_name_tc": "元點 (Y1 月台) (YL243)"
+        "stop_name_tc": "元點 (YL243)"
     },
     {
         "route": "B9",
@@ -241373,7 +241373,7 @@
         "service_type": "2",
         "seq": "2",
         "stop": "14157BA5C06B0B6B",
-        "stop_name_tc": "元點 (Y1 月台) (YL243)"
+        "stop_name_tc": "元點 (YL243)"
     },
     {
         "route": "B9",
@@ -241469,7 +241469,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "14157BA5C06B0B6B",
-        "stop_name_tc": "元點 (Y1 月台) (YL243)"
+        "stop_name_tc": "元點 (YL243)"
     },
     {
         "route": "B9A",
@@ -241477,7 +241477,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "AC935792C88AF135",
-        "stop_name_tc": "元朗又新街 (S5) (YL249)"
+        "stop_name_tc": "元朗又新街 (YL249)"
     },
     {
         "route": "B9A",
@@ -241485,7 +241485,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "43E5D3A445382F82",
-        "stop_name_tc": "元朗大棠路 (S8) (YL252)"
+        "stop_name_tc": "元朗大棠路 (YL252)"
     },
     {
         "route": "B9A",
@@ -241517,7 +241517,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "B02B0B9F73E50D93",
-        "stop_name_tc": "元朗廣場 (N3) (YL362)"
+        "stop_name_tc": "元朗廣場 (YL362)"
     },
     {
         "route": "B9A",
@@ -241525,7 +241525,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "2FB355A2C89B7922",
-        "stop_name_tc": "元朗同樂街 (N8) (YL368)"
+        "stop_name_tc": "元朗同樂街 (YL368)"
     },
     {
         "route": "B9A",
@@ -241533,7 +241533,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "52656E6A7D0EB9E4",
-        "stop_name_tc": "元朗谷亭街 (N18) (YL379)"
+        "stop_name_tc": "元朗谷亭街 (YL379)"
     },
     {
         "route": "B9A",
@@ -244229,7 +244229,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "F87A56BD0A2640ED",
-        "stop_name_tc": "元朗廣場 (N2) (YL360)"
+        "stop_name_tc": "元朗廣場 (YL360)"
     },
     {
         "route": "E36",
@@ -244237,7 +244237,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "D54B0CA58FE5559D",
-        "stop_name_tc": "元朗同樂街 (N12) (YL372)"
+        "stop_name_tc": "元朗同樂街 (YL372)"
     },
     {
         "route": "E36",
@@ -244245,7 +244245,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "3D566753F149907F",
-        "stop_name_tc": "谷亭街 (N17) (YL378)"
+        "stop_name_tc": "谷亭街 (YL378)"
     },
     {
         "route": "E36",
@@ -244373,7 +244373,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "7B93AB79165E79E6",
-        "stop_name_tc": "形點 I (A2) (YL241)"
+        "stop_name_tc": "形點 I (YL241)"
     },
     {
         "route": "E36",
@@ -244381,7 +244381,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "B802C4681F58E3E2",
-        "stop_name_tc": "又新街 (S1) (YL245)"
+        "stop_name_tc": "又新街 (YL245)"
     },
     {
         "route": "E36",
@@ -244389,7 +244389,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "F8DED1E04A074504",
-        "stop_name_tc": "大棠路 (S6) (YL250)"
+        "stop_name_tc": "大棠路 (YL250)"
     },
     {
         "route": "E36",
@@ -244397,7 +244397,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "8BE58FAD7E9C94C7",
-        "stop_name_tc": "康樂路 (S11) (YL255)"
+        "stop_name_tc": "康樂路 (YL255)"
     },
     {
         "route": "E36",
@@ -244405,7 +244405,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "1DBADE3376C4149E",
-        "stop_name_tc": "元朗警署 (S13) (YL257)"
+        "stop_name_tc": "元朗警署 (YL257)"
     },
     {
         "route": "E36",
@@ -244693,7 +244693,7 @@
         "service_type": "1",
         "seq": "23",
         "stop": "7B93AB79165E79E6",
-        "stop_name_tc": "形點 I (A2) (YL241)"
+        "stop_name_tc": "形點 I (YL241)"
     },
     {
         "route": "E36A",
@@ -245173,7 +245173,7 @@
         "service_type": "1",
         "seq": "33",
         "stop": "F87A56BD0A2640ED",
-        "stop_name_tc": "元朗廣場 (N2) (YL360)"
+        "stop_name_tc": "元朗廣場 (YL360)"
     },
     {
         "route": "E36C",
@@ -245181,7 +245181,7 @@
         "service_type": "1",
         "seq": "34",
         "stop": "D54B0CA58FE5559D",
-        "stop_name_tc": "元朗同樂街 (N12) (YL372)"
+        "stop_name_tc": "元朗同樂街 (YL372)"
     },
     {
         "route": "E36C",
@@ -245189,7 +245189,7 @@
         "service_type": "1",
         "seq": "35",
         "stop": "3D566753F149907F",
-        "stop_name_tc": "谷亭街 (N17) (YL378)"
+        "stop_name_tc": "谷亭街 (YL378)"
     },
     {
         "route": "E36C",
@@ -245213,7 +245213,7 @@
         "service_type": "1",
         "seq": "38",
         "stop": "7B93AB79165E79E6",
-        "stop_name_tc": "形點 I (A2) (YL241)"
+        "stop_name_tc": "形點 I (YL241)"
     },
     {
         "route": "E36C",
@@ -245261,7 +245261,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "7B93AB79165E79E6",
-        "stop_name_tc": "形點 I (A2) (YL241)"
+        "stop_name_tc": "形點 I (YL241)"
     },
     {
         "route": "E36C",
@@ -245269,7 +245269,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "B802C4681F58E3E2",
-        "stop_name_tc": "又新街 (S1) (YL245)"
+        "stop_name_tc": "又新街 (YL245)"
     },
     {
         "route": "E36C",
@@ -245277,7 +245277,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "F8DED1E04A074504",
-        "stop_name_tc": "大棠路 (S6) (YL250)"
+        "stop_name_tc": "大棠路 (YL250)"
     },
     {
         "route": "E36C",
@@ -245285,7 +245285,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "8BE58FAD7E9C94C7",
-        "stop_name_tc": "康樂路 (S11) (YL255)"
+        "stop_name_tc": "康樂路 (YL255)"
     },
     {
         "route": "E36C",
@@ -245293,7 +245293,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "1DBADE3376C4149E",
-        "stop_name_tc": "元朗警署 (S13) (YL257)"
+        "stop_name_tc": "元朗警署 (YL257)"
     },
     {
         "route": "E36C",
@@ -246253,7 +246253,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "7B93AB79165E79E6",
-        "stop_name_tc": "形點 I (A2) (YL241)"
+        "stop_name_tc": "形點 I (YL241)"
     },
     {
         "route": "E36S",
@@ -246261,7 +246261,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "B802C4681F58E3E2",
-        "stop_name_tc": "又新街 (S1) (YL245)"
+        "stop_name_tc": "又新街 (YL245)"
     },
     {
         "route": "E36S",
@@ -246269,7 +246269,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "F8DED1E04A074504",
-        "stop_name_tc": "大棠路 (S6) (YL250)"
+        "stop_name_tc": "大棠路 (YL250)"
     },
     {
         "route": "E36S",
@@ -246277,7 +246277,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "8BE58FAD7E9C94C7",
-        "stop_name_tc": "康樂路 (S11) (YL255)"
+        "stop_name_tc": "康樂路 (YL255)"
     },
     {
         "route": "E36S",
@@ -246317,7 +246317,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "F87A56BD0A2640ED",
-        "stop_name_tc": "元朗廣場 (N2) (YL360)"
+        "stop_name_tc": "元朗廣場 (YL360)"
     },
     {
         "route": "E36S",
@@ -246325,7 +246325,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "D54B0CA58FE5559D",
-        "stop_name_tc": "元朗同樂街 (N12) (YL372)"
+        "stop_name_tc": "元朗同樂街 (YL372)"
     },
     {
         "route": "E36S",
@@ -246333,7 +246333,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "3D566753F149907F",
-        "stop_name_tc": "谷亭街 (N17) (YL378)"
+        "stop_name_tc": "谷亭街 (YL378)"
     },
     {
         "route": "E36S",
@@ -257325,7 +257325,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "6A4B371546D489BF",
-        "stop_name_tc": "形點 I (A3) (YL242)"
+        "stop_name_tc": "形點 I (YL242)"
     },
     {
         "route": "N269",
@@ -257333,7 +257333,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "CCBBE2779B1765C4",
-        "stop_name_tc": "元朗又新街 (S4) (YL248)"
+        "stop_name_tc": "元朗又新街 (YL248)"
     },
     {
         "route": "N269",
@@ -257341,7 +257341,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "78AD2432201EF5EE",
-        "stop_name_tc": "元朗大棠路 (S7) (YL251)"
+        "stop_name_tc": "元朗大棠路 (YL251)"
     },
     {
         "route": "N269",
@@ -257349,7 +257349,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "D9CE618F99BAC2B6",
-        "stop_name_tc": "元朗康樂路 (S10) (YL254)"
+        "stop_name_tc": "元朗康樂路 (YL254)"
     },
     {
         "route": "N269",
@@ -257357,7 +257357,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "1B0FD9C27F5FE0BE",
-        "stop_name_tc": "元朗警署 (S14) (YL258)"
+        "stop_name_tc": "元朗警署 (YL258)"
     },
     {
         "route": "N269",
@@ -257621,7 +257621,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "B02B0B9F73E50D93",
-        "stop_name_tc": "元朗廣場 (N3) (YL362)"
+        "stop_name_tc": "元朗廣場 (YL362)"
     },
     {
         "route": "N269",
@@ -257629,7 +257629,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "1DEFCF90AB170FD7",
-        "stop_name_tc": "元朗同樂街 (N11) (YL371)"
+        "stop_name_tc": "元朗同樂街 (YL371)"
     },
     {
         "route": "N269",
@@ -257637,7 +257637,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "51BD0FD05C62F3F4",
-        "stop_name_tc": "元朗谷亭街 (N13) (YL374)"
+        "stop_name_tc": "元朗谷亭街 (YL374)"
     },
     {
         "route": "N269",
@@ -258589,7 +258589,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "14157BA5C06B0B6B",
-        "stop_name_tc": "元點 (Y1 月台) (YL243)"
+        "stop_name_tc": "元點 (YL243)"
     },
     {
         "route": "N276",
@@ -258597,7 +258597,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "F63C4B8B958E9830",
-        "stop_name_tc": "元朗又新街 (S3) (YL247)"
+        "stop_name_tc": "元朗又新街 (YL247)"
     },
     {
         "route": "N276",
@@ -258605,7 +258605,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "74C51A8A3D783F40",
-        "stop_name_tc": "元朗大棠路 (S9) (YL253)"
+        "stop_name_tc": "元朗大棠路 (YL253)"
     },
     {
         "route": "N276",
@@ -258613,7 +258613,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "D9CE618F99BAC2B6",
-        "stop_name_tc": "元朗康樂路 (S10) (YL254)"
+        "stop_name_tc": "元朗康樂路 (YL254)"
     },
     {
         "route": "N276",
@@ -258837,7 +258837,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "F87A56BD0A2640ED",
-        "stop_name_tc": "元朗廣場 (N2) (YL360)"
+        "stop_name_tc": "元朗廣場 (YL360)"
     },
     {
         "route": "N276",
@@ -258845,7 +258845,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "D747ADD80335605C",
-        "stop_name_tc": "元朗同樂街 (N10) (YL370)"
+        "stop_name_tc": "元朗同樂街 (YL370)"
     },
     {
         "route": "N276",
@@ -258853,7 +258853,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "445B2A02DB891CA9",
-        "stop_name_tc": "元朗谷亭街 (N14) (YL375)"
+        "stop_name_tc": "元朗谷亭街 (YL375)"
     },
     {
         "route": "N276",
@@ -261853,7 +261853,7 @@
         "service_type": "1",
         "seq": "31",
         "stop": "F87A56BD0A2640ED",
-        "stop_name_tc": "元朗廣場 (N2) (YL360)"
+        "stop_name_tc": "元朗廣場 (YL360)"
     },
     {
         "route": "N30",
@@ -261861,7 +261861,7 @@
         "service_type": "1",
         "seq": "32",
         "stop": "D54B0CA58FE5559D",
-        "stop_name_tc": "元朗同樂街 (N12) (YL372)"
+        "stop_name_tc": "元朗同樂街 (YL372)"
     },
     {
         "route": "N30",
@@ -261869,7 +261869,7 @@
         "service_type": "1",
         "seq": "33",
         "stop": "3D566753F149907F",
-        "stop_name_tc": "谷亭街 (N17) (YL378)"
+        "stop_name_tc": "谷亭街 (YL378)"
     },
     {
         "route": "N30",
@@ -261893,7 +261893,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "B802C4681F58E3E2",
-        "stop_name_tc": "又新街 (S1) (YL245)"
+        "stop_name_tc": "又新街 (YL245)"
     },
     {
         "route": "N30",
@@ -261901,7 +261901,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "F8DED1E04A074504",
-        "stop_name_tc": "大棠路 (S6) (YL250)"
+        "stop_name_tc": "大棠路 (YL250)"
     },
     {
         "route": "N30",
@@ -261909,7 +261909,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "8BE58FAD7E9C94C7",
-        "stop_name_tc": "康樂路 (S11) (YL255)"
+        "stop_name_tc": "康樂路 (YL255)"
     },
     {
         "route": "N30",
@@ -261917,7 +261917,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "1DBADE3376C4149E",
-        "stop_name_tc": "元朗警署 (S13) (YL257)"
+        "stop_name_tc": "元朗警署 (YL257)"
     },
     {
         "route": "N30",
@@ -263429,7 +263429,7 @@
         "service_type": "1",
         "seq": "25",
         "stop": "6A4B371546D489BF",
-        "stop_name_tc": "形點 I (A3) (YL242)"
+        "stop_name_tc": "形點 I (YL242)"
     },
     {
         "route": "N368",
@@ -263437,7 +263437,7 @@
         "service_type": "1",
         "seq": "26",
         "stop": "AC935792C88AF135",
-        "stop_name_tc": "元朗又新街 (S5) (YL249)"
+        "stop_name_tc": "元朗又新街 (YL249)"
     },
     {
         "route": "N368",
@@ -263445,7 +263445,7 @@
         "service_type": "1",
         "seq": "27",
         "stop": "43E5D3A445382F82",
-        "stop_name_tc": "元朗大棠路 (S8) (YL252)"
+        "stop_name_tc": "元朗大棠路 (YL252)"
     },
     {
         "route": "N368",
@@ -263709,7 +263709,7 @@
         "service_type": "2",
         "seq": "32",
         "stop": "6A4B371546D489BF",
-        "stop_name_tc": "形點 I (A3) (YL242)"
+        "stop_name_tc": "形點 I (YL242)"
     },
     {
         "route": "N368",
@@ -263717,7 +263717,7 @@
         "service_type": "2",
         "seq": "33",
         "stop": "AC935792C88AF135",
-        "stop_name_tc": "元朗又新街 (S5) (YL249)"
+        "stop_name_tc": "元朗又新街 (YL249)"
     },
     {
         "route": "N368",
@@ -263725,7 +263725,7 @@
         "service_type": "2",
         "seq": "34",
         "stop": "43E5D3A445382F82",
-        "stop_name_tc": "元朗大棠路 (S8) (YL252)"
+        "stop_name_tc": "元朗大棠路 (YL252)"
     },
     {
         "route": "N368",
@@ -263749,7 +263749,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "C296D9B3313C1F77",
-        "stop_name_tc": "元朗同樂街 (N9) (YL369)"
+        "stop_name_tc": "元朗同樂街 (YL369)"
     },
     {
         "route": "N368",
@@ -263757,7 +263757,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "445B2A02DB891CA9",
-        "stop_name_tc": "元朗谷亭街 (N14) (YL375)"
+        "stop_name_tc": "元朗谷亭街 (YL375)"
     },
     {
         "route": "N368",
@@ -272053,7 +272053,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "7B93AB79165E79E6",
-        "stop_name_tc": "形點 I (A2) (YL241)"
+        "stop_name_tc": "形點 I (YL241)"
     },
     {
         "route": "NA36",
@@ -272061,7 +272061,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "B802C4681F58E3E2",
-        "stop_name_tc": "又新街 (S1) (YL245)"
+        "stop_name_tc": "又新街 (YL245)"
     },
     {
         "route": "NA36",
@@ -272069,7 +272069,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "F8DED1E04A074504",
-        "stop_name_tc": "大棠路 (S6) (YL250)"
+        "stop_name_tc": "大棠路 (YL250)"
     },
     {
         "route": "NA36",
@@ -272077,7 +272077,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "8BE58FAD7E9C94C7",
-        "stop_name_tc": "康樂路 (S11) (YL255)"
+        "stop_name_tc": "康樂路 (YL255)"
     },
     {
         "route": "NA36",
@@ -272085,7 +272085,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "1DBADE3376C4149E",
-        "stop_name_tc": "元朗警署 (S13) (YL257)"
+        "stop_name_tc": "元朗警署 (YL257)"
     },
     {
         "route": "NA36",
@@ -272173,7 +272173,7 @@
         "service_type": "2",
         "seq": "2",
         "stop": "7B93AB79165E79E6",
-        "stop_name_tc": "形點 I (A2) (YL241)"
+        "stop_name_tc": "形點 I (YL241)"
     },
     {
         "route": "NA36",
@@ -272181,7 +272181,7 @@
         "service_type": "2",
         "seq": "3",
         "stop": "B802C4681F58E3E2",
-        "stop_name_tc": "又新街 (S1) (YL245)"
+        "stop_name_tc": "又新街 (YL245)"
     },
     {
         "route": "NA36",
@@ -272189,7 +272189,7 @@
         "service_type": "2",
         "seq": "4",
         "stop": "F8DED1E04A074504",
-        "stop_name_tc": "大棠路 (S6) (YL250)"
+        "stop_name_tc": "大棠路 (YL250)"
     },
     {
         "route": "NA36",
@@ -272197,7 +272197,7 @@
         "service_type": "2",
         "seq": "5",
         "stop": "8BE58FAD7E9C94C7",
-        "stop_name_tc": "康樂路 (S11) (YL255)"
+        "stop_name_tc": "康樂路 (YL255)"
     },
     {
         "route": "NA36",
@@ -272205,7 +272205,7 @@
         "service_type": "2",
         "seq": "6",
         "stop": "1DBADE3376C4149E",
-        "stop_name_tc": "元朗警署 (S13) (YL257)"
+        "stop_name_tc": "元朗警署 (YL257)"
     },
     {
         "route": "NA36",
@@ -272357,7 +272357,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "F87A56BD0A2640ED",
-        "stop_name_tc": "元朗廣場 (N2) (YL360)"
+        "stop_name_tc": "元朗廣場 (YL360)"
     },
     {
         "route": "NA36",
@@ -272365,7 +272365,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "D54B0CA58FE5559D",
-        "stop_name_tc": "元朗同樂街 (N12) (YL372)"
+        "stop_name_tc": "元朗同樂街 (YL372)"
     },
     {
         "route": "NA36",
@@ -272373,7 +272373,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "3D566753F149907F",
-        "stop_name_tc": "谷亭街 (N17) (YL378)"
+        "stop_name_tc": "谷亭街 (YL378)"
     },
     {
         "route": "NA36",
@@ -272501,7 +272501,7 @@
         "service_type": "2",
         "seq": "9",
         "stop": "F87A56BD0A2640ED",
-        "stop_name_tc": "元朗廣場 (N2) (YL360)"
+        "stop_name_tc": "元朗廣場 (YL360)"
     },
     {
         "route": "NA36",
@@ -272509,7 +272509,7 @@
         "service_type": "2",
         "seq": "10",
         "stop": "D54B0CA58FE5559D",
-        "stop_name_tc": "元朗同樂街 (N12) (YL372)"
+        "stop_name_tc": "元朗同樂街 (YL372)"
     },
     {
         "route": "NA36",
@@ -272517,7 +272517,7 @@
         "service_type": "2",
         "seq": "11",
         "stop": "3D566753F149907F",
-        "stop_name_tc": "谷亭街 (N17) (YL378)"
+        "stop_name_tc": "谷亭街 (YL378)"
     },
     {
         "route": "NA36",
@@ -275653,7 +275653,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "21DA1E33BF580B96",
-        "stop_name_tc": "元點 (C1) (YL244)"
+        "stop_name_tc": "元點 (YL244)"
     },
     {
         "route": "P968",
@@ -275661,7 +275661,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "AC935792C88AF135",
-        "stop_name_tc": "元朗又新街 (S5) (YL249)"
+        "stop_name_tc": "元朗又新街 (YL249)"
     },
     {
         "route": "P968",
@@ -275685,7 +275685,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "C296D9B3313C1F77",
-        "stop_name_tc": "元朗同樂街 (N9) (YL369)"
+        "stop_name_tc": "元朗同樂街 (YL369)"
     },
     {
         "route": "P968",
@@ -275693,7 +275693,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "AD4CB5E1CAAF8063",
-        "stop_name_tc": "元朗谷亭街 (N15) (YL376)"
+        "stop_name_tc": "元朗谷亭街 (YL376)"
     },
     {
         "route": "P968",
@@ -275813,7 +275813,7 @@
         "service_type": "2",
         "seq": "3",
         "stop": "B02B0B9F73E50D93",
-        "stop_name_tc": "元朗廣場 (N3) (YL362)"
+        "stop_name_tc": "元朗廣場 (YL362)"
     },
     {
         "route": "P968",
@@ -275821,7 +275821,7 @@
         "service_type": "2",
         "seq": "4",
         "stop": "C296D9B3313C1F77",
-        "stop_name_tc": "元朗同樂街 (N9) (YL369)"
+        "stop_name_tc": "元朗同樂街 (YL369)"
     },
     {
         "route": "P968",
@@ -275829,7 +275829,7 @@
         "service_type": "2",
         "seq": "5",
         "stop": "AD4CB5E1CAAF8063",
-        "stop_name_tc": "元朗谷亭街 (N15) (YL376)"
+        "stop_name_tc": "元朗谷亭街 (YL376)"
     },
     {
         "route": "P968",
@@ -280541,7 +280541,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "14157BA5C06B0B6B",
-        "stop_name_tc": "元點 (Y1 月台) (YL243)"
+        "stop_name_tc": "元點 (YL243)"
     },
     {
         "route": "SP6",
@@ -280549,7 +280549,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "605B05317A40A2A4",
-        "stop_name_tc": "元朗又新街 (S2) (YL246)"
+        "stop_name_tc": "元朗又新街 (YL246)"
     },
     {
         "route": "SP6",
@@ -280557,7 +280557,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "78AD2432201EF5EE",
-        "stop_name_tc": "元朗大棠路 (S7) (YL251)"
+        "stop_name_tc": "元朗大棠路 (YL251)"
     },
     {
         "route": "SP6",
@@ -280565,7 +280565,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "D9CE618F99BAC2B6",
-        "stop_name_tc": "元朗康樂路 (S10) (YL254)"
+        "stop_name_tc": "元朗康樂路 (YL254)"
     },
     {
         "route": "SP6",
@@ -280573,7 +280573,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "0E2B8E1D544C6889",
-        "stop_name_tc": "元朗警署 (S12) (YL256)"
+        "stop_name_tc": "元朗警署 (YL256)"
     },
     {
         "route": "SP6",
@@ -283213,7 +283213,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "F87A56BD0A2640ED",
-        "stop_name_tc": "元朗廣場 (N2) (YL360)"
+        "stop_name_tc": "元朗廣場 (YL360)"
     },
     {
         "route": "X36",
@@ -283221,7 +283221,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "D54B0CA58FE5559D",
-        "stop_name_tc": "元朗同樂街 (N12) (YL372)"
+        "stop_name_tc": "元朗同樂街 (YL372)"
     },
     {
         "route": "X36",
@@ -283229,7 +283229,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "3D566753F149907F",
-        "stop_name_tc": "谷亭街 (N17) (YL378)"
+        "stop_name_tc": "谷亭街 (YL378)"
     },
     {
         "route": "X36",
