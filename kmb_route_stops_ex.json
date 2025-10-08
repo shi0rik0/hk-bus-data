@@ -75677,7 +75677,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "B113E1371D5AC497",
-        "stop_name_tc": null
+        "stop_name_tc": "尚城 (YL268)"
     },
     {
         "route": "276P",
@@ -154965,7 +154965,7 @@
         "service_type": "1",
         "seq": "29",
         "stop": "B113E1371D5AC497",
-        "stop_name_tc": null
+        "stop_name_tc": "尚城 (YL268)"
     },
     {
         "route": "68X",

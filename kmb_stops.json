@@ -33528,14 +33528,6 @@
         "long": "114.121471"
     },
     {
-        "stop": "A1843D30B9F347DE",
-        "name_en": "UPTOWN",
-        "name_tc": "尚城",
-        "name_sc": "尚城",
-        "lat": "22.435412",
-        "long": "114.000373"
-    },
-    {
         "stop": "A19AA44836C6FA32",
         "name_en": "WONG SHEK PIER BUS TERMINUS (SK920)",
         "name_tc": "黃石碼頭總站 (SK920)",
@@ -36878,6 +36870,14 @@
         "name_sc": "天颂苑颂棋阁 (TN271)",
         "lat": "22.461778",
         "long": "114.000401"
+    },
+    {
+        "stop": "B113E1371D5AC497",
+        "name_en": "UPTOWN (YL268)",
+        "name_tc": "尚城 (YL268)",
+        "name_sc": "尚城 (YL268)",
+        "lat": "22.435412",
+        "long": "114.000373"
     },
     {
         "stop": "B1150B18848D0598",
