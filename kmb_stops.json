@@ -1752,6 +1752,14 @@
         "long": "114.148799"
     },
     {
+        "stop": "09A5D5C90F15C08C",
+        "name_en": "LUNG KWU TAN",
+        "name_tc": "龍鼓灘",
+        "name_sc": "龙鼓滩",
+        "lat": "22.389055",
+        "long": "113.920312"
+    },
+    {
         "stop": "09AC1B6D147CA643",
         "name_en": "HIN KENG BUS TERMINUS (TA932)",
         "name_tc": "顯徑巴士總站 (TA932)",
@@ -43120,6 +43128,14 @@
         "long": "114.180447"
     },
     {
+        "stop": "D0937674DF369B23",
+        "name_en": "TUEN MUN ROAD BBI (C1) (TM113)",
+        "name_tc": "屯門公路轉車站 (C1) (TM113)",
+        "name_sc": "屯门公路转车站 (C1) (TM113)",
+        "lat": "22.358492",
+        "long": "114.019106"
+    },
+    {
         "stop": "D09590C6061D9FE7",
         "name_en": "MING KUM STATION (TM586)",
         "name_tc": "鳴琴站 (TM586)",
@@ -44382,6 +44398,14 @@
         "name_sc": "皇后像广场 (CW145)",
         "lat": "22.280703",
         "long": "114.159910"
+    },
+    {
+        "stop": "D6001B758148778A",
+        "name_en": "TSANG TSUI (TM876)",
+        "name_tc": "曾咀 (TM876)",
+        "name_sc": "曾咀 (TM876)",
+        "lat": "22.419386",
+        "long": "113.921369"
     },
     {
         "stop": "D617FE3785FAC79A",

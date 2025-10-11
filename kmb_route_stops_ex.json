@@ -105316,8 +105316,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "2",
-        "stop": "6085C420AB7E6FF9",
-        "stop_name_tc": "佐敦道西九龍站 (YT240)"
+        "stop": "98F2067168C267FE",
+        "stop_name_tc": "佐敦道西九龍站 (YT242)"
     },
     {
         "route": "36B",
@@ -116420,8 +116420,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "2",
-        "stop": "6085C420AB7E6FF9",
-        "stop_name_tc": "佐敦道西九龍站 (YT240)"
+        "stop": "98F2067168C267FE",
+        "stop_name_tc": "佐敦道西九龍站 (YT242)"
     },
     {
         "route": "42A",
@@ -121564,8 +121564,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "2",
-        "stop": "6085C420AB7E6FF9",
-        "stop_name_tc": "佐敦道西九龍站 (YT240)"
+        "stop": "98F2067168C267FE",
+        "stop_name_tc": "佐敦道西九龍站 (YT242)"
     },
     {
         "route": "46",
@@ -125284,8 +125284,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "16",
-        "stop": "98F2067168C267FE",
-        "stop_name_tc": "佐敦道西九龍站 (YT242)"
+        "stop": "6085C420AB7E6FF9",
+        "stop_name_tc": "佐敦道西九龍站 (YT240)"
     },
     {
         "route": "49",
@@ -127414,6 +127414,46 @@
         "seq": "35",
         "stop": "835DE31CDA7EBEC9",
         "stop_name_tc": "旺角(柏景灣)總站 (MK911)"
+    },
+    {
+        "route": "52S",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "1",
+        "stop": "D6001B758148778A",
+        "stop_name_tc": "曾咀 (TM876)"
+    },
+    {
+        "route": "52S",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "2",
+        "stop": "212BFF5737D0116C",
+        "stop_name_tc": "屯門公路轉車站 (A9) (TM741)"
+    },
+    {
+        "route": "52S",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "1",
+        "stop": "D0937674DF369B23",
+        "stop_name_tc": "屯門公路轉車站 (C1) (TM113)"
+    },
+    {
+        "route": "52S",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "2",
+        "stop": "09A5D5C90F15C08C",
+        "stop_name_tc": "龍鼓灘"
+    },
+    {
+        "route": "52S",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "3",
+        "stop": "D6001B758148778A",
+        "stop_name_tc": "曾咀 (TM876)"
     },
     {
         "route": "52X",
@@ -160832,262 +160872,6 @@
         "stop_name_tc": "蘭秀道 (SS270)"
     },
     {
-        "route": "6X",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "1",
-        "stop": "3856383C8A22904A",
-        "stop_name_tc": "美孚巴士總站 (SS994)"
-    },
-    {
-        "route": "6X",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "2",
-        "stop": "ACA7282A66D0A29B",
-        "stop_name_tc": "大南西街 (SS630)"
-    },
-    {
-        "route": "6X",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "3",
-        "stop": "48E68D36FFC315F6",
-        "stop_name_tc": "興華街 (SS524)"
-    },
-    {
-        "route": "6X",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "4",
-        "stop": "3AE4D452A5105EFD",
-        "stop_name_tc": "大埔道北河街 (SS744)"
-    },
-    {
-        "route": "6X",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "5",
-        "stop": "A70DCB46EC98F43E",
-        "stop_name_tc": "太子站,旺角花墟 (MK503)"
-    },
-    {
-        "route": "6X",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "6",
-        "stop": "80E2DB8AC142F626",
-        "stop_name_tc": "旺角站,旺角中心 (MK510)"
-    },
-    {
-        "route": "6X",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "7",
-        "stop": "E93113C9CA615B0C",
-        "stop_name_tc": "旺角豉油街 (MK520)"
-    },
-    {
-        "route": "6X",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "8",
-        "stop": "D48E82AC2961C581",
-        "stop_name_tc": "油麻地文明里 (YT540)"
-    },
-    {
-        "route": "6X",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "9",
-        "stop": "97377AA89B45CD34",
-        "stop_name_tc": "觀音街 (HH340)"
-    },
-    {
-        "route": "6X",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "10",
-        "stop": "FEF7B371B95E5E13",
-        "stop_name_tc": "紅磡佛光街 (HH244)"
-    },
-    {
-        "route": "6X",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "11",
-        "stop": "9E655CE3250647EA",
-        "stop_name_tc": "石塘街 (HH250)"
-    },
-    {
-        "route": "6X",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "12",
-        "stop": "2C7AEE8C6B2BC06A",
-        "stop_name_tc": "浙江街 (KC261)"
-    },
-    {
-        "route": "6X",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "13",
-        "stop": "0B8D095A45B05587",
-        "stop_name_tc": "落山道 (KC262)"
-    },
-    {
-        "route": "6X",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "14",
-        "stop": "C3427DE8E291FFA6",
-        "stop_name_tc": "九龍城碼頭巴士總站(落客站)"
-    },
-    {
-        "route": "6X",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "1",
-        "stop": "D63D9356CBA8B0CD",
-        "stop_name_tc": "盛德街總站 (KC920)"
-    },
-    {
-        "route": "6X",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "2",
-        "stop": "225F00F550C301AE",
-        "stop_name_tc": "新山道 (KC725)"
-    },
-    {
-        "route": "6X",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "3",
-        "stop": "7F864B82461F638D",
-        "stop_name_tc": "土瓜灣街市 (KC730)"
-    },
-    {
-        "route": "6X",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "4",
-        "stop": "33954A6034D48443",
-        "stop_name_tc": "鴻福街 (KC771)"
-    },
-    {
-        "route": "6X",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "5",
-        "stop": "4F8B610B0A033DA3",
-        "stop_name_tc": "紅磡鶴園街 (HH784)"
-    },
-    {
-        "route": "6X",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "6",
-        "stop": "9C65FAD146B82C8D",
-        "stop_name_tc": "紅磡街市 (HH787)"
-    },
-    {
-        "route": "6X",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "7",
-        "stop": "B122FA4A77BABF24",
-        "stop_name_tc": "德民街 (HH345)"
-    },
-    {
-        "route": "6X",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "8",
-        "stop": "BBE77B90CE43AEFA",
-        "stop_name_tc": "油麻地眾坊街 (YT138)"
-    },
-    {
-        "route": "6X",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "9",
-        "stop": "246B98B8B9F002F0",
-        "stop_name_tc": "旺角登打士街 (MK159)"
-    },
-    {
-        "route": "6X",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "10",
-        "stop": "38F0C9768AA2AF93",
-        "stop_name_tc": "山東街,朗豪坊 (MK166)"
-    },
-    {
-        "route": "6X",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "11",
-        "stop": "99256D08CF861BA5",
-        "stop_name_tc": "弼街,始創中心 (MK180)"
-    },
-    {
-        "route": "6X",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "12",
-        "stop": "D0A763AFCDE36124",
-        "stop_name_tc": "太子站,旺角花墟 (MK185)"
-    },
-    {
-        "route": "6X",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "13",
-        "stop": "1A85A6C132C4197F",
-        "stop_name_tc": "深水埗楓樹街 (SS201)"
-    },
-    {
-        "route": "6X",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "14",
-        "stop": "C3FD63E226246052",
-        "stop_name_tc": "深水埗北河街 (SS209)"
-    },
-    {
-        "route": "6X",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "15",
-        "stop": "098AF67CBBB9FBA9",
-        "stop_name_tc": "怡閣苑 (SS219)"
-    },
-    {
-        "route": "6X",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "16",
-        "stop": "04FC6E130D4953F4",
-        "stop_name_tc": "長沙灣遊樂場 (SS227)"
-    },
-    {
-        "route": "6X",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "17",
-        "stop": "BB5DEEAB7F39ECD9",
-        "stop_name_tc": "泓景臺 (SS317)"
-    },
-    {
-        "route": "6X",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "18",
-        "stop": "3856383C8A22904A",
-        "stop_name_tc": "美孚巴士總站 (SS994)"
-    },
-    {
         "route": "7",
         "bound": "I",
         "service_type": "1",
@@ -183044,8 +182828,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "2",
-        "stop": "6085C420AB7E6FF9",
-        "stop_name_tc": "佐敦道西九龍站 (YT240)"
+        "stop": "98F2067168C267FE",
+        "stop_name_tc": "佐敦道西九龍站 (YT242)"
     },
     {
         "route": "81",
@@ -205052,8 +204836,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "17",
-        "stop": "6085C420AB7E6FF9",
-        "stop_name_tc": "佐敦道西九龍站 (YT240)"
+        "stop": "98F2067168C267FE",
+        "stop_name_tc": "佐敦道西九龍站 (YT242)"
     },
     {
         "route": "914",
@@ -205252,8 +205036,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "12",
-        "stop": "98F2067168C267FE",
-        "stop_name_tc": "佐敦道西九龍站 (YT242)"
+        "stop": "6085C420AB7E6FF9",
+        "stop_name_tc": "佐敦道西九龍站 (YT240)"
     },
     {
         "route": "914",
@@ -205596,8 +205380,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "12",
-        "stop": "98F2067168C267FE",
-        "stop_name_tc": "佐敦道西九龍站 (YT242)"
+        "stop": "6085C420AB7E6FF9",
+        "stop_name_tc": "佐敦道西九龍站 (YT240)"
     },
     {
         "route": "914X",
@@ -281836,8 +281620,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "3",
-        "stop": "98F2067168C267FE",
-        "stop_name_tc": "佐敦道西九龍站 (YT242)"
+        "stop": "6085C420AB7E6FF9",
+        "stop_name_tc": "佐敦道西九龍站 (YT240)"
     },
     {
         "route": "W2",
@@ -282004,8 +281788,8 @@
         "bound": "O",
         "service_type": "2",
         "seq": "3",
-        "stop": "98F2067168C267FE",
-        "stop_name_tc": "佐敦道西九龍站 (YT242)"
+        "stop": "6085C420AB7E6FF9",
+        "stop_name_tc": "佐敦道西九龍站 (YT240)"
     },
     {
         "route": "W2",
