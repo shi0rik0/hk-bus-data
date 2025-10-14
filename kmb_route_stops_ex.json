@@ -2445,7 +2445,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "BE27F066CF40DF7D",
-        "stop_name_tc": "啟隧轉車站-啟福道(K1) (KT100)"
+        "stop_name_tc": "啟隧轉車站-啟福道 (KT100)"
     },
     {
         "route": "101X",
@@ -2557,7 +2557,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "F90ED764C7A95649",
-        "stop_name_tc": "啟隧轉車站 - 宏展街 (M1)"
+        "stop_name_tc": "啟隧轉車站 - 宏展街 (KT596)"
     },
     {
         "route": "101X",
@@ -2709,7 +2709,7 @@
         "service_type": "2",
         "seq": "9",
         "stop": "F90ED764C7A95649",
-        "stop_name_tc": "啟隧轉車站 - 宏展街 (M1)"
+        "stop_name_tc": "啟隧轉車站 - 宏展街 (KT596)"
     },
     {
         "route": "101X",
@@ -17077,7 +17077,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "7A95C545D0393126",
-        "stop_name_tc": "啟隧轉車站-啟福道(L1) (KT590)"
+        "stop_name_tc": "啟隧轉車站-啟福道 (KT590)"
     },
     {
         "route": "11X",
@@ -19877,7 +19877,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "416B7606A9A5FEEB",
-        "stop_name_tc": "啟隧轉車站 - 啟成街 (N1)"
+        "stop_name_tc": "啟隧轉車站 - 啟成街 (KT105)"
     },
     {
         "route": "13X",
@@ -20149,7 +20149,7 @@
         "service_type": "2",
         "seq": "12",
         "stop": "416B7606A9A5FEEB",
-        "stop_name_tc": "啟隧轉車站 - 啟成街 (N1)"
+        "stop_name_tc": "啟隧轉車站 - 啟成街 (KT105)"
     },
     {
         "route": "13X",
@@ -20445,7 +20445,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "F90ED764C7A95649",
-        "stop_name_tc": "啟隧轉車站 - 宏展街 (M1)"
+        "stop_name_tc": "啟隧轉車站 - 宏展街 (KT596)"
     },
     {
         "route": "13X",
@@ -20645,7 +20645,7 @@
         "service_type": "2",
         "seq": "17",
         "stop": "F90ED764C7A95649",
-        "stop_name_tc": "啟隧轉車站 - 宏展街 (M1)"
+        "stop_name_tc": "啟隧轉車站 - 宏展街 (KT596)"
     },
     {
         "route": "13X",
@@ -20781,7 +20781,7 @@
         "service_type": "3",
         "seq": "9",
         "stop": "F90ED764C7A95649",
-        "stop_name_tc": "啟隧轉車站 - 宏展街 (M1)"
+        "stop_name_tc": "啟隧轉車站 - 宏展街 (KT596)"
     },
     {
         "route": "13X",
@@ -20973,7 +20973,7 @@
         "service_type": "5",
         "seq": "17",
         "stop": "F90ED764C7A95649",
-        "stop_name_tc": "啟隧轉車站 - 宏展街 (M1)"
+        "stop_name_tc": "啟隧轉車站 - 宏展街 (KT596)"
     },
     {
         "route": "13X",
@@ -22797,7 +22797,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "7A95C545D0393126",
-        "stop_name_tc": "啟隧轉車站-啟福道(L1) (KT590)"
+        "stop_name_tc": "啟隧轉車站-啟福道 (KT590)"
     },
     {
         "route": "14X",
@@ -22877,7 +22877,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "BE27F066CF40DF7D",
-        "stop_name_tc": "啟隧轉車站-啟福道(K1) (KT100)"
+        "stop_name_tc": "啟隧轉車站-啟福道 (KT100)"
     },
     {
         "route": "14X",
@@ -24221,7 +24221,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "7A95C545D0393126",
-        "stop_name_tc": "啟隧轉車站-啟福道(L1) (KT590)"
+        "stop_name_tc": "啟隧轉車站-啟福道 (KT590)"
     },
     {
         "route": "15X",
@@ -33717,7 +33717,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "BE27F066CF40DF7D",
-        "stop_name_tc": "啟隧轉車站-啟福道(K1) (KT100)"
+        "stop_name_tc": "啟隧轉車站-啟福道 (KT100)"
     },
     {
         "route": "213E",
@@ -33821,7 +33821,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "7A95C545D0393126",
-        "stop_name_tc": "啟隧轉車站-啟福道(L1) (KT590)"
+        "stop_name_tc": "啟隧轉車站-啟福道 (KT590)"
     },
     {
         "route": "213E",
@@ -34173,7 +34173,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "F90ED764C7A95649",
-        "stop_name_tc": "啟隧轉車站 - 宏展街 (M1)"
+        "stop_name_tc": "啟隧轉車站 - 宏展街 (KT596)"
     },
     {
         "route": "213X",
@@ -34269,7 +34269,7 @@
         "service_type": "1",
         "seq": "27",
         "stop": "416B7606A9A5FEEB",
-        "stop_name_tc": "啟隧轉車站 - 啟成街 (N1)"
+        "stop_name_tc": "啟隧轉車站 - 啟成街 (KT105)"
     },
     {
         "route": "213X",
@@ -34413,7 +34413,7 @@
         "service_type": "2",
         "seq": "5",
         "stop": "7A95C545D0393126",
-        "stop_name_tc": "啟隧轉車站-啟福道(L1) (KT590)"
+        "stop_name_tc": "啟隧轉車站-啟福道 (KT590)"
     },
     {
         "route": "213X",
@@ -34509,7 +34509,7 @@
         "service_type": "2",
         "seq": "17",
         "stop": "416B7606A9A5FEEB",
-        "stop_name_tc": "啟隧轉車站 - 啟成街 (N1)"
+        "stop_name_tc": "啟隧轉車站 - 啟成街 (KT105)"
     },
     {
         "route": "213X",
@@ -35653,7 +35653,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "7A95C545D0393126",
-        "stop_name_tc": "啟隧轉車站-啟福道(L1) (KT590)"
+        "stop_name_tc": "啟隧轉車站-啟福道 (KT590)"
     },
     {
         "route": "215P",
@@ -35981,7 +35981,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "BE27F066CF40DF7D",
-        "stop_name_tc": "啟隧轉車站-啟福道(K1) (KT100)"
+        "stop_name_tc": "啟隧轉車站-啟福道 (KT100)"
     },
     {
         "route": "215X",
@@ -36221,7 +36221,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "7A95C545D0393126",
-        "stop_name_tc": "啟隧轉車站-啟福道(L1) (KT590)"
+        "stop_name_tc": "啟隧轉車站-啟福道 (KT590)"
     },
     {
         "route": "215X",
@@ -36389,7 +36389,7 @@
         "service_type": "2",
         "seq": "12",
         "stop": "7A95C545D0393126",
-        "stop_name_tc": "啟隧轉車站-啟福道(L1) (KT590)"
+        "stop_name_tc": "啟隧轉車站-啟福道 (KT590)"
     },
     {
         "route": "215X",
@@ -36685,7 +36685,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "7A95C545D0393126",
-        "stop_name_tc": "啟隧轉車站-啟福道(L1) (KT590)"
+        "stop_name_tc": "啟隧轉車站-啟福道 (KT590)"
     },
     {
         "route": "219X",
@@ -36773,7 +36773,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "BE27F066CF40DF7D",
-        "stop_name_tc": "啟隧轉車站-啟福道(K1) (KT100)"
+        "stop_name_tc": "啟隧轉車站-啟福道 (KT100)"
     },
     {
         "route": "219X",
@@ -36853,7 +36853,7 @@
         "service_type": "4",
         "seq": "6",
         "stop": "7A95C545D0393126",
-        "stop_name_tc": "啟隧轉車站-啟福道(L1) (KT590)"
+        "stop_name_tc": "啟隧轉車站-啟福道 (KT590)"
     },
     {
         "route": "219X",
@@ -36941,7 +36941,7 @@
         "service_type": "4",
         "seq": "17",
         "stop": "BE27F066CF40DF7D",
-        "stop_name_tc": "啟隧轉車站-啟福道(K1) (KT100)"
+        "stop_name_tc": "啟隧轉車站-啟福道 (KT100)"
     },
     {
         "route": "219X",
@@ -37157,7 +37157,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "F90ED764C7A95649",
-        "stop_name_tc": "啟隧轉車站 - 宏展街 (M1)"
+        "stop_name_tc": "啟隧轉車站 - 宏展街 (KT596)"
     },
     {
         "route": "224X",
@@ -37253,7 +37253,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "416B7606A9A5FEEB",
-        "stop_name_tc": "啟隧轉車站 - 啟成街 (N1)"
+        "stop_name_tc": "啟隧轉車站 - 啟成街 (KT105)"
     },
     {
         "route": "224X",
@@ -37325,7 +37325,7 @@
         "service_type": "2",
         "seq": "4",
         "stop": "F90ED764C7A95649",
-        "stop_name_tc": "啟隧轉車站 - 宏展街 (M1)"
+        "stop_name_tc": "啟隧轉車站 - 宏展街 (KT596)"
     },
     {
         "route": "224X",
@@ -37413,7 +37413,7 @@
         "service_type": "2",
         "seq": "15",
         "stop": "416B7606A9A5FEEB",
-        "stop_name_tc": "啟隧轉車站 - 啟成街 (N1)"
+        "stop_name_tc": "啟隧轉車站 - 啟成街 (KT105)"
     },
     {
         "route": "224X",
@@ -37501,7 +37501,7 @@
         "service_type": "3",
         "seq": "6",
         "stop": "F90ED764C7A95649",
-        "stop_name_tc": "啟隧轉車站 - 宏展街 (M1)"
+        "stop_name_tc": "啟隧轉車站 - 宏展街 (KT596)"
     },
     {
         "route": "224X",
@@ -37589,7 +37589,7 @@
         "service_type": "3",
         "seq": "17",
         "stop": "416B7606A9A5FEEB",
-        "stop_name_tc": "啟隧轉車站 - 啟成街 (N1)"
+        "stop_name_tc": "啟隧轉車站 - 啟成街 (KT105)"
     },
     {
         "route": "224X",
@@ -48461,7 +48461,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "416B7606A9A5FEEB",
-        "stop_name_tc": "啟隧轉車站 - 啟成街 (N1)"
+        "stop_name_tc": "啟隧轉車站 - 啟成街 (KT105)"
     },
     {
         "route": "258X",
@@ -80421,7 +80421,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "F90ED764C7A95649",
-        "stop_name_tc": "啟隧轉車站 - 宏展街 (M1)"
+        "stop_name_tc": "啟隧轉車站 - 宏展街 (KT596)"
     },
     {
         "route": "28",
@@ -90861,7 +90861,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "BE27F066CF40DF7D",
-        "stop_name_tc": "啟隧轉車站-啟福道(K1) (KT100)"
+        "stop_name_tc": "啟隧轉車站-啟福道 (KT100)"
     },
     {
         "route": "296D",
@@ -90917,7 +90917,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "7A95C545D0393126",
-        "stop_name_tc": "啟隧轉車站-啟福道(L1) (KT590)"
+        "stop_name_tc": "啟隧轉車站-啟福道 (KT590)"
     },
     {
         "route": "296D",
@@ -92045,7 +92045,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "F90ED764C7A95649",
-        "stop_name_tc": "啟隧轉車站 - 宏展街 (M1)"
+        "stop_name_tc": "啟隧轉車站 - 宏展街 (KT596)"
     },
     {
         "route": "297",
@@ -92197,7 +92197,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "7A95C545D0393126",
-        "stop_name_tc": "啟隧轉車站-啟福道(L1) (KT590)"
+        "stop_name_tc": "啟隧轉車站-啟福道 (KT590)"
     },
     {
         "route": "297P",
@@ -124973,7 +124973,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "7A95C545D0393126",
-        "stop_name_tc": "啟隧轉車站-啟福道(L1) (KT590)"
+        "stop_name_tc": "啟隧轉車站-啟福道 (KT590)"
     },
     {
         "route": "49",
@@ -125317,7 +125317,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "BE27F066CF40DF7D",
-        "stop_name_tc": "啟隧轉車站-啟福道(K1) (KT100)"
+        "stop_name_tc": "啟隧轉車站-啟福道 (KT100)"
     },
     {
         "route": "49",
@@ -211245,7 +211245,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "416B7606A9A5FEEB",
-        "stop_name_tc": "啟隧轉車站 - 啟成街 (N1)"
+        "stop_name_tc": "啟隧轉車站 - 啟成街 (KT105)"
     },
     {
         "route": "93P",
@@ -211549,7 +211549,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "F90ED764C7A95649",
-        "stop_name_tc": "啟隧轉車站 - 宏展街 (M1)"
+        "stop_name_tc": "啟隧轉車站 - 宏展街 (KT596)"
     },
     {
         "route": "93P",
@@ -225149,7 +225149,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "BE27F066CF40DF7D",
-        "stop_name_tc": "啟隧轉車站-啟福道(K1) (KT100)"
+        "stop_name_tc": "啟隧轉車站-啟福道 (KT100)"
     },
     {
         "route": "98D",
@@ -225333,7 +225333,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "7A95C545D0393126",
-        "stop_name_tc": "啟隧轉車站-啟福道(L1) (KT590)"
+        "stop_name_tc": "啟隧轉車站-啟福道 (KT590)"
     },
     {
         "route": "98D",
@@ -225477,7 +225477,7 @@
         "service_type": "2",
         "seq": "8",
         "stop": "7A95C545D0393126",
-        "stop_name_tc": "啟隧轉車站-啟福道(L1) (KT590)"
+        "stop_name_tc": "啟隧轉車站-啟福道 (KT590)"
     },
     {
         "route": "98D",
@@ -225653,7 +225653,7 @@
         "service_type": "3",
         "seq": "12",
         "stop": "7A95C545D0393126",
-        "stop_name_tc": "啟隧轉車站-啟福道(L1) (KT590)"
+        "stop_name_tc": "啟隧轉車站-啟福道 (KT590)"
     },
     {
         "route": "98D",
@@ -225821,7 +225821,7 @@
         "service_type": "4",
         "seq": "11",
         "stop": "7A95C545D0393126",
-        "stop_name_tc": "啟隧轉車站-啟福道(L1) (KT590)"
+        "stop_name_tc": "啟隧轉車站-啟福道 (KT590)"
     },
     {
         "route": "98D",
@@ -226421,7 +226421,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "BE27F066CF40DF7D",
-        "stop_name_tc": "啟隧轉車站-啟福道(K1) (KT100)"
+        "stop_name_tc": "啟隧轉車站-啟福道 (KT100)"
     },
     {
         "route": "98P",
@@ -226661,7 +226661,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "7A95C545D0393126",
-        "stop_name_tc": "啟隧轉車站-啟福道(L1) (KT590)"
+        "stop_name_tc": "啟隧轉車站-啟福道 (KT590)"
     },
     {
         "route": "98P",
@@ -281645,7 +281645,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "BE27F066CF40DF7D",
-        "stop_name_tc": "啟隧轉車站-啟福道(K1) (KT100)"
+        "stop_name_tc": "啟隧轉車站-啟福道 (KT100)"
     },
     {
         "route": "W2",
@@ -281725,7 +281725,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "7A95C545D0393126",
-        "stop_name_tc": "啟隧轉車站-啟福道(L1) (KT590)"
+        "stop_name_tc": "啟隧轉車站-啟福道 (KT590)"
     },
     {
         "route": "W2",
@@ -281813,7 +281813,7 @@
         "service_type": "2",
         "seq": "6",
         "stop": "BE27F066CF40DF7D",
-        "stop_name_tc": "啟隧轉車站-啟福道(K1) (KT100)"
+        "stop_name_tc": "啟隧轉車站-啟福道 (KT100)"
     },
     {
         "route": "W2",
@@ -281941,7 +281941,7 @@
         "service_type": "3",
         "seq": "7",
         "stop": "7A95C545D0393126",
-        "stop_name_tc": "啟隧轉車站-啟福道(L1) (KT590)"
+        "stop_name_tc": "啟隧轉車站-啟福道 (KT590)"
     },
     {
         "route": "W2",
@@ -284301,7 +284301,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "F90ED764C7A95649",
-        "stop_name_tc": "啟隧轉車站 - 宏展街 (M1)"
+        "stop_name_tc": "啟隧轉車站 - 宏展街 (KT596)"
     },
     {
         "route": "X6C",
@@ -284525,7 +284525,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "416B7606A9A5FEEB",
-        "stop_name_tc": "啟隧轉車站 - 啟成街 (N1)"
+        "stop_name_tc": "啟隧轉車站 - 啟成街 (KT105)"
     },
     {
         "route": "X6C",
