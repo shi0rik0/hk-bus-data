@@ -31668,8 +31668,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "23",
-        "stop": "576538E1395C8508",
-        "stop_name_tc": "尖東站 K11 MUSEA (YT215)"
+        "stop": "5D75A800F823B45D",
+        "stop_name_tc": "尖東站 K11 MUSEA (YT216)"
     },
     {
         "route": "203C",
@@ -32252,8 +32252,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "19",
-        "stop": "576538E1395C8508",
-        "stop_name_tc": "尖東站 K11 MUSEA (YT215)"
+        "stop": "5D75A800F823B45D",
+        "stop_name_tc": "尖東站 K11 MUSEA (YT216)"
     },
     {
         "route": "203S",
@@ -115404,8 +115404,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "16",
-        "stop": "576538E1395C8508",
-        "stop_name_tc": "尖東站 K11 MUSEA (YT215)"
+        "stop": "5D75A800F823B45D",
+        "stop_name_tc": "尖東站 K11 MUSEA (YT216)"
     },
     {
         "route": "41A",
@@ -161860,8 +161860,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "16",
-        "stop": "5D75A800F823B45D",
-        "stop_name_tc": "尖東站 K11 MUSEA (YT216)"
+        "stop": "576538E1395C8508",
+        "stop_name_tc": "尖東站 K11 MUSEA (YT215)"
     },
     {
         "route": "70S",
@@ -207964,8 +207964,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "2",
-        "stop": "576538E1395C8508",
-        "stop_name_tc": "尖東站 K11 MUSEA (YT215)"
+        "stop": "5D75A800F823B45D",
+        "stop_name_tc": "尖東站 K11 MUSEA (YT216)"
     },
     {
         "route": "92R",
