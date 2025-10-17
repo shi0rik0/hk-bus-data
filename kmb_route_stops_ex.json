@@ -133540,6 +133540,14 @@
         "bound": "O",
         "service_type": "1",
         "seq": "9",
+        "stop": "0B65879637B5161E",
+        "stop_name_tc": null
+    },
+    {
+        "route": "5D",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "10",
         "stop": "5396072459507B7F",
         "stop_name_tc": "翔龍灣 (KC760)"
     },
@@ -133547,7 +133555,7 @@
         "route": "5D",
         "bound": "O",
         "service_type": "1",
-        "seq": "10",
+        "seq": "11",
         "stop": "C048D4CF6ED36C7A",
         "stop_name_tc": "貴州街 (KC762)"
     },
@@ -133555,7 +133563,7 @@
         "route": "5D",
         "bound": "O",
         "service_type": "1",
-        "seq": "11",
+        "seq": "12",
         "stop": "68A8F08ABC5C90F0",
         "stop_name_tc": "落山道 (KC766)"
     },
@@ -133563,7 +133571,7 @@
         "route": "5D",
         "bound": "O",
         "service_type": "1",
-        "seq": "12",
+        "seq": "13",
         "stop": "AFEFDF25A955C72C",
         "stop_name_tc": "鴻福街 (KC769)"
     },
@@ -133571,7 +133579,7 @@
         "route": "5D",
         "bound": "O",
         "service_type": "1",
-        "seq": "13",
+        "seq": "14",
         "stop": "97B7EC0354E020B7",
         "stop_name_tc": "紅磡庇利街 (HH781)"
     },
@@ -133579,7 +133587,7 @@
         "route": "5D",
         "bound": "O",
         "service_type": "1",
-        "seq": "14",
+        "seq": "15",
         "stop": "ED03E689B88CE0E8",
         "stop_name_tc": "紅磡鶴園街 (HH785)"
     },
@@ -133587,7 +133595,7 @@
         "route": "5D",
         "bound": "O",
         "service_type": "1",
-        "seq": "15",
+        "seq": "16",
         "stop": "438AFA4E9E76C953",
         "stop_name_tc": "德民街 (HH346)"
     },
@@ -133595,7 +133603,7 @@
         "route": "5D",
         "bound": "O",
         "service_type": "1",
-        "seq": "16",
+        "seq": "17",
         "stop": "32A26FEADDED5A62",
         "stop_name_tc": "黃埔花園總站 (HH924)"
     },
@@ -133603,7 +133611,7 @@
         "route": "5D",
         "bound": "O",
         "service_type": "1",
-        "seq": "17",
+        "seq": "18",
         "stop": "D3139CF35C894BC8",
         "stop_name_tc": "紅磡邨 (HH351)"
     },
@@ -133611,7 +133619,7 @@
         "route": "5D",
         "bound": "O",
         "service_type": "1",
-        "seq": "18",
+        "seq": "19",
         "stop": "C5888ACE3DDA6B30",
         "stop_name_tc": "鶴園東街 (HH352)"
     },
@@ -133619,7 +133627,7 @@
         "route": "5D",
         "bound": "O",
         "service_type": "1",
-        "seq": "19",
+        "seq": "20",
         "stop": "38C2E40346BA619E",
         "stop_name_tc": "崇潔街 (HH360)"
     },
@@ -133627,7 +133635,7 @@
         "route": "5D",
         "bound": "O",
         "service_type": "1",
-        "seq": "20",
+        "seq": "21",
         "stop": "E80A3E968CCEEFF7",
         "stop_name_tc": "石塘街 (HH249)"
     },
@@ -133635,7 +133643,7 @@
         "route": "5D",
         "bound": "O",
         "service_type": "1",
-        "seq": "21",
+        "seq": "22",
         "stop": "4960882151DB05E0",
         "stop_name_tc": "浙江街 (KC260)"
     },
@@ -133643,7 +133651,7 @@
         "route": "5D",
         "bound": "O",
         "service_type": "1",
-        "seq": "22",
+        "seq": "23",
         "stop": "411A32C9BBF53857",
         "stop_name_tc": "上鄉道 (KC263)"
     },
@@ -133651,7 +133659,7 @@
         "route": "5D",
         "bound": "O",
         "service_type": "1",
-        "seq": "23",
+        "seq": "24",
         "stop": "8372F8B80204FC1F",
         "stop_name_tc": "美華工業中心 (KC265)"
     },
@@ -133659,7 +133667,7 @@
         "route": "5D",
         "bound": "O",
         "service_type": "1",
-        "seq": "24",
+        "seq": "25",
         "stop": "658AD32D477D3CAB",
         "stop_name_tc": "沐泰街 (KA120)"
     },
@@ -133667,7 +133675,7 @@
         "route": "5D",
         "bound": "O",
         "service_type": "1",
-        "seq": "25",
+        "seq": "26",
         "stop": "95FD06A3ADC9CB13",
         "stop_name_tc": "機電工程署總部 (KA121)"
     },
@@ -133675,7 +133683,7 @@
         "route": "5D",
         "bound": "O",
         "service_type": "1",
-        "seq": "26",
+        "seq": "27",
         "stop": "C1C31D615DAA97F4",
         "stop_name_tc": "德朗邨停車場 (KA122)"
     },
@@ -133683,7 +133691,7 @@
         "route": "5D",
         "bound": "O",
         "service_type": "1",
-        "seq": "27",
+        "seq": "28",
         "stop": "BC932662BA367CD0",
         "stop_name_tc": "啟德(德朗邨) (KA124)"
     },
@@ -133691,7 +133699,7 @@
         "route": "5D",
         "bound": "O",
         "service_type": "1",
-        "seq": "28",
+        "seq": "29",
         "stop": "72999453ECAC4693",
         "stop_name_tc": "麗晶花園第8座 (KT120)"
     },
@@ -133699,7 +133707,7 @@
         "route": "5D",
         "bound": "O",
         "service_type": "1",
-        "seq": "29",
+        "seq": "30",
         "stop": "AA26D9F25826AA4A",
         "stop_name_tc": "啟業邨 (KT121)"
     },
@@ -133707,17 +133715,9 @@
         "route": "5D",
         "bound": "O",
         "service_type": "1",
-        "seq": "30",
+        "seq": "31",
         "stop": "FBE38593BDEB0802",
         "stop_name_tc": "九龍灣運動場 (KT122)"
-    },
-    {
-        "route": "5D",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "31",
-        "stop": "E0606D6156DB9960",
-        "stop_name_tc": "德福花園總站 (KT910)"
     },
     {
         "route": "5M",
