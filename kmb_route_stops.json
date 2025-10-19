@@ -117005,6 +117005,13 @@
         "stop": "FBE38593BDEB0802"
     },
     {
+        "route": "5D",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "32",
+        "stop": "E0606D6156DB9960"
+    },
+    {
         "route": "5M",
         "bound": "O",
         "service_type": "1",

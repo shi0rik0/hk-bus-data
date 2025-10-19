@@ -133541,7 +133541,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "0B65879637B5161E",
-        "stop_name_tc": null
+        "stop_name_tc": "中電總部，啟德體育園 (KA513)"
     },
     {
         "route": "5D",
@@ -133718,6 +133718,14 @@
         "seq": "31",
         "stop": "FBE38593BDEB0802",
         "stop_name_tc": "九龍灣運動場 (KT122)"
+    },
+    {
+        "route": "5D",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "32",
+        "stop": "E0606D6156DB9960",
+        "stop_name_tc": "德福花園總站 (KT910)"
     },
     {
         "route": "5M",
