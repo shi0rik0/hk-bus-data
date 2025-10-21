@@ -9632,6 +9632,14 @@
         "long": "114.116502"
     },
     {
+        "stop": "2EAB4A9D81722720",
+        "name_en": "WO HOP SHEK (ND882)",
+        "name_tc": "和合石 (ND882)",
+        "name_sc": "和合石 (ND882)",
+        "lat": "22.482364",
+        "long": "114.143724"
+    },
+    {
         "stop": "2EB5498143D0C343",
         "name_en": "IVE (HAKING WONG) (SS315)",
         "name_tc": "專業教育學院-黃克競分校",
@@ -47177,9 +47185,9 @@
     },
     {
         "stop": "E3E171AEDE35ACDF",
-        "name_en": "TUEN MUN PIER HEAD B/T",
-        "name_tc": "屯門碼頭總站",
-        "name_sc": "屯门码头总站",
+        "name_en": "TUEN MUN PIER HEAD B/T (TM882a)",
+        "name_tc": "屯門碼頭總站 (TM882a)",
+        "name_sc": "屯门码头总站 (TM882a)",
         "lat": "22.372714",
         "long": "113.966656"
     },
