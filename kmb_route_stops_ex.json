@@ -46965,7 +46965,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "6FB7BC1E5BC1E4EE",
-        "stop_name_tc": "紅橋 (K3) (TM712)"
+        "stop_name_tc": "紅橋 (TM712)"
     },
     {
         "route": "258A",
@@ -47301,7 +47301,7 @@
         "service_type": "1",
         "seq": "26",
         "stop": "315BE0CA231DCD4F",
-        "stop_name_tc": "寶田轉車站 - 寶田 (T2) (TM190)"
+        "stop_name_tc": "寶田轉車站 - 寶田 (TM190)"
     },
     {
         "route": "258D",
@@ -47309,7 +47309,7 @@
         "service_type": "1",
         "seq": "27",
         "stop": "067F57DA0477D026",
-        "stop_name_tc": "寶田轉車站 - 寶田總站 (P2)"
+        "stop_name_tc": "寶田轉車站 - 寶田總站 (TM922)"
     },
     {
         "route": "258D",
@@ -47317,7 +47317,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "067F57DA0477D026",
-        "stop_name_tc": "寶田轉車站 - 寶田總站 (P2)"
+        "stop_name_tc": "寶田轉車站 - 寶田總站 (TM922)"
     },
     {
         "route": "258D",
@@ -47325,7 +47325,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "594A765BE3A43C73",
-        "stop_name_tc": "寶田轉車站 - 盈豐園 (S1)"
+        "stop_name_tc": "寶田轉車站 - 盈豐園 (TM580)"
     },
     {
         "route": "258D",
@@ -48101,7 +48101,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "6FB7BC1E5BC1E4EE",
-        "stop_name_tc": "紅橋 (K3) (TM712)"
+        "stop_name_tc": "紅橋 (TM712)"
     },
     {
         "route": "258S",
@@ -48349,7 +48349,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "315BE0CA231DCD4F",
-        "stop_name_tc": "寶田轉車站 - 寶田 (T2) (TM190)"
+        "stop_name_tc": "寶田轉車站 - 寶田 (TM190)"
     },
     {
         "route": "258X",
@@ -48357,7 +48357,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "9F5B57C2FE7E786D",
-        "stop_name_tc": "寶田轉車站 - 寶田總站 (P1)"
+        "stop_name_tc": "寶田轉車站 - 寶田總站 (TM921)"
     },
     {
         "route": "258X",
@@ -48365,7 +48365,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "9F5B57C2FE7E786D",
-        "stop_name_tc": "寶田轉車站 - 寶田總站 (P1)"
+        "stop_name_tc": "寶田轉車站 - 寶田總站 (TM921)"
     },
     {
         "route": "258X",
@@ -48373,7 +48373,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "594A765BE3A43C73",
-        "stop_name_tc": "寶田轉車站 - 盈豐園 (S1)"
+        "stop_name_tc": "寶田轉車站 - 盈豐園 (TM580)"
     },
     {
         "route": "258X",
@@ -50933,7 +50933,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "2F5F973821A594A9",
-        "stop_name_tc": "寶田轉車站 - 寶田 (T1) (TM191)"
+        "stop_name_tc": "寶田轉車站 - 寶田 (TM191)"
     },
     {
         "route": "260R",
@@ -51141,7 +51141,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "5B3258C7E0856895",
-        "stop_name_tc": "寶田轉車站 - 寶田總站 (P3)"
+        "stop_name_tc": "寶田轉車站 - 寶田總站 (TM923)"
     },
     {
         "route": "260X",
@@ -51149,7 +51149,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "5B3258C7E0856895",
-        "stop_name_tc": "寶田轉車站 - 寶田總站 (P3)"
+        "stop_name_tc": "寶田轉車站 - 寶田總站 (TM923)"
     },
     {
         "route": "260X",
@@ -51205,7 +51205,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "6FB7BC1E5BC1E4EE",
-        "stop_name_tc": "紅橋 (K3) (TM712)"
+        "stop_name_tc": "紅橋 (TM712)"
     },
     {
         "route": "260X",
@@ -51341,7 +51341,7 @@
         "service_type": "3",
         "seq": "4",
         "stop": "6FB7BC1E5BC1E4EE",
-        "stop_name_tc": "紅橋 (K3) (TM712)"
+        "stop_name_tc": "紅橋 (TM712)"
     },
     {
         "route": "260X",
@@ -52597,7 +52597,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "9F5B57C2FE7E786D",
-        "stop_name_tc": "寶田轉車站 - 寶田總站 (P1)"
+        "stop_name_tc": "寶田轉車站 - 寶田總站 (TM921)"
     },
     {
         "route": "261S",
@@ -52605,7 +52605,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "594A765BE3A43C73",
-        "stop_name_tc": "寶田轉車站 - 盈豐園 (S1)"
+        "stop_name_tc": "寶田轉車站 - 盈豐園 (TM580)"
     },
     {
         "route": "261S",
@@ -52813,7 +52813,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "6FB7BC1E5BC1E4EE",
-        "stop_name_tc": "紅橋 (K3) (TM712)"
+        "stop_name_tc": "紅橋 (TM712)"
     },
     {
         "route": "261X",
@@ -130181,7 +130181,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "594A765BE3A43C73",
-        "stop_name_tc": "寶田轉車站 - 盈豐園 (S1)"
+        "stop_name_tc": "寶田轉車站 - 盈豐園 (TM580)"
     },
     {
         "route": "58M",
@@ -130221,7 +130221,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "315BE0CA231DCD4F",
-        "stop_name_tc": "寶田轉車站 - 寶田 (T2) (TM190)"
+        "stop_name_tc": "寶田轉車站 - 寶田 (TM190)"
     },
     {
         "route": "58M",
@@ -130245,7 +130245,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "8C32D9DDB85891A6",
-        "stop_name_tc": "紅橋 (K4) (TM711)"
+        "stop_name_tc": "紅橋 (TM711)"
     },
     {
         "route": "58M",
@@ -130389,7 +130389,7 @@
         "service_type": "2",
         "seq": "4",
         "stop": "8C32D9DDB85891A6",
-        "stop_name_tc": "紅橋 (K4) (TM711)"
+        "stop_name_tc": "紅橋 (TM711)"
     },
     {
         "route": "58M",
@@ -130509,7 +130509,7 @@
         "service_type": "3",
         "seq": "1",
         "stop": "9F5B57C2FE7E786D",
-        "stop_name_tc": "寶田轉車站 - 寶田總站 (P1)"
+        "stop_name_tc": "寶田轉車站 - 寶田總站 (TM921)"
     },
     {
         "route": "58M",
@@ -130533,7 +130533,7 @@
         "service_type": "3",
         "seq": "4",
         "stop": "8C32D9DDB85891A6",
-        "stop_name_tc": "紅橋 (K4) (TM711)"
+        "stop_name_tc": "紅橋 (TM711)"
     },
     {
         "route": "58M",
@@ -130749,7 +130749,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "594A765BE3A43C73",
-        "stop_name_tc": "寶田轉車站 - 盈豐園 (S1)"
+        "stop_name_tc": "寶田轉車站 - 盈豐園 (TM580)"
     },
     {
         "route": "58P",
@@ -130909,7 +130909,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "594A765BE3A43C73",
-        "stop_name_tc": "寶田轉車站 - 盈豐園 (S1)"
+        "stop_name_tc": "寶田轉車站 - 盈豐園 (TM580)"
     },
     {
         "route": "58X",
@@ -130949,7 +130949,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "2F5F973821A594A9",
-        "stop_name_tc": "寶田轉車站 - 寶田 (T1) (TM191)"
+        "stop_name_tc": "寶田轉車站 - 寶田 (TM191)"
     },
     {
         "route": "58X",
@@ -130973,7 +130973,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "2FD7EBBD4AF78A93",
-        "stop_name_tc": "紅橋 (K2) (TM713)"
+        "stop_name_tc": "紅橋 (TM713)"
     },
     {
         "route": "58X",
@@ -131101,7 +131101,7 @@
         "service_type": "2",
         "seq": "4",
         "stop": "2FD7EBBD4AF78A93",
-        "stop_name_tc": "紅橋 (K2) (TM713)"
+        "stop_name_tc": "紅橋 (TM713)"
     },
     {
         "route": "58X",
@@ -145157,7 +145157,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "2FD7EBBD4AF78A93",
-        "stop_name_tc": "紅橋 (K2) (TM713)"
+        "stop_name_tc": "紅橋 (TM713)"
     },
     {
         "route": "63X",
@@ -150645,7 +150645,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "92DFA68888DB615D",
-        "stop_name_tc": "寶田轉車站 - 寶田總站 (P4)"
+        "stop_name_tc": "寶田轉車站 - 寶田總站 (TM924)"
     },
     {
         "route": "67A",
@@ -150653,7 +150653,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "92DFA68888DB615D",
-        "stop_name_tc": "寶田轉車站 - 寶田總站 (P4)"
+        "stop_name_tc": "寶田轉車站 - 寶田總站 (TM924)"
     },
     {
         "route": "67A",
@@ -153997,7 +153997,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "8C32D9DDB85891A6",
-        "stop_name_tc": "紅橋 (K4) (TM711)"
+        "stop_name_tc": "紅橋 (TM711)"
     },
     {
         "route": "68A",
@@ -215501,7 +215501,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "315BE0CA231DCD4F",
-        "stop_name_tc": "寶田轉車站 - 寶田 (T2) (TM190)"
+        "stop_name_tc": "寶田轉車站 - 寶田 (TM190)"
     },
     {
         "route": "960",
@@ -215533,7 +215533,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "594A765BE3A43C73",
-        "stop_name_tc": "寶田轉車站 - 盈豐園 (S1)"
+        "stop_name_tc": "寶田轉車站 - 盈豐園 (TM580)"
     },
     {
         "route": "960",
@@ -215589,7 +215589,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "DD56DC2336C878C1",
-        "stop_name_tc": "紅橋 (K1) (TM714)"
+        "stop_name_tc": "紅橋 (TM714)"
     },
     {
         "route": "960",
@@ -215789,7 +215789,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "315BE0CA231DCD4F",
-        "stop_name_tc": "寶田轉車站 - 寶田 (T2) (TM190)"
+        "stop_name_tc": "寶田轉車站 - 寶田 (TM190)"
     },
     {
         "route": "960A",
@@ -215869,7 +215869,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "594A765BE3A43C73",
-        "stop_name_tc": "寶田轉車站 - 盈豐園 (S1)"
+        "stop_name_tc": "寶田轉車站 - 盈豐園 (TM580)"
     },
     {
         "route": "960B",
@@ -216133,7 +216133,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "315BE0CA231DCD4F",
-        "stop_name_tc": "寶田轉車站 - 寶田 (T2) (TM190)"
+        "stop_name_tc": "寶田轉車站 - 寶田 (TM190)"
     },
     {
         "route": "960B",
@@ -216301,7 +216301,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "315BE0CA231DCD4F",
-        "stop_name_tc": "寶田轉車站 - 寶田 (T2) (TM190)"
+        "stop_name_tc": "寶田轉車站 - 寶田 (TM190)"
     },
     {
         "route": "960C",
@@ -216413,7 +216413,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "594A765BE3A43C73",
-        "stop_name_tc": "寶田轉車站 - 盈豐園 (S1)"
+        "stop_name_tc": "寶田轉車站 - 盈豐園 (TM580)"
     },
     {
         "route": "960C",
@@ -216445,7 +216445,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "DD56DC2336C878C1",
-        "stop_name_tc": "紅橋 (K1) (TM714)"
+        "stop_name_tc": "紅橋 (TM714)"
     },
     {
         "route": "960C",
@@ -216861,7 +216861,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "DD56DC2336C878C1",
-        "stop_name_tc": "紅橋 (K1) (TM714)"
+        "stop_name_tc": "紅橋 (TM714)"
     },
     {
         "route": "960P",
@@ -217469,7 +217469,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "315BE0CA231DCD4F",
-        "stop_name_tc": "寶田轉車站 - 寶田 (T2) (TM190)"
+        "stop_name_tc": "寶田轉車站 - 寶田 (TM190)"
     },
     {
         "route": "960X",
@@ -217693,7 +217693,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "DD56DC2336C878C1",
-        "stop_name_tc": "紅橋 (K1) (TM714)"
+        "stop_name_tc": "紅橋 (TM714)"
     },
     {
         "route": "960X",
@@ -231973,7 +231973,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "B26245505565A1E0",
-        "stop_name_tc": "寶田轉車站 - 寶田 (T1) (TM192)"
+        "stop_name_tc": "寶田轉車站 - 寶田 (TM192)"
     },
     {
         "route": "A34",
@@ -232221,7 +232221,7 @@
         "service_type": "2",
         "seq": "18",
         "stop": "B26245505565A1E0",
-        "stop_name_tc": "寶田轉車站 - 寶田 (T1) (TM192)"
+        "stop_name_tc": "寶田轉車站 - 寶田 (TM192)"
     },
     {
         "route": "A34",
@@ -232445,7 +232445,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "448D42252303EC00",
-        "stop_name_tc": "寶田轉車站 - 盈豐園(S1)"
+        "stop_name_tc": "寶田轉車站 - 盈豐園 (TM581)"
     },
     {
         "route": "A34",
@@ -232621,7 +232621,7 @@
         "service_type": "2",
         "seq": "5",
         "stop": "448D42252303EC00",
-        "stop_name_tc": "寶田轉車站 - 盈豐園(S1)"
+        "stop_name_tc": "寶田轉車站 - 盈豐園 (TM581)"
     },
     {
         "route": "A34",
@@ -232877,7 +232877,7 @@
         "service_type": "3",
         "seq": "15",
         "stop": "448D42252303EC00",
-        "stop_name_tc": "寶田轉車站 - 盈豐園(S1)"
+        "stop_name_tc": "寶田轉車站 - 盈豐園 (TM581)"
     },
     {
         "route": "A34",
@@ -233069,7 +233069,7 @@
         "service_type": "4",
         "seq": "5",
         "stop": "448D42252303EC00",
-        "stop_name_tc": "寶田轉車站 - 盈豐園(S1)"
+        "stop_name_tc": "寶田轉車站 - 盈豐園 (TM581)"
     },
     {
         "route": "A34",
@@ -233877,7 +233877,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "210978D525EEDF4F",
-        "stop_name_tc": "紅橋 (K5) (TM710)"
+        "stop_name_tc": "紅橋 (TM710)"
     },
     {
         "route": "A36",
@@ -234021,7 +234021,7 @@
         "service_type": "2",
         "seq": "14",
         "stop": "210978D525EEDF4F",
-        "stop_name_tc": "紅橋 (K5) (TM710)"
+        "stop_name_tc": "紅橋 (TM710)"
     },
     {
         "route": "A36",
@@ -234173,7 +234173,7 @@
         "service_type": "3",
         "seq": "14",
         "stop": "210978D525EEDF4F",
-        "stop_name_tc": "紅橋 (K5) (TM710)"
+        "stop_name_tc": "紅橋 (TM710)"
     },
     {
         "route": "A36",
@@ -234333,7 +234333,7 @@
         "service_type": "5",
         "seq": "14",
         "stop": "210978D525EEDF4F",
-        "stop_name_tc": "紅橋 (K5) (TM710)"
+        "stop_name_tc": "紅橋 (TM710)"
     },
     {
         "route": "A36",
@@ -243277,7 +243277,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "B26245505565A1E0",
-        "stop_name_tc": "寶田轉車站 - 寶田 (T1) (TM192)"
+        "stop_name_tc": "寶田轉車站 - 寶田 (TM192)"
     },
     {
         "route": "E33P",
@@ -243421,7 +243421,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "448D42252303EC00",
-        "stop_name_tc": "寶田轉車站 - 盈豐園(S1)"
+        "stop_name_tc": "寶田轉車站 - 盈豐園 (TM581)"
     },
     {
         "route": "E33P",
@@ -243605,7 +243605,7 @@
         "service_type": "2",
         "seq": "2",
         "stop": "448D42252303EC00",
-        "stop_name_tc": "寶田轉車站 - 盈豐園(S1)"
+        "stop_name_tc": "寶田轉車站 - 盈豐園 (TM581)"
     },
     {
         "route": "E33P",
@@ -244445,7 +244445,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "210978D525EEDF4F",
-        "stop_name_tc": "紅橋 (K5) (TM710)"
+        "stop_name_tc": "紅橋 (TM710)"
     },
     {
         "route": "E36A",
@@ -244765,7 +244765,7 @@
         "service_type": "1",
         "seq": "24",
         "stop": "B26245505565A1E0",
-        "stop_name_tc": "寶田轉車站 - 寶田 (T1) (TM192)"
+        "stop_name_tc": "寶田轉車站 - 寶田 (TM192)"
     },
     {
         "route": "E36C",
@@ -245021,7 +245021,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "448D42252303EC00",
-        "stop_name_tc": "寶田轉車站 - 盈豐園(S1)"
+        "stop_name_tc": "寶田轉車站 - 盈豐園 (TM581)"
     },
     {
         "route": "E36C",
@@ -247197,7 +247197,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "210978D525EEDF4F",
-        "stop_name_tc": "紅橋 (K5) (TM710)"
+        "stop_name_tc": "紅橋 (TM710)"
     },
     {
         "route": "E37C",
@@ -247309,7 +247309,7 @@
         "service_type": "2",
         "seq": "1",
         "stop": "210978D525EEDF4F",
-        "stop_name_tc": "紅橋 (K5) (TM710)"
+        "stop_name_tc": "紅橋 (TM710)"
     },
     {
         "route": "E37C",
@@ -249085,7 +249085,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "210978D525EEDF4F",
-        "stop_name_tc": "紅橋 (K5) (TM710)"
+        "stop_name_tc": "紅橋 (TM710)"
     },
     {
         "route": "E43",
@@ -256453,7 +256453,7 @@
         "service_type": "1",
         "seq": "25",
         "stop": "594A765BE3A43C73",
-        "stop_name_tc": "寶田轉車站 - 盈豐園 (S1)"
+        "stop_name_tc": "寶田轉車站 - 盈豐園 (TM580)"
     },
     {
         "route": "N260",
@@ -256645,7 +256645,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "2F5F973821A594A9",
-        "stop_name_tc": "寶田轉車站 - 寶田 (T1) (TM191)"
+        "stop_name_tc": "寶田轉車站 - 寶田 (TM191)"
     },
     {
         "route": "N260",
@@ -256693,7 +256693,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "8C32D9DDB85891A6",
-        "stop_name_tc": "紅橋 (K4) (TM711)"
+        "stop_name_tc": "紅橋 (TM711)"
     },
     {
         "route": "N260",
@@ -261701,7 +261701,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "210978D525EEDF4F",
-        "stop_name_tc": "紅橋 (K5) (TM710)"
+        "stop_name_tc": "紅橋 (TM710)"
     },
     {
         "route": "N30",
@@ -270053,7 +270053,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "315BE0CA231DCD4F",
-        "stop_name_tc": "寶田轉車站 - 寶田 (T2) (TM190)"
+        "stop_name_tc": "寶田轉車站 - 寶田 (TM190)"
     },
     {
         "route": "N960",
@@ -270085,7 +270085,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "594A765BE3A43C73",
-        "stop_name_tc": "寶田轉車站 - 盈豐園 (S1)"
+        "stop_name_tc": "寶田轉車站 - 盈豐園 (TM580)"
     },
     {
         "route": "N960",
@@ -270141,7 +270141,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "DD56DC2336C878C1",
-        "stop_name_tc": "紅橋 (K1) (TM714)"
+        "stop_name_tc": "紅橋 (TM714)"
     },
     {
         "route": "N960",
@@ -271245,7 +271245,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "448D42252303EC00",
-        "stop_name_tc": "寶田轉車站 - 盈豐園(S1)"
+        "stop_name_tc": "寶田轉車站 - 盈豐園 (TM581)"
     },
     {
         "route": "NA33",
@@ -271597,7 +271597,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "B26245505565A1E0",
-        "stop_name_tc": "寶田轉車站 - 寶田 (T1) (TM192)"
+        "stop_name_tc": "寶田轉車站 - 寶田 (TM192)"
     },
     {
         "route": "NA33",
@@ -271773,7 +271773,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "210978D525EEDF4F",
-        "stop_name_tc": "紅橋 (K5) (TM710)"
+        "stop_name_tc": "紅橋 (TM710)"
     },
     {
         "route": "NA36",
@@ -271893,7 +271893,7 @@
         "service_type": "2",
         "seq": "9",
         "stop": "210978D525EEDF4F",
-        "stop_name_tc": "紅橋 (K5) (TM710)"
+        "stop_name_tc": "紅橋 (TM710)"
     },
     {
         "route": "NA36",
@@ -272621,7 +272621,7 @@
         "service_type": "1",
         "seq": "25",
         "stop": "210978D525EEDF4F",
-        "stop_name_tc": "紅橋 (K5) (TM710)"
+        "stop_name_tc": "紅橋 (TM710)"
     },
     {
         "route": "NA37",
@@ -275037,7 +275037,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "315BE0CA231DCD4F",
-        "stop_name_tc": "寶田轉車站 - 寶田 (T2) (TM190)"
+        "stop_name_tc": "寶田轉車站 - 寶田 (TM190)"
     },
     {
         "route": "P960",
@@ -275101,7 +275101,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "594A765BE3A43C73",
-        "stop_name_tc": "寶田轉車站 - 盈豐園 (S1)"
+        "stop_name_tc": "寶田轉車站 - 盈豐園 (TM580)"
     },
     {
         "route": "P960",
@@ -275141,7 +275141,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "DD56DC2336C878C1",
-        "stop_name_tc": "紅橋 (K1) (TM714)"
+        "stop_name_tc": "紅橋 (TM714)"
     },
     {
         "route": "P960",
@@ -280077,7 +280077,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "594A765BE3A43C73",
-        "stop_name_tc": "寶田轉車站 - 盈豐園 (S1)"
+        "stop_name_tc": "寶田轉車站 - 盈豐園 (TM580)"
     },
     {
         "route": "SP5A",
@@ -282629,7 +282629,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "B26245505565A1E0",
-        "stop_name_tc": "寶田轉車站 - 寶田 (T1) (TM192)"
+        "stop_name_tc": "寶田轉車站 - 寶田 (TM192)"
     },
     {
         "route": "X33",
