@@ -15676,8 +15676,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "14",
-        "stop": "20B34B5CA0E66973",
-        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT639)"
+        "stop": "B9560CB9F6044374",
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT637)"
     },
     {
         "route": "11C",
@@ -42956,8 +42956,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "30",
-        "stop": "AB87BD2749FFEACA",
-        "stop_name_tc": "長青邨青梅樓 (TY251)"
+        "stop": "7E97DE06FCADF324",
+        "stop_name_tc": null
     },
     {
         "route": "241X",
@@ -43636,8 +43636,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "12",
-        "stop": "AB87BD2749FFEACA",
-        "stop_name_tc": "長青邨青梅樓 (TY251)"
+        "stop": "7E97DE06FCADF324",
+        "stop_name_tc": null
     },
     {
         "route": "243M",
@@ -44060,8 +44060,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "4",
-        "stop": "AB87BD2749FFEACA",
-        "stop_name_tc": "長青邨青梅樓 (TY251)"
+        "stop": "7E97DE06FCADF324",
+        "stop_name_tc": null
     },
     {
         "route": "249M",
@@ -117028,8 +117028,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "30",
-        "stop": "AB87BD2749FFEACA",
-        "stop_name_tc": "長青邨青梅樓 (TY251)"
+        "stop": "7E97DE06FCADF324",
+        "stop_name_tc": null
     },
     {
         "route": "42C",
@@ -118172,8 +118172,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "11",
-        "stop": "AB87BD2749FFEACA",
-        "stop_name_tc": "長青邨青梅樓 (TY251)"
+        "stop": "7E97DE06FCADF324",
+        "stop_name_tc": null
     },
     {
         "route": "43B",
@@ -125084,8 +125084,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "29",
-        "stop": "AB87BD2749FFEACA",
-        "stop_name_tc": "長青邨青梅樓 (TY251)"
+        "stop": "7E97DE06FCADF324",
+        "stop_name_tc": null
     },
     {
         "route": "49",
@@ -125508,8 +125508,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "7",
-        "stop": "AB87BD2749FFEACA",
-        "stop_name_tc": "長青邨青梅樓 (TY251)"
+        "stop": "7E97DE06FCADF324",
+        "stop_name_tc": null
     },
     {
         "route": "49A",
@@ -186894,6 +186894,14 @@
         "seq": "15",
         "stop": "FBAA9F0F9B1893F7",
         "stop_name_tc": "宏業樓 (WT441)"
+    },
+    {
+        "route": "84M",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "16",
+        "stop": "8569ED53DDB3A570",
+        "stop_name_tc": "樂富總站 (WT905)"
     },
     {
         "route": "84M",
@@ -271781,7 +271789,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "D424B5C4A9386481",
-        "stop_name_tc": "屯門屯仁街"
+        "stop_name_tc": "屯門屯仁街 (TM718a)"
     },
     {
         "route": "NA36",
@@ -271901,7 +271909,7 @@
         "service_type": "2",
         "seq": "10",
         "stop": "D424B5C4A9386481",
-        "stop_name_tc": "屯門屯仁街"
+        "stop_name_tc": "屯門屯仁街 (TM718a)"
     },
     {
         "route": "NA36",
