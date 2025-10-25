@@ -2844,8 +2844,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "7",
-        "stop": "5159E5E97EA88D9D",
-        "stop_name_tc": "深水埗北河街 (SS487)"
+        "stop": "1E29A8A8D3F6BABB",
+        "stop_name_tc": "深水埗北河街 (SS488)"
     },
     {
         "route": "102",
@@ -3364,8 +3364,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "7",
-        "stop": "5159E5E97EA88D9D",
-        "stop_name_tc": "深水埗北河街 (SS487)"
+        "stop": "1E29A8A8D3F6BABB",
+        "stop_name_tc": "深水埗北河街 (SS488)"
     },
     {
         "route": "102P",
@@ -11340,8 +11340,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "6",
-        "stop": "5159E5E97EA88D9D",
-        "stop_name_tc": "深水埗北河街 (SS487)"
+        "stop": "1E29A8A8D3F6BABB",
+        "stop_name_tc": "深水埗北河街 (SS488)"
     },
     {
         "route": "112",
@@ -14228,8 +14228,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "7",
-        "stop": "1E29A8A8D3F6BABB",
-        "stop_name_tc": "深水埗北河街 (SS488)"
+        "stop": "652BD65D62F807DE",
+        "stop_name_tc": "深水埗北河街 (SS489)"
     },
     {
         "route": "118",
@@ -14772,8 +14772,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "7",
-        "stop": "1E29A8A8D3F6BABB",
-        "stop_name_tc": "深水埗北河街 (SS488)"
+        "stop": "652BD65D62F807DE",
+        "stop_name_tc": "深水埗北河街 (SS489)"
     },
     {
         "route": "118P",
@@ -42957,7 +42957,7 @@
         "service_type": "1",
         "seq": "30",
         "stop": "7E97DE06FCADF324",
-        "stop_name_tc": null
+        "stop_name_tc": "長青邨青梅樓"
     },
     {
         "route": "241X",
@@ -43637,7 +43637,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "7E97DE06FCADF324",
-        "stop_name_tc": null
+        "stop_name_tc": "長青邨青梅樓"
     },
     {
         "route": "243M",
@@ -44061,7 +44061,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "7E97DE06FCADF324",
-        "stop_name_tc": null
+        "stop_name_tc": "長青邨青梅樓"
     },
     {
         "route": "249M",
@@ -117029,7 +117029,7 @@
         "service_type": "1",
         "seq": "30",
         "stop": "7E97DE06FCADF324",
-        "stop_name_tc": null
+        "stop_name_tc": "長青邨青梅樓"
     },
     {
         "route": "42C",
@@ -118173,7 +118173,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "7E97DE06FCADF324",
-        "stop_name_tc": null
+        "stop_name_tc": "長青邨青梅樓"
     },
     {
         "route": "43B",
@@ -125085,7 +125085,7 @@
         "service_type": "1",
         "seq": "29",
         "stop": "7E97DE06FCADF324",
-        "stop_name_tc": null
+        "stop_name_tc": "長青邨青梅樓"
     },
     {
         "route": "49",
@@ -125509,7 +125509,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "7E97DE06FCADF324",
-        "stop_name_tc": null
+        "stop_name_tc": "長青邨青梅樓"
     },
     {
         "route": "49A",
@@ -212940,8 +212940,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "9",
-        "stop": "2FAF68030407DC8F",
-        "stop_name_tc": "青富苑 (TY105)"
+        "stop": "07F45B3B36DFDDAE",
+        "stop_name_tc": "青富苑 (TY106)"
     },
     {
         "route": "948B",
@@ -249932,8 +249932,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "7",
-        "stop": "1E29A8A8D3F6BABB",
-        "stop_name_tc": "深水埗北河街 (SS488)"
+        "stop": "652BD65D62F807DE",
+        "stop_name_tc": "深水埗北河街 (SS489)"
     },
     {
         "route": "N118",
@@ -251068,8 +251068,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "9",
-        "stop": "5159E5E97EA88D9D",
-        "stop_name_tc": "深水埗北河街 (SS487)"
+        "stop": "1E29A8A8D3F6BABB",
+        "stop_name_tc": "深水埗北河街 (SS488)"
     },
     {
         "route": "N122",
@@ -258532,8 +258532,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "18",
-        "stop": "73CDC61EBA1C9431",
-        "stop_name_tc": "形點 I (YL408)"
+        "stop": "591FA32FB4B53682",
+        "stop_name_tc": "形點 I (YL405)"
     },
     {
         "route": "N276",
@@ -283340,6 +283340,14 @@
         "bound": "I",
         "service_type": "1",
         "seq": "20",
+        "stop": "2FAF68030407DC8F",
+        "stop_name_tc": "青富苑 (TY105)"
+    },
+    {
+        "route": "X42C",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "21",
         "stop": "196A1E44C305C174",
         "stop_name_tc": "美景花園 (TY111)"
     },
@@ -283347,7 +283355,7 @@
         "route": "X42C",
         "bound": "I",
         "service_type": "1",
-        "seq": "21",
+        "seq": "22",
         "stop": "BDE0F1679E1C8ABF",
         "stop_name_tc": "長青巴士總站 (TY113)"
     },
@@ -283355,7 +283363,7 @@
         "route": "X42C",
         "bound": "I",
         "service_type": "1",
-        "seq": "22",
+        "seq": "23",
         "stop": "13458794A52910B0",
         "stop_name_tc": "青盛苑 (TY115)"
     },
@@ -283363,7 +283371,7 @@
         "route": "X42C",
         "bound": "I",
         "service_type": "1",
-        "seq": "23",
+        "seq": "24",
         "stop": "67DFAB691BECE339",
         "stop_name_tc": "長康邨康順樓 (TY340)"
     },
@@ -283371,7 +283379,7 @@
         "route": "X42C",
         "bound": "I",
         "service_type": "1",
-        "seq": "24",
+        "seq": "25",
         "stop": "6D016EBFA090D535",
         "stop_name_tc": "職安健學院 (TY341)"
     },
@@ -283379,7 +283387,7 @@
         "route": "X42C",
         "bound": "I",
         "service_type": "1",
-        "seq": "25",
+        "seq": "26",
         "stop": "04D3244DD2B38746",
         "stop_name_tc": "長康邨康富樓 (TY342)"
     },
@@ -283387,7 +283395,7 @@
         "route": "X42C",
         "bound": "I",
         "service_type": "1",
-        "seq": "26",
+        "seq": "27",
         "stop": "59B81980AC8F7878",
         "stop_name_tc": "青衣警署 (TY353)"
     },
@@ -283395,7 +283403,7 @@
         "route": "X42C",
         "bound": "I",
         "service_type": "1",
-        "seq": "27",
+        "seq": "28",
         "stop": "4236C502F947A6DF",
         "stop_name_tc": "綠悠雅苑 (TY382)"
     },
@@ -283403,7 +283411,7 @@
         "route": "X42C",
         "bound": "I",
         "service_type": "1",
-        "seq": "28",
+        "seq": "29",
         "stop": "C78F66DF6FA871B6",
         "stop_name_tc": "青衣邨宜業樓 (TY384)"
     },
@@ -283411,7 +283419,7 @@
         "route": "X42C",
         "bound": "I",
         "service_type": "1",
-        "seq": "29",
+        "seq": "30",
         "stop": "8D7CB6C3D48258D6",
         "stop_name_tc": "楓樹窩體育館 (TY386)"
     },
@@ -283419,17 +283427,9 @@
         "route": "X42C",
         "bound": "I",
         "service_type": "1",
-        "seq": "30",
+        "seq": "31",
         "stop": "A2BE47AFF20CD4F6",
         "stop_name_tc": "曉峰園 (TY130)"
-    },
-    {
-        "route": "X42C",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "31",
-        "stop": "A453A24D622091F0",
-        "stop_name_tc": "長亨巴士總站 (TY992)"
     },
     {
         "route": "X42C",
