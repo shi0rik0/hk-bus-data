@@ -25056,6 +25056,14 @@
         "long": "114.222731"
     },
     {
+        "stop": "76441824D4E31948",
+        "name_en": "LUNG KWU TAN",
+        "name_tc": "龍鼓灘",
+        "name_sc": "龙鼓滩",
+        "lat": "22.389055",
+        "long": "113.920312"
+    },
+    {
         "stop": "76457B949CBCDE7B",
         "name_en": "BAYVIEW GARDEN BUS TERMINUS (TW989)",
         "name_tc": "灣景花園總站 (TW989)",
@@ -26910,6 +26918,14 @@
         "name_sc": "华都花园 (TM723)",
         "lat": "22.391695",
         "long": "113.977782"
+    },
+    {
+        "stop": "808560798B6F771E",
+        "name_en": "FO TAN (SHAN MEI STREET) BUS TERMINUS (FT950)",
+        "name_tc": "火炭(山尾街)總站 (FT950)",
+        "name_sc": "火炭(山尾街)总站 (FT950)",
+        "lat": "22.396351",
+        "long": "114.194293"
     },
     {
         "stop": "808CA5FECCC6646D",

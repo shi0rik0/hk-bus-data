@@ -111500,6 +111500,13 @@
         "bound": "I",
         "service_type": "1",
         "seq": "2",
+        "stop": "76441824D4E31948"
+    },
+    {
+        "route": "52S",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "3",
         "stop": "212BFF5737D0116C"
     },
     {

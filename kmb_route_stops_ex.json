@@ -127428,6 +127428,14 @@
         "bound": "I",
         "service_type": "1",
         "seq": "2",
+        "stop": "76441824D4E31948",
+        "stop_name_tc": "龍鼓灘"
+    },
+    {
+        "route": "52S",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "3",
         "stop": "212BFF5737D0116C",
         "stop_name_tc": "屯門公路轉車站 (A9) (TM741)"
     },
@@ -165573,7 +165581,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "808560798B6F771E",
-        "stop_name_tc": null
+        "stop_name_tc": "火炭(山尾街)總站 (FT950)"
     },
     {
         "route": "73A",
