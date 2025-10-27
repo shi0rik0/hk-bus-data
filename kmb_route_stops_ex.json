@@ -283441,6 +283441,14 @@
     },
     {
         "route": "X42C",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "32",
+        "stop": "A453A24D622091F0",
+        "stop_name_tc": "長亨巴士總站 (TY992)"
+    },
+    {
+        "route": "X42C",
         "bound": "O",
         "service_type": "1",
         "seq": "1",
@@ -283876,6 +283884,270 @@
         "bound": "O",
         "service_type": "2",
         "seq": "23",
+        "stop": "3EAFE91BF6223FA6",
+        "stop_name_tc": "油塘巴士總站 (LT963)"
+    },
+    {
+        "route": "X42C",
+        "bound": "O",
+        "service_type": "5",
+        "seq": "1",
+        "stop": "A453A24D622091F0",
+        "stop_name_tc": "長亨巴士總站 (TY992)"
+    },
+    {
+        "route": "X42C",
+        "bound": "O",
+        "service_type": "5",
+        "seq": "2",
+        "stop": "7E50BA0974C3B983",
+        "stop_name_tc": "長亨邨 (TY123)"
+    },
+    {
+        "route": "X42C",
+        "bound": "O",
+        "service_type": "5",
+        "seq": "3",
+        "stop": "4E870B220826BEE0",
+        "stop_name_tc": "楓樹窩體育館 (TY211)"
+    },
+    {
+        "route": "X42C",
+        "bound": "O",
+        "service_type": "5",
+        "seq": "4",
+        "stop": "5AD2A4D21C226335",
+        "stop_name_tc": "青衣邨宜業樓 (TY212)"
+    },
+    {
+        "route": "X42C",
+        "bound": "O",
+        "service_type": "5",
+        "seq": "5",
+        "stop": "A454170B2B59B587",
+        "stop_name_tc": "綠悠雅苑 (TY215)"
+    },
+    {
+        "route": "X42C",
+        "bound": "O",
+        "service_type": "5",
+        "seq": "6",
+        "stop": "D6E7412666B1175B",
+        "stop_name_tc": "翠怡花園 (TY242)"
+    },
+    {
+        "route": "X42C",
+        "bound": "O",
+        "service_type": "5",
+        "seq": "7",
+        "stop": "AB87BD2749FFEACA",
+        "stop_name_tc": "長青邨青梅樓 (TY251)"
+    },
+    {
+        "route": "X42C",
+        "bound": "O",
+        "service_type": "5",
+        "seq": "8",
+        "stop": "43398296F1D1BD48",
+        "stop_name_tc": "長康邨康富樓 (TY253)"
+    },
+    {
+        "route": "X42C",
+        "bound": "O",
+        "service_type": "5",
+        "seq": "9",
+        "stop": "67F3E54FF145BA65",
+        "stop_name_tc": "長康邨康豐樓 (TY255)"
+    },
+    {
+        "route": "X42C",
+        "bound": "O",
+        "service_type": "5",
+        "seq": "10",
+        "stop": "F93448A5F1168FB1",
+        "stop_name_tc": "長康邨康祥樓 (TY314)"
+    },
+    {
+        "route": "X42C",
+        "bound": "O",
+        "service_type": "5",
+        "seq": "11",
+        "stop": "3A9EE9221AB3E27C",
+        "stop_name_tc": "青盛苑 (TY317)"
+    },
+    {
+        "route": "X42C",
+        "bound": "O",
+        "service_type": "5",
+        "seq": "12",
+        "stop": "3406C1A9DA760403",
+        "stop_name_tc": "長青巴士總站 (TY322)"
+    },
+    {
+        "route": "X42C",
+        "bound": "O",
+        "service_type": "5",
+        "seq": "13",
+        "stop": "6E24D2D895228AC3",
+        "stop_name_tc": "長青邨青槐樓 (TY324)"
+    },
+    {
+        "route": "X42C",
+        "bound": "O",
+        "service_type": "5",
+        "seq": "14",
+        "stop": "07F45B3B36DFDDAE",
+        "stop_name_tc": "青富苑 (TY106)"
+    },
+    {
+        "route": "X42C",
+        "bound": "O",
+        "service_type": "5",
+        "seq": "15",
+        "stop": "B085DDE8E381E370",
+        "stop_name_tc": "長青邨青桃樓 (TY331)"
+    },
+    {
+        "route": "X42C",
+        "bound": "O",
+        "service_type": "5",
+        "seq": "16",
+        "stop": "F5A44B89EFBC0B4F",
+        "stop_name_tc": "畢架山花園 (SS190)"
+    },
+    {
+        "route": "X42C",
+        "bound": "O",
+        "service_type": "5",
+        "seq": "17",
+        "stop": "99EF4CA10B3E1F17",
+        "stop_name_tc": "豐力樓 (SS192)"
+    },
+    {
+        "route": "X42C",
+        "bound": "O",
+        "service_type": "5",
+        "seq": "18",
+        "stop": "326199D24220A42B",
+        "stop_name_tc": "天馬苑 (WT200)"
+    },
+    {
+        "route": "X42C",
+        "bound": "O",
+        "service_type": "5",
+        "seq": "19",
+        "stop": "F893C6ABC2743F64",
+        "stop_name_tc": "龍翔官立中學 (WT202)"
+    },
+    {
+        "route": "X42C",
+        "bound": "O",
+        "service_type": "5",
+        "seq": "20",
+        "stop": "5536C9E3A0CE1228",
+        "stop_name_tc": "黃大仙轉車站-黃大仙廟 (WT203)"
+    },
+    {
+        "route": "X42C",
+        "bound": "O",
+        "service_type": "5",
+        "seq": "21",
+        "stop": "A15FFC3149FB92A0",
+        "stop_name_tc": "黃大仙轉車站-沙田坳道 (WT209)"
+    },
+    {
+        "route": "X42C",
+        "bound": "O",
+        "service_type": "5",
+        "seq": "22",
+        "stop": "5D1E6432755E4F5F",
+        "stop_name_tc": "新蒲崗四美街 (WT332)"
+    },
+    {
+        "route": "X42C",
+        "bound": "O",
+        "service_type": "5",
+        "seq": "23",
+        "stop": "D80313EC29620E1D",
+        "stop_name_tc": "彩虹轉車站 - 碧海樓 (WT344)"
+    },
+    {
+        "route": "X42C",
+        "bound": "O",
+        "service_type": "5",
+        "seq": "24",
+        "stop": "BA03816A38B9DA7F",
+        "stop_name_tc": "啟業邨 (KT315)"
+    },
+    {
+        "route": "X42C",
+        "bound": "O",
+        "service_type": "5",
+        "seq": "25",
+        "stop": "D0F8772D043C207E",
+        "stop_name_tc": "九龍灣站(東九文化中心) (KT321)"
+    },
+    {
+        "route": "X42C",
+        "bound": "O",
+        "service_type": "5",
+        "seq": "26",
+        "stop": "BE36EF30B86ADD1D",
+        "stop_name_tc": "牛頭角下邨 (KT326)"
+    },
+    {
+        "route": "X42C",
+        "bound": "O",
+        "service_type": "5",
+        "seq": "27",
+        "stop": "598F766175BE3EF3",
+        "stop_name_tc": "觀塘道休憩處 (KT329)"
+    },
+    {
+        "route": "X42C",
+        "bound": "O",
+        "service_type": "5",
+        "seq": "28",
+        "stop": "38B86AC474D1060D",
+        "stop_name_tc": "創紀之城 (KT341)"
+    },
+    {
+        "route": "X42C",
+        "bound": "O",
+        "service_type": "5",
+        "seq": "29",
+        "stop": "EB177E95B39626AE",
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT347)"
+    },
+    {
+        "route": "X42C",
+        "bound": "O",
+        "service_type": "5",
+        "seq": "30",
+        "stop": "5AAC6A858427D04E",
+        "stop_name_tc": "觀塘游泳池 (KT360)"
+    },
+    {
+        "route": "X42C",
+        "bound": "O",
+        "service_type": "5",
+        "seq": "31",
+        "stop": "7459D3AB11AFD6B5",
+        "stop_name_tc": "藍田站 (LT911)"
+    },
+    {
+        "route": "X42C",
+        "bound": "O",
+        "service_type": "5",
+        "seq": "32",
+        "stop": "9C839C3824F47A6A",
+        "stop_name_tc": "聖安當女書院 (LT367)"
+    },
+    {
+        "route": "X42C",
+        "bound": "O",
+        "service_type": "5",
+        "seq": "33",
         "stop": "3EAFE91BF6223FA6",
         "stop_name_tc": "油塘巴士總站 (LT963)"
     },
