@@ -26541,7 +26541,7 @@
         "service_type": "1",
         "seq": "27",
         "stop": "AAECA769A84E2372",
-        "stop_name_tc": "大圍轉車站 - 新翠邨 (C2)"
+        "stop_name_tc": "大圍轉車站 - 新翠邨 (TA104)"
     },
     {
         "route": "170",
@@ -26549,7 +26549,7 @@
         "service_type": "1",
         "seq": "28",
         "stop": "A66159E033DDEA04",
-        "stop_name_tc": "大圍轉車站 - 大圍站 (F1)"
+        "stop_name_tc": "大圍轉車站 - 大圍站 (TA125)"
     },
     {
         "route": "170",
@@ -26829,7 +26829,7 @@
         "service_type": "2",
         "seq": "28",
         "stop": "AAECA769A84E2372",
-        "stop_name_tc": "大圍轉車站 - 新翠邨 (C2)"
+        "stop_name_tc": "大圍轉車站 - 新翠邨 (TA104)"
     },
     {
         "route": "170",
@@ -26837,7 +26837,7 @@
         "service_type": "2",
         "seq": "29",
         "stop": "A66159E033DDEA04",
-        "stop_name_tc": "大圍轉車站 - 大圍站 (F1)"
+        "stop_name_tc": "大圍轉車站 - 大圍站 (TA125)"
     },
     {
         "route": "170",
@@ -26949,7 +26949,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "AD0E19B05666A22B",
-        "stop_name_tc": "大圍轉車站 - 新翠邨 (B3)"
+        "stop_name_tc": "大圍轉車站 - 新翠邨 (TA602)"
     },
     {
         "route": "170",
@@ -27181,7 +27181,7 @@
         "service_type": "2",
         "seq": "7",
         "stop": "AD0E19B05666A22B",
-        "stop_name_tc": "大圍轉車站 - 新翠邨 (B3)"
+        "stop_name_tc": "大圍轉車站 - 新翠邨 (TA602)"
     },
     {
         "route": "170",
@@ -29637,7 +29637,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "AAECA769A84E2372",
-        "stop_name_tc": "大圍轉車站 - 新翠邨 (C2)"
+        "stop_name_tc": "大圍轉車站 - 新翠邨 (TA104)"
     },
     {
         "route": "182",
@@ -29645,7 +29645,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "A66159E033DDEA04",
-        "stop_name_tc": "大圍轉車站 - 大圍站 (F1)"
+        "stop_name_tc": "大圍轉車站 - 大圍站 (TA125)"
     },
     {
         "route": "182",
@@ -29821,7 +29821,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "AD0E19B05666A22B",
-        "stop_name_tc": "大圍轉車站 - 新翠邨 (B3)"
+        "stop_name_tc": "大圍轉車站 - 新翠邨 (TA602)"
     },
     {
         "route": "182",
@@ -30045,7 +30045,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "AAECA769A84E2372",
-        "stop_name_tc": "大圍轉車站 - 新翠邨 (C2)"
+        "stop_name_tc": "大圍轉車站 - 新翠邨 (TA104)"
     },
     {
         "route": "182X",
@@ -30053,7 +30053,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "A66159E033DDEA04",
-        "stop_name_tc": "大圍轉車站 - 大圍站 (F1)"
+        "stop_name_tc": "大圍轉車站 - 大圍站 (TA125)"
     },
     {
         "route": "182X",
@@ -44293,7 +44293,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "A66159E033DDEA04",
-        "stop_name_tc": "大圍轉車站 - 大圍站 (F1)"
+        "stop_name_tc": "大圍轉車站 - 大圍站 (TA125)"
     },
     {
         "route": "249X",
@@ -44501,7 +44501,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "9ADE07CC443E4ACE",
-        "stop_name_tc": "大圍轉車站 - 新翠邨新明樓 (A2)"
+        "stop_name_tc": "大圍轉車站 - 新翠邨新明樓"
     },
     {
         "route": "249X",
@@ -44517,7 +44517,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "2E299F1E89BC57CE",
-        "stop_name_tc": "大圍轉車站 - 田心村 (D2)"
+        "stop_name_tc": "大圍轉車站 - 田心村 (TA541)"
     },
     {
         "route": "249X",
@@ -53437,7 +53437,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "823E3EE2413E40E2",
-        "stop_name_tc": "石門轉車站-新界鄉議局大樓 (S2)"
+        "stop_name_tc": "石門轉車站-新界鄉議局大樓"
     },
     {
         "route": "263A",
@@ -53589,7 +53589,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "8ECFB7DFFC0023DA",
-        "stop_name_tc": "石門轉車站 - 濱景花園 (N1)"
+        "stop_name_tc": "石門轉車站 - 濱景花園 (ST148)"
     },
     {
         "route": "263A",
@@ -80957,7 +80957,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "A004B076CFBD733C",
-        "stop_name_tc": "大圍轉車站 - 新翠邨新明樓 (A1)"
+        "stop_name_tc": "大圍轉車站 - 新翠邨新明樓"
     },
     {
         "route": "281",
@@ -81381,7 +81381,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "823E3EE2413E40E2",
-        "stop_name_tc": "石門轉車站-新界鄉議局大樓 (S2)"
+        "stop_name_tc": "石門轉車站-新界鄉議局大樓"
     },
     {
         "route": "281B",
@@ -81437,7 +81437,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "F91B28AE855628AF",
-        "stop_name_tc": "大圍轉車站 - 新翠邨 (B4)"
+        "stop_name_tc": "大圍轉車站 - 新翠邨 (TA601)"
     },
     {
         "route": "281B",
@@ -82213,7 +82213,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "0D56ED01EED431BC",
-        "stop_name_tc": "石門轉車站-新界鄉議局大樓 (S5)"
+        "stop_name_tc": "石門轉車站-新界鄉議局大樓"
     },
     {
         "route": "284",
@@ -82509,7 +82509,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "A004B076CFBD733C",
-        "stop_name_tc": "大圍轉車站 - 新翠邨新明樓 (A1)"
+        "stop_name_tc": "大圍轉車站 - 新翠邨新明樓"
     },
     {
         "route": "286A",
@@ -82517,7 +82517,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "2A72F4041A7E6783",
-        "stop_name_tc": "大圍轉車站 - 田心村 (D1)"
+        "stop_name_tc": "大圍轉車站 - 田心村 (TA543)"
     },
     {
         "route": "286A",
@@ -82669,7 +82669,7 @@
         "service_type": "1",
         "seq": "27",
         "stop": "B11E10F012C57433",
-        "stop_name_tc": "大圍轉車站 - 新翠邨 (C3)"
+        "stop_name_tc": "大圍轉車站 - 新翠邨 (TA103)"
     },
     {
         "route": "286A",
@@ -82677,7 +82677,7 @@
         "service_type": "1",
         "seq": "28",
         "stop": "A66159E033DDEA04",
-        "stop_name_tc": "大圍轉車站 - 大圍站 (F1)"
+        "stop_name_tc": "大圍轉車站 - 大圍站 (TA125)"
     },
     {
         "route": "286A",
@@ -82829,7 +82829,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "40829C12642639D4",
-        "stop_name_tc": "石門轉車站 - 濱景花園 (N2)"
+        "stop_name_tc": "石門轉車站 - 濱景花園 (ST147)"
     },
     {
         "route": "286C",
@@ -82997,7 +82997,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "578C11F0F4197509",
-        "stop_name_tc": "石門轉車站-新界鄉議局大樓 (S3)"
+        "stop_name_tc": "石門轉車站-新界鄉議局大樓"
     },
     {
         "route": "286C",
@@ -83493,7 +83493,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "2A72F4041A7E6783",
-        "stop_name_tc": "大圍轉車站 - 田心村 (D1)"
+        "stop_name_tc": "大圍轉車站 - 田心村 (TA543)"
     },
     {
         "route": "286P",
@@ -83605,7 +83605,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "AAECA769A84E2372",
-        "stop_name_tc": "大圍轉車站 - 新翠邨 (C2)"
+        "stop_name_tc": "大圍轉車站 - 新翠邨 (TA104)"
     },
     {
         "route": "286X",
@@ -83613,7 +83613,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "A88D8F59960E3B4C",
-        "stop_name_tc": "大圍轉車站 - 積運街 (E1)"
+        "stop_name_tc": "大圍轉車站 - 積運街 (TA141)"
     },
     {
         "route": "286X",
@@ -83789,7 +83789,7 @@
         "service_type": "1",
         "seq": "28",
         "stop": "BAE4DA32E5043726",
-        "stop_name_tc": "大圍轉車站 - 新翠邨 (B5)"
+        "stop_name_tc": "大圍轉車站 - 新翠邨 (TA600)"
     },
     {
         "route": "286X",
@@ -83869,7 +83869,7 @@
         "service_type": "2",
         "seq": "5",
         "stop": "AAECA769A84E2372",
-        "stop_name_tc": "大圍轉車站 - 新翠邨 (C2)"
+        "stop_name_tc": "大圍轉車站 - 新翠邨 (TA104)"
     },
     {
         "route": "286X",
@@ -83877,7 +83877,7 @@
         "service_type": "2",
         "seq": "6",
         "stop": "A88D8F59960E3B4C",
-        "stop_name_tc": "大圍轉車站 - 積運街 (E1)"
+        "stop_name_tc": "大圍轉車站 - 積運街 (TA141)"
     },
     {
         "route": "286X",
@@ -84029,7 +84029,7 @@
         "service_type": "2",
         "seq": "25",
         "stop": "BAE4DA32E5043726",
-        "stop_name_tc": "大圍轉車站 - 新翠邨 (B5)"
+        "stop_name_tc": "大圍轉車站 - 新翠邨 (TA600)"
     },
     {
         "route": "286X",
@@ -84373,7 +84373,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "40829C12642639D4",
-        "stop_name_tc": "石門轉車站 - 濱景花園 (N2)"
+        "stop_name_tc": "石門轉車站 - 濱景花園 (ST147)"
     },
     {
         "route": "287D",
@@ -84517,7 +84517,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "A004B076CFBD733C",
-        "stop_name_tc": "大圍轉車站 - 新翠邨新明樓 (A1)"
+        "stop_name_tc": "大圍轉車站 - 新翠邨新明樓"
     },
     {
         "route": "287P",
@@ -84525,7 +84525,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "2A72F4041A7E6783",
-        "stop_name_tc": "大圍轉車站 - 田心村 (D1)"
+        "stop_name_tc": "大圍轉車站 - 田心村 (TA543)"
     },
     {
         "route": "287P",
@@ -84669,7 +84669,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "A004B076CFBD733C",
-        "stop_name_tc": "大圍轉車站 - 新翠邨新明樓 (A1)"
+        "stop_name_tc": "大圍轉車站 - 新翠邨新明樓"
     },
     {
         "route": "287X",
@@ -84677,7 +84677,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "2A72F4041A7E6783",
-        "stop_name_tc": "大圍轉車站 - 田心村 (D1)"
+        "stop_name_tc": "大圍轉車站 - 田心村 (TA543)"
     },
     {
         "route": "287X",
@@ -84813,7 +84813,7 @@
         "service_type": "1",
         "seq": "26",
         "stop": "A66159E033DDEA04",
-        "stop_name_tc": "大圍轉車站 - 大圍站 (F1)"
+        "stop_name_tc": "大圍轉車站 - 大圍站 (TA125)"
     },
     {
         "route": "287X",
@@ -85277,7 +85277,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "2A72F4041A7E6783",
-        "stop_name_tc": "大圍轉車站 - 田心村 (D1)"
+        "stop_name_tc": "大圍轉車站 - 田心村 (TA543)"
     },
     {
         "route": "288C",
@@ -85469,7 +85469,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "8ECFB7DFFC0023DA",
-        "stop_name_tc": "石門轉車站 - 濱景花園 (N1)"
+        "stop_name_tc": "石門轉車站 - 濱景花園 (ST148)"
     },
     {
         "route": "289R",
@@ -85997,7 +85997,7 @@
         "service_type": "1",
         "seq": "33",
         "stop": "0D56ED01EED431BC",
-        "stop_name_tc": "石門轉車站-新界鄉議局大樓 (S5)"
+        "stop_name_tc": "石門轉車站-新界鄉議局大樓"
     },
     {
         "route": "289R",
@@ -93365,7 +93365,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "0D56ED01EED431BC",
-        "stop_name_tc": "石門轉車站-新界鄉議局大樓 (S5)"
+        "stop_name_tc": "石門轉車站-新界鄉議局大樓"
     },
     {
         "route": "299X",
@@ -93565,7 +93565,7 @@
         "service_type": "2",
         "seq": "21",
         "stop": "0D56ED01EED431BC",
-        "stop_name_tc": "石門轉車站-新界鄉議局大樓 (S5)"
+        "stop_name_tc": "石門轉車站-新界鄉議局大樓"
     },
     {
         "route": "299X",
@@ -93637,7 +93637,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "8ECFB7DFFC0023DA",
-        "stop_name_tc": "石門轉車站 - 濱景花園 (N1)"
+        "stop_name_tc": "石門轉車站 - 濱景花園 (ST148)"
     },
     {
         "route": "299X",
@@ -108469,7 +108469,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "5759B937A26C377E",
-        "stop_name_tc": "石門轉車站-新界鄉議局大樓 (S1)"
+        "stop_name_tc": "石門轉車站-新界鄉議局大樓"
     },
     {
         "route": "38B",
@@ -108757,7 +108757,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "40829C12642639D4",
-        "stop_name_tc": "石門轉車站 - 濱景花園 (N2)"
+        "stop_name_tc": "石門轉車站 - 濱景花園 (ST147)"
     },
     {
         "route": "38B",
@@ -114637,7 +114637,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "40829C12642639D4",
-        "stop_name_tc": "石門轉車站 - 濱景花園 (N2)"
+        "stop_name_tc": "石門轉車站 - 濱景花園 (ST147)"
     },
     {
         "route": "40X",
@@ -114837,7 +114837,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "823E3EE2413E40E2",
-        "stop_name_tc": "石門轉車站-新界鄉議局大樓 (S2)"
+        "stop_name_tc": "石門轉車站-新界鄉議局大樓"
     },
     {
         "route": "40X",
@@ -119205,7 +119205,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "823E3EE2413E40E2",
-        "stop_name_tc": "石門轉車站-新界鄉議局大樓 (S2)"
+        "stop_name_tc": "石門轉車站-新界鄉議局大樓"
     },
     {
         "route": "43S",
@@ -119461,7 +119461,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "8ECFB7DFFC0023DA",
-        "stop_name_tc": "石門轉車站 - 濱景花園 (N1)"
+        "stop_name_tc": "石門轉車站 - 濱景花園 (ST148)"
     },
     {
         "route": "43S",
@@ -119597,7 +119597,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "8ECFB7DFFC0023DA",
-        "stop_name_tc": "石門轉車站 - 濱景花園 (N1)"
+        "stop_name_tc": "石門轉車站 - 濱景花園 (ST148)"
     },
     {
         "route": "43X",
@@ -119773,7 +119773,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "823E3EE2413E40E2",
-        "stop_name_tc": "石門轉車站-新界鄉議局大樓 (S2)"
+        "stop_name_tc": "石門轉車站-新界鄉議局大樓"
     },
     {
         "route": "43X",
@@ -119917,7 +119917,7 @@
         "service_type": "2",
         "seq": "7",
         "stop": "823E3EE2413E40E2",
-        "stop_name_tc": "石門轉車站-新界鄉議局大樓 (S2)"
+        "stop_name_tc": "石門轉車站-新界鄉議局大樓"
     },
     {
         "route": "43X",
@@ -122173,7 +122173,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "BAE4DA32E5043726",
-        "stop_name_tc": "大圍轉車站 - 新翠邨 (B5)"
+        "stop_name_tc": "大圍轉車站 - 新翠邨 (TA600)"
     },
     {
         "route": "46S",
@@ -122245,7 +122245,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "A58C8BBBEC70CEC0",
-        "stop_name_tc": "大圍轉車站 - 新翠邨 (C1)"
+        "stop_name_tc": "大圍轉車站 - 新翠邨 (TA105)"
     },
     {
         "route": "46S",
@@ -122525,7 +122525,7 @@
         "service_type": "1",
         "seq": "27",
         "stop": "BAE4DA32E5043726",
-        "stop_name_tc": "大圍轉車站 - 新翠邨 (B5)"
+        "stop_name_tc": "大圍轉車站 - 新翠邨 (TA600)"
     },
     {
         "route": "46X",
@@ -122605,7 +122605,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "A58C8BBBEC70CEC0",
-        "stop_name_tc": "大圍轉車站 - 新翠邨 (C1)"
+        "stop_name_tc": "大圍轉車站 - 新翠邨 (TA105)"
     },
     {
         "route": "46X",
@@ -126245,7 +126245,7 @@
         "service_type": "2",
         "seq": "2",
         "stop": "5759B937A26C377E",
-        "stop_name_tc": "石門轉車站-新界鄉議局大樓 (S1)"
+        "stop_name_tc": "石門轉車站-新界鄉議局大樓"
     },
     {
         "route": "49X",
@@ -129774,6 +129774,70 @@
         "seq": "56",
         "stop": "FAB0AB2B6DCEE7F2",
         "stop_name_tc": "元朗（西）總站 (YL945)"
+    },
+    {
+        "route": "56S",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "1",
+        "stop": "F64076F7E14E38D4",
+        "stop_name_tc": "曾咀 (TM875)"
+    },
+    {
+        "route": "56S",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "2",
+        "stop": "76441824D4E31948",
+        "stop_name_tc": "龍鼓灘"
+    },
+    {
+        "route": "56S",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "3",
+        "stop": "5D14B75687F60509",
+        "stop_name_tc": "屯門公園 (TM167)"
+    },
+    {
+        "route": "56S",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "4",
+        "stop": "584E6744385F6463",
+        "stop_name_tc": "屯門站總站 (V5) (TM955)"
+    },
+    {
+        "route": "56S",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "1",
+        "stop": "584E6744385F6463",
+        "stop_name_tc": "屯門站總站 (V5) (TM955)"
+    },
+    {
+        "route": "56S",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "2",
+        "stop": "C1BF4509359B0895",
+        "stop_name_tc": "屯門市中心總站 (TM976)"
+    },
+    {
+        "route": "56S",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "3",
+        "stop": "09A5D5C90F15C08C",
+        "stop_name_tc": "龍鼓灘"
+    },
+    {
+        "route": "56S",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "4",
+        "stop": "F64076F7E14E38D4",
+        "stop_name_tc": "曾咀 (TM875)"
     },
     {
         "route": "57M",
@@ -151781,7 +151845,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "40829C12642639D4",
-        "stop_name_tc": "石門轉車站 - 濱景花園 (N2)"
+        "stop_name_tc": "石門轉車站 - 濱景花園 (ST147)"
     },
     {
         "route": "680",
@@ -151957,7 +152021,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "578C11F0F4197509",
-        "stop_name_tc": "石門轉車站-新界鄉議局大樓 (S3)"
+        "stop_name_tc": "石門轉車站-新界鄉議局大樓"
     },
     {
         "route": "680",
@@ -152197,7 +152261,7 @@
         "service_type": "3",
         "seq": "12",
         "stop": "578C11F0F4197509",
-        "stop_name_tc": "石門轉車站-新界鄉議局大樓 (S3)"
+        "stop_name_tc": "石門轉車站-新界鄉議局大樓"
     },
     {
         "route": "680",
@@ -181493,7 +181557,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "2A72F4041A7E6783",
-        "stop_name_tc": "大圍轉車站 - 田心村 (D1)"
+        "stop_name_tc": "大圍轉車站 - 田心村 (TA543)"
     },
     {
         "route": "80",
@@ -181693,7 +181757,7 @@
         "service_type": "2",
         "seq": "5",
         "stop": "C6A76DB999AF1213",
-        "stop_name_tc": "大圍轉車站 - 新翠邨 (B1)"
+        "stop_name_tc": "大圍轉車站 - 新翠邨 (TA604)"
     },
     {
         "route": "80",
@@ -181845,7 +181909,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "2A72F4041A7E6783",
-        "stop_name_tc": "大圍轉車站 - 田心村 (D1)"
+        "stop_name_tc": "大圍轉車站 - 田心村 (TA543)"
     },
     {
         "route": "80A",
@@ -183461,7 +183525,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "A58C8BBBEC70CEC0",
-        "stop_name_tc": "大圍轉車站 - 新翠邨 (C1)"
+        "stop_name_tc": "大圍轉車站 - 新翠邨 (TA105)"
     },
     {
         "route": "81C",
@@ -183469,7 +183533,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "A66159E033DDEA04",
-        "stop_name_tc": "大圍轉車站 - 大圍站 (F1)"
+        "stop_name_tc": "大圍轉車站 - 大圍站 (TA125)"
     },
     {
         "route": "81C",
@@ -183533,7 +183597,7 @@
         "service_type": "1",
         "seq": "27",
         "stop": "8ECFB7DFFC0023DA",
-        "stop_name_tc": "石門轉車站 - 濱景花園 (N1)"
+        "stop_name_tc": "石門轉車站 - 濱景花園 (ST148)"
     },
     {
         "route": "81C",
@@ -183709,7 +183773,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "823E3EE2413E40E2",
-        "stop_name_tc": "石門轉車站-新界鄉議局大樓 (S2)"
+        "stop_name_tc": "石門轉車站-新界鄉議局大樓"
     },
     {
         "route": "81C",
@@ -183765,7 +183829,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "F91B28AE855628AF",
-        "stop_name_tc": "大圍轉車站 - 新翠邨 (B4)"
+        "stop_name_tc": "大圍轉車站 - 新翠邨 (TA601)"
     },
     {
         "route": "81C",
@@ -184221,7 +184285,7 @@
         "service_type": "3",
         "seq": "14",
         "stop": "A004B076CFBD733C",
-        "stop_name_tc": "大圍轉車站 - 新翠邨新明樓 (A1)"
+        "stop_name_tc": "大圍轉車站 - 新翠邨新明樓"
     },
     {
         "route": "81K",
@@ -184477,7 +184541,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "AAECA769A84E2372",
-        "stop_name_tc": "大圍轉車站 - 新翠邨 (C2)"
+        "stop_name_tc": "大圍轉車站 - 新翠邨 (TA104)"
     },
     {
         "route": "81X",
@@ -184485,7 +184549,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "2A72F4041A7E6783",
-        "stop_name_tc": "大圍轉車站 - 田心村 (D1)"
+        "stop_name_tc": "大圍轉車站 - 田心村 (TA543)"
     },
     {
         "route": "81X",
@@ -184629,7 +184693,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "0D56ED01EED431BC",
-        "stop_name_tc": "石門轉車站-新界鄉議局大樓 (S5)"
+        "stop_name_tc": "石門轉車站-新界鄉議局大樓"
     },
     {
         "route": "82C",
@@ -184789,7 +184853,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "8ECFB7DFFC0023DA",
-        "stop_name_tc": "石門轉車站 - 濱景花園 (N1)"
+        "stop_name_tc": "石門轉車站 - 濱景花園 (ST148)"
     },
     {
         "route": "82C",
@@ -185101,7 +185165,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "A004B076CFBD733C",
-        "stop_name_tc": "大圍轉車站 - 新翠邨新明樓 (A1)"
+        "stop_name_tc": "大圍轉車站 - 新翠邨新明樓"
     },
     {
         "route": "82K",
@@ -185189,7 +185253,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "2E299F1E89BC57CE",
-        "stop_name_tc": "大圍轉車站 - 田心村 (D2)"
+        "stop_name_tc": "大圍轉車站 - 田心村 (TA541)"
     },
     {
         "route": "82K",
@@ -185213,7 +185277,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "AAECA769A84E2372",
-        "stop_name_tc": "大圍轉車站 - 新翠邨 (C2)"
+        "stop_name_tc": "大圍轉車站 - 新翠邨 (TA104)"
     },
     {
         "route": "82K",
@@ -185221,7 +185285,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "A66159E033DDEA04",
-        "stop_name_tc": "大圍轉車站 - 大圍站 (F1)"
+        "stop_name_tc": "大圍轉車站 - 大圍站 (TA125)"
     },
     {
         "route": "82K",
@@ -185357,7 +185421,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "0D56ED01EED431BC",
-        "stop_name_tc": "石門轉車站-新界鄉議局大樓 (S5)"
+        "stop_name_tc": "石門轉車站-新界鄉議局大樓"
     },
     {
         "route": "82X",
@@ -186813,7 +186877,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "9E03B65B407F925A",
-        "stop_name_tc": "石門轉車站-新界鄉議局大樓 (S4)"
+        "stop_name_tc": "石門轉車站-新界鄉議局大樓"
     },
     {
         "route": "84M",
@@ -186933,7 +186997,7 @@
         "service_type": "2",
         "seq": "4",
         "stop": "9E03B65B407F925A",
-        "stop_name_tc": "石門轉車站-新界鄉議局大樓 (S4)"
+        "stop_name_tc": "石門轉車站-新界鄉議局大樓"
     },
     {
         "route": "84M",
@@ -187205,7 +187269,7 @@
         "service_type": "2",
         "seq": "38",
         "stop": "8ECFB7DFFC0023DA",
-        "stop_name_tc": "石門轉車站 - 濱景花園 (N1)"
+        "stop_name_tc": "石門轉車站 - 濱景花園 (ST148)"
     },
     {
         "route": "84M",
@@ -187349,7 +187413,7 @@
         "service_type": "3",
         "seq": "14",
         "stop": "8ECFB7DFFC0023DA",
-        "stop_name_tc": "石門轉車站 - 濱景花園 (N1)"
+        "stop_name_tc": "石門轉車站 - 濱景花園 (ST148)"
     },
     {
         "route": "84M",
@@ -187533,7 +187597,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "AAECA769A84E2372",
-        "stop_name_tc": "大圍轉車站 - 新翠邨 (C2)"
+        "stop_name_tc": "大圍轉車站 - 新翠邨 (TA104)"
     },
     {
         "route": "85",
@@ -187693,7 +187757,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "C6A76DB999AF1213",
-        "stop_name_tc": "大圍轉車站 - 新翠邨 (B1)"
+        "stop_name_tc": "大圍轉車站 - 新翠邨 (TA604)"
     },
     {
         "route": "85",
@@ -188301,7 +188365,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "9ADE07CC443E4ACE",
-        "stop_name_tc": "大圍轉車站 - 新翠邨新明樓 (A2)"
+        "stop_name_tc": "大圍轉車站 - 新翠邨新明樓"
     },
     {
         "route": "85B",
@@ -188309,7 +188373,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "2E299F1E89BC57CE",
-        "stop_name_tc": "大圍轉車站 - 田心村 (D2)"
+        "stop_name_tc": "大圍轉車站 - 田心村 (TA541)"
     },
     {
         "route": "85B",
@@ -188501,7 +188565,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "8ECFB7DFFC0023DA",
-        "stop_name_tc": "石門轉車站 - 濱景花園 (N1)"
+        "stop_name_tc": "石門轉車站 - 濱景花園 (ST148)"
     },
     {
         "route": "85K",
@@ -188701,7 +188765,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "0D56ED01EED431BC",
-        "stop_name_tc": "石門轉車站-新界鄉議局大樓 (S5)"
+        "stop_name_tc": "石門轉車站-新界鄉議局大樓"
     },
     {
         "route": "85K",
@@ -189701,7 +189765,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "40829C12642639D4",
-        "stop_name_tc": "石門轉車站 - 濱景花園 (N2)"
+        "stop_name_tc": "石門轉車站 - 濱景花園 (ST147)"
     },
     {
         "route": "85X",
@@ -189837,7 +189901,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "9E03B65B407F925A",
-        "stop_name_tc": "石門轉車站-新界鄉議局大樓 (S4)"
+        "stop_name_tc": "石門轉車站-新界鄉議局大樓"
     },
     {
         "route": "85X",
@@ -190917,7 +190981,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "B11E10F012C57433",
-        "stop_name_tc": "大圍轉車站 - 新翠邨 (C3)"
+        "stop_name_tc": "大圍轉車站 - 新翠邨 (TA103)"
     },
     {
         "route": "86A",
@@ -190925,7 +190989,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "A66159E033DDEA04",
-        "stop_name_tc": "大圍轉車站 - 大圍站 (F1)"
+        "stop_name_tc": "大圍轉車站 - 大圍站 (TA125)"
     },
     {
         "route": "86A",
@@ -191021,7 +191085,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "A004B076CFBD733C",
-        "stop_name_tc": "大圍轉車站 - 新翠邨新明樓 (A1)"
+        "stop_name_tc": "大圍轉車站 - 新翠邨新明樓"
     },
     {
         "route": "86A",
@@ -191341,7 +191405,7 @@
         "service_type": "1",
         "seq": "25",
         "stop": "40829C12642639D4",
-        "stop_name_tc": "石門轉車站 - 濱景花園 (N2)"
+        "stop_name_tc": "石門轉車站 - 濱景花園 (ST147)"
     },
     {
         "route": "86C",
@@ -191509,7 +191573,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "578C11F0F4197509",
-        "stop_name_tc": "石門轉車站-新界鄉議局大樓 (S3)"
+        "stop_name_tc": "石門轉車站-新界鄉議局大樓"
     },
     {
         "route": "86C",
@@ -191709,7 +191773,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "40829C12642639D4",
-        "stop_name_tc": "石門轉車站 - 濱景花園 (N2)"
+        "stop_name_tc": "石門轉車站 - 濱景花園 (ST147)"
     },
     {
         "route": "86K",
@@ -191885,7 +191949,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "0D56ED01EED431BC",
-        "stop_name_tc": "石門轉車站-新界鄉議局大樓 (S5)"
+        "stop_name_tc": "石門轉車站-新界鄉議局大樓"
     },
     {
         "route": "86K",
@@ -191965,7 +192029,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "40829C12642639D4",
-        "stop_name_tc": "石門轉車站 - 濱景花園 (N2)"
+        "stop_name_tc": "石門轉車站 - 濱景花園 (ST147)"
     },
     {
         "route": "86S",
@@ -192125,7 +192189,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "0D56ED01EED431BC",
-        "stop_name_tc": "石門轉車站-新界鄉議局大樓 (S5)"
+        "stop_name_tc": "石門轉車站-新界鄉議局大樓"
     },
     {
         "route": "86S",
@@ -192213,7 +192277,7 @@
         "service_type": "2",
         "seq": "7",
         "stop": "0D56ED01EED431BC",
-        "stop_name_tc": "石門轉車站-新界鄉議局大樓 (S5)"
+        "stop_name_tc": "石門轉車站-新界鄉議局大樓"
     },
     {
         "route": "86S",
@@ -192717,7 +192781,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "A004B076CFBD733C",
-        "stop_name_tc": "大圍轉車站 - 新翠邨新明樓 (A1)"
+        "stop_name_tc": "大圍轉車站 - 新翠邨新明樓"
     },
     {
         "route": "87B",
@@ -192725,7 +192789,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "2A72F4041A7E6783",
-        "stop_name_tc": "大圍轉車站 - 田心村 (D1)"
+        "stop_name_tc": "大圍轉車站 - 田心村 (TA543)"
     },
     {
         "route": "87B",
@@ -192781,7 +192845,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "F91B28AE855628AF",
-        "stop_name_tc": "大圍轉車站 - 新翠邨 (B4)"
+        "stop_name_tc": "大圍轉車站 - 新翠邨 (TA601)"
     },
     {
         "route": "87B",
@@ -193477,7 +193541,7 @@
         "service_type": "1",
         "seq": "23",
         "stop": "40829C12642639D4",
-        "stop_name_tc": "石門轉車站 - 濱景花園 (N2)"
+        "stop_name_tc": "石門轉車站 - 濱景花園 (ST147)"
     },
     {
         "route": "87D",
@@ -193653,7 +193717,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "823E3EE2413E40E2",
-        "stop_name_tc": "石門轉車站-新界鄉議局大樓 (S2)"
+        "stop_name_tc": "石門轉車站-新界鄉議局大樓"
     },
     {
         "route": "87D",
@@ -193821,7 +193885,7 @@
         "service_type": "3",
         "seq": "5",
         "stop": "823E3EE2413E40E2",
-        "stop_name_tc": "石門轉車站-新界鄉議局大樓 (S2)"
+        "stop_name_tc": "石門轉車站-新界鄉議局大樓"
     },
     {
         "route": "87D",
@@ -194029,7 +194093,7 @@
         "service_type": "4",
         "seq": "10",
         "stop": "823E3EE2413E40E2",
-        "stop_name_tc": "石門轉車站-新界鄉議局大樓 (S2)"
+        "stop_name_tc": "石門轉車站-新界鄉議局大樓"
     },
     {
         "route": "87D",
@@ -194941,7 +195005,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "40829C12642639D4",
-        "stop_name_tc": "石門轉車站 - 濱景花園 (N2)"
+        "stop_name_tc": "石門轉車站 - 濱景花園 (ST147)"
     },
     {
         "route": "87R",
@@ -195949,7 +196013,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "BAE4DA32E5043726",
-        "stop_name_tc": "大圍轉車站 - 新翠邨 (B5)"
+        "stop_name_tc": "大圍轉車站 - 新翠邨 (TA600)"
     },
     {
         "route": "88K",
@@ -196029,7 +196093,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "AAECA769A84E2372",
-        "stop_name_tc": "大圍轉車站 - 新翠邨 (C2)"
+        "stop_name_tc": "大圍轉車站 - 新翠邨 (TA104)"
     },
     {
         "route": "88K",
@@ -196037,7 +196101,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "A88D8F59960E3B4C",
-        "stop_name_tc": "大圍轉車站 - 積運街 (E1)"
+        "stop_name_tc": "大圍轉車站 - 積運街 (TA141)"
     },
     {
         "route": "88K",
@@ -197645,7 +197709,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "B11E10F012C57433",
-        "stop_name_tc": "大圍轉車站 - 新翠邨 (C3)"
+        "stop_name_tc": "大圍轉車站 - 新翠邨 (TA103)"
     },
     {
         "route": "89B",
@@ -197653,7 +197717,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "A66159E033DDEA04",
-        "stop_name_tc": "大圍轉車站 - 大圍站 (F1)"
+        "stop_name_tc": "大圍轉車站 - 大圍站 (TA125)"
     },
     {
         "route": "89B",
@@ -197741,7 +197805,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "FDA52ED538BDD5E4",
-        "stop_name_tc": "大圍轉車站 - 新翠邨 (B2)"
+        "stop_name_tc": "大圍轉車站 - 新翠邨 (TA603)"
     },
     {
         "route": "89B",
@@ -197949,7 +198013,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "8ECFB7DFFC0023DA",
-        "stop_name_tc": "石門轉車站 - 濱景花園 (N1)"
+        "stop_name_tc": "石門轉車站 - 濱景花園 (ST148)"
     },
     {
         "route": "89C",
@@ -198141,7 +198205,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "9E03B65B407F925A",
-        "stop_name_tc": "石門轉車站-新界鄉議局大樓 (S4)"
+        "stop_name_tc": "石門轉車站-新界鄉議局大樓"
     },
     {
         "route": "89C",
@@ -222373,7 +222437,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "578C11F0F4197509",
-        "stop_name_tc": "石門轉車站-新界鄉議局大樓 (S3)"
+        "stop_name_tc": "石門轉車站-新界鄉議局大樓"
     },
     {
         "route": "980A",
@@ -223109,7 +223173,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "A66159E033DDEA04",
-        "stop_name_tc": "大圍轉車站 - 大圍站 (F1)"
+        "stop_name_tc": "大圍轉車站 - 大圍站 (TA125)"
     },
     {
         "route": "982X",
@@ -223229,7 +223293,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "A004B076CFBD733C",
-        "stop_name_tc": "大圍轉車站 - 新翠邨新明樓 (A1)"
+        "stop_name_tc": "大圍轉車站 - 新翠邨新明樓"
     },
     {
         "route": "982X",
@@ -223237,7 +223301,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "2A72F4041A7E6783",
-        "stop_name_tc": "大圍轉車站 - 田心村 (D1)"
+        "stop_name_tc": "大圍轉車站 - 田心村 (TA543)"
     },
     {
         "route": "982X",
@@ -223349,7 +223413,7 @@
         "service_type": "2",
         "seq": "7",
         "stop": "A004B076CFBD733C",
-        "stop_name_tc": "大圍轉車站 - 新翠邨新明樓 (A1)"
+        "stop_name_tc": "大圍轉車站 - 新翠邨新明樓"
     },
     {
         "route": "982X",
@@ -223357,7 +223421,7 @@
         "service_type": "2",
         "seq": "8",
         "stop": "2A72F4041A7E6783",
-        "stop_name_tc": "大圍轉車站 - 田心村 (D1)"
+        "stop_name_tc": "大圍轉車站 - 田心村 (TA543)"
     },
     {
         "route": "982X",
@@ -223461,7 +223525,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "BAE4DA32E5043726",
-        "stop_name_tc": "大圍轉車站 - 新翠邨 (B5)"
+        "stop_name_tc": "大圍轉車站 - 新翠邨 (TA600)"
     },
     {
         "route": "985",
@@ -223613,7 +223677,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "2A72F4041A7E6783",
-        "stop_name_tc": "大圍轉車站 - 田心村 (D1)"
+        "stop_name_tc": "大圍轉車站 - 田心村 (TA543)"
     },
     {
         "route": "985",
@@ -223789,7 +223853,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "2A72F4041A7E6783",
-        "stop_name_tc": "大圍轉車站 - 田心村 (D1)"
+        "stop_name_tc": "大圍轉車站 - 田心村 (TA543)"
     },
     {
         "route": "985A",
@@ -223869,7 +223933,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "2A72F4041A7E6783",
-        "stop_name_tc": "大圍轉車站 - 田心村 (D1)"
+        "stop_name_tc": "大圍轉車站 - 田心村 (TA543)"
     },
     {
         "route": "985B",
@@ -235485,7 +235549,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "156FFE36D7D42EFE",
-        "stop_name_tc": "大圍轉車站 - 大圍站 (F2)"
+        "stop_name_tc": "大圍轉車站 - 大圍站 (TA124)"
     },
     {
         "route": "A41",
@@ -235661,7 +235725,7 @@
         "service_type": "3",
         "seq": "7",
         "stop": "156FFE36D7D42EFE",
-        "stop_name_tc": "大圍轉車站 - 大圍站 (F2)"
+        "stop_name_tc": "大圍轉車站 - 大圍站 (TA124)"
     },
     {
         "route": "A41",
@@ -235837,7 +235901,7 @@
         "service_type": "5",
         "seq": "7",
         "stop": "156FFE36D7D42EFE",
-        "stop_name_tc": "大圍轉車站 - 大圍站 (F2)"
+        "stop_name_tc": "大圍轉車站 - 大圍站 (TA124)"
     },
     {
         "route": "A41",
@@ -236021,7 +236085,7 @@
         "service_type": "6",
         "seq": "8",
         "stop": "156FFE36D7D42EFE",
-        "stop_name_tc": "大圍轉車站 - 大圍站 (F2)"
+        "stop_name_tc": "大圍轉車站 - 大圍站 (TA124)"
     },
     {
         "route": "A41",
@@ -236261,7 +236325,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "4F09976CA4CF80C9",
-        "stop_name_tc": "大圍轉車站 - 新翠邨新明樓 (A2)"
+        "stop_name_tc": "大圍轉車站 - 新翠邨新明樓"
     },
     {
         "route": "A41",
@@ -236269,7 +236333,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "F01D5D94B03AA8A2",
-        "stop_name_tc": "大圍轉車站 - 積運街 (E2)"
+        "stop_name_tc": "大圍轉車站 - 積運街 (TA140)"
     },
     {
         "route": "A41",
@@ -236437,7 +236501,7 @@
         "service_type": "3",
         "seq": "15",
         "stop": "4F09976CA4CF80C9",
-        "stop_name_tc": "大圍轉車站 - 新翠邨新明樓 (A2)"
+        "stop_name_tc": "大圍轉車站 - 新翠邨新明樓"
     },
     {
         "route": "A41",
@@ -236445,7 +236509,7 @@
         "service_type": "3",
         "seq": "16",
         "stop": "F01D5D94B03AA8A2",
-        "stop_name_tc": "大圍轉車站 - 積運街 (E2)"
+        "stop_name_tc": "大圍轉車站 - 積運街 (TA140)"
     },
     {
         "route": "A41",
@@ -236629,7 +236693,7 @@
         "service_type": "5",
         "seq": "15",
         "stop": "4F09976CA4CF80C9",
-        "stop_name_tc": "大圍轉車站 - 新翠邨新明樓 (A2)"
+        "stop_name_tc": "大圍轉車站 - 新翠邨新明樓"
     },
     {
         "route": "A41",
@@ -236637,7 +236701,7 @@
         "service_type": "5",
         "seq": "16",
         "stop": "F01D5D94B03AA8A2",
-        "stop_name_tc": "大圍轉車站 - 積運街 (E2)"
+        "stop_name_tc": "大圍轉車站 - 積運街 (TA140)"
     },
     {
         "route": "A41",
@@ -237485,7 +237549,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "2E299F1E89BC57CE",
-        "stop_name_tc": "大圍轉車站 - 田心村 (D2)"
+        "stop_name_tc": "大圍轉車站 - 田心村 (TA541)"
     },
     {
         "route": "A42",
@@ -237757,7 +237821,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "FC48D23E87345ABF",
-        "stop_name_tc": "大圍轉車站 - 田心村(D2)"
+        "stop_name_tc": "大圍轉車站 - 田心村 (TA542)"
     },
     {
         "route": "A42",
@@ -247877,7 +247941,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "156FFE36D7D42EFE",
-        "stop_name_tc": "大圍轉車站 - 大圍站 (F2)"
+        "stop_name_tc": "大圍轉車站 - 大圍站 (TA124)"
     },
     {
         "route": "E42",
@@ -248005,7 +248069,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "4F09976CA4CF80C9",
-        "stop_name_tc": "大圍轉車站 - 新翠邨新明樓 (A2)"
+        "stop_name_tc": "大圍轉車站 - 新翠邨新明樓"
     },
     {
         "route": "E42",
@@ -248013,7 +248077,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "F01D5D94B03AA8A2",
-        "stop_name_tc": "大圍轉車站 - 積運街 (E2)"
+        "stop_name_tc": "大圍轉車站 - 積運街 (TA140)"
     },
     {
         "route": "E42",
@@ -248221,7 +248285,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "156FFE36D7D42EFE",
-        "stop_name_tc": "大圍轉車站 - 大圍站 (F2)"
+        "stop_name_tc": "大圍轉車站 - 大圍站 (TA124)"
     },
     {
         "route": "E42C",
@@ -248349,7 +248413,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "4F09976CA4CF80C9",
-        "stop_name_tc": "大圍轉車站 - 新翠邨新明樓 (A2)"
+        "stop_name_tc": "大圍轉車站 - 新翠邨新明樓"
     },
     {
         "route": "E42C",
@@ -248357,7 +248421,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "F01D5D94B03AA8A2",
-        "stop_name_tc": "大圍轉車站 - 積運街 (E2)"
+        "stop_name_tc": "大圍轉車站 - 積運街 (TA140)"
     },
     {
         "route": "E42C",
@@ -248541,7 +248605,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "156FFE36D7D42EFE",
-        "stop_name_tc": "大圍轉車站 - 大圍站 (F2)"
+        "stop_name_tc": "大圍轉車站 - 大圍站 (TA124)"
     },
     {
         "route": "E42P",
@@ -248701,7 +248765,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "4F09976CA4CF80C9",
-        "stop_name_tc": "大圍轉車站 - 新翠邨新明樓 (A2)"
+        "stop_name_tc": "大圍轉車站 - 新翠邨新明樓"
     },
     {
         "route": "E42P",
@@ -248709,7 +248773,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "F01D5D94B03AA8A2",
-        "stop_name_tc": "大圍轉車站 - 積運街 (E2)"
+        "stop_name_tc": "大圍轉車站 - 積運街 (TA140)"
     },
     {
         "route": "E42P",
@@ -251573,7 +251637,7 @@
         "service_type": "1",
         "seq": "31",
         "stop": "AAECA769A84E2372",
-        "stop_name_tc": "大圍轉車站 - 新翠邨 (C2)"
+        "stop_name_tc": "大圍轉車站 - 新翠邨 (TA104)"
     },
     {
         "route": "N170",
@@ -251581,7 +251645,7 @@
         "service_type": "1",
         "seq": "32",
         "stop": "A66159E033DDEA04",
-        "stop_name_tc": "大圍轉車站 - 大圍站 (F1)"
+        "stop_name_tc": "大圍轉車站 - 大圍站 (TA125)"
     },
     {
         "route": "N170",
@@ -251693,7 +251757,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "AD0E19B05666A22B",
-        "stop_name_tc": "大圍轉車站 - 新翠邨 (B3)"
+        "stop_name_tc": "大圍轉車站 - 新翠邨 (TA602)"
     },
     {
         "route": "N170",
@@ -252605,7 +252669,7 @@
         "service_type": "1",
         "seq": "26",
         "stop": "AAECA769A84E2372",
-        "stop_name_tc": "大圍轉車站 - 新翠邨 (C2)"
+        "stop_name_tc": "大圍轉車站 - 新翠邨 (TA104)"
     },
     {
         "route": "N182",
@@ -252613,7 +252677,7 @@
         "service_type": "1",
         "seq": "27",
         "stop": "A66159E033DDEA04",
-        "stop_name_tc": "大圍轉車站 - 大圍站 (F1)"
+        "stop_name_tc": "大圍轉車站 - 大圍站 (TA125)"
     },
     {
         "route": "N182",
@@ -252869,7 +252933,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "AD0E19B05666A22B",
-        "stop_name_tc": "大圍轉車站 - 新翠邨 (B3)"
+        "stop_name_tc": "大圍轉車站 - 新翠邨 (TA602)"
     },
     {
         "route": "N182",
@@ -258781,7 +258845,7 @@
         "service_type": "1",
         "seq": "29",
         "stop": "A66159E033DDEA04",
-        "stop_name_tc": "大圍轉車站 - 大圍站 (F1)"
+        "stop_name_tc": "大圍轉車站 - 大圍站 (TA125)"
     },
     {
         "route": "N281",
@@ -258845,7 +258909,7 @@
         "service_type": "1",
         "seq": "37",
         "stop": "8ECFB7DFFC0023DA",
-        "stop_name_tc": "石門轉車站 - 濱景花園 (N1)"
+        "stop_name_tc": "石門轉車站 - 濱景花園 (ST148)"
     },
     {
         "route": "N281",
@@ -259045,7 +259109,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "823E3EE2413E40E2",
-        "stop_name_tc": "石門轉車站-新界鄉議局大樓 (S2)"
+        "stop_name_tc": "石門轉車站-新界鄉議局大樓"
     },
     {
         "route": "N281",
@@ -259117,7 +259181,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "9ADE07CC443E4ACE",
-        "stop_name_tc": "大圍轉車站 - 新翠邨新明樓 (A2)"
+        "stop_name_tc": "大圍轉車站 - 新翠邨新明樓"
     },
     {
         "route": "N281",
@@ -259125,7 +259189,7 @@
         "service_type": "1",
         "seq": "23",
         "stop": "2A72F4041A7E6783",
-        "stop_name_tc": "大圍轉車站 - 田心村 (D1)"
+        "stop_name_tc": "大圍轉車站 - 田心村 (TA543)"
     },
     {
         "route": "N281",
@@ -259669,7 +259733,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "8ECFB7DFFC0023DA",
-        "stop_name_tc": "石門轉車站 - 濱景花園 (N1)"
+        "stop_name_tc": "石門轉車站 - 濱景花園 (ST148)"
     },
     {
         "route": "N287",
@@ -265109,7 +265173,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "156FFE36D7D42EFE",
-        "stop_name_tc": "大圍轉車站 - 大圍站 (F2)"
+        "stop_name_tc": "大圍轉車站 - 大圍站 (TA124)"
     },
     {
         "route": "N42",
@@ -265501,7 +265565,7 @@
         "service_type": "1",
         "seq": "24",
         "stop": "4F09976CA4CF80C9",
-        "stop_name_tc": "大圍轉車站 - 新翠邨新明樓 (A2)"
+        "stop_name_tc": "大圍轉車站 - 新翠邨新明樓"
     },
     {
         "route": "N42",
@@ -265509,7 +265573,7 @@
         "service_type": "1",
         "seq": "25",
         "stop": "F01D5D94B03AA8A2",
-        "stop_name_tc": "大圍轉車站 - 積運街 (E2)"
+        "stop_name_tc": "大圍轉車站 - 積運街 (TA140)"
     },
     {
         "route": "N42",
@@ -267765,7 +267829,7 @@
         "service_type": "1",
         "seq": "23",
         "stop": "40829C12642639D4",
-        "stop_name_tc": "石門轉車站 - 濱景花園 (N2)"
+        "stop_name_tc": "石門轉車站 - 濱景花園 (ST147)"
     },
     {
         "route": "N680",
@@ -267949,7 +268013,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "578C11F0F4197509",
-        "stop_name_tc": "石門轉車站-新界鄉議局大樓 (S3)"
+        "stop_name_tc": "石門轉車站-新界鄉議局大樓"
     },
     {
         "route": "N680",
@@ -273165,7 +273229,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "FC48D23E87345ABF",
-        "stop_name_tc": "大圍轉車站 - 田心村(D2)"
+        "stop_name_tc": "大圍轉車站 - 田心村 (TA542)"
     },
     {
         "route": "NA41",
@@ -273205,7 +273269,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "156FFE36D7D42EFE",
-        "stop_name_tc": "大圍轉車站 - 大圍站 (F2)"
+        "stop_name_tc": "大圍轉車站 - 大圍站 (TA124)"
     },
     {
         "route": "NA41",
@@ -273493,7 +273557,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "4F09976CA4CF80C9",
-        "stop_name_tc": "大圍轉車站 - 新翠邨新明樓 (A2)"
+        "stop_name_tc": "大圍轉車站 - 新翠邨新明樓"
     },
     {
         "route": "NA41",
@@ -273501,7 +273565,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "FC48D23E87345ABF",
-        "stop_name_tc": "大圍轉車站 - 田心村(D2)"
+        "stop_name_tc": "大圍轉車站 - 田心村 (TA542)"
     },
     {
         "route": "NA41",
@@ -273541,7 +273605,7 @@
         "service_type": "1",
         "seq": "25",
         "stop": "F01D5D94B03AA8A2",
-        "stop_name_tc": "大圍轉車站 - 積運街 (E2)"
+        "stop_name_tc": "大圍轉車站 - 積運街 (TA140)"
     },
     {
         "route": "NA41",
@@ -277357,7 +277421,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "4F09976CA4CF80C9",
-        "stop_name_tc": "大圍轉車站 - 新翠邨新明樓 (A2)"
+        "stop_name_tc": "大圍轉車站 - 新翠邨新明樓"
     },
     {
         "route": "R42",
@@ -281437,7 +281501,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "A66159E033DDEA04",
-        "stop_name_tc": "大圍轉車站 - 大圍站 (F1)"
+        "stop_name_tc": "大圍轉車站 - 大圍站 (TA125)"
     },
     {
         "route": "T80",
@@ -281557,7 +281621,7 @@
         "service_type": "2",
         "seq": "5",
         "stop": "B11E10F012C57433",
-        "stop_name_tc": "大圍轉車站 - 新翠邨 (C3)"
+        "stop_name_tc": "大圍轉車站 - 新翠邨 (TA103)"
     },
     {
         "route": "T80",
@@ -281565,7 +281629,7 @@
         "service_type": "2",
         "seq": "6",
         "stop": "A66159E033DDEA04",
-        "stop_name_tc": "大圍轉車站 - 大圍站 (F1)"
+        "stop_name_tc": "大圍轉車站 - 大圍站 (TA125)"
     },
     {
         "route": "T80",
@@ -284453,7 +284517,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "156FFE36D7D42EFE",
-        "stop_name_tc": "大圍轉車站 - 大圍站 (F2)"
+        "stop_name_tc": "大圍轉車站 - 大圍站 (TA124)"
     },
     {
         "route": "X47",
