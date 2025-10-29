@@ -12576,9 +12576,9 @@
         "route": "91",
         "bound": "I",
         "service_type": "2",
-        "orig_en": "CHOI HUNG BBI - PIK HOI HOUSE (M1)",
-        "orig_tc": "彩虹轉車站- 碧海樓 (M1)",
-        "orig_sc": "彩虹转车站- 碧海楼 (M1)",
+        "orig_en": "CHOI HUNG BBI - PIK HOI HOUSE",
+        "orig_tc": "彩虹轉車站- 碧海樓",
+        "orig_sc": "彩虹转车站- 碧海楼",
         "dest_en": "CLEAR WATER BAY",
         "dest_tc": "清水灣",
         "dest_sc": "清水湾"
