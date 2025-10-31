@@ -1202,11 +1202,11 @@
     {
         "co": "CTB",
         "route": "608",
-        "orig_tc": "九龍城 (盛德街)",
-        "orig_en": "Kowloon City (Shing Tak Street)",
+        "orig_tc": "馬頭圍邨",
+        "orig_en": "Ma Tau Wai Estate",
         "dest_tc": "筲箕灣",
         "dest_en": "Shau Kei Wan",
-        "orig_sc": "九龙城 (盛德街)",
+        "orig_sc": "马头围邨",
         "dest_sc": "筲箕湾"
     },
     {

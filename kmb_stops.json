@@ -15756,8 +15756,8 @@
         "name_en": "ST. JOHN'S CATHEDRAL",
         "name_tc": "聖約翰座堂",
         "name_sc": "圣约翰座堂",
-        "lat": "22.278746",
-        "long": "114.160106"
+        "lat": "22.278354",
+        "long": "114.159801"
     },
     {
         "stop": "4A0ECA0D5AA4CB7E",
@@ -44262,14 +44262,6 @@
         "name_sc": "渔湾邨",
         "lat": "22.265312",
         "long": "114.241787"
-    },
-    {
-        "stop": "D5382A8A3773E6FE",
-        "name_en": "SHEK YAM EAST ESTATE (KW217)",
-        "name_tc": "石蔭東邨 (KW217)",
-        "name_sc": "石荫东邨 (KW217)",
-        "lat": "22.371931",
-        "long": "114.139780"
     },
     {
         "stop": "D54A59914E577E3F",
