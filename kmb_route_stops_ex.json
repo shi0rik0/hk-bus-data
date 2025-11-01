@@ -86964,8 +86964,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "16",
-        "stop": "0EB21C27E769261B",
-        "stop_name_tc": "黃大仙轉車站-黃大仙廟 (WT715)"
+        "stop": "62A1C8EFAC876BDB",
+        "stop_name_tc": "黃大仙轉車站-黃大仙廟 (WT714)"
     },
     {
         "route": "290",
@@ -87596,8 +87596,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "28",
-        "stop": "0EB21C27E769261B",
-        "stop_name_tc": "黃大仙轉車站-黃大仙廟 (WT715)"
+        "stop": "62A1C8EFAC876BDB",
+        "stop_name_tc": "黃大仙轉車站-黃大仙廟 (WT714)"
     },
     {
         "route": "290A",
@@ -87796,8 +87796,8 @@
         "bound": "O",
         "service_type": "2",
         "seq": "14",
-        "stop": "0EB21C27E769261B",
-        "stop_name_tc": "黃大仙轉車站-黃大仙廟 (WT715)"
+        "stop": "62A1C8EFAC876BDB",
+        "stop_name_tc": "黃大仙轉車站-黃大仙廟 (WT714)"
     },
     {
         "route": "290A",
@@ -88252,8 +88252,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "19",
-        "stop": "0EB21C27E769261B",
-        "stop_name_tc": "黃大仙轉車站-黃大仙廟 (WT715)"
+        "stop": "62A1C8EFAC876BDB",
+        "stop_name_tc": "黃大仙轉車站-黃大仙廟 (WT714)"
     },
     {
         "route": "290E",
@@ -89132,8 +89132,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "23",
-        "stop": "0EB21C27E769261B",
-        "stop_name_tc": "黃大仙轉車站-黃大仙廟 (WT715)"
+        "stop": "62A1C8EFAC876BDB",
+        "stop_name_tc": "黃大仙轉車站-黃大仙廟 (WT714)"
     },
     {
         "route": "290X",
@@ -89324,8 +89324,8 @@
         "bound": "O",
         "service_type": "2",
         "seq": "14",
-        "stop": "0EB21C27E769261B",
-        "stop_name_tc": "黃大仙轉車站-黃大仙廟 (WT715)"
+        "stop": "62A1C8EFAC876BDB",
+        "stop_name_tc": "黃大仙轉車站-黃大仙廟 (WT714)"
     },
     {
         "route": "290X",
@@ -101652,8 +101652,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "12",
-        "stop": "0EB21C27E769261B",
-        "stop_name_tc": "黃大仙轉車站-黃大仙廟 (WT715)"
+        "stop": "62A1C8EFAC876BDB",
+        "stop_name_tc": "黃大仙轉車站-黃大仙廟 (WT714)"
     },
     {
         "route": "33",
@@ -102572,8 +102572,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "13",
-        "stop": "0EB21C27E769261B",
-        "stop_name_tc": "黃大仙轉車站-黃大仙廟 (WT715)"
+        "stop": "62A1C8EFAC876BDB",
+        "stop_name_tc": "黃大仙轉車站-黃大仙廟 (WT714)"
     },
     {
         "route": "33B",
@@ -107740,8 +107740,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "17",
-        "stop": "0EB21C27E769261B",
-        "stop_name_tc": "黃大仙轉車站-黃大仙廟 (WT715)"
+        "stop": "62A1C8EFAC876BDB",
+        "stop_name_tc": "黃大仙轉車站-黃大仙廟 (WT714)"
     },
     {
         "route": "38",
@@ -108876,8 +108876,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "14",
-        "stop": "0EB21C27E769261B",
-        "stop_name_tc": "黃大仙轉車站-黃大仙廟 (WT715)"
+        "stop": "62A1C8EFAC876BDB",
+        "stop_name_tc": "黃大仙轉車站-黃大仙廟 (WT714)"
     },
     {
         "route": "38P",
@@ -113892,8 +113892,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "13",
-        "stop": "0EB21C27E769261B",
-        "stop_name_tc": "黃大仙轉車站-黃大仙廟 (WT715)"
+        "stop": "62A1C8EFAC876BDB",
+        "stop_name_tc": "黃大仙轉車站-黃大仙廟 (WT714)"
     },
     {
         "route": "40P",
@@ -135300,8 +135300,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "26",
-        "stop": "1B38FC0124479B7F",
-        "stop_name_tc": "砵典乍街 (CW777)"
+        "stop": "4AA350AD8FFF4786",
+        "stop_name_tc": "砵典乍街 (CW776)"
     },
     {
         "route": "600",
@@ -136628,8 +136628,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "18",
-        "stop": "1B38FC0124479B7F",
-        "stop_name_tc": "砵典乍街 (CW777)"
+        "stop": "4AA350AD8FFF4786",
+        "stop_name_tc": "砵典乍街 (CW776)"
     },
     {
         "route": "603",
@@ -137604,8 +137604,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "18",
-        "stop": "1B38FC0124479B7F",
-        "stop_name_tc": "砵典乍街 (CW777)"
+        "stop": "4AA350AD8FFF4786",
+        "stop_name_tc": "砵典乍街 (CW776)"
     },
     {
         "route": "603S",
@@ -150132,8 +150132,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "25",
-        "stop": "1B38FC0124479B7F",
-        "stop_name_tc": "砵典乍街 (CW777)"
+        "stop": "4AA350AD8FFF4786",
+        "stop_name_tc": "砵典乍街 (CW776)"
     },
     {
         "route": "673P",
@@ -209116,8 +209116,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "3",
-        "stop": "3B05BCDB33F79D39",
-        "stop_name_tc": "怡和街 (WC652)"
+        "stop": "BBFDDE87E6A6DD13",
+        "stop_name_tc": "怡和街 (WC651)"
     },
     {
         "route": "936",
@@ -209692,8 +209692,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "3",
-        "stop": "3B05BCDB33F79D39",
-        "stop_name_tc": "怡和街 (WC652)"
+        "stop": "BBFDDE87E6A6DD13",
+        "stop_name_tc": "怡和街 (WC651)"
     },
     {
         "route": "936A",
@@ -260172,8 +260172,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "39",
-        "stop": "0EB21C27E769261B",
-        "stop_name_tc": "黃大仙轉車站-黃大仙廟 (WT715)"
+        "stop": "62A1C8EFAC876BDB",
+        "stop_name_tc": "黃大仙轉車站-黃大仙廟 (WT714)"
     },
     {
         "route": "N290",

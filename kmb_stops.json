@@ -2808,14 +2808,6 @@
         "long": "114.004351"
     },
     {
-        "stop": "0EB21C27E769261B",
-        "name_en": "WONG TAI SIN BBI-WONG TAI SIN TEMPLE (WT715)",
-        "name_tc": "黃大仙轉車站-黃大仙廟 (WT715)",
-        "name_sc": "黄大仙转车站-黄大仙庙 (WT715)",
-        "lat": "22.341470",
-        "long": "114.195370"
-    },
-    {
         "stop": "0ECA7118ADB9577B",
         "name_en": "CONVENTION AVENUE (WC180)",
         "name_tc": "會議道 (WC180)",
@@ -5590,14 +5582,6 @@
         "name_sc": "杯渡路屯门站 (TM601)",
         "lat": "22.394105",
         "long": "113.973925"
-    },
-    {
-        "stop": "1B38FC0124479B7F",
-        "name_en": "POTTINGER STREET (CW777)",
-        "name_tc": "砵典乍街 (CW777)",
-        "name_sc": "砵典乍街 (CW777)",
-        "lat": "22.283578",
-        "long": "114.157295"
     },
     {
         "stop": "1B41827EB0497A78",
@@ -12430,14 +12414,6 @@
         "name_sc": "火炭(山尾街)总站 (FT956)",
         "lat": "22.396383",
         "long": "114.194294"
-    },
-    {
-        "stop": "3B05BCDB33F79D39",
-        "name_en": "YEE WO STREET (WC652)",
-        "name_tc": "怡和街 (WC652)",
-        "name_sc": "怡和街 (WC652)",
-        "lat": "22.279806",
-        "long": "114.185362"
     },
     {
         "stop": "3B16EE96D0A7BA72",
