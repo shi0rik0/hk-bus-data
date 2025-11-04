@@ -53893,7 +53893,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "CB7FA5CF40D4413A",
-        "stop_name_tc": "廣福道轉車站 (Y3) (TP566)"
+        "stop_name_tc": "廣福道轉車站 (TP566)"
     },
     {
         "route": "263C",
@@ -54189,7 +54189,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "05485C36CA334A81",
-        "stop_name_tc": "廣福道轉車站 (A1) (TP276)"
+        "stop_name_tc": "廣福道轉車站 (TP276)"
     },
     {
         "route": "263C",
@@ -54197,7 +54197,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "FDDA176977136CD9",
-        "stop_name_tc": "廣福道轉車站 - 寶鄉橋 (B4)"
+        "stop_name_tc": "廣福道轉車站 - 寶鄉橋 (TP306)"
     },
     {
         "route": "263C",
@@ -54293,7 +54293,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "05485C36CA334A81",
-        "stop_name_tc": "廣福道轉車站 (A1) (TP276)"
+        "stop_name_tc": "廣福道轉車站 (TP276)"
     },
     {
         "route": "264R",
@@ -54301,7 +54301,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "DA30F5393480B81D",
-        "stop_name_tc": "廣福道轉車站 - 寶鄉橋 (B3)"
+        "stop_name_tc": "廣福道轉車站 - 寶鄉橋 (TP305)"
     },
     {
         "route": "264R",
@@ -54661,7 +54661,7 @@
         "service_type": "1",
         "seq": "24",
         "stop": "13E458C819D90940",
-        "stop_name_tc": "廣福道轉車站 (Y1) (TP564)"
+        "stop_name_tc": "廣福道轉車站 (TP564)"
     },
     {
         "route": "264R",
@@ -55637,7 +55637,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "3CE4F8574F4F9D72",
-        "stop_name_tc": "廣福道轉車站 - 寶鄉街 (X1)"
+        "stop_name_tc": "廣福道轉車站 - 寶鄉街 (TP545)"
     },
     {
         "route": "265S",
@@ -55893,7 +55893,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "05485C36CA334A81",
-        "stop_name_tc": "廣福道轉車站 (A1) (TP276)"
+        "stop_name_tc": "廣福道轉車站 (TP276)"
     },
     {
         "route": "265S",
@@ -55901,7 +55901,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "FDDA176977136CD9",
-        "stop_name_tc": "廣福道轉車站 - 寶鄉橋 (B4)"
+        "stop_name_tc": "廣福道轉車站 - 寶鄉橋 (TP306)"
     },
     {
         "route": "265S",
@@ -56189,7 +56189,7 @@
         "service_type": "2",
         "seq": "24",
         "stop": "05485C36CA334A81",
-        "stop_name_tc": "廣福道轉車站 (A1) (TP276)"
+        "stop_name_tc": "廣福道轉車站 (TP276)"
     },
     {
         "route": "265S",
@@ -56197,7 +56197,7 @@
         "service_type": "2",
         "seq": "25",
         "stop": "FDDA176977136CD9",
-        "stop_name_tc": "廣福道轉車站 - 寶鄉橋 (B4)"
+        "stop_name_tc": "廣福道轉車站 - 寶鄉橋 (TP306)"
     },
     {
         "route": "265S",
@@ -67213,7 +67213,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "C55F50E43F6108EB",
-        "stop_name_tc": "廣福道轉車站 (A2) (TP279)"
+        "stop_name_tc": "廣福道轉車站 (TP279)"
     },
     {
         "route": "271",
@@ -67221,7 +67221,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "530F970BB56D778D",
-        "stop_name_tc": "廣福道轉車站 - 寶鄉橋 (B1)"
+        "stop_name_tc": "廣福道轉車站 - 寶鄉橋 (TP302)"
     },
     {
         "route": "271",
@@ -67421,7 +67421,7 @@
         "service_type": "2",
         "seq": "21",
         "stop": "C55F50E43F6108EB",
-        "stop_name_tc": "廣福道轉車站 (A2) (TP279)"
+        "stop_name_tc": "廣福道轉車站 (TP279)"
     },
     {
         "route": "271",
@@ -67429,7 +67429,7 @@
         "service_type": "2",
         "seq": "22",
         "stop": "530F970BB56D778D",
-        "stop_name_tc": "廣福道轉車站 - 寶鄉橋 (B1)"
+        "stop_name_tc": "廣福道轉車站 - 寶鄉橋 (TP302)"
     },
     {
         "route": "271",
@@ -67501,7 +67501,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "F7DD5A5E7E4D41C9",
-        "stop_name_tc": "廣福道轉車站 (Y4) (TP567)"
+        "stop_name_tc": "廣福道轉車站 (TP567)"
     },
     {
         "route": "271",
@@ -68173,7 +68173,7 @@
         "service_type": "1",
         "seq": "29",
         "stop": "C55F50E43F6108EB",
-        "stop_name_tc": "廣福道轉車站 (A2) (TP279)"
+        "stop_name_tc": "廣福道轉車站 (TP279)"
     },
     {
         "route": "271B",
@@ -68181,7 +68181,7 @@
         "service_type": "1",
         "seq": "30",
         "stop": "530F970BB56D778D",
-        "stop_name_tc": "廣福道轉車站 - 寶鄉橋 (B1)"
+        "stop_name_tc": "廣福道轉車站 - 寶鄉橋 (TP302)"
     },
     {
         "route": "271B",
@@ -68261,7 +68261,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "F7DD5A5E7E4D41C9",
-        "stop_name_tc": "廣福道轉車站 (Y4) (TP567)"
+        "stop_name_tc": "廣福道轉車站 (TP567)"
     },
     {
         "route": "271B",
@@ -68565,7 +68565,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "F7DD5A5E7E4D41C9",
-        "stop_name_tc": "廣福道轉車站 (Y4) (TP567)"
+        "stop_name_tc": "廣福道轉車站 (TP567)"
     },
     {
         "route": "271P",
@@ -68781,7 +68781,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "C55F50E43F6108EB",
-        "stop_name_tc": "廣福道轉車站 (A2) (TP279)"
+        "stop_name_tc": "廣福道轉車站 (TP279)"
     },
     {
         "route": "271R",
@@ -68789,7 +68789,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "2AEDE966C122B71E",
-        "stop_name_tc": "廣福道轉車站 - 寶鄉橋 (B2)"
+        "stop_name_tc": "廣福道轉車站 - 寶鄉橋 (TP304)"
     },
     {
         "route": "271R",
@@ -68997,7 +68997,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "05485C36CA334A81",
-        "stop_name_tc": "廣福道轉車站 (A1) (TP276)"
+        "stop_name_tc": "廣福道轉車站 (TP276)"
     },
     {
         "route": "271S",
@@ -69005,7 +69005,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "530F970BB56D778D",
-        "stop_name_tc": "廣福道轉車站 - 寶鄉橋 (B1)"
+        "stop_name_tc": "廣福道轉車站 - 寶鄉橋 (TP302)"
     },
     {
         "route": "271S",
@@ -69189,7 +69189,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "C55F50E43F6108EB",
-        "stop_name_tc": "廣福道轉車站 (A2) (TP279)"
+        "stop_name_tc": "廣福道轉車站 (TP279)"
     },
     {
         "route": "271X",
@@ -69197,7 +69197,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "530F970BB56D778D",
-        "stop_name_tc": "廣福道轉車站 - 寶鄉橋 (B1)"
+        "stop_name_tc": "廣福道轉車站 - 寶鄉橋 (TP302)"
     },
     {
         "route": "271X",
@@ -69829,7 +69829,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "C55F50E43F6108EB",
-        "stop_name_tc": "廣福道轉車站 (A2) (TP279)"
+        "stop_name_tc": "廣福道轉車站 (TP279)"
     },
     {
         "route": "272E",
@@ -69901,7 +69901,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "42A5DBE7D21EADE3",
-        "stop_name_tc": "廣福道轉車站 - 寶鄉街 (X2)"
+        "stop_name_tc": "廣福道轉車站 - 寶鄉街 (TP546)"
     },
     {
         "route": "272E",
@@ -70485,7 +70485,7 @@
         "service_type": "2",
         "seq": "19",
         "stop": "4EF065C6D7FCCFE7",
-        "stop_name_tc": "廣福道轉車站 (A2) (TP278)"
+        "stop_name_tc": "廣福道轉車站 (TP278)"
     },
     {
         "route": "272P",
@@ -70493,7 +70493,7 @@
         "service_type": "2",
         "seq": "20",
         "stop": "2AEDE966C122B71E",
-        "stop_name_tc": "廣福道轉車站 - 寶鄉橋 (B2)"
+        "stop_name_tc": "廣福道轉車站 - 寶鄉橋 (TP304)"
     },
     {
         "route": "272P",
@@ -70573,7 +70573,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "3CE4F8574F4F9D72",
-        "stop_name_tc": "廣福道轉車站 - 寶鄉街 (X1)"
+        "stop_name_tc": "廣福道轉車站 - 寶鄉街 (TP545)"
     },
     {
         "route": "272P",
@@ -70805,7 +70805,7 @@
         "service_type": "2",
         "seq": "6",
         "stop": "3CE4F8574F4F9D72",
-        "stop_name_tc": "廣福道轉車站 - 寶鄉街 (X1)"
+        "stop_name_tc": "廣福道轉車站 - 寶鄉街 (TP545)"
     },
     {
         "route": "272P",
@@ -71261,7 +71261,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "4EF065C6D7FCCFE7",
-        "stop_name_tc": "廣福道轉車站 (A2) (TP278)"
+        "stop_name_tc": "廣福道轉車站 (TP278)"
     },
     {
         "route": "272X",
@@ -71269,7 +71269,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "2AEDE966C122B71E",
-        "stop_name_tc": "廣福道轉車站 - 寶鄉橋 (B2)"
+        "stop_name_tc": "廣福道轉車站 - 寶鄉橋 (TP304)"
     },
     {
         "route": "272X",
@@ -71309,7 +71309,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "F7DD5A5E7E4D41C9",
-        "stop_name_tc": "廣福道轉車站 (Y4) (TP567)"
+        "stop_name_tc": "廣福道轉車站 (TP567)"
     },
     {
         "route": "272X",
@@ -72285,7 +72285,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "3CE4F8574F4F9D72",
-        "stop_name_tc": "廣福道轉車站 - 寶鄉街 (X1)"
+        "stop_name_tc": "廣福道轉車站 - 寶鄉街 (TP545)"
     },
     {
         "route": "273C",
@@ -72709,7 +72709,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "3CE4F8574F4F9D72",
-        "stop_name_tc": "廣福道轉車站 - 寶鄉街 (X1)"
+        "stop_name_tc": "廣福道轉車站 - 寶鄉街 (TP545)"
     },
     {
         "route": "273P",
@@ -73245,7 +73245,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "42A5DBE7D21EADE3",
-        "stop_name_tc": "廣福道轉車站 - 寶鄉街 (X2)"
+        "stop_name_tc": "廣福道轉車站 - 寶鄉街 (TP546)"
     },
     {
         "route": "274P",
@@ -73517,7 +73517,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "05485C36CA334A81",
-        "stop_name_tc": "廣福道轉車站 (A1) (TP276)"
+        "stop_name_tc": "廣福道轉車站 (TP276)"
     },
     {
         "route": "274P",
@@ -73525,7 +73525,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "FDDA176977136CD9",
-        "stop_name_tc": "廣福道轉車站 - 寶鄉橋 (B4)"
+        "stop_name_tc": "廣福道轉車站 - 寶鄉橋 (TP306)"
     },
     {
         "route": "274P",
@@ -73701,7 +73701,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "4EF065C6D7FCCFE7",
-        "stop_name_tc": "廣福道轉車站 (A2) (TP278)"
+        "stop_name_tc": "廣福道轉車站 (TP278)"
     },
     {
         "route": "274X",
@@ -73709,7 +73709,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "2AEDE966C122B71E",
-        "stop_name_tc": "廣福道轉車站 - 寶鄉橋 (B2)"
+        "stop_name_tc": "廣福道轉車站 - 寶鄉橋 (TP304)"
     },
     {
         "route": "274X",
@@ -74261,7 +74261,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "C55F50E43F6108EB",
-        "stop_name_tc": "廣福道轉車站 (A2) (TP279)"
+        "stop_name_tc": "廣福道轉車站 (TP279)"
     },
     {
         "route": "275X",
@@ -74269,7 +74269,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "530F970BB56D778D",
-        "stop_name_tc": "廣福道轉車站 - 寶鄉橋 (B1)"
+        "stop_name_tc": "廣福道轉車站 - 寶鄉橋 (TP302)"
     },
     {
         "route": "275X",
@@ -74325,7 +74325,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "A47A663F7AF92B77",
-        "stop_name_tc": "廣福道轉車站 - 寶湖花園 (Z1)"
+        "stop_name_tc": "廣福道轉車站-寶湖花園 (TP550)"
     },
     {
         "route": "275X",
@@ -97637,7 +97637,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "4EF065C6D7FCCFE7",
-        "stop_name_tc": "廣福道轉車站 (A2) (TP278)"
+        "stop_name_tc": "廣福道轉車站 (TP278)"
     },
     {
         "route": "307",
@@ -97645,7 +97645,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "530F970BB56D778D",
-        "stop_name_tc": "廣福道轉車站 - 寶鄉橋 (B1)"
+        "stop_name_tc": "廣福道轉車站 - 寶鄉橋 (TP302)"
     },
     {
         "route": "307",
@@ -97685,7 +97685,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "3CE4F8574F4F9D72",
-        "stop_name_tc": "廣福道轉車站 - 寶鄉街 (X1)"
+        "stop_name_tc": "廣福道轉車站 - 寶鄉街 (TP545)"
     },
     {
         "route": "307",
@@ -97805,7 +97805,7 @@
         "service_type": "3",
         "seq": "3",
         "stop": "3CE4F8574F4F9D72",
-        "stop_name_tc": "廣福道轉車站 - 寶鄉街 (X1)"
+        "stop_name_tc": "廣福道轉車站 - 寶鄉街 (TP545)"
     },
     {
         "route": "307",
@@ -145693,7 +145693,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "DA30F5393480B81D",
-        "stop_name_tc": "廣福道轉車站 - 寶鄉橋 (B3)"
+        "stop_name_tc": "廣福道轉車站 - 寶鄉橋 (TP305)"
     },
     {
         "route": "64K",
@@ -146557,7 +146557,7 @@
         "service_type": "1",
         "seq": "56",
         "stop": "13E458C819D90940",
-        "stop_name_tc": "廣福道轉車站 (Y1) (TP564)"
+        "stop_name_tc": "廣福道轉車站 (TP564)"
     },
     {
         "route": "64K",
@@ -146741,7 +146741,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "DA30F5393480B81D",
-        "stop_name_tc": "廣福道轉車站 - 寶鄉橋 (B3)"
+        "stop_name_tc": "廣福道轉車站 - 寶鄉橋 (TP305)"
     },
     {
         "route": "64P",
@@ -147189,7 +147189,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "13E458C819D90940",
-        "stop_name_tc": "廣福道轉車站 (Y1) (TP564)"
+        "stop_name_tc": "廣福道轉車站 (TP564)"
     },
     {
         "route": "64X",
@@ -147525,7 +147525,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "13E458C819D90940",
-        "stop_name_tc": "廣福道轉車站 (Y1) (TP564)"
+        "stop_name_tc": "廣福道轉車站 (TP564)"
     },
     {
         "route": "65X",
@@ -162293,7 +162293,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "F7DD5A5E7E4D41C9",
-        "stop_name_tc": "廣福道轉車站 (Y4) (TP567)"
+        "stop_name_tc": "廣福道轉車站 (TP567)"
     },
     {
         "route": "71K",
@@ -163013,7 +163013,7 @@
         "service_type": "1",
         "seq": "40",
         "stop": "C55F50E43F6108EB",
-        "stop_name_tc": "廣福道轉車站 (A2) (TP279)"
+        "stop_name_tc": "廣福道轉車站 (TP279)"
     },
     {
         "route": "72",
@@ -163085,7 +163085,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "42A5DBE7D21EADE3",
-        "stop_name_tc": "廣福道轉車站 - 寶鄉街 (X2)"
+        "stop_name_tc": "廣福道轉車站 - 寶鄉街 (TP546)"
     },
     {
         "route": "72",
@@ -163493,7 +163493,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "42A5DBE7D21EADE3",
-        "stop_name_tc": "廣福道轉車站 - 寶鄉街 (X2)"
+        "stop_name_tc": "廣福道轉車站 - 寶鄉街 (TP546)"
     },
     {
         "route": "72A",
@@ -163893,7 +163893,7 @@
         "service_type": "1",
         "seq": "27",
         "stop": "05485C36CA334A81",
-        "stop_name_tc": "廣福道轉車站 (A1) (TP276)"
+        "stop_name_tc": "廣福道轉車站 (TP276)"
     },
     {
         "route": "72A",
@@ -164445,7 +164445,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "4EF065C6D7FCCFE7",
-        "stop_name_tc": "廣福道轉車站 (A2) (TP278)"
+        "stop_name_tc": "廣福道轉車站 (TP278)"
     },
     {
         "route": "72X",
@@ -164453,7 +164453,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "2AEDE966C122B71E",
-        "stop_name_tc": "廣福道轉車站 - 寶鄉橋 (B2)"
+        "stop_name_tc": "廣福道轉車站 - 寶鄉橋 (TP304)"
     },
     {
         "route": "72X",
@@ -164549,7 +164549,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "F7DD5A5E7E4D41C9",
-        "stop_name_tc": "廣福道轉車站 (Y4) (TP567)"
+        "stop_name_tc": "廣福道轉車站 (TP567)"
     },
     {
         "route": "72X",
@@ -164797,7 +164797,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "C55F50E43F6108EB",
-        "stop_name_tc": "廣福道轉車站 (A2) (TP279)"
+        "stop_name_tc": "廣福道轉車站 (TP279)"
     },
     {
         "route": "73",
@@ -164805,7 +164805,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "FDDA176977136CD9",
-        "stop_name_tc": "廣福道轉車站 - 寶鄉橋 (B4)"
+        "stop_name_tc": "廣福道轉車站 - 寶鄉橋 (TP306)"
     },
     {
         "route": "73",
@@ -164989,7 +164989,7 @@
         "service_type": "2",
         "seq": "5",
         "stop": "C55F50E43F6108EB",
-        "stop_name_tc": "廣福道轉車站 (A2) (TP279)"
+        "stop_name_tc": "廣福道轉車站 (TP279)"
     },
     {
         "route": "73",
@@ -164997,7 +164997,7 @@
         "service_type": "2",
         "seq": "6",
         "stop": "FDDA176977136CD9",
-        "stop_name_tc": "廣福道轉車站 - 寶鄉橋 (B4)"
+        "stop_name_tc": "廣福道轉車站 - 寶鄉橋 (TP306)"
     },
     {
         "route": "73",
@@ -165293,7 +165293,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "3CE4F8574F4F9D72",
-        "stop_name_tc": "廣福道轉車站 - 寶鄉街 (X1)"
+        "stop_name_tc": "廣福道轉車站 - 寶鄉街 (TP545)"
     },
     {
         "route": "73",
@@ -165557,7 +165557,7 @@
         "service_type": "2",
         "seq": "19",
         "stop": "3CE4F8574F4F9D72",
-        "stop_name_tc": "廣福道轉車站 - 寶鄉街 (X1)"
+        "stop_name_tc": "廣福道轉車站 - 寶鄉街 (TP545)"
     },
     {
         "route": "73",
@@ -165789,7 +165789,7 @@
         "service_type": "1",
         "seq": "24",
         "stop": "C55F50E43F6108EB",
-        "stop_name_tc": "廣福道轉車站 (A2) (TP279)"
+        "stop_name_tc": "廣福道轉車站 (TP279)"
     },
     {
         "route": "73A",
@@ -165797,7 +165797,7 @@
         "service_type": "1",
         "seq": "25",
         "stop": "FDDA176977136CD9",
-        "stop_name_tc": "廣福道轉車站 - 寶鄉橋 (B4)"
+        "stop_name_tc": "廣福道轉車站 - 寶鄉橋 (TP306)"
     },
     {
         "route": "73A",
@@ -166093,7 +166093,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "42A5DBE7D21EADE3",
-        "stop_name_tc": "廣福道轉車站 - 寶鄉街 (X2)"
+        "stop_name_tc": "廣福道轉車站 - 寶鄉街 (TP546)"
     },
     {
         "route": "73A",
@@ -167221,7 +167221,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "C55F50E43F6108EB",
-        "stop_name_tc": "廣福道轉車站 (A2) (TP279)"
+        "stop_name_tc": "廣福道轉車站 (TP279)"
     },
     {
         "route": "73D",
@@ -167229,7 +167229,7 @@
         "service_type": "1",
         "seq": "23",
         "stop": "530F970BB56D778D",
-        "stop_name_tc": "廣福道轉車站 - 寶鄉橋 (B1)"
+        "stop_name_tc": "廣福道轉車站 - 寶鄉橋 (TP302)"
     },
     {
         "route": "73D",
@@ -168381,7 +168381,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "CB7FA5CF40D4413A",
-        "stop_name_tc": "廣福道轉車站 (Y3) (TP566)"
+        "stop_name_tc": "廣福道轉車站 (TP566)"
     },
     {
         "route": "73X",
@@ -168605,7 +168605,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "C55F50E43F6108EB",
-        "stop_name_tc": "廣福道轉車站 (A2) (TP279)"
+        "stop_name_tc": "廣福道轉車站 (TP279)"
     },
     {
         "route": "73X",
@@ -168613,7 +168613,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "530F970BB56D778D",
-        "stop_name_tc": "廣福道轉車站 - 寶鄉橋 (B1)"
+        "stop_name_tc": "廣福道轉車站 - 寶鄉橋 (TP302)"
     },
     {
         "route": "73X",
@@ -168749,7 +168749,7 @@
         "service_type": "2",
         "seq": "14",
         "stop": "C55F50E43F6108EB",
-        "stop_name_tc": "廣福道轉車站 (A2) (TP279)"
+        "stop_name_tc": "廣福道轉車站 (TP279)"
     },
     {
         "route": "73X",
@@ -168757,7 +168757,7 @@
         "service_type": "2",
         "seq": "15",
         "stop": "530F970BB56D778D",
-        "stop_name_tc": "廣福道轉車站 - 寶鄉橋 (B1)"
+        "stop_name_tc": "廣福道轉車站 - 寶鄉橋 (TP302)"
     },
     {
         "route": "73X",
@@ -169533,7 +169533,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "42A5DBE7D21EADE3",
-        "stop_name_tc": "廣福道轉車站 - 寶鄉街 (X2)"
+        "stop_name_tc": "廣福道轉車站 - 寶鄉街 (TP546)"
     },
     {
         "route": "74A",
@@ -169853,7 +169853,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "5734545592215022",
-        "stop_name_tc": "廣福道轉車站 (Y2) (TP565)"
+        "stop_name_tc": "廣福道轉車站 (TP565)"
     },
     {
         "route": "74B",
@@ -169997,7 +169997,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "4EF065C6D7FCCFE7",
-        "stop_name_tc": "廣福道轉車站 (A2) (TP278)"
+        "stop_name_tc": "廣福道轉車站 (TP278)"
     },
     {
         "route": "74B",
@@ -170005,7 +170005,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "2AEDE966C122B71E",
-        "stop_name_tc": "廣福道轉車站 - 寶鄉橋 (B2)"
+        "stop_name_tc": "廣福道轉車站 - 寶鄉橋 (TP304)"
     },
     {
         "route": "74B",
@@ -170405,7 +170405,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "C55F50E43F6108EB",
-        "stop_name_tc": "廣福道轉車站 (A2) (TP279)"
+        "stop_name_tc": "廣福道轉車站 (TP279)"
     },
     {
         "route": "74D",
@@ -170413,7 +170413,7 @@
         "service_type": "1",
         "seq": "23",
         "stop": "FDDA176977136CD9",
-        "stop_name_tc": "廣福道轉車站 - 寶鄉橋 (B4)"
+        "stop_name_tc": "廣福道轉車站 - 寶鄉橋 (TP306)"
     },
     {
         "route": "74D",
@@ -170597,7 +170597,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "5734545592215022",
-        "stop_name_tc": "廣福道轉車站 (Y2) (TP565)"
+        "stop_name_tc": "廣福道轉車站 (TP565)"
     },
     {
         "route": "74D",
@@ -171613,7 +171613,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "DA30F5393480B81D",
-        "stop_name_tc": "廣福道轉車站 - 寶鄉橋 (B3)"
+        "stop_name_tc": "廣福道轉車站 - 寶鄉橋 (TP305)"
     },
     {
         "route": "74K",
@@ -171837,7 +171837,7 @@
         "service_type": "1",
         "seq": "32",
         "stop": "13E458C819D90940",
-        "stop_name_tc": "廣福道轉車站 (Y1) (TP564)"
+        "stop_name_tc": "廣福道轉車站 (TP564)"
     },
     {
         "route": "74K",
@@ -171901,7 +171901,7 @@
         "service_type": "2",
         "seq": "4",
         "stop": "DA30F5393480B81D",
-        "stop_name_tc": "廣福道轉車站 - 寶鄉橋 (B3)"
+        "stop_name_tc": "廣福道轉車站 - 寶鄉橋 (TP305)"
     },
     {
         "route": "74K",
@@ -172125,7 +172125,7 @@
         "service_type": "2",
         "seq": "32",
         "stop": "13E458C819D90940",
-        "stop_name_tc": "廣福道轉車站 (Y1) (TP564)"
+        "stop_name_tc": "廣福道轉車站 (TP564)"
     },
     {
         "route": "74K",
@@ -173565,7 +173565,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "4EF065C6D7FCCFE7",
-        "stop_name_tc": "廣福道轉車站 (A2) (TP278)"
+        "stop_name_tc": "廣福道轉車站 (TP278)"
     },
     {
         "route": "74X",
@@ -173573,7 +173573,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "2AEDE966C122B71E",
-        "stop_name_tc": "廣福道轉車站 - 寶鄉橋 (B2)"
+        "stop_name_tc": "廣福道轉車站 - 寶鄉橋 (TP304)"
     },
     {
         "route": "74X",
@@ -173613,7 +173613,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "5734545592215022",
-        "stop_name_tc": "廣福道轉車站 (Y2) (TP565)"
+        "stop_name_tc": "廣福道轉車站 (TP565)"
     },
     {
         "route": "74X",
@@ -173949,7 +173949,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "FDDA176977136CD9",
-        "stop_name_tc": "廣福道轉車站 - 寶鄉橋 (B4)"
+        "stop_name_tc": "廣福道轉車站 - 寶鄉橋 (TP306)"
     },
     {
         "route": "75K",
@@ -174357,7 +174357,7 @@
         "service_type": "1",
         "seq": "26",
         "stop": "13E458C819D90940",
-        "stop_name_tc": "廣福道轉車站 (Y1) (TP564)"
+        "stop_name_tc": "廣福道轉車站 (TP564)"
     },
     {
         "route": "75K",
@@ -174797,7 +174797,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "C55F50E43F6108EB",
-        "stop_name_tc": "廣福道轉車站 (A2) (TP279)"
+        "stop_name_tc": "廣福道轉車站 (TP279)"
     },
     {
         "route": "75X",
@@ -174805,7 +174805,7 @@
         "service_type": "1",
         "seq": "23",
         "stop": "530F970BB56D778D",
-        "stop_name_tc": "廣福道轉車站 - 寶鄉橋 (B1)"
+        "stop_name_tc": "廣福道轉車站 - 寶鄉橋 (TP302)"
     },
     {
         "route": "75X",
@@ -175005,7 +175005,7 @@
         "service_type": "2",
         "seq": "22",
         "stop": "C55F50E43F6108EB",
-        "stop_name_tc": "廣福道轉車站 (A2) (TP279)"
+        "stop_name_tc": "廣福道轉車站 (TP279)"
     },
     {
         "route": "75X",
@@ -175013,7 +175013,7 @@
         "service_type": "2",
         "seq": "23",
         "stop": "530F970BB56D778D",
-        "stop_name_tc": "廣福道轉車站 - 寶鄉橋 (B1)"
+        "stop_name_tc": "廣福道轉車站 - 寶鄉橋 (TP302)"
     },
     {
         "route": "75X",
@@ -175061,7 +175061,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "A47A663F7AF92B77",
-        "stop_name_tc": "廣福道轉車站 - 寶湖花園 (Z1)"
+        "stop_name_tc": "廣福道轉車站-寶湖花園 (TP550)"
     },
     {
         "route": "75X",
@@ -192453,7 +192453,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "05485C36CA334A81",
-        "stop_name_tc": "廣福道轉車站 (A1) (TP276)"
+        "stop_name_tc": "廣福道轉車站 (TP276)"
     },
     {
         "route": "872",
@@ -192461,7 +192461,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "530F970BB56D778D",
-        "stop_name_tc": "廣福道轉車站 - 寶鄉橋 (B1)"
+        "stop_name_tc": "廣福道轉車站 - 寶鄉橋 (TP302)"
     },
     {
         "route": "872",
@@ -192501,7 +192501,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "05485C36CA334A81",
-        "stop_name_tc": "廣福道轉車站 (A1) (TP276)"
+        "stop_name_tc": "廣福道轉車站 (TP276)"
     },
     {
         "route": "872X",
@@ -192509,7 +192509,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "530F970BB56D778D",
-        "stop_name_tc": "廣福道轉車站 - 寶鄉橋 (B1)"
+        "stop_name_tc": "廣福道轉車站 - 寶鄉橋 (TP302)"
     },
     {
         "route": "872X",
@@ -203181,7 +203181,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "4EF065C6D7FCCFE7",
-        "stop_name_tc": "廣福道轉車站 (A2) (TP278)"
+        "stop_name_tc": "廣福道轉車站 (TP278)"
     },
     {
         "route": "907C",
@@ -203189,7 +203189,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "530F970BB56D778D",
-        "stop_name_tc": "廣福道轉車站 - 寶鄉橋 (B1)"
+        "stop_name_tc": "廣福道轉車站 - 寶鄉橋 (TP302)"
     },
     {
         "route": "907C",
@@ -257861,7 +257861,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "5734545592215022",
-        "stop_name_tc": "廣福道轉車站 (Y2) (TP565)"
+        "stop_name_tc": "廣福道轉車站 (TP565)"
     },
     {
         "route": "N271",
@@ -262069,7 +262069,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "05485C36CA334A81",
-        "stop_name_tc": "廣福道轉車站 (A1) (TP276)"
+        "stop_name_tc": "廣福道轉車站 (TP276)"
     },
     {
         "route": "N307",
@@ -262077,7 +262077,7 @@
         "service_type": "1",
         "seq": "23",
         "stop": "530F970BB56D778D",
-        "stop_name_tc": "廣福道轉車站 - 寶鄉橋 (B1)"
+        "stop_name_tc": "廣福道轉車站 - 寶鄉橋 (TP302)"
     },
     {
         "route": "N307",
@@ -262165,7 +262165,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "3CE4F8574F4F9D72",
-        "stop_name_tc": "廣福道轉車站 - 寶鄉街 (X1)"
+        "stop_name_tc": "廣福道轉車站 - 寶鄉街 (TP545)"
     },
     {
         "route": "N307",
@@ -269101,7 +269101,7 @@
         "service_type": "1",
         "seq": "30",
         "stop": "5734545592215022",
-        "stop_name_tc": "廣福道轉車站 (Y2) (TP565)"
+        "stop_name_tc": "廣福道轉車站 (TP565)"
     },
     {
         "route": "N73",
@@ -269181,7 +269181,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "05485C36CA334A81",
-        "stop_name_tc": "廣福道轉車站 (A1) (TP276)"
+        "stop_name_tc": "廣福道轉車站 (TP276)"
     },
     {
         "route": "N73",
@@ -269189,7 +269189,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "FDDA176977136CD9",
-        "stop_name_tc": "廣福道轉車站 - 寶鄉橋 (B4)"
+        "stop_name_tc": "廣福道轉車站 - 寶鄉橋 (TP306)"
     },
     {
         "route": "N73",
@@ -281109,7 +281109,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "DA30F5393480B81D",
-        "stop_name_tc": "廣福道轉車站 - 寶鄉橋 (B3)"
+        "stop_name_tc": "廣福道轉車站 - 寶鄉橋 (TP305)"
     },
     {
         "route": "T74",
@@ -281389,7 +281389,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "5734545592215022",
-        "stop_name_tc": "廣福道轉車站 (Y2) (TP565)"
+        "stop_name_tc": "廣福道轉車站 (TP565)"
     },
     {
         "route": "T74",
