@@ -16731,28 +16731,6 @@
         "dest_sc": "马湾 (由东涌站出发 循环行走)"
     },
     {
-        "route": "PBW1",
-        "bound": "I",
-        "service_type": "1",
-        "orig_en": "Avenue of Stars",
-        "orig_tc": "星光大道",
-        "orig_sc": "星光大道",
-        "dest_en": "Tsuen Wan West Station",
-        "dest_tc": "荃灣西站",
-        "dest_sc": "荃湾西站"
-    },
-    {
-        "route": "PBW1",
-        "bound": "O",
-        "service_type": "1",
-        "orig_en": "Tsuen Wan West Station",
-        "orig_tc": "荃灣西站",
-        "orig_sc": "荃湾西站",
-        "dest_en": "Avenue of Stars",
-        "dest_tc": "星光大道",
-        "dest_sc": "星光大道"
-    },
-    {
         "route": "R230",
         "bound": "O",
         "service_type": "1",
