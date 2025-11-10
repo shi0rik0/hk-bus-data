@@ -46470,7 +46470,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "21",
-        "stop": "31005C82D70F6B09"
+        "stop": "093289C2E4F6F408"
     },
     {
         "route": "261X",
@@ -65524,7 +65524,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "10",
-        "stop": "31005C82D70F6B09"
+        "stop": "093289C2E4F6F408"
     },
     {
         "route": "276A",
@@ -65601,7 +65601,7 @@
         "bound": "O",
         "service_type": "2",
         "seq": "8",
-        "stop": "31005C82D70F6B09"
+        "stop": "093289C2E4F6F408"
     },
     {
         "route": "276A",

@@ -53108,7 +53108,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "21",
-        "stop": "31005C82D70F6B09",
+        "stop": "093289C2E4F6F408",
         "stop_name_tc": "彩蒲苑彩碧閣 (ND105)"
     },
     {
@@ -66701,7 +66701,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "093289C2E4F6F408",
-        "stop_name_tc": null
+        "stop_name_tc": "彩蒲苑彩碧閣 (ND105)"
     },
     {
         "route": "270R",
@@ -74884,7 +74884,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "10",
-        "stop": "31005C82D70F6B09",
+        "stop": "093289C2E4F6F408",
         "stop_name_tc": "彩蒲苑彩碧閣 (ND105)"
     },
     {
@@ -74972,7 +74972,7 @@
         "bound": "O",
         "service_type": "2",
         "seq": "8",
-        "stop": "31005C82D70F6B09",
+        "stop": "093289C2E4F6F408",
         "stop_name_tc": "彩蒲苑彩碧閣 (ND105)"
     },
     {
@@ -75197,7 +75197,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "093289C2E4F6F408",
-        "stop_name_tc": null
+        "stop_name_tc": "彩蒲苑彩碧閣 (ND105)"
     },
     {
         "route": "276B",
@@ -75469,7 +75469,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "093289C2E4F6F408",
-        "stop_name_tc": null
+        "stop_name_tc": "彩蒲苑彩碧閣 (ND105)"
     },
     {
         "route": "276C",
@@ -175365,7 +175365,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "093289C2E4F6F408",
-        "stop_name_tc": null
+        "stop_name_tc": "彩蒲苑彩碧閣 (ND105)"
     },
     {
         "route": "76",
@@ -175717,7 +175717,7 @@
         "service_type": "1",
         "seq": "35",
         "stop": "093289C2E4F6F408",
-        "stop_name_tc": null
+        "stop_name_tc": "彩蒲苑彩碧閣 (ND105)"
     },
     {
         "route": "76K",
@@ -280525,7 +280525,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "093289C2E4F6F408",
-        "stop_name_tc": null
+        "stop_name_tc": "彩蒲苑彩碧閣 (ND105)"
     },
     {
         "route": "T270",
