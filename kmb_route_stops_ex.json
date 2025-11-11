@@ -40285,7 +40285,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "B943DBEE65B0B18F",
-        "stop_name_tc": "大窩口轉車站-大窩口站 (B2)"
+        "stop_name_tc": "大窩口轉車站-大窩口站 (KW131)"
     },
     {
         "route": "235",
@@ -40357,7 +40357,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "AAB411C52D067AD1",
-        "stop_name_tc": "大窩口轉車站 -大窩口站 (A2)"
+        "stop_name_tc": "大窩口轉車站 -大窩口站 (KW393)"
     },
     {
         "route": "235",
@@ -42917,7 +42917,7 @@
         "service_type": "1",
         "seq": "25",
         "stop": "F9F4E00007242BED",
-        "stop_name_tc": "青衣轉車站 - 長安總站 (A7)"
+        "stop_name_tc": "青衣轉車站 - 長安總站 (TY902)"
     },
     {
         "route": "241X",
@@ -43101,7 +43101,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "5FCC47E16C9051C0",
-        "stop_name_tc": "青衣轉車站 - 長安總站 (A1)"
+        "stop_name_tc": "青衣轉車站 - 長安總站 (TY913)"
     },
     {
         "route": "241X",
@@ -43597,7 +43597,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "F9F4E00007242BED",
-        "stop_name_tc": "青衣轉車站 - 長安總站 (A7)"
+        "stop_name_tc": "青衣轉車站 - 長安總站 (TY902)"
     },
     {
         "route": "243M",
@@ -43805,7 +43805,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "AD09CB78CEDADB0B",
-        "stop_name_tc": "青衣轉車站 - 長安總站 (A6)"
+        "stop_name_tc": "青衣轉車站 - 長安總站 (TY904)"
     },
     {
         "route": "243M",
@@ -43981,7 +43981,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "AFC36FC71B4E124E",
-        "stop_name_tc": "青衣轉車站 -長安邨安湄樓 (B1)"
+        "stop_name_tc": "青衣轉車站 -長安邨安湄樓"
     },
     {
         "route": "248M",
@@ -44021,7 +44021,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "6E22023A7DF1B381",
-        "stop_name_tc": "青衣轉車站 –灝景灣 (D1)"
+        "stop_name_tc": "青衣轉車站 –灝景灣 (TY201)"
     },
     {
         "route": "248M",
@@ -44221,7 +44221,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "AFC36FC71B4E124E",
-        "stop_name_tc": "青衣轉車站 -長安邨安湄樓 (B1)"
+        "stop_name_tc": "青衣轉車站 -長安邨安湄樓"
     },
     {
         "route": "249X",
@@ -44365,7 +44365,7 @@
         "service_type": "2",
         "seq": "2",
         "stop": "AFC36FC71B4E124E",
-        "stop_name_tc": "青衣轉車站 -長安邨安湄樓 (B1)"
+        "stop_name_tc": "青衣轉車站 -長安邨安湄樓"
     },
     {
         "route": "249X",
@@ -44589,7 +44589,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "6E22023A7DF1B381",
-        "stop_name_tc": "青衣轉車站 –灝景灣 (D1)"
+        "stop_name_tc": "青衣轉車站 –灝景灣 (TY201)"
     },
     {
         "route": "249X",
@@ -50621,7 +50621,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "354A2C15BD189228",
-        "stop_name_tc": "大窩口轉車站-大窩口站 (B1)"
+        "stop_name_tc": "大窩口轉車站-大窩口站 (KW132)"
     },
     {
         "route": "260C",
@@ -50797,7 +50797,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "AAB411C52D067AD1",
-        "stop_name_tc": "大窩口轉車站 -大窩口站 (A2)"
+        "stop_name_tc": "大窩口轉車站 -大窩口站 (KW393)"
     },
     {
         "route": "260C",
@@ -55165,7 +55165,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "354A2C15BD189228",
-        "stop_name_tc": "大窩口轉車站-大窩口站 (B1)"
+        "stop_name_tc": "大窩口轉車站-大窩口站 (KW132)"
     },
     {
         "route": "265M",
@@ -55349,7 +55349,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "AAB411C52D067AD1",
-        "stop_name_tc": "大窩口轉車站 -大窩口站 (A2)"
+        "stop_name_tc": "大窩口轉車站 -大窩口站 (KW393)"
     },
     {
         "route": "265M",
@@ -61845,7 +61845,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "354A2C15BD189228",
-        "stop_name_tc": "大窩口轉車站-大窩口站 (B1)"
+        "stop_name_tc": "大窩口轉車站-大窩口站 (KW132)"
     },
     {
         "route": "269M",
@@ -62085,7 +62085,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "AAB411C52D067AD1",
-        "stop_name_tc": "大窩口轉車站 -大窩口站 (A2)"
+        "stop_name_tc": "大窩口轉車站 -大窩口站 (KW393)"
     },
     {
         "route": "269M",
@@ -62261,7 +62261,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "AAB411C52D067AD1",
-        "stop_name_tc": "大窩口轉車站 -大窩口站 (A2)"
+        "stop_name_tc": "大窩口轉車站 -大窩口站 (KW393)"
     },
     {
         "route": "269P",
@@ -62325,7 +62325,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "354A2C15BD189228",
-        "stop_name_tc": "大窩口轉車站-大窩口站 (B1)"
+        "stop_name_tc": "大窩口轉車站-大窩口站 (KW132)"
     },
     {
         "route": "269P",
@@ -72365,7 +72365,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "B943DBEE65B0B18F",
-        "stop_name_tc": "大窩口轉車站-大窩口站 (B2)"
+        "stop_name_tc": "大窩口轉車站-大窩口站 (KW131)"
     },
     {
         "route": "273C",
@@ -72789,7 +72789,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "B943DBEE65B0B18F",
-        "stop_name_tc": "大窩口轉車站-大窩口站 (B2)"
+        "stop_name_tc": "大窩口轉車站-大窩口站 (KW131)"
     },
     {
         "route": "273P",
@@ -78005,7 +78005,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "AAB411C52D067AD1",
-        "stop_name_tc": "大窩口轉車站 -大窩口站 (A2)"
+        "stop_name_tc": "大窩口轉車站 -大窩口站 (KW393)"
     },
     {
         "route": "278A",
@@ -78309,7 +78309,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "B943DBEE65B0B18F",
-        "stop_name_tc": "大窩口轉車站-大窩口站 (B2)"
+        "stop_name_tc": "大窩口轉車站-大窩口站 (KW131)"
     },
     {
         "route": "278A",
@@ -78725,7 +78725,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "B943DBEE65B0B18F",
-        "stop_name_tc": "大窩口轉車站-大窩口站 (B2)"
+        "stop_name_tc": "大窩口轉車站-大窩口站 (KW131)"
     },
     {
         "route": "278P",
@@ -78773,7 +78773,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "AAB411C52D067AD1",
-        "stop_name_tc": "大窩口轉車站 -大窩口站 (A2)"
+        "stop_name_tc": "大窩口轉車站 -大窩口站 (KW393)"
     },
     {
         "route": "278X",
@@ -79085,7 +79085,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "B943DBEE65B0B18F",
-        "stop_name_tc": "大窩口轉車站-大窩口站 (B2)"
+        "stop_name_tc": "大窩口轉車站-大窩口站 (KW131)"
     },
     {
         "route": "278X",
@@ -79197,7 +79197,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "6E22023A7DF1B381",
-        "stop_name_tc": "青衣轉車站 –灝景灣 (D1)"
+        "stop_name_tc": "青衣轉車站 –灝景灣 (TY201)"
     },
     {
         "route": "279A",
@@ -79341,7 +79341,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "6E22023A7DF1B381",
-        "stop_name_tc": "青衣轉車站 –灝景灣 (D1)"
+        "stop_name_tc": "青衣轉車站 –灝景灣 (TY201)"
     },
     {
         "route": "279S",
@@ -79525,7 +79525,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "40339B0E8404A2B9",
-        "stop_name_tc": "青衣轉車站 - 長安總站 (A1)"
+        "stop_name_tc": "青衣轉車站 - 長安總站 (TY914)"
     },
     {
         "route": "279S",
@@ -79589,7 +79589,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "AFC36FC71B4E124E",
-        "stop_name_tc": "青衣轉車站 -長安邨安湄樓 (B1)"
+        "stop_name_tc": "青衣轉車站 -長安邨安湄樓"
     },
     {
         "route": "279X",
@@ -79893,7 +79893,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "32EDA7D330FF6CA1",
-        "stop_name_tc": "青衣轉車站 –青宏苑 (C1)"
+        "stop_name_tc": "青衣轉車站 –青宏苑 (TY200)"
     },
     {
         "route": "279X",
@@ -79901,7 +79901,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "6E22023A7DF1B381",
-        "stop_name_tc": "青衣轉車站 –灝景灣 (D1)"
+        "stop_name_tc": "青衣轉車站 –灝景灣 (TY201)"
     },
     {
         "route": "279X",
@@ -86637,7 +86637,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "C9E264A3F9D4CEB3",
-        "stop_name_tc": "大窩口轉車站 -大窩口站 (A1)"
+        "stop_name_tc": "大窩口轉車站 -大窩口站 (KW394)"
     },
     {
         "route": "290",
@@ -87021,7 +87021,7 @@
         "service_type": "1",
         "seq": "23",
         "stop": "B943DBEE65B0B18F",
-        "stop_name_tc": "大窩口轉車站-大窩口站 (B2)"
+        "stop_name_tc": "大窩口轉車站-大窩口站 (KW131)"
     },
     {
         "route": "290",
@@ -87077,7 +87077,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "C9E264A3F9D4CEB3",
-        "stop_name_tc": "大窩口轉車站 -大窩口站 (A1)"
+        "stop_name_tc": "大窩口轉車站 -大窩口站 (KW394)"
     },
     {
         "route": "290A",
@@ -87661,7 +87661,7 @@
         "service_type": "1",
         "seq": "36",
         "stop": "B943DBEE65B0B18F",
-        "stop_name_tc": "大窩口轉車站-大窩口站 (B2)"
+        "stop_name_tc": "大窩口轉車站-大窩口站 (KW131)"
     },
     {
         "route": "290A",
@@ -87861,7 +87861,7 @@
         "service_type": "2",
         "seq": "22",
         "stop": "B943DBEE65B0B18F",
-        "stop_name_tc": "大窩口轉車站-大窩口站 (B2)"
+        "stop_name_tc": "大窩口轉車站-大窩口站 (KW131)"
     },
     {
         "route": "290A",
@@ -87917,7 +87917,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "C9E264A3F9D4CEB3",
-        "stop_name_tc": "大窩口轉車站 -大窩口站 (A1)"
+        "stop_name_tc": "大窩口轉車站 -大窩口站 (KW394)"
     },
     {
         "route": "290E",
@@ -88309,7 +88309,7 @@
         "service_type": "1",
         "seq": "26",
         "stop": "B943DBEE65B0B18F",
-        "stop_name_tc": "大窩口轉車站-大窩口站 (B2)"
+        "stop_name_tc": "大窩口轉車站-大窩口站 (KW131)"
     },
     {
         "route": "290E",
@@ -88365,7 +88365,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "C9E264A3F9D4CEB3",
-        "stop_name_tc": "大窩口轉車站 -大窩口站 (A1)"
+        "stop_name_tc": "大窩口轉車站 -大窩口站 (KW394)"
     },
     {
         "route": "290X",
@@ -88669,7 +88669,7 @@
         "service_type": "2",
         "seq": "4",
         "stop": "C9E264A3F9D4CEB3",
-        "stop_name_tc": "大窩口轉車站 -大窩口站 (A1)"
+        "stop_name_tc": "大窩口轉車站 -大窩口站 (KW394)"
     },
     {
         "route": "290X",
@@ -89189,7 +89189,7 @@
         "service_type": "1",
         "seq": "30",
         "stop": "B943DBEE65B0B18F",
-        "stop_name_tc": "大窩口轉車站-大窩口站 (B2)"
+        "stop_name_tc": "大窩口轉車站-大窩口站 (KW131)"
     },
     {
         "route": "290X",
@@ -89381,7 +89381,7 @@
         "service_type": "2",
         "seq": "21",
         "stop": "B943DBEE65B0B18F",
-        "stop_name_tc": "大窩口轉車站-大窩口站 (B2)"
+        "stop_name_tc": "大窩口轉車站-大窩口站 (KW131)"
     },
     {
         "route": "290X",
@@ -96877,7 +96877,7 @@
         "service_type": "1",
         "seq": "26",
         "stop": "B943DBEE65B0B18F",
-        "stop_name_tc": "大窩口轉車站-大窩口站 (B2)"
+        "stop_name_tc": "大窩口轉車站-大窩口站 (KW131)"
     },
     {
         "route": "30",
@@ -97053,7 +97053,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "AAB411C52D067AD1",
-        "stop_name_tc": "大窩口轉車站 -大窩口站 (A2)"
+        "stop_name_tc": "大窩口轉車站 -大窩口站 (KW393)"
     },
     {
         "route": "30",
@@ -99469,7 +99469,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "AAB411C52D067AD1",
-        "stop_name_tc": "大窩口轉車站 -大窩口站 (A2)"
+        "stop_name_tc": "大窩口轉車站 -大窩口站 (KW393)"
     },
     {
         "route": "31",
@@ -99597,7 +99597,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "B943DBEE65B0B18F",
-        "stop_name_tc": "大窩口轉車站-大窩口站 (B2)"
+        "stop_name_tc": "大窩口轉車站-大窩口站 (KW131)"
     },
     {
         "route": "31",
@@ -101365,7 +101365,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "B943DBEE65B0B18F",
-        "stop_name_tc": "大窩口轉車站-大窩口站 (B2)"
+        "stop_name_tc": "大窩口轉車站-大窩口站 (KW131)"
     },
     {
         "route": "32M",
@@ -101453,7 +101453,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "AAB411C52D067AD1",
-        "stop_name_tc": "大窩口轉車站 -大窩口站 (A2)"
+        "stop_name_tc": "大窩口轉車站 -大窩口站 (KW393)"
     },
     {
         "route": "32M",
@@ -108309,7 +108309,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "354A2C15BD189228",
-        "stop_name_tc": "大窩口轉車站-大窩口站 (B1)"
+        "stop_name_tc": "大窩口轉車站-大窩口站 (KW132)"
     },
     {
         "route": "38A",
@@ -108397,7 +108397,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "C9E264A3F9D4CEB3",
-        "stop_name_tc": "大窩口轉車站 -大窩口站 (A1)"
+        "stop_name_tc": "大窩口轉車站 -大窩口站 (KW394)"
     },
     {
         "route": "38A",
@@ -108565,7 +108565,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "354A2C15BD189228",
-        "stop_name_tc": "大窩口轉車站-大窩口站 (B1)"
+        "stop_name_tc": "大窩口轉車站-大窩口站 (KW132)"
     },
     {
         "route": "38B",
@@ -108653,7 +108653,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "C9E264A3F9D4CEB3",
-        "stop_name_tc": "大窩口轉車站 -大窩口站 (A1)"
+        "stop_name_tc": "大窩口轉車站 -大窩口站 (KW394)"
     },
     {
         "route": "38B",
@@ -112373,7 +112373,7 @@
         "service_type": "1",
         "seq": "29",
         "stop": "B943DBEE65B0B18F",
-        "stop_name_tc": "大窩口轉車站-大窩口站 (B2)"
+        "stop_name_tc": "大窩口轉車站-大窩口站 (KW131)"
     },
     {
         "route": "40",
@@ -112493,7 +112493,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "C9E264A3F9D4CEB3",
-        "stop_name_tc": "大窩口轉車站 -大窩口站 (A1)"
+        "stop_name_tc": "大窩口轉車站 -大窩口站 (KW394)"
     },
     {
         "route": "40",
@@ -112765,7 +112765,7 @@
         "service_type": "2",
         "seq": "9",
         "stop": "C9E264A3F9D4CEB3",
-        "stop_name_tc": "大窩口轉車站 -大窩口站 (A1)"
+        "stop_name_tc": "大窩口轉車站 -大窩口站 (KW394)"
     },
     {
         "route": "40",
@@ -115277,7 +115277,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "6ACF3394256E280F",
-        "stop_name_tc": "青衣轉車站 - 長安總站 (A3)"
+        "stop_name_tc": "青衣轉車站 - 長安總站 (TY910)"
     },
     {
         "route": "41A",
@@ -115285,7 +115285,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "6ACF3394256E280F",
-        "stop_name_tc": "青衣轉車站 - 長安總站 (A3)"
+        "stop_name_tc": "青衣轉車站 - 長安總站 (TY910)"
     },
     {
         "route": "41A",
@@ -115477,7 +115477,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "5D919BA157405E33",
-        "stop_name_tc": "青衣轉車站 - 長安總站 (A2)"
+        "stop_name_tc": "青衣轉車站 - 長安總站 (TY911)"
     },
     {
         "route": "41M",
@@ -115549,7 +115549,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "AD09CB78CEDADB0B",
-        "stop_name_tc": "青衣轉車站 - 長安總站 (A6)"
+        "stop_name_tc": "青衣轉車站 - 長安總站 (TY904)"
     },
     {
         "route": "41M",
@@ -115605,7 +115605,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "B943DBEE65B0B18F",
-        "stop_name_tc": "大窩口轉車站-大窩口站 (B2)"
+        "stop_name_tc": "大窩口轉車站-大窩口站 (KW131)"
     },
     {
         "route": "41R",
@@ -115645,7 +115645,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "36880B47F043D519",
-        "stop_name_tc": "青衣轉車站 - 長安總站 (A7)"
+        "stop_name_tc": "青衣轉車站 - 長安總站 (TY901)"
     },
     {
         "route": "41R",
@@ -116973,7 +116973,7 @@
         "service_type": "1",
         "seq": "23",
         "stop": "354A2C15BD189228",
-        "stop_name_tc": "大窩口轉車站-大窩口站 (B1)"
+        "stop_name_tc": "大窩口轉車站-大窩口站 (KW132)"
     },
     {
         "route": "42C",
@@ -116989,7 +116989,7 @@
         "service_type": "1",
         "seq": "25",
         "stop": "36880B47F043D519",
-        "stop_name_tc": "青衣轉車站 - 長安總站 (A7)"
+        "stop_name_tc": "青衣轉車站 - 長安總站 (TY901)"
     },
     {
         "route": "42C",
@@ -117149,7 +117149,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "28725EBEC5C8EC40",
-        "stop_name_tc": "青衣轉車站 - 長安總站 (A8)"
+        "stop_name_tc": "青衣轉車站 - 長安總站 (TY906)"
     },
     {
         "route": "42C",
@@ -117165,7 +117165,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "C9E264A3F9D4CEB3",
-        "stop_name_tc": "大窩口轉車站 -大窩口站 (A1)"
+        "stop_name_tc": "大窩口轉車站 -大窩口站 (KW394)"
     },
     {
         "route": "42C",
@@ -117389,7 +117389,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "5D919BA157405E33",
-        "stop_name_tc": "青衣轉車站 - 長安總站 (A2)"
+        "stop_name_tc": "青衣轉車站 - 長安總站 (TY911)"
     },
     {
         "route": "42M",
@@ -117437,7 +117437,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "AD09CB78CEDADB0B",
-        "stop_name_tc": "青衣轉車站 - 長安總站 (A6)"
+        "stop_name_tc": "青衣轉車站 - 長安總站 (TY904)"
     },
     {
         "route": "42M",
@@ -118117,7 +118117,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "C9E264A3F9D4CEB3",
-        "stop_name_tc": "大窩口轉車站 -大窩口站 (A1)"
+        "stop_name_tc": "大窩口轉車站 -大窩口站 (KW394)"
     },
     {
         "route": "43B",
@@ -118125,7 +118125,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "F9F4E00007242BED",
-        "stop_name_tc": "青衣轉車站 - 長安總站 (A7)"
+        "stop_name_tc": "青衣轉車站 - 長安總站 (TY902)"
     },
     {
         "route": "43B",
@@ -118309,7 +118309,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "36858102881A0839",
-        "stop_name_tc": "青衣轉車站 - 長安總站 (A6)"
+        "stop_name_tc": "青衣轉車站 - 長安總站 (TY905)"
     },
     {
         "route": "43B",
@@ -120125,7 +120125,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "5D919BA157405E33",
-        "stop_name_tc": "青衣轉車站 - 長安總站 (A2)"
+        "stop_name_tc": "青衣轉車站 - 長安總站 (TY911)"
     },
     {
         "route": "44",
@@ -120229,7 +120229,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "CC13DC33AE269FB1",
-        "stop_name_tc": "青衣轉車站 - 長安總站 (A1)"
+        "stop_name_tc": "青衣轉車站 - 長安總站 (TY912)"
     },
     {
         "route": "44",
@@ -120445,7 +120445,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "36880B47F043D519",
-        "stop_name_tc": "青衣轉車站 - 長安總站 (A7)"
+        "stop_name_tc": "青衣轉車站 - 長安總站 (TY901)"
     },
     {
         "route": "44M",
@@ -120453,7 +120453,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "6E22023A7DF1B381",
-        "stop_name_tc": "青衣轉車站 –灝景灣 (D1)"
+        "stop_name_tc": "青衣轉車站 –灝景灣 (TY201)"
     },
     {
         "route": "44M",
@@ -120477,7 +120477,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "79A623A558FB5CC6",
-        "stop_name_tc": "青衣轉車站 - 長安總站  (A4)"
+        "stop_name_tc": "青衣轉車站 - 長安總站 (TY909)"
     },
     {
         "route": "44M",
@@ -120605,7 +120605,7 @@
         "service_type": "2",
         "seq": "1",
         "stop": "00EC5193F83C6F76",
-        "stop_name_tc": "青衣轉車站 - 長安總站 (A5)"
+        "stop_name_tc": "青衣轉車站 - 長安總站 (TY908)"
     },
     {
         "route": "44M",
@@ -124605,7 +124605,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "C9E264A3F9D4CEB3",
-        "stop_name_tc": "大窩口轉車站 -大窩口站 (A1)"
+        "stop_name_tc": "大窩口轉車站 -大窩口站 (KW394)"
     },
     {
         "route": "48X",
@@ -124797,7 +124797,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "B943DBEE65B0B18F",
-        "stop_name_tc": "大窩口轉車站-大窩口站 (B2)"
+        "stop_name_tc": "大窩口轉車站-大窩口站 (KW131)"
     },
     {
         "route": "48X",
@@ -125013,7 +125013,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "F9F4E00007242BED",
-        "stop_name_tc": "青衣轉車站 - 長安總站 (A7)"
+        "stop_name_tc": "青衣轉車站 - 長安總站 (TY902)"
     },
     {
         "route": "49",
@@ -125277,7 +125277,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "28725EBEC5C8EC40",
-        "stop_name_tc": "青衣轉車站 - 長安總站 (A8)"
+        "stop_name_tc": "青衣轉車站 - 長安總站 (TY906)"
     },
     {
         "route": "49",
@@ -125837,7 +125837,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "36880B47F043D519",
-        "stop_name_tc": "青衣轉車站 - 長安總站 (A7)"
+        "stop_name_tc": "青衣轉車站 - 長安總站 (TY901)"
     },
     {
         "route": "49P",
@@ -125909,7 +125909,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "40339B0E8404A2B9",
-        "stop_name_tc": "青衣轉車站 - 長安總站 (A1)"
+        "stop_name_tc": "青衣轉車站 - 長安總站 (TY914)"
     },
     {
         "route": "49X",
@@ -126197,7 +126197,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "36880B47F043D519",
-        "stop_name_tc": "青衣轉車站 - 長安總站 (A7)"
+        "stop_name_tc": "青衣轉車站 - 長安總站 (TY901)"
     },
     {
         "route": "49X",
@@ -126341,7 +126341,7 @@
         "service_type": "2",
         "seq": "14",
         "stop": "36880B47F043D519",
-        "stop_name_tc": "青衣轉車站 - 長安總站 (A7)"
+        "stop_name_tc": "青衣轉車站 - 長安總站 (TY901)"
     },
     {
         "route": "49X",
@@ -126509,7 +126509,7 @@
         "service_type": "3",
         "seq": "17",
         "stop": "36880B47F043D519",
-        "stop_name_tc": "青衣轉車站 - 長安總站 (A7)"
+        "stop_name_tc": "青衣轉車站 - 長安總站 (TY901)"
     },
     {
         "route": "49X",
@@ -129885,7 +129885,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "354A2C15BD189228",
-        "stop_name_tc": "大窩口轉車站-大窩口站 (B1)"
+        "stop_name_tc": "大窩口轉車站-大窩口站 (KW132)"
     },
     {
         "route": "57M",
@@ -130085,7 +130085,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "AAB411C52D067AD1",
-        "stop_name_tc": "大窩口轉車站 -大窩口站 (A2)"
+        "stop_name_tc": "大窩口轉車站 -大窩口站 (KW393)"
     },
     {
         "route": "57M",
@@ -130165,7 +130165,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "354A2C15BD189228",
-        "stop_name_tc": "大窩口轉車站-大窩口站 (B1)"
+        "stop_name_tc": "大窩口轉車站-大窩口站 (KW132)"
     },
     {
         "route": "58M",
@@ -130389,7 +130389,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "AAB411C52D067AD1",
-        "stop_name_tc": "大窩口轉車站 -大窩口站 (A2)"
+        "stop_name_tc": "大窩口轉車站 -大窩口站 (KW393)"
     },
     {
         "route": "58M",
@@ -130533,7 +130533,7 @@
         "service_type": "2",
         "seq": "13",
         "stop": "AAB411C52D067AD1",
-        "stop_name_tc": "大窩口轉車站 -大窩口站 (A2)"
+        "stop_name_tc": "大窩口轉車站 -大窩口站 (KW393)"
     },
     {
         "route": "58M",
@@ -130677,7 +130677,7 @@
         "service_type": "3",
         "seq": "13",
         "stop": "AAB411C52D067AD1",
-        "stop_name_tc": "大窩口轉車站 -大窩口站 (A2)"
+        "stop_name_tc": "大窩口轉車站 -大窩口站 (KW393)"
     },
     {
         "route": "58M",
@@ -130757,7 +130757,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "354A2C15BD189228",
-        "stop_name_tc": "大窩口轉車站-大窩口站 (B1)"
+        "stop_name_tc": "大窩口轉車站-大窩口站 (KW132)"
     },
     {
         "route": "58P",
@@ -131309,7 +131309,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "354A2C15BD189228",
-        "stop_name_tc": "大窩口轉車站-大窩口站 (B1)"
+        "stop_name_tc": "大窩口轉車站-大窩口站 (KW132)"
     },
     {
         "route": "59A",
@@ -131477,7 +131477,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "AAB411C52D067AD1",
-        "stop_name_tc": "大窩口轉車站 -大窩口站 (A2)"
+        "stop_name_tc": "大窩口轉車站 -大窩口站 (KW393)"
     },
     {
         "route": "59A",
@@ -142869,7 +142869,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "354A2C15BD189228",
-        "stop_name_tc": "大窩口轉車站-大窩口站 (B1)"
+        "stop_name_tc": "大窩口轉車站-大窩口站 (KW132)"
     },
     {
         "route": "61M",
@@ -143301,7 +143301,7 @@
         "service_type": "1",
         "seq": "28",
         "stop": "AAB411C52D067AD1",
-        "stop_name_tc": "大窩口轉車站 -大窩口站 (A2)"
+        "stop_name_tc": "大窩口轉車站 -大窩口站 (KW393)"
     },
     {
         "route": "61M",
@@ -148292,8 +148292,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "10",
-        "stop": "659365A8AB2B98E9",
-        "stop_name_tc": "利東邨東興樓"
+        "stop": "6D9D9FDA28C09FC0",
+        "stop_name_tc": null
     },
     {
         "route": "671",
@@ -148884,8 +148884,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "10",
-        "stop": "659365A8AB2B98E9",
-        "stop_name_tc": "利東邨東興樓"
+        "stop": "6D9D9FDA28C09FC0",
+        "stop_name_tc": null
     },
     {
         "route": "671X",
@@ -150669,7 +150669,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "354A2C15BD189228",
-        "stop_name_tc": "大窩口轉車站-大窩口站 (B1)"
+        "stop_name_tc": "大窩口轉車站-大窩口站 (KW132)"
     },
     {
         "route": "67A",
@@ -150925,7 +150925,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "AAB411C52D067AD1",
-        "stop_name_tc": "大窩口轉車站 -大窩口站 (A2)"
+        "stop_name_tc": "大窩口轉車站 -大窩口站 (KW393)"
     },
     {
         "route": "67A",
@@ -150997,7 +150997,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "354A2C15BD189228",
-        "stop_name_tc": "大窩口轉車站-大窩口站 (B1)"
+        "stop_name_tc": "大窩口轉車站-大窩口站 (KW132)"
     },
     {
         "route": "67M",
@@ -151269,7 +151269,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "AAB411C52D067AD1",
-        "stop_name_tc": "大窩口轉車站 -大窩口站 (A2)"
+        "stop_name_tc": "大窩口轉車站 -大窩口站 (KW393)"
     },
     {
         "route": "67M",
@@ -153765,7 +153765,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "AFC36FC71B4E124E",
-        "stop_name_tc": "青衣轉車站 -長安邨安湄樓 (B1)"
+        "stop_name_tc": "青衣轉車站 -長安邨安湄樓"
     },
     {
         "route": "68A",
@@ -154213,7 +154213,7 @@
         "service_type": "1",
         "seq": "29",
         "stop": "C9E264A3F9D4CEB3",
-        "stop_name_tc": "大窩口轉車站 -大窩口站 (A1)"
+        "stop_name_tc": "大窩口轉車站 -大窩口站 (KW394)"
     },
     {
         "route": "68A",
@@ -154221,7 +154221,7 @@
         "service_type": "1",
         "seq": "30",
         "stop": "6E22023A7DF1B381",
-        "stop_name_tc": "青衣轉車站 –灝景灣 (D1)"
+        "stop_name_tc": "青衣轉車站 –灝景灣 (TY201)"
     },
     {
         "route": "68A",
@@ -154245,7 +154245,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "AFC36FC71B4E124E",
-        "stop_name_tc": "青衣轉車站 -長安邨安湄樓 (B1)"
+        "stop_name_tc": "青衣轉車站 -長安邨安湄樓"
     },
     {
         "route": "68E",
@@ -154549,7 +154549,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "6E22023A7DF1B381",
-        "stop_name_tc": "青衣轉車站 –灝景灣 (D1)"
+        "stop_name_tc": "青衣轉車站 –灝景灣 (TY201)"
     },
     {
         "route": "68E",
@@ -157981,7 +157981,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "AAB411C52D067AD1",
-        "stop_name_tc": "大窩口轉車站 -大窩口站 (A2)"
+        "stop_name_tc": "大窩口轉車站 -大窩口站 (KW393)"
     },
     {
         "route": "69M",
@@ -158061,7 +158061,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "354A2C15BD189228",
-        "stop_name_tc": "大窩口轉車站-大窩口站 (B1)"
+        "stop_name_tc": "大窩口轉車站-大窩口站 (KW132)"
     },
     {
         "route": "69M",
@@ -158269,7 +158269,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "AAB411C52D067AD1",
-        "stop_name_tc": "大窩口轉車站 -大窩口站 (A2)"
+        "stop_name_tc": "大窩口轉車站 -大窩口站 (KW393)"
     },
     {
         "route": "69P",
@@ -167093,7 +167093,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "B943DBEE65B0B18F",
-        "stop_name_tc": "大窩口轉車站-大窩口站 (B2)"
+        "stop_name_tc": "大窩口轉車站-大窩口站 (KW131)"
     },
     {
         "route": "73D",
@@ -167149,7 +167149,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "AAB411C52D067AD1",
-        "stop_name_tc": "大窩口轉車站 -大窩口站 (A2)"
+        "stop_name_tc": "大窩口轉車站 -大窩口站 (KW393)"
     },
     {
         "route": "73D",
@@ -167429,7 +167429,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "B943DBEE65B0B18F",
-        "stop_name_tc": "大窩口轉車站-大窩口站 (B2)"
+        "stop_name_tc": "大窩口轉車站-大窩口站 (KW131)"
     },
     {
         "route": "73F",
@@ -167485,7 +167485,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "AAB411C52D067AD1",
-        "stop_name_tc": "大窩口轉車站 -大窩口站 (A2)"
+        "stop_name_tc": "大窩口轉車站 -大窩口站 (KW393)"
     },
     {
         "route": "73F",
@@ -168581,7 +168581,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "B943DBEE65B0B18F",
-        "stop_name_tc": "大窩口轉車站-大窩口站 (B2)"
+        "stop_name_tc": "大窩口轉車站-大窩口站 (KW131)"
     },
     {
         "route": "73X",
@@ -168637,7 +168637,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "AAB411C52D067AD1",
-        "stop_name_tc": "大窩口轉車站 -大窩口站 (A2)"
+        "stop_name_tc": "大窩口轉車站 -大窩口站 (KW393)"
     },
     {
         "route": "73X",
@@ -168781,7 +168781,7 @@
         "service_type": "2",
         "seq": "4",
         "stop": "AAB411C52D067AD1",
-        "stop_name_tc": "大窩口轉車站 -大窩口站 (A2)"
+        "stop_name_tc": "大窩口轉車站 -大窩口站 (KW393)"
     },
     {
         "route": "73X",
@@ -186917,7 +186917,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "AAB411C52D067AD1",
-        "stop_name_tc": "大窩口轉車站 -大窩口站 (A2)"
+        "stop_name_tc": "大窩口轉車站 -大窩口站 (KW393)"
     },
     {
         "route": "848",
@@ -208773,7 +208773,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "C9E264A3F9D4CEB3",
-        "stop_name_tc": "大窩口轉車站 -大窩口站 (A1)"
+        "stop_name_tc": "大窩口轉車站 -大窩口站 (KW394)"
     },
     {
         "route": "934A",
@@ -212613,7 +212613,7 @@
         "service_type": "1",
         "seq": "28",
         "stop": "00EC5193F83C6F76",
-        "stop_name_tc": "青衣轉車站 - 長安總站 (A5)"
+        "stop_name_tc": "青衣轉車站 - 長安總站 (TY908)"
     },
     {
         "route": "948",
@@ -212621,7 +212621,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "00EC5193F83C6F76",
-        "stop_name_tc": "青衣轉車站 - 長安總站 (A5)"
+        "stop_name_tc": "青衣轉車站 - 長安總站 (TY908)"
     },
     {
         "route": "948",
@@ -212853,7 +212853,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "8013D41156BC24BD",
-        "stop_name_tc": "青衣轉車站 - 長安總站 (A9)"
+        "stop_name_tc": "青衣轉車站 - 長安總站 (TY907)"
     },
     {
         "route": "948A",
@@ -213405,7 +213405,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "6E22023A7DF1B381",
-        "stop_name_tc": "青衣轉車站 –灝景灣 (D1)"
+        "stop_name_tc": "青衣轉車站 –灝景灣 (TY201)"
     },
     {
         "route": "948E",
@@ -213429,7 +213429,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "AFC36FC71B4E124E",
-        "stop_name_tc": "青衣轉車站 -長安邨安湄樓 (B1)"
+        "stop_name_tc": "青衣轉車站 -長安邨安湄樓"
     },
     {
         "route": "948E",
@@ -213589,7 +213589,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "8013D41156BC24BD",
-        "stop_name_tc": "青衣轉車站 - 長安總站 (A9)"
+        "stop_name_tc": "青衣轉車站 - 長安總站 (TY907)"
     },
     {
         "route": "948P",
@@ -254893,7 +254893,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "CC13DC33AE269FB1",
-        "stop_name_tc": "青衣轉車站 - 長安總站 (A1)"
+        "stop_name_tc": "青衣轉車站 - 長安總站 (TY912)"
     },
     {
         "route": "N241",
@@ -255749,7 +255749,7 @@
         "service_type": "1",
         "seq": "54",
         "stop": "5D919BA157405E33",
-        "stop_name_tc": "青衣轉車站 - 長安總站 (A2)"
+        "stop_name_tc": "青衣轉車站 - 長安總站 (TY911)"
     },
     {
         "route": "N241",
@@ -255789,7 +255789,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "AFC36FC71B4E124E",
-        "stop_name_tc": "青衣轉車站 -長安邨安湄樓 (B1)"
+        "stop_name_tc": "青衣轉車站 -長安邨安湄樓"
     },
     {
         "route": "N243",
@@ -256037,7 +256037,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "354A2C15BD189228",
-        "stop_name_tc": "大窩口轉車站-大窩口站 (B1)"
+        "stop_name_tc": "大窩口轉車站-大窩口站 (KW132)"
     },
     {
         "route": "N252",
@@ -256501,7 +256501,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "354A2C15BD189228",
-        "stop_name_tc": "大窩口轉車站-大窩口站 (B1)"
+        "stop_name_tc": "大窩口轉車站-大窩口站 (KW132)"
     },
     {
         "route": "N260",
@@ -256965,7 +256965,7 @@
         "service_type": "1",
         "seq": "28",
         "stop": "C9E264A3F9D4CEB3",
-        "stop_name_tc": "大窩口轉車站 -大窩口站 (A1)"
+        "stop_name_tc": "大窩口轉車站 -大窩口站 (KW394)"
     },
     {
         "route": "N260",
@@ -257093,7 +257093,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "354A2C15BD189228",
-        "stop_name_tc": "大窩口轉車站-大窩口站 (B1)"
+        "stop_name_tc": "大窩口轉車站-大窩口站 (KW132)"
     },
     {
         "route": "N269",
@@ -257581,7 +257581,7 @@
         "service_type": "1",
         "seq": "31",
         "stop": "C9E264A3F9D4CEB3",
-        "stop_name_tc": "大窩口轉車站 -大窩口站 (A1)"
+        "stop_name_tc": "大窩口轉車站 -大窩口站 (KW394)"
     },
     {
         "route": "N269",
@@ -260349,7 +260349,7 @@
         "service_type": "1",
         "seq": "47",
         "stop": "B943DBEE65B0B18F",
-        "stop_name_tc": "大窩口轉車站-大窩口站 (B2)"
+        "stop_name_tc": "大窩口轉車站-大窩口站 (KW131)"
     },
     {
         "route": "N290",
@@ -260405,7 +260405,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "C9E264A3F9D4CEB3",
-        "stop_name_tc": "大窩口轉車站 -大窩口站 (A1)"
+        "stop_name_tc": "大窩口轉車站 -大窩口站 (KW394)"
     },
     {
         "route": "N290",
@@ -265141,7 +265141,7 @@
         "service_type": "1",
         "seq": "31",
         "stop": "5D919BA157405E33",
-        "stop_name_tc": "青衣轉車站 - 長安總站 (A2)"
+        "stop_name_tc": "青衣轉車站 - 長安總站 (TY911)"
     },
     {
         "route": "N41X",
@@ -266397,7 +266397,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "F9F4E00007242BED",
-        "stop_name_tc": "青衣轉車站 - 長安總站 (A7)"
+        "stop_name_tc": "青衣轉車站 - 長安總站 (TY902)"
     },
     {
         "route": "N43",
@@ -266565,7 +266565,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "C9E264A3F9D4CEB3",
-        "stop_name_tc": "大窩口轉車站 -大窩口站 (A1)"
+        "stop_name_tc": "大窩口轉車站 -大窩口站 (KW394)"
     },
     {
         "route": "N48",
@@ -266789,7 +266789,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "B943DBEE65B0B18F",
-        "stop_name_tc": "大窩口轉車站-大窩口站 (B2)"
+        "stop_name_tc": "大窩口轉車站-大窩口站 (KW131)"
     },
     {
         "route": "N48",
@@ -276528,6 +276528,166 @@
         "stop_name_tc": "東涌站巴士總站"
     },
     {
+        "route": "PBW5",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "1",
+        "stop": "95A40BF00DBAB2B8",
+        "stop_name_tc": "星光大道"
+    },
+    {
+        "route": "PBW5",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "2",
+        "stop": "2C02B3FE178DC965",
+        "stop_name_tc": "柯士甸道"
+    },
+    {
+        "route": "PBW5",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "3",
+        "stop": "EF8E1150891E5725",
+        "stop_name_tc": "廣東道"
+    },
+    {
+        "route": "PBW5",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "4",
+        "stop": "0524415976F284A4",
+        "stop_name_tc": "柯士甸道西"
+    },
+    {
+        "route": "PBW5",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "5",
+        "stop": "F050648C108571ED",
+        "stop_name_tc": "香港故宮文化博物館"
+    },
+    {
+        "route": "PBW5",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "6",
+        "stop": "658F28C339443C17",
+        "stop_name_tc": "奧運(海泓道)"
+    },
+    {
+        "route": "PBW5",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "7",
+        "stop": "7033D904840D5F18",
+        "stop_name_tc": "曼克頓山"
+    },
+    {
+        "route": "PBW5",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "8",
+        "stop": "D39BE9923B1C7294",
+        "stop_name_tc": "美孚荔灣道"
+    },
+    {
+        "route": "PBW5",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "9",
+        "stop": "875B01AC78127A53",
+        "stop_name_tc": "荃灣馬頭壩道"
+    },
+    {
+        "route": "PBW5",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "10",
+        "stop": "A02CB1283981A937",
+        "stop_name_tc": "港鐵荃灣西站"
+    },
+    {
+        "route": "PBW5",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "1",
+        "stop": "A02CB1283981A937",
+        "stop_name_tc": "港鐵荃灣西站"
+    },
+    {
+        "route": "PBW5",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "2",
+        "stop": "875B01AC78127A53",
+        "stop_name_tc": "荃灣馬頭壩道"
+    },
+    {
+        "route": "PBW5",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "3",
+        "stop": "7033D904840D5F18",
+        "stop_name_tc": "曼克頓山"
+    },
+    {
+        "route": "PBW5",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "4",
+        "stop": "D39BE9923B1C7294",
+        "stop_name_tc": "美孚荔灣道"
+    },
+    {
+        "route": "PBW5",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "5",
+        "stop": "658F28C339443C17",
+        "stop_name_tc": "奧運(海泓道)"
+    },
+    {
+        "route": "PBW5",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "6",
+        "stop": "2C02B3FE178DC965",
+        "stop_name_tc": "柯士甸道"
+    },
+    {
+        "route": "PBW5",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "7",
+        "stop": "0524415976F284A4",
+        "stop_name_tc": "柯士甸道西"
+    },
+    {
+        "route": "PBW5",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "8",
+        "stop": "F050648C108571ED",
+        "stop_name_tc": "香港故宮文化博物館"
+    },
+    {
+        "route": "PBW5",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "9",
+        "stop": "EF8E1150891E5725",
+        "stop_name_tc": "廣東道"
+    },
+    {
+        "route": "PBW5",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "10",
+        "stop": "95A40BF00DBAB2B8",
+        "stop_name_tc": "星光大道"
+    },
+    {
         "route": "R230",
         "bound": "O",
         "service_type": "1",
@@ -276685,7 +276845,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "CC13DC33AE269FB1",
-        "stop_name_tc": "青衣轉車站 - 長安總站 (A1)"
+        "stop_name_tc": "青衣轉車站 - 長安總站 (TY912)"
     },
     {
         "route": "R241",
@@ -277765,7 +277925,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "00EC5193F83C6F76",
-        "stop_name_tc": "青衣轉車站 - 長安總站 (A5)"
+        "stop_name_tc": "青衣轉車站 - 長安總站 (TY908)"
     },
     {
         "route": "R948",
@@ -279877,7 +280037,7 @@
         "service_type": "1",
         "seq": "29",
         "stop": "36880B47F043D519",
-        "stop_name_tc": "青衣轉車站 - 長安總站 (A7)"
+        "stop_name_tc": "青衣轉車站 - 長安總站 (TY901)"
     },
     {
         "route": "SP3",
@@ -284181,7 +284341,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "28725EBEC5C8EC40",
-        "stop_name_tc": "青衣轉車站 - 長安總站 (A8)"
+        "stop_name_tc": "青衣轉車站 - 長安總站 (TY906)"
     },
     {
         "route": "X42P",
@@ -284189,7 +284349,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "C9E264A3F9D4CEB3",
-        "stop_name_tc": "大窩口轉車站 -大窩口站 (A1)"
+        "stop_name_tc": "大窩口轉車站 -大窩口站 (KW394)"
     },
     {
         "route": "X42P",

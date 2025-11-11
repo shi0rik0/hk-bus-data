@@ -161,9 +161,9 @@
     },
     {
         "stop": "00EC5193F83C6F76",
-        "name_en": "TSING YI BBI - CHEUNG ON BUS TERMINUS (A5) (TY908)",
-        "name_tc": "青衣轉車站 - 長安總站 (A5)",
-        "name_sc": "青衣转车站 - 长安总站 (A5)",
+        "name_en": "TSING YI BBI - CHEUNG ON BUS TERMINUS (TY908)",
+        "name_tc": "青衣轉車站 - 長安總站 (TY908)",
+        "name_sc": "青衣转车站 - 长安总站 (TY908)",
         "lat": "22.361544",
         "long": "114.102887"
     },
@@ -8465,9 +8465,9 @@
     },
     {
         "stop": "28725EBEC5C8EC40",
-        "name_en": "TSING YI BBI - CHEUNG ON BUS TERMINUS (A8) (TY906)",
-        "name_tc": "青衣轉車站 - 長安總站 (A8)",
-        "name_sc": "青衣转车站 - 长安总站 (A8)",
+        "name_en": "TSING YI BBI - CHEUNG ON BUS TERMINUS (TY906)",
+        "name_tc": "青衣轉車站 - 長安總站 (TY906)",
+        "name_sc": "青衣转车站 - 长安总站 (TY906)",
         "lat": "22.361453",
         "long": "114.103121"
     },
@@ -9126,6 +9126,14 @@
         "name_sc": "伊利莎伯大厦",
         "lat": "22.281581",
         "long": "114.181313"
+    },
+    {
+        "stop": "2C02B3FE178DC965",
+        "name_en": "Austin Road",
+        "name_tc": "柯士甸道",
+        "name_sc": "柯士甸道",
+        "lat": "22.303127",
+        "long": "114.171035"
     },
     {
         "stop": "2C09A04B7BEC82F9",
@@ -10769,9 +10777,9 @@
     },
     {
         "stop": "32EDA7D330FF6CA1",
-        "name_en": "TSING YI BBI - CHING WANG COURT(C1) (TY200)",
-        "name_tc": "青衣轉車站 –青宏苑 (C1)",
-        "name_sc": "青衣转车站 –青宏苑 (C1)",
+        "name_en": "TSING YI BBI - CHING WANG COURT (TY200)",
+        "name_tc": "青衣轉車站 –青宏苑 (TY200)",
+        "name_sc": "青衣转车站 –青宏苑 (TY200)",
         "lat": "22.361292",
         "long": "114.104436"
     },
@@ -11329,9 +11337,9 @@
     },
     {
         "stop": "354A2C15BD189228",
-        "name_en": "TAI WO HAU BBI-TAI WO HAU STATION (B1) (KW132)",
-        "name_tc": "大窩口轉車站-大窩口站 (B1)",
-        "name_sc": "大窝口转车站-大窝口站 (B1)",
+        "name_en": "TAI WO HAU BBI-TAI WO HAU STATION (KW132)",
+        "name_tc": "大窩口轉車站-大窩口站 (KW132)",
+        "name_sc": "大窝口转车站-大窝口站 (KW132)",
         "lat": "22.370356",
         "long": "114.124855"
     },
@@ -11561,17 +11569,17 @@
     },
     {
         "stop": "36858102881A0839",
-        "name_en": "TSING YI BBI - CHEUNG ON BUS TERMINUS (A6) (TY905)",
-        "name_tc": "青衣轉車站 - 長安總站 (A6)",
-        "name_sc": "青衣转车站 - 长安总站 (A6)",
+        "name_en": "TSING YI BBI - CHEUNG ON BUS TERMINUS (TY905)",
+        "name_tc": "青衣轉車站 - 長安總站 (TY905)",
+        "name_sc": "青衣转车站 - 长安总站 (TY905)",
         "lat": "22.361455",
         "long": "114.102925"
     },
     {
         "stop": "36880B47F043D519",
-        "name_en": "TSING YI BBI - CHEUNG ON BUS TERMINUS (A7) (TY901)",
-        "name_tc": "青衣轉車站 - 長安總站 (A7)",
-        "name_sc": "青衣转车站 - 长安总站 (A7)",
+        "name_en": "TSING YI BBI - CHEUNG ON BUS TERMINUS (TY901)",
+        "name_tc": "青衣轉車站 - 長安總站 (TY901)",
+        "name_sc": "青衣转车站 - 长安总站 (TY901)",
         "lat": "22.361381",
         "long": "114.102837"
     },
@@ -13577,9 +13585,9 @@
     },
     {
         "stop": "40339B0E8404A2B9",
-        "name_en": "TSING YI BBI - CHEUNG ON BUS TERMINUS (A1) (TY914)",
-        "name_tc": "青衣轉車站 - 長安總站 (A1)",
-        "name_sc": "青衣转车站 - 长安总站 (A1)",
+        "name_en": "TSING YI BBI - CHEUNG ON BUS TERMINUS (TY914)",
+        "name_tc": "青衣轉車站 - 長安總站 (TY914)",
+        "name_sc": "青衣转车站 - 长安总站 (TY914)",
         "lat": "22.361718",
         "long": "114.103262"
     },
@@ -19865,9 +19873,9 @@
     },
     {
         "stop": "5D919BA157405E33",
-        "name_en": "TSING YI BBI - CHEUNG ON BUS TERMINUS (A2) (TY911)",
-        "name_tc": "青衣轉車站 - 長安總站 (A2)",
-        "name_sc": "青衣转车站 - 长安总站 (A2)",
+        "name_en": "TSING YI BBI - CHEUNG ON BUS TERMINUS (TY911)",
+        "name_tc": "青衣轉車站 - 長安總站 (TY911)",
+        "name_sc": "青衣转车站 - 长安总站 (TY911)",
         "lat": "22.361663",
         "long": "114.102892"
     },
@@ -20241,9 +20249,9 @@
     },
     {
         "stop": "5FCC47E16C9051C0",
-        "name_en": "TSING YI BBI - CHEUNG ON BUS TERMINUS (A1) (TY913)",
-        "name_tc": "青衣轉車站 - 長安總站 (A1)",
-        "name_sc": "青衣转车站 - 长安总站 (A1)",
+        "name_en": "TSING YI BBI - CHEUNG ON BUS TERMINUS (TY913)",
+        "name_tc": "青衣轉車站 - 長安總站 (TY913)",
+        "name_sc": "青衣转车站 - 长安总站 (TY913)",
         "lat": "22.361716",
         "long": "114.103135"
     },
@@ -22697,9 +22705,9 @@
     },
     {
         "stop": "6ACF3394256E280F",
-        "name_en": "TSING YI BBI - CHEUNG ON BUS TERMINUS (A3) (TY910)",
-        "name_tc": "青衣轉車站 - 長安總站 (A3)",
-        "name_sc": "青衣转车站 - 长安总站 (A3)",
+        "name_en": "TSING YI BBI - CHEUNG ON BUS TERMINUS (TY910)",
+        "name_tc": "青衣轉車站 - 長安總站 (TY910)",
+        "name_sc": "青衣转车站 - 长安总站 (TY910)",
         "lat": "22.361626",
         "long": "114.102891"
     },
@@ -23345,9 +23353,9 @@
     },
     {
         "stop": "6E22023A7DF1B381",
-        "name_en": "TSING YI BBI - VILLA ESPLANADA (D1) (TY201)",
-        "name_tc": "青衣轉車站 –灝景灣 (D1)",
-        "name_sc": "青衣转车站 –灏景湾 (D1)",
+        "name_en": "TSING YI BBI - VILLA ESPLANADA (TY201)",
+        "name_tc": "青衣轉車站 –灝景灣 (TY201)",
+        "name_sc": "青衣转车站 –灏景湾 (TY201)",
         "lat": "22.360898",
         "long": "114.105955"
     },
@@ -25617,9 +25625,9 @@
     },
     {
         "stop": "79A623A558FB5CC6",
-        "name_en": "TSING YI BBI - CHEUNG ON BUS TERMINUS (A4) (TY909)",
-        "name_tc": "青衣轉車站 - 長安總站  (A4)",
-        "name_sc": "青衣转车站 - 长安总站  (A4)",
+        "name_en": "TSING YI BBI - CHEUNG ON BUS TERMINUS (TY909)",
+        "name_tc": "青衣轉車站 - 長安總站 (TY909)",
+        "name_sc": "青衣转车站 - 长安总站 (TY909)",
         "lat": "22.361583",
         "long": "114.102888"
     },
@@ -26825,9 +26833,9 @@
     },
     {
         "stop": "8013D41156BC24BD",
-        "name_en": "TSING YI BBI - CHEUNG ON BUS TERMINUS (A9) (TY907)",
-        "name_tc": "青衣轉車站 - 長安總站 (A9)",
-        "name_sc": "青衣转车站 - 长安总站 (A9)",
+        "name_en": "TSING YI BBI - CHEUNG ON BUS TERMINUS (TY907)",
+        "name_tc": "青衣轉車站 - 長安總站 (TY907)",
+        "name_sc": "青衣转车站 - 长安总站 (TY907)",
         "lat": "22.361600",
         "long": "114.103397"
     },
@@ -28334,6 +28342,14 @@
         "name_sc": "蓝田站 (LT904)",
         "lat": "22.306866",
         "long": "114.233746"
+    },
+    {
+        "stop": "875B01AC78127A53",
+        "name_en": "Ma Tau Pa Road, Tsuen Wan",
+        "name_tc": "荃灣馬頭壩道",
+        "name_sc": "荃湾马头坝道",
+        "lat": "22.366864",
+        "long": "114.115353"
     },
     {
         "stop": "876057D899CE09C9",
@@ -31030,6 +31046,14 @@
         "name_sc": "衙前围道 (KC215)",
         "lat": "22.328386",
         "long": "114.186880"
+    },
+    {
+        "stop": "95A40BF00DBAB2B8",
+        "name_en": "Avenue of Stars",
+        "name_tc": "星光大道",
+        "name_sc": "星光大道",
+        "lat": "22.296511",
+        "long": "114.177189"
     },
     {
         "stop": "95A8334E0385A5E7",
@@ -35625,9 +35649,9 @@
     },
     {
         "stop": "AAB411C52D067AD1",
-        "name_en": "TAI WO HAU BBI-TAI WO HAU STATION (A2) (KW393)",
-        "name_tc": "大窩口轉車站 -大窩口站 (A2)",
-        "name_sc": "大窝口转车站 -大窝口站 (A2)",
+        "name_en": "TAI WO HAU BBI-TAI WO HAU STATION (KW393)",
+        "name_tc": "大窩口轉車站 -大窩口站 (KW393)",
+        "name_sc": "大窝口转车站 -大窝口站 (KW393)",
         "lat": "22.370533",
         "long": "114.124151"
     },
@@ -36097,9 +36121,9 @@
     },
     {
         "stop": "AD09CB78CEDADB0B",
-        "name_en": "TSING YI BBI - CHEUNG ON BUS TERMINUS (A6) (TY904)",
-        "name_tc": "青衣轉車站 - 長安總站 (A6)",
-        "name_sc": "青衣转车站 - 长安总站 (A6)",
+        "name_en": "TSING YI BBI - CHEUNG ON BUS TERMINUS (TY904)",
+        "name_tc": "青衣轉車站 - 長安總站 (TY904)",
+        "name_sc": "青衣转车站 - 长安总站 (TY904)",
         "lat": "22.361456",
         "long": "114.102827"
     },
@@ -36545,9 +36569,9 @@
     },
     {
         "stop": "AFC36FC71B4E124E",
-        "name_en": "TSING YI BBI - ON MEI HOUSE CHEUNG ON ESTATE (B1)",
-        "name_tc": "青衣轉車站 -長安邨安湄樓 (B1)",
-        "name_sc": "青衣转车站 -长安邨安湄楼 (B1)",
+        "name_en": "TSING YI BBI - ON MEI HOUSE CHEUNG ON ESTATE",
+        "name_tc": "青衣轉車站 -長安邨安湄樓",
+        "name_sc": "青衣转车站 -长安邨安湄楼",
         "lat": "22.361152",
         "long": "114.105286"
     },
@@ -38513,9 +38537,9 @@
     },
     {
         "stop": "B943DBEE65B0B18F",
-        "name_en": "TAI WO HAU BBI-TAI WO HAU STATION (B2) (KW131)",
-        "name_tc": "大窩口轉車站-大窩口站 (B2)",
-        "name_sc": "大窝口转车站-大窝口站 (B2)",
+        "name_en": "TAI WO HAU BBI-TAI WO HAU STATION (KW131)",
+        "name_tc": "大窩口轉車站-大窩口站 (KW131)",
+        "name_sc": "大窝口转车站-大窝口站 (KW131)",
         "lat": "22.370365",
         "long": "114.124962"
     },
@@ -41833,9 +41857,9 @@
     },
     {
         "stop": "C9E264A3F9D4CEB3",
-        "name_en": "TAI WO HAU BBI -TAI WO HAU STATION(A1) (KW394)",
-        "name_tc": "大窩口轉車站 -大窩口站 (A1)",
-        "name_sc": "大窝口转车站 -大窝口站 (A1)",
+        "name_en": "TAI WO HAU BBI -TAI WO HAU STATION (KW394)",
+        "name_tc": "大窩口轉車站 -大窩口站 (KW394)",
+        "name_sc": "大窝口转车站 -大窝口站 (KW394)",
         "lat": "22.370561",
         "long": "114.123847"
     },
@@ -42273,9 +42297,9 @@
     },
     {
         "stop": "CC13DC33AE269FB1",
-        "name_en": "TSING YI BBI - CHEUNG ON BUS TERMINUS (A1) (TY912)",
-        "name_tc": "青衣轉車站 - 長安總站 (A1)",
-        "name_sc": "青衣转车站 - 长安总站 (A1)",
+        "name_en": "TSING YI BBI - CHEUNG ON BUS TERMINUS (TY912)",
+        "name_tc": "青衣轉車站 - 長安總站 (TY912)",
+        "name_sc": "青衣转车站 - 长安总站 (TY912)",
         "lat": "22.361714",
         "long": "114.102891"
     },
@@ -43830,6 +43854,14 @@
         "name_sc": "孔岭 (ND271)",
         "lat": "22.515149",
         "long": "114.169191"
+    },
+    {
+        "stop": "D39BE9923B1C7294",
+        "name_en": "Lai Wan Road, Mei Foo",
+        "name_tc": "美孚荔灣道",
+        "name_sc": "美孚荔湾道",
+        "lat": "22.339876",
+        "long": "114.138927"
     },
     {
         "stop": "D39CFEB43490567F",
@@ -49592,6 +49624,14 @@
         "long": "114.140828"
     },
     {
+        "stop": "EF8E1150891E5725",
+        "name_en": "Canton Road",
+        "name_tc": "廣東道",
+        "name_sc": "广东道",
+        "lat": "22.298763",
+        "long": "114.168697"
+    },
+    {
         "stop": "EFA71508B2EBD9B9",
         "name_en": "YEE TAI STREET (ED386)",
         "name_tc": "怡泰街 (ED386)",
@@ -52073,9 +52113,9 @@
     },
     {
         "stop": "F9F4E00007242BED",
-        "name_en": "TSING YI BBI - CHEUNG ON BUS TERMINUS (A7) (TY902)",
-        "name_tc": "青衣轉車站 - 長安總站 (A7)",
-        "name_sc": "青衣转车站 - 长安总站 (A7)",
+        "name_en": "TSING YI BBI - CHEUNG ON BUS TERMINUS (TY902)",
+        "name_tc": "青衣轉車站 - 長安總站 (TY902)",
+        "name_sc": "青衣转车站 - 长安总站 (TY902)",
         "lat": "22.361381",
         "long": "114.103025"
     },
