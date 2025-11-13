@@ -19480,6 +19480,14 @@
         "long": "114.250287"
     },
     {
+        "stop": "5C1C4A58776A0D0B",
+        "name_en": "WHAMPOA(SHUNG KING STREET)",
+        "name_tc": "黃埔(船景街)",
+        "name_sc": "黄埔(船景街)",
+        "lat": "22.304433",
+        "long": "114.189922"
+    },
+    {
         "stop": "5C1FB04FF191337B",
         "name_en": "TUEN MUN PIER HEAD (SIU HEI COURT) (TM632)",
         "name_tc": "屯門碼頭(兆禧苑) (TM632)",
@@ -23222,6 +23230,14 @@
         "name_sc": "香港保护儿童会 (MK315)",
         "lat": "22.325835",
         "long": "114.166576"
+    },
+    {
+        "stop": "6D9D9FDA28C09FC0",
+        "name_en": "TUNG HING HOUSE LEI TUNG ESTATE",
+        "name_tc": "利東邨東興樓",
+        "name_sc": "利东邨东兴楼",
+        "lat": "22.240637",
+        "long": "114.155479"
     },
     {
         "stop": "6D9EB45795E40B40",
@@ -32225,9 +32241,9 @@
     },
     {
         "stop": "9BA601064A2EF221",
-        "name_en": "TSING YI BBI - CHEUNG ON BUS TERMINUS (A6) (TY903)",
-        "name_tc": "青衣轉車站 - 長安總站 (A6)",
-        "name_sc": "青衣转车站 - 长安总站 (A6)",
+        "name_en": "TSING YI BBI - CHEUNG ON BUS TERMINUS (TY903)",
+        "name_tc": "青衣轉車站 - 長安總站 (TY903)",
+        "name_sc": "青衣转车站 - 长安总站 (TY903)",
         "lat": "22.361455",
         "long": "114.102781"
     },
@@ -33777,9 +33793,9 @@
     },
     {
         "stop": "A2908CBEAA7D4C73",
-        "name_en": "TSING YI BBI - CHEUNG ON BUS TERMINUS (A7) (TY900)",
-        "name_tc": "青衣轉車站 - 長安總站 (A7)",
-        "name_sc": "青衣转车站 - 长安总站 (A7)",
+        "name_en": "TSING YI BBI - CHEUNG ON BUS TERMINUS (TY900)",
+        "name_tc": "青衣轉車站 - 長安總站 (TY900)",
+        "name_sc": "青衣转车站 - 长安总站 (TY900)",
         "lat": "22.361383",
         "long": "114.102782"
     },
@@ -49462,6 +49478,14 @@
         "name_sc": "青山湾 (TM307)",
         "lat": "22.379044",
         "long": "113.980643"
+    },
+    {
+        "stop": "EED0140DBDE1B83B",
+        "name_en": "HO MAN TIN (CHUNG HAU STREET)",
+        "name_tc": "何文田(忠孝街)",
+        "name_sc": "何文田(忠孝街)",
+        "lat": "22.311669",
+        "long": "114.178509"
     },
     {
         "stop": "EEDFC5EC1DD36179",
