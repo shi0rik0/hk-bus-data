@@ -53109,7 +53109,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "093289C2E4F6F408",
-        "stop_name_tc": "彩蒲苑彩碧閣 (ND105)"
+        "stop_name_tc": "彩蒲苑彩碧閣 (ND105a)"
     },
     {
         "route": "261X",
@@ -65460,8 +65460,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "12",
-        "stop": "D0FB28B8EED62431",
-        "stop_name_tc": "欣盛苑 (ND395)"
+        "stop": "2129B2A72F881300",
+        "stop_name_tc": "欣盛苑 (ND394)"
     },
     {
         "route": "270B",
@@ -65692,14 +65692,6 @@
         "bound": "O",
         "service_type": "2",
         "seq": "12",
-        "stop": "D0FB28B8EED62431",
-        "stop_name_tc": "欣盛苑 (ND395)"
-    },
-    {
-        "route": "270B",
-        "bound": "O",
-        "service_type": "2",
-        "seq": "13",
         "stop": "FA52803E2628A212",
         "stop_name_tc": "牽晴間 (ND151)"
     },
@@ -65707,7 +65699,7 @@
         "route": "270B",
         "bound": "O",
         "service_type": "2",
-        "seq": "14",
+        "seq": "13",
         "stop": "E6022594DB48E35B",
         "stop_name_tc": "粉嶺公路轉車站(A3) (TP101)"
     },
@@ -65715,7 +65707,7 @@
         "route": "270B",
         "bound": "O",
         "service_type": "2",
-        "seq": "15",
+        "seq": "14",
         "stop": "480DB16994F8FFEE",
         "stop_name_tc": "青沙公路轉車站 (TA750)"
     },
@@ -65723,7 +65715,7 @@
         "route": "270B",
         "bound": "O",
         "service_type": "2",
-        "seq": "16",
+        "seq": "15",
         "stop": "FD8181D7574BB373",
         "stop_name_tc": "青沙公路轉車站 (A2) (TA754)"
     },
@@ -65731,7 +65723,7 @@
         "route": "270B",
         "bound": "O",
         "service_type": "2",
-        "seq": "17",
+        "seq": "16",
         "stop": "F1DE119543E382D9",
         "stop_name_tc": "碧海藍天 (SS671)"
     },
@@ -65739,7 +65731,7 @@
         "route": "270B",
         "bound": "O",
         "service_type": "2",
-        "seq": "18",
+        "seq": "17",
         "stop": "A6013462EAC8AA50",
         "stop_name_tc": "長沙灣光昌街 (SS468)"
     },
@@ -65747,7 +65739,7 @@
         "route": "270B",
         "bound": "O",
         "service_type": "2",
-        "seq": "19",
+        "seq": "18",
         "stop": "DAE9E14BA67CEC80",
         "stop_name_tc": "長沙灣興華街 (SS475)"
     },
@@ -65755,7 +65747,7 @@
         "route": "270B",
         "bound": "O",
         "service_type": "2",
-        "seq": "20",
+        "seq": "19",
         "stop": "3A5C336CCB38A3FA",
         "stop_name_tc": "元州邨 (SS479)"
     },
@@ -65763,7 +65755,7 @@
         "route": "270B",
         "bound": "O",
         "service_type": "2",
-        "seq": "21",
+        "seq": "20",
         "stop": "8CE4B83B45F22F1F",
         "stop_name_tc": "九龍工業學校 (SS481)"
     },
@@ -65771,7 +65763,7 @@
         "route": "270B",
         "bound": "O",
         "service_type": "2",
-        "seq": "22",
+        "seq": "21",
         "stop": "89F6B64B28A21D34",
         "stop_name_tc": "深水埗基隆街 (SS183)"
     },
@@ -65779,7 +65771,7 @@
         "route": "270B",
         "bound": "O",
         "service_type": "2",
-        "seq": "23",
+        "seq": "22",
         "stop": "18A85DD43DFA12AF",
         "stop_name_tc": "深水埗北河街 (SS636)"
     },
@@ -65787,7 +65779,7 @@
         "route": "270B",
         "bound": "O",
         "service_type": "2",
-        "seq": "24",
+        "seq": "23",
         "stop": "C4B0E899FAE72350",
         "stop_name_tc": "石硤尾街 (SS640)"
     },
@@ -65795,7 +65787,7 @@
         "route": "270B",
         "bound": "O",
         "service_type": "2",
-        "seq": "25",
+        "seq": "24",
         "stop": "8C7C1212A1196A1A",
         "stop_name_tc": "深水埗白楊街 (SS644)"
     },
@@ -65803,7 +65795,7 @@
         "route": "270B",
         "bound": "O",
         "service_type": "2",
-        "seq": "26",
+        "seq": "25",
         "stop": "996EC6B4E40A2E4A",
         "stop_name_tc": "弼街 (MK700)"
     },
@@ -65811,7 +65803,7 @@
         "route": "270B",
         "bound": "O",
         "service_type": "2",
-        "seq": "27",
+        "seq": "26",
         "stop": "5CA7841E84D52C8A",
         "stop_name_tc": "旺角街市 (MK627)"
     },
@@ -65819,7 +65811,7 @@
         "route": "270B",
         "bound": "O",
         "service_type": "2",
-        "seq": "28",
+        "seq": "27",
         "stop": "22138E6C8051FDBD",
         "stop_name_tc": "銘基書院 (MK631)"
     },
@@ -65827,7 +65819,7 @@
         "route": "270B",
         "bound": "O",
         "service_type": "2",
-        "seq": "29",
+        "seq": "28",
         "stop": "F5098BFD784B8FAB",
         "stop_name_tc": "海富苑 柏景灣 (MK121)"
     },
@@ -65835,7 +65827,7 @@
         "route": "270B",
         "bound": "O",
         "service_type": "2",
-        "seq": "30",
+        "seq": "29",
         "stop": "1C7C526A52EF9171",
         "stop_name_tc": "富榮花園 (MK122)"
     },
@@ -66740,8 +66732,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "10",
-        "stop": "D0FB28B8EED62431",
-        "stop_name_tc": "欣盛苑 (ND395)"
+        "stop": "2129B2A72F881300",
+        "stop_name_tc": "欣盛苑 (ND394)"
     },
     {
         "route": "270P",
@@ -66909,7 +66901,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "093289C2E4F6F408",
-        "stop_name_tc": "彩蒲苑彩碧閣 (ND105)"
+        "stop_name_tc": "彩蒲苑彩碧閣 (ND105a)"
     },
     {
         "route": "270R",
@@ -67132,8 +67124,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "14",
-        "stop": "D0FB28B8EED62431",
-        "stop_name_tc": "欣盛苑 (ND395)"
+        "stop": "923E5B79E1B48739",
+        "stop_name_tc": "欣盛苑 (ND392)"
     },
     {
         "route": "270S",
@@ -75093,7 +75085,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "093289C2E4F6F408",
-        "stop_name_tc": "彩蒲苑彩碧閣 (ND105)"
+        "stop_name_tc": "彩蒲苑彩碧閣 (ND105a)"
     },
     {
         "route": "276A",
@@ -75181,7 +75173,7 @@
         "service_type": "2",
         "seq": "8",
         "stop": "093289C2E4F6F408",
-        "stop_name_tc": "彩蒲苑彩碧閣 (ND105)"
+        "stop_name_tc": "彩蒲苑彩碧閣 (ND105a)"
     },
     {
         "route": "276A",
@@ -75405,7 +75397,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "093289C2E4F6F408",
-        "stop_name_tc": "彩蒲苑彩碧閣 (ND105)"
+        "stop_name_tc": "彩蒲苑彩碧閣 (ND105a)"
     },
     {
         "route": "276B",
@@ -75677,7 +75669,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "093289C2E4F6F408",
-        "stop_name_tc": "彩蒲苑彩碧閣 (ND105)"
+        "stop_name_tc": "彩蒲苑彩碧閣 (ND105a)"
     },
     {
         "route": "276C",
@@ -77700,8 +77692,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "14",
-        "stop": "D0FB28B8EED62431",
-        "stop_name_tc": "欣盛苑 (ND395)"
+        "stop": "923E5B79E1B48739",
+        "stop_name_tc": "欣盛苑 (ND392)"
     },
     {
         "route": "277X",
@@ -77836,8 +77828,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "9",
-        "stop": "2129B2A72F881300",
-        "stop_name_tc": "欣盛苑 (ND394)"
+        "stop": "923E5B79E1B48739",
+        "stop_name_tc": "欣盛苑 (ND392)"
     },
     {
         "route": "277X",
@@ -78092,14 +78084,6 @@
         "bound": "O",
         "service_type": "3",
         "seq": "2",
-        "stop": "2129B2A72F881300",
-        "stop_name_tc": "欣盛苑 (ND394)"
-    },
-    {
-        "route": "277X",
-        "bound": "O",
-        "service_type": "3",
-        "seq": "3",
         "stop": "4CA5DEBCC576E371",
         "stop_name_tc": "牽晴間 (ND152)"
     },
@@ -78107,7 +78091,7 @@
         "route": "277X",
         "bound": "O",
         "service_type": "3",
-        "seq": "4",
+        "seq": "3",
         "stop": "D2C1454B663392C9",
         "stop_name_tc": "粉嶺公路轉車站 (A1) (TP102)"
     },
@@ -78115,7 +78099,7 @@
         "route": "277X",
         "bound": "O",
         "service_type": "3",
-        "seq": "5",
+        "seq": "4",
         "stop": "30D564180B68ECA8",
         "stop_name_tc": "大老山隧道 (A2) (ST791)"
     },
@@ -78123,7 +78107,7 @@
         "route": "277X",
         "bound": "O",
         "service_type": "3",
-        "seq": "6",
+        "seq": "5",
         "stop": "279C78D8C04A83BB",
         "stop_name_tc": "彩虹轉車站 - 碧海樓 (WT342)"
     },
@@ -78131,7 +78115,7 @@
         "route": "277X",
         "bound": "O",
         "service_type": "3",
-        "seq": "7",
+        "seq": "6",
         "stop": "BA03816A38B9DA7F",
         "stop_name_tc": "啟業邨 (KT315)"
     },
@@ -78139,7 +78123,7 @@
         "route": "277X",
         "bound": "O",
         "service_type": "3",
-        "seq": "8",
+        "seq": "7",
         "stop": "D0F8772D043C207E",
         "stop_name_tc": "九龍灣站(東九文化中心) (KT321)"
     },
@@ -78147,7 +78131,7 @@
         "route": "277X",
         "bound": "O",
         "service_type": "3",
-        "seq": "9",
+        "seq": "8",
         "stop": "BE36EF30B86ADD1D",
         "stop_name_tc": "牛頭角下邨 (KT326)"
     },
@@ -78155,7 +78139,7 @@
         "route": "277X",
         "bound": "O",
         "service_type": "3",
-        "seq": "10",
+        "seq": "9",
         "stop": "598F766175BE3EF3",
         "stop_name_tc": "觀塘道休憩處 (KT329)"
     },
@@ -78163,7 +78147,7 @@
         "route": "277X",
         "bound": "O",
         "service_type": "3",
-        "seq": "11",
+        "seq": "10",
         "stop": "5FE12AC5660F89D6",
         "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT345)"
     },
@@ -78171,7 +78155,7 @@
         "route": "277X",
         "bound": "O",
         "service_type": "3",
-        "seq": "12",
+        "seq": "11",
         "stop": "144E9479168069DD",
         "stop_name_tc": "觀塘游泳池 (KT361)"
     },
@@ -78179,7 +78163,7 @@
         "route": "277X",
         "bound": "O",
         "service_type": "3",
-        "seq": "13",
+        "seq": "12",
         "stop": "A88EE1930BE82C54",
         "stop_name_tc": "藍田站 (落客站) (LT901)"
     },
@@ -78187,7 +78171,7 @@
         "route": "277X",
         "bound": "O",
         "service_type": "3",
-        "seq": "14",
+        "seq": "13",
         "stop": "5D7809204099960C",
         "stop_name_tc": "藍田站 (LT902)"
     },
@@ -80012,8 +79996,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "9",
-        "stop": "FA7A3D77713061E9",
-        "stop_name_tc": "欣盛苑 (ND396)"
+        "stop": "D0FB28B8EED62431",
+        "stop_name_tc": "欣盛苑 (ND395)"
     },
     {
         "route": "279X",
@@ -107292,8 +107276,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "19",
-        "stop": "D0FB28B8EED62431",
-        "stop_name_tc": "欣盛苑 (ND395)"
+        "stop": "923E5B79E1B48739",
+        "stop_name_tc": "欣盛苑 (ND392)"
     },
     {
         "route": "373",
@@ -134493,7 +134477,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "B83FDB494B1E7E31",
-        "stop_name_tc": "啟德橋道"
+        "stop_name_tc": "啟德橋道 (KA108)"
     },
     {
         "route": "5R",
@@ -134613,7 +134597,7 @@
         "service_type": "2",
         "seq": "4",
         "stop": "B83FDB494B1E7E31",
-        "stop_name_tc": "啟德橋道"
+        "stop_name_tc": "啟德橋道 (KA108)"
     },
     {
         "route": "5R",
@@ -161588,8 +161572,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "2",
-        "stop": "D0FB28B8EED62431",
-        "stop_name_tc": "欣盛苑 (ND395)"
+        "stop": "923E5B79E1B48739",
+        "stop_name_tc": "欣盛苑 (ND392)"
     },
     {
         "route": "70K",
@@ -175573,7 +175557,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "093289C2E4F6F408",
-        "stop_name_tc": "彩蒲苑彩碧閣 (ND105)"
+        "stop_name_tc": "彩蒲苑彩碧閣 (ND105a)"
     },
     {
         "route": "76",
@@ -175925,7 +175909,7 @@
         "service_type": "1",
         "seq": "35",
         "stop": "093289C2E4F6F408",
-        "stop_name_tc": "彩蒲苑彩碧閣 (ND105)"
+        "stop_name_tc": "彩蒲苑彩碧閣 (ND105a)"
     },
     {
         "route": "76K",
@@ -222060,8 +222044,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "4",
-        "stop": "923E5B79E1B48739",
-        "stop_name_tc": "欣盛苑 (ND392)"
+        "stop": "FA7A3D77713061E9",
+        "stop_name_tc": "欣盛苑 (ND396)"
     },
     {
         "route": "978",
@@ -237882,14 +237866,6 @@
     {
         "route": "A41P",
         "bound": "O",
-        "service_type": "1",
-        "seq": "23",
-        "stop": "21466046C6868AA7",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
-    },
-    {
-        "route": "A41P",
-        "bound": "O",
         "service_type": "2",
         "seq": "1",
         "stop": "BA72214DFE48AA86",
@@ -238078,14 +238054,6 @@
         "seq": "24",
         "stop": "0D5759F7A4B185FE",
         "stop_name_tc": "港珠澳大橋旅檢大樓 (落客站)"
-    },
-    {
-        "route": "A41P",
-        "bound": "O",
-        "service_type": "2",
-        "seq": "25",
-        "stop": "21466046C6868AA7",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
     },
     {
         "route": "A42",
@@ -264524,8 +264492,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "35",
-        "stop": "D0FB28B8EED62431",
-        "stop_name_tc": "欣盛苑 (ND395)"
+        "stop": "923E5B79E1B48739",
+        "stop_name_tc": "欣盛苑 (ND392)"
     },
     {
         "route": "N373",
@@ -281573,7 +281541,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "093289C2E4F6F408",
-        "stop_name_tc": "彩蒲苑彩碧閣 (ND105)"
+        "stop_name_tc": "彩蒲苑彩碧閣 (ND105a)"
     },
     {
         "route": "T270",
@@ -281860,8 +281828,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "9",
-        "stop": "FA7A3D77713061E9",
-        "stop_name_tc": "欣盛苑 (ND396)"
+        "stop": "D0FB28B8EED62431",
+        "stop_name_tc": "欣盛苑 (ND395)"
     },
     {
         "route": "T277",

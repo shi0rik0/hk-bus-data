@@ -1625,9 +1625,9 @@
     },
     {
         "stop": "093289C2E4F6F408",
-        "name_en": "CHOI PIK HOUSE CHOI PO COURT (ND105)",
-        "name_tc": "彩蒲苑彩碧閣 (ND105)",
-        "name_sc": "彩蒲苑彩碧阁 (ND105)",
+        "name_en": "CHOI PIK HOUSE CHOI PO COURT (ND105a)",
+        "name_tc": "彩蒲苑彩碧閣 (ND105a)",
+        "name_sc": "彩蒲苑彩碧阁 (ND105a)",
         "lat": "22.502927",
         "long": "114.124698"
     },
@@ -38297,9 +38297,9 @@
     },
     {
         "stop": "B83FDB494B1E7E31",
-        "name_en": "KAI TAK BRIDGE ROAD",
-        "name_tc": "啟德橋道",
-        "name_sc": "启德桥道",
+        "name_en": "KAI TAK BRIDGE ROAD (KA108)",
+        "name_tc": "啟德橋道 (KA108)",
+        "name_sc": "启德桥道 (KA108)",
         "lat": "22.315153",
         "long": "114.205891"
     },

@@ -14647,9 +14647,9 @@
         "orig_en": "WU KAI SHA STATION",
         "orig_tc": "烏溪沙站",
         "orig_sc": "乌溪沙站",
-        "dest_en": "AIRPORT (GROUND TRANSPORTATION CENTRE)",
-        "dest_tc": "機場(地面運輸中心)",
-        "dest_sc": "机场(地面运输中心)"
+        "dest_en": "Airport",
+        "dest_tc": "機場",
+        "dest_sc": "机场"
     },
     {
         "route": "A41P",
@@ -14658,9 +14658,9 @@
         "orig_en": "WU KAI SHA STATION",
         "orig_tc": "烏溪沙站",
         "orig_sc": "乌溪沙站",
-        "dest_en": "AIRPORT (GROUND TRANSPORTATION CENTRE)",
-        "dest_tc": "機場(地面運輸中心)",
-        "dest_sc": "机场(地面运输中心)"
+        "dest_en": "Airport",
+        "dest_tc": "機場",
+        "dest_sc": "机场"
     },
     {
         "route": "A42",
