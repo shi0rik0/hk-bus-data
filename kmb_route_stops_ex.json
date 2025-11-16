@@ -56836,14 +56836,6 @@
         "bound": "O",
         "service_type": "1",
         "seq": "3",
-        "stop": "843A6966DEAB2C1E",
-        "stop_name_tc": null
-    },
-    {
-        "route": "268",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "4",
         "stop": "C6D0AD0AA59CB197",
         "stop_name_tc": "朗廈 (YL555)"
     },
@@ -56851,7 +56843,7 @@
         "route": "268",
         "bound": "O",
         "service_type": "1",
-        "seq": "5",
+        "seq": "4",
         "stop": "75BCC884A3620498",
         "stop_name_tc": "壆圍 (YL556)"
     },
@@ -56859,7 +56851,7 @@
         "route": "268",
         "bound": "O",
         "service_type": "1",
-        "seq": "6",
+        "seq": "5",
         "stop": "D2FCC678B1D160E1",
         "stop_name_tc": "模範鄉 (YL557)"
     },
@@ -56867,7 +56859,7 @@
         "route": "268",
         "bound": "O",
         "service_type": "1",
-        "seq": "7",
+        "seq": "6",
         "stop": "217E82F6FF3F89E3",
         "stop_name_tc": "逢吉鄉 (YL558)"
     },
@@ -56875,7 +56867,7 @@
         "route": "268",
         "bound": "O",
         "service_type": "1",
-        "seq": "8",
+        "seq": "7",
         "stop": "BF598D4B90407BB9",
         "stop_name_tc": "沙埔村 (YL559)"
     },
@@ -56883,7 +56875,7 @@
         "route": "268",
         "bound": "O",
         "service_type": "1",
-        "seq": "9",
+        "seq": "8",
         "stop": "DB11DC6D1BA11F9A",
         "stop_name_tc": "紅毛橋 (YL565)"
     },
@@ -56891,7 +56883,7 @@
         "route": "268",
         "bound": "O",
         "service_type": "1",
-        "seq": "10",
+        "seq": "9",
         "stop": "F5FA7ED5D5A6860D",
         "stop_name_tc": "凹頭 (YL632)"
     },
@@ -56899,7 +56891,7 @@
         "route": "268",
         "bound": "O",
         "service_type": "1",
-        "seq": "11",
+        "seq": "10",
         "stop": "D05C7D74301D47C5",
         "stop_name_tc": "下高埔村 (YL633)"
     },
@@ -56907,7 +56899,7 @@
         "route": "268",
         "bound": "O",
         "service_type": "1",
-        "seq": "12",
+        "seq": "11",
         "stop": "41C9D989B8B874FF",
         "stop_name_tc": "高埔村 (YL636)"
     },
@@ -56915,7 +56907,7 @@
         "route": "268",
         "bound": "O",
         "service_type": "1",
-        "seq": "13",
+        "seq": "12",
         "stop": "4EBE182141C52094",
         "stop_name_tc": "錦上路站 (YL860)"
     },
@@ -56923,9 +56915,17 @@
         "route": "268",
         "bound": "O",
         "service_type": "1",
-        "seq": "14",
+        "seq": "13",
         "stop": "E1C5246F946E2D86",
         "stop_name_tc": "錦河路 (YL675)"
+    },
+    {
+        "route": "268",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "14",
+        "stop": "131A8DDFC3837AD7",
+        "stop_name_tc": "八鄉路總站 (大欖隧道轉車站-C2)"
     },
     {
         "route": "268A",
@@ -175540,14 +175540,6 @@
         "bound": "O",
         "service_type": "1",
         "seq": "3",
-        "stop": "843A6966DEAB2C1E",
-        "stop_name_tc": null
-    },
-    {
-        "route": "76",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "4",
         "stop": "3106E04BB81D74A8",
         "stop_name_tc": "新田運輸交匯處 (YL995)"
     },
@@ -175555,7 +175547,7 @@
         "route": "76",
         "bound": "O",
         "service_type": "1",
-        "seq": "5",
+        "seq": "4",
         "stop": "8717C0140C940AE3",
         "stop_name_tc": "大頭嶺 (ND100)"
     },
@@ -175563,7 +175555,7 @@
         "route": "76",
         "bound": "O",
         "service_type": "1",
-        "seq": "6",
+        "seq": "5",
         "stop": "093289C2E4F6F408",
         "stop_name_tc": "彩蒲苑彩碧閣 (ND105a)"
     },
@@ -175571,7 +175563,7 @@
         "route": "76",
         "bound": "O",
         "service_type": "1",
-        "seq": "7",
+        "seq": "6",
         "stop": "3FAC6C2592812331",
         "stop_name_tc": "上水轉車站 - 上水站(D1)"
     },
@@ -175579,7 +175571,7 @@
         "route": "76",
         "bound": "O",
         "service_type": "1",
-        "seq": "8",
+        "seq": "7",
         "stop": "4E655B25ABAE103A",
         "stop_name_tc": "上水轉車站 - 上水站(C1)"
     },
@@ -175587,7 +175579,7 @@
         "route": "76",
         "bound": "O",
         "service_type": "1",
-        "seq": "9",
+        "seq": "8",
         "stop": "AD4E0E8DC8ACEFB6",
         "stop_name_tc": "彩蒲苑彩碧閣 (ND432)"
     },
@@ -175595,7 +175587,7 @@
         "route": "76",
         "bound": "O",
         "service_type": "1",
-        "seq": "10",
+        "seq": "9",
         "stop": "DF8F6AA868615D47",
         "stop_name_tc": "彩蒲苑彩顏閣 (ND436)"
     },
@@ -175603,7 +175595,7 @@
         "route": "76",
         "bound": "O",
         "service_type": "1",
-        "seq": "11",
+        "seq": "10",
         "stop": "FFFB0F940CA7BEA7",
         "stop_name_tc": "新田運輸交匯處 (YL540)"
     },
@@ -175611,7 +175603,7 @@
         "route": "76",
         "bound": "O",
         "service_type": "1",
-        "seq": "12",
+        "seq": "11",
         "stop": "ED758B6955F44E30",
         "stop_name_tc": "錦繡花園 (YL428)"
     },
@@ -175619,7 +175611,7 @@
         "route": "76",
         "bound": "O",
         "service_type": "1",
-        "seq": "13",
+        "seq": "12",
         "stop": "4D258A35FECA3A0C",
         "stop_name_tc": "竹園村 (YL429)"
     },
@@ -175627,9 +175619,17 @@
         "route": "76",
         "bound": "O",
         "service_type": "1",
-        "seq": "14",
+        "seq": "13",
         "stop": "A068B6BB68299035",
         "stop_name_tc": "攸壆路簡約公屋 (北) 總站"
+    },
+    {
+        "route": "76",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "14",
+        "stop": "924FE4A6F2501116",
+        "stop_name_tc": "攸壆路簡約公屋 (南) 總站"
     },
     {
         "route": "76K",
