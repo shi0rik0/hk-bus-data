@@ -2731,9 +2731,9 @@
         "route": "258S",
         "bound": "O",
         "service_type": "1",
-        "orig_en": "TUEN MUN (SHAN KING ESTATE)",
-        "orig_tc": "屯門(山景邨)",
-        "orig_sc": "屯门(山景邨)",
+        "orig_en": "TUEN MUN (TAI HING ESTATE)",
+        "orig_tc": "屯門(大興邨)",
+        "orig_sc": "屯门(大兴邨)",
         "dest_en": "LAM TIN STATION",
         "dest_tc": "藍田站",
         "dest_sc": "蓝田站"

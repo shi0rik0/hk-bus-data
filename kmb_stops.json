@@ -2368,14 +2368,6 @@
         "long": "114.035376"
     },
     {
-        "stop": "0C99ADB0E3FC99F9",
-        "name_en": "SHAN KING BUS TERMINUS (TM943)",
-        "name_tc": "山景總站 (TM943)",
-        "name_sc": "山景总站 (TM943)",
-        "lat": "22.401557",
-        "long": "113.965880"
-    },
-    {
         "stop": "0C9D04F079377C44",
         "name_en": "BUTTERFLY BEACH SPORTS CENTRE (TM445)",
         "name_tc": "蝴蝶灣體育館 (TM445)",
@@ -27726,6 +27718,14 @@
         "name_sc": "马鞍山运动场 (MA370)",
         "lat": "22.422232",
         "long": "114.228303"
+    },
+    {
+        "stop": "843A6966DEAB2C1E",
+        "name_en": "CHUK YUEN TSUEN",
+        "name_tc": "竹園村",
+        "name_sc": "竹园村",
+        "lat": "22.475759",
+        "long": "114.056465"
     },
     {
         "stop": "844648D1EDB4A4CD",
