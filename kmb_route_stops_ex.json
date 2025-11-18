@@ -933,7 +933,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "11B2034DDF30617A",
-        "stop_name_tc": "紅隧轉車站 (C2) (HH601)"
+        "stop_name_tc": "紅隧轉車站 (HH601)"
     },
     {
         "route": "101",
@@ -1133,7 +1133,7 @@
         "service_type": "2",
         "seq": "9",
         "stop": "11B2034DDF30617A",
-        "stop_name_tc": "紅隧轉車站 (C2) (HH601)"
+        "stop_name_tc": "紅隧轉車站 (HH601)"
     },
     {
         "route": "101",
@@ -1389,7 +1389,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "032C7D86DF9ED3AC",
-        "stop_name_tc": "紅隧轉車站 (A3) (HH506)"
+        "stop_name_tc": "紅隧轉車站 (HH506)"
     },
     {
         "route": "101",
@@ -1669,7 +1669,7 @@
         "service_type": "2",
         "seq": "16",
         "stop": "032C7D86DF9ED3AC",
-        "stop_name_tc": "紅隧轉車站 (A3) (HH506)"
+        "stop_name_tc": "紅隧轉車站 (HH506)"
     },
     {
         "route": "101",
@@ -1845,7 +1845,7 @@
         "service_type": "3",
         "seq": "16",
         "stop": "032C7D86DF9ED3AC",
-        "stop_name_tc": "紅隧轉車站 (A3) (HH506)"
+        "stop_name_tc": "紅隧轉車站 (HH506)"
     },
     {
         "route": "101",
@@ -2029,7 +2029,7 @@
         "service_type": "9",
         "seq": "6",
         "stop": "032C7D86DF9ED3AC",
-        "stop_name_tc": "紅隧轉車站 (A3) (HH506)"
+        "stop_name_tc": "紅隧轉車站 (HH506)"
     },
     {
         "route": "101",
@@ -2197,7 +2197,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "11B2034DDF30617A",
-        "stop_name_tc": "紅隧轉車站 (C2) (HH601)"
+        "stop_name_tc": "紅隧轉車站 (HH601)"
     },
     {
         "route": "101R",
@@ -2429,7 +2429,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "11B2034DDF30617A",
-        "stop_name_tc": "紅隧轉車站 (C2) (HH601)"
+        "stop_name_tc": "紅隧轉車站 (HH601)"
     },
     {
         "route": "101X",
@@ -2917,7 +2917,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "6418176FB389E363",
-        "stop_name_tc": "紅隧轉車站 (A7) (HH502)"
+        "stop_name_tc": "紅隧轉車站 (HH502)"
     },
     {
         "route": "102",
@@ -3221,7 +3221,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "153D32217234A0F0",
-        "stop_name_tc": "紅隧轉車站 (C1) (HH602)"
+        "stop_name_tc": "紅隧轉車站 (HH602)"
     },
     {
         "route": "102",
@@ -3437,7 +3437,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "6418176FB389E363",
-        "stop_name_tc": "紅隧轉車站 (A7) (HH502)"
+        "stop_name_tc": "紅隧轉車站 (HH502)"
     },
     {
         "route": "102P",
@@ -3525,7 +3525,7 @@
         "service_type": "3",
         "seq": "1",
         "stop": "6418176FB389E363",
-        "stop_name_tc": "紅隧轉車站 (A7) (HH502)"
+        "stop_name_tc": "紅隧轉車站 (HH502)"
     },
     {
         "route": "102P",
@@ -3725,7 +3725,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "153D32217234A0F0",
-        "stop_name_tc": "紅隧轉車站 (C1) (HH602)"
+        "stop_name_tc": "紅隧轉車站 (HH602)"
     },
     {
         "route": "102P",
@@ -3829,7 +3829,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "153D32217234A0F0",
-        "stop_name_tc": "紅隧轉車站 (C1) (HH602)"
+        "stop_name_tc": "紅隧轉車站 (HH602)"
     },
     {
         "route": "102R",
@@ -4117,7 +4117,7 @@
         "service_type": "1",
         "seq": "25",
         "stop": "79AFB35F9DBD485A",
-        "stop_name_tc": "紅隧轉車站 (C3) (HH600)"
+        "stop_name_tc": "紅隧轉車站 (HH600)"
     },
     {
         "route": "103",
@@ -4373,7 +4373,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "6EDDBD4E965874D7",
-        "stop_name_tc": "紅隧轉車站 (B2) (HH510)"
+        "stop_name_tc": "紅隧轉車站 (HH510)"
     },
     {
         "route": "103",
@@ -4669,7 +4669,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "E3825DF066FCABC4",
-        "stop_name_tc": "紅隧轉車站 (A2) (HH507)"
+        "stop_name_tc": "紅隧轉車站 (HH507)"
     },
     {
         "route": "104",
@@ -4981,7 +4981,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "153D32217234A0F0",
-        "stop_name_tc": "紅隧轉車站 (C1) (HH602)"
+        "stop_name_tc": "紅隧轉車站 (HH602)"
     },
     {
         "route": "104",
@@ -5349,7 +5349,7 @@
         "service_type": "1",
         "seq": "32",
         "stop": "11B2034DDF30617A",
-        "stop_name_tc": "紅隧轉車站 (C2) (HH601)"
+        "stop_name_tc": "紅隧轉車站 (HH601)"
     },
     {
         "route": "106",
@@ -5597,7 +5597,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "6418176FB389E363",
-        "stop_name_tc": "紅隧轉車站 (A7) (HH502)"
+        "stop_name_tc": "紅隧轉車站 (HH502)"
     },
     {
         "route": "106",
@@ -5981,7 +5981,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "6418176FB389E363",
-        "stop_name_tc": "紅隧轉車站 (A7) (HH502)"
+        "stop_name_tc": "紅隧轉車站 (HH502)"
     },
     {
         "route": "106A",
@@ -6181,7 +6181,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "11B2034DDF30617A",
-        "stop_name_tc": "紅隧轉車站 (C2) (HH601)"
+        "stop_name_tc": "紅隧轉車站 (HH601)"
     },
     {
         "route": "106P",
@@ -6501,7 +6501,7 @@
         "service_type": "2",
         "seq": "25",
         "stop": "11B2034DDF30617A",
-        "stop_name_tc": "紅隧轉車站 (C2) (HH601)"
+        "stop_name_tc": "紅隧轉車站 (HH601)"
     },
     {
         "route": "106P",
@@ -6749,7 +6749,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "6418176FB389E363",
-        "stop_name_tc": "紅隧轉車站 (A7) (HH502)"
+        "stop_name_tc": "紅隧轉車站 (HH502)"
     },
     {
         "route": "106P",
@@ -7037,7 +7037,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "11B2034DDF30617A",
-        "stop_name_tc": "紅隧轉車站 (C2) (HH601)"
+        "stop_name_tc": "紅隧轉車站 (HH601)"
     },
     {
         "route": "107",
@@ -7285,7 +7285,7 @@
         "service_type": "2",
         "seq": "13",
         "stop": "11B2034DDF30617A",
-        "stop_name_tc": "紅隧轉車站 (C2) (HH601)"
+        "stop_name_tc": "紅隧轉車站 (HH601)"
     },
     {
         "route": "107",
@@ -7565,7 +7565,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "6DD60A482B4CDAF6",
-        "stop_name_tc": "紅隧轉車站 (B1) (HH511)"
+        "stop_name_tc": "紅隧轉車站 (HH511)"
     },
     {
         "route": "107",
@@ -7821,7 +7821,7 @@
         "service_type": "2",
         "seq": "17",
         "stop": "6DD60A482B4CDAF6",
-        "stop_name_tc": "紅隧轉車站 (B1) (HH511)"
+        "stop_name_tc": "紅隧轉車站 (HH511)"
     },
     {
         "route": "107",
@@ -8069,7 +8069,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "11B2034DDF30617A",
-        "stop_name_tc": "紅隧轉車站 (C2) (HH601)"
+        "stop_name_tc": "紅隧轉車站 (HH601)"
     },
     {
         "route": "107P",
@@ -8141,7 +8141,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "6DD60A482B4CDAF6",
-        "stop_name_tc": "紅隧轉車站 (B1) (HH511)"
+        "stop_name_tc": "紅隧轉車站 (HH511)"
     },
     {
         "route": "107P",
@@ -8389,7 +8389,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "11B2034DDF30617A",
-        "stop_name_tc": "紅隧轉車站 (C2) (HH601)"
+        "stop_name_tc": "紅隧轉車站 (HH601)"
     },
     {
         "route": "108",
@@ -8645,7 +8645,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "06C9926B2E2B304F",
-        "stop_name_tc": "紅隧轉車站 (A6) (HH503)"
+        "stop_name_tc": "紅隧轉車站 (HH503)"
     },
     {
         "route": "108",
@@ -8829,7 +8829,7 @@
         "service_type": "3",
         "seq": "8",
         "stop": "06C9926B2E2B304F",
-        "stop_name_tc": "紅隧轉車站 (A6) (HH503)"
+        "stop_name_tc": "紅隧轉車站 (HH503)"
     },
     {
         "route": "108",
@@ -8949,7 +8949,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "79AFB35F9DBD485A",
-        "stop_name_tc": "紅隧轉車站 (C3) (HH600)"
+        "stop_name_tc": "紅隧轉車站 (HH600)"
     },
     {
         "route": "109",
@@ -9093,7 +9093,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "6EDDBD4E965874D7",
-        "stop_name_tc": "紅隧轉車站 (B2) (HH510)"
+        "stop_name_tc": "紅隧轉車站 (HH510)"
     },
     {
         "route": "109",
@@ -9581,7 +9581,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "153D32217234A0F0",
-        "stop_name_tc": "紅隧轉車站 (C1) (HH602)"
+        "stop_name_tc": "紅隧轉車站 (HH602)"
     },
     {
         "route": "110",
@@ -9669,7 +9669,7 @@
         "service_type": "1",
         "seq": "26",
         "stop": "06C9926B2E2B304F",
-        "stop_name_tc": "紅隧轉車站 (A6) (HH503)"
+        "stop_name_tc": "紅隧轉車站 (HH503)"
     },
     {
         "route": "110",
@@ -9957,7 +9957,7 @@
         "service_type": "2",
         "seq": "15",
         "stop": "153D32217234A0F0",
-        "stop_name_tc": "紅隧轉車站 (C1) (HH602)"
+        "stop_name_tc": "紅隧轉車站 (HH602)"
     },
     {
         "route": "110",
@@ -10133,7 +10133,7 @@
         "service_type": "5",
         "seq": "15",
         "stop": "153D32217234A0F0",
-        "stop_name_tc": "紅隧轉車站 (C1) (HH602)"
+        "stop_name_tc": "紅隧轉車站 (HH602)"
     },
     {
         "route": "110",
@@ -10229,7 +10229,7 @@
         "service_type": "5",
         "seq": "27",
         "stop": "06C9926B2E2B304F",
-        "stop_name_tc": "紅隧轉車站 (A6) (HH503)"
+        "stop_name_tc": "紅隧轉車站 (HH503)"
     },
     {
         "route": "110",
@@ -10517,7 +10517,7 @@
         "service_type": "6",
         "seq": "15",
         "stop": "153D32217234A0F0",
-        "stop_name_tc": "紅隧轉車站 (C1) (HH602)"
+        "stop_name_tc": "紅隧轉車站 (HH602)"
     },
     {
         "route": "110",
@@ -10669,7 +10669,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "11B2034DDF30617A",
-        "stop_name_tc": "紅隧轉車站 (C2) (HH601)"
+        "stop_name_tc": "紅隧轉車站 (HH601)"
     },
     {
         "route": "111",
@@ -10877,7 +10877,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "032C7D86DF9ED3AC",
-        "stop_name_tc": "紅隧轉車站 (A3) (HH506)"
+        "stop_name_tc": "紅隧轉車站 (HH506)"
     },
     {
         "route": "111",
@@ -11029,7 +11029,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "11B2034DDF30617A",
-        "stop_name_tc": "紅隧轉車站 (C2) (HH601)"
+        "stop_name_tc": "紅隧轉車站 (HH601)"
     },
     {
         "route": "111P",
@@ -11229,7 +11229,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "032C7D86DF9ED3AC",
-        "stop_name_tc": "紅隧轉車站 (A3) (HH506)"
+        "stop_name_tc": "紅隧轉車站 (HH506)"
     },
     {
         "route": "111P",
@@ -11413,7 +11413,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "4D3CBBDB95447F2E",
-        "stop_name_tc": "紅隧轉車站 (A4) (HH505)"
+        "stop_name_tc": "紅隧轉車站 (HH505)"
     },
     {
         "route": "112",
@@ -11565,7 +11565,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "153D32217234A0F0",
-        "stop_name_tc": "紅隧轉車站 (C1) (HH602)"
+        "stop_name_tc": "紅隧轉車站 (HH602)"
     },
     {
         "route": "112",
@@ -11813,7 +11813,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "79AFB35F9DBD485A",
-        "stop_name_tc": "紅隧轉車站 (C3) (HH600)"
+        "stop_name_tc": "紅隧轉車站 (HH600)"
     },
     {
         "route": "113",
@@ -12125,7 +12125,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "6EDDBD4E965874D7",
-        "stop_name_tc": "紅隧轉車站 (B2) (HH510)"
+        "stop_name_tc": "紅隧轉車站 (HH510)"
     },
     {
         "route": "113",
@@ -12381,7 +12381,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "11B2034DDF30617A",
-        "stop_name_tc": "紅隧轉車站 (C2) (HH601)"
+        "stop_name_tc": "紅隧轉車站 (HH601)"
     },
     {
         "route": "115",
@@ -12573,7 +12573,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "5029C93BB80545B1",
-        "stop_name_tc": "紅隧轉車站 (A1) (HH508)"
+        "stop_name_tc": "紅隧轉車站 (HH508)"
     },
     {
         "route": "115",
@@ -12677,7 +12677,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "5029C93BB80545B1",
-        "stop_name_tc": "紅隧轉車站 (A1) (HH508)"
+        "stop_name_tc": "紅隧轉車站 (HH508)"
     },
     {
         "route": "115P",
@@ -12837,7 +12837,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "11B2034DDF30617A",
-        "stop_name_tc": "紅隧轉車站 (C2) (HH601)"
+        "stop_name_tc": "紅隧轉車站 (HH601)"
     },
     {
         "route": "116",
@@ -13037,7 +13037,7 @@
         "service_type": "2",
         "seq": "6",
         "stop": "11B2034DDF30617A",
-        "stop_name_tc": "紅隧轉車站 (C2) (HH601)"
+        "stop_name_tc": "紅隧轉車站 (HH601)"
     },
     {
         "route": "116",
@@ -13325,7 +13325,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "4D3CBBDB95447F2E",
-        "stop_name_tc": "紅隧轉車站 (A4) (HH505)"
+        "stop_name_tc": "紅隧轉車站 (HH505)"
     },
     {
         "route": "116",
@@ -13485,7 +13485,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "153D32217234A0F0",
-        "stop_name_tc": "紅隧轉車站 (C1) (HH602)"
+        "stop_name_tc": "紅隧轉車站 (HH602)"
     },
     {
         "route": "117",
@@ -13709,7 +13709,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "6EDDBD4E965874D7",
-        "stop_name_tc": "紅隧轉車站 (B2) (HH510)"
+        "stop_name_tc": "紅隧轉車站 (HH510)"
     },
     {
         "route": "117",
@@ -13885,7 +13885,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "153D32217234A0F0",
-        "stop_name_tc": "紅隧轉車站 (C1) (HH602)"
+        "stop_name_tc": "紅隧轉車站 (HH602)"
     },
     {
         "route": "118",
@@ -14061,7 +14061,7 @@
         "service_type": "3",
         "seq": "8",
         "stop": "153D32217234A0F0",
-        "stop_name_tc": "紅隧轉車站 (C1) (HH602)"
+        "stop_name_tc": "紅隧轉車站 (HH602)"
     },
     {
         "route": "118",
@@ -14301,7 +14301,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "C564EDC91AFD7D04",
-        "stop_name_tc": "紅隧轉車站 (A5) (HH504)"
+        "stop_name_tc": "紅隧轉車站 (HH504)"
     },
     {
         "route": "118",
@@ -14469,7 +14469,7 @@
         "service_type": "2",
         "seq": "6",
         "stop": "C564EDC91AFD7D04",
-        "stop_name_tc": "紅隧轉車站 (A5) (HH504)"
+        "stop_name_tc": "紅隧轉車站 (HH504)"
     },
     {
         "route": "118",
@@ -14597,7 +14597,7 @@
         "service_type": "3",
         "seq": "1",
         "stop": "C564EDC91AFD7D04",
-        "stop_name_tc": "紅隧轉車站 (A5) (HH504)"
+        "stop_name_tc": "紅隧轉車站 (HH504)"
     },
     {
         "route": "118",
@@ -14845,7 +14845,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "C564EDC91AFD7D04",
-        "stop_name_tc": "紅隧轉車站 (A5) (HH504)"
+        "stop_name_tc": "紅隧轉車站 (HH504)"
     },
     {
         "route": "118P",
@@ -14973,7 +14973,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "153D32217234A0F0",
-        "stop_name_tc": "紅隧轉車站 (C1) (HH602)"
+        "stop_name_tc": "紅隧轉車站 (HH602)"
     },
     {
         "route": "118P",
@@ -15157,7 +15157,7 @@
         "service_type": "4",
         "seq": "9",
         "stop": "153D32217234A0F0",
-        "stop_name_tc": "紅隧轉車站 (C1) (HH602)"
+        "stop_name_tc": "紅隧轉車站 (HH602)"
     },
     {
         "route": "118P",
@@ -15213,7 +15213,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "153D32217234A0F0",
-        "stop_name_tc": "紅隧轉車站 (C1) (HH602)"
+        "stop_name_tc": "紅隧轉車站 (HH602)"
     },
     {
         "route": "118R",
@@ -26461,7 +26461,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "79AFB35F9DBD485A",
-        "stop_name_tc": "紅隧轉車站 (C3) (HH600)"
+        "stop_name_tc": "紅隧轉車站 (HH600)"
     },
     {
         "route": "170",
@@ -26749,7 +26749,7 @@
         "service_type": "2",
         "seq": "18",
         "stop": "79AFB35F9DBD485A",
-        "stop_name_tc": "紅隧轉車站 (C3) (HH600)"
+        "stop_name_tc": "紅隧轉車站 (HH600)"
     },
     {
         "route": "170",
@@ -27021,7 +27021,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "6DD60A482B4CDAF6",
-        "stop_name_tc": "紅隧轉車站 (B1) (HH511)"
+        "stop_name_tc": "紅隧轉車站 (HH511)"
     },
     {
         "route": "170",
@@ -27253,7 +27253,7 @@
         "service_type": "2",
         "seq": "16",
         "stop": "6DD60A482B4CDAF6",
-        "stop_name_tc": "紅隧轉車站 (B1) (HH511)"
+        "stop_name_tc": "紅隧轉車站 (HH511)"
     },
     {
         "route": "170",
@@ -27477,7 +27477,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "153D32217234A0F0",
-        "stop_name_tc": "紅隧轉車站 (C1) (HH602)"
+        "stop_name_tc": "紅隧轉車站 (HH602)"
     },
     {
         "route": "171",
@@ -27717,7 +27717,7 @@
         "service_type": "2",
         "seq": "15",
         "stop": "153D32217234A0F0",
-        "stop_name_tc": "紅隧轉車站 (C1) (HH602)"
+        "stop_name_tc": "紅隧轉車站 (HH602)"
     },
     {
         "route": "171",
@@ -27933,7 +27933,7 @@
         "service_type": "9",
         "seq": "12",
         "stop": "153D32217234A0F0",
-        "stop_name_tc": "紅隧轉車站 (C1) (HH602)"
+        "stop_name_tc": "紅隧轉車站 (HH602)"
     },
     {
         "route": "171",
@@ -28197,7 +28197,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "6DD60A482B4CDAF6",
-        "stop_name_tc": "紅隧轉車站 (B1) (HH511)"
+        "stop_name_tc": "紅隧轉車站 (HH511)"
     },
     {
         "route": "171",
@@ -28445,7 +28445,7 @@
         "service_type": "2",
         "seq": "18",
         "stop": "6DD60A482B4CDAF6",
-        "stop_name_tc": "紅隧轉車站 (B1) (HH511)"
+        "stop_name_tc": "紅隧轉車站 (HH511)"
     },
     {
         "route": "171",
@@ -28701,7 +28701,7 @@
         "service_type": "7",
         "seq": "18",
         "stop": "6DD60A482B4CDAF6",
-        "stop_name_tc": "紅隧轉車站 (B1) (HH511)"
+        "stop_name_tc": "紅隧轉車站 (HH511)"
     },
     {
         "route": "171",
@@ -28853,7 +28853,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "153D32217234A0F0",
-        "stop_name_tc": "紅隧轉車站 (C1) (HH602)"
+        "stop_name_tc": "紅隧轉車站 (HH602)"
     },
     {
         "route": "171A",
@@ -29045,7 +29045,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "153D32217234A0F0",
-        "stop_name_tc": "紅隧轉車站 (C1) (HH602)"
+        "stop_name_tc": "紅隧轉車站 (HH602)"
     },
     {
         "route": "171P",
@@ -29565,7 +29565,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "79AFB35F9DBD485A",
-        "stop_name_tc": "紅隧轉車站 (C3) (HH600)"
+        "stop_name_tc": "紅隧轉車站 (HH600)"
     },
     {
         "route": "182",
@@ -29885,7 +29885,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "5029C93BB80545B1",
-        "stop_name_tc": "紅隧轉車站 (A1) (HH508)"
+        "stop_name_tc": "紅隧轉車站 (HH508)"
     },
     {
         "route": "182",
@@ -107205,7 +107205,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "79AFB35F9DBD485A",
-        "stop_name_tc": "紅隧轉車站 (C3) (HH600)"
+        "stop_name_tc": "紅隧轉車站 (HH600)"
     },
     {
         "route": "373",
@@ -132821,7 +132821,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "C160C8F46BBBEF99",
-        "stop_name_tc": "紅隧轉車站 - 紅磡站 (D1)"
+        "stop_name_tc": "紅隧轉車站 - 紅磡站 (HH500)"
     },
     {
         "route": "5A",
@@ -208989,7 +208989,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "C160C8F46BBBEF99",
-        "stop_name_tc": "紅隧轉車站 - 紅磡站 (D1)"
+        "stop_name_tc": "紅隧轉車站 - 紅磡站 (HH500)"
     },
     {
         "route": "92R",
@@ -218037,7 +218037,7 @@
         "service_type": "1",
         "seq": "30",
         "stop": "06C9926B2E2B304F",
-        "stop_name_tc": "紅隧轉車站 (A6) (HH503)"
+        "stop_name_tc": "紅隧轉車站 (HH503)"
     },
     {
         "route": "960R",
@@ -250525,7 +250525,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "11B2034DDF30617A",
-        "stop_name_tc": "紅隧轉車站 (C2) (HH601)"
+        "stop_name_tc": "紅隧轉車站 (HH601)"
     },
     {
         "route": "N116",
@@ -250813,7 +250813,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "153D32217234A0F0",
-        "stop_name_tc": "紅隧轉車站 (C1) (HH602)"
+        "stop_name_tc": "紅隧轉車站 (HH602)"
     },
     {
         "route": "N118",
@@ -251061,7 +251061,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "C564EDC91AFD7D04",
-        "stop_name_tc": "紅隧轉車站 (A5) (HH504)"
+        "stop_name_tc": "紅隧轉車站 (HH504)"
     },
     {
         "route": "N118",
@@ -251381,7 +251381,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "032C7D86DF9ED3AC",
-        "stop_name_tc": "紅隧轉車站 (A3) (HH506)"
+        "stop_name_tc": "紅隧轉車站 (HH506)"
     },
     {
         "route": "N121",
@@ -251597,7 +251597,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "11B2034DDF30617A",
-        "stop_name_tc": "紅隧轉車站 (C2) (HH601)"
+        "stop_name_tc": "紅隧轉車站 (HH601)"
     },
     {
         "route": "N121",
@@ -251925,7 +251925,7 @@
         "service_type": "1",
         "seq": "24",
         "stop": "153D32217234A0F0",
-        "stop_name_tc": "紅隧轉車站 (C1) (HH602)"
+        "stop_name_tc": "紅隧轉車站 (HH602)"
     },
     {
         "route": "N122",
@@ -252205,7 +252205,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "4D3CBBDB95447F2E",
-        "stop_name_tc": "紅隧轉車站 (A4) (HH505)"
+        "stop_name_tc": "紅隧轉車站 (HH505)"
     },
     {
         "route": "N122",
@@ -252533,7 +252533,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "79AFB35F9DBD485A",
-        "stop_name_tc": "紅隧轉車站 (C3) (HH600)"
+        "stop_name_tc": "紅隧轉車站 (HH600)"
     },
     {
         "route": "N170",
@@ -252805,7 +252805,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "6DD60A482B4CDAF6",
-        "stop_name_tc": "紅隧轉車站 (B1) (HH511)"
+        "stop_name_tc": "紅隧轉車站 (HH511)"
     },
     {
         "route": "N170",
@@ -253053,7 +253053,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "153D32217234A0F0",
-        "stop_name_tc": "紅隧轉車站 (C1) (HH602)"
+        "stop_name_tc": "紅隧轉車站 (HH602)"
     },
     {
         "route": "N171",
@@ -253341,7 +253341,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "6DD60A482B4CDAF6",
-        "stop_name_tc": "紅隧轉車站 (B1) (HH511)"
+        "stop_name_tc": "紅隧轉車站 (HH511)"
     },
     {
         "route": "N171",
@@ -253565,7 +253565,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "79AFB35F9DBD485A",
-        "stop_name_tc": "紅隧轉車站 (C3) (HH600)"
+        "stop_name_tc": "紅隧轉車站 (HH600)"
     },
     {
         "route": "N182",
@@ -253981,7 +253981,7 @@
         "service_type": "1",
         "seq": "26",
         "stop": "032C7D86DF9ED3AC",
-        "stop_name_tc": "紅隧轉車站 (A3) (HH506)"
+        "stop_name_tc": "紅隧轉車站 (HH506)"
     },
     {
         "route": "N182",
@@ -264069,7 +264069,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "79AFB35F9DBD485A",
-        "stop_name_tc": "紅隧轉車站 (C3) (HH600)"
+        "stop_name_tc": "紅隧轉車站 (HH600)"
     },
     {
         "route": "N368",
@@ -264293,7 +264293,7 @@
         "service_type": "2",
         "seq": "16",
         "stop": "79AFB35F9DBD485A",
-        "stop_name_tc": "紅隧轉車站 (C3) (HH600)"
+        "stop_name_tc": "紅隧轉車站 (HH600)"
     },
     {
         "route": "N368",
@@ -264549,7 +264549,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "032C7D86DF9ED3AC",
-        "stop_name_tc": "紅隧轉車站 (A3) (HH506)"
+        "stop_name_tc": "紅隧轉車站 (HH506)"
     },
     {
         "route": "N368",
@@ -264781,7 +264781,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "11B2034DDF30617A",
-        "stop_name_tc": "紅隧轉車站 (C2) (HH601)"
+        "stop_name_tc": "紅隧轉車站 (HH601)"
     },
     {
         "route": "N373",
@@ -265309,7 +265309,7 @@
         "service_type": "1",
         "seq": "32",
         "stop": "032C7D86DF9ED3AC",
-        "stop_name_tc": "紅隧轉車站 (A3) (HH506)"
+        "stop_name_tc": "紅隧轉車站 (HH506)"
     },
     {
         "route": "N373",
@@ -278813,7 +278813,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "4D3CBBDB95447F2E",
-        "stop_name_tc": "紅隧轉車站 (A4) (HH505)"
+        "stop_name_tc": "紅隧轉車站 (HH505)"
     },
     {
         "route": "R673",
@@ -279045,7 +279045,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "06C9926B2E2B304F",
-        "stop_name_tc": "紅隧轉車站 (A6) (HH503)"
+        "stop_name_tc": "紅隧轉車站 (HH503)"
     },
     {
         "route": "R934",
@@ -279165,7 +279165,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "06C9926B2E2B304F",
-        "stop_name_tc": "紅隧轉車站 (A6) (HH503)"
+        "stop_name_tc": "紅隧轉車站 (HH503)"
     },
     {
         "route": "R936",
@@ -279317,7 +279317,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "06C9926B2E2B304F",
-        "stop_name_tc": "紅隧轉車站 (A6) (HH503)"
+        "stop_name_tc": "紅隧轉車站 (HH503)"
     },
     {
         "route": "R948",
