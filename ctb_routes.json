@@ -3361,6 +3361,16 @@
     },
     {
         "co": "CTB",
+        "route": "H20",
+        "orig_tc": "啟德郵輪碼頭",
+        "orig_en": "Kai Tak Cruise Terminal",
+        "dest_tc": "尖沙咀",
+        "dest_en": "Tsim Sha Tsui",
+        "orig_sc": "启德邮轮码头",
+        "dest_sc": "尖沙咀"
+    },
+    {
+        "co": "CTB",
         "route": "H2K",
         "orig_tc": "中環碼頭-天星小輪 ．落日飛車",
         "orig_en": "Central Ferry - Star Ferry",
