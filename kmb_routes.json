@@ -7942,28 +7942,6 @@
         "dest_sc": "旺角(柏景湾)"
     },
     {
-        "route": "52S",
-        "bound": "I",
-        "service_type": "1",
-        "orig_en": "TSANG TSUI",
-        "orig_tc": "曾咀",
-        "orig_sc": "曾咀",
-        "dest_en": "TUEN MUN ROAD BBI",
-        "dest_tc": "屯門公路轉車站",
-        "dest_sc": "屯门公路转车站"
-    },
-    {
-        "route": "52S",
-        "bound": "O",
-        "service_type": "1",
-        "orig_en": "TUEN MUN ROAD BBI",
-        "orig_tc": "屯門公路轉車站",
-        "orig_sc": "屯门公路转车站",
-        "dest_en": "TSANG TSUI",
-        "dest_tc": "曾咀",
-        "dest_sc": "曾咀"
-    },
-    {
         "route": "52X",
         "bound": "I",
         "service_type": "1",
@@ -8017,28 +7995,6 @@
         "dest_en": "SHEUNG TSUEN (CIRCULAR)",
         "dest_tc": "上村(循環線)",
         "dest_sc": "上村(循环线)"
-    },
-    {
-        "route": "56S",
-        "bound": "I",
-        "service_type": "1",
-        "orig_en": "TSANG TSUI",
-        "orig_tc": "曾咀",
-        "orig_sc": "曾咀",
-        "dest_en": "TUEN MUN STATION",
-        "dest_tc": "屯門站",
-        "dest_sc": "屯门站"
-    },
-    {
-        "route": "56S",
-        "bound": "O",
-        "service_type": "1",
-        "orig_en": "TUEN MUN STATION",
-        "orig_tc": "屯門站",
-        "orig_sc": "屯门站",
-        "dest_en": "TSANG TSUI",
-        "dest_tc": "曾咀",
-        "dest_sc": "曾咀"
     },
     {
         "route": "57M",
@@ -8875,28 +8831,6 @@
         "dest_en": "TSUEN WAN STATION",
         "dest_tc": "荃灣站",
         "dest_sc": "荃湾站"
-    },
-    {
-        "route": "61S",
-        "bound": "I",
-        "service_type": "1",
-        "orig_en": "WO HOP SHEK",
-        "orig_tc": "和合石",
-        "orig_sc": "和合石",
-        "dest_en": "TUEN MUN CENTRAL",
-        "dest_tc": "屯門巿中心",
-        "dest_sc": "屯门巿中心"
-    },
-    {
-        "route": "61S",
-        "bound": "O",
-        "service_type": "1",
-        "orig_en": "TUEN MUN CENTRAL",
-        "orig_tc": "屯門巿中心",
-        "orig_sc": "屯门巿中心",
-        "dest_en": "WO HOP SHEK",
-        "dest_tc": "和合石",
-        "dest_sc": "和合石"
     },
     {
         "route": "61X",
