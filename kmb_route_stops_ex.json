@@ -214901,7 +214901,7 @@
         "service_type": "1",
         "seq": "27",
         "stop": "C8BEA63A76D5AEBC",
-        "stop_name_tc": null
+        "stop_name_tc": "觀塘偉樂街 (KT204)"
     },
     {
         "route": "96",
@@ -215125,7 +215125,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "B51B73967C262259",
-        "stop_name_tc": null
+        "stop_name_tc": "觀塘偉樂街 (KT570)"
     },
     {
         "route": "96",
@@ -215349,7 +215349,7 @@
         "service_type": "2",
         "seq": "4",
         "stop": "B51B73967C262259",
-        "stop_name_tc": null
+        "stop_name_tc": "觀塘偉樂街 (KT570)"
     },
     {
         "route": "96",
