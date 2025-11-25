@@ -5522,6 +5522,17 @@
         "dest_sc": "荃湾西站"
     },
     {
+        "route": "290X",
+        "bound": "O",
+        "service_type": "3",
+        "orig_en": "LOHAS PARK STATION",
+        "orig_tc": "康城站",
+        "orig_sc": "康城站",
+        "dest_en": "TSUEN WAN WEST STATION",
+        "dest_tc": "荃灣西站",
+        "dest_sc": "荃湾西站"
+    },
+    {
         "route": "291P",
         "bound": "O",
         "service_type": "1",

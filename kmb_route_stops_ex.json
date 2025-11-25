@@ -3301,7 +3301,7 @@
         "service_type": "1",
         "seq": "30",
         "stop": "6188A6666E298598",
-        "stop_name_tc": "長沙灣長荔街 (SS246A)"
+        "stop_name_tc": "長沙灣長荔街 (SS246a)"
     },
     {
         "route": "102",
@@ -3805,7 +3805,7 @@
         "service_type": "1",
         "seq": "25",
         "stop": "6188A6666E298598",
-        "stop_name_tc": "長沙灣長荔街 (SS246A)"
+        "stop_name_tc": "長沙灣長荔街 (SS246a)"
     },
     {
         "route": "102P",
@@ -3909,7 +3909,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "6188A6666E298598",
-        "stop_name_tc": "長沙灣長荔街 (SS246A)"
+        "stop_name_tc": "長沙灣長荔街 (SS246a)"
     },
     {
         "route": "102R",
@@ -27565,7 +27565,7 @@
         "service_type": "1",
         "seq": "25",
         "stop": "6188A6666E298598",
-        "stop_name_tc": "長沙灣長荔街 (SS246A)"
+        "stop_name_tc": "長沙灣長荔街 (SS246a)"
     },
     {
         "route": "171",
@@ -27805,7 +27805,7 @@
         "service_type": "2",
         "seq": "26",
         "stop": "6188A6666E298598",
-        "stop_name_tc": "長沙灣長荔街 (SS246A)"
+        "stop_name_tc": "長沙灣長荔街 (SS246a)"
     },
     {
         "route": "171",
@@ -28021,7 +28021,7 @@
         "service_type": "9",
         "seq": "23",
         "stop": "6188A6666E298598",
-        "stop_name_tc": "長沙灣長荔街 (SS246A)"
+        "stop_name_tc": "長沙灣長荔街 (SS246a)"
     },
     {
         "route": "171",
@@ -28941,7 +28941,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "6188A6666E298598",
-        "stop_name_tc": "長沙灣長荔街 (SS246A)"
+        "stop_name_tc": "長沙灣長荔街 (SS246a)"
     },
     {
         "route": "171A",
@@ -29133,7 +29133,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "6188A6666E298598",
-        "stop_name_tc": "長沙灣長荔街 (SS246A)"
+        "stop_name_tc": "長沙灣長荔街 (SS246a)"
     },
     {
         "route": "171P",
@@ -89616,6 +89616,278 @@
         "stop_name_tc": "荃灣西站巴士總站 (TW970)"
     },
     {
+        "route": "290X",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "1",
+        "stop": "E51AC47DDDA21250",
+        "stop_name_tc": "康城站 (TK920)"
+    },
+    {
+        "route": "290X",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "2",
+        "stop": "B3F2EC8E42FA3184",
+        "stop_name_tc": "峻瀅 日出康城 (TK302)"
+    },
+    {
+        "route": "290X",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "3",
+        "stop": "07142A6203E50A47",
+        "stop_name_tc": "日出康城領都 (TK532)"
+    },
+    {
+        "route": "290X",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "4",
+        "stop": "E92E009DE3307F85",
+        "stop_name_tc": "日出康城首都 (TK534)"
+    },
+    {
+        "route": "290X",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "5",
+        "stop": "CC2353289CD0EE66",
+        "stop_name_tc": "消防及救護學院 (TK541)"
+    },
+    {
+        "route": "290X",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "6",
+        "stop": "0A1D83D50B49933D",
+        "stop_name_tc": "百勝角 (TK535)"
+    },
+    {
+        "route": "290X",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "7",
+        "stop": "38A37564B3F3CACF",
+        "stop_name_tc": "清水灣半島 (TK536)"
+    },
+    {
+        "route": "290X",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "8",
+        "stop": "711927A9FAEF1158",
+        "stop_name_tc": "寶盈花園 (TK560)"
+    },
+    {
+        "route": "290X",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "9",
+        "stop": "C9EA7B56F1197D16",
+        "stop_name_tc": "將軍澳站 (TK561)"
+    },
+    {
+        "route": "290X",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "10",
+        "stop": "A1C5849926BE3289",
+        "stop_name_tc": "將軍澳中心 (TK563)"
+    },
+    {
+        "route": "290X",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "11",
+        "stop": "26F23B1B4A5AB703",
+        "stop_name_tc": "調景嶺站 (TK974)"
+    },
+    {
+        "route": "290X",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "12",
+        "stop": "1EF9F54185151A2F",
+        "stop_name_tc": "健明邨 (TK100)"
+    },
+    {
+        "route": "290X",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "13",
+        "stop": "9D208FE6B2CFD450",
+        "stop_name_tc": "唐明街公園 (TK107)"
+    },
+    {
+        "route": "290X",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "14",
+        "stop": "45852CCBB75F4A68",
+        "stop_name_tc": "怡心園 (TK129)"
+    },
+    {
+        "route": "290X",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "15",
+        "stop": "68799FD9ECBF50B1",
+        "stop_name_tc": "翠林邨 (TK450)"
+    },
+    {
+        "route": "290X",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "16",
+        "stop": "4A84482F3A54E4CC",
+        "stop_name_tc": "康盛花園 (TK451)"
+    },
+    {
+        "route": "290X",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "17",
+        "stop": "70A7D4C9EDA6D50A",
+        "stop_name_tc": "馬游塘村 (KT457)"
+    },
+    {
+        "route": "290X",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "18",
+        "stop": "97BEC62C0E27AB8A",
+        "stop_name_tc": "仁達樓 (AN200)"
+    },
+    {
+        "route": "290X",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "19",
+        "stop": "389B25932AD10BA3",
+        "stop_name_tc": "愛達樓 (AN202)"
+    },
+    {
+        "route": "290X",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "20",
+        "stop": "E7FFA1939B4F8EB6",
+        "stop_name_tc": "安泰總站 (AN901)"
+    },
+    {
+        "route": "290X",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "21",
+        "stop": "58611212645F0AB1",
+        "stop_name_tc": "白虹樓 (WT614)"
+    },
+    {
+        "route": "290X",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "22",
+        "stop": "29B66F2353388E18",
+        "stop_name_tc": "牛池灣轉車站 - 彩虹站 (WT896)"
+    },
+    {
+        "route": "290X",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "23",
+        "stop": "58584BC1AC41723C",
+        "stop_name_tc": "牛池灣轉車站-紅萼樓 (WT704)"
+    },
+    {
+        "route": "290X",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "24",
+        "stop": "62A1C8EFAC876BDB",
+        "stop_name_tc": "黃大仙轉車站-黃大仙廟 (WT714)"
+    },
+    {
+        "route": "290X",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "25",
+        "stop": "29A62A8FE112766B",
+        "stop_name_tc": "豐力樓 (SS730)"
+    },
+    {
+        "route": "290X",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "26",
+        "stop": "9751EE79B103C9B8",
+        "stop_name_tc": "畢架山花園 (SS732)"
+    },
+    {
+        "route": "290X",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "27",
+        "stop": "246ECB0F3B94855D",
+        "stop_name_tc": "葵涌道荔景邨 (KW102)"
+    },
+    {
+        "route": "290X",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "28",
+        "stop": "D17DA49D5EFC6DD4",
+        "stop_name_tc": "葵芳廣場 (KW103)"
+    },
+    {
+        "route": "290X",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "29",
+        "stop": "ABA04608DBB7C351",
+        "stop_name_tc": "光輝圍 (KW111)"
+    },
+    {
+        "route": "290X",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "30",
+        "stop": "40A8EA2850B0979B",
+        "stop_name_tc": "葵涌健全街 (KW129)"
+    },
+    {
+        "route": "290X",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "31",
+        "stop": "B943DBEE65B0B18F",
+        "stop_name_tc": "大窩口轉車站-大窩口站 (KW131)"
+    },
+    {
+        "route": "290X",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "32",
+        "stop": "5AF593F7A11180E2",
+        "stop_name_tc": "荃灣眾安街 (TW139)"
+    },
+    {
+        "route": "290X",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "33",
+        "stop": "92A8281D80524F78",
+        "stop_name_tc": "荃灣大河道 (TW290)"
+    },
+    {
+        "route": "290X",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "34",
+        "stop": "E8A145669A392955",
+        "stop_name_tc": "荃灣西站巴士總站 (TW970)"
+    },
+    {
         "route": "291P",
         "bound": "O",
         "service_type": "1",
@@ -90421,7 +90693,7 @@
         "service_type": "1",
         "seq": "27",
         "stop": "6188A6666E298598",
-        "stop_name_tc": "長沙灣長荔街 (SS246A)"
+        "stop_name_tc": "長沙灣長荔街 (SS246a)"
     },
     {
         "route": "293S",
@@ -91925,7 +92197,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "6188A6666E298598",
-        "stop_name_tc": "長沙灣長荔街 (SS246A)"
+        "stop_name_tc": "長沙灣長荔街 (SS246a)"
     },
     {
         "route": "297",
@@ -93405,7 +93677,7 @@
         "service_type": "1",
         "seq": "30",
         "stop": "6188A6666E298598",
-        "stop_name_tc": "長沙灣長荔街 (SS246A)"
+        "stop_name_tc": "長沙灣長荔街 (SS246a)"
     },
     {
         "route": "298X",
@@ -94629,7 +94901,7 @@
         "service_type": "1",
         "seq": "29",
         "stop": "6188A6666E298598",
-        "stop_name_tc": "長沙灣長荔街 (SS246A)"
+        "stop_name_tc": "長沙灣長荔街 (SS246a)"
     },
     {
         "route": "2A",
@@ -96869,7 +97141,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "6188A6666E298598",
-        "stop_name_tc": "長沙灣長荔街 (SS246A)"
+        "stop_name_tc": "長沙灣長荔街 (SS246a)"
     },
     {
         "route": "2X",
@@ -134933,7 +135205,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "6188A6666E298598",
-        "stop_name_tc": "長沙灣長荔街 (SS246A)"
+        "stop_name_tc": "長沙灣長荔街 (SS246a)"
     },
     {
         "route": "6",
@@ -159621,7 +159893,7 @@
         "service_type": "1",
         "seq": "24",
         "stop": "6188A6666E298598",
-        "stop_name_tc": "長沙灣長荔街 (SS246A)"
+        "stop_name_tc": "長沙灣長荔街 (SS246a)"
     },
     {
         "route": "6D",
@@ -190685,7 +190957,7 @@
         "service_type": "1",
         "seq": "30",
         "stop": "6188A6666E298598",
-        "stop_name_tc": "長沙灣長荔街 (SS246A)"
+        "stop_name_tc": "長沙灣長荔街 (SS246a)"
     },
     {
         "route": "86",
@@ -201429,7 +201701,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "DEBD2B9A856C0B1F",
-        "stop_name_tc": "西隧轉車站 (B4) (YT600)"
+        "stop_name_tc": "西隧轉車站 (YT600)"
     },
     {
         "route": "900",
@@ -201605,7 +201877,7 @@
         "service_type": "2",
         "seq": "10",
         "stop": "DEBD2B9A856C0B1F",
-        "stop_name_tc": "西隧轉車站 (B4) (YT600)"
+        "stop_name_tc": "西隧轉車站 (YT600)"
     },
     {
         "route": "900",
@@ -201813,7 +202085,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "E18D73287340B634",
-        "stop_name_tc": "西隧轉車站 (A3) (YT311)"
+        "stop_name_tc": "西隧轉車站 (YT311)"
     },
     {
         "route": "900",
@@ -201957,7 +202229,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "E18D73287340B634",
-        "stop_name_tc": "西隧轉車站 (A3) (YT311)"
+        "stop_name_tc": "西隧轉車站 (YT311)"
     },
     {
         "route": "900X",
@@ -202069,7 +202341,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "7C99CFD0D8908BE7",
-        "stop_name_tc": "西隧轉車站 (B3) (YT601)"
+        "stop_name_tc": "西隧轉車站 (YT601)"
     },
     {
         "route": "904",
@@ -202165,7 +202437,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "6188A6666E298598",
-        "stop_name_tc": "長沙灣長荔街 (SS246A)"
+        "stop_name_tc": "長沙灣長荔街 (SS246a)"
     },
     {
         "route": "904",
@@ -202333,7 +202605,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "0F5CEC693FD6EB66",
-        "stop_name_tc": "西隧轉車站 (A4) (YT310)"
+        "stop_name_tc": "西隧轉車站 (YT310)"
     },
     {
         "route": "904",
@@ -202501,7 +202773,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "7C99CFD0D8908BE7",
-        "stop_name_tc": "西隧轉車站 (B3) (YT601)"
+        "stop_name_tc": "西隧轉車站 (YT601)"
     },
     {
         "route": "905",
@@ -202597,7 +202869,7 @@
         "service_type": "1",
         "seq": "27",
         "stop": "6188A6666E298598",
-        "stop_name_tc": "長沙灣長荔街 (SS246A)"
+        "stop_name_tc": "長沙灣長荔街 (SS246a)"
     },
     {
         "route": "905",
@@ -202765,7 +203037,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "0F5CEC693FD6EB66",
-        "stop_name_tc": "西隧轉車站 (A4) (YT310)"
+        "stop_name_tc": "西隧轉車站 (YT310)"
     },
     {
         "route": "905",
@@ -202989,7 +203261,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "7C99CFD0D8908BE7",
-        "stop_name_tc": "西隧轉車站 (B3) (YT601)"
+        "stop_name_tc": "西隧轉車站 (YT601)"
     },
     {
         "route": "905A",
@@ -203037,7 +203309,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "6188A6666E298598",
-        "stop_name_tc": "長沙灣長荔街 (SS246A)"
+        "stop_name_tc": "長沙灣長荔街 (SS246a)"
     },
     {
         "route": "905A",
@@ -203173,7 +203445,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "0F5CEC693FD6EB66",
-        "stop_name_tc": "西隧轉車站 (A4) (YT310)"
+        "stop_name_tc": "西隧轉車站 (YT310)"
     },
     {
         "route": "905P",
@@ -203309,7 +203581,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "7C99CFD0D8908BE7",
-        "stop_name_tc": "西隧轉車站 (B3) (YT601)"
+        "stop_name_tc": "西隧轉車站 (YT601)"
     },
     {
         "route": "907C",
@@ -203509,7 +203781,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "E18D73287340B634",
-        "stop_name_tc": "西隧轉車站 (A3) (YT311)"
+        "stop_name_tc": "西隧轉車站 (YT311)"
     },
     {
         "route": "907C",
@@ -205085,7 +205357,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "3CA62A3B1C8415D0",
-        "stop_name_tc": "西隧轉車站 (B2) (YT602)"
+        "stop_name_tc": "西隧轉車站 (YT602)"
     },
     {
         "route": "914",
@@ -205317,7 +205589,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "466111DE1A3E4656",
-        "stop_name_tc": "西隧轉車站 (A2) (YT312)"
+        "stop_name_tc": "西隧轉車站 (YT312)"
     },
     {
         "route": "914",
@@ -205469,7 +205741,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "466111DE1A3E4656",
-        "stop_name_tc": "西隧轉車站 (A2) (YT312)"
+        "stop_name_tc": "西隧轉車站 (YT312)"
     },
     {
         "route": "914P",
@@ -205661,7 +205933,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "466111DE1A3E4656",
-        "stop_name_tc": "西隧轉車站 (A2) (YT312)"
+        "stop_name_tc": "西隧轉車站 (YT312)"
     },
     {
         "route": "914X",
@@ -208469,7 +208741,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "DEBD2B9A856C0B1F",
-        "stop_name_tc": "西隧轉車站 (B4) (YT600)"
+        "stop_name_tc": "西隧轉車站 (YT600)"
     },
     {
         "route": "934",
@@ -208565,7 +208837,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "72F743E4D464E498",
-        "stop_name_tc": "西隧轉車站 (A1) (YT313)"
+        "stop_name_tc": "西隧轉車站 (YT313)"
     },
     {
         "route": "934",
@@ -208661,7 +208933,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "DEBD2B9A856C0B1F",
-        "stop_name_tc": "西隧轉車站 (B4) (YT600)"
+        "stop_name_tc": "西隧轉車站 (YT600)"
     },
     {
         "route": "934A",
@@ -208813,7 +209085,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "72F743E4D464E498",
-        "stop_name_tc": "西隧轉車站 (A1) (YT313)"
+        "stop_name_tc": "西隧轉車站 (YT313)"
     },
     {
         "route": "934A",
@@ -208909,7 +209181,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "DEBD2B9A856C0B1F",
-        "stop_name_tc": "西隧轉車站 (B4) (YT600)"
+        "stop_name_tc": "西隧轉車站 (YT600)"
     },
     {
         "route": "935",
@@ -209061,7 +209333,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "72F743E4D464E498",
-        "stop_name_tc": "西隧轉車站 (A1) (YT313)"
+        "stop_name_tc": "西隧轉車站 (YT313)"
     },
     {
         "route": "935",
@@ -209189,7 +209461,7 @@
         "service_type": "2",
         "seq": "10",
         "stop": "72F743E4D464E498",
-        "stop_name_tc": "西隧轉車站 (A1) (YT313)"
+        "stop_name_tc": "西隧轉車站 (YT313)"
     },
     {
         "route": "935",
@@ -209349,7 +209621,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "DEBD2B9A856C0B1F",
-        "stop_name_tc": "西隧轉車站 (B4) (YT600)"
+        "stop_name_tc": "西隧轉車站 (YT600)"
     },
     {
         "route": "936",
@@ -209701,7 +209973,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "466111DE1A3E4656",
-        "stop_name_tc": "西隧轉車站 (A2) (YT312)"
+        "stop_name_tc": "西隧轉車站 (YT312)"
     },
     {
         "route": "936",
@@ -209925,7 +210197,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "DEBD2B9A856C0B1F",
-        "stop_name_tc": "西隧轉車站 (B4) (YT600)"
+        "stop_name_tc": "西隧轉車站 (YT600)"
     },
     {
         "route": "936A",
@@ -210157,7 +210429,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "466111DE1A3E4656",
-        "stop_name_tc": "西隧轉車站 (A2) (YT312)"
+        "stop_name_tc": "西隧轉車站 (YT312)"
     },
     {
         "route": "936A",
@@ -212517,7 +212789,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "DEBD2B9A856C0B1F",
-        "stop_name_tc": "西隧轉車站 (B4) (YT600)"
+        "stop_name_tc": "西隧轉車站 (YT600)"
     },
     {
         "route": "948",
@@ -212781,7 +213053,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "466111DE1A3E4656",
-        "stop_name_tc": "西隧轉車站 (A2) (YT312)"
+        "stop_name_tc": "西隧轉車站 (YT312)"
     },
     {
         "route": "948",
@@ -212989,7 +213261,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "466111DE1A3E4656",
-        "stop_name_tc": "西隧轉車站 (A2) (YT312)"
+        "stop_name_tc": "西隧轉車站 (YT312)"
     },
     {
         "route": "948A",
@@ -213173,7 +213445,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "466111DE1A3E4656",
-        "stop_name_tc": "西隧轉車站 (A2) (YT312)"
+        "stop_name_tc": "西隧轉車站 (YT312)"
     },
     {
         "route": "948B",
@@ -213309,7 +213581,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "DEBD2B9A856C0B1F",
-        "stop_name_tc": "西隧轉車站 (B4) (YT600)"
+        "stop_name_tc": "西隧轉車站 (YT600)"
     },
     {
         "route": "948E",
@@ -213669,7 +213941,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "466111DE1A3E4656",
-        "stop_name_tc": "西隧轉車站 (A2) (YT312)"
+        "stop_name_tc": "西隧轉車站 (YT312)"
     },
     {
         "route": "948P",
@@ -213813,7 +214085,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "466111DE1A3E4656",
-        "stop_name_tc": "西隧轉車站 (A2) (YT312)"
+        "stop_name_tc": "西隧轉車站 (YT312)"
     },
     {
         "route": "948X",
@@ -215621,7 +215893,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "AD97EA183A25102C",
-        "stop_name_tc": "西隧轉車站 (B1) (YT603)"
+        "stop_name_tc": "西隧轉車站 (YT603)"
     },
     {
         "route": "960",
@@ -215845,7 +216117,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "72F743E4D464E498",
-        "stop_name_tc": "西隧轉車站 (A1) (YT313)"
+        "stop_name_tc": "西隧轉車站 (YT313)"
     },
     {
         "route": "960",
@@ -215933,7 +216205,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "AD97EA183A25102C",
-        "stop_name_tc": "西隧轉車站 (B1) (YT603)"
+        "stop_name_tc": "西隧轉車站 (YT603)"
     },
     {
         "route": "960A",
@@ -216189,7 +216461,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "E18D73287340B634",
-        "stop_name_tc": "西隧轉車站 (A3) (YT311)"
+        "stop_name_tc": "西隧轉車站 (YT311)"
     },
     {
         "route": "960B",
@@ -216245,7 +216517,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "AD97EA183A25102C",
-        "stop_name_tc": "西隧轉車站 (B1) (YT603)"
+        "stop_name_tc": "西隧轉車站 (YT603)"
     },
     {
         "route": "960B",
@@ -216445,7 +216717,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "AD97EA183A25102C",
-        "stop_name_tc": "西隧轉車站 (B1) (YT603)"
+        "stop_name_tc": "西隧轉車站 (YT603)"
     },
     {
         "route": "960C",
@@ -216701,7 +216973,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "72F743E4D464E498",
-        "stop_name_tc": "西隧轉車站 (A1) (YT313)"
+        "stop_name_tc": "西隧轉車站 (YT313)"
     },
     {
         "route": "960C",
@@ -216869,7 +217141,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "AD97EA183A25102C",
-        "stop_name_tc": "西隧轉車站 (B1) (YT603)"
+        "stop_name_tc": "西隧轉車站 (YT603)"
     },
     {
         "route": "960P",
@@ -217117,7 +217389,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "72F743E4D464E498",
-        "stop_name_tc": "西隧轉車站 (A1) (YT313)"
+        "stop_name_tc": "西隧轉車站 (YT313)"
     },
     {
         "route": "960P",
@@ -217549,7 +217821,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "AD97EA183A25102C",
-        "stop_name_tc": "西隧轉車站 (B1) (YT603)"
+        "stop_name_tc": "西隧轉車站 (YT603)"
     },
     {
         "route": "960S",
@@ -217757,7 +218029,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "72F743E4D464E498",
-        "stop_name_tc": "西隧轉車站 (A1) (YT313)"
+        "stop_name_tc": "西隧轉車站 (YT313)"
     },
     {
         "route": "960S",
@@ -217869,7 +218141,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "AD97EA183A25102C",
-        "stop_name_tc": "西隧轉車站 (B1) (YT603)"
+        "stop_name_tc": "西隧轉車站 (YT603)"
     },
     {
         "route": "960X",
@@ -218205,7 +218477,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "E18D73287340B634",
-        "stop_name_tc": "西隧轉車站 (A3) (YT311)"
+        "stop_name_tc": "西隧轉車站 (YT311)"
     },
     {
         "route": "960X",
@@ -218317,7 +218589,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "AD97EA183A25102C",
-        "stop_name_tc": "西隧轉車站 (B1) (YT603)"
+        "stop_name_tc": "西隧轉車站 (YT603)"
     },
     {
         "route": "961",
@@ -218525,7 +218797,7 @@
         "service_type": "3",
         "seq": "15",
         "stop": "AD97EA183A25102C",
-        "stop_name_tc": "西隧轉車站 (B1) (YT603)"
+        "stop_name_tc": "西隧轉車站 (YT603)"
     },
     {
         "route": "961",
@@ -218701,7 +218973,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "72F743E4D464E498",
-        "stop_name_tc": "西隧轉車站 (A1) (YT313)"
+        "stop_name_tc": "西隧轉車站 (YT313)"
     },
     {
         "route": "961",
@@ -218853,7 +219125,7 @@
         "service_type": "3",
         "seq": "11",
         "stop": "72F743E4D464E498",
-        "stop_name_tc": "西隧轉車站 (A1) (YT313)"
+        "stop_name_tc": "西隧轉車站 (YT313)"
     },
     {
         "route": "961",
@@ -219013,7 +219285,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "72F743E4D464E498",
-        "stop_name_tc": "西隧轉車站 (A1) (YT313)"
+        "stop_name_tc": "西隧轉車站 (YT313)"
     },
     {
         "route": "961P",
@@ -219181,7 +219453,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "466111DE1A3E4656",
-        "stop_name_tc": "西隧轉車站 (A2) (YT312)"
+        "stop_name_tc": "西隧轉車站 (YT312)"
     },
     {
         "route": "961S",
@@ -219357,7 +219629,7 @@
         "service_type": "2",
         "seq": "10",
         "stop": "466111DE1A3E4656",
-        "stop_name_tc": "西隧轉車站 (A2) (YT312)"
+        "stop_name_tc": "西隧轉車站 (YT312)"
     },
     {
         "route": "961S",
@@ -219549,7 +219821,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "AD97EA183A25102C",
-        "stop_name_tc": "西隧轉車站 (B1) (YT603)"
+        "stop_name_tc": "西隧轉車站 (YT603)"
     },
     {
         "route": "968",
@@ -219653,7 +219925,7 @@
         "service_type": "3",
         "seq": "7",
         "stop": "AD97EA183A25102C",
-        "stop_name_tc": "西隧轉車站 (B1) (YT603)"
+        "stop_name_tc": "西隧轉車站 (YT603)"
     },
     {
         "route": "968",
@@ -219765,7 +220037,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "466111DE1A3E4656",
-        "stop_name_tc": "西隧轉車站 (A2) (YT312)"
+        "stop_name_tc": "西隧轉車站 (YT312)"
     },
     {
         "route": "968",
@@ -219941,7 +220213,7 @@
         "service_type": "2",
         "seq": "10",
         "stop": "466111DE1A3E4656",
-        "stop_name_tc": "西隧轉車站 (A2) (YT312)"
+        "stop_name_tc": "西隧轉車站 (YT312)"
     },
     {
         "route": "968",
@@ -220117,7 +220389,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "466111DE1A3E4656",
-        "stop_name_tc": "西隧轉車站 (A2) (YT312)"
+        "stop_name_tc": "西隧轉車站 (YT312)"
     },
     {
         "route": "968A",
@@ -220245,7 +220517,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "AD97EA183A25102C",
-        "stop_name_tc": "西隧轉車站 (B1) (YT603)"
+        "stop_name_tc": "西隧轉車站 (YT603)"
     },
     {
         "route": "968X",
@@ -220421,7 +220693,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "E18D73287340B634",
-        "stop_name_tc": "西隧轉車站 (A3) (YT311)"
+        "stop_name_tc": "西隧轉車站 (YT311)"
     },
     {
         "route": "968X",
@@ -221733,7 +222005,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "AD97EA183A25102C",
-        "stop_name_tc": "西隧轉車站 (B1) (YT603)"
+        "stop_name_tc": "西隧轉車站 (YT603)"
     },
     {
         "route": "978",
@@ -221989,7 +222261,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "72F743E4D464E498",
-        "stop_name_tc": "西隧轉車站 (A1) (YT313)"
+        "stop_name_tc": "西隧轉車站 (YT313)"
     },
     {
         "route": "978",
@@ -222141,7 +222413,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "AD97EA183A25102C",
-        "stop_name_tc": "西隧轉車站 (B1) (YT603)"
+        "stop_name_tc": "西隧轉車站 (YT603)"
     },
     {
         "route": "978A",
@@ -222301,7 +222573,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "72F743E4D464E498",
-        "stop_name_tc": "西隧轉車站 (A1) (YT313)"
+        "stop_name_tc": "西隧轉車站 (YT313)"
     },
     {
         "route": "978A",
@@ -222469,7 +222741,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "72F743E4D464E498",
-        "stop_name_tc": "西隧轉車站 (A1) (YT313)"
+        "stop_name_tc": "西隧轉車站 (YT313)"
     },
     {
         "route": "978B",
@@ -222941,7 +223213,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "E18D73287340B634",
-        "stop_name_tc": "西隧轉車站 (A3) (YT311)"
+        "stop_name_tc": "西隧轉車站 (YT311)"
     },
     {
         "route": "980A",
@@ -223045,7 +223317,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "DEBD2B9A856C0B1F",
-        "stop_name_tc": "西隧轉車站 (B4) (YT600)"
+        "stop_name_tc": "西隧轉車站 (YT600)"
     },
     {
         "route": "980X",
@@ -223189,7 +223461,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "E18D73287340B634",
-        "stop_name_tc": "西隧轉車站 (A3) (YT311)"
+        "stop_name_tc": "西隧轉車站 (YT311)"
     },
     {
         "route": "980X",
@@ -223293,7 +223565,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "DEBD2B9A856C0B1F",
-        "stop_name_tc": "西隧轉車站 (B4) (YT600)"
+        "stop_name_tc": "西隧轉車站 (YT600)"
     },
     {
         "route": "981P",
@@ -223477,7 +223749,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "E18D73287340B634",
-        "stop_name_tc": "西隧轉車站 (A3) (YT311)"
+        "stop_name_tc": "西隧轉車站 (YT311)"
     },
     {
         "route": "981P",
@@ -223565,7 +223837,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "7C99CFD0D8908BE7",
-        "stop_name_tc": "西隧轉車站 (B3) (YT601)"
+        "stop_name_tc": "西隧轉車站 (YT601)"
     },
     {
         "route": "982X",
@@ -223709,7 +223981,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "E18D73287340B634",
-        "stop_name_tc": "西隧轉車站 (A3) (YT311)"
+        "stop_name_tc": "西隧轉車站 (YT311)"
     },
     {
         "route": "982X",
@@ -223829,7 +224101,7 @@
         "service_type": "2",
         "seq": "9",
         "stop": "E18D73287340B634",
-        "stop_name_tc": "西隧轉車站 (A3) (YT311)"
+        "stop_name_tc": "西隧轉車站 (YT311)"
     },
     {
         "route": "982X",
@@ -223917,7 +224189,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "7C99CFD0D8908BE7",
-        "stop_name_tc": "西隧轉車站 (B3) (YT601)"
+        "stop_name_tc": "西隧轉車站 (YT601)"
     },
     {
         "route": "985",
@@ -224133,7 +224405,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "E18D73287340B634",
-        "stop_name_tc": "西隧轉車站 (A3) (YT311)"
+        "stop_name_tc": "西隧轉車站 (YT311)"
     },
     {
         "route": "985",
@@ -224261,7 +224533,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "E18D73287340B634",
-        "stop_name_tc": "西隧轉車站 (A3) (YT311)"
+        "stop_name_tc": "西隧轉車站 (YT311)"
     },
     {
         "route": "985A",
@@ -224389,7 +224661,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "E18D73287340B634",
-        "stop_name_tc": "西隧轉車站 (A3) (YT311)"
+        "stop_name_tc": "西隧轉車站 (YT311)"
     },
     {
         "route": "985B",
@@ -225565,7 +225837,7 @@
         "service_type": "1",
         "seq": "31",
         "stop": "6188A6666E298598",
-        "stop_name_tc": "長沙灣長荔街 (SS246A)"
+        "stop_name_tc": "長沙灣長荔街 (SS246a)"
     },
     {
         "route": "98C",
@@ -226837,7 +227109,7 @@
         "service_type": "1",
         "seq": "24",
         "stop": "6188A6666E298598",
-        "stop_name_tc": "長沙灣長荔街 (SS246A)"
+        "stop_name_tc": "長沙灣長荔街 (SS246a)"
     },
     {
         "route": "98E",
@@ -227821,7 +228093,7 @@
         "service_type": "1",
         "seq": "27",
         "stop": "6188A6666E298598",
-        "stop_name_tc": "長沙灣長荔街 (SS246A)"
+        "stop_name_tc": "長沙灣長荔街 (SS246a)"
     },
     {
         "route": "98S",
@@ -251445,7 +251717,7 @@
         "service_type": "1",
         "seq": "38",
         "stop": "6188A6666E298598",
-        "stop_name_tc": "長沙灣長荔街 (SS246A)"
+        "stop_name_tc": "長沙灣長荔街 (SS246a)"
     },
     {
         "route": "N122",
@@ -252565,7 +252837,7 @@
         "service_type": "1",
         "seq": "27",
         "stop": "6188A6666E298598",
-        "stop_name_tc": "長沙灣長荔街 (SS246A)"
+        "stop_name_tc": "長沙灣長荔街 (SS246a)"
     },
     {
         "route": "N171",
@@ -270421,7 +270693,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "AD97EA183A25102C",
-        "stop_name_tc": "西隧轉車站 (B1) (YT603)"
+        "stop_name_tc": "西隧轉車站 (YT603)"
     },
     {
         "route": "N960",
@@ -270637,7 +270909,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "72F743E4D464E498",
-        "stop_name_tc": "西隧轉車站 (A1) (YT313)"
+        "stop_name_tc": "西隧轉車站 (YT313)"
     },
     {
         "route": "N960",
@@ -275421,7 +275693,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "AD97EA183A25102C",
-        "stop_name_tc": "西隧轉車站 (B1) (YT603)"
+        "stop_name_tc": "西隧轉車站 (YT603)"
     },
     {
         "route": "P960",
@@ -275621,7 +275893,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "72F743E4D464E498",
-        "stop_name_tc": "西隧轉車站 (A1) (YT313)"
+        "stop_name_tc": "西隧轉車站 (YT313)"
     },
     {
         "route": "P960",
@@ -275749,7 +276021,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "AD97EA183A25102C",
-        "stop_name_tc": "西隧轉車站 (B1) (YT603)"
+        "stop_name_tc": "西隧轉車站 (YT603)"
     },
     {
         "route": "P968",
@@ -275853,7 +276125,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "466111DE1A3E4656",
-        "stop_name_tc": "西隧轉車站 (A2) (YT312)"
+        "stop_name_tc": "西隧轉車站 (YT312)"
     },
     {
         "route": "P968",
@@ -275989,7 +276261,7 @@
         "service_type": "2",
         "seq": "10",
         "stop": "466111DE1A3E4656",
-        "stop_name_tc": "西隧轉車站 (A2) (YT312)"
+        "stop_name_tc": "西隧轉車站 (YT312)"
     },
     {
         "route": "P968",
@@ -280413,7 +280685,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "D32CF06A085E2501",
-        "stop_name_tc": "紅磡(紅隧轉車站) (A3) (HH506)"
+        "stop_name_tc": "紅磡(紅隧轉車站) (HH506)"
     },
     {
         "route": "SP10",
