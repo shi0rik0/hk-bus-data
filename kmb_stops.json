@@ -6648,6 +6648,14 @@
         "long": "114.138265"
     },
     {
+        "stop": "2048D5E82DD83B2E",
+        "name_en": "AUSTIN ROAD WEST (YT262)",
+        "name_tc": "柯士甸道西 (YT262)",
+        "name_sc": "柯士甸道西 (YT262)",
+        "lat": "22.302367",
+        "long": "114.160048"
+    },
+    {
         "stop": "20554F51D1E03E33",
         "name_en": "IMMIGRATION TOWER",
         "name_tc": "入境事務大樓",
@@ -16232,6 +16240,14 @@
         "long": "114.202740"
     },
     {
+        "stop": "4C69321ABBC7093F",
+        "name_en": "M+ (YT265)",
+        "name_tc": "M+ (YT265)",
+        "name_sc": "M+ (YT265)",
+        "lat": "22.301510",
+        "long": "114.158190"
+    },
+    {
         "stop": "4C78B66918ACB647",
         "name_en": "KAM HONG STREET (NR945)",
         "name_tc": "琴行街 (NR945)",
@@ -24614,6 +24630,14 @@
         "name_sc": "大埔道眺望处 (TA738)",
         "lat": "22.358729",
         "long": "114.160524"
+    },
+    {
+        "stop": "74553C232C1FF6CF",
+        "name_en": "HONG KONG PALACE MUSEUM (YT271)",
+        "name_tc": "香港故宮文化博物館 (YT271)",
+        "name_sc": "香港故宫文化博物馆 (YT271)",
+        "lat": "22.301502",
+        "long": "114.156253"
     },
     {
         "stop": "7459D3AB11AFD6B5",

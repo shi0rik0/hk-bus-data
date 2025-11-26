@@ -217480,262 +217480,6 @@
         "stop_name_tc": "維多利亞公園 (ED310)"
     },
     {
-        "route": "960R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "1",
-        "stop": "595CE3974AB6F377",
-        "stop_name_tc": "洪水橋(洪元路)總站 (YL910)"
-    },
-    {
-        "route": "960R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "2",
-        "stop": "55E3A1A6E995A9CB",
-        "stop_name_tc": "洪水橋(洪福邨)總站 (YL903)"
-    },
-    {
-        "route": "960R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "3",
-        "stop": "AC1A0FA3D0743FCC",
-        "stop_name_tc": "洪天路洪福邨 (YL580)"
-    },
-    {
-        "route": "960R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "4",
-        "stop": "8FA8E142E834CB7C",
-        "stop_name_tc": "洪水橋站 (YL270)"
-    },
-    {
-        "route": "960R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "5",
-        "stop": "92A09EC9B712A1ED",
-        "stop_name_tc": "鍾屋村站 (TM273)"
-    },
-    {
-        "route": "960R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "6",
-        "stop": "4885700825A72F51",
-        "stop_name_tc": "亦園村 (TM275)"
-    },
-    {
-        "route": "960R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "7",
-        "stop": "A1541789F09C89BA",
-        "stop_name_tc": "泥圍 (TM277)"
-    },
-    {
-        "route": "960R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "8",
-        "stop": "D073CC71A1B4F79C",
-        "stop_name_tc": "福亨村 (TM279)"
-    },
-    {
-        "route": "960R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "9",
-        "stop": "B64EEA7F564C7853",
-        "stop_name_tc": "妙法寺 (TM281)"
-    },
-    {
-        "route": "960R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "10",
-        "stop": "46D1A9FD1F84CA5C",
-        "stop_name_tc": "藍地站 (TM284)"
-    },
-    {
-        "route": "960R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "11",
-        "stop": "E01BD8E1BEC29EA6",
-        "stop_name_tc": "五柳路 (TM526)"
-    },
-    {
-        "route": "960R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "12",
-        "stop": "E16D49ECA536ECC6",
-        "stop_name_tc": "兆康路 (TM528)"
-    },
-    {
-        "route": "960R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "13",
-        "stop": "F224A907BD68406A",
-        "stop_name_tc": "兆康苑兆賢閣 (TM530)"
-    },
-    {
-        "route": "960R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "14",
-        "stop": "4F36FEF121788834",
-        "stop_name_tc": "屯門醫院 (TM531)"
-    },
-    {
-        "route": "960R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "15",
-        "stop": "ECE3F3BE270C27E2",
-        "stop_name_tc": "寶怡花園 (TM478)"
-    },
-    {
-        "route": "960R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "16",
-        "stop": "594A765BE3A43C73",
-        "stop_name_tc": "寶田轉車站 - 盈豐園 (TM580)"
-    },
-    {
-        "route": "960R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "17",
-        "stop": "507D90B4B976DBD6",
-        "stop_name_tc": "田景邨田樂樓 (TM536)"
-    },
-    {
-        "route": "960R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "18",
-        "stop": "1F6BFDF34BABCE6A",
-        "stop_name_tc": "田景邨田裕樓 (TM540)"
-    },
-    {
-        "route": "960R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "19",
-        "stop": "19B569A51034271F",
-        "stop_name_tc": "石排站 (TM584)"
-    },
-    {
-        "route": "960R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "20",
-        "stop": "1AD9C759A42F9003",
-        "stop_name_tc": "中電 (TM470)"
-    },
-    {
-        "route": "960R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "21",
-        "stop": "EB64718829DFC071",
-        "stop_name_tc": "台山小學 (TM472)"
-    },
-    {
-        "route": "960R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "22",
-        "stop": "92A8D40E66E76F6B",
-        "stop_name_tc": "大興體育館 (TM476)"
-    },
-    {
-        "route": "960R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "23",
-        "stop": "DD56DC2336C878C1",
-        "stop_name_tc": "紅橋 (TM714)"
-    },
-    {
-        "route": "960R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "24",
-        "stop": "5238463F47B490D6",
-        "stop_name_tc": "新墟街市 (TM715)"
-    },
-    {
-        "route": "960R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "25",
-        "stop": "C1BF4509359B0895",
-        "stop_name_tc": "屯門市中心總站 (TM976)"
-    },
-    {
-        "route": "960R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "26",
-        "stop": "C425164651C7EF52",
-        "stop_name_tc": "安定邨 (TM611)"
-    },
-    {
-        "route": "960R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "27",
-        "stop": "ABDD74161F650B6E",
-        "stop_name_tc": "兆麟苑 (TM616)"
-    },
-    {
-        "route": "960R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "28",
-        "stop": "123A364D76B2CE5D",
-        "stop_name_tc": "豐景園 (TM620)"
-    },
-    {
-        "route": "960R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "29",
-        "stop": "ACB5FEA2BF9FC5AD",
-        "stop_name_tc": "屯門公路轉車站 (A4) (TM755)"
-    },
-    {
-        "route": "960R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "30",
-        "stop": "06C9926B2E2B304F",
-        "stop_name_tc": "紅隧轉車站 (HH503)"
-    },
-    {
-        "route": "960R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "31",
-        "stop": "76B4054F2E1F00B0",
-        "stop_name_tc": "邊寧頓街 (WC250)"
-    },
-    {
-        "route": "960R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "32",
-        "stop": "17B98BD1165A7B92",
-        "stop_name_tc": "維多利亞公園 (ED310)"
-    },
-    {
         "route": "960S",
         "bound": "I",
         "service_type": "1",
@@ -283572,7 +283316,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "13",
-        "stop": "0CC0B21EFF42EE19",
+        "stop": "2048D5E82DD83B2E",
         "stop_name_tc": "柯士甸道西 (YT262)"
     },
     {
@@ -283580,7 +283324,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "14",
-        "stop": "B3E70C6DEFD93416",
+        "stop": "4C69321ABBC7093F",
         "stop_name_tc": "M+ (YT265)"
     },
     {
@@ -283588,7 +283332,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "15",
-        "stop": "C50C67D1BFF70DDF",
+        "stop": "74553C232C1FF6CF",
         "stop_name_tc": "香港故宮文化博物館 (YT271)"
     },
     {
