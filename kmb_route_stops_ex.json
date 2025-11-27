@@ -80764,8 +80764,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "7",
-        "stop": "A5A6FF8443523FF9",
-        "stop_name_tc": "西貢街 (YT707)"
+        "stop": "16F899DA5289900D",
+        "stop_name_tc": "欣翔道 (YT656)"
     },
     {
         "route": "280X",
@@ -276212,6 +276212,14 @@
         "bound": "O",
         "service_type": "1",
         "seq": "3",
+        "stop": "A31DD8C4FD6740D4",
+        "stop_name_tc": "青衣SPCA"
+    },
+    {
+        "route": "PB2A",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "4",
         "stop": "045FB4EAE4FE52D6",
         "stop_name_tc": "南昌站 (V WALK)"
     },
@@ -276219,7 +276227,7 @@
         "route": "PB2A",
         "bound": "O",
         "service_type": "1",
-        "seq": "4",
+        "seq": "5",
         "stop": "0524415976F284A4",
         "stop_name_tc": "柯士甸道西"
     },
@@ -276227,7 +276235,7 @@
         "route": "PB2A",
         "bound": "O",
         "service_type": "1",
-        "seq": "5",
+        "seq": "6",
         "stop": "F050648C108571ED",
         "stop_name_tc": "香港故宮文化博物館"
     },
@@ -276235,7 +276243,7 @@
         "route": "PB2A",
         "bound": "O",
         "service_type": "1",
-        "seq": "6",
+        "seq": "7",
         "stop": "0524415976F284A4",
         "stop_name_tc": "柯士甸道西"
     },
@@ -276243,7 +276251,7 @@
         "route": "PB2A",
         "bound": "O",
         "service_type": "1",
-        "seq": "7",
+        "seq": "8",
         "stop": "045FB4EAE4FE52D6",
         "stop_name_tc": "南昌站 (V WALK)"
     },
@@ -276251,7 +276259,15 @@
         "route": "PB2A",
         "bound": "O",
         "service_type": "1",
-        "seq": "8",
+        "seq": "9",
+        "stop": "A31DD8C4FD6740D4",
+        "stop_name_tc": "青衣SPCA"
+    },
+    {
+        "route": "PB2A",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "10",
         "stop": "96E1024FD71C979F",
         "stop_name_tc": "荃灣南豐紗廠"
     },
@@ -276259,7 +276275,7 @@
         "route": "PB2A",
         "bound": "O",
         "service_type": "1",
-        "seq": "9",
+        "seq": "11",
         "stop": "F493236404A4FABF",
         "stop_name_tc": "元朗 形點"
     },
@@ -276292,6 +276308,14 @@
         "bound": "O",
         "service_type": "1",
         "seq": "4",
+        "stop": "A31DD8C4FD6740D4",
+        "stop_name_tc": "青衣SPCA"
+    },
+    {
+        "route": "PB2B",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "5",
         "stop": "658F28C339443C17",
         "stop_name_tc": "奧運(海泓道)"
     },
@@ -276299,7 +276323,7 @@
         "route": "PB2B",
         "bound": "O",
         "service_type": "1",
-        "seq": "5",
+        "seq": "6",
         "stop": "0524415976F284A4",
         "stop_name_tc": "柯士甸道西"
     },
@@ -276307,7 +276331,7 @@
         "route": "PB2B",
         "bound": "O",
         "service_type": "1",
-        "seq": "6",
+        "seq": "7",
         "stop": "F050648C108571ED",
         "stop_name_tc": "香港故宮文化博物館"
     },
@@ -276315,7 +276339,7 @@
         "route": "PB2B",
         "bound": "O",
         "service_type": "1",
-        "seq": "7",
+        "seq": "8",
         "stop": "0524415976F284A4",
         "stop_name_tc": "柯士甸道西"
     },
@@ -276323,7 +276347,7 @@
         "route": "PB2B",
         "bound": "O",
         "service_type": "1",
-        "seq": "8",
+        "seq": "9",
         "stop": "658F28C339443C17",
         "stop_name_tc": "奧運(海泓道)"
     },
@@ -276331,7 +276355,15 @@
         "route": "PB2B",
         "bound": "O",
         "service_type": "1",
-        "seq": "9",
+        "seq": "10",
+        "stop": "A31DD8C4FD6740D4",
+        "stop_name_tc": "青衣SPCA"
+    },
+    {
+        "route": "PB2B",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "11",
         "stop": "DBC89D4632BE523C",
         "stop_name_tc": "深井(麗都花園)"
     },
@@ -276339,7 +276371,7 @@
         "route": "PB2B",
         "bound": "O",
         "service_type": "1",
-        "seq": "10",
+        "seq": "12",
         "stop": "CC43907C8D4CED33",
         "stop_name_tc": "香港黃金海岸"
     },
@@ -276347,7 +276379,7 @@
         "route": "PB2B",
         "bound": "O",
         "service_type": "1",
-        "seq": "11",
+        "seq": "13",
         "stop": "0678C85600B1A019",
         "stop_name_tc": "屯門站(V City)"
     },
