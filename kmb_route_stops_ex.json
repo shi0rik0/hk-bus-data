@@ -276812,6 +276812,14 @@
         "bound": "O",
         "service_type": "1",
         "seq": "5",
+        "stop": "A31DD8C4FD6740D4",
+        "stop_name_tc": "青衣SPCA"
+    },
+    {
+        "route": "PBS2",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "6",
         "stop": "9774D8AAAD859409",
         "stop_name_tc": "馬灣(珀欣路)"
     },
@@ -276819,7 +276827,15 @@
         "route": "PBS2",
         "bound": "O",
         "service_type": "1",
-        "seq": "6",
+        "seq": "7",
+        "stop": "A31DD8C4FD6740D4",
+        "stop_name_tc": "青衣SPCA"
+    },
+    {
+        "route": "PBS2",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "8",
         "stop": "A8DC6F85E7043234",
         "stop_name_tc": "青衣站"
     },
@@ -276827,7 +276843,7 @@
         "route": "PBS2",
         "bound": "O",
         "service_type": "1",
-        "seq": "7",
+        "seq": "9",
         "stop": "4B63964A12D91E2A",
         "stop_name_tc": "葵芳興寧路"
     },
@@ -276835,7 +276851,7 @@
         "route": "PBS2",
         "bound": "O",
         "service_type": "1",
-        "seq": "8",
+        "seq": "10",
         "stop": "96E1024FD71C979F",
         "stop_name_tc": "荃灣南豐紗廠"
     },
@@ -276843,7 +276859,7 @@
         "route": "PBS2",
         "bound": "O",
         "service_type": "1",
-        "seq": "9",
+        "seq": "11",
         "stop": "5C6754BD37D3F4D0",
         "stop_name_tc": "東涌站巴士總站"
     },

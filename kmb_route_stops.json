@@ -242211,34 +242211,48 @@
         "bound": "O",
         "service_type": "1",
         "seq": "5",
-        "stop": "9774D8AAAD859409"
+        "stop": "A31DD8C4FD6740D4"
     },
     {
         "route": "PBS2",
         "bound": "O",
         "service_type": "1",
         "seq": "6",
-        "stop": "A8DC6F85E7043234"
+        "stop": "9774D8AAAD859409"
     },
     {
         "route": "PBS2",
         "bound": "O",
         "service_type": "1",
         "seq": "7",
-        "stop": "4B63964A12D91E2A"
+        "stop": "A31DD8C4FD6740D4"
     },
     {
         "route": "PBS2",
         "bound": "O",
         "service_type": "1",
         "seq": "8",
-        "stop": "96E1024FD71C979F"
+        "stop": "A8DC6F85E7043234"
     },
     {
         "route": "PBS2",
         "bound": "O",
         "service_type": "1",
         "seq": "9",
+        "stop": "4B63964A12D91E2A"
+    },
+    {
+        "route": "PBS2",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "10",
+        "stop": "96E1024FD71C979F"
+    },
+    {
+        "route": "PBS2",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "11",
         "stop": "5C6754BD37D3F4D0"
     },
     {
