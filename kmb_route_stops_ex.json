@@ -50072,22 +50072,6 @@
         "stop_name_tc": "觀塘碼頭 (KT931)"
     },
     {
-        "route": "25R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "1",
-        "stop": "5F1C669F444A0556",
-        "stop_name_tc": "啟德郵輪碼頭 (KA900)"
-    },
-    {
-        "route": "25R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "2",
-        "stop": "1E3A342DF7D5B8B5",
-        "stop_name_tc": "apm創紀之城5期 (KT626)"
-    },
-    {
         "route": "26",
         "bound": "I",
         "service_type": "1",
@@ -84372,6 +84356,14 @@
         "bound": "O",
         "service_type": "1",
         "seq": "12",
+        "stop": "81D05719EDB6070E",
+        "stop_name_tc": null
+    },
+    {
+        "route": "287",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "13",
         "stop": "79B88295548184C1",
         "stop_name_tc": "田寮 (SK218)"
     },
@@ -84379,7 +84371,7 @@
         "route": "287",
         "bound": "O",
         "service_type": "1",
-        "seq": "13",
+        "seq": "14",
         "stop": "9CEC1F1000AFE806",
         "stop_name_tc": "輋下 (SK219)"
     },
@@ -84387,7 +84379,7 @@
         "route": "287",
         "bound": "O",
         "service_type": "1",
-        "seq": "14",
+        "seq": "15",
         "stop": "5D86C919F15C0611",
         "stop_name_tc": "西澳 (SK220)"
     },
@@ -84395,7 +84387,7 @@
         "route": "287",
         "bound": "O",
         "service_type": "1",
-        "seq": "15",
+        "seq": "16",
         "stop": "F63D25B428F1C1D9",
         "stop_name_tc": "樟木頭帝琴灣 (SK221)"
     },
@@ -84403,7 +84395,7 @@
         "route": "287",
         "bound": "O",
         "service_type": "1",
-        "seq": "16",
+        "seq": "17",
         "stop": "8337F935242C5CC3",
         "stop_name_tc": "利安邨 (MA300)"
     },
@@ -84411,7 +84403,7 @@
         "route": "287",
         "bound": "O",
         "service_type": "1",
-        "seq": "17",
+        "seq": "18",
         "stop": "0D4E07F475845DB3",
         "stop_name_tc": "錦龍苑 (MA332)"
     },
@@ -84419,7 +84411,7 @@
         "route": "287",
         "bound": "O",
         "service_type": "1",
-        "seq": "18",
+        "seq": "19",
         "stop": "B071B60F5566934B",
         "stop_name_tc": "錦英苑 (MA336)"
     },
@@ -84427,7 +84419,7 @@
         "route": "287",
         "bound": "O",
         "service_type": "1",
-        "seq": "19",
+        "seq": "20",
         "stop": "E2602DD1C8EA1AC8",
         "stop_name_tc": "雅景台 (MA183)"
     },
@@ -84435,17 +84427,9 @@
         "route": "287",
         "bound": "O",
         "service_type": "1",
-        "seq": "20",
+        "seq": "21",
         "stop": "664BAA2EA12B80B1",
         "stop_name_tc": "錦駿苑 (MA186)"
-    },
-    {
-        "route": "287",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "21",
-        "stop": "3E10F323161F4ADB",
-        "stop_name_tc": "大學站 (ST901)"
     },
     {
         "route": "287D",
@@ -276212,14 +276196,6 @@
         "bound": "O",
         "service_type": "1",
         "seq": "3",
-        "stop": "A31DD8C4FD6740D4",
-        "stop_name_tc": "青衣SPCA"
-    },
-    {
-        "route": "PB2A",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "4",
         "stop": "045FB4EAE4FE52D6",
         "stop_name_tc": "南昌站 (V WALK)"
     },
@@ -276227,7 +276203,7 @@
         "route": "PB2A",
         "bound": "O",
         "service_type": "1",
-        "seq": "5",
+        "seq": "4",
         "stop": "0524415976F284A4",
         "stop_name_tc": "柯士甸道西"
     },
@@ -276235,7 +276211,7 @@
         "route": "PB2A",
         "bound": "O",
         "service_type": "1",
-        "seq": "6",
+        "seq": "5",
         "stop": "F050648C108571ED",
         "stop_name_tc": "香港故宮文化博物館"
     },
@@ -276243,7 +276219,7 @@
         "route": "PB2A",
         "bound": "O",
         "service_type": "1",
-        "seq": "7",
+        "seq": "6",
         "stop": "0524415976F284A4",
         "stop_name_tc": "柯士甸道西"
     },
@@ -276251,7 +276227,7 @@
         "route": "PB2A",
         "bound": "O",
         "service_type": "1",
-        "seq": "8",
+        "seq": "7",
         "stop": "045FB4EAE4FE52D6",
         "stop_name_tc": "南昌站 (V WALK)"
     },
@@ -276259,15 +276235,7 @@
         "route": "PB2A",
         "bound": "O",
         "service_type": "1",
-        "seq": "9",
-        "stop": "A31DD8C4FD6740D4",
-        "stop_name_tc": "青衣SPCA"
-    },
-    {
-        "route": "PB2A",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "10",
+        "seq": "8",
         "stop": "96E1024FD71C979F",
         "stop_name_tc": "荃灣南豐紗廠"
     },
@@ -276275,7 +276243,7 @@
         "route": "PB2A",
         "bound": "O",
         "service_type": "1",
-        "seq": "11",
+        "seq": "9",
         "stop": "F493236404A4FABF",
         "stop_name_tc": "元朗 形點"
     },
@@ -276308,14 +276276,6 @@
         "bound": "O",
         "service_type": "1",
         "seq": "4",
-        "stop": "A31DD8C4FD6740D4",
-        "stop_name_tc": "青衣SPCA"
-    },
-    {
-        "route": "PB2B",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "5",
         "stop": "658F28C339443C17",
         "stop_name_tc": "奧運(海泓道)"
     },
@@ -276323,7 +276283,7 @@
         "route": "PB2B",
         "bound": "O",
         "service_type": "1",
-        "seq": "6",
+        "seq": "5",
         "stop": "0524415976F284A4",
         "stop_name_tc": "柯士甸道西"
     },
@@ -276331,7 +276291,7 @@
         "route": "PB2B",
         "bound": "O",
         "service_type": "1",
-        "seq": "7",
+        "seq": "6",
         "stop": "F050648C108571ED",
         "stop_name_tc": "香港故宮文化博物館"
     },
@@ -276339,7 +276299,7 @@
         "route": "PB2B",
         "bound": "O",
         "service_type": "1",
-        "seq": "8",
+        "seq": "7",
         "stop": "0524415976F284A4",
         "stop_name_tc": "柯士甸道西"
     },
@@ -276347,7 +276307,7 @@
         "route": "PB2B",
         "bound": "O",
         "service_type": "1",
-        "seq": "9",
+        "seq": "8",
         "stop": "658F28C339443C17",
         "stop_name_tc": "奧運(海泓道)"
     },
@@ -276355,15 +276315,7 @@
         "route": "PB2B",
         "bound": "O",
         "service_type": "1",
-        "seq": "10",
-        "stop": "A31DD8C4FD6740D4",
-        "stop_name_tc": "青衣SPCA"
-    },
-    {
-        "route": "PB2B",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "11",
+        "seq": "9",
         "stop": "DBC89D4632BE523C",
         "stop_name_tc": "深井(麗都花園)"
     },
@@ -276371,7 +276323,7 @@
         "route": "PB2B",
         "bound": "O",
         "service_type": "1",
-        "seq": "12",
+        "seq": "10",
         "stop": "CC43907C8D4CED33",
         "stop_name_tc": "香港黃金海岸"
     },
@@ -276379,7 +276331,7 @@
         "route": "PB2B",
         "bound": "O",
         "service_type": "1",
-        "seq": "13",
+        "seq": "11",
         "stop": "0678C85600B1A019",
         "stop_name_tc": "屯門站(V City)"
     },
