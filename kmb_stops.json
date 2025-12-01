@@ -19617,9 +19617,9 @@
     },
     {
         "stop": "5CA7841E84D52C8A",
-        "name_en": "MONGKOK MARKET COMPLEX (MK627)",
-        "name_tc": "旺角街市 (MK627)",
-        "name_sc": "旺角街市 (MK627)",
+        "name_en": "MONGKOK MARKET COMPLEX, YAU TSIM MONG DHC (MK627)",
+        "name_tc": "旺角街市, 地區康健中心 (MK627)",
+        "name_sc": "旺角街市, 地区康健中心 (MK627)",
         "lat": "22.318768",
         "long": "114.166977"
     },
@@ -19934,6 +19934,14 @@
         "name_sc": "竹园 (YL553)",
         "lat": "22.475920",
         "long": "114.057187"
+    },
+    {
+        "stop": "5DD1FFB79F17FC22",
+        "name_en": "AUSTIN STATION (YT647)",
+        "name_tc": "柯士甸站 (YT647)",
+        "name_sc": "柯士甸站 (YT647)",
+        "lat": "22.303707",
+        "long": "114.167718"
     },
     {
         "stop": "5DE502617F887673",
@@ -23568,6 +23576,14 @@
         "long": "114.205479"
     },
     {
+        "stop": "6F03615DDC0F7502",
+        "name_en": "CHE HA (SK218a)",
+        "name_tc": "輋下 (SK218a)",
+        "name_sc": "輋下 (SK218a)",
+        "lat": "22.427976",
+        "long": "114.261308"
+    },
+    {
         "stop": "6F03E19C5E800893",
         "name_en": "A KUNG KOK (MA105)",
         "name_tc": "亞公角 (MA105)",
@@ -24702,6 +24718,14 @@
         "name_sc": "协同中学 (SS142)",
         "lat": "22.330661",
         "long": "114.171935"
+    },
+    {
+        "stop": "74775F172FABD878",
+        "name_en": "Sai Sha Residences Transport Interchange (SK981)",
+        "name_tc": "西沙灣交通交匯處 (SK981)",
+        "name_sc": "西沙湾交通交汇处 (SK981)",
+        "lat": "22.426392",
+        "long": "114.267035"
     },
     {
         "stop": "7483C9963686E2F2",
@@ -25873,9 +25897,9 @@
     },
     {
         "stop": "7ADC6D521E6BECE6",
-        "name_en": "MONGKOK MARKET COMPLEX (MK626)",
-        "name_tc": "旺角街市 (MK626)",
-        "name_sc": "旺角街市 (MK626)",
+        "name_en": "MONGKOK MARKET COMPLEX, YAU TSIM MONG DHC (MK626)",
+        "name_tc": "旺角街市, 地區康健中心 (MK626)",
+        "name_sc": "旺角街市, 地区康健中心 (MK626)",
         "lat": "22.318792",
         "long": "114.167024"
     },
@@ -26414,6 +26438,14 @@
         "name_sc": "马鞍山市中心 (MA307)",
         "lat": "22.424602",
         "long": "114.231779"
+    },
+    {
+        "stop": "7E289B9FFDF77CAE",
+        "name_en": "TIN LIU (SK217a)",
+        "name_tc": "田寮 (SK217a)",
+        "name_sc": "田寮 (SK217a)",
+        "lat": "22.425600",
+        "long": "114.262500"
     },
     {
         "stop": "7E2E1F1269E520DE",
@@ -27270,6 +27302,14 @@
         "name_sc": "愉景新城 (TW381)",
         "lat": "22.375033",
         "long": "114.112864"
+    },
+    {
+        "stop": "81D05719EDB6070E",
+        "name_en": "Sai Sha Residences Transport Interchange (SK982)",
+        "name_tc": "西沙灣交通交匯處 (SK982)",
+        "name_sc": "西沙湾交通交汇处 (SK982)",
+        "lat": "22.426392",
+        "long": "114.267035"
     },
     {
         "stop": "81E82A4D2A0D9BD3",
@@ -28528,6 +28568,14 @@
         "long": "114.140507"
     },
     {
+        "stop": "87FEBC2B4436FC44",
+        "name_en": "CHINA HONG KONG CITY, XIQU CENTRE (YT645)",
+        "name_tc": "中港城 戲曲中心 (YT645)",
+        "name_sc": "中港城 戏曲中心 (YT645)",
+        "lat": "22.300341",
+        "long": "114.168095"
+    },
+    {
         "stop": "880BE8598CB0CCE7",
         "name_en": "HENG ON ESTATE (MA122)",
         "name_tc": "恆安邨 (MA122)",
@@ -29382,6 +29430,14 @@
         "name_sc": "戴麟趾夫人诊所 (TW264)",
         "lat": "22.370328",
         "long": "114.115334"
+    },
+    {
+        "stop": "8CDF75A5EEE3CB2E",
+        "name_en": "PEKING ROAD, CANTON ROAD (YT207)",
+        "name_tc": "廣東道,北京道 (YT207)",
+        "name_sc": "广东道,北京道 (YT207)",
+        "lat": "22.295621",
+        "long": "114.169362"
     },
     {
         "stop": "8CE4B83B45F22F1F",
@@ -33992,6 +34048,14 @@
         "long": "114.107429"
     },
     {
+        "stop": "A39754C80FFB1590",
+        "name_en": "SYMPHONY BAY, CHEUNG MUK TAU (SK220a)",
+        "name_tc": "樟木頭帝琴灣 (SK220a)",
+        "name_sc": "樟木头帝琴湾 (SK220a)",
+        "lat": "22.430095",
+        "long": "114.251168"
+    },
+    {
         "stop": "A3A7B2B94458A263",
         "name_en": "LAM TSUEN RIVER SIDE (TP391)",
         "name_tc": "林村河畔　 (TP391)",
@@ -38126,6 +38190,14 @@
         "name_sc": "火炭骏洋邨 (FT934)",
         "lat": "22.399154",
         "long": "114.190288"
+    },
+    {
+        "stop": "B74273D52D064437",
+        "name_en": "KOWLOON PARK DRIVE (YT640)",
+        "name_tc": "九龍公園徑 (YT640)",
+        "name_sc": "九龙公园径 (YT640)",
+        "lat": "22.295997",
+        "long": "114.170136"
     },
     {
         "stop": "B75CD6E70417E21B",
@@ -45160,6 +45232,14 @@
         "long": "114.209575"
     },
     {
+        "stop": "D987075FC237CE75",
+        "name_en": "EAST TSIM SHA TSUI STATION, K11  MUSEA (YT215)",
+        "name_tc": "尖東站 K11 MUSEA (YT215)",
+        "name_sc": "尖东站 K11 MUSEA (YT215)",
+        "lat": "22.295226",
+        "long": "114.174647"
+    },
+    {
         "stop": "D9896F1A5B7C97C0",
         "name_en": "SHUN LEE FIRE STATION (KT183)",
         "name_tc": "順利消防局 (KT183)",
@@ -45638,6 +45718,14 @@
         "name_sc": "真铎学校 (WT500)",
         "lat": "22.339786",
         "long": "114.207218"
+    },
+    {
+        "stop": "DB78ADF2386771E5",
+        "name_en": "SAI O (SK219a)",
+        "name_tc": "西澳 (SK219a)",
+        "name_sc": "西澳 (SK219a)",
+        "lat": "22.430732",
+        "long": "114.254147"
     },
     {
         "stop": "DB87B8A5A56F8336",

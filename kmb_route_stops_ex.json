@@ -18517,7 +18517,7 @@
         "service_type": "1",
         "seq": "28",
         "stop": "5CA7841E84D52C8A",
-        "stop_name_tc": "旺角街市 (MK627)"
+        "stop_name_tc": "旺角街市, 地區康健中心 (MK627)"
     },
     {
         "route": "13",
@@ -19085,7 +19085,7 @@
         "service_type": "1",
         "seq": "28",
         "stop": "5CA7841E84D52C8A",
-        "stop_name_tc": "旺角街市 (MK627)"
+        "stop_name_tc": "旺角街市, 地區康健中心 (MK627)"
     },
     {
         "route": "13D",
@@ -19333,7 +19333,7 @@
         "service_type": "2",
         "seq": "28",
         "stop": "5CA7841E84D52C8A",
-        "stop_name_tc": "旺角街市 (MK627)"
+        "stop_name_tc": "旺角街市, 地區康健中心 (MK627)"
     },
     {
         "route": "13D",
@@ -24741,7 +24741,7 @@
         "service_type": "1",
         "seq": "25",
         "stop": "5CA7841E84D52C8A",
-        "stop_name_tc": "旺角街市 (MK627)"
+        "stop_name_tc": "旺角街市, 地區康健中心 (MK627)"
     },
     {
         "route": "16",
@@ -24957,7 +24957,7 @@
         "service_type": "2",
         "seq": "23",
         "stop": "5CA7841E84D52C8A",
-        "stop_name_tc": "旺角街市 (MK627)"
+        "stop_name_tc": "旺角街市, 地區康健中心 (MK627)"
     },
     {
         "route": "16",
@@ -25421,7 +25421,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "5CA7841E84D52C8A",
-        "stop_name_tc": "旺角街市 (MK627)"
+        "stop_name_tc": "旺角街市, 地區康健中心 (MK627)"
     },
     {
         "route": "16P",
@@ -25709,7 +25709,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "5CA7841E84D52C8A",
-        "stop_name_tc": "旺角街市 (MK627)"
+        "stop_name_tc": "旺角街市, 地區康健中心 (MK627)"
     },
     {
         "route": "16X",
@@ -29405,7 +29405,7 @@
         "service_type": "1",
         "seq": "30",
         "stop": "5CA7841E84D52C8A",
-        "stop_name_tc": "旺角街市 (MK627)"
+        "stop_name_tc": "旺角街市, 地區康健中心 (MK627)"
     },
     {
         "route": "18",
@@ -37908,6 +37908,54 @@
         "bound": "I",
         "service_type": "1",
         "seq": "4",
+        "stop": "5F60283656DF3016",
+        "stop_name_tc": "廣東道,新港中心 (YT205)"
+    },
+    {
+        "route": "230R",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "5",
+        "stop": "8CDF75A5EEE3CB2E",
+        "stop_name_tc": "廣東道,北京道 (YT207)"
+    },
+    {
+        "route": "230R",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "6",
+        "stop": "D987075FC237CE75",
+        "stop_name_tc": "尖東站 K11 MUSEA (YT215)"
+    },
+    {
+        "route": "230R",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "7",
+        "stop": "B74273D52D064437",
+        "stop_name_tc": "九龍公園徑 (YT640)"
+    },
+    {
+        "route": "230R",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "8",
+        "stop": "87FEBC2B4436FC44",
+        "stop_name_tc": "中港城 戲曲中心 (YT645)"
+    },
+    {
+        "route": "230R",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "9",
+        "stop": "5DD1FFB79F17FC22",
+        "stop_name_tc": "柯士甸站 (YT647)"
+    },
+    {
+        "route": "230R",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "10",
         "stop": "68A0FA3CC69206CC",
         "stop_name_tc": "九龍站巴士總站 (YT946)"
     },
@@ -37932,6 +37980,54 @@
         "bound": "O",
         "service_type": "1",
         "seq": "3",
+        "stop": "B7A8F179CD71B22E",
+        "stop_name_tc": "廣東道,新港中心 (YT206)"
+    },
+    {
+        "route": "230R",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "4",
+        "stop": "F57E1173086C7A51",
+        "stop_name_tc": "廣東道,北京道 (YT207)"
+    },
+    {
+        "route": "230R",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "5",
+        "stop": "576538E1395C8508",
+        "stop_name_tc": "尖東站 K11 MUSEA (YT215)"
+    },
+    {
+        "route": "230R",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "6",
+        "stop": "E3A083E4F64D93CD",
+        "stop_name_tc": "九龍公園徑 (YT640)"
+    },
+    {
+        "route": "230R",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "7",
+        "stop": "2EEB9CB69FB6A58D",
+        "stop_name_tc": "中港城 戲曲中心 (YT645)"
+    },
+    {
+        "route": "230R",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "8",
+        "stop": "450A96AF1DA8E41C",
+        "stop_name_tc": "柯士甸站 (YT647)"
+    },
+    {
+        "route": "230R",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "9",
         "stop": "83B921ED81BE55A9",
         "stop_name_tc": "富昌邨 (SS663)"
     },
@@ -37939,7 +38035,7 @@
         "route": "230R",
         "bound": "O",
         "service_type": "1",
-        "seq": "4",
+        "seq": "10",
         "stop": "E37FAF099C26C878",
         "stop_name_tc": "馬灣(珀欣路) (TW620)"
     },
@@ -42877,7 +42973,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "5CA7841E84D52C8A",
-        "stop_name_tc": "旺角街市 (MK627)"
+        "stop_name_tc": "旺角街市, 地區康健中心 (MK627)"
     },
     {
         "route": "241X",
@@ -43341,7 +43437,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "5CA7841E84D52C8A",
-        "stop_name_tc": "旺角街市 (MK627)"
+        "stop_name_tc": "旺角街市, 地區康健中心 (MK627)"
     },
     {
         "route": "242X",
@@ -55061,7 +55157,7 @@
         "service_type": "1",
         "seq": "23",
         "stop": "5CA7841E84D52C8A",
-        "stop_name_tc": "旺角街市 (MK627)"
+        "stop_name_tc": "旺角街市, 地區康健中心 (MK627)"
     },
     {
         "route": "265B",
@@ -59365,7 +59461,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "7ADC6D521E6BECE6",
-        "stop_name_tc": "旺角街市 (MK626)"
+        "stop_name_tc": "旺角街市, 地區康健中心 (MK626)"
     },
     {
         "route": "268X",
@@ -63213,7 +63309,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "7ADC6D521E6BECE6",
-        "stop_name_tc": "旺角街市 (MK626)"
+        "stop_name_tc": "旺角街市, 地區康健中心 (MK626)"
     },
     {
         "route": "269X",
@@ -65581,7 +65677,7 @@
         "service_type": "1",
         "seq": "27",
         "stop": "5CA7841E84D52C8A",
-        "stop_name_tc": "旺角街市 (MK627)"
+        "stop_name_tc": "旺角街市, 地區康健中心 (MK627)"
     },
     {
         "route": "270B",
@@ -65805,7 +65901,7 @@
         "service_type": "2",
         "seq": "26",
         "stop": "5CA7841E84D52C8A",
-        "stop_name_tc": "旺角街市 (MK627)"
+        "stop_name_tc": "旺角街市, 地區康健中心 (MK627)"
     },
     {
         "route": "270B",
@@ -66533,7 +66629,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "5CA7841E84D52C8A",
-        "stop_name_tc": "旺角街市 (MK627)"
+        "stop_name_tc": "旺角街市, 地區康健中心 (MK627)"
     },
     {
         "route": "270E",
@@ -70221,7 +70317,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "7ADC6D521E6BECE6",
-        "stop_name_tc": "旺角街市 (MK626)"
+        "stop_name_tc": "旺角街市, 地區康健中心 (MK626)"
     },
     {
         "route": "272E",
@@ -71341,7 +71437,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "7ADC6D521E6BECE6",
-        "stop_name_tc": "旺角街市 (MK626)"
+        "stop_name_tc": "旺角街市, 地區康健中心 (MK626)"
     },
     {
         "route": "272X",
@@ -80373,7 +80469,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "5CA7841E84D52C8A",
-        "stop_name_tc": "旺角街市 (MK627)"
+        "stop_name_tc": "旺角街市, 地區康健中心 (MK627)"
     },
     {
         "route": "27X",
@@ -81813,7 +81909,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "7ADC6D521E6BECE6",
-        "stop_name_tc": "旺角街市 (MK626)"
+        "stop_name_tc": "旺角街市, 地區康健中心 (MK626)"
     },
     {
         "route": "281E",
@@ -84357,7 +84453,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "81D05719EDB6070E",
-        "stop_name_tc": null
+        "stop_name_tc": "西沙灣交通交匯處 (SK982)"
     },
     {
         "route": "287",
@@ -84430,6 +84526,14 @@
         "seq": "21",
         "stop": "664BAA2EA12B80B1",
         "stop_name_tc": "錦駿苑 (MA186)"
+    },
+    {
+        "route": "287",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "22",
+        "stop": "3E10F323161F4ADB",
+        "stop_name_tc": "大學站 (ST901)"
     },
     {
         "route": "287D",
@@ -84525,7 +84629,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "7ADC6D521E6BECE6",
-        "stop_name_tc": "旺角街市 (MK626)"
+        "stop_name_tc": "旺角街市, 地區康健中心 (MK626)"
     },
     {
         "route": "287D",
@@ -84933,7 +85037,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "7ADC6D521E6BECE6",
-        "stop_name_tc": "旺角街市 (MK626)"
+        "stop_name_tc": "旺角街市, 地區康健中心 (MK626)"
     },
     {
         "route": "287X",
@@ -101125,7 +101229,7 @@
         "service_type": "1",
         "seq": "25",
         "stop": "5CA7841E84D52C8A",
-        "stop_name_tc": "旺角街市 (MK627)"
+        "stop_name_tc": "旺角街市, 地區康健中心 (MK627)"
     },
     {
         "route": "32",
@@ -102901,7 +103005,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "5CA7841E84D52C8A",
-        "stop_name_tc": "旺角街市 (MK627)"
+        "stop_name_tc": "旺角街市, 地區康健中心 (MK627)"
     },
     {
         "route": "33A",
@@ -106989,7 +107093,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "5CA7841E84D52C8A",
-        "stop_name_tc": "旺角街市 (MK627)"
+        "stop_name_tc": "旺角街市, 地區康健中心 (MK627)"
     },
     {
         "route": "37",
@@ -115661,7 +115765,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "5CA7841E84D52C8A",
-        "stop_name_tc": "旺角街市 (MK627)"
+        "stop_name_tc": "旺角街市, 地區康健中心 (MK627)"
     },
     {
         "route": "41A",
@@ -119037,7 +119141,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "5CA7841E84D52C8A",
-        "stop_name_tc": "旺角街市 (MK627)"
+        "stop_name_tc": "旺角街市, 地區康健中心 (MK627)"
     },
     {
         "route": "43C",
@@ -127853,7 +127957,7 @@
         "service_type": "1",
         "seq": "32",
         "stop": "7ADC6D521E6BECE6",
-        "stop_name_tc": "旺角街市 (MK626)"
+        "stop_name_tc": "旺角街市, 地區康健中心 (MK626)"
     },
     {
         "route": "52P",
@@ -128533,7 +128637,7 @@
         "service_type": "1",
         "seq": "38",
         "stop": "7ADC6D521E6BECE6",
-        "stop_name_tc": "旺角街市 (MK626)"
+        "stop_name_tc": "旺角街市, 地區康健中心 (MK626)"
     },
     {
         "route": "52X",
@@ -145341,7 +145445,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "7ADC6D521E6BECE6",
-        "stop_name_tc": "旺角街市 (MK626)"
+        "stop_name_tc": "旺角街市, 地區康健中心 (MK626)"
     },
     {
         "route": "63X",
@@ -148469,7 +148573,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "7ADC6D521E6BECE6",
-        "stop_name_tc": "旺角街市 (MK626)"
+        "stop_name_tc": "旺角街市, 地區康健中心 (MK626)"
     },
     {
         "route": "66X",
@@ -155701,7 +155805,7 @@
         "service_type": "1",
         "seq": "28",
         "stop": "7ADC6D521E6BECE6",
-        "stop_name_tc": "旺角街市 (MK626)"
+        "stop_name_tc": "旺角街市, 地區康健中心 (MK626)"
     },
     {
         "route": "68X",
@@ -155877,7 +155981,7 @@
         "service_type": "3",
         "seq": "19",
         "stop": "7ADC6D521E6BECE6",
-        "stop_name_tc": "旺角街市 (MK626)"
+        "stop_name_tc": "旺角街市, 地區康健中心 (MK626)"
     },
     {
         "route": "68X",
@@ -156061,7 +156165,7 @@
         "service_type": "4",
         "seq": "20",
         "stop": "7ADC6D521E6BECE6",
-        "stop_name_tc": "旺角街市 (MK626)"
+        "stop_name_tc": "旺角街市, 地區康健中心 (MK626)"
     },
     {
         "route": "68X",
@@ -164989,7 +165093,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "7ADC6D521E6BECE6",
-        "stop_name_tc": "旺角街市 (MK626)"
+        "stop_name_tc": "旺角街市, 地區康健中心 (MK626)"
     },
     {
         "route": "72X",
@@ -193365,7 +193469,7 @@
         "service_type": "1",
         "seq": "28",
         "stop": "7ADC6D521E6BECE6",
-        "stop_name_tc": "旺角街市 (MK626)"
+        "stop_name_tc": "旺角街市, 地區康健中心 (MK626)"
     },
     {
         "route": "87B",
@@ -196045,7 +196149,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "7ADC6D521E6BECE6",
-        "stop_name_tc": "旺角街市 (MK626)"
+        "stop_name_tc": "旺角街市, 地區康健中心 (MK626)"
     },
     {
         "route": "887",
@@ -202565,7 +202669,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "5CA7841E84D52C8A",
-        "stop_name_tc": "旺角街市 (MK627)"
+        "stop_name_tc": "旺角街市, 地區康健中心 (MK627)"
     },
     {
         "route": "904",
@@ -202997,7 +203101,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "5CA7841E84D52C8A",
-        "stop_name_tc": "旺角街市 (MK627)"
+        "stop_name_tc": "旺角街市, 地區康健中心 (MK627)"
     },
     {
         "route": "905",
@@ -212101,7 +212205,7 @@
         "service_type": "1",
         "seq": "24",
         "stop": "5CA7841E84D52C8A",
-        "stop_name_tc": "旺角街市 (MK627)"
+        "stop_name_tc": "旺角街市, 地區康健中心 (MK627)"
     },
     {
         "route": "93P",
@@ -237529,6 +237633,246 @@
     },
     {
         "route": "A41P",
+        "bound": "I",
+        "service_type": "3",
+        "seq": "1",
+        "stop": "CFDE62B6C9EDE114",
+        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+    },
+    {
+        "route": "A41P",
+        "bound": "I",
+        "service_type": "3",
+        "seq": "2",
+        "stop": "9C9F817064169CE7",
+        "stop_name_tc": "機場博覽館 (CL320)"
+    },
+    {
+        "route": "A41P",
+        "bound": "I",
+        "service_type": "3",
+        "seq": "3",
+        "stop": "E48E4C46F64FFB0E",
+        "stop_name_tc": "航天城交匯處 (CL326)"
+    },
+    {
+        "route": "A41P",
+        "bound": "I",
+        "service_type": "3",
+        "seq": "4",
+        "stop": "A7378EEEBFA0C76C",
+        "stop_name_tc": "港珠澳大橋香港口岸 (E7)"
+    },
+    {
+        "route": "A41P",
+        "bound": "I",
+        "service_type": "3",
+        "seq": "5",
+        "stop": "0879D399E5B5FE0C",
+        "stop_name_tc": "青嶼幹線轉車站 (N2) (TW705)"
+    },
+    {
+        "route": "A41P",
+        "bound": "I",
+        "service_type": "3",
+        "seq": "6",
+        "stop": "897B26110ECE76B3",
+        "stop_name_tc": "青沙公路轉車站 (B5) (TA292)"
+    },
+    {
+        "route": "A41P",
+        "bound": "I",
+        "service_type": "3",
+        "seq": "7",
+        "stop": "727AA8B21AB74300",
+        "stop_name_tc": "沙田第一城 (ST145)"
+    },
+    {
+        "route": "A41P",
+        "bound": "I",
+        "service_type": "3",
+        "seq": "8",
+        "stop": "582EA09A77D20CC3",
+        "stop_name_tc": "石門轉車站 - 濱景花園 (ST149)"
+    },
+    {
+        "route": "A41P",
+        "bound": "I",
+        "service_type": "3",
+        "seq": "9",
+        "stop": "04543155BFC77A1B",
+        "stop_name_tc": "沙田醫院 (MA102)"
+    },
+    {
+        "route": "A41P",
+        "bound": "I",
+        "service_type": "3",
+        "seq": "10",
+        "stop": "6F03E19C5E800893",
+        "stop_name_tc": "亞公角 (MA105)"
+    },
+    {
+        "route": "A41P",
+        "bound": "I",
+        "service_type": "3",
+        "seq": "11",
+        "stop": "7FDBE1ABD7231657",
+        "stop_name_tc": "富安巴士總站 (MA901)"
+    },
+    {
+        "route": "A41P",
+        "bound": "I",
+        "service_type": "3",
+        "seq": "12",
+        "stop": "B86B05AB0F82C94E",
+        "stop_name_tc": "錦泰苑 (MA132)"
+    },
+    {
+        "route": "A41P",
+        "bound": "I",
+        "service_type": "3",
+        "seq": "13",
+        "stop": "AC515BE42D6D6CBC",
+        "stop_name_tc": "德信中學 (MA134)"
+    },
+    {
+        "route": "A41P",
+        "bound": "I",
+        "service_type": "3",
+        "seq": "14",
+        "stop": "CE813C1E1A72C7B0",
+        "stop_name_tc": "海典灣 (MA135)"
+    },
+    {
+        "route": "A41P",
+        "bound": "I",
+        "service_type": "3",
+        "seq": "15",
+        "stop": "297B262BF8D00544",
+        "stop_name_tc": "聽濤雅苑 (MA152)"
+    },
+    {
+        "route": "A41P",
+        "bound": "I",
+        "service_type": "3",
+        "seq": "16",
+        "stop": "A6424D59E135C4EC",
+        "stop_name_tc": "頌安邨 (MA153)"
+    },
+    {
+        "route": "A41P",
+        "bound": "I",
+        "service_type": "3",
+        "seq": "17",
+        "stop": "24CD3B0F3389F822",
+        "stop_name_tc": "耀安邨總站 (MA933)"
+    },
+    {
+        "route": "A41P",
+        "bound": "I",
+        "service_type": "3",
+        "seq": "18",
+        "stop": "040478A068F3E0EB",
+        "stop_name_tc": "福安花園 (MA156)"
+    },
+    {
+        "route": "A41P",
+        "bound": "I",
+        "service_type": "3",
+        "seq": "19",
+        "stop": "8EB192ED041A8459",
+        "stop_name_tc": "海栢花園 (MA158)"
+    },
+    {
+        "route": "A41P",
+        "bound": "I",
+        "service_type": "3",
+        "seq": "20",
+        "stop": "14F7E124D3972753",
+        "stop_name_tc": "馬鞍山警署 (MA182)"
+    },
+    {
+        "route": "A41P",
+        "bound": "I",
+        "service_type": "3",
+        "seq": "21",
+        "stop": "473AF4463A49DA24",
+        "stop_name_tc": "錦英苑 (MA192)"
+    },
+    {
+        "route": "A41P",
+        "bound": "I",
+        "service_type": "3",
+        "seq": "22",
+        "stop": "362D0188DD0985FF",
+        "stop_name_tc": "錦龍苑 (MA194)"
+    },
+    {
+        "route": "A41P",
+        "bound": "I",
+        "service_type": "3",
+        "seq": "23",
+        "stop": "4DC840CF3B4B2427",
+        "stop_name_tc": "利安邨 (MA301)"
+    },
+    {
+        "route": "A41P",
+        "bound": "I",
+        "service_type": "3",
+        "seq": "24",
+        "stop": "BA72214DFE48AA86",
+        "stop_name_tc": "烏溪沙站 (MA982)"
+    },
+    {
+        "route": "A41P",
+        "bound": "I",
+        "service_type": "3",
+        "seq": "25",
+        "stop": "2C5CA5F47FB6EB3F",
+        "stop_name_tc": "樟木頭帝琴灣 (SK300)"
+    },
+    {
+        "route": "A41P",
+        "bound": "I",
+        "service_type": "3",
+        "seq": "26",
+        "stop": "6B775855F6FB16D9",
+        "stop_name_tc": "泥涌 (SK301)"
+    },
+    {
+        "route": "A41P",
+        "bound": "I",
+        "service_type": "3",
+        "seq": "27",
+        "stop": "40C9465E380F04C5",
+        "stop_name_tc": "輋下 (SK302)"
+    },
+    {
+        "route": "A41P",
+        "bound": "I",
+        "service_type": "3",
+        "seq": "28",
+        "stop": "C67E139743E66D71",
+        "stop_name_tc": "馬牯纜 (SK303)"
+    },
+    {
+        "route": "A41P",
+        "bound": "I",
+        "service_type": "3",
+        "seq": "29",
+        "stop": "8AD4B244D6A50BDB",
+        "stop_name_tc": "西沙 GO PARK (SK205)"
+    },
+    {
+        "route": "A41P",
+        "bound": "I",
+        "service_type": "3",
+        "seq": "30",
+        "stop": "74775F172FABD878",
+        "stop_name_tc": "西沙灣交通交匯處 (SK981)"
+    },
+    {
+        "route": "A41P",
         "bound": "O",
         "service_type": "1",
         "seq": "1",
@@ -237702,6 +238046,14 @@
         "seq": "22",
         "stop": "0D5759F7A4B185FE",
         "stop_name_tc": "港珠澳大橋旅檢大樓 (落客站)"
+    },
+    {
+        "route": "A41P",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "23",
+        "stop": "21466046C6868AA7",
+        "stop_name_tc": "機場(地面運輸中心)巴士總站"
     },
     {
         "route": "A41P",
@@ -237894,6 +238246,238 @@
         "seq": "24",
         "stop": "0D5759F7A4B185FE",
         "stop_name_tc": "港珠澳大橋旅檢大樓 (落客站)"
+    },
+    {
+        "route": "A41P",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "25",
+        "stop": "21466046C6868AA7",
+        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+    },
+    {
+        "route": "A41P",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "1",
+        "stop": "74775F172FABD878",
+        "stop_name_tc": "西沙灣交通交匯處 (SK981)"
+    },
+    {
+        "route": "A41P",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "2",
+        "stop": "7E289B9FFDF77CAE",
+        "stop_name_tc": "田寮 (SK217a)"
+    },
+    {
+        "route": "A41P",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "3",
+        "stop": "6F03615DDC0F7502",
+        "stop_name_tc": "輋下 (SK218a)"
+    },
+    {
+        "route": "A41P",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "4",
+        "stop": "DB78ADF2386771E5",
+        "stop_name_tc": "西澳 (SK219a)"
+    },
+    {
+        "route": "A41P",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "5",
+        "stop": "A39754C80FFB1590",
+        "stop_name_tc": "樟木頭帝琴灣 (SK220a)"
+    },
+    {
+        "route": "A41P",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "6",
+        "stop": "BA72214DFE48AA86",
+        "stop_name_tc": "烏溪沙站 (MA982)"
+    },
+    {
+        "route": "A41P",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "7",
+        "stop": "6E42FB38EBBE1C42",
+        "stop_name_tc": "利安邨 (MA164)"
+    },
+    {
+        "route": "A41P",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "8",
+        "stop": "118212ABD14E1580",
+        "stop_name_tc": "錦龍苑 (MA330)"
+    },
+    {
+        "route": "A41P",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "9",
+        "stop": "EEF73B5695D2AB0F",
+        "stop_name_tc": "錦英苑 (MA334)"
+    },
+    {
+        "route": "A41P",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "10",
+        "stop": "0AA7219BB2418438",
+        "stop_name_tc": "新港城 (MA114)"
+    },
+    {
+        "route": "A41P",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "11",
+        "stop": "844648D1EDB4A4CD",
+        "stop_name_tc": "馬鞍山市中心 (MA306)"
+    },
+    {
+        "route": "A41P",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "12",
+        "stop": "3DD89EF20A237A4C",
+        "stop_name_tc": "福安花園 (MA313)"
+    },
+    {
+        "route": "A41P",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "13",
+        "stop": "24CD3B0F3389F822",
+        "stop_name_tc": "耀安邨總站 (MA933)"
+    },
+    {
+        "route": "A41P",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "14",
+        "stop": "5EDA0C1BE5CE95CF",
+        "stop_name_tc": "頌安邨 (MA316)"
+    },
+    {
+        "route": "A41P",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "15",
+        "stop": "424003F7939E9F01",
+        "stop_name_tc": "錦鞍苑 (MA322)"
+    },
+    {
+        "route": "A41P",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "16",
+        "stop": "4EFF1135BD93EE9E",
+        "stop_name_tc": "保泰街 (MA343)"
+    },
+    {
+        "route": "A41P",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "17",
+        "stop": "F88D7720B4F389B0",
+        "stop_name_tc": "德信中學 (MA351)"
+    },
+    {
+        "route": "A41P",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "18",
+        "stop": "FA141FB0FF048F32",
+        "stop_name_tc": "錦泰苑 (MA357)"
+    },
+    {
+        "route": "A41P",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "19",
+        "stop": "FBE33E1EA7BA6051",
+        "stop_name_tc": "富安巴士總站 (MA905)"
+    },
+    {
+        "route": "A41P",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "20",
+        "stop": "DCDF76EA791EDED7",
+        "stop_name_tc": "亞公角 (MA400)"
+    },
+    {
+        "route": "A41P",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "21",
+        "stop": "6E2A182F0DD98D48",
+        "stop_name_tc": "沙田醫院 (MA405)"
+    },
+    {
+        "route": "A41P",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "22",
+        "stop": "51E6C8BD0176D660",
+        "stop_name_tc": "石門轉車站-新界鄉議局大樓"
+    },
+    {
+        "route": "A41P",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "23",
+        "stop": "E757600B79B0B2AC",
+        "stop_name_tc": "沙田第一城 (ST506)"
+    },
+    {
+        "route": "A41P",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "24",
+        "stop": "673B33867260EBB7",
+        "stop_name_tc": "青沙公路轉車站 (A4) (TA752)"
+    },
+    {
+        "route": "A41P",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "25",
+        "stop": "412DEEF534E127AF",
+        "stop_name_tc": "青嶼幹線轉車站 (A1) (TW606)"
+    },
+    {
+        "route": "A41P",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "26",
+        "stop": "C552CE565E1F0C85",
+        "stop_name_tc": "一號客運大樓 (落客站)"
+    },
+    {
+        "route": "A41P",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "27",
+        "stop": "0D5759F7A4B185FE",
+        "stop_name_tc": "港珠澳大橋旅檢大樓 (落客站)"
+    },
+    {
+        "route": "A41P",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "28",
+        "stop": "21466046C6868AA7",
+        "stop_name_tc": "機場(地面運輸中心)巴士總站"
     },
     {
         "route": "A42",
@@ -259885,7 +260469,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "5CA7841E84D52C8A",
-        "stop_name_tc": "旺角街市 (MK627)"
+        "stop_name_tc": "旺角街市, 地區康健中心 (MK627)"
     },
     {
         "route": "N283",
@@ -261701,7 +262285,7 @@
         "service_type": "1",
         "seq": "37",
         "stop": "5CA7841E84D52C8A",
-        "stop_name_tc": "旺角街市 (MK627)"
+        "stop_name_tc": "旺角街市, 地區康健中心 (MK627)"
     },
     {
         "route": "N293",
@@ -263749,7 +264333,7 @@
         "service_type": "2",
         "seq": "22",
         "stop": "7ADC6D521E6BECE6",
-        "stop_name_tc": "旺角街市 (MK626)"
+        "stop_name_tc": "旺角街市, 地區康健中心 (MK626)"
     },
     {
         "route": "N368",
@@ -265285,7 +265869,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "5CA7841E84D52C8A",
-        "stop_name_tc": "旺角街市 (MK627)"
+        "stop_name_tc": "旺角街市, 地區康健中心 (MK627)"
     },
     {
         "route": "N41X",
