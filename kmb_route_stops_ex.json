@@ -276701,7 +276701,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "65E74D034898D16E",
-        "stop_name_tc": "土瓜灣(木廠街)"
+        "stop_name_tc": null
     },
     {
         "route": "PB1B",
@@ -276709,7 +276709,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "4C61A1E387593CAF",
-        "stop_name_tc": "鑽石山(鳳德道)"
+        "stop_name_tc": null
     },
     {
         "route": "PB1B",
@@ -276717,7 +276717,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "B3F486EAD0CE8187",
-        "stop_name_tc": "大圍站"
+        "stop_name_tc": null
     },
     {
         "route": "PB1B",
@@ -276733,7 +276733,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "B3F486EAD0CE8187",
-        "stop_name_tc": "大圍站"
+        "stop_name_tc": null
     },
     {
         "route": "PB1B",
@@ -276741,7 +276741,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "4C61A1E387593CAF",
-        "stop_name_tc": "鑽石山(鳳德道)"
+        "stop_name_tc": null
     },
     {
         "route": "PB1B",
@@ -276749,7 +276749,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "65E74D034898D16E",
-        "stop_name_tc": "土瓜灣(木廠街)"
+        "stop_name_tc": null
     },
     {
         "route": "PB1B",
@@ -276765,7 +276765,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "F493236404A4FABF",
-        "stop_name_tc": "元朗 形點"
+        "stop_name_tc": null
     },
     {
         "route": "PB2A",
@@ -276773,7 +276773,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "96E1024FD71C979F",
-        "stop_name_tc": "荃灣南豐紗廠"
+        "stop_name_tc": null
     },
     {
         "route": "PB2A",
@@ -276821,7 +276821,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "96E1024FD71C979F",
-        "stop_name_tc": "荃灣南豐紗廠"
+        "stop_name_tc": null
     },
     {
         "route": "PB2A",
@@ -276829,7 +276829,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "F493236404A4FABF",
-        "stop_name_tc": "元朗 形點"
+        "stop_name_tc": null
     },
     {
         "route": "PB2B",
@@ -276997,7 +276997,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "14736645499B5526",
-        "stop_name_tc": "赤柱廣場"
+        "stop_name_tc": null
     },
     {
         "route": "PB3B",
@@ -277005,7 +277005,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "DF71339A693A2EA0",
-        "stop_name_tc": "淺水灣(海灘道)"
+        "stop_name_tc": null
     },
     {
         "route": "PB3B",
@@ -277069,7 +277069,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "DF71339A693A2EA0",
-        "stop_name_tc": "淺水灣(海灘道)"
+        "stop_name_tc": null
     },
     {
         "route": "PB3B",
@@ -277077,7 +277077,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "14736645499B5526",
-        "stop_name_tc": "赤柱廣場"
+        "stop_name_tc": null
     },
     {
         "route": "PBD1",
@@ -277317,7 +277317,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "5C6754BD37D3F4D0",
-        "stop_name_tc": "東涌站巴士總站"
+        "stop_name_tc": null
     },
     {
         "route": "PBS2",
@@ -277325,7 +277325,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "96E1024FD71C979F",
-        "stop_name_tc": "荃灣南豐紗廠"
+        "stop_name_tc": null
     },
     {
         "route": "PBS2",
@@ -277341,7 +277341,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "A8DC6F85E7043234",
-        "stop_name_tc": "青衣站"
+        "stop_name_tc": null
     },
     {
         "route": "PBS2",
@@ -277373,7 +277373,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "A8DC6F85E7043234",
-        "stop_name_tc": "青衣站"
+        "stop_name_tc": null
     },
     {
         "route": "PBS2",
@@ -277389,7 +277389,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "96E1024FD71C979F",
-        "stop_name_tc": "荃灣南豐紗廠"
+        "stop_name_tc": null
     },
     {
         "route": "PBS2",
@@ -277397,7 +277397,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "5C6754BD37D3F4D0",
-        "stop_name_tc": "東涌站巴士總站"
+        "stop_name_tc": null
     },
     {
         "route": "PBW4",

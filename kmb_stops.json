@@ -1152,6 +1152,14 @@
         "long": "114.222378"
     },
     {
+        "stop": "064B06C60E5EE126",
+        "name_en": "MEI YU STREET",
+        "name_tc": "美裕街",
+        "name_sc": "美裕街",
+        "lat": "22.383910",
+        "long": "114.272414"
+    },
+    {
         "stop": "064C195509AC01EE",
         "name_en": "KAM HONG STREET",
         "name_tc": "琴行街",
@@ -4134,14 +4142,6 @@
         "name_sc": "康逸苑 (LT160)",
         "lat": "22.310504",
         "long": "114.235182"
-    },
-    {
-        "stop": "14736645499B5526",
-        "name_en": "STANLEY PLAZA",
-        "name_tc": "赤柱廣場",
-        "name_sc": "赤柱广场",
-        "lat": "22.219783",
-        "long": "114.209835"
     },
     {
         "stop": "147A9F32CAF4E111",
@@ -16232,14 +16232,6 @@
         "long": "114.122631"
     },
     {
-        "stop": "4C61A1E387593CAF",
-        "name_en": "DIAMOND HILL (FUNG TAK ROAD)",
-        "name_tc": "鑽石山(鳳德道)",
-        "name_sc": "钻石山(凤德道)",
-        "lat": "22.341466",
-        "long": "114.202740"
-    },
-    {
         "stop": "4C69321ABBC7093F",
         "name_en": "M+ (YT265)",
         "name_tc": "M+ (YT265)",
@@ -19560,14 +19552,6 @@
         "long": "114.189244"
     },
     {
-        "stop": "5C6754BD37D3F4D0",
-        "name_en": "TUNG CHUNG STATION BUS TERMINUS",
-        "name_tc": "東涌站巴士總站",
-        "name_sc": "东涌站巴士总站",
-        "lat": "22.290260",
-        "long": "113.940555"
-    },
-    {
         "stop": "5C6A29BCDA410664",
         "name_en": "WAH CHING HOUSE",
         "name_tc": "華清樓",
@@ -21702,14 +21686,6 @@
         "name_sc": "竹园邨总站 (WT912)",
         "lat": "22.345419",
         "long": "114.192484"
-    },
-    {
-        "stop": "65E74D034898D16E",
-        "name_en": "TO KWA WAN (MOK CHEONG STREET)",
-        "name_tc": "土瓜灣(木廠街)",
-        "name_sc": "土瓜湾(木厂街)",
-        "lat": "22.322995",
-        "long": "114.190065"
     },
     {
         "stop": "65ECD19EFD09FB74",
@@ -31416,14 +31392,6 @@
         "long": "114.091415"
     },
     {
-        "stop": "96E1024FD71C979F",
-        "name_en": "THE MILLS",
-        "name_tc": "荃灣南豐紗廠",
-        "name_sc": "荃湾南丰纱厂",
-        "lat": "22.374465",
-        "long": "114.110092"
-    },
-    {
         "stop": "970DA2E578488682",
         "name_en": "FENWICK STREET",
         "name_tc": "分域街",
@@ -35264,14 +35232,6 @@
         "long": "114.232908"
     },
     {
-        "stop": "A8DC6F85E7043234",
-        "name_en": "TSING YI STATION",
-        "name_tc": "青衣站",
-        "name_sc": "青衣站",
-        "lat": "22.359745",
-        "long": "114.107757"
-    },
-    {
         "stop": "A8E0D10D79497444",
         "name_en": "LING WAN TEMPLE (YL154)",
         "name_tc": "凌雲寺 (YL154)",
@@ -37534,14 +37494,6 @@
         "name_sc": "峻滢 日出康城 (TK302)",
         "lat": "22.297382",
         "long": "114.272496"
-    },
-    {
-        "stop": "B3F486EAD0CE8187",
-        "name_en": "TAI WAI STATION",
-        "name_tc": "大圍站",
-        "name_sc": "大围站",
-        "lat": "22.373947",
-        "long": "114.179157"
     },
     {
         "stop": "B404A065F58A5F64",
@@ -42328,6 +42280,14 @@
         "long": "114.144270"
     },
     {
+        "stop": "CBB8AA28C0F31B43",
+        "name_en": "WHAMPOA GARDEN (SHUNG KING STREET)",
+        "name_tc": "黃埔花園(船景街)",
+        "name_sc": "黄埔花园(船景街)",
+        "lat": "22.304304",
+        "long": "114.189848"
+    },
+    {
         "stop": "CBB9FC4A0C13979B",
         "name_en": "MEI FOO BUS TERMINUS (SS990)",
         "name_tc": "美孚巴士總站 (SS990)",
@@ -46192,6 +46152,14 @@
         "long": "114.174342"
     },
     {
+        "stop": "DE8AB4B54CD3D4F2",
+        "name_en": "LOHAS PARK STATION",
+        "name_tc": "康城站",
+        "name_sc": "康城站",
+        "lat": "22.296803",
+        "long": "114.269336"
+    },
+    {
         "stop": "DE925628D8747F6D",
         "name_en": "PO PUI COURT (KT273)",
         "name_tc": "寶珮苑 (KT273)",
@@ -46382,14 +46350,6 @@
         "name_sc": "山寮 (TP724)",
         "lat": "22.471069",
         "long": "114.222119"
-    },
-    {
-        "stop": "DF71339A693A2EA0",
-        "name_en": "REPULSE BAY (BEACH ROAD)",
-        "name_tc": "淺水灣(海灘道)",
-        "name_sc": "浅水湾(海滩道)",
-        "lat": "22.235755",
-        "long": "114.198241"
     },
     {
         "stop": "DF7F22DF4F8A9D11",
@@ -50776,14 +50736,6 @@
         "long": "113.975958"
     },
     {
-        "stop": "F493236404A4FABF",
-        "name_en": "YOHO MALL (YUEN LONG)",
-        "name_tc": "元朗 形點",
-        "name_sc": "元朗 形点",
-        "lat": "22.445022",
-        "long": "114.037377"
-    },
-    {
         "stop": "F49465D014D12FF8",
         "name_en": "NGAU PEI SHA NEW VILLAGE (ST324)",
         "name_tc": "牛皮沙新村 (ST324)",
@@ -50862,6 +50814,14 @@
         "name_sc": "耀安邨 (MA374)",
         "lat": "22.419439",
         "long": "114.229393"
+    },
+    {
+        "stop": "F4BCEFB7E0DA6994",
+        "name_en": "SIU SAI WAN (ISLAND RESORT)",
+        "name_tc": "小西灣(藍灣半島)",
+        "name_sc": "小西湾(蓝湾半岛)",
+        "lat": "22.265449",
+        "long": "114.250798"
     },
     {
         "stop": "F4C9995BB455AB46",

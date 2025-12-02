@@ -16569,9 +16569,9 @@
         "route": "PB1A",
         "bound": "O",
         "service_type": "1",
-        "orig_en": "HING NING ROAD KWAI FONG",
-        "orig_tc": "葵芳興寧路",
-        "orig_sc": "葵芳兴宁路",
+        "orig_en": "TIN SHUI WAI",
+        "orig_tc": "天水圍",
+        "orig_sc": "天水围",
         "dest_en": "SAI SHA GO PARK (From Tai Po) (Circular)",
         "dest_tc": "西沙 GO PARK  (由大埔出發 循環行走)",
         "dest_sc": "西沙 GO PARK  (由大埔出发 循环行走)"
@@ -16591,9 +16591,9 @@
         "route": "PB2A",
         "bound": "O",
         "service_type": "1",
-        "orig_en": "YUEN LONG(YOHO MALL)",
-        "orig_tc": "元朗形點",
-        "orig_sc": "元朗形点",
+        "orig_en": "SIU SAI WAN (ISLAND RESORT)",
+        "orig_tc": "小西灣((藍灣半島)",
+        "orig_sc": "小西湾((蓝湾半岛)",
         "dest_en": "WEST KOWLOON CULTURAL DISTRICT",
         "dest_tc": "西九文化區",
         "dest_sc": "西九文化区"
@@ -16624,12 +16624,12 @@
         "route": "PB3B",
         "bound": "O",
         "service_type": "1",
-        "orig_en": "STANLEY",
-        "orig_tc": "赤柱",
-        "orig_sc": "赤柱",
-        "dest_en": "HARBOUR NORTH",
-        "dest_tc": "北角匯",
-        "dest_sc": "北角汇"
+        "orig_en": "KAI TAK (AIRSIDE)",
+        "orig_tc": "啟德AIRSIDE",
+        "orig_sc": "启德AIRSIDE",
+        "dest_en": "DB PLAZA",
+        "dest_tc": "愉景廣場",
+        "dest_sc": "愉景广场"
     },
     {
         "route": "PBD1",
@@ -16690,12 +16690,12 @@
         "route": "PBS2",
         "bound": "O",
         "service_type": "1",
-        "orig_en": "Tung Chung Station",
-        "orig_tc": "東涌站",
-        "orig_sc": "东涌站",
-        "dest_en": "MA WAN(From Central) (Circular)",
-        "dest_tc": "馬灣 (由東涌站出發 循環行走)",
-        "dest_sc": "马湾 (由东涌站出发 循环行走)"
+        "orig_en": "TSEUNG KWAN O",
+        "orig_tc": "將軍澳",
+        "orig_sc": "将军澳",
+        "dest_en": "MA WAN(From Tseung Kwan O) (Circular)",
+        "dest_tc": "馬灣 (由將軍澳出發 循環行走)",
+        "dest_sc": "马湾 (由将军澳出发 循环行走)"
     },
     {
         "route": "PBW4",
