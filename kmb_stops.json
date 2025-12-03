@@ -240,6 +240,14 @@
         "long": "114.115525"
     },
     {
+        "stop": "01775517BE76284E",
+        "name_en": "FANLING STATION BBI - FANLING STATION (C1) (ND495)",
+        "name_tc": "粉嶺站轉車站 - 粉嶺站(C1)",
+        "name_sc": "粉岭站转车站 - 粉岭站(C1)",
+        "lat": "22.492523",
+        "long": "114.138638"
+    },
+    {
         "stop": "017A10A009B4A409",
         "name_en": "SHEUNG YEE ROAD (KT136)",
         "name_tc": "常怡道 (KT136)",
@@ -11312,14 +11320,6 @@
         "long": "114.166688"
     },
     {
-        "stop": "35462A8C97E8A506",
-        "name_en": "FAT KWONG STREET, HO MAN TIN",
-        "name_tc": "何文田佛光街",
-        "name_sc": "何文田佛光街",
-        "lat": "22.316862",
-        "long": "114.180332"
-    },
-    {
         "stop": "3546486D807D1FF5",
         "name_en": "TAI WO TSUEN",
         "name_tc": "大窩村",
@@ -16030,14 +16030,6 @@
         "name_sc": "锦英苑 (MA190)",
         "lat": "22.423954",
         "long": "114.238505"
-    },
-    {
-        "stop": "4B63964A12D91E2A",
-        "name_en": "HING NING ROAD KWAI FONG",
-        "name_tc": "葵芳興寧路",
-        "name_sc": "葵芳兴宁路",
-        "lat": "22.357927",
-        "long": "114.127273"
     },
     {
         "stop": "4B6D9BB197225DBE",
@@ -24328,6 +24320,14 @@
         "long": "114.022806"
     },
     {
+        "stop": "72B329134A0DADAD",
+        "name_en": "TIN SHUI WAI TSUI SING LAU",
+        "name_tc": "天水圍-聚星樓",
+        "name_sc": "天水围-聚星楼",
+        "lat": "22.449192",
+        "long": "114.005410"
+    },
+    {
         "stop": "72EE8A033E4260A3",
         "name_en": "FO TAN VILLAGE (FT100)",
         "name_tc": "火炭村 (FT100)",
@@ -27390,6 +27390,14 @@
         "name_sc": "大埔中心总站 (TP905)",
         "lat": "22.453151",
         "long": "114.169308"
+    },
+    {
+        "stop": "825D1D3AB07C1AC2",
+        "name_en": "Cheung Sha Wan Lai Ying St",
+        "name_tc": "長沙灣荔盈街",
+        "name_sc": "长沙湾荔盈街",
+        "lat": "22.328170",
+        "long": "114.147991"
     },
     {
         "stop": "82867084F4E7B92E",
@@ -36688,6 +36696,14 @@
         "long": "114.188176"
     },
     {
+        "stop": "AFFD0E0C6077741D",
+        "name_en": "TAI PO MEGA MALL (TAI WO ROAD)",
+        "name_tc": "大埔超級城(太和路)",
+        "name_sc": "大埔超级城(太和路)",
+        "lat": "22.451204",
+        "long": "114.168829"
+    },
+    {
         "stop": "B0007A6CF106CA4B",
         "name_en": "POK HONG BUS TERMINUS (ST964)",
         "name_tc": "博康巴士總站 (ST964)",
@@ -37040,6 +37056,14 @@
         "long": "114.181341"
     },
     {
+        "stop": "B1882202E2B36620",
+        "name_en": "PAK SHEK KOK (FO YIN ROAD)",
+        "name_tc": "白石角(科研路)",
+        "name_sc": "白石角(科研路)",
+        "lat": "22.428807",
+        "long": "114.208558"
+    },
+    {
         "stop": "B18C8718C0B7904F",
         "name_en": "SHEK KUK HOUSE SHEK WAI KOK ESTATE (TW402)",
         "name_tc": "石圍角邨石菊樓 (TW402)",
@@ -37110,14 +37134,6 @@
         "name_sc": "杜屋村 (YL668)",
         "lat": "22.429896",
         "long": "114.094876"
-    },
-    {
-        "stop": "B1F2121578803972",
-        "name_en": "HING FAT STREET, CAUSEWAY BAY",
-        "name_tc": "銅鑼灣興發街",
-        "name_sc": "铜锣湾兴发街",
-        "lat": "22.283592",
-        "long": "114.191131"
     },
     {
         "stop": "B20A1163984772C9",
@@ -40824,14 +40840,6 @@
         "long": "114.196846"
     },
     {
-        "stop": "C460A691CD8212DF",
-        "name_en": "TO FUK ROAD, KOWLOON TONG",
-        "name_tc": "九龍塘多福道",
-        "name_sc": "九龙塘多福道",
-        "lat": "22.336000",
-        "long": "114.176560"
-    },
-    {
         "stop": "C466F7104D101BED",
         "name_en": "LIPPO CENTRE",
         "name_tc": "力寶中心",
@@ -42406,14 +42414,6 @@
         "name_sc": "岭南大学 (TM291)",
         "lat": "22.409766",
         "long": "113.982357"
-    },
-    {
-        "stop": "CC43907C8D4CED33",
-        "name_en": "HONG KONG GOLD COAST",
-        "name_tc": "香港黃金海岸",
-        "name_sc": "香港黄金海岸",
-        "lat": "22.372558",
-        "long": "113.989567"
     },
     {
         "stop": "CC57C2DF592993CB",
@@ -44864,14 +44864,6 @@
         "long": "114.204862"
     },
     {
-        "stop": "D807FB5CE82945A2",
-        "name_en": "MOKO Mong Kok",
-        "name_tc": "旺角MOKO",
-        "name_sc": "旺角MOKO",
-        "lat": "22.324613",
-        "long": "114.172570"
-    },
-    {
         "stop": "D813C93D9AD1C45B",
         "name_en": "KENSWOOD COURT (TN240)",
         "name_tc": "景湖居 (TN240)",
@@ -45744,14 +45736,6 @@
         "long": "113.945854"
     },
     {
-        "stop": "DBC89D4632BE523C",
-        "name_en": "SHAM TSENG (LIDO GARDEN)",
-        "name_tc": "深井(麗都花園)",
-        "name_sc": "深井(丽都花园)",
-        "lat": "22.366398",
-        "long": "114.058722"
-    },
-    {
         "stop": "DBD6820299653B4E",
         "name_en": "TUEN MUN STATION BUS TERMINUS (V5) (TM956)",
         "name_tc": "屯門站總站 (V5) (TM956)",
@@ -46206,14 +46190,6 @@
         "name_sc": "新都城大厦 (ED561)",
         "lat": "22.290857",
         "long": "114.199389"
-    },
-    {
-        "stop": "DEB240F39E92A5B9",
-        "name_en": "SHAM TSENG(RHINE GARDEN)",
-        "name_tc": "深井(海韻花園)",
-        "name_sc": "深井(海韵花园)",
-        "lat": "22.367773",
-        "long": "114.060778"
     },
     {
         "stop": "DEB3135B3EBB8E9C",
@@ -49816,6 +49792,14 @@
         "long": "114.148620"
     },
     {
+        "stop": "F02A1646BD4FC0E2",
+        "name_en": "CHOI PIK HOUSE CHOI PO COURT (ND105a)",
+        "name_tc": "彩蒲苑彩碧閣 (ND105a)",
+        "name_sc": "彩蒲苑彩碧阁 (ND105a)",
+        "lat": "22.502837",
+        "long": "114.124773"
+    },
+    {
         "stop": "F02CE37AD01DF17E",
         "name_en": "HONG CHEUNG HOUSE CHEUNG HONG ESTATE (TY256)",
         "name_tc": "長康邨康祥樓 (TY256)",
@@ -50734,6 +50718,14 @@
         "name_sc": "屯门市中心总站 (TM972)",
         "lat": "22.391301",
         "long": "113.975958"
+    },
+    {
+        "stop": "F493236404A4FABF",
+        "name_en": "YOHO MALL (YUEN LONG)",
+        "name_tc": "元朗 形點",
+        "name_sc": "元朗 形点",
+        "lat": "22.445022",
+        "long": "114.037377"
     },
     {
         "stop": "F49465D014D12FF8",

@@ -231857,142 +231857,6 @@
     },
     {
         "route": "A33X",
-        "bound": "I",
-        "service_type": "4",
-        "seq": "1",
-        "stop": "0713774B2DB5E4D3",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
-    },
-    {
-        "route": "A33X",
-        "bound": "I",
-        "service_type": "4",
-        "seq": "2",
-        "stop": "79C1BD3A3E91091D",
-        "stop_name_tc": "航天城巴士總站 (CL952)"
-    },
-    {
-        "route": "A33X",
-        "bound": "I",
-        "service_type": "4",
-        "seq": "3",
-        "stop": "9C9F817064169CE7",
-        "stop_name_tc": "機場博覽館 (CL320)"
-    },
-    {
-        "route": "A33X",
-        "bound": "I",
-        "service_type": "4",
-        "seq": "4",
-        "stop": "09C223E13435C61D",
-        "stop_name_tc": "港珠澳大橋香港口岸 (W1)"
-    },
-    {
-        "route": "A33X",
-        "bound": "I",
-        "service_type": "4",
-        "seq": "5",
-        "stop": "4B5144408E60BF11",
-        "stop_name_tc": "屯門赤鱲角隧道轉車站 (T2)"
-    },
-    {
-        "route": "A33X",
-        "bound": "I",
-        "service_type": "4",
-        "seq": "6",
-        "stop": "4566E35B3D2C20B5",
-        "stop_name_tc": "豐景園 (TM155)"
-    },
-    {
-        "route": "A33X",
-        "bound": "I",
-        "service_type": "4",
-        "seq": "7",
-        "stop": "5055F6D68F0DD49D",
-        "stop_name_tc": "翠寧花園 (TM158)"
-    },
-    {
-        "route": "A33X",
-        "bound": "I",
-        "service_type": "4",
-        "seq": "8",
-        "stop": "4D02E857ADDE8AAF",
-        "stop_name_tc": "友愛邨 (TM163)"
-    },
-    {
-        "route": "A33X",
-        "bound": "I",
-        "service_type": "4",
-        "seq": "9",
-        "stop": "818F12340BA8CA4B",
-        "stop_name_tc": "屯門公園 (TM169)"
-    },
-    {
-        "route": "A33X",
-        "bound": "I",
-        "service_type": "4",
-        "seq": "10",
-        "stop": "571FE1F0FBB26545",
-        "stop_name_tc": "屯門站 (TM170)"
-    },
-    {
-        "route": "A33X",
-        "bound": "I",
-        "service_type": "4",
-        "seq": "11",
-        "stop": "C18A68BBD21DC5A6",
-        "stop_name_tc": "V CITY, 仁政街 (TM173)"
-    },
-    {
-        "route": "A33X",
-        "bound": "I",
-        "service_type": "4",
-        "seq": "12",
-        "stop": "EE1D84187D47C96C",
-        "stop_name_tc": "景峰花園 (TM245)"
-    },
-    {
-        "route": "A33X",
-        "bound": "I",
-        "service_type": "4",
-        "seq": "13",
-        "stop": "A8B141D2ED68F7E1",
-        "stop_name_tc": "屯門醫院(鳳地站) (TM247)"
-    },
-    {
-        "route": "A33X",
-        "bound": "I",
-        "service_type": "4",
-        "seq": "14",
-        "stop": "5A781879E83B56A6",
-        "stop_name_tc": "彩暉花園 (TM249)"
-    },
-    {
-        "route": "A33X",
-        "bound": "I",
-        "service_type": "4",
-        "seq": "15",
-        "stop": "6B3EF5D982B399E6",
-        "stop_name_tc": "嶺南大學 (TM252)"
-    },
-    {
-        "route": "A33X",
-        "bound": "I",
-        "service_type": "4",
-        "seq": "16",
-        "stop": "CDE9BBBDE0226995",
-        "stop_name_tc": "聚康山莊 (TM145)"
-    },
-    {
-        "route": "A33X",
-        "bound": "I",
-        "service_type": "4",
-        "seq": "17",
-        "stop": "CBCE32D56C5263A9",
-        "stop_name_tc": "富泰邨總站 (TM917)"
-    },
-    {
-        "route": "A33X",
         "bound": "O",
         "service_type": "1",
         "seq": "1",
@@ -232276,150 +232140,6 @@
         "bound": "O",
         "service_type": "2",
         "seq": "19",
-        "stop": "21466046C6868AA7",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
-    },
-    {
-        "route": "A33X",
-        "bound": "O",
-        "service_type": "4",
-        "seq": "1",
-        "stop": "CBCE32D56C5263A9",
-        "stop_name_tc": "富泰邨總站 (TM917)"
-    },
-    {
-        "route": "A33X",
-        "bound": "O",
-        "service_type": "4",
-        "seq": "2",
-        "stop": "5D7715C4BFFC9979",
-        "stop_name_tc": "聚康山莊 (TM200)"
-    },
-    {
-        "route": "A33X",
-        "bound": "O",
-        "service_type": "4",
-        "seq": "3",
-        "stop": "CC3EF4757AA0964A",
-        "stop_name_tc": "嶺南大學 (TM291)"
-    },
-    {
-        "route": "A33X",
-        "bound": "O",
-        "service_type": "4",
-        "seq": "4",
-        "stop": "E92E2723C1DBA061",
-        "stop_name_tc": "彩暉花園 (TM292)"
-    },
-    {
-        "route": "A33X",
-        "bound": "O",
-        "service_type": "4",
-        "seq": "5",
-        "stop": "03E44C30CECCFCEC",
-        "stop_name_tc": "景峰花園 (TM295)"
-    },
-    {
-        "route": "A33X",
-        "bound": "O",
-        "service_type": "4",
-        "seq": "6",
-        "stop": "642F7D358D36F715",
-        "stop_name_tc": "新圍仔 (TM296)"
-    },
-    {
-        "route": "A33X",
-        "bound": "O",
-        "service_type": "4",
-        "seq": "7",
-        "stop": "F269ACD809D1B43E",
-        "stop_name_tc": "何福堂書院 (TM297)"
-    },
-    {
-        "route": "A33X",
-        "bound": "O",
-        "service_type": "4",
-        "seq": "8",
-        "stop": "D74B67D55C63895F",
-        "stop_name_tc": "屯門站總站 (V6) (TM953)"
-    },
-    {
-        "route": "A33X",
-        "bound": "O",
-        "service_type": "4",
-        "seq": "9",
-        "stop": "A859FDC2ED9ECEA1",
-        "stop_name_tc": "屯門市中心 (TM973)"
-    },
-    {
-        "route": "A33X",
-        "bound": "O",
-        "service_type": "4",
-        "seq": "10",
-        "stop": "AF9FE138E3D5D5F0",
-        "stop_name_tc": "安定邨 (TM612)"
-    },
-    {
-        "route": "A33X",
-        "bound": "O",
-        "service_type": "4",
-        "seq": "11",
-        "stop": "1D44677AEFBA8773",
-        "stop_name_tc": "兆麟苑 (TM615)"
-    },
-    {
-        "route": "A33X",
-        "bound": "O",
-        "service_type": "4",
-        "seq": "12",
-        "stop": "18580F35B0A312CF",
-        "stop_name_tc": "豐景園 (TM622)"
-    },
-    {
-        "route": "A33X",
-        "bound": "O",
-        "service_type": "4",
-        "seq": "13",
-        "stop": "C70342BF7C6A4732",
-        "stop_name_tc": "屯門赤鱲角隧道轉車站 (A1)"
-    },
-    {
-        "route": "A33X",
-        "bound": "O",
-        "service_type": "4",
-        "seq": "14",
-        "stop": "0D5759F7A4B185FE",
-        "stop_name_tc": "港珠澳大橋旅檢大樓 (落客站)"
-    },
-    {
-        "route": "A33X",
-        "bound": "O",
-        "service_type": "4",
-        "seq": "15",
-        "stop": "C552CE565E1F0C85",
-        "stop_name_tc": "一號客運大樓 (落客站)"
-    },
-    {
-        "route": "A33X",
-        "bound": "O",
-        "service_type": "4",
-        "seq": "16",
-        "stop": "9C9F817064169CE7",
-        "stop_name_tc": "機場博覽館 (CL320)"
-    },
-    {
-        "route": "A33X",
-        "bound": "O",
-        "service_type": "4",
-        "seq": "17",
-        "stop": "F32C8A98A5D64A72",
-        "stop_name_tc": "航天城巴士總站 (CL950)"
-    },
-    {
-        "route": "A33X",
-        "bound": "O",
-        "service_type": "4",
-        "seq": "18",
         "stop": "21466046C6868AA7",
         "stop_name_tc": "機場(地面運輸中心)巴士總站"
     },
@@ -276637,7 +276357,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "4B63964A12D91E2A",
-        "stop_name_tc": "葵芳興寧路"
+        "stop_name_tc": null
     },
     {
         "route": "PB1A",
@@ -276685,7 +276405,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "4B63964A12D91E2A",
-        "stop_name_tc": "葵芳興寧路"
+        "stop_name_tc": null
     },
     {
         "route": "PB1B",
@@ -276765,7 +276485,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "F493236404A4FABF",
-        "stop_name_tc": null
+        "stop_name_tc": "元朗 形點"
     },
     {
         "route": "PB2A",
@@ -276829,7 +276549,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "F493236404A4FABF",
-        "stop_name_tc": null
+        "stop_name_tc": "元朗 形點"
     },
     {
         "route": "PB2B",
@@ -276845,7 +276565,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "CC43907C8D4CED33",
-        "stop_name_tc": "香港黃金海岸"
+        "stop_name_tc": null
     },
     {
         "route": "PB2B",
@@ -276853,7 +276573,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "DEB240F39E92A5B9",
-        "stop_name_tc": "深井(海韻花園)"
+        "stop_name_tc": null
     },
     {
         "route": "PB2B",
@@ -276901,7 +276621,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "DBC89D4632BE523C",
-        "stop_name_tc": "深井(麗都花園)"
+        "stop_name_tc": null
     },
     {
         "route": "PB2B",
@@ -276909,7 +276629,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "CC43907C8D4CED33",
-        "stop_name_tc": "香港黃金海岸"
+        "stop_name_tc": null
     },
     {
         "route": "PB2B",
@@ -276925,7 +276645,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "C460A691CD8212DF",
-        "stop_name_tc": "九龍塘多福道"
+        "stop_name_tc": null
     },
     {
         "route": "PB3A",
@@ -276933,7 +276653,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "D807FB5CE82945A2",
-        "stop_name_tc": "旺角MOKO"
+        "stop_name_tc": null
     },
     {
         "route": "PB3A",
@@ -276941,7 +276661,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "35462A8C97E8A506",
-        "stop_name_tc": "何文田佛光街"
+        "stop_name_tc": null
     },
     {
         "route": "PB3A",
@@ -276949,7 +276669,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "B1F2121578803972",
-        "stop_name_tc": "銅鑼灣興發街"
+        "stop_name_tc": null
     },
     {
         "route": "PB3A",
@@ -276965,7 +276685,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "B1F2121578803972",
-        "stop_name_tc": "銅鑼灣興發街"
+        "stop_name_tc": null
     },
     {
         "route": "PB3A",
@@ -276973,7 +276693,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "35462A8C97E8A506",
-        "stop_name_tc": "何文田佛光街"
+        "stop_name_tc": null
     },
     {
         "route": "PB3A",
@@ -276981,7 +276701,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "D807FB5CE82945A2",
-        "stop_name_tc": "旺角MOKO"
+        "stop_name_tc": null
     },
     {
         "route": "PB3A",
@@ -276989,7 +276709,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "C460A691CD8212DF",
-        "stop_name_tc": "九龍塘多福道"
+        "stop_name_tc": null
     },
     {
         "route": "PB3B",
@@ -277029,7 +276749,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "B1F2121578803972",
-        "stop_name_tc": "銅鑼灣興發街"
+        "stop_name_tc": null
     },
     {
         "route": "PB3B",
@@ -277045,7 +276765,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "B1F2121578803972",
-        "stop_name_tc": "銅鑼灣興發街"
+        "stop_name_tc": null
     },
     {
         "route": "PB3B",
@@ -277294,22 +277014,6 @@
         "seq": "11",
         "stop": "F050648C108571ED",
         "stop_name_tc": "香港故宮文化博物館"
-    },
-    {
-        "route": "PBS1",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "12",
-        "stop": "232DC1B2BE92C86F",
-        "stop_name_tc": "灣仔海濱"
-    },
-    {
-        "route": "PBS1",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "13",
-        "stop": "E33098F43CF205B8",
-        "stop_name_tc": "中環龍和道"
     },
     {
         "route": "PBS2",
@@ -277333,7 +277037,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "4B63964A12D91E2A",
-        "stop_name_tc": "葵芳興寧路"
+        "stop_name_tc": null
     },
     {
         "route": "PBS2",
@@ -277381,7 +277085,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "4B63964A12D91E2A",
-        "stop_name_tc": "葵芳興寧路"
+        "stop_name_tc": null
     },
     {
         "route": "PBS2",
