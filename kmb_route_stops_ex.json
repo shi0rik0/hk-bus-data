@@ -97909,7 +97909,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "DBF0C952CAA654B5",
-        "stop_name_tc": "東隧轉車站 (K2) (LT410)"
+        "stop_name_tc": "東隧轉車站 (LT410)"
     },
     {
         "route": "302",
@@ -98045,7 +98045,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "DBF0C952CAA654B5",
-        "stop_name_tc": "東隧轉車站 (K2) (LT410)"
+        "stop_name_tc": "東隧轉車站 (LT410)"
     },
     {
         "route": "302A",
@@ -98181,7 +98181,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "991E47DBD416B908",
-        "stop_name_tc": "東隧轉車站 (L2) (LT100)"
+        "stop_name_tc": "東隧轉車站 (LT100)"
     },
     {
         "route": "307",
@@ -98285,7 +98285,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "DBF0C952CAA654B5",
-        "stop_name_tc": "東隧轉車站 (K2) (LT410)"
+        "stop_name_tc": "東隧轉車站 (LT410)"
     },
     {
         "route": "307",
@@ -98405,7 +98405,7 @@
         "service_type": "3",
         "seq": "7",
         "stop": "DBF0C952CAA654B5",
-        "stop_name_tc": "東隧轉車站 (K2) (LT410)"
+        "stop_name_tc": "東隧轉車站 (LT410)"
     },
     {
         "route": "307",
@@ -98501,7 +98501,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "DBF0C952CAA654B5",
-        "stop_name_tc": "東隧轉車站 (K2) (LT410)"
+        "stop_name_tc": "東隧轉車站 (LT410)"
     },
     {
         "route": "307A",
@@ -98653,7 +98653,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "991E47DBD416B908",
-        "stop_name_tc": "東隧轉車站 (L2) (LT100)"
+        "stop_name_tc": "東隧轉車站 (LT100)"
     },
     {
         "route": "307P",
@@ -98821,7 +98821,7 @@
         "service_type": "2",
         "seq": "13",
         "stop": "991E47DBD416B908",
-        "stop_name_tc": "東隧轉車站 (L2) (LT100)"
+        "stop_name_tc": "東隧轉車站 (LT100)"
     },
     {
         "route": "307P",
@@ -99005,7 +99005,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "DBF0C952CAA654B5",
-        "stop_name_tc": "東隧轉車站 (K2) (LT410)"
+        "stop_name_tc": "東隧轉車站 (LT410)"
     },
     {
         "route": "307P",
@@ -99205,7 +99205,7 @@
         "service_type": "2",
         "seq": "11",
         "stop": "DBF0C952CAA654B5",
-        "stop_name_tc": "東隧轉車站 (K2) (LT410)"
+        "stop_name_tc": "東隧轉車站 (LT410)"
     },
     {
         "route": "307P",
@@ -107837,7 +107837,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "DBF0C952CAA654B5",
-        "stop_name_tc": "東隧轉車站 (K2) (LT410)"
+        "stop_name_tc": "東隧轉車站 (LT410)"
     },
     {
         "route": "373",
@@ -135469,7 +135469,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "D678B3364437D16B",
-        "stop_name_tc": "東隧轉車站 (L1) (LT101)"
+        "stop_name_tc": "東隧轉車站 (LT101)"
     },
     {
         "route": "600",
@@ -135629,7 +135629,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "E0558D2901ECC032",
-        "stop_name_tc": "東隧轉車站 (K1) (LT412)"
+        "stop_name_tc": "東隧轉車站 (LT412)"
     },
     {
         "route": "600",
@@ -135885,7 +135885,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "D678B3364437D16B",
-        "stop_name_tc": "東隧轉車站 (L1) (LT101)"
+        "stop_name_tc": "東隧轉車站 (LT101)"
     },
     {
         "route": "601",
@@ -136125,7 +136125,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "E0558D2901ECC032",
-        "stop_name_tc": "東隧轉車站 (K1) (LT412)"
+        "stop_name_tc": "東隧轉車站 (LT412)"
     },
     {
         "route": "601",
@@ -136333,7 +136333,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "D678B3364437D16B",
-        "stop_name_tc": "東隧轉車站 (L1) (LT101)"
+        "stop_name_tc": "東隧轉車站 (LT101)"
     },
     {
         "route": "601P",
@@ -136573,7 +136573,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "E0558D2901ECC032",
-        "stop_name_tc": "東隧轉車站 (K1) (LT412)"
+        "stop_name_tc": "東隧轉車站 (LT412)"
     },
     {
         "route": "601P",
@@ -136677,7 +136677,7 @@
         "service_type": "2",
         "seq": "8",
         "stop": "E0558D2901ECC032",
-        "stop_name_tc": "東隧轉車站 (K1) (LT412)"
+        "stop_name_tc": "東隧轉車站 (LT412)"
     },
     {
         "route": "601P",
@@ -136837,7 +136837,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "D678B3364437D16B",
-        "stop_name_tc": "東隧轉車站 (L1) (LT101)"
+        "stop_name_tc": "東隧轉車站 (LT101)"
     },
     {
         "route": "603",
@@ -137053,7 +137053,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "DBF0C952CAA654B5",
-        "stop_name_tc": "東隧轉車站 (K2) (LT410)"
+        "stop_name_tc": "東隧轉車站 (LT410)"
     },
     {
         "route": "603",
@@ -137221,7 +137221,7 @@
         "service_type": "2",
         "seq": "14",
         "stop": "DBF0C952CAA654B5",
-        "stop_name_tc": "東隧轉車站 (K2) (LT410)"
+        "stop_name_tc": "東隧轉車站 (LT410)"
     },
     {
         "route": "603",
@@ -137389,7 +137389,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "D678B3364437D16B",
-        "stop_name_tc": "東隧轉車站 (L1) (LT101)"
+        "stop_name_tc": "東隧轉車站 (LT101)"
     },
     {
         "route": "603A",
@@ -137605,7 +137605,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "DBF0C952CAA654B5",
-        "stop_name_tc": "東隧轉車站 (K2) (LT410)"
+        "stop_name_tc": "東隧轉車站 (LT410)"
     },
     {
         "route": "603A",
@@ -137813,7 +137813,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "D678B3364437D16B",
-        "stop_name_tc": "東隧轉車站 (L1) (LT101)"
+        "stop_name_tc": "東隧轉車站 (LT101)"
     },
     {
         "route": "603P",
@@ -138029,7 +138029,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "DBF0C952CAA654B5",
-        "stop_name_tc": "東隧轉車站 (K2) (LT410)"
+        "stop_name_tc": "東隧轉車站 (LT410)"
     },
     {
         "route": "603S",
@@ -138317,7 +138317,7 @@
         "service_type": "1",
         "seq": "31",
         "stop": "D678B3364437D16B",
-        "stop_name_tc": "東隧轉車站 (L1) (LT101)"
+        "stop_name_tc": "東隧轉車站 (LT101)"
     },
     {
         "route": "606",
@@ -138509,7 +138509,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "9535298A652873DB",
-        "stop_name_tc": "東隧轉車站 (K1) (LT411)"
+        "stop_name_tc": "東隧轉車站 (LT411)"
     },
     {
         "route": "606",
@@ -138901,7 +138901,7 @@
         "service_type": "4",
         "seq": "18",
         "stop": "9535298A652873DB",
-        "stop_name_tc": "東隧轉車站 (K1) (LT411)"
+        "stop_name_tc": "東隧轉車站 (LT411)"
     },
     {
         "route": "606",
@@ -139245,7 +139245,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "D678B3364437D16B",
-        "stop_name_tc": "東隧轉車站 (L1) (LT101)"
+        "stop_name_tc": "東隧轉車站 (LT101)"
     },
     {
         "route": "606A",
@@ -139469,7 +139469,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "9535298A652873DB",
-        "stop_name_tc": "東隧轉車站 (K1) (LT411)"
+        "stop_name_tc": "東隧轉車站 (LT411)"
     },
     {
         "route": "606A",
@@ -139701,7 +139701,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "D678B3364437D16B",
-        "stop_name_tc": "東隧轉車站 (L1) (LT101)"
+        "stop_name_tc": "東隧轉車站 (LT101)"
     },
     {
         "route": "606X",
@@ -139829,7 +139829,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "9535298A652873DB",
-        "stop_name_tc": "東隧轉車站 (K1) (LT411)"
+        "stop_name_tc": "東隧轉車站 (LT411)"
     },
     {
         "route": "606X",
@@ -140013,7 +140013,7 @@
         "service_type": "2",
         "seq": "10",
         "stop": "9535298A652873DB",
-        "stop_name_tc": "東隧轉車站 (K1) (LT411)"
+        "stop_name_tc": "東隧轉車站 (LT411)"
     },
     {
         "route": "606X",
@@ -140205,7 +140205,7 @@
         "service_type": "3",
         "seq": "11",
         "stop": "9535298A652873DB",
-        "stop_name_tc": "東隧轉車站 (K1) (LT411)"
+        "stop_name_tc": "東隧轉車站 (LT411)"
     },
     {
         "route": "606X",
@@ -140933,7 +140933,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "D678B3364437D16B",
-        "stop_name_tc": "東隧轉車站 (L1) (LT101)"
+        "stop_name_tc": "東隧轉車站 (LT101)"
     },
     {
         "route": "613",
@@ -141253,7 +141253,7 @@
         "service_type": "1",
         "seq": "24",
         "stop": "9535298A652873DB",
-        "stop_name_tc": "東隧轉車站 (K1) (LT411)"
+        "stop_name_tc": "東隧轉車站 (LT411)"
     },
     {
         "route": "613",
@@ -141573,7 +141573,7 @@
         "service_type": "1",
         "seq": "29",
         "stop": "D678B3364437D16B",
-        "stop_name_tc": "東隧轉車站 (L1) (LT101)"
+        "stop_name_tc": "東隧轉車站 (LT101)"
     },
     {
         "route": "613A",
@@ -141797,7 +141797,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "9535298A652873DB",
-        "stop_name_tc": "東隧轉車站 (K1) (LT411)"
+        "stop_name_tc": "東隧轉車站 (LT411)"
     },
     {
         "route": "613A",
@@ -142149,7 +142149,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "D678B3364437D16B",
-        "stop_name_tc": "東隧轉車站 (L1) (LT101)"
+        "stop_name_tc": "東隧轉車站 (LT101)"
     },
     {
         "route": "619",
@@ -142405,7 +142405,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "E0558D2901ECC032",
-        "stop_name_tc": "東隧轉車站 (K1) (LT412)"
+        "stop_name_tc": "東隧轉車站 (LT412)"
     },
     {
         "route": "619",
@@ -142661,7 +142661,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "E0558D2901ECC032",
-        "stop_name_tc": "東隧轉車站 (K1) (LT412)"
+        "stop_name_tc": "東隧轉車站 (LT412)"
     },
     {
         "route": "619P",
@@ -142861,7 +142861,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "D678B3364437D16B",
-        "stop_name_tc": "東隧轉車站 (L1) (LT101)"
+        "stop_name_tc": "東隧轉車站 (LT101)"
     },
     {
         "route": "619X",
@@ -144605,7 +144605,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "D678B3364437D16B",
-        "stop_name_tc": "東隧轉車站 (L1) (LT101)"
+        "stop_name_tc": "東隧轉車站 (LT101)"
     },
     {
         "route": "621",
@@ -145853,7 +145853,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "D678B3364437D16B",
-        "stop_name_tc": "東隧轉車站 (L1) (LT101)"
+        "stop_name_tc": "東隧轉車站 (LT101)"
     },
     {
         "route": "641",
@@ -146061,7 +146061,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "DBF0C952CAA654B5",
-        "stop_name_tc": "東隧轉車站 (K2) (LT410)"
+        "stop_name_tc": "東隧轉車站 (LT410)"
     },
     {
         "route": "641",
@@ -148797,7 +148797,7 @@
         "service_type": "1",
         "seq": "25",
         "stop": "D678B3364437D16B",
-        "stop_name_tc": "東隧轉車站 (L1) (LT101)"
+        "stop_name_tc": "東隧轉車站 (LT101)"
     },
     {
         "route": "671",
@@ -149005,7 +149005,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "E0558D2901ECC032",
-        "stop_name_tc": "東隧轉車站 (K1) (LT412)"
+        "stop_name_tc": "東隧轉車站 (LT412)"
     },
     {
         "route": "671",
@@ -149317,7 +149317,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "D678B3364437D16B",
-        "stop_name_tc": "東隧轉車站 (L1) (LT101)"
+        "stop_name_tc": "東隧轉車站 (LT101)"
     },
     {
         "route": "671X",
@@ -149533,7 +149533,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "991E47DBD416B908",
-        "stop_name_tc": "東隧轉車站 (L2) (LT100)"
+        "stop_name_tc": "東隧轉車站 (LT100)"
     },
     {
         "route": "673",
@@ -149789,7 +149789,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "DBF0C952CAA654B5",
-        "stop_name_tc": "東隧轉車站 (K2) (LT410)"
+        "stop_name_tc": "東隧轉車站 (LT410)"
     },
     {
         "route": "673",
@@ -149997,7 +149997,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "991E47DBD416B908",
-        "stop_name_tc": "東隧轉車站 (L2) (LT100)"
+        "stop_name_tc": "東隧轉車站 (LT100)"
     },
     {
         "route": "673A",
@@ -150309,7 +150309,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "DBF0C952CAA654B5",
-        "stop_name_tc": "東隧轉車站 (K2) (LT410)"
+        "stop_name_tc": "東隧轉車站 (LT410)"
     },
     {
         "route": "673A",
@@ -150525,7 +150525,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "DBF0C952CAA654B5",
-        "stop_name_tc": "東隧轉車站 (K2) (LT410)"
+        "stop_name_tc": "東隧轉車站 (LT410)"
     },
     {
         "route": "673P",
@@ -150725,7 +150725,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "991E47DBD416B908",
-        "stop_name_tc": "東隧轉車站 (L2) (LT100)"
+        "stop_name_tc": "東隧轉車站 (LT100)"
     },
     {
         "route": "678",
@@ -150893,7 +150893,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "9535298A652873DB",
-        "stop_name_tc": "東隧轉車站 (K1) (LT411)"
+        "stop_name_tc": "東隧轉車站 (LT411)"
     },
     {
         "route": "678",
@@ -152269,7 +152269,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "991E47DBD416B908",
-        "stop_name_tc": "東隧轉車站 (L2) (LT100)"
+        "stop_name_tc": "東隧轉車站 (LT100)"
     },
     {
         "route": "680",
@@ -152517,7 +152517,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "9535298A652873DB",
-        "stop_name_tc": "東隧轉車站 (K1) (LT411)"
+        "stop_name_tc": "東隧轉車站 (LT411)"
     },
     {
         "route": "680",
@@ -152757,7 +152757,7 @@
         "service_type": "3",
         "seq": "17",
         "stop": "9535298A652873DB",
-        "stop_name_tc": "東隧轉車站 (K1) (LT411)"
+        "stop_name_tc": "東隧轉車站 (LT411)"
     },
     {
         "route": "680",
@@ -152901,7 +152901,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "9535298A652873DB",
-        "stop_name_tc": "東隧轉車站 (K1) (LT411)"
+        "stop_name_tc": "東隧轉車站 (LT411)"
     },
     {
         "route": "680B",
@@ -153093,7 +153093,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "9535298A652873DB",
-        "stop_name_tc": "東隧轉車站 (K1) (LT411)"
+        "stop_name_tc": "東隧轉車站 (LT411)"
     },
     {
         "route": "680P",
@@ -153301,7 +153301,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "991E47DBD416B908",
-        "stop_name_tc": "東隧轉車站 (L2) (LT100)"
+        "stop_name_tc": "東隧轉車站 (LT100)"
     },
     {
         "route": "680X",
@@ -153461,7 +153461,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "9535298A652873DB",
-        "stop_name_tc": "東隧轉車站 (K1) (LT411)"
+        "stop_name_tc": "東隧轉車站 (LT411)"
     },
     {
         "route": "680X",
@@ -153557,7 +153557,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "DBF0C952CAA654B5",
-        "stop_name_tc": "東隧轉車站 (K2) (LT410)"
+        "stop_name_tc": "東隧轉車站 (LT410)"
     },
     {
         "route": "681",
@@ -153725,7 +153725,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "991E47DBD416B908",
-        "stop_name_tc": "東隧轉車站 (L2) (LT100)"
+        "stop_name_tc": "東隧轉車站 (LT100)"
     },
     {
         "route": "681",
@@ -153885,7 +153885,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "991E47DBD416B908",
-        "stop_name_tc": "東隧轉車站 (L2) (LT100)"
+        "stop_name_tc": "東隧轉車站 (LT100)"
     },
     {
         "route": "681P",
@@ -154085,7 +154085,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "DBF0C952CAA654B5",
-        "stop_name_tc": "東隧轉車站 (K2) (LT410)"
+        "stop_name_tc": "東隧轉車站 (LT410)"
     },
     {
         "route": "681P",
@@ -156581,7 +156581,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "991E47DBD416B908",
-        "stop_name_tc": "東隧轉車站 (L2) (LT100)"
+        "stop_name_tc": "東隧轉車站 (LT100)"
     },
     {
         "route": "690",
@@ -156789,7 +156789,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "E0558D2901ECC032",
-        "stop_name_tc": "東隧轉車站 (K1) (LT412)"
+        "stop_name_tc": "東隧轉車站 (LT412)"
     },
     {
         "route": "690",
@@ -157013,7 +157013,7 @@
         "service_type": "2",
         "seq": "16",
         "stop": "E0558D2901ECC032",
-        "stop_name_tc": "東隧轉車站 (K1) (LT412)"
+        "stop_name_tc": "東隧轉車站 (LT412)"
     },
     {
         "route": "690",
@@ -157245,7 +157245,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "E0558D2901ECC032",
-        "stop_name_tc": "東隧轉車站 (K1) (LT412)"
+        "stop_name_tc": "東隧轉車站 (LT412)"
     },
     {
         "route": "690P",
@@ -238013,7 +238013,7 @@
         "service_type": "3",
         "seq": "5",
         "stop": "A39754C80FFB1590",
-        "stop_name_tc": "樟木頭帝琴灣 (SK220a)"
+        "stop_name_tc": "樟木頭帝琴灣 (SK221a)"
     },
     {
         "route": "A41P",
@@ -262733,7 +262733,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "991E47DBD416B908",
-        "stop_name_tc": "東隧轉車站 (L2) (LT100)"
+        "stop_name_tc": "東隧轉車站 (LT100)"
     },
     {
         "route": "N307",
@@ -262885,7 +262885,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "DBF0C952CAA654B5",
-        "stop_name_tc": "東隧轉車站 (K2) (LT410)"
+        "stop_name_tc": "東隧轉車站 (LT410)"
     },
     {
         "route": "N307",
@@ -267533,7 +267533,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "D678B3364437D16B",
-        "stop_name_tc": "東隧轉車站 (L1) (LT101)"
+        "stop_name_tc": "東隧轉車站 (LT101)"
     },
     {
         "route": "N601",
@@ -267805,7 +267805,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "D678B3364437D16B",
-        "stop_name_tc": "東隧轉車站 (L1) (LT101)"
+        "stop_name_tc": "東隧轉車站 (LT101)"
     },
     {
         "route": "N619",
@@ -268053,7 +268053,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "9535298A652873DB",
-        "stop_name_tc": "東隧轉車站 (K1) (LT411)"
+        "stop_name_tc": "東隧轉車站 (LT411)"
     },
     {
         "route": "N619",
@@ -268485,7 +268485,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "991E47DBD416B908",
-        "stop_name_tc": "東隧轉車站 (L2) (LT100)"
+        "stop_name_tc": "東隧轉車站 (LT100)"
     },
     {
         "route": "N680",
@@ -268741,7 +268741,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "9535298A652873DB",
-        "stop_name_tc": "東隧轉車站 (K1) (LT411)"
+        "stop_name_tc": "東隧轉車站 (LT411)"
     },
     {
         "route": "N680",
@@ -269053,7 +269053,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "991E47DBD416B908",
-        "stop_name_tc": "東隧轉車站 (L2) (LT100)"
+        "stop_name_tc": "東隧轉車站 (LT100)"
     },
     {
         "route": "N691",
@@ -269413,7 +269413,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "9535298A652873DB",
-        "stop_name_tc": "東隧轉車站 (K1) (LT411)"
+        "stop_name_tc": "東隧轉車站 (LT411)"
     },
     {
         "route": "N691",

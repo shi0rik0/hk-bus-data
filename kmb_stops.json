@@ -31017,9 +31017,9 @@
     },
     {
         "stop": "9535298A652873DB",
-        "name_en": "EASTERN HARBOUR TUNNEL BBI (K1) (LT411)",
-        "name_tc": "東隧轉車站 (K1) (LT411)",
-        "name_sc": "东隧转车站 (K1) (LT411)",
+        "name_en": "EASTERN HARBOUR TUNNEL BBI (LT411)",
+        "name_tc": "東隧轉車站 (LT411)",
+        "name_sc": "东隧转车站 (LT411)",
         "lat": "22.300285",
         "long": "114.233264"
     },
@@ -31769,9 +31769,9 @@
     },
     {
         "stop": "991E47DBD416B908",
-        "name_en": "EASTERN HARBOUR TUNNEL BBI (L2) (LT100)",
-        "name_tc": "東隧轉車站 (L2) (LT100)",
-        "name_sc": "东隧转车站 (L2) (LT100)",
+        "name_en": "EASTERN HARBOUR TUNNEL BBI (LT100)",
+        "name_tc": "東隧轉車站 (LT100)",
+        "name_sc": "东隧转车站 (LT100)",
         "lat": "22.300972",
         "long": "114.232741"
     },
@@ -34025,9 +34025,9 @@
     },
     {
         "stop": "A39754C80FFB1590",
-        "name_en": "SYMPHONY BAY, CHEUNG MUK TAU (SK220a)",
-        "name_tc": "樟木頭帝琴灣 (SK220a)",
-        "name_sc": "樟木头帝琴湾 (SK220a)",
+        "name_en": "SYMPHONY BAY, CHEUNG MUK TAU (SK221a)",
+        "name_tc": "樟木頭帝琴灣 (SK221a)",
+        "name_sc": "樟木头帝琴湾 (SK221a)",
         "lat": "22.430095",
         "long": "114.251168"
     },
@@ -42288,14 +42288,6 @@
         "long": "114.144270"
     },
     {
-        "stop": "CBB8AA28C0F31B43",
-        "name_en": "WHAMPOA GARDEN (SHUNG KING STREET)",
-        "name_tc": "黃埔花園(船景街)",
-        "name_sc": "黄埔花园(船景街)",
-        "lat": "22.304304",
-        "long": "114.189848"
-    },
-    {
         "stop": "CBB9FC4A0C13979B",
         "name_en": "MEI FOO BUS TERMINUS (SS990)",
         "name_tc": "美孚巴士總站 (SS990)",
@@ -44505,9 +44497,9 @@
     },
     {
         "stop": "D678B3364437D16B",
-        "name_en": "EASTERN HARBOUR TUNNEL BBI (L1) (LT101)",
-        "name_tc": "東隧轉車站 (L1) (LT101)",
-        "name_sc": "东隧转车站 (L1) (LT101)",
+        "name_en": "EASTERN HARBOUR TUNNEL BBI (LT101)",
+        "name_tc": "東隧轉車站 (LT101)",
+        "name_sc": "东隧转车站 (LT101)",
         "lat": "22.301070",
         "long": "114.232925"
     },
@@ -45753,9 +45745,9 @@
     },
     {
         "stop": "DBF0C952CAA654B5",
-        "name_en": "EASTERN HARBOUR TUNNEL BBI (K2) (LT410)",
-        "name_tc": "東隧轉車站 (K2) (LT410)",
-        "name_sc": "东隧转车站 (K2) (LT410)",
+        "name_en": "EASTERN HARBOUR TUNNEL BBI (LT410)",
+        "name_tc": "東隧轉車站 (LT410)",
+        "name_sc": "东隧转车站 (LT410)",
         "lat": "22.300533",
         "long": "114.233650"
     },
@@ -46481,9 +46473,9 @@
     },
     {
         "stop": "E0558D2901ECC032",
-        "name_en": "EASTERN HARBOUR TUNNEL BBI (K1) (LT412)",
-        "name_tc": "東隧轉車站 (K1) (LT412)",
-        "name_sc": "东隧转车站 (K1) (LT412)",
+        "name_en": "EASTERN HARBOUR TUNNEL BBI (LT412)",
+        "name_tc": "東隧轉車站 (LT412)",
+        "name_sc": "东隧转车站 (LT412)",
         "lat": "22.300400",
         "long": "114.233560"
     },
