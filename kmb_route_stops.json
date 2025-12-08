@@ -250202,6 +250202,20 @@
     },
     {
         "route": "X6C",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "20",
+        "stop": "BB5DEEAB7F39ECD9"
+    },
+    {
+        "route": "X6C",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "21",
+        "stop": "3856383C8A22904A"
+    },
+    {
+        "route": "X6C",
         "bound": "O",
         "service_type": "1",
         "seq": "1",
@@ -250325,6 +250339,41 @@
         "service_type": "1",
         "seq": "18",
         "stop": "AA97FFC49AE957A5"
+    },
+    {
+        "route": "X6C",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "19",
+        "stop": "416B7606A9A5FEEB"
+    },
+    {
+        "route": "X6C",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "20",
+        "stop": "327E4BC13954EA86"
+    },
+    {
+        "route": "X6C",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "21",
+        "stop": "81C6D8E74259157E"
+    },
+    {
+        "route": "X6C",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "22",
+        "stop": "36A5F6842C55126E"
+    },
+    {
+        "route": "X6C",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "23",
+        "stop": "0513406BAC1F8881"
     },
     {
         "route": "X89D",
