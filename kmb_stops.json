@@ -29164,8 +29164,8 @@
         "name_en": "GO PARK SAI SHA",
         "name_tc": "西沙 GO PARK",
         "name_sc": "西沙 GO PARK",
-        "lat": "22.427029",
-        "long": "114.265792"
+        "lat": "22.426319",
+        "long": "114.267036"
     },
     {
         "stop": "8BAB6AA783EE0508",
@@ -36568,6 +36568,14 @@
         "long": "114.119695"
     },
     {
+        "stop": "AF478C0CC2D57D22",
+        "name_en": "THE CHINESE MEDICINE HOSPITAL OF HONG KONG",
+        "name_tc": "香港中醫醫院",
+        "name_sc": "香港中医医院",
+        "lat": "22.304966",
+        "long": "114.274515"
+    },
+    {
         "stop": "AF47DA55FCC27679",
         "name_en": "TSANG TAI UK (ST523)",
         "name_tc": "曾大屋 (ST523)",
@@ -41582,6 +41590,14 @@
         "name_sc": "土瓜湾天光道 (KC186)",
         "lat": "22.319370",
         "long": "114.187448"
+    },
+    {
+        "stop": "C84AACEDCAE2FCF2",
+        "name_en": "THE CHINESE MEDICINE HOSPITAL OF HONG KONG",
+        "name_tc": "香港中醫醫院",
+        "name_sc": "香港中医医院",
+        "lat": "22.303787",
+        "long": "114.273821"
     },
     {
         "stop": "C84CAD6CCD18F87F",

@@ -74244,8 +74244,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "2",
-        "stop": "D055CA5BAD9EEF5E",
-        "stop_name_tc": "廣福邨　 (TP266)"
+        "stop": "11B658F68A9F577C",
+        "stop_name_tc": "廣福邨　 (TP265)"
     },
     {
         "route": "275R",
@@ -88341,7 +88341,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "AF478C0CC2D57D22",
-        "stop_name_tc": null
+        "stop_name_tc": "香港中醫醫院"
     },
     {
         "route": "290E",
@@ -88398,6 +88398,14 @@
         "seq": "27",
         "stop": "4A195F954ACD67C5",
         "stop_name_tc": "駿日街 (TK321)"
+    },
+    {
+        "route": "290E",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "28",
+        "stop": "27EF80951F8ED49E",
+        "stop_name_tc": "將軍澳工業邨巴士總站 (TK990)"
     },
     {
         "route": "290E",
@@ -88477,7 +88485,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "C84AACEDCAE2FCF2",
-        "stop_name_tc": null
+        "stop_name_tc": "香港中醫醫院"
     },
     {
         "route": "290E",
@@ -88630,6 +88638,14 @@
         "seq": "29",
         "stop": "92A8281D80524F78",
         "stop_name_tc": "荃灣大河道 (TW290)"
+    },
+    {
+        "route": "290E",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "30",
+        "stop": "E8A145669A392955",
+        "stop_name_tc": "荃灣西站巴士總站 (TW970)"
     },
     {
         "route": "290X",
@@ -89197,7 +89213,7 @@
         "service_type": "2",
         "seq": "33",
         "stop": "AF478C0CC2D57D22",
-        "stop_name_tc": null
+        "stop_name_tc": "香港中醫醫院"
     },
     {
         "route": "290X",
@@ -89246,6 +89262,14 @@
         "seq": "39",
         "stop": "471442D7E30D26EB",
         "stop_name_tc": "日出康城首都 (TK533)"
+    },
+    {
+        "route": "290X",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "40",
+        "stop": "E51AC47DDDA21250",
+        "stop_name_tc": "康城站 (TK920)"
     },
     {
         "route": "290X",
@@ -89749,7 +89773,7 @@
         "service_type": "3",
         "seq": "6",
         "stop": "C84AACEDCAE2FCF2",
-        "stop_name_tc": null
+        "stop_name_tc": "香港中醫醫院"
     },
     {
         "route": "290X",
@@ -89974,6 +89998,14 @@
         "seq": "34",
         "stop": "92A8281D80524F78",
         "stop_name_tc": "荃灣大河道 (TW290)"
+    },
+    {
+        "route": "290X",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "35",
+        "stop": "E8A145669A392955",
+        "stop_name_tc": "荃灣西站巴士總站 (TW970)"
     },
     {
         "route": "291P",
@@ -92869,7 +92901,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "AF478C0CC2D57D22",
-        "stop_name_tc": null
+        "stop_name_tc": "香港中醫醫院"
     },
     {
         "route": "298",
@@ -92902,6 +92934,14 @@
         "seq": "10",
         "stop": "6C3F6AF77695CAE9",
         "stop_name_tc": "銀澳路 新寶城 (TK390)"
+    },
+    {
+        "route": "298",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "11",
+        "stop": "0F283CD99F7295F3",
+        "stop_name_tc": "坑口站 (TK940)"
     },
     {
         "route": "298E",
@@ -93045,7 +93085,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "AF478C0CC2D57D22",
-        "stop_name_tc": null
+        "stop_name_tc": "香港中醫醫院"
     },
     {
         "route": "298E",
@@ -93096,6 +93136,14 @@
         "stop_name_tc": "富寧花園 (TK218)"
     },
     {
+        "route": "298E",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "25",
+        "stop": "F5B19145922F18CC",
+        "stop_name_tc": "坑口(北)(將軍澳醫院) (TK953)"
+    },
+    {
         "route": "298F",
         "bound": "O",
         "service_type": "1",
@@ -93141,7 +93189,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "AF478C0CC2D57D22",
-        "stop_name_tc": null
+        "stop_name_tc": "香港中醫醫院"
     },
     {
         "route": "298F",
@@ -93286,6 +93334,14 @@
         "seq": "24",
         "stop": "87CD68EAD90352E9",
         "stop_name_tc": "富寧花園 (TK218)"
+    },
+    {
+        "route": "298F",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "25",
+        "stop": "F5B19145922F18CC",
+        "stop_name_tc": "坑口(北)(將軍澳醫院) (TK953)"
     },
     {
         "route": "298X",
@@ -162988,8 +163044,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "16",
-        "stop": "CDB292D507E4302D",
-        "stop_name_tc": "廣福邨　 (TP267)"
+        "stop": "D055CA5BAD9EEF5E",
+        "stop_name_tc": "廣福邨　 (TP266)"
     },
     {
         "route": "71K",
