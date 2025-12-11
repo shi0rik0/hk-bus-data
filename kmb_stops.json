@@ -3824,14 +3824,6 @@
         "long": "114.114593"
     },
     {
-        "stop": "132D1A664B715A44",
-        "name_en": "SAN TIN PUBLIC TRANSPORT INTERCHANGE (YL438)",
-        "name_tc": "新田運輸交匯處 (YL438)",
-        "name_sc": "新田运输交汇处 (YL438)",
-        "lat": "22.503353",
-        "long": "114.081900"
-    },
-    {
         "stop": "13362EE5DC44432F",
         "name_en": "CHI MA LENG (YL723)",
         "name_tc": "芝麻嶺 (YL723)",
@@ -45537,9 +45529,9 @@
     },
     {
         "stop": "DAFAF65DCEA183D8",
-        "name_en": "MEI TAK STREET (SK440)",
-        "name_tc": "美德街 (SK440)",
-        "name_sc": "美德街 (SK440)",
+        "name_en": "WM HOTEL HONG KONG (SK440)",
+        "name_tc": "香港WM酒店 (SK440)",
+        "name_sc": "香港WM酒店 (SK440)",
         "lat": "22.385463",
         "long": "114.275432"
     },

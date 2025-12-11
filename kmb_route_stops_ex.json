@@ -94405,7 +94405,7 @@
         "service_type": "1",
         "seq": "23",
         "stop": "DAFAF65DCEA183D8",
-        "stop_name_tc": "美德街 (SK440)"
+        "stop_name_tc": "香港WM酒店 (SK440)"
     },
     {
         "route": "299X",
@@ -134340,8 +134340,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "4",
-        "stop": "29759ECB92E1A91B",
-        "stop_name_tc": "工業貿易大樓 (KA500)"
+        "stop": "DCF9EEF056BF3F32",
+        "stop_name_tc": null
     },
     {
         "route": "5M",
@@ -134868,6 +134868,14 @@
         "bound": "O",
         "service_type": "1",
         "seq": "13",
+        "stop": "5C54889CFC1ACE5B",
+        "stop_name_tc": null
+    },
+    {
+        "route": "5R",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "14",
         "stop": "1094B993AA8409D0",
         "stop_name_tc": "承豐道 (KA540)"
     },
@@ -134875,17 +134883,9 @@
         "route": "5R",
         "bound": "O",
         "service_type": "1",
-        "seq": "14",
+        "seq": "15",
         "stop": "2F9C6EBE1A9AA07E",
         "stop_name_tc": "承景街 (KA541)"
-    },
-    {
-        "route": "5R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "15",
-        "stop": "5F1C669F444A0556",
-        "stop_name_tc": "啟德郵輪碼頭 (KA900)"
     },
     {
         "route": "5R",
@@ -135004,6 +135004,14 @@
         "bound": "O",
         "service_type": "3",
         "seq": "7",
+        "stop": "5C54889CFC1ACE5B",
+        "stop_name_tc": null
+    },
+    {
+        "route": "5R",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "8",
         "stop": "1094B993AA8409D0",
         "stop_name_tc": "承豐道 (KA540)"
     },
@@ -135011,17 +135019,9 @@
         "route": "5R",
         "bound": "O",
         "service_type": "3",
-        "seq": "8",
+        "seq": "9",
         "stop": "2F9C6EBE1A9AA07E",
         "stop_name_tc": "承景街 (KA541)"
-    },
-    {
-        "route": "5R",
-        "bound": "O",
-        "service_type": "3",
-        "seq": "9",
-        "stop": "5F1C669F444A0556",
-        "stop_name_tc": "啟德郵輪碼頭 (KA900)"
     },
     {
         "route": "6",
@@ -228669,7 +228669,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "DAFAF65DCEA183D8",
-        "stop_name_tc": "美德街 (SK440)"
+        "stop_name_tc": "香港WM酒店 (SK440)"
     },
     {
         "route": "99R",
@@ -274468,8 +274468,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "6",
-        "stop": "132D1A664B715A44",
-        "stop_name_tc": "新田運輸交匯處 (YL438)"
+        "stop": "103661C9BABD79FD",
+        "stop_name_tc": "新田運輸交匯處 (YL437)"
     },
     {
         "route": "NA43",
@@ -276572,30 +276572,38 @@
         "bound": "O",
         "service_type": "1",
         "seq": "1",
-        "stop": "F493236404A4FABF",
-        "stop_name_tc": "元朗 形點"
+        "stop": "F4BCEFB7E0DA6994",
+        "stop_name_tc": "小西灣(藍灣半島)"
     },
     {
         "route": "PB2A",
         "bound": "O",
         "service_type": "1",
         "seq": "2",
-        "stop": "96E1024FD71C979F",
-        "stop_name_tc": null
+        "stop": "E85A10E61A00CC09",
+        "stop_name_tc": "北角匯"
     },
     {
         "route": "PB2A",
         "bound": "O",
         "service_type": "1",
         "seq": "3",
-        "stop": "045FB4EAE4FE52D6",
-        "stop_name_tc": "南昌站 (V WALK)"
+        "stop": "E33098F43CF205B8",
+        "stop_name_tc": "中環龍和道"
     },
     {
         "route": "PB2A",
         "bound": "O",
         "service_type": "1",
         "seq": "4",
+        "stop": "232DC1B2BE92C86F",
+        "stop_name_tc": "灣仔海濱"
+    },
+    {
+        "route": "PB2A",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "5",
         "stop": "0524415976F284A4",
         "stop_name_tc": "柯士甸道西"
     },
@@ -276603,7 +276611,7 @@
         "route": "PB2A",
         "bound": "O",
         "service_type": "1",
-        "seq": "5",
+        "seq": "6",
         "stop": "F050648C108571ED",
         "stop_name_tc": "香港故宮文化博物館"
     },
@@ -276611,7 +276619,7 @@
         "route": "PB2A",
         "bound": "O",
         "service_type": "1",
-        "seq": "6",
+        "seq": "7",
         "stop": "0524415976F284A4",
         "stop_name_tc": "柯士甸道西"
     },
@@ -276619,25 +276627,33 @@
         "route": "PB2A",
         "bound": "O",
         "service_type": "1",
-        "seq": "7",
-        "stop": "045FB4EAE4FE52D6",
-        "stop_name_tc": "南昌站 (V WALK)"
-    },
-    {
-        "route": "PB2A",
-        "bound": "O",
-        "service_type": "1",
         "seq": "8",
-        "stop": "96E1024FD71C979F",
-        "stop_name_tc": null
+        "stop": "E33098F43CF205B8",
+        "stop_name_tc": "中環龍和道"
     },
     {
         "route": "PB2A",
         "bound": "O",
         "service_type": "1",
         "seq": "9",
-        "stop": "F493236404A4FABF",
-        "stop_name_tc": "元朗 形點"
+        "stop": "232DC1B2BE92C86F",
+        "stop_name_tc": "灣仔海濱"
+    },
+    {
+        "route": "PB2A",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "10",
+        "stop": "E85A10E61A00CC09",
+        "stop_name_tc": "北角匯"
+    },
+    {
+        "route": "PB2A",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "11",
+        "stop": "F4BCEFB7E0DA6994",
+        "stop_name_tc": "小西灣(藍灣半島)"
     },
     {
         "route": "PB2B",
@@ -276732,72 +276748,72 @@
         "bound": "O",
         "service_type": "1",
         "seq": "1",
-        "stop": "C460A691CD8212DF",
-        "stop_name_tc": null
+        "stop": "AFFD0E0C6077741D",
+        "stop_name_tc": "大埔超級城(太和路)"
     },
     {
         "route": "PB3A",
         "bound": "O",
         "service_type": "1",
         "seq": "2",
-        "stop": "D807FB5CE82945A2",
-        "stop_name_tc": null
+        "stop": "B1882202E2B36620",
+        "stop_name_tc": "白石角(科研路)"
     },
     {
         "route": "PB3A",
         "bound": "O",
         "service_type": "1",
         "seq": "3",
-        "stop": "35462A8C97E8A506",
-        "stop_name_tc": null
+        "stop": "8C90768E30E981C6",
+        "stop_name_tc": "沙田大會堂"
     },
     {
         "route": "PB3A",
         "bound": "O",
         "service_type": "1",
         "seq": "4",
-        "stop": "B1F2121578803972",
-        "stop_name_tc": null
+        "stop": "B26B63709D8A7DFA",
+        "stop_name_tc": "愉景北商場"
     },
     {
         "route": "PB3A",
         "bound": "O",
         "service_type": "1",
         "seq": "5",
-        "stop": "E85A10E61A00CC09",
-        "stop_name_tc": "北角匯"
+        "stop": "E4415E645A9914EF",
+        "stop_name_tc": "愉景廣場"
     },
     {
         "route": "PB3A",
         "bound": "O",
         "service_type": "1",
         "seq": "6",
-        "stop": "B1F2121578803972",
-        "stop_name_tc": null
+        "stop": "98C945957285E149",
+        "stop_name_tc": "愉景北商場"
     },
     {
         "route": "PB3A",
         "bound": "O",
         "service_type": "1",
         "seq": "7",
-        "stop": "35462A8C97E8A506",
-        "stop_name_tc": null
+        "stop": "8C90768E30E981C6",
+        "stop_name_tc": "沙田大會堂"
     },
     {
         "route": "PB3A",
         "bound": "O",
         "service_type": "1",
         "seq": "8",
-        "stop": "D807FB5CE82945A2",
-        "stop_name_tc": null
+        "stop": "B1882202E2B36620",
+        "stop_name_tc": "白石角(科研路)"
     },
     {
         "route": "PB3A",
         "bound": "O",
         "service_type": "1",
         "seq": "9",
-        "stop": "C460A691CD8212DF",
-        "stop_name_tc": null
+        "stop": "AFFD0E0C6077741D",
+        "stop_name_tc": "大埔超級城(太和路)"
     },
     {
         "route": "PB3B",
@@ -285564,8 +285580,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "4",
-        "stop": "132D1A664B715A44",
-        "stop_name_tc": "新田運輸交匯處 (YL438)"
+        "stop": "103661C9BABD79FD",
+        "stop_name_tc": "新田運輸交匯處 (YL437)"
     },
     {
         "route": "X43",
