@@ -671,6 +671,16 @@
     },
     {
         "co": "CTB",
+        "route": "260X",
+        "orig_tc": "中環 (交易廣場)",
+        "orig_en": "Central (Exchange Square)",
+        "dest_tc": "赤柱廣場",
+        "dest_en": "Stanley Plaza",
+        "orig_sc": "中环 (交易广场)",
+        "dest_sc": "赤柱广场"
+    },
+    {
+        "co": "CTB",
         "route": "27",
         "orig_tc": "北角碼頭",
         "orig_en": "North Point Ferry Pier",
@@ -2842,11 +2852,11 @@
     {
         "co": "CTB",
         "route": "980X",
-        "orig_tc": "馬鞍山 (烏溪沙站)",
-        "orig_en": "Ma On Shan (Wu Kai Sha Station)",
+        "orig_tc": "馬鞍山 (烏溪沙站)／西沙",
+        "orig_en": "Ma On Shan (Wu Kai Sha Station) / Sai Sha",
         "dest_tc": "灣仔",
         "dest_en": "Wan Chai",
-        "orig_sc": "马鞍山 (乌溪沙站)",
+        "orig_sc": "马鞍山 (乌溪沙站)／西沙",
         "dest_sc": "湾仔"
     },
     {

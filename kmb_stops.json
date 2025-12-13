@@ -8649,11 +8649,11 @@
     },
     {
         "stop": "29759ECB92E1A91B",
-        "name_en": "TRADE AND INDUSTRY TOWER (KA500)",
-        "name_tc": "工業貿易大樓 (KA500)",
-        "name_sc": "工业贸易大楼 (KA500)",
-        "lat": "22.332189",
-        "long": "114.197970"
+        "name_en": "TRADE AND INDUSTRY TOWER, INLAND REVENUE CENTRE",
+        "name_tc": "工業貿易大樓，稅務中心 (KA500)",
+        "name_sc": "工业贸易大楼，税务中心 (KA500)",
+        "lat": "22.332840",
+        "long": "114.199310"
     },
     {
         "stop": "297B262BF8D00544",
@@ -19496,6 +19496,14 @@
         "long": "114.208393"
     },
     {
+        "stop": "5C54889CFC1ACE5B",
+        "name_en": "KAI TAK BRIDGE ROAD (KA533)",
+        "name_tc": "啟德橋道 (KA533)",
+        "name_sc": "启德桥道 (KA533)",
+        "lat": "22.314906",
+        "long": "114.205950"
+    },
+    {
         "stop": "5C55C67ACA491F35",
         "name_en": "ELECTRIC ROAD MARKET",
         "name_tc": "電氣道街市",
@@ -26934,6 +26942,14 @@
         "name_sc": "观塘转车站-观塘市中心 (KT352)",
         "lat": "22.313016",
         "long": "114.225006"
+    },
+    {
+        "stop": "80C387D87AFBCE3E",
+        "name_en": "CHOI SHEK ESTATE (ND104)",
+        "name_tc": "彩石邨 (ND104)",
+        "name_sc": "彩石邨 (ND104)",
+        "lat": "22.504081",
+        "long": "114.121794"
     },
     {
         "stop": "80C801672D7D560D",
@@ -45880,6 +45896,14 @@
         "long": "113.989881"
     },
     {
+        "stop": "DC81D1176824125F",
+        "name_en": "TAI TONG",
+        "name_tc": "大棠",
+        "name_sc": "大棠",
+        "lat": "22.413548",
+        "long": "114.027760"
+    },
+    {
         "stop": "DC825DF01C49316F",
         "name_en": "KWAI CHUNG ESTATE BUS TERMINUS (KW935)",
         "name_tc": "葵涌邨總站 (KW935)",
@@ -45950,6 +45974,14 @@
         "name_sc": "宝林总站 (TK934)",
         "lat": "22.323564",
         "long": "114.257519"
+    },
+    {
+        "stop": "DCF9EEF056BF3F32",
+        "name_en": "CULLINAN SKY",
+        "name_tc": "天璽．天",
+        "name_sc": "天玺．天",
+        "lat": "22.332510",
+        "long": "114.199140"
     },
     {
         "stop": "DCFF4041D0C0ACF8",
