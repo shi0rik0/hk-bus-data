@@ -3101,6 +3101,16 @@
     },
     {
         "co": "CTB",
+        "route": "A28X",
+        "orig_tc": "將軍澳站",
+        "orig_en": "Tseung Kwan O Station",
+        "dest_tc": "機場 (經港珠澳大橋香港口岸)",
+        "dest_en": "Airport (via HZMB Hong Kong Port)",
+        "orig_sc": "将军澳站",
+        "dest_sc": "机场 (经港珠澳大桥香港口岸)"
+    },
+    {
+        "co": "CTB",
         "route": "A29",
         "orig_tc": "將軍澳 (寶琳)",
         "orig_en": "Tseung Kwan O (Po Lam)",

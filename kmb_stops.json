@@ -22456,6 +22456,14 @@
         "long": "114.130921"
     },
     {
+        "stop": "69B1F1ED4F1EC09D",
+        "name_en": "MEI YAN HOUSE MEI TUNG ESTATE",
+        "name_tc": "美東邨美仁樓",
+        "name_sc": "美东邨美仁楼",
+        "lat": "22.333100",
+        "long": "114.187360"
+    },
+    {
         "stop": "69B5D7E02401C25B",
         "name_en": "TAM KUNG ROAD (KC750)",
         "name_tc": "譚公道 (KC750)",
@@ -51310,6 +51318,14 @@
         "name_sc": "康怡广场 (ED540)",
         "lat": "22.284508",
         "long": "114.216501"
+    },
+    {
+        "stop": "F685DBDB6635F816",
+        "name_en": "Sai Sha Residences Transport Interchange (SK980)",
+        "name_tc": "西沙灣交通交匯處 (SK980)",
+        "name_sc": "西沙湾交通交汇处 (SK980)",
+        "lat": "22.426392",
+        "long": "114.267035"
     },
     {
         "stop": "F69B2B317BEB37A3",
