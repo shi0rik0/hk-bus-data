@@ -211971,7 +211971,7 @@
         "bound": "O",
         "service_type": "6",
         "seq": "1",
-        "stop": "5179E67B2DFAD895"
+        "stop": "05C7088CE581D8F0"
     },
     {
         "route": "B1",
@@ -212048,14 +212048,14 @@
         "bound": "O",
         "service_type": "6",
         "seq": "12",
-        "stop": "FC694A81026FF0D1"
+        "stop": "1C8B2E9FA7FFEB2D"
     },
     {
         "route": "B1",
         "bound": "O",
         "service_type": "6",
         "seq": "13",
-        "stop": "4BE4E6D4F5A06A51"
+        "stop": "14380311740FE44A"
     },
     {
         "route": "B1",

@@ -1048,6 +1048,14 @@
         "long": "114.195036"
     },
     {
+        "stop": "05C7088CE581D8F0",
+        "name_en": "TIN TSZ BUS TERMINUS (TN902)",
+        "name_tc": "天慈總站 (TN902)",
+        "name_sc": "天慈总站 (TN902)",
+        "lat": "22.453453",
+        "long": "114.007040"
+    },
+    {
         "stop": "05D5B529DB497B99",
         "name_en": "SHATIN CENTRAL BUS TERMINUS (ST930)",
         "name_tc": "沙田市中心總站 (ST930)",
@@ -4080,6 +4088,14 @@
         "long": "114.193158"
     },
     {
+        "stop": "14380311740FE44A",
+        "name_en": "YIU MAN HOUSE TIN YIU ESTATE (TN581)",
+        "name_tc": "天耀邨耀民樓 (TN581)",
+        "name_sc": "天耀邨耀民楼 (TN581)",
+        "lat": "22.449810",
+        "long": "114.002973"
+    },
+    {
         "stop": "143D7489C808BD46",
         "name_en": "TSING YI MARKET (TY360)",
         "name_tc": "青衣街市 (TY360)",
@@ -5830,6 +5846,14 @@
         "name_sc": "机场(地面运输中心)总站 (CL905)",
         "lat": "22.314039",
         "long": "113.937235"
+    },
+    {
+        "stop": "1C8B2E9FA7FFEB2D",
+        "name_en": "YIU SHING HOUSE TIN YIU ESTATE (TN570)",
+        "name_tc": "天耀邨耀盛樓 (TN570)",
+        "name_sc": "天耀邨耀盛楼 (TN570)",
+        "lat": "22.452363",
+        "long": "114.002285"
     },
     {
         "stop": "1C8D366A8E0235D2",
