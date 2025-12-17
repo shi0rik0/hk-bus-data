@@ -16205,7 +16205,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "69B1F1ED4F1EC09D",
-        "stop_name_tc": "美東邨美仁樓"
+        "stop_name_tc": "美東邨美仁樓 (WT627)"
     },
     {
         "route": "11D",
@@ -51141,7 +51141,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "7B4FD0F182DCC294",
-        "stop_name_tc": "佐敦道西九龍站 (YT674a)"
+        "stop_name_tc": "佐敦道西九龍站 (YT674b)"
     },
     {
         "route": "260X",
@@ -51557,7 +51557,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "9BE3D659E4C144D2",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺名都 (B1)"
+        "stop_name_tc": "粉嶺站轉車站 - 粉嶺名都"
     },
     {
         "route": "261",
@@ -51629,7 +51629,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "53966A66C3108F4C",
-        "stop_name_tc": "上水轉車站 - 上水站(B3)"
+        "stop_name_tc": "上水轉車站 - 上水站 (ND482)"
     },
     {
         "route": "261",
@@ -51845,7 +51845,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "57E8A522E2C638FD",
-        "stop_name_tc": "上水轉車站 - 上水站(B4)"
+        "stop_name_tc": "上水轉車站 - 上水站 (ND481)"
     },
     {
         "route": "261",
@@ -52477,7 +52477,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "53966A66C3108F4C",
-        "stop_name_tc": "上水轉車站 - 上水站(B3)"
+        "stop_name_tc": "上水轉車站 - 上水站 (ND482)"
     },
     {
         "route": "261P",
@@ -52661,7 +52661,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "57E8A522E2C638FD",
-        "stop_name_tc": "上水轉車站 - 上水站(B4)"
+        "stop_name_tc": "上水轉車站 - 上水站 (ND481)"
     },
     {
         "route": "261P",
@@ -52757,7 +52757,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "57E8A522E2C638FD",
-        "stop_name_tc": "上水轉車站 - 上水站(B4)"
+        "stop_name_tc": "上水轉車站 - 上水站 (ND481)"
     },
     {
         "route": "261S",
@@ -52829,7 +52829,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "C7120BD9A94B4F6A",
-        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館 (D2)"
+        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館"
     },
     {
         "route": "261X",
@@ -52885,7 +52885,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "4E655B25ABAE103A",
-        "stop_name_tc": "上水轉車站 - 上水站(C1)"
+        "stop_name_tc": "上水轉車站 - 上水站 (ND430)"
     },
     {
         "route": "261X",
@@ -53213,7 +53213,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "3FAC6C2592812331",
-        "stop_name_tc": "上水轉車站 - 上水站(D1)"
+        "stop_name_tc": "上水轉車站 - 上水站 (ND107)"
     },
     {
         "route": "261X",
@@ -53269,7 +53269,7 @@
         "service_type": "1",
         "seq": "29",
         "stop": "65ECD19EFD09FB74",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站(D1)"
+        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站 (ND133)"
     },
     {
         "route": "261X",
@@ -57501,7 +57501,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "7B4FD0F182DCC294",
-        "stop_name_tc": "佐敦道西九龍站 (YT674a)"
+        "stop_name_tc": "佐敦道西九龍站 (YT674b)"
     },
     {
         "route": "268B",
@@ -59981,7 +59981,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "7B4FD0F182DCC294",
-        "stop_name_tc": "佐敦道西九龍站 (YT674a)"
+        "stop_name_tc": "佐敦道西九龍站 (YT674b)"
     },
     {
         "route": "269B",
@@ -64397,7 +64397,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "57E8A522E2C638FD",
-        "stop_name_tc": "上水轉車站 - 上水站(B4)"
+        "stop_name_tc": "上水轉車站 - 上水站 (ND481)"
     },
     {
         "route": "270",
@@ -64445,7 +64445,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "D876A83244ECB838",
-        "stop_name_tc": "上水轉車站 - 上水站(B5)"
+        "stop_name_tc": "上水轉車站 - 上水站 (ND479)"
     },
     {
         "route": "270",
@@ -64509,7 +64509,7 @@
         "service_type": "2",
         "seq": "4",
         "stop": "D876A83244ECB838",
-        "stop_name_tc": "上水轉車站 - 上水站(B5)"
+        "stop_name_tc": "上水轉車站 - 上水站 (ND479)"
     },
     {
         "route": "270",
@@ -64701,7 +64701,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "C7120BD9A94B4F6A",
-        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館 (D2)"
+        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館"
     },
     {
         "route": "270A",
@@ -64741,7 +64741,7 @@
         "service_type": "1",
         "seq": "25",
         "stop": "D876A83244ECB838",
-        "stop_name_tc": "上水轉車站 - 上水站(B5)"
+        "stop_name_tc": "上水轉車站 - 上水站 (ND479)"
     },
     {
         "route": "270A",
@@ -64749,7 +64749,7 @@
         "service_type": "1",
         "seq": "26",
         "stop": "CF0C67920B22ED62",
-        "stop_name_tc": "上水轉車站 - 上水總站(A4)"
+        "stop_name_tc": "上水轉車站 - 上水總站 (ND912)"
     },
     {
         "route": "270A",
@@ -64757,7 +64757,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "CF0C67920B22ED62",
-        "stop_name_tc": "上水轉車站 - 上水總站(A4)"
+        "stop_name_tc": "上水轉車站 - 上水總站 (ND912)"
     },
     {
         "route": "270A",
@@ -64789,7 +64789,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "60952B4A38F3D82E",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站(D1)"
+        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站 (ND134)"
     },
     {
         "route": "270A",
@@ -65101,7 +65101,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "C7120BD9A94B4F6A",
-        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館 (D2)"
+        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館"
     },
     {
         "route": "270B",
@@ -65165,7 +65165,7 @@
         "service_type": "1",
         "seq": "26",
         "stop": "D876A83244ECB838",
-        "stop_name_tc": "上水轉車站 - 上水站(B5)"
+        "stop_name_tc": "上水轉車站 - 上水站 (ND479)"
     },
     {
         "route": "270B",
@@ -65173,7 +65173,7 @@
         "service_type": "1",
         "seq": "27",
         "stop": "CF0C67920B22ED62",
-        "stop_name_tc": "上水轉車站 - 上水總站(A4)"
+        "stop_name_tc": "上水轉車站 - 上水總站 (ND912)"
     },
     {
         "route": "270B",
@@ -65261,7 +65261,7 @@
         "service_type": "2",
         "seq": "11",
         "stop": "C7120BD9A94B4F6A",
-        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館 (D2)"
+        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館"
     },
     {
         "route": "270B",
@@ -65325,7 +65325,7 @@
         "service_type": "2",
         "seq": "19",
         "stop": "D876A83244ECB838",
-        "stop_name_tc": "上水轉車站 - 上水站(B5)"
+        "stop_name_tc": "上水轉車站 - 上水站 (ND479)"
     },
     {
         "route": "270B",
@@ -65333,7 +65333,7 @@
         "service_type": "2",
         "seq": "20",
         "stop": "CF0C67920B22ED62",
-        "stop_name_tc": "上水轉車站 - 上水總站(A4)"
+        "stop_name_tc": "上水轉車站 - 上水總站 (ND912)"
     },
     {
         "route": "270B",
@@ -65461,7 +65461,7 @@
         "service_type": "3",
         "seq": "16",
         "stop": "D876A83244ECB838",
-        "stop_name_tc": "上水轉車站 - 上水站(B5)"
+        "stop_name_tc": "上水轉車站 - 上水站 (ND479)"
     },
     {
         "route": "270B",
@@ -65469,7 +65469,7 @@
         "service_type": "3",
         "seq": "17",
         "stop": "CF0C67920B22ED62",
-        "stop_name_tc": "上水轉車站 - 上水總站(A4)"
+        "stop_name_tc": "上水轉車站 - 上水總站 (ND912)"
     },
     {
         "route": "270B",
@@ -65477,7 +65477,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "CF0C67920B22ED62",
-        "stop_name_tc": "上水轉車站 - 上水總站(A4)"
+        "stop_name_tc": "上水轉車站 - 上水總站 (ND912)"
     },
     {
         "route": "270B",
@@ -65533,7 +65533,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "60952B4A38F3D82E",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站(D1)"
+        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站 (ND134)"
     },
     {
         "route": "270B",
@@ -65709,7 +65709,7 @@
         "service_type": "2",
         "seq": "1",
         "stop": "CF0C67920B22ED62",
-        "stop_name_tc": "上水轉車站 - 上水總站(A4)"
+        "stop_name_tc": "上水轉車站 - 上水總站 (ND912)"
     },
     {
         "route": "270B",
@@ -65765,7 +65765,7 @@
         "service_type": "2",
         "seq": "8",
         "stop": "60952B4A38F3D82E",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站(D1)"
+        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站 (ND134)"
     },
     {
         "route": "270B",
@@ -66157,7 +66157,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "EF78DD9F765C6565",
-        "stop_name_tc": "粉嶺站轉車站 - 祥華邨(A1)"
+        "stop_name_tc": "粉嶺站轉車站 - 祥華邨 (ND184)"
     },
     {
         "route": "270C",
@@ -66373,7 +66373,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "D876A83244ECB838",
-        "stop_name_tc": "上水轉車站 - 上水站(B5)"
+        "stop_name_tc": "上水轉車站 - 上水站 (ND479)"
     },
     {
         "route": "270D",
@@ -66701,7 +66701,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "D876A83244ECB838",
-        "stop_name_tc": "上水轉車站 - 上水站(B5)"
+        "stop_name_tc": "上水轉車站 - 上水站 (ND479)"
     },
     {
         "route": "270E",
@@ -66765,7 +66765,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "CF0C67920B22ED62",
-        "stop_name_tc": "上水轉車站 - 上水總站(A4)"
+        "stop_name_tc": "上水轉車站 - 上水總站 (ND912)"
     },
     {
         "route": "270P",
@@ -66805,7 +66805,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "60952B4A38F3D82E",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站(D1)"
+        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站 (ND134)"
     },
     {
         "route": "270P",
@@ -67013,7 +67013,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "3FAC6C2592812331",
-        "stop_name_tc": "上水轉車站 - 上水站(D1)"
+        "stop_name_tc": "上水轉車站 - 上水站 (ND107)"
     },
     {
         "route": "270R",
@@ -67053,7 +67053,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "65ECD19EFD09FB74",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站(D1)"
+        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站 (ND133)"
     },
     {
         "route": "270R",
@@ -67237,7 +67237,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "C7120BD9A94B4F6A",
-        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館 (D2)"
+        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館"
     },
     {
         "route": "270S",
@@ -67285,7 +67285,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "D876A83244ECB838",
-        "stop_name_tc": "上水轉車站 - 上水站(B5)"
+        "stop_name_tc": "上水轉車站 - 上水站 (ND479)"
     },
     {
         "route": "270S",
@@ -69461,7 +69461,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "7B4FD0F182DCC294",
-        "stop_name_tc": "佐敦道西九龍站 (YT674a)"
+        "stop_name_tc": "佐敦道西九龍站 (YT674b)"
     },
     {
         "route": "271X",
@@ -71797,7 +71797,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "C7120BD9A94B4F6A",
-        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館 (D2)"
+        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館"
     },
     {
         "route": "273",
@@ -71821,7 +71821,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "65ECD19EFD09FB74",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站(D1)"
+        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站 (ND133)"
     },
     {
         "route": "273",
@@ -71869,7 +71869,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "F8C20FE9111D486A",
-        "stop_name_tc": "上水轉車站 - 上水站(D2)"
+        "stop_name_tc": "上水轉車站 - 上水站 (ND106)"
     },
     {
         "route": "273A",
@@ -71933,7 +71933,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "65ECD19EFD09FB74",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站(D1)"
+        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站 (ND133)"
     },
     {
         "route": "273A",
@@ -72005,7 +72005,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "C7120BD9A94B4F6A",
-        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館 (D2)"
+        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館"
     },
     {
         "route": "273A",
@@ -72069,7 +72069,7 @@
         "service_type": "1",
         "seq": "27",
         "stop": "4E655B25ABAE103A",
-        "stop_name_tc": "上水轉車站 - 上水站(C1)"
+        "stop_name_tc": "上水轉車站 - 上水站 (ND430)"
     },
     {
         "route": "273A",
@@ -72093,7 +72093,7 @@
         "service_type": "2",
         "seq": "2",
         "stop": "F8C20FE9111D486A",
-        "stop_name_tc": "上水轉車站 - 上水站(D2)"
+        "stop_name_tc": "上水轉車站 - 上水站 (ND106)"
     },
     {
         "route": "273A",
@@ -72165,7 +72165,7 @@
         "service_type": "2",
         "seq": "11",
         "stop": "65ECD19EFD09FB74",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站(D1)"
+        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站 (ND133)"
     },
     {
         "route": "273A",
@@ -72237,7 +72237,7 @@
         "service_type": "2",
         "seq": "20",
         "stop": "C7120BD9A94B4F6A",
-        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館 (D2)"
+        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館"
     },
     {
         "route": "273A",
@@ -72309,7 +72309,7 @@
         "service_type": "2",
         "seq": "29",
         "stop": "4E655B25ABAE103A",
-        "stop_name_tc": "上水轉車站 - 上水站(C1)"
+        "stop_name_tc": "上水轉車站 - 上水站 (ND430)"
     },
     {
         "route": "273A",
@@ -72365,7 +72365,7 @@
         "service_type": "3",
         "seq": "6",
         "stop": "C7120BD9A94B4F6A",
-        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館 (D2)"
+        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館"
     },
     {
         "route": "273A",
@@ -72429,7 +72429,7 @@
         "service_type": "3",
         "seq": "14",
         "stop": "4E655B25ABAE103A",
-        "stop_name_tc": "上水轉車站 - 上水站(C1)"
+        "stop_name_tc": "上水轉車站 - 上水站 (ND430)"
     },
     {
         "route": "273A",
@@ -72461,7 +72461,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "9CA76C3AEAB52DC2",
-        "stop_name_tc": "上水轉車站 - 上水站(B2)"
+        "stop_name_tc": "上水轉車站 - 上水站 (ND483)"
     },
     {
         "route": "273B",
@@ -72501,7 +72501,7 @@
         "service_type": "2",
         "seq": "3",
         "stop": "9CA76C3AEAB52DC2",
-        "stop_name_tc": "上水轉車站 - 上水站(B2)"
+        "stop_name_tc": "上水轉車站 - 上水站 (ND483)"
     },
     {
         "route": "273C",
@@ -72701,7 +72701,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "4A35BB617F75F41D",
-        "stop_name_tc": "上水轉車站 - 上水總站(A3)"
+        "stop_name_tc": "上水轉車站 - 上水總站 (ND909)"
     },
     {
         "route": "273D",
@@ -72733,7 +72733,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "65ECD19EFD09FB74",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站(D1)"
+        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站 (ND133)"
     },
     {
         "route": "273D",
@@ -72781,7 +72781,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "C7120BD9A94B4F6A",
-        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館 (D2)"
+        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館"
     },
     {
         "route": "273D",
@@ -72821,7 +72821,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "4A35BB617F75F41D",
-        "stop_name_tc": "上水轉車站 - 上水總站(A3)"
+        "stop_name_tc": "上水轉車站 - 上水總站 (ND909)"
     },
     {
         "route": "273D",
@@ -72829,7 +72829,7 @@
         "service_type": "2",
         "seq": "1",
         "stop": "4A35BB617F75F41D",
-        "stop_name_tc": "上水轉車站 - 上水總站(A3)"
+        "stop_name_tc": "上水轉車站 - 上水總站 (ND909)"
     },
     {
         "route": "273D",
@@ -72877,7 +72877,7 @@
         "service_type": "2",
         "seq": "7",
         "stop": "65ECD19EFD09FB74",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站(D1)"
+        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站 (ND133)"
     },
     {
         "route": "273D",
@@ -72925,7 +72925,7 @@
         "service_type": "2",
         "seq": "13",
         "stop": "C7120BD9A94B4F6A",
-        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館 (D2)"
+        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館"
     },
     {
         "route": "273D",
@@ -72973,7 +72973,7 @@
         "service_type": "2",
         "seq": "19",
         "stop": "4A35BB617F75F41D",
-        "stop_name_tc": "上水轉車站 - 上水總站(A3)"
+        "stop_name_tc": "上水轉車站 - 上水總站 (ND909)"
     },
     {
         "route": "273P",
@@ -73125,7 +73125,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "65ECD19EFD09FB74",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站(D1)"
+        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站 (ND133)"
     },
     {
         "route": "273S",
@@ -73181,7 +73181,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "9D388587636920DA",
-        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館 (D2)"
+        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館"
     },
     {
         "route": "273S",
@@ -73205,7 +73205,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "65ECD19EFD09FB74",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站(D1)"
+        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站 (ND133)"
     },
     {
         "route": "274",
@@ -73269,7 +73269,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "60952B4A38F3D82E",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站(D1)"
+        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站 (ND134)"
     },
     {
         "route": "274",
@@ -74749,7 +74749,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "F0FB5EC850A66722",
-        "stop_name_tc": "上水轉車站 - 上水總站(A5)"
+        "stop_name_tc": "上水轉車站 - 上水總站 (ND913)"
     },
     {
         "route": "276",
@@ -74997,7 +74997,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "D876A83244ECB838",
-        "stop_name_tc": "上水轉車站 - 上水站(B5)"
+        "stop_name_tc": "上水轉車站 - 上水站 (ND479)"
     },
     {
         "route": "276",
@@ -75005,7 +75005,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "F0FB5EC850A66722",
-        "stop_name_tc": "上水轉車站 - 上水總站(A5)"
+        "stop_name_tc": "上水轉車站 - 上水總站 (ND913)"
     },
     {
         "route": "276A",
@@ -75021,7 +75021,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "4E655B25ABAE103A",
-        "stop_name_tc": "上水轉車站 - 上水站(C1)"
+        "stop_name_tc": "上水轉車站 - 上水站 (ND430)"
     },
     {
         "route": "276A",
@@ -75197,7 +75197,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "3FAC6C2592812331",
-        "stop_name_tc": "上水轉車站 - 上水站(D1)"
+        "stop_name_tc": "上水轉車站 - 上水站 (ND107)"
     },
     {
         "route": "276A",
@@ -75285,7 +75285,7 @@
         "service_type": "2",
         "seq": "9",
         "stop": "3FAC6C2592812331",
-        "stop_name_tc": "上水轉車站 - 上水站(D1)"
+        "stop_name_tc": "上水轉車站 - 上水站 (ND107)"
     },
     {
         "route": "276A",
@@ -75317,7 +75317,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "4E655B25ABAE103A",
-        "stop_name_tc": "上水轉車站 - 上水站(C1)"
+        "stop_name_tc": "上水轉車站 - 上水站 (ND430)"
     },
     {
         "route": "276B",
@@ -75509,7 +75509,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "3FAC6C2592812331",
-        "stop_name_tc": "上水轉車站 - 上水站(D1)"
+        "stop_name_tc": "上水轉車站 - 上水站 (ND107)"
     },
     {
         "route": "276B",
@@ -75565,7 +75565,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "C7120BD9A94B4F6A",
-        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館 (D2)"
+        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館"
     },
     {
         "route": "276C",
@@ -75621,7 +75621,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "4E655B25ABAE103A",
-        "stop_name_tc": "上水轉車站 - 上水站(C1)"
+        "stop_name_tc": "上水轉車站 - 上水站 (ND430)"
     },
     {
         "route": "276C",
@@ -75781,7 +75781,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "3FAC6C2592812331",
-        "stop_name_tc": "上水轉車站 - 上水站(D1)"
+        "stop_name_tc": "上水轉車站 - 上水站 (ND107)"
     },
     {
         "route": "276C",
@@ -75837,7 +75837,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "65ECD19EFD09FB74",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站(D1)"
+        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站 (ND133)"
     },
     {
         "route": "276C",
@@ -75885,7 +75885,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "F0FB5EC850A66722",
-        "stop_name_tc": "上水轉車站 - 上水總站(A5)"
+        "stop_name_tc": "上水轉車站 - 上水總站 (ND913)"
     },
     {
         "route": "276P",
@@ -76197,7 +76197,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "D876A83244ECB838",
-        "stop_name_tc": "上水轉車站 - 上水站(B5)"
+        "stop_name_tc": "上水轉車站 - 上水站 (ND479)"
     },
     {
         "route": "276P",
@@ -76205,7 +76205,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "F0FB5EC850A66722",
-        "stop_name_tc": "上水轉車站 - 上水總站(A5)"
+        "stop_name_tc": "上水轉車站 - 上水總站 (ND913)"
     },
     {
         "route": "277A",
@@ -76901,7 +76901,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "57E8A522E2C638FD",
-        "stop_name_tc": "上水轉車站 - 上水站(B4)"
+        "stop_name_tc": "上水轉車站 - 上水站 (ND481)"
     },
     {
         "route": "277E",
@@ -77005,7 +77005,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "26AC17B8F05DD7F2",
-        "stop_name_tc": "上水轉車站 - 上水站(B1)"
+        "stop_name_tc": "上水轉車站 - 上水站 (ND484)"
     },
     {
         "route": "277E",
@@ -77013,7 +77013,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "940F276037968281",
-        "stop_name_tc": "上水轉車站 - 上水總站(A2)"
+        "stop_name_tc": "上水轉車站 - 上水總站 (ND908)"
     },
     {
         "route": "277E",
@@ -77157,7 +77157,7 @@
         "service_type": "2",
         "seq": "7",
         "stop": "26AC17B8F05DD7F2",
-        "stop_name_tc": "上水轉車站 - 上水站(B1)"
+        "stop_name_tc": "上水轉車站 - 上水站 (ND484)"
     },
     {
         "route": "277E",
@@ -77165,7 +77165,7 @@
         "service_type": "2",
         "seq": "8",
         "stop": "940F276037968281",
-        "stop_name_tc": "上水轉車站 - 上水總站(A2)"
+        "stop_name_tc": "上水轉車站 - 上水總站 (ND908)"
     },
     {
         "route": "277E",
@@ -77373,7 +77373,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "C7120BD9A94B4F6A",
-        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館 (D2)"
+        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館"
     },
     {
         "route": "277P",
@@ -77413,7 +77413,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "57E8A522E2C638FD",
-        "stop_name_tc": "上水轉車站 - 上水站(B4)"
+        "stop_name_tc": "上水轉車站 - 上水站 (ND481)"
     },
     {
         "route": "277P",
@@ -77509,7 +77509,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "26AC17B8F05DD7F2",
-        "stop_name_tc": "上水轉車站 - 上水站(B1)"
+        "stop_name_tc": "上水轉車站 - 上水站 (ND484)"
     },
     {
         "route": "277P",
@@ -77517,7 +77517,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "940F276037968281",
-        "stop_name_tc": "上水轉車站 - 上水總站(A2)"
+        "stop_name_tc": "上水轉車站 - 上水總站 (ND908)"
     },
     {
         "route": "277P",
@@ -77557,7 +77557,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "60952B4A38F3D82E",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站(D1)"
+        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站 (ND134)"
     },
     {
         "route": "277P",
@@ -77901,7 +77901,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "EF78DD9F765C6565",
-        "stop_name_tc": "粉嶺站轉車站 - 祥華邨(A1)"
+        "stop_name_tc": "粉嶺站轉車站 - 祥華邨 (ND184)"
     },
     {
         "route": "277X",
@@ -78069,7 +78069,7 @@
         "service_type": "2",
         "seq": "5",
         "stop": "EF78DD9F765C6565",
-        "stop_name_tc": "粉嶺站轉車站 - 祥華邨(A1)"
+        "stop_name_tc": "粉嶺站轉車站 - 祥華邨 (ND184)"
     },
     {
         "route": "277X",
@@ -78389,7 +78389,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "3DEE05203A52B235",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺名都 (B1)"
+        "stop_name_tc": "粉嶺站轉車站 - 粉嶺名都"
     },
     {
         "route": "278A",
@@ -78517,7 +78517,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "EF78DD9F765C6565",
-        "stop_name_tc": "粉嶺站轉車站 - 祥華邨(A1)"
+        "stop_name_tc": "粉嶺站轉車站 - 祥華邨 (ND184)"
     },
     {
         "route": "278A",
@@ -78661,7 +78661,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "25721F85DC026ACA",
-        "stop_name_tc": "粉嶺站轉車站 - 祥華邨(A1)"
+        "stop_name_tc": "粉嶺站轉車站 - 祥華邨 (ND182)"
     },
     {
         "route": "278K",
@@ -78669,7 +78669,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "D4A97E2A758EDC64",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站(C1)"
+        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站 (ND496)"
     },
     {
         "route": "278K",
@@ -78741,7 +78741,7 @@
         "service_type": "2",
         "seq": "5",
         "stop": "25721F85DC026ACA",
-        "stop_name_tc": "粉嶺站轉車站 - 祥華邨(A1)"
+        "stop_name_tc": "粉嶺站轉車站 - 祥華邨 (ND182)"
     },
     {
         "route": "278K",
@@ -78749,7 +78749,7 @@
         "service_type": "2",
         "seq": "6",
         "stop": "D4A97E2A758EDC64",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站(C1)"
+        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站 (ND496)"
     },
     {
         "route": "278K",
@@ -78813,7 +78813,7 @@
         "service_type": "3",
         "seq": "4",
         "stop": "25721F85DC026ACA",
-        "stop_name_tc": "粉嶺站轉車站 - 祥華邨(A1)"
+        "stop_name_tc": "粉嶺站轉車站 - 祥華邨 (ND182)"
     },
     {
         "route": "278K",
@@ -78821,7 +78821,7 @@
         "service_type": "3",
         "seq": "5",
         "stop": "D4A97E2A758EDC64",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站(C1)"
+        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站 (ND496)"
     },
     {
         "route": "278K",
@@ -78917,7 +78917,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "60952B4A38F3D82E",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站(D1)"
+        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站 (ND134)"
     },
     {
         "route": "278P",
@@ -79181,7 +79181,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "C7120BD9A94B4F6A",
-        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館 (D2)"
+        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館"
     },
     {
         "route": "278X",
@@ -79221,7 +79221,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "D876A83244ECB838",
-        "stop_name_tc": "上水轉車站 - 上水站(B5)"
+        "stop_name_tc": "上水轉車站 - 上水站 (ND479)"
     },
     {
         "route": "278X",
@@ -79229,7 +79229,7 @@
         "service_type": "1",
         "seq": "23",
         "stop": "81657B3B0CB3D4C0",
-        "stop_name_tc": "上水轉車站 - 上水總站(A3)"
+        "stop_name_tc": "上水轉車站 - 上水總站 (ND910)"
     },
     {
         "route": "278X",
@@ -79237,7 +79237,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "81657B3B0CB3D4C0",
-        "stop_name_tc": "上水轉車站 - 上水總站(A3)"
+        "stop_name_tc": "上水轉車站 - 上水總站 (ND910)"
     },
     {
         "route": "278X",
@@ -79269,7 +79269,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "60952B4A38F3D82E",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站(D1)"
+        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站 (ND134)"
     },
     {
         "route": "278X",
@@ -79453,7 +79453,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "53966A66C3108F4C",
-        "stop_name_tc": "上水轉車站 - 上水站(B3)"
+        "stop_name_tc": "上水轉車站 - 上水站 (ND482)"
     },
     {
         "route": "279A",
@@ -79549,7 +79549,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "53966A66C3108F4C",
-        "stop_name_tc": "上水轉車站 - 上水站(B3)"
+        "stop_name_tc": "上水轉車站 - 上水站 (ND482)"
     },
     {
         "route": "279B",
@@ -79925,7 +79925,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "647CBF3FE0DF2FAE",
-        "stop_name_tc": "上水轉車站 - 上水站(B6)"
+        "stop_name_tc": "上水轉車站 - 上水站 (ND477)"
     },
     {
         "route": "279X",
@@ -79957,7 +79957,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "65ECD19EFD09FB74",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站(D1)"
+        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站 (ND133)"
     },
     {
         "route": "279X",
@@ -80069,7 +80069,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "EF78DD9F765C6565",
-        "stop_name_tc": "粉嶺站轉車站 - 祥華邨(A1)"
+        "stop_name_tc": "粉嶺站轉車站 - 祥華邨 (ND184)"
     },
     {
         "route": "279X",
@@ -80109,7 +80109,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "C7120BD9A94B4F6A",
-        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館 (D2)"
+        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館"
     },
     {
         "route": "279X",
@@ -80149,7 +80149,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "53966A66C3108F4C",
-        "stop_name_tc": "上水轉車站 - 上水站(B3)"
+        "stop_name_tc": "上水轉車站 - 上水站 (ND482)"
     },
     {
         "route": "279X",
@@ -107757,7 +107757,7 @@
         "service_type": "1",
         "seq": "24",
         "stop": "9BE3D659E4C144D2",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺名都 (B1)"
+        "stop_name_tc": "粉嶺站轉車站 - 粉嶺名都"
     },
     {
         "route": "373",
@@ -107805,7 +107805,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "EF78DD9F765C6565",
-        "stop_name_tc": "粉嶺站轉車站 - 祥華邨(A1)"
+        "stop_name_tc": "粉嶺站轉車站 - 祥華邨 (ND184)"
     },
     {
         "route": "373",
@@ -125637,7 +125637,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "7B4FD0F182DCC294",
-        "stop_name_tc": "佐敦道西九龍站 (YT674a)"
+        "stop_name_tc": "佐敦道西九龍站 (YT674b)"
     },
     {
         "route": "49",
@@ -149645,7 +149645,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "9BE3D659E4C144D2",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺名都 (B1)"
+        "stop_name_tc": "粉嶺站轉車站 - 粉嶺名都"
     },
     {
         "route": "673",
@@ -149733,7 +149733,7 @@
         "service_type": "1",
         "seq": "29",
         "stop": "F6C4CEFB8C5DB31F",
-        "stop_name_tc": "上水轉車站 - 上水總站(A4)"
+        "stop_name_tc": "上水轉車站 - 上水總站 (ND911)"
     },
     {
         "route": "673",
@@ -149741,7 +149741,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "F6C4CEFB8C5DB31F",
-        "stop_name_tc": "上水轉車站 - 上水總站(A4)"
+        "stop_name_tc": "上水轉車站 - 上水總站 (ND911)"
     },
     {
         "route": "673",
@@ -149829,7 +149829,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "EF78DD9F765C6565",
-        "stop_name_tc": "粉嶺站轉車站 - 祥華邨(A1)"
+        "stop_name_tc": "粉嶺站轉車站 - 祥華邨 (ND184)"
     },
     {
         "route": "673",
@@ -150141,7 +150141,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "9BE3D659E4C144D2",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺名都 (B1)"
+        "stop_name_tc": "粉嶺站轉車站 - 粉嶺名都"
     },
     {
         "route": "673A",
@@ -150229,7 +150229,7 @@
         "service_type": "1",
         "seq": "33",
         "stop": "F6C4CEFB8C5DB31F",
-        "stop_name_tc": "上水轉車站 - 上水總站(A4)"
+        "stop_name_tc": "上水轉車站 - 上水總站 (ND911)"
     },
     {
         "route": "673A",
@@ -150237,7 +150237,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "F6C4CEFB8C5DB31F",
-        "stop_name_tc": "上水轉車站 - 上水總站(A4)"
+        "stop_name_tc": "上水轉車站 - 上水總站 (ND911)"
     },
     {
         "route": "673A",
@@ -150477,7 +150477,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "F6C4CEFB8C5DB31F",
-        "stop_name_tc": "上水轉車站 - 上水總站(A4)"
+        "stop_name_tc": "上水轉車站 - 上水總站 (ND911)"
     },
     {
         "route": "673P",
@@ -150565,7 +150565,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "EF78DD9F765C6565",
-        "stop_name_tc": "粉嶺站轉車站 - 祥華邨(A1)"
+        "stop_name_tc": "粉嶺站轉車站 - 祥華邨 (ND184)"
     },
     {
         "route": "673P",
@@ -150837,7 +150837,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "C7120BD9A94B4F6A",
-        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館 (D2)"
+        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館"
     },
     {
         "route": "678",
@@ -150869,7 +150869,7 @@
         "service_type": "1",
         "seq": "23",
         "stop": "D876A83244ECB838",
-        "stop_name_tc": "上水轉車站 - 上水站(B5)"
+        "stop_name_tc": "上水轉車站 - 上水站 (ND479)"
     },
     {
         "route": "678",
@@ -150877,7 +150877,7 @@
         "service_type": "1",
         "seq": "24",
         "stop": "F6C4CEFB8C5DB31F",
-        "stop_name_tc": "上水轉車站 - 上水總站(A4)"
+        "stop_name_tc": "上水轉車站 - 上水總站 (ND911)"
     },
     {
         "route": "678",
@@ -150885,7 +150885,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "F6C4CEFB8C5DB31F",
-        "stop_name_tc": "上水轉車站 - 上水總站(A4)"
+        "stop_name_tc": "上水轉車站 - 上水總站 (ND911)"
     },
     {
         "route": "678",
@@ -150917,7 +150917,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "60952B4A38F3D82E",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站(D1)"
+        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站 (ND134)"
     },
     {
         "route": "678",
@@ -161909,7 +161909,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "9BE3D659E4C144D2",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺名都 (B1)"
+        "stop_name_tc": "粉嶺站轉車站 - 粉嶺名都"
     },
     {
         "route": "70K",
@@ -162053,7 +162053,7 @@
         "service_type": "1",
         "seq": "24",
         "stop": "647CBF3FE0DF2FAE",
-        "stop_name_tc": "上水轉車站 - 上水站(B6)"
+        "stop_name_tc": "上水轉車站 - 上水站 (ND477)"
     },
     {
         "route": "70K",
@@ -162141,7 +162141,7 @@
         "service_type": "1",
         "seq": "35",
         "stop": "EF78DD9F765C6565",
-        "stop_name_tc": "粉嶺站轉車站 - 祥華邨(A1)"
+        "stop_name_tc": "粉嶺站轉車站 - 祥華邨 (ND184)"
     },
     {
         "route": "70K",
@@ -162237,7 +162237,7 @@
         "service_type": "2",
         "seq": "5",
         "stop": "647CBF3FE0DF2FAE",
-        "stop_name_tc": "上水轉車站 - 上水站(B6)"
+        "stop_name_tc": "上水轉車站 - 上水站 (ND477)"
     },
     {
         "route": "70K",
@@ -162325,7 +162325,7 @@
         "service_type": "2",
         "seq": "16",
         "stop": "EF78DD9F765C6565",
-        "stop_name_tc": "粉嶺站轉車站 - 祥華邨(A1)"
+        "stop_name_tc": "粉嶺站轉車站 - 祥華邨 (ND184)"
     },
     {
         "route": "70K",
@@ -166981,7 +166981,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "9BE3D659E4C144D2",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺名都 (B1)"
+        "stop_name_tc": "粉嶺站轉車站 - 粉嶺名都"
     },
     {
         "route": "73B",
@@ -167045,7 +167045,7 @@
         "service_type": "1",
         "seq": "26",
         "stop": "D876A83244ECB838",
-        "stop_name_tc": "上水轉車站 - 上水站(B5)"
+        "stop_name_tc": "上水轉車站 - 上水站 (ND479)"
     },
     {
         "route": "73B",
@@ -167165,7 +167165,7 @@
         "service_type": "2",
         "seq": "7",
         "stop": "D876A83244ECB838",
-        "stop_name_tc": "上水轉車站 - 上水站(B5)"
+        "stop_name_tc": "上水轉車站 - 上水站 (ND479)"
     },
     {
         "route": "73B",
@@ -167373,7 +167373,7 @@
         "service_type": "3",
         "seq": "18",
         "stop": "9BE3D659E4C144D2",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺名都 (B1)"
+        "stop_name_tc": "粉嶺站轉車站 - 粉嶺名都"
     },
     {
         "route": "73B",
@@ -167437,7 +167437,7 @@
         "service_type": "3",
         "seq": "26",
         "stop": "D876A83244ECB838",
-        "stop_name_tc": "上水轉車站 - 上水站(B5)"
+        "stop_name_tc": "上水轉車站 - 上水站 (ND479)"
     },
     {
         "route": "73D",
@@ -168189,7 +168189,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "C799751FDFCE292E",
-        "stop_name_tc": "上水轉車站 - 上水總站(A1)"
+        "stop_name_tc": "上水轉車站 - 上水總站 (ND905)"
     },
     {
         "route": "73K",
@@ -168197,7 +168197,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "C799751FDFCE292E",
-        "stop_name_tc": "上水轉車站 - 上水總站(A1)"
+        "stop_name_tc": "上水轉車站 - 上水總站 (ND905)"
     },
     {
         "route": "73K",
@@ -168941,7 +168941,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "60952B4A38F3D82E",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站(D1)"
+        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站 (ND134)"
     },
     {
         "route": "73S",
@@ -168949,7 +168949,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "60952B4A38F3D82E",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站(D1)"
+        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站 (ND134)"
     },
     {
         "route": "73S",
@@ -175877,7 +175877,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "3FAC6C2592812331",
-        "stop_name_tc": "上水轉車站 - 上水站(D1)"
+        "stop_name_tc": "上水轉車站 - 上水站 (ND107)"
     },
     {
         "route": "76",
@@ -175885,7 +175885,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "4E655B25ABAE103A",
-        "stop_name_tc": "上水轉車站 - 上水站(C1)"
+        "stop_name_tc": "上水轉車站 - 上水站 (ND430)"
     },
     {
         "route": "76",
@@ -176229,7 +176229,7 @@
         "service_type": "1",
         "seq": "36",
         "stop": "3FAC6C2592812331",
-        "stop_name_tc": "上水轉車站 - 上水站(D1)"
+        "stop_name_tc": "上水轉車站 - 上水站 (ND107)"
     },
     {
         "route": "76K",
@@ -176269,7 +176269,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "4E655B25ABAE103A",
-        "stop_name_tc": "上水轉車站 - 上水站(C1)"
+        "stop_name_tc": "上水轉車站 - 上水站 (ND430)"
     },
     {
         "route": "76K",
@@ -176613,7 +176613,7 @@
         "service_type": "2",
         "seq": "3",
         "stop": "C7120BD9A94B4F6A",
-        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館 (D2)"
+        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館"
     },
     {
         "route": "76K",
@@ -176669,7 +176669,7 @@
         "service_type": "2",
         "seq": "10",
         "stop": "4E655B25ABAE103A",
-        "stop_name_tc": "上水轉車站 - 上水站(C1)"
+        "stop_name_tc": "上水轉車站 - 上水站 (ND430)"
     },
     {
         "route": "76K",
@@ -177005,7 +177005,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "60952B4A38F3D82E",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站(D1)"
+        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站 (ND134)"
     },
     {
         "route": "76S",
@@ -177013,7 +177013,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "60952B4A38F3D82E",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站(D1)"
+        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站 (ND134)"
     },
     {
         "route": "76S",
@@ -177357,7 +177357,7 @@
         "service_type": "1",
         "seq": "42",
         "stop": "293A78248611EF42",
-        "stop_name_tc": "上水轉車站 - 上水總站(A2)"
+        "stop_name_tc": "上水轉車站 - 上水總站 (ND906)"
     },
     {
         "route": "77K",
@@ -177365,7 +177365,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "293A78248611EF42",
-        "stop_name_tc": "上水轉車站 - 上水總站(A2)"
+        "stop_name_tc": "上水轉車站 - 上水總站 (ND906)"
     },
     {
         "route": "77K",
@@ -177693,7 +177693,7 @@
         "service_type": "2",
         "seq": "1",
         "stop": "293A78248611EF42",
-        "stop_name_tc": "上水轉車站 - 上水總站(A2)"
+        "stop_name_tc": "上水轉車站 - 上水總站 (ND906)"
     },
     {
         "route": "77K",
@@ -178029,7 +178029,7 @@
         "service_type": "3",
         "seq": "1",
         "stop": "293A78248611EF42",
-        "stop_name_tc": "上水轉車站 - 上水總站(A2)"
+        "stop_name_tc": "上水轉車站 - 上水總站 (ND906)"
     },
     {
         "route": "77K",
@@ -178373,7 +178373,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "9D388587636920DA",
-        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館 (D2)"
+        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館"
     },
     {
         "route": "78",
@@ -178477,7 +178477,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "3DEE05203A52B235",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺名都 (B1)"
+        "stop_name_tc": "粉嶺站轉車站 - 粉嶺名都"
     },
     {
         "route": "78A",
@@ -178589,7 +178589,7 @@
         "service_type": "3",
         "seq": "6",
         "stop": "3DEE05203A52B235",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺名都 (B1)"
+        "stop_name_tc": "粉嶺站轉車站 - 粉嶺名都"
     },
     {
         "route": "78A",
@@ -178701,7 +178701,7 @@
         "service_type": "5",
         "seq": "6",
         "stop": "3DEE05203A52B235",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺名都 (B1)"
+        "stop_name_tc": "粉嶺站轉車站 - 粉嶺名都"
     },
     {
         "route": "78A",
@@ -178717,7 +178717,7 @@
         "service_type": "6",
         "seq": "2",
         "stop": "3DEE05203A52B235",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺名都 (B1)"
+        "stop_name_tc": "粉嶺站轉車站 - 粉嶺名都"
     },
     {
         "route": "78A",
@@ -178797,7 +178797,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "F8C20FE9111D486A",
-        "stop_name_tc": "上水轉車站 - 上水站(D2)"
+        "stop_name_tc": "上水轉車站 - 上水站 (ND106)"
     },
     {
         "route": "78B",
@@ -178853,7 +178853,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "65ECD19EFD09FB74",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站(D1)"
+        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站 (ND133)"
     },
     {
         "route": "78B",
@@ -178989,7 +178989,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "C7120BD9A94B4F6A",
-        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館 (D2)"
+        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館"
     },
     {
         "route": "78B",
@@ -179045,7 +179045,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "4E655B25ABAE103A",
-        "stop_name_tc": "上水轉車站 - 上水站(C1)"
+        "stop_name_tc": "上水轉車站 - 上水站 (ND430)"
     },
     {
         "route": "78B",
@@ -179125,7 +179125,7 @@
         "service_type": "2",
         "seq": "9",
         "stop": "4E655B25ABAE103A",
-        "stop_name_tc": "上水轉車站 - 上水站(C1)"
+        "stop_name_tc": "上水轉車站 - 上水站 (ND430)"
     },
     {
         "route": "78B",
@@ -179349,7 +179349,7 @@
         "service_type": "1",
         "seq": "27",
         "stop": "25721F85DC026ACA",
-        "stop_name_tc": "粉嶺站轉車站 - 祥華邨(A1)"
+        "stop_name_tc": "粉嶺站轉車站 - 祥華邨 (ND182)"
     },
     {
         "route": "78K",
@@ -179357,7 +179357,7 @@
         "service_type": "1",
         "seq": "28",
         "stop": "D4A97E2A758EDC64",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站(C1)"
+        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站 (ND496)"
     },
     {
         "route": "78K",
@@ -179373,7 +179373,7 @@
         "service_type": "1",
         "seq": "30",
         "stop": "940F276037968281",
-        "stop_name_tc": "上水轉車站 - 上水總站(A2)"
+        "stop_name_tc": "上水轉車站 - 上水總站 (ND908)"
     },
     {
         "route": "78K",
@@ -179589,7 +179589,7 @@
         "service_type": "3",
         "seq": "25",
         "stop": "25721F85DC026ACA",
-        "stop_name_tc": "粉嶺站轉車站 - 祥華邨(A1)"
+        "stop_name_tc": "粉嶺站轉車站 - 祥華邨 (ND182)"
     },
     {
         "route": "78K",
@@ -179597,7 +179597,7 @@
         "service_type": "3",
         "seq": "26",
         "stop": "D4A97E2A758EDC64",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站(C1)"
+        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站 (ND496)"
     },
     {
         "route": "78K",
@@ -179629,7 +179629,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "C4DBA77DDE73976A",
-        "stop_name_tc": "上水轉車站 - 上水總站(A1)"
+        "stop_name_tc": "上水轉車站 - 上水總站 (ND902)"
     },
     {
         "route": "78K",
@@ -179661,7 +179661,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "25721F85DC026ACA",
-        "stop_name_tc": "粉嶺站轉車站 - 祥華邨(A1)"
+        "stop_name_tc": "粉嶺站轉車站 - 祥華邨 (ND182)"
     },
     {
         "route": "78K",
@@ -179669,7 +179669,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "07EEE519D04FFE28",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站(C1)"
+        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站 (ND495)"
     },
     {
         "route": "78K",
@@ -180005,7 +180005,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "9D388587636920DA",
-        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館 (D2)"
+        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館"
     },
     {
         "route": "78S",
@@ -180013,7 +180013,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "940F276037968281",
-        "stop_name_tc": "上水轉車站 - 上水總站(A2)"
+        "stop_name_tc": "上水轉車站 - 上水總站 (ND908)"
     },
     {
         "route": "78S",
@@ -180021,7 +180021,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "C4DBA77DDE73976A",
-        "stop_name_tc": "上水轉車站 - 上水總站(A1)"
+        "stop_name_tc": "上水轉車站 - 上水總站 (ND902)"
     },
     {
         "route": "78S",
@@ -180029,7 +180029,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "07EEE519D04FFE28",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站(C1)"
+        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站 (ND495)"
     },
     {
         "route": "78S",
@@ -180349,7 +180349,7 @@
         "service_type": "1",
         "seq": "25",
         "stop": "25721F85DC026ACA",
-        "stop_name_tc": "粉嶺站轉車站 - 祥華邨(A1)"
+        "stop_name_tc": "粉嶺站轉車站 - 祥華邨 (ND182)"
     },
     {
         "route": "79K",
@@ -180357,7 +180357,7 @@
         "service_type": "1",
         "seq": "26",
         "stop": "D4A97E2A758EDC64",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站(C1)"
+        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站 (ND496)"
     },
     {
         "route": "79K",
@@ -180413,7 +180413,7 @@
         "service_type": "1",
         "seq": "33",
         "stop": "60AEF6D3AA7AAC41",
-        "stop_name_tc": "上水轉車站 - 上水總站(A1)"
+        "stop_name_tc": "上水轉車站 - 上水總站 (ND903)"
     },
     {
         "route": "79K",
@@ -180605,7 +180605,7 @@
         "service_type": "3",
         "seq": "24",
         "stop": "25721F85DC026ACA",
-        "stop_name_tc": "粉嶺站轉車站 - 祥華邨(A1)"
+        "stop_name_tc": "粉嶺站轉車站 - 祥華邨 (ND182)"
     },
     {
         "route": "79K",
@@ -180613,7 +180613,7 @@
         "service_type": "3",
         "seq": "25",
         "stop": "D4A97E2A758EDC64",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站(C1)"
+        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站 (ND496)"
     },
     {
         "route": "79K",
@@ -180621,7 +180621,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "60AEF6D3AA7AAC41",
-        "stop_name_tc": "上水轉車站 - 上水總站(A1)"
+        "stop_name_tc": "上水轉車站 - 上水總站 (ND903)"
     },
     {
         "route": "79K",
@@ -180685,7 +180685,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "25721F85DC026ACA",
-        "stop_name_tc": "粉嶺站轉車站 - 祥華邨(A1)"
+        "stop_name_tc": "粉嶺站轉車站 - 祥華邨 (ND182)"
     },
     {
         "route": "79K",
@@ -180693,7 +180693,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "07EEE519D04FFE28",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站(C1)"
+        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站 (ND495)"
     },
     {
         "route": "79K",
@@ -180893,7 +180893,7 @@
         "service_type": "2",
         "seq": "1",
         "stop": "07EEE519D04FFE28",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站(C1)"
+        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站 (ND495)"
     },
     {
         "route": "79K",
@@ -188445,7 +188445,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "69B1F1ED4F1EC09D",
-        "stop_name_tc": "美東邨美仁樓"
+        "stop_name_tc": "美東邨美仁樓 (WT627)"
     },
     {
         "route": "85",
@@ -188917,7 +188917,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "69B1F1ED4F1EC09D",
-        "stop_name_tc": "美東邨美仁樓"
+        "stop_name_tc": "美東邨美仁樓 (WT627)"
     },
     {
         "route": "85A",
@@ -189117,7 +189117,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "69B1F1ED4F1EC09D",
-        "stop_name_tc": "美東邨美仁樓"
+        "stop_name_tc": "美東邨美仁樓 (WT627)"
     },
     {
         "route": "85B",
@@ -222029,7 +222029,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "F8C20FE9111D486A",
-        "stop_name_tc": "上水轉車站 - 上水站(D2)"
+        "stop_name_tc": "上水轉車站 - 上水站 (ND106)"
     },
     {
         "route": "978",
@@ -222085,7 +222085,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "65ECD19EFD09FB74",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站(D1)"
+        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站 (ND133)"
     },
     {
         "route": "978",
@@ -222157,7 +222157,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "C7120BD9A94B4F6A",
-        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館 (D2)"
+        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館"
     },
     {
         "route": "978",
@@ -222213,7 +222213,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "4E655B25ABAE103A",
-        "stop_name_tc": "上水轉車站 - 上水站(C1)"
+        "stop_name_tc": "上水轉車站 - 上水站 (ND430)"
     },
     {
         "route": "978",
@@ -222437,7 +222437,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "F8C20FE9111D486A",
-        "stop_name_tc": "上水轉車站 - 上水站(D2)"
+        "stop_name_tc": "上水轉車站 - 上水站 (ND106)"
     },
     {
         "route": "978A",
@@ -222525,7 +222525,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "4E655B25ABAE103A",
-        "stop_name_tc": "上水轉車站 - 上水站(C1)"
+        "stop_name_tc": "上水轉車站 - 上水站 (ND430)"
     },
     {
         "route": "978A",
@@ -222693,7 +222693,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "4E655B25ABAE103A",
-        "stop_name_tc": "上水轉車站 - 上水站(C1)"
+        "stop_name_tc": "上水轉車站 - 上水站 (ND430)"
     },
     {
         "route": "978B",
@@ -231773,7 +231773,7 @@
         "service_type": "1",
         "seq": "31",
         "stop": "C70342BF7C6A4732",
-        "stop_name_tc": "屯門赤鱲角隧道轉車站 (A1)"
+        "stop_name_tc": "屯門赤鱲角隧道轉車站 (TM514)"
     },
     {
         "route": "A33",
@@ -232045,7 +232045,7 @@
         "service_type": "2",
         "seq": "31",
         "stop": "C70342BF7C6A4732",
-        "stop_name_tc": "屯門赤鱲角隧道轉車站 (A1)"
+        "stop_name_tc": "屯門赤鱲角隧道轉車站 (TM514)"
     },
     {
         "route": "A33",
@@ -232453,7 +232453,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "C70342BF7C6A4732",
-        "stop_name_tc": "屯門赤鱲角隧道轉車站 (A1)"
+        "stop_name_tc": "屯門赤鱲角隧道轉車站 (TM514)"
     },
     {
         "route": "A33X",
@@ -232589,7 +232589,7 @@
         "service_type": "2",
         "seq": "13",
         "stop": "C70342BF7C6A4732",
-        "stop_name_tc": "屯門赤鱲角隧道轉車站 (A1)"
+        "stop_name_tc": "屯門赤鱲角隧道轉車站 (TM514)"
     },
     {
         "route": "A33X",
@@ -233349,7 +233349,7 @@
         "service_type": "1",
         "seq": "29",
         "stop": "C70342BF7C6A4732",
-        "stop_name_tc": "屯門赤鱲角隧道轉車站 (A1)"
+        "stop_name_tc": "屯門赤鱲角隧道轉車站 (TM514)"
     },
     {
         "route": "A34",
@@ -233525,7 +233525,7 @@
         "service_type": "2",
         "seq": "19",
         "stop": "C70342BF7C6A4732",
-        "stop_name_tc": "屯門赤鱲角隧道轉車站 (A1)"
+        "stop_name_tc": "屯門赤鱲角隧道轉車站 (TM514)"
     },
     {
         "route": "A34",
@@ -233781,7 +233781,7 @@
         "service_type": "3",
         "seq": "29",
         "stop": "C70342BF7C6A4732",
-        "stop_name_tc": "屯門赤鱲角隧道轉車站 (A1)"
+        "stop_name_tc": "屯門赤鱲角隧道轉車站 (TM514)"
     },
     {
         "route": "A34",
@@ -233973,7 +233973,7 @@
         "service_type": "4",
         "seq": "19",
         "stop": "C70342BF7C6A4732",
-        "stop_name_tc": "屯門赤鱲角隧道轉車站 (A1)"
+        "stop_name_tc": "屯門赤鱲角隧道轉車站 (TM514)"
     },
     {
         "route": "A34",
@@ -234677,7 +234677,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "C70342BF7C6A4732",
-        "stop_name_tc": "屯門赤鱲角隧道轉車站 (A1)"
+        "stop_name_tc": "屯門赤鱲角隧道轉車站 (TM514)"
     },
     {
         "route": "A36",
@@ -234821,7 +234821,7 @@
         "service_type": "2",
         "seq": "15",
         "stop": "C70342BF7C6A4732",
-        "stop_name_tc": "屯門赤鱲角隧道轉車站 (A1)"
+        "stop_name_tc": "屯門赤鱲角隧道轉車站 (TM514)"
     },
     {
         "route": "A36",
@@ -234973,7 +234973,7 @@
         "service_type": "3",
         "seq": "15",
         "stop": "C70342BF7C6A4732",
-        "stop_name_tc": "屯門赤鱲角隧道轉車站 (A1)"
+        "stop_name_tc": "屯門赤鱲角隧道轉車站 (TM514)"
     },
     {
         "route": "A36",
@@ -235133,7 +235133,7 @@
         "service_type": "5",
         "seq": "15",
         "stop": "C70342BF7C6A4732",
-        "stop_name_tc": "屯門赤鱲角隧道轉車站 (A1)"
+        "stop_name_tc": "屯門赤鱲角隧道轉車站 (TM514)"
     },
     {
         "route": "A36",
@@ -235589,7 +235589,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "C70342BF7C6A4732",
-        "stop_name_tc": "屯門赤鱲角隧道轉車站 (A1)"
+        "stop_name_tc": "屯門赤鱲角隧道轉車站 (TM514)"
     },
     {
         "route": "A37",
@@ -235749,7 +235749,7 @@
         "service_type": "2",
         "seq": "17",
         "stop": "C70342BF7C6A4732",
-        "stop_name_tc": "屯門赤鱲角隧道轉車站 (A1)"
+        "stop_name_tc": "屯門赤鱲角隧道轉車站 (TM514)"
     },
     {
         "route": "A37",
@@ -239141,7 +239141,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "0AAF9F132CE224F0",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站(D1)"
+        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站 (ND135)"
     },
     {
         "route": "A43",
@@ -239277,7 +239277,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "9D388587636920DA",
-        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館 (D2)"
+        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館"
     },
     {
         "route": "A43",
@@ -239445,7 +239445,7 @@
         "service_type": "2",
         "seq": "9",
         "stop": "9D388587636920DA",
-        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館 (D2)"
+        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館"
     },
     {
         "route": "A43",
@@ -244437,7 +244437,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "0412B5C2C05B00AD",
-        "stop_name_tc": "屯門赤鱲角隧道轉車站 (A3)"
+        "stop_name_tc": "屯門赤鱲角隧道轉車站 (TM512)"
     },
     {
         "route": "E33",
@@ -244917,7 +244917,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "0412B5C2C05B00AD",
-        "stop_name_tc": "屯門赤鱲角隧道轉車站 (A3)"
+        "stop_name_tc": "屯門赤鱲角隧道轉車站 (TM512)"
     },
     {
         "route": "E33P",
@@ -245101,7 +245101,7 @@
         "service_type": "2",
         "seq": "13",
         "stop": "0412B5C2C05B00AD",
-        "stop_name_tc": "屯門赤鱲角隧道轉車站 (A3)"
+        "stop_name_tc": "屯門赤鱲角隧道轉車站 (TM512)"
     },
     {
         "route": "E33P",
@@ -245501,7 +245501,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "0412B5C2C05B00AD",
-        "stop_name_tc": "屯門赤鱲角隧道轉車站 (A3)"
+        "stop_name_tc": "屯門赤鱲角隧道轉車站 (TM512)"
     },
     {
         "route": "E36",
@@ -245877,7 +245877,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "3465CA4854929709",
-        "stop_name_tc": "屯門赤鱲角隧道轉車站 (A2)"
+        "stop_name_tc": "屯門赤鱲角隧道轉車站 (TM513)"
     },
     {
         "route": "E36A",
@@ -246557,7 +246557,7 @@
         "service_type": "1",
         "seq": "32",
         "stop": "4F3D6BA55D5FFFE1",
-        "stop_name_tc": "屯門赤鱲角隧道轉車站 (A4)"
+        "stop_name_tc": "屯門赤鱲角隧道轉車站 (TM511)"
     },
     {
         "route": "E36C",
@@ -247853,7 +247853,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "0412B5C2C05B00AD",
-        "stop_name_tc": "屯門赤鱲角隧道轉車站 (A3)"
+        "stop_name_tc": "屯門赤鱲角隧道轉車站 (TM512)"
     },
     {
         "route": "E37",
@@ -248021,7 +248021,7 @@
         "service_type": "2",
         "seq": "11",
         "stop": "0412B5C2C05B00AD",
-        "stop_name_tc": "屯門赤鱲角隧道轉車站 (A3)"
+        "stop_name_tc": "屯門赤鱲角隧道轉車站 (TM512)"
     },
     {
         "route": "E37",
@@ -248165,7 +248165,7 @@
         "service_type": "3",
         "seq": "8",
         "stop": "0412B5C2C05B00AD",
-        "stop_name_tc": "屯門赤鱲角隧道轉車站 (A3)"
+        "stop_name_tc": "屯門赤鱲角隧道轉車站 (TM512)"
     },
     {
         "route": "E37",
@@ -248653,7 +248653,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "4F3D6BA55D5FFFE1",
-        "stop_name_tc": "屯門赤鱲角隧道轉車站 (A4)"
+        "stop_name_tc": "屯門赤鱲角隧道轉車站 (TM511)"
     },
     {
         "route": "E37C",
@@ -248765,7 +248765,7 @@
         "service_type": "2",
         "seq": "7",
         "stop": "4F3D6BA55D5FFFE1",
-        "stop_name_tc": "屯門赤鱲角隧道轉車站 (A4)"
+        "stop_name_tc": "屯門赤鱲角隧道轉車站 (TM511)"
     },
     {
         "route": "E37C",
@@ -250501,7 +250501,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "3465CA4854929709",
-        "stop_name_tc": "屯門赤鱲角隧道轉車站 (A2)"
+        "stop_name_tc": "屯門赤鱲角隧道轉車站 (TM513)"
     },
     {
         "route": "E43",
@@ -259437,7 +259437,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "F8C20FE9111D486A",
-        "stop_name_tc": "上水轉車站 - 上水站(D2)"
+        "stop_name_tc": "上水轉車站 - 上水站 (ND106)"
     },
     {
         "route": "N273",
@@ -259501,7 +259501,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "65ECD19EFD09FB74",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站(D1)"
+        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站 (ND133)"
     },
     {
         "route": "N273",
@@ -259573,7 +259573,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "C7120BD9A94B4F6A",
-        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館 (D2)"
+        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館"
     },
     {
         "route": "N273",
@@ -259637,7 +259637,7 @@
         "service_type": "1",
         "seq": "26",
         "stop": "4E655B25ABAE103A",
-        "stop_name_tc": "上水轉車站 - 上水站(C1)"
+        "stop_name_tc": "上水轉車站 - 上水站 (ND430)"
     },
     {
         "route": "N273",
@@ -263157,7 +263157,7 @@
         "service_type": "1",
         "seq": "26",
         "stop": "0412B5C2C05B00AD",
-        "stop_name_tc": "屯門赤鱲角隧道轉車站 (A3)"
+        "stop_name_tc": "屯門赤鱲角隧道轉車站 (TM512)"
     },
     {
         "route": "N30",
@@ -265293,7 +265293,7 @@
         "service_type": "1",
         "seq": "36",
         "stop": "C7120BD9A94B4F6A",
-        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館 (D2)"
+        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館"
     },
     {
         "route": "N373",
@@ -265333,7 +265333,7 @@
         "service_type": "1",
         "seq": "41",
         "stop": "4E655B25ABAE103A",
-        "stop_name_tc": "上水轉車站 - 上水站(C1)"
+        "stop_name_tc": "上水轉車站 - 上水站 (ND430)"
     },
     {
         "route": "N373",
@@ -265485,7 +265485,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "F8C20FE9111D486A",
-        "stop_name_tc": "上水轉車站 - 上水站(D2)"
+        "stop_name_tc": "上水轉車站 - 上水站 (ND106)"
     },
     {
         "route": "N373",
@@ -265525,7 +265525,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "65ECD19EFD09FB74",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站(D1)"
+        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站 (ND133)"
     },
     {
         "route": "N373",
@@ -267229,7 +267229,7 @@
         "service_type": "1",
         "seq": "25",
         "stop": "0AAF9F132CE224F0",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站(D1)"
+        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站 (ND135)"
     },
     {
         "route": "N42A",
@@ -267365,7 +267365,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "9D388587636920DA",
-        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館 (D2)"
+        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館"
     },
     {
         "route": "N42A",
@@ -270229,7 +270229,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "F8C20FE9111D486A",
-        "stop_name_tc": "上水轉車站 - 上水站(D2)"
+        "stop_name_tc": "上水轉車站 - 上水站 (ND106)"
     },
     {
         "route": "N73",
@@ -270269,7 +270269,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "65ECD19EFD09FB74",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站(D1)"
+        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站 (ND133)"
     },
     {
         "route": "N73",
@@ -270669,7 +270669,7 @@
         "service_type": "1",
         "seq": "25",
         "stop": "C7120BD9A94B4F6A",
-        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館 (D2)"
+        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館"
     },
     {
         "route": "N73",
@@ -270717,7 +270717,7 @@
         "service_type": "1",
         "seq": "31",
         "stop": "4E655B25ABAE103A",
-        "stop_name_tc": "上水轉車站 - 上水站(C1)"
+        "stop_name_tc": "上水轉車站 - 上水站 (ND430)"
     },
     {
         "route": "N73",
@@ -270981,7 +270981,7 @@
         "service_type": "1",
         "seq": "30",
         "stop": "EF78DD9F765C6565",
-        "stop_name_tc": "粉嶺站轉車站 - 祥華邨(A1)"
+        "stop_name_tc": "粉嶺站轉車站 - 祥華邨 (ND184)"
     },
     {
         "route": "N78",
@@ -270989,7 +270989,7 @@
         "service_type": "1",
         "seq": "31",
         "stop": "D4A97E2A758EDC64",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站(C1)"
+        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站 (ND496)"
     },
     {
         "route": "N78",
@@ -271005,7 +271005,7 @@
         "service_type": "1",
         "seq": "33",
         "stop": "C799751FDFCE292E",
-        "stop_name_tc": "上水轉車站 - 上水總站(A1)"
+        "stop_name_tc": "上水轉車站 - 上水總站 (ND905)"
     },
     {
         "route": "N78",
@@ -271013,7 +271013,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "C799751FDFCE292E",
-        "stop_name_tc": "上水轉車站 - 上水總站(A1)"
+        "stop_name_tc": "上水轉車站 - 上水總站 (ND905)"
     },
     {
         "route": "N78",
@@ -271045,7 +271045,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "EF78DD9F765C6565",
-        "stop_name_tc": "粉嶺站轉車站 - 祥華邨(A1)"
+        "stop_name_tc": "粉嶺站轉車站 - 祥華邨 (ND184)"
     },
     {
         "route": "N78",
@@ -271053,7 +271053,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "07EEE519D04FFE28",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站(C1)"
+        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站 (ND495)"
     },
     {
         "route": "N78",
@@ -272805,7 +272805,7 @@
         "service_type": "1",
         "seq": "28",
         "stop": "C70342BF7C6A4732",
-        "stop_name_tc": "屯門赤鱲角隧道轉車站 (A1)"
+        "stop_name_tc": "屯門赤鱲角隧道轉車站 (TM514)"
     },
     {
         "route": "NA33",
@@ -273205,7 +273205,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "C70342BF7C6A4732",
-        "stop_name_tc": "屯門赤鱲角隧道轉車站 (A1)"
+        "stop_name_tc": "屯門赤鱲角隧道轉車站 (TM514)"
     },
     {
         "route": "NA36",
@@ -273325,7 +273325,7 @@
         "service_type": "2",
         "seq": "12",
         "stop": "C70342BF7C6A4732",
-        "stop_name_tc": "屯門赤鱲角隧道轉車站 (A1)"
+        "stop_name_tc": "屯門赤鱲角隧道轉車站 (TM514)"
     },
     {
         "route": "NA36",
@@ -274045,7 +274045,7 @@
         "service_type": "1",
         "seq": "27",
         "stop": "C70342BF7C6A4732",
-        "stop_name_tc": "屯門赤鱲角隧道轉車站 (A1)"
+        "stop_name_tc": "屯門赤鱲角隧道轉車站 (TM514)"
     },
     {
         "route": "NA37",
@@ -275125,7 +275125,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "0AAF9F132CE224F0",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站(D1)"
+        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站 (ND135)"
     },
     {
         "route": "NA43",
@@ -275261,7 +275261,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "9D388587636920DA",
-        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館 (D2)"
+        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館"
     },
     {
         "route": "NA43",
@@ -276013,7 +276013,7 @@
         "service_type": "1",
         "seq": "31",
         "stop": "C70342BF7C6A4732",
-        "stop_name_tc": "屯門赤鱲角隧道轉車站 (A1)"
+        "stop_name_tc": "屯門赤鱲角隧道轉車站 (TM514)"
     },
     {
         "route": "NA52",
@@ -278349,7 +278349,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "C799751FDFCE292E",
-        "stop_name_tc": "上水轉車站 - 上水總站(A1)"
+        "stop_name_tc": "上水轉車站 - 上水總站 (ND905)"
     },
     {
         "route": "R270",
@@ -278381,7 +278381,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "60952B4A38F3D82E",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站(D1)"
+        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站 (ND134)"
     },
     {
         "route": "R270",
@@ -278565,7 +278565,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "4F3D6BA55D5FFFE1",
-        "stop_name_tc": "屯門赤鱲角隧道轉車站 (A4)"
+        "stop_name_tc": "屯門赤鱲角隧道轉車站 (TM511)"
     },
     {
         "route": "R33",
@@ -278661,7 +278661,7 @@
         "service_type": "2",
         "seq": "11",
         "stop": "4F3D6BA55D5FFFE1",
-        "stop_name_tc": "屯門赤鱲角隧道轉車站 (A4)"
+        "stop_name_tc": "屯門赤鱲角隧道轉車站 (TM511)"
     },
     {
         "route": "R33",
@@ -279085,7 +279085,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "C799751FDFCE292E",
-        "stop_name_tc": "上水轉車站 - 上水總站(A1)"
+        "stop_name_tc": "上水轉車站 - 上水總站 (ND905)"
     },
     {
         "route": "R673",
@@ -279141,7 +279141,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "EF78DD9F765C6565",
-        "stop_name_tc": "粉嶺站轉車站 - 祥華邨(A1)"
+        "stop_name_tc": "粉嶺站轉車站 - 祥華邨 (ND184)"
     },
     {
         "route": "R673",
@@ -279277,7 +279277,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "EF78DD9F765C6565",
-        "stop_name_tc": "粉嶺站轉車站 - 祥華邨(A1)"
+        "stop_name_tc": "粉嶺站轉車站 - 祥華邨 (ND184)"
     },
     {
         "route": "R78",
@@ -282317,7 +282317,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "9D388587636920DA",
-        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館 (D2)"
+        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館"
     },
     {
         "route": "SP7",
@@ -282341,7 +282341,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "A7CE931D8AA9E7F6",
-        "stop_name_tc": "上水轉車站 - 上水總站(A1)"
+        "stop_name_tc": "上水轉車站 - 上水總站 (ND900)"
     },
     {
         "route": "T270",
@@ -282381,7 +282381,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "7B4FD0F182DCC294",
-        "stop_name_tc": "佐敦道西九龍站 (YT674a)"
+        "stop_name_tc": "佐敦道西九龍站 (YT674b)"
     },
     {
         "route": "T270",
@@ -282405,7 +282405,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "3FAC6C2592812331",
-        "stop_name_tc": "上水轉車站 - 上水站(D1)"
+        "stop_name_tc": "上水轉車站 - 上水站 (ND107)"
     },
     {
         "route": "T270",
@@ -282445,7 +282445,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "65ECD19EFD09FB74",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站(D1)"
+        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站 (ND133)"
     },
     {
         "route": "T270",
@@ -282501,7 +282501,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "07EEE519D04FFE28",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站(C1)"
+        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站 (ND495)"
     },
     {
         "route": "T270",
@@ -282533,7 +282533,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "C7120BD9A94B4F6A",
-        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館 (D2)"
+        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館"
     },
     {
         "route": "T270",
@@ -282565,7 +282565,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "4E655B25ABAE103A",
-        "stop_name_tc": "上水轉車站 - 上水站(C1)"
+        "stop_name_tc": "上水轉車站 - 上水站 (ND430)"
     },
     {
         "route": "T270",
@@ -282693,7 +282693,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "C7120BD9A94B4F6A",
-        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館 (D2)"
+        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館"
     },
     {
         "route": "T277",
@@ -282725,7 +282725,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "4E655B25ABAE103A",
-        "stop_name_tc": "上水轉車站 - 上水站(C1)"
+        "stop_name_tc": "上水轉車站 - 上水站 (ND430)"
     },
     {
         "route": "T277",
@@ -282741,7 +282741,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "940F276037968281",
-        "stop_name_tc": "上水轉車站 - 上水總站(A2)"
+        "stop_name_tc": "上水轉車站 - 上水總站 (ND908)"
     },
     {
         "route": "T277",
@@ -282749,7 +282749,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "940F276037968281",
-        "stop_name_tc": "上水轉車站 - 上水總站(A2)"
+        "stop_name_tc": "上水轉車站 - 上水總站 (ND908)"
     },
     {
         "route": "T277",
@@ -282773,7 +282773,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "60952B4A38F3D82E",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站(D1)"
+        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站 (ND134)"
     },
     {
         "route": "T277",
@@ -284037,7 +284037,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "9D388587636920DA",
-        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館 (D2)"
+        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館"
     },
     {
         "route": "W3",
@@ -284061,7 +284061,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "A7CE931D8AA9E7F6",
-        "stop_name_tc": "上水轉車站 - 上水總站(A1)"
+        "stop_name_tc": "上水轉車站 - 上水總站 (ND900)"
     },
     {
         "route": "W3",
@@ -284069,7 +284069,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "A7CE931D8AA9E7F6",
-        "stop_name_tc": "上水轉車站 - 上水總站(A1)"
+        "stop_name_tc": "上水轉車站 - 上水總站 (ND900)"
     },
     {
         "route": "W3",
@@ -284093,7 +284093,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "0AAF9F132CE224F0",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站(D1)"
+        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站 (ND135)"
     },
     {
         "route": "W3",
@@ -286253,7 +286253,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "0AAF9F132CE224F0",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站(D1)"
+        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站 (ND135)"
     },
     {
         "route": "X43",
