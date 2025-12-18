@@ -26976,14 +26976,6 @@
         "long": "114.225006"
     },
     {
-        "stop": "80C387D87AFBCE3E",
-        "name_en": "CHOI SHEK ESTATE (ND104)",
-        "name_tc": "彩石邨 (ND104)",
-        "name_sc": "彩石邨 (ND104)",
-        "lat": "22.504081",
-        "long": "114.121794"
-    },
-    {
         "stop": "80C801672D7D560D",
         "name_en": "LAM TIN (NORTH) (LT940)",
         "name_tc": "藍田(北) (LT940)",
@@ -46009,9 +46001,9 @@
     },
     {
         "stop": "DCF9EEF056BF3F32",
-        "name_en": "CULLINAN SKY",
-        "name_tc": "天璽．天",
-        "name_sc": "天玺．天",
+        "name_en": "CULLINAN SKY (KA131)",
+        "name_tc": "天璽．天 (KA131)",
+        "name_sc": "天玺．天 (KA131)",
         "lat": "22.332510",
         "long": "114.199140"
     },
@@ -52318,6 +52310,14 @@
         "name_sc": "和田邨 (TM503)",
         "lat": "22.412519",
         "long": "113.968638"
+    },
+    {
+        "stop": "FA3814D4475E4E1C",
+        "name_en": "HUNG HOM STATION",
+        "name_tc": "紅磡站",
+        "name_sc": "红磡站",
+        "lat": "22.302083",
+        "long": "114.182547"
     },
     {
         "stop": "FA44FBDA21BE2E05",

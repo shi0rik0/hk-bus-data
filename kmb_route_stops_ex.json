@@ -134349,7 +134349,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "DCF9EEF056BF3F32",
-        "stop_name_tc": "天璽．天"
+        "stop_name_tc": "天璽．天 (KA131)"
     },
     {
         "route": "5M",
@@ -223808,6 +223808,38 @@
         "stop_name_tc": "中環街市"
     },
     {
+        "route": "980X",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "17",
+        "stop": "AE6FE615893E8C89",
+        "stop_name_tc": "遮打道"
+    },
+    {
+        "route": "980X",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "18",
+        "stop": "3007D34FB91FB27E",
+        "stop_name_tc": "金鐘站"
+    },
+    {
+        "route": "980X",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "19",
+        "stop": "1AB934EFE0E1470A",
+        "stop_name_tc": "軍器廠街"
+    },
+    {
+        "route": "980X",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "20",
+        "stop": "16CE9E8D17681839",
+        "stop_name_tc": "菲林明道"
+    },
+    {
         "route": "981P",
         "bound": "I",
         "service_type": "1",
@@ -267676,6 +267708,22 @@
         "bound": "O",
         "service_type": "1",
         "seq": "13",
+        "stop": "5B5107DB7CE969DE",
+        "stop_name_tc": "青富商場 (TY102)"
+    },
+    {
+        "route": "N43",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "14",
+        "stop": "333E9F98EEB84849",
+        "stop_name_tc": "青富苑 (TY107)"
+    },
+    {
+        "route": "N43",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "15",
         "stop": "196A1E44C305C174",
         "stop_name_tc": "美景花園 (TY111)"
     },
@@ -267683,7 +267731,7 @@
         "route": "N43",
         "bound": "O",
         "service_type": "1",
-        "seq": "14",
+        "seq": "16",
         "stop": "BDE0F1679E1C8ABF",
         "stop_name_tc": "長青巴士總站 (TY113)"
     },
@@ -267691,7 +267739,7 @@
         "route": "N43",
         "bound": "O",
         "service_type": "1",
-        "seq": "15",
+        "seq": "17",
         "stop": "13458794A52910B0",
         "stop_name_tc": "青盛苑 (TY115)"
     },
@@ -267699,7 +267747,7 @@
         "route": "N43",
         "bound": "O",
         "service_type": "1",
-        "seq": "16",
+        "seq": "18",
         "stop": "3F13933D0157CFCF",
         "stop_name_tc": "青華苑 (TY117)"
     },
@@ -267707,7 +267755,7 @@
         "route": "N43",
         "bound": "O",
         "service_type": "1",
-        "seq": "17",
+        "seq": "19",
         "stop": "A2BE47AFF20CD4F6",
         "stop_name_tc": "曉峰園 (TY130)"
     },
@@ -267715,7 +267763,7 @@
         "route": "N43",
         "bound": "O",
         "service_type": "1",
-        "seq": "18",
+        "seq": "20",
         "stop": "CC6B75E6D60B4C57",
         "stop_name_tc": "長亨邨停車場 (TY131)"
     },
@@ -267723,7 +267771,7 @@
         "route": "N43",
         "bound": "O",
         "service_type": "1",
-        "seq": "19",
+        "seq": "21",
         "stop": "79842A7E2FC0844F",
         "stop_name_tc": "長宏巴士總站 (TY981)"
     },
@@ -277436,8 +277484,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "2",
-        "stop": "5C1C4A58776A0D0B",
-        "stop_name_tc": "黃埔(船景街)"
+        "stop": "FA3814D4475E4E1C",
+        "stop_name_tc": "紅磡站"
     },
     {
         "route": "PB3B",
@@ -277500,8 +277548,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "10",
-        "stop": "5C1C4A58776A0D0B",
-        "stop_name_tc": "黃埔(船景街)"
+        "stop": "FA3814D4475E4E1C",
+        "stop_name_tc": "紅磡站"
     },
     {
         "route": "PB3B",
@@ -277892,8 +277940,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "4",
-        "stop": "5C1C4A58776A0D0B",
-        "stop_name_tc": "黃埔(船景街)"
+        "stop": "FA3814D4475E4E1C",
+        "stop_name_tc": "紅磡站"
     },
     {
         "route": "PBW4",
