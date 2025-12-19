@@ -15708,8 +15708,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "18",
-        "stop": "1A38F9517732098F",
-        "stop_name_tc": "德福花園 (KT658)"
+        "stop": "06E1120EA9A7BF69",
+        "stop_name_tc": "德福花園 (KT661)"
     },
     {
         "route": "11C",
@@ -16084,8 +16084,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "9",
-        "stop": "1A38F9517732098F",
-        "stop_name_tc": "德福花園 (KT658)"
+        "stop": "CC811B604DD883AE",
+        "stop_name_tc": "德福花園 (KT657)"
     },
     {
         "route": "11D",
@@ -19708,8 +19708,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "13",
-        "stop": "C2AA10A9751D3692",
-        "stop_name_tc": "德福花園 (KT659)"
+        "stop": "CC811B604DD883AE",
+        "stop_name_tc": "德福花園 (KT657)"
     },
     {
         "route": "13P",
@@ -21356,8 +21356,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "12",
-        "stop": "D45CEDE6A9DFA30B",
-        "stop_name_tc": "德福花園 (KT660)"
+        "stop": "C2AA10A9751D3692",
+        "stop_name_tc": "德福花園 (KT659)"
     },
     {
         "route": "14",
@@ -23316,8 +23316,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "11",
-        "stop": "D45CEDE6A9DFA30B",
-        "stop_name_tc": "德福花園 (KT660)"
+        "stop": "C2AA10A9751D3692",
+        "stop_name_tc": "德福花園 (KT659)"
     },
     {
         "route": "15",
@@ -24636,8 +24636,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "11",
-        "stop": "C2AA10A9751D3692",
-        "stop_name_tc": "德福花園 (KT659)"
+        "stop": "CC811B604DD883AE",
+        "stop_name_tc": "德福花園 (KT657)"
     },
     {
         "route": "16",
@@ -24852,8 +24852,8 @@
         "bound": "O",
         "service_type": "2",
         "seq": "9",
-        "stop": "C2AA10A9751D3692",
-        "stop_name_tc": "德福花園 (KT659)"
+        "stop": "CC811B604DD883AE",
+        "stop_name_tc": "德福花園 (KT657)"
     },
     {
         "route": "16",
@@ -30636,8 +30636,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "12",
-        "stop": "C2AA10A9751D3692",
-        "stop_name_tc": "德福花園 (KT659)"
+        "stop": "CC811B604DD883AE",
+        "stop_name_tc": "德福花園 (KT657)"
     },
     {
         "route": "1A",
@@ -73964,8 +73964,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "8",
-        "stop": "31852497A98F4A15",
-        "stop_name_tc": "德福花園 (KT664)"
+        "stop": "F97399CFEEB9219B",
+        "stop_name_tc": "德福花園 (KT662)"
     },
     {
         "route": "274X",
@@ -111444,8 +111444,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "5",
-        "stop": "CC811B604DD883AE",
-        "stop_name_tc": "德福花園 (KT657)"
+        "stop": "06E1120EA9A7BF69",
+        "stop_name_tc": "德福花園 (KT661)"
     },
     {
         "route": "3D",
@@ -111580,8 +111580,8 @@
         "bound": "I",
         "service_type": "2",
         "seq": "5",
-        "stop": "CC811B604DD883AE",
-        "stop_name_tc": "德福花園 (KT657)"
+        "stop": "06E1120EA9A7BF69",
+        "stop_name_tc": "德福花園 (KT661)"
     },
     {
         "route": "3D",
@@ -170900,8 +170900,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "8",
-        "stop": "31852497A98F4A15",
-        "stop_name_tc": "德福花園 (KT664)"
+        "stop": "F97399CFEEB9219B",
+        "stop_name_tc": "德福花園 (KT662)"
     },
     {
         "route": "74D",
@@ -171436,8 +171436,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "8",
-        "stop": "31852497A98F4A15",
-        "stop_name_tc": "德福花園 (KT664)"
+        "stop": "F97399CFEEB9219B",
+        "stop_name_tc": "德福花園 (KT662)"
     },
     {
         "route": "74E",
@@ -172092,8 +172092,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "8",
-        "stop": "31852497A98F4A15",
-        "stop_name_tc": "德福花園 (KT664)"
+        "stop": "F97399CFEEB9219B",
+        "stop_name_tc": "德福花園 (KT662)"
     },
     {
         "route": "74F",
@@ -173148,8 +173148,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "8",
-        "stop": "31852497A98F4A15",
-        "stop_name_tc": "德福花園 (KT664)"
+        "stop": "F97399CFEEB9219B",
+        "stop_name_tc": "德福花園 (KT662)"
     },
     {
         "route": "74P",
@@ -174100,8 +174100,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "8",
-        "stop": "31852497A98F4A15",
-        "stop_name_tc": "德福花園 (KT664)"
+        "stop": "F97399CFEEB9219B",
+        "stop_name_tc": "德福花園 (KT662)"
     },
     {
         "route": "74X",
@@ -181988,8 +181988,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "8",
-        "stop": "A11DE40C25E0AB6A",
-        "stop_name_tc": "德福花園 (KT663)"
+        "stop": "50C432C497A20C1C",
+        "stop_name_tc": "德福花園"
     },
     {
         "route": "80",
@@ -183124,8 +183124,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "8",
-        "stop": "F97399CFEEB9219B",
-        "stop_name_tc": "德福花園 (KT662)"
+        "stop": "50C432C497A20C1C",
+        "stop_name_tc": "德福花園"
     },
     {
         "route": "80X",
@@ -186908,8 +186908,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "8",
-        "stop": "06E1120EA9A7BF69",
-        "stop_name_tc": "德福花園 (KT661)"
+        "stop": "50C432C497A20C1C",
+        "stop_name_tc": "德福花園"
     },
     {
         "route": "83X",
@@ -187068,8 +187068,8 @@
         "bound": "I",
         "service_type": "2",
         "seq": "8",
-        "stop": "06E1120EA9A7BF69",
-        "stop_name_tc": "德福花園 (KT661)"
+        "stop": "50C432C497A20C1C",
+        "stop_name_tc": "德福花園"
     },
     {
         "route": "83X",
@@ -200612,8 +200612,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "9",
-        "stop": "F97399CFEEB9219B",
-        "stop_name_tc": "德福花園 (KT662)"
+        "stop": "50C432C497A20C1C",
+        "stop_name_tc": "德福花園"
     },
     {
         "route": "89X",
@@ -211524,8 +211524,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "15",
-        "stop": "D45CEDE6A9DFA30B",
-        "stop_name_tc": "德福花園 (KT660)"
+        "stop": "C2AA10A9751D3692",
+        "stop_name_tc": "德福花園 (KT659)"
     },
     {
         "route": "93K",
@@ -266052,8 +266052,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "5",
-        "stop": "CC811B604DD883AE",
-        "stop_name_tc": "德福花園 (KT657)"
+        "stop": "06E1120EA9A7BF69",
+        "stop_name_tc": "德福花園 (KT661)"
     },
     {
         "route": "N3D",
@@ -277884,8 +277884,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "3",
-        "stop": "5C1C4A58776A0D0B",
-        "stop_name_tc": "黃埔(船景街)"
+        "stop": "FA3814D4475E4E1C",
+        "stop_name_tc": "紅磡站"
     },
     {
         "route": "PBW4",

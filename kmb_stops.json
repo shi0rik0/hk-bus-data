@@ -5408,14 +5408,6 @@
         "long": "114.107914"
     },
     {
-        "stop": "1A38F9517732098F",
-        "name_en": "TELFORD GARDENS (KT658)",
-        "name_tc": "德福花園 (KT658)",
-        "name_sc": "德福花园 (KT658)",
-        "lat": "22.322088",
-        "long": "114.214272"
-    },
-    {
         "stop": "1A52AD7D8F64311F",
         "name_en": "TIN SHUI WAI TOWN CENTRE (TN943)",
         "name_tc": "天水圍市中心 (TN943)",
@@ -10390,14 +10382,6 @@
         "name_sc": "松岭路 (TA325)",
         "lat": "22.377825",
         "long": "114.181313"
-    },
-    {
-        "stop": "31852497A98F4A15",
-        "name_en": "TELFORD GARDENS (KT664)",
-        "name_tc": "德福花園 (KT664)",
-        "name_sc": "德福花园 (KT664)",
-        "lat": "22.322570",
-        "long": "114.214311"
     },
     {
         "stop": "3199543D3AE70527",
@@ -17080,6 +17064,14 @@
         "long": "114.257002"
     },
     {
+        "stop": "50C432C497A20C1C",
+        "name_en": "TELFORD GARDENS",
+        "name_tc": "德福花園",
+        "name_sc": "德福花园",
+        "lat": "0.000000",
+        "long": "0.000000"
+    },
+    {
         "stop": "50C82DFB0AC97FC8",
         "name_en": "STATUE SQUARE",
         "name_tc": "皇后像廣場",
@@ -19478,14 +19470,6 @@
         "name_sc": "富怡花园",
         "lat": "22.263499",
         "long": "114.250287"
-    },
-    {
-        "stop": "5C1C4A58776A0D0B",
-        "name_en": "WHAMPOA(SHUNG KING STREET)",
-        "name_tc": "黃埔(船景街)",
-        "name_sc": "黄埔(船景街)",
-        "lat": "22.304433",
-        "long": "114.189922"
     },
     {
         "stop": "5C1FB04FF191337B",
@@ -33510,14 +33494,6 @@
         "name_sc": "屏山屏兴里 (YL610)",
         "lat": "22.443494",
         "long": "114.010237"
-    },
-    {
-        "stop": "A11DE40C25E0AB6A",
-        "name_en": "TELFORD GARDENS (KT663)",
-        "name_tc": "德福花園 (KT663)",
-        "name_sc": "德福花园 (KT663)",
-        "lat": "22.322312",
-        "long": "114.214263"
     },
     {
         "stop": "A11E4BB8DE5D8598",
