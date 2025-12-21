@@ -5736,6 +5736,14 @@
         "long": "114.187420"
     },
     {
+        "stop": "1C0880C222B43889",
+        "name_en": "TIN FU BUS TERMINUS (TN960)",
+        "name_tc": "天富總站 (TN960)",
+        "name_sc": "天富总站 (TN960)",
+        "lat": "22.462538",
+        "long": "113.998380"
+    },
+    {
         "stop": "1C0A89BD67A4CFF0",
         "name_en": "FUNG CHI TSUEN (YL140)",
         "name_tc": "鳳池村 (YL140)",
@@ -6278,6 +6286,14 @@
         "name_sc": "圣德肋撒医院 (KC245)",
         "lat": "22.327382",
         "long": "114.185584"
+    },
+    {
+        "stop": "1E5B31D284632D4B",
+        "name_en": "Victoria Park",
+        "name_tc": "維多利亞公園",
+        "name_sc": "维多利亚公园",
+        "lat": "22.280452",
+        "long": "114.186862"
     },
     {
         "stop": "1E5EADCD9F424F07",
@@ -10488,6 +10504,14 @@
         "long": "113.970408"
     },
     {
+        "stop": "321060BAE1447BEE",
+        "name_en": "TSUEN WAN STATION",
+        "name_tc": "荃灣站",
+        "name_sc": "荃湾站",
+        "lat": "22.372748",
+        "long": "114.119285"
+    },
+    {
         "stop": "3210F3BCFFD74E61",
         "name_en": "MUNG YEUNG SCHOOL (YL733)",
         "name_tc": "蒙養小學 (YL733)",
@@ -11192,6 +11216,14 @@
         "long": "114.063760"
     },
     {
+        "stop": "34BA638C9E27EB46",
+        "name_en": "TIN YAU COURT (TN591)",
+        "name_tc": "天祐苑 (TN591)",
+        "name_sc": "天佑苑 (TN591)",
+        "lat": "22.450248",
+        "long": "114.006158"
+    },
+    {
         "stop": "34BC6DF4457C3BED",
         "name_en": "NGAU CHI WAN BBI - CHOI HUNG STATION (WT894)",
         "name_tc": "牛池灣轉車站 - 彩虹站 (WT894)",
@@ -11342,6 +11374,14 @@
         "name_sc": "荃湾站 (TW463)",
         "lat": "22.374308",
         "long": "114.116223"
+    },
+    {
+        "stop": "354E46F8DC71E908",
+        "name_en": "TIN CHUNG COURT (TN504)",
+        "name_tc": "天頌苑 (TN504)",
+        "name_sc": "天颂苑 (TN504)",
+        "lat": "22.460433",
+        "long": "113.997193"
     },
     {
         "stop": "3550013C1DDCF3FD",
@@ -16030,6 +16070,14 @@
         "name_sc": "锦英苑 (MA190)",
         "lat": "22.423954",
         "long": "114.238505"
+    },
+    {
+        "stop": "4B63964A12D91E2A",
+        "name_en": "Kwai Foo ROAD KWAI FONG",
+        "name_tc": "葵芳葵富路",
+        "name_sc": "葵芳葵富路",
+        "lat": "22.358222",
+        "long": "111.794683"
     },
     {
         "stop": "4B6D9BB197225DBE",
@@ -39408,6 +39456,14 @@
         "long": "114.006441"
     },
     {
+        "stop": "BD53690B9DA1C956",
+        "name_en": "TIN SHUI ESTATE (TN507)",
+        "name_tc": "天瑞邨 (TN507)",
+        "name_sc": "天瑞邨 (TN507)",
+        "lat": "22.456648",
+        "long": "113.999285"
+    },
+    {
         "stop": "BD67BA334834CACB",
         "name_en": "MEI WAN STREET (TW211)",
         "name_tc": "美環街 (TW211)",
@@ -45862,6 +45918,14 @@
         "name_sc": "中环街市 (CW764)",
         "lat": "22.284292",
         "long": "114.155832"
+    },
+    {
+        "stop": "DC5B5F4350685442",
+        "name_en": "TIN SHUI WAI PARK (TN510)",
+        "name_tc": "天水圍公園 (TN510)",
+        "name_sc": "天水围公园 (TN510)",
+        "lat": "0.000000",
+        "long": "0.000000"
     },
     {
         "stop": "DC6749D20ED5C948",
