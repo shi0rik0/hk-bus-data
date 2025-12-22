@@ -16830,17 +16830,6 @@
         "dest_sc": "星光大道"
     },
     {
-        "route": "PN7",
-        "bound": "O",
-        "service_type": "1",
-        "orig_en": "MTR TSUEN WAN WEST STATION",
-        "orig_tc": "港鐵荃灣西站",
-        "orig_sc": "港铁荃湾西站",
-        "dest_en": "WAN CHAI HARBOUR PROMENADE",
-        "dest_tc": "灣仔海濱",
-        "dest_sc": "湾仔海滨"
-    },
-    {
         "route": "R230",
         "bound": "O",
         "service_type": "1",

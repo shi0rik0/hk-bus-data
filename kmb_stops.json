@@ -6288,14 +6288,6 @@
         "long": "114.185584"
     },
     {
-        "stop": "1E5B31D284632D4B",
-        "name_en": "Victoria Park",
-        "name_tc": "維多利亞公園",
-        "name_sc": "维多利亚公园",
-        "lat": "22.280452",
-        "long": "114.186862"
-    },
-    {
         "stop": "1E5EADCD9F424F07",
         "name_en": "TSIM SHA TSUI EAST (MODY ROAD) (YT924)",
         "name_tc": "尖沙咀東（麼地道） (YT924)",
@@ -10502,14 +10494,6 @@
         "name_sc": "屯门泳池 (TM423)",
         "lat": "22.381464",
         "long": "113.970408"
-    },
-    {
-        "stop": "321060BAE1447BEE",
-        "name_en": "TSUEN WAN STATION",
-        "name_tc": "荃灣站",
-        "name_sc": "荃湾站",
-        "lat": "22.372748",
-        "long": "114.119285"
     },
     {
         "stop": "3210F3BCFFD74E61",
@@ -16070,14 +16054,6 @@
         "name_sc": "锦英苑 (MA190)",
         "lat": "22.423954",
         "long": "114.238505"
-    },
-    {
-        "stop": "4B63964A12D91E2A",
-        "name_en": "Kwai Foo ROAD KWAI FONG",
-        "name_tc": "葵芳葵富路",
-        "name_sc": "葵芳葵富路",
-        "lat": "22.358222",
-        "long": "111.794683"
     },
     {
         "stop": "4B6D9BB197225DBE",
@@ -34360,6 +34336,14 @@
         "long": "114.191088"
     },
     {
+        "stop": "A4F1BEF1EEAD0910",
+        "name_en": "KAM SHEUNG ROAD STATION CAR PARK (YL673)",
+        "name_tc": "錦上路站停車場 (YL673)",
+        "name_sc": "锦上路站停车场 (YL673)",
+        "lat": "22.433945",
+        "long": "114.062295"
+    },
+    {
         "stop": "A51DD43F6382CCDE",
         "name_en": "TSING FUNG STREET (ED564)",
         "name_tc": "清風街 (ED564)",
@@ -36542,6 +36526,14 @@
         "name_sc": "嘉强苑 (WT100)",
         "lat": "22.340844",
         "long": "114.184982"
+    },
+    {
+        "stop": "AECF334FEF4E73C5",
+        "name_en": "KAM SHEUNG ROAD STATION CAR PARK (YL708)",
+        "name_tc": "錦上路站停車場 (YL708)",
+        "name_sc": "锦上路站停车场 (YL708)",
+        "lat": "22.433926",
+        "long": "114.062252"
     },
     {
         "stop": "AEE2BF6EF1B0E46E",
@@ -39246,6 +39238,14 @@
         "name_sc": "沙栏路 (TP711)",
         "lat": "22.457193",
         "long": "114.210517"
+    },
+    {
+        "stop": "BC05332A477AB8F9",
+        "name_en": "TAI WO TSUEN (YL661a)",
+        "name_tc": "大窩村 (YL661a)",
+        "name_sc": "大窝村 (YL661a)",
+        "lat": "22.424549",
+        "long": "114.075797"
     },
     {
         "stop": "BC139F292AC087EA",
@@ -41990,6 +41990,14 @@
         "name_sc": "将军澳游泳池 (TK150)",
         "lat": "22.316397",
         "long": "114.260313"
+    },
+    {
+        "stop": "C9C4CEEC13D20879",
+        "name_en": "KAM SHEUNG ROAD STATION CAR PARK",
+        "name_tc": "錦上路站停車場",
+        "name_sc": "锦上路站停车场",
+        "lat": "22.433926",
+        "long": "114.062252"
     },
     {
         "stop": "C9E264A3F9D4CEB3",
@@ -45924,8 +45932,8 @@
         "name_en": "TIN SHUI WAI PARK (TN510)",
         "name_tc": "天水圍公園 (TN510)",
         "name_sc": "天水围公园 (TN510)",
-        "lat": "0.000000",
-        "long": "0.000000"
+        "lat": "22.454468",
+        "long": "114.002967"
     },
     {
         "stop": "DC6749D20ED5C948",
