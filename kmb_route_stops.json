@@ -236369,6 +236369,146 @@
         "stop": "FA265A8238AD5E8D"
     },
     {
+        "route": "N64P",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "1",
+        "stop": "7910B0EBDD33B71B"
+    },
+    {
+        "route": "N64P",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "2",
+        "stop": "56C003E99C21984A"
+    },
+    {
+        "route": "N64P",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "3",
+        "stop": "6219234626AC9DD5"
+    },
+    {
+        "route": "N64P",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "4",
+        "stop": "DA30F5393480B81D"
+    },
+    {
+        "route": "N64P",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "5",
+        "stop": "6716018C3EE42733"
+    },
+    {
+        "route": "N64P",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "6",
+        "stop": "1A0BF02F827F6A20"
+    },
+    {
+        "route": "N64P",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "7",
+        "stop": "CCC4773031BC0FD8"
+    },
+    {
+        "route": "N64P",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "8",
+        "stop": "2A86FE3FCDB9760B"
+    },
+    {
+        "route": "N64P",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "9",
+        "stop": "5FCD0D727920EC65"
+    },
+    {
+        "route": "N64P",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "10",
+        "stop": "0B786699889F0AEB"
+    },
+    {
+        "route": "N64P",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "11",
+        "stop": "A53F6592C4173B4E"
+    },
+    {
+        "route": "N64P",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "12",
+        "stop": "A61CDC435D1C6C37"
+    },
+    {
+        "route": "N64P",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "13",
+        "stop": "B473A39CEDD5069D"
+    },
+    {
+        "route": "N64P",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "14",
+        "stop": "2A092A3FB143443A"
+    },
+    {
+        "route": "N64P",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "15",
+        "stop": "BEEF3ECF24FF4F1A"
+    },
+    {
+        "route": "N64P",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "16",
+        "stop": "A26AAC44AD49B9DB"
+    },
+    {
+        "route": "N64P",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "17",
+        "stop": "51AFF58670A6BE9B"
+    },
+    {
+        "route": "N64P",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "18",
+        "stop": "C97D9654FC4427C9"
+    },
+    {
+        "route": "N64P",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "19",
+        "stop": "42B5697C975C3953"
+    },
+    {
+        "route": "N64P",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "20",
+        "stop": "B4C010DBFBD55834"
+    },
+    {
         "route": "N680",
         "bound": "I",
         "service_type": "1",
