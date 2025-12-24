@@ -2585,6 +2585,17 @@
         "dest_sc": "元朗(循环线)"
     },
     {
+        "route": "251C",
+        "bound": "O",
+        "service_type": "2",
+        "orig_en": "KONG HA WAI",
+        "orig_tc": "江夏圍",
+        "orig_sc": "江夏围",
+        "dest_en": "YUEN LONG (HONG LOK ROAD)",
+        "dest_tc": "元朗(康樂路)",
+        "dest_sc": "元朗(康乐路)"
+    },
+    {
         "route": "251M",
         "bound": "O",
         "service_type": "1",
