@@ -16291,6 +16291,17 @@
         "dest_sc": "中环(港澳码头)"
     },
     {
+        "route": "N71",
+        "bound": "O",
+        "service_type": "1",
+        "orig_en": "TAI PO (TAI WO)",
+        "orig_tc": "大埔(太和)",
+        "orig_sc": "大埔(太和)",
+        "dest_en": "FU SHIN/FU HENG/FU TIP (CIRCULAR)",
+        "dest_tc": "富善/富亨/富蝶(循環線)",
+        "dest_sc": "富善/富亨/富蝶(循环线)"
+    },
+    {
         "route": "N73",
         "bound": "I",
         "service_type": "1",
