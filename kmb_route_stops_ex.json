@@ -260688,6 +260688,150 @@
         "stop_name_tc": "紅磡站總站 (HH974)"
     },
     {
+        "route": "N272",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "1",
+        "stop": "9F542D4B6CF41651",
+        "stop_name_tc": "大學站 (ST905)"
+    },
+    {
+        "route": "N272",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "2",
+        "stop": "739A5DDE0CF1970C",
+        "stop_name_tc": "馬料水公眾碼頭 (PA100)"
+    },
+    {
+        "route": "N272",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "3",
+        "stop": "9E95343C77BB85E2",
+        "stop_name_tc": "水上活動中心 (PA104)"
+    },
+    {
+        "route": "N272",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "4",
+        "stop": "2D1A8946EF054FC9",
+        "stop_name_tc": "香港生物科技研究院 (PA107)"
+    },
+    {
+        "route": "N272",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "5",
+        "stop": "DADEC4FDAD7C58B3",
+        "stop_name_tc": "科學園(第一期) (PA122)"
+    },
+    {
+        "route": "N272",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "6",
+        "stop": "E8F5E085BAEFE100",
+        "stop_name_tc": "科研路 (PA124)"
+    },
+    {
+        "route": "N272",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "7",
+        "stop": "3313B37BF82AFF18",
+        "stop_name_tc": "雲滙 (PA125)"
+    },
+    {
+        "route": "N272",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "8",
+        "stop": "F8F0E91589F099CD",
+        "stop_name_tc": "白石角 (PA141)"
+    },
+    {
+        "route": "N272",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "9",
+        "stop": "5747450359C7907C",
+        "stop_name_tc": "逸瓏灣 (PA150)"
+    },
+    {
+        "route": "N272",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "10",
+        "stop": "D31420E8C08168FC",
+        "stop_name_tc": "博研路 (PA161)"
+    },
+    {
+        "route": "N272",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "11",
+        "stop": "3F24CFF9046300D9",
+        "stop_name_tc": "雲滙 (PA206)"
+    },
+    {
+        "route": "N272",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "12",
+        "stop": "3A7AC3A5F9530786",
+        "stop_name_tc": "創新路 (PA210)"
+    },
+    {
+        "route": "N272",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "13",
+        "stop": "39E7051B17D302DA",
+        "stop_name_tc": "科研路 (PA214)"
+    },
+    {
+        "route": "N272",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "14",
+        "stop": "1C6EAAF5F48167F9",
+        "stop_name_tc": "科學園(第一期) (PA219)"
+    },
+    {
+        "route": "N272",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "15",
+        "stop": "1D1571E9D1588FBE",
+        "stop_name_tc": "香港生物科技研究院 (PA231)"
+    },
+    {
+        "route": "N272",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "16",
+        "stop": "64101F297D3C1C55",
+        "stop_name_tc": "水上活動中心 (PA234)"
+    },
+    {
+        "route": "N272",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "17",
+        "stop": "5B39CC28607910E4",
+        "stop_name_tc": "馬料水公眾碼頭 (PA237)"
+    },
+    {
+        "route": "N272",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "18",
+        "stop": "9F542D4B6CF41651",
+        "stop_name_tc": "大學站 (ST905)"
+    },
+    {
         "route": "N273",
         "bound": "O",
         "service_type": "1",

@@ -15818,6 +15818,17 @@
         "dest_sc": "红磡站"
     },
     {
+        "route": "N272",
+        "bound": "O",
+        "service_type": "1",
+        "orig_en": "UNIVERSITY STATION",
+        "orig_tc": "大學站",
+        "orig_sc": "大学站",
+        "dest_en": "PAK SHEK KOK (CIRCULAR)",
+        "dest_tc": "白石角(循環線)",
+        "dest_sc": "白石角(循环线)"
+    },
+    {
         "route": "N273",
         "bound": "O",
         "service_type": "1",

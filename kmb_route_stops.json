@@ -228102,6 +228102,132 @@
         "stop": "F5D322119DCA0F5A"
     },
     {
+        "route": "N272",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "1",
+        "stop": "9F542D4B6CF41651"
+    },
+    {
+        "route": "N272",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "2",
+        "stop": "739A5DDE0CF1970C"
+    },
+    {
+        "route": "N272",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "3",
+        "stop": "9E95343C77BB85E2"
+    },
+    {
+        "route": "N272",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "4",
+        "stop": "2D1A8946EF054FC9"
+    },
+    {
+        "route": "N272",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "5",
+        "stop": "DADEC4FDAD7C58B3"
+    },
+    {
+        "route": "N272",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "6",
+        "stop": "E8F5E085BAEFE100"
+    },
+    {
+        "route": "N272",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "7",
+        "stop": "3313B37BF82AFF18"
+    },
+    {
+        "route": "N272",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "8",
+        "stop": "F8F0E91589F099CD"
+    },
+    {
+        "route": "N272",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "9",
+        "stop": "5747450359C7907C"
+    },
+    {
+        "route": "N272",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "10",
+        "stop": "D31420E8C08168FC"
+    },
+    {
+        "route": "N272",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "11",
+        "stop": "3F24CFF9046300D9"
+    },
+    {
+        "route": "N272",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "12",
+        "stop": "3A7AC3A5F9530786"
+    },
+    {
+        "route": "N272",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "13",
+        "stop": "39E7051B17D302DA"
+    },
+    {
+        "route": "N272",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "14",
+        "stop": "1C6EAAF5F48167F9"
+    },
+    {
+        "route": "N272",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "15",
+        "stop": "1D1571E9D1588FBE"
+    },
+    {
+        "route": "N272",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "16",
+        "stop": "64101F297D3C1C55"
+    },
+    {
+        "route": "N272",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "17",
+        "stop": "5B39CC28607910E4"
+    },
+    {
+        "route": "N272",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "18",
+        "stop": "9F542D4B6CF41651"
+    },
+    {
         "route": "N273",
         "bound": "O",
         "service_type": "1",
