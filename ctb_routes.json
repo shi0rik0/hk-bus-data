@@ -3791,6 +3791,16 @@
     },
     {
         "co": "CTB",
+        "route": "NB3",
+        "orig_tc": "屯門碼頭",
+        "orig_en": "Tuen Mun Pier Head",
+        "dest_tc": "深圳灣口岸",
+        "dest_en": "Shenzhen Bay Port",
+        "orig_sc": "屯门码头",
+        "dest_sc": "深圳湾口岸"
+    },
+    {
+        "co": "CTB",
         "route": "NP1",
         "orig_tc": "機場／昂坪360 - 東涌纜車站",
         "orig_en": "Airport / Ngong Ping 360 - Tung Chung Cable Car Station",
@@ -3818,6 +3828,16 @@
         "dest_en": "North Point Ferry Pier",
         "orig_sc": "迪士尼乐园",
         "dest_sc": "北角码头"
+    },
+    {
+        "co": "CTB",
+        "route": "R22",
+        "orig_tc": "迪士尼樂園",
+        "orig_en": "Disneyland",
+        "dest_tc": "油塘",
+        "dest_en": "Yau Tong",
+        "orig_sc": "迪士尼乐园",
+        "dest_sc": "油塘"
     },
     {
         "co": "CTB",

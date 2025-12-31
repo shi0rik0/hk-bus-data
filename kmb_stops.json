@@ -6288,6 +6288,14 @@
         "long": "114.185584"
     },
     {
+        "stop": "1E5B31D284632D4B",
+        "name_en": "Victoria Park",
+        "name_tc": "維多利亞公園",
+        "name_sc": "维多利亚公园",
+        "lat": "22.280452",
+        "long": "114.186862"
+    },
+    {
         "stop": "1E5EADCD9F424F07",
         "name_en": "TSIM SHA TSUI EAST (MODY ROAD) (YT924)",
         "name_tc": "尖沙咀東（麼地道） (YT924)",
@@ -12721,9 +12729,9 @@
     },
     {
         "stop": "3CAE3C9F0D263D94",
-        "name_en": "WAH MING ESTATE BUS TERMINUS(A1) (ND980)",
-        "name_tc": "華明邨總站(A1) (ND980)",
-        "name_sc": "华明邨总站(A1) (ND980)",
+        "name_en": "WAH MING ESTATE BUS TERMINUS (ND980)",
+        "name_tc": "華明邨總站 (ND980)",
+        "name_sc": "华明邨总站 (ND980)",
         "lat": "22.484376",
         "long": "114.140963"
     },
@@ -19649,9 +19657,9 @@
     },
     {
         "stop": "5CB1BDF367F1989F",
-        "name_en": "WAH MING ESTATE BUS TERMINUS(B1) (ND983)",
-        "name_tc": "華明邨總站(B1) (ND983)",
-        "name_sc": "华明邨总站(B1) (ND983)",
+        "name_en": "WAH MING ESTATE BUS TERMINUS (ND983)",
+        "name_tc": "華明邨總站 (ND983)",
+        "name_sc": "华明邨总站 (ND983)",
         "lat": "22.484500",
         "long": "114.141025"
     },
@@ -27088,6 +27096,14 @@
         "long": "114.105547"
     },
     {
+        "stop": "8125708E7EC47977",
+        "name_en": "The Peninsula",
+        "name_tc": "半島酒店",
+        "name_sc": "半岛酒店",
+        "lat": "22.294988",
+        "long": "114.171243"
+    },
+    {
         "stop": "81293E4174C24FD5",
         "name_en": "CHUNG NGA ROAD (TP374)",
         "name_tc": "頌雅路 (TP374)",
@@ -27377,9 +27393,9 @@
     },
     {
         "stop": "8237ED597A8A948B",
-        "name_en": "WAH MING BBI(C3) (ND988)",
-        "name_tc": "華明轉車站(C3) (ND988)",
-        "name_sc": "华明转车站(C3) (ND988)",
+        "name_en": "WAH MING BBI (ND988)",
+        "name_tc": "華明轉車站 (ND988)",
+        "name_sc": "华明转车站 (ND988)",
         "lat": "22.484467",
         "long": "114.141322"
     },
@@ -32145,9 +32161,9 @@
     },
     {
         "stop": "9AD79D5854941F81",
-        "name_en": "WAH MING BBI(C6) (ND985)",
-        "name_tc": "華明轉車站(C6) (ND985)",
-        "name_sc": "华明转车站(C6) (ND985)",
+        "name_en": "WAH MING BBI (ND985)",
+        "name_tc": "華明轉車站 (ND985)",
+        "name_sc": "华明转车站 (ND985)",
         "lat": "22.484250",
         "long": "114.141642"
     },
@@ -35278,6 +35294,14 @@
         "name_sc": "梁式芝书院 (KT512)",
         "lat": "22.315549",
         "long": "114.232908"
+    },
+    {
+        "stop": "A8DC6F85E7043234",
+        "name_en": "TSING YI STATION",
+        "name_tc": "青衣站",
+        "name_sc": "青衣站",
+        "lat": "22.359745",
+        "long": "114.107757"
     },
     {
         "stop": "A8E0D10D79497444",
@@ -42153,9 +42177,9 @@
     },
     {
         "stop": "CA9E9870D7B2FF36",
-        "name_en": "WAH MING BBI(C2) (ND989)",
-        "name_tc": "華明轉車站(C2) (ND989)",
-        "name_sc": "华明转车站(C2) (ND989)",
+        "name_en": "WAH MING BBI (ND989)",
+        "name_tc": "華明轉車站 (ND989)",
+        "name_sc": "华明转车站 (ND989)",
         "lat": "22.484557",
         "long": "114.141194"
     },
@@ -44265,9 +44289,9 @@
     },
     {
         "stop": "D4C4D9175A19C230",
-        "name_en": "WAH MING BBI(C5) (ND986)",
-        "name_tc": "華明轉車站(C5) (ND986)",
-        "name_sc": "华明转车站(C5) (ND986)",
+        "name_en": "WAH MING BBI (ND986)",
+        "name_tc": "華明轉車站 (ND986)",
+        "name_sc": "华明转车站 (ND986)",
         "lat": "22.484350",
         "long": "114.141503"
     },
@@ -46393,9 +46417,9 @@
     },
     {
         "stop": "DF246F9F07691C22",
-        "name_en": "WAH MING ESTATE BUS TERMINUS(B2) (ND982)",
-        "name_tc": "華明邨總站(B2) (ND982)",
-        "name_sc": "华明邨总站(B2) (ND982)",
+        "name_en": "WAH MING ESTATE BUS TERMINUS (ND982)",
+        "name_tc": "華明邨總站 (ND982)",
+        "name_sc": "华明邨总站 (ND982)",
         "lat": "22.484341",
         "long": "114.141287"
     },
@@ -47625,9 +47649,9 @@
     },
     {
         "stop": "E541A72F4B4CF13A",
-        "name_en": "WAH MING ESTATE BUS TERMINUS(B3) (ND981)",
-        "name_tc": "華明邨總站(B3) (ND981)",
-        "name_sc": "华明邨总站(B3) (ND981)",
+        "name_en": "WAH MING ESTATE BUS TERMINUS (ND981)",
+        "name_tc": "華明邨總站 (ND981)",
+        "name_sc": "华明邨总站 (ND981)",
         "lat": "22.484213",
         "long": "114.141463"
     },
@@ -50073,9 +50097,9 @@
     },
     {
         "stop": "F129DD8D9E3268FB",
-        "name_en": "WAH MING BBI(C4) (ND987)",
-        "name_tc": "華明轉車站(C4) (ND987)",
-        "name_sc": "华明转车站(C4) (ND987)",
+        "name_en": "WAH MING BBI (ND987)",
+        "name_tc": "華明轉車站 (ND987)",
+        "name_sc": "华明转车站 (ND987)",
         "lat": "22.484411",
         "long": "114.141410"
     },
@@ -51721,9 +51745,9 @@
     },
     {
         "stop": "F7D40D08CB05EA87",
-        "name_en": "WAH MING BBI(C7) (ND984)",
-        "name_tc": "華明轉車站(C7) (ND984)",
-        "name_sc": "华明转车站(C7) (ND984)",
+        "name_en": "WAH MING BBI (ND984)",
+        "name_tc": "華明轉車站 (ND984)",
+        "name_sc": "华明转车站 (ND984)",
         "lat": "22.484250",
         "long": "114.141642"
     },

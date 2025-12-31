@@ -65637,7 +65637,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "F129DD8D9E3268FB",
-        "stop_name_tc": "華明轉車站(C4) (ND987)"
+        "stop_name_tc": "華明轉車站 (ND987)"
     },
     {
         "route": "270A",
@@ -66381,7 +66381,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "F129DD8D9E3268FB",
-        "stop_name_tc": "華明轉車站(C4) (ND987)"
+        "stop_name_tc": "華明轉車站 (ND987)"
     },
     {
         "route": "270B",
@@ -66613,7 +66613,7 @@
         "service_type": "2",
         "seq": "11",
         "stop": "F129DD8D9E3268FB",
-        "stop_name_tc": "華明轉車站(C4) (ND987)"
+        "stop_name_tc": "華明轉車站 (ND987)"
     },
     {
         "route": "270B",
@@ -67653,7 +67653,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "F129DD8D9E3268FB",
-        "stop_name_tc": "華明轉車站(C4) (ND987)"
+        "stop_name_tc": "華明轉車站 (ND987)"
     },
     {
         "route": "270P",
@@ -72605,7 +72605,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "3CAE3C9F0D263D94",
-        "stop_name_tc": "華明邨總站(A1) (ND980)"
+        "stop_name_tc": "華明邨總站 (ND980)"
     },
     {
         "route": "273",
@@ -72677,7 +72677,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "3CAE3C9F0D263D94",
-        "stop_name_tc": "華明邨總站(A1) (ND980)"
+        "stop_name_tc": "華明邨總站 (ND980)"
     },
     {
         "route": "273A",
@@ -72789,7 +72789,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "8237ED597A8A948B",
-        "stop_name_tc": "華明轉車站(C3) (ND988)"
+        "stop_name_tc": "華明轉車站 (ND988)"
     },
     {
         "route": "273A",
@@ -73021,7 +73021,7 @@
         "service_type": "2",
         "seq": "15",
         "stop": "8237ED597A8A948B",
-        "stop_name_tc": "華明轉車站(C3) (ND988)"
+        "stop_name_tc": "華明轉車站 (ND988)"
     },
     {
         "route": "273A",
@@ -73149,7 +73149,7 @@
         "service_type": "3",
         "seq": "1",
         "stop": "8237ED597A8A948B",
-        "stop_name_tc": "華明轉車站(C3) (ND988)"
+        "stop_name_tc": "華明轉車站 (ND988)"
     },
     {
         "route": "273A",
@@ -73589,7 +73589,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "8237ED597A8A948B",
-        "stop_name_tc": "華明轉車站(C3) (ND988)"
+        "stop_name_tc": "華明轉車站 (ND988)"
     },
     {
         "route": "273D",
@@ -73733,7 +73733,7 @@
         "service_type": "2",
         "seq": "11",
         "stop": "8237ED597A8A948B",
-        "stop_name_tc": "華明轉車站(C3) (ND988)"
+        "stop_name_tc": "華明轉車站 (ND988)"
     },
     {
         "route": "273D",
@@ -73973,7 +73973,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "3CAE3C9F0D263D94",
-        "stop_name_tc": "華明邨總站(A1) (ND980)"
+        "stop_name_tc": "華明邨總站 (ND980)"
     },
     {
         "route": "273S",
@@ -78637,7 +78637,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "CA9E9870D7B2FF36",
-        "stop_name_tc": "華明轉車站(C2) (ND989)"
+        "stop_name_tc": "華明轉車站 (ND989)"
     },
     {
         "route": "277X",
@@ -78773,7 +78773,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "F7D40D08CB05EA87",
-        "stop_name_tc": "華明轉車站(C7) (ND984)"
+        "stop_name_tc": "華明轉車站 (ND984)"
     },
     {
         "route": "277X",
@@ -79029,7 +79029,7 @@
         "service_type": "3",
         "seq": "1",
         "stop": "F7D40D08CB05EA87",
-        "stop_name_tc": "華明轉車站(C7) (ND984)"
+        "stop_name_tc": "華明轉車站 (ND984)"
     },
     {
         "route": "277X",
@@ -79789,7 +79789,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "D4C4D9175A19C230",
-        "stop_name_tc": "華明轉車站(C5) (ND986)"
+        "stop_name_tc": "華明轉車站 (ND986)"
     },
     {
         "route": "278P",
@@ -80013,7 +80013,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "CA9E9870D7B2FF36",
-        "stop_name_tc": "華明轉車站(C2) (ND989)"
+        "stop_name_tc": "華明轉車站 (ND989)"
     },
     {
         "route": "278X",
@@ -80141,7 +80141,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "D4C4D9175A19C230",
-        "stop_name_tc": "華明轉車站(C5) (ND986)"
+        "stop_name_tc": "華明轉車站 (ND986)"
     },
     {
         "route": "278X",
@@ -108837,7 +108837,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "CA9E9870D7B2FF36",
-        "stop_name_tc": "華明轉車站(C2) (ND989)"
+        "stop_name_tc": "華明轉車站 (ND989)"
     },
     {
         "route": "373",
@@ -151237,7 +151237,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "CA9E9870D7B2FF36",
-        "stop_name_tc": "華明轉車站(C2) (ND989)"
+        "stop_name_tc": "華明轉車站 (ND989)"
     },
     {
         "route": "673A",
@@ -151485,7 +151485,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "9AD79D5854941F81",
-        "stop_name_tc": "華明轉車站(C6) (ND985)"
+        "stop_name_tc": "華明轉車站 (ND985)"
     },
     {
         "route": "673A",
@@ -152077,7 +152077,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "9AD79D5854941F81",
-        "stop_name_tc": "華明轉車站(C6) (ND985)"
+        "stop_name_tc": "華明轉車站 (ND985)"
     },
     {
         "route": "678",
@@ -163005,7 +163005,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "E541A72F4B4CF13A",
-        "stop_name_tc": "華明邨總站(B3) (ND981)"
+        "stop_name_tc": "華明邨總站 (ND981)"
     },
     {
         "route": "70K",
@@ -163333,7 +163333,7 @@
         "service_type": "1",
         "seq": "42",
         "stop": "E541A72F4B4CF13A",
-        "stop_name_tc": "華明邨總站(B3) (ND981)"
+        "stop_name_tc": "華明邨總站 (ND981)"
     },
     {
         "route": "70K",
@@ -163517,7 +163517,7 @@
         "service_type": "2",
         "seq": "23",
         "stop": "E541A72F4B4CF13A",
-        "stop_name_tc": "華明邨總站(B3) (ND981)"
+        "stop_name_tc": "華明邨總站 (ND981)"
     },
     {
         "route": "70S",
@@ -166653,7 +166653,7 @@
         "service_type": "1",
         "seq": "35",
         "stop": "DF246F9F07691C22",
-        "stop_name_tc": "華明邨總站(B2) (ND982)"
+        "stop_name_tc": "華明邨總站 (ND982)"
     },
     {
         "route": "73",
@@ -166845,7 +166845,7 @@
         "service_type": "2",
         "seq": "24",
         "stop": "DF246F9F07691C22",
-        "stop_name_tc": "華明邨總站(B2) (ND982)"
+        "stop_name_tc": "華明邨總站 (ND982)"
     },
     {
         "route": "73",
@@ -166853,7 +166853,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "DF246F9F07691C22",
-        "stop_name_tc": "華明邨總站(B2) (ND982)"
+        "stop_name_tc": "華明邨總站 (ND982)"
     },
     {
         "route": "73",
@@ -167117,7 +167117,7 @@
         "service_type": "2",
         "seq": "1",
         "stop": "DF246F9F07691C22",
-        "stop_name_tc": "華明邨總站(B2) (ND982)"
+        "stop_name_tc": "華明邨總站 (ND982)"
     },
     {
         "route": "73",
@@ -167645,7 +167645,7 @@
         "service_type": "1",
         "seq": "43",
         "stop": "DF246F9F07691C22",
-        "stop_name_tc": "華明邨總站(B2) (ND982)"
+        "stop_name_tc": "華明邨總站 (ND982)"
     },
     {
         "route": "73A",
@@ -167653,7 +167653,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "DF246F9F07691C22",
-        "stop_name_tc": "華明邨總站(B2) (ND982)"
+        "stop_name_tc": "華明邨總站 (ND982)"
     },
     {
         "route": "73A",
@@ -177733,7 +177733,7 @@
         "service_type": "2",
         "seq": "1",
         "stop": "CA9E9870D7B2FF36",
-        "stop_name_tc": "華明轉車站(C2) (ND989)"
+        "stop_name_tc": "華明轉車站 (ND989)"
     },
     {
         "route": "76K",
@@ -180741,7 +180741,7 @@
         "service_type": "3",
         "seq": "27",
         "stop": "F7D40D08CB05EA87",
-        "stop_name_tc": "華明轉車站(C7) (ND984)"
+        "stop_name_tc": "華明轉車站 (ND984)"
     },
     {
         "route": "78K",
@@ -223253,7 +223253,7 @@
         "service_type": "1",
         "seq": "25",
         "stop": "5CB1BDF367F1989F",
-        "stop_name_tc": "華明邨總站(B1) (ND983)"
+        "stop_name_tc": "華明邨總站 (ND983)"
     },
     {
         "route": "978",
@@ -223261,7 +223261,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "5CB1BDF367F1989F",
-        "stop_name_tc": "華明邨總站(B1) (ND983)"
+        "stop_name_tc": "華明邨總站 (ND983)"
     },
     {
         "route": "978",
@@ -260933,7 +260933,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "8237ED597A8A948B",
-        "stop_name_tc": "華明轉車站(C3) (ND988)"
+        "stop_name_tc": "華明轉車站 (ND988)"
     },
     {
         "route": "N273",
@@ -269488,6 +269488,454 @@
         "stop_name_tc": "灣景花園總站 (TW985)"
     },
     {
+        "route": "N600",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "1",
+        "stop": "E959938F3B4FF318",
+        "stop_name_tc": "中環(林士街)總站 (CW901)"
+    },
+    {
+        "route": "N600",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "2",
+        "stop": "2B5E3DCF185BE85F",
+        "stop_name_tc": "怡和大廈 (CW113)"
+    },
+    {
+        "route": "N600",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "3",
+        "stop": "EFFD42714E298795",
+        "stop_name_tc": "大會堂 (CW114)"
+    },
+    {
+        "route": "N600",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "4",
+        "stop": "3FCC00D1D01ACD28",
+        "stop_name_tc": "金鐘站 (B1) (CW166)"
+    },
+    {
+        "route": "N600",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "5",
+        "stop": "A056B01075AF64CD",
+        "stop_name_tc": "盧押道 (WC211)"
+    },
+    {
+        "route": "N600",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "6",
+        "stop": "2641DD1F88AF7A01",
+        "stop_name_tc": "菲林明道 (WC212)"
+    },
+    {
+        "route": "N600",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "7",
+        "stop": "B241331CC87A36D4",
+        "stop_name_tc": "史釗域道 (WC215)"
+    },
+    {
+        "route": "N600",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "8",
+        "stop": "B4F3F0D547580CE2",
+        "stop_name_tc": "杜老誌道 (WC218)"
+    },
+    {
+        "route": "N600",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "9",
+        "stop": "A0E544B7B849C7CC",
+        "stop_name_tc": "灣仔消防局 (WC221)"
+    },
+    {
+        "route": "N600",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "10",
+        "stop": "AAD91FB98A0825DF",
+        "stop_name_tc": "百德新街 (WC230)"
+    },
+    {
+        "route": "N600",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "11",
+        "stop": "0B8392BEB388E9E7",
+        "stop_name_tc": "維多利亞公園 (ED311)"
+    },
+    {
+        "route": "N600",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "12",
+        "stop": "678E66E67D8F1989",
+        "stop_name_tc": "銀幕街 (ED341)"
+    },
+    {
+        "route": "N600",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "13",
+        "stop": "5256A9BB88266375",
+        "stop_name_tc": "七海商業中心 (ED342)"
+    },
+    {
+        "route": "N600",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "14",
+        "stop": "6CD0823D8B4779B6",
+        "stop_name_tc": "電廠街 (ED343)"
+    },
+    {
+        "route": "N600",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "15",
+        "stop": "7C0F745B04C9AD36",
+        "stop_name_tc": "糖水道 (ED345)"
+    },
+    {
+        "route": "N600",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "16",
+        "stop": "42D724879F2DDDFB",
+        "stop_name_tc": "書局街 (ED346)"
+    },
+    {
+        "route": "N600",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "17",
+        "stop": "44B5723F025DF0DA",
+        "stop_name_tc": "港運城 (ED349)"
+    },
+    {
+        "route": "N600",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "18",
+        "stop": "D678B3364437D16B",
+        "stop_name_tc": "東隧轉車站 (LT101)"
+    },
+    {
+        "route": "N600",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "19",
+        "stop": "2EF9764BE18FC290",
+        "stop_name_tc": "藍田站 (LT607)"
+    },
+    {
+        "route": "N600",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "20",
+        "stop": "ED8812E232F6958A",
+        "stop_name_tc": "觀塘警署 (LT190)"
+    },
+    {
+        "route": "N600",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "21",
+        "stop": "1FBAAE29AF1CA50E",
+        "stop_name_tc": "秀暉樓 (KT501)"
+    },
+    {
+        "route": "N600",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "22",
+        "stop": "466BC4C1908A1A06",
+        "stop_name_tc": "寶達邨轉車站 (KT191)"
+    },
+    {
+        "route": "N600",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "23",
+        "stop": "AA52228890817D12",
+        "stop_name_tc": "善達樓 (AN100)"
+    },
+    {
+        "route": "N600",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "24",
+        "stop": "389B25932AD10BA3",
+        "stop_name_tc": "愛達樓 (AN202)"
+    },
+    {
+        "route": "N600",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "25",
+        "stop": "FF68304E8C1FF0B1",
+        "stop_name_tc": "錦泰樓 (AN204)"
+    },
+    {
+        "route": "N600",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "26",
+        "stop": "1DB8D58C023AFD4D",
+        "stop_name_tc": "安秀苑 (AN415)"
+    },
+    {
+        "route": "N600",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "27",
+        "stop": "CABB1AAE412C6049",
+        "stop_name_tc": "安柏苑 (AN610)"
+    },
+    {
+        "route": "N600",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "28",
+        "stop": "10D72CAA8930BA36",
+        "stop_name_tc": "安達臣總站 (AN913)"
+    },
+    {
+        "route": "N603",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "1",
+        "stop": "7943A971791CA7AE",
+        "stop_name_tc": "中環渡輪碼頭 (CW910)"
+    },
+    {
+        "route": "N603",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "2",
+        "stop": "6436DFC118C4367A",
+        "stop_name_tc": "林士街 (CW779)"
+    },
+    {
+        "route": "N603",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "3",
+        "stop": "FFB52BC25F0AB482",
+        "stop_name_tc": "中環街市 (CW142)"
+    },
+    {
+        "route": "N603",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "4",
+        "stop": "46CB01C7F12428A3",
+        "stop_name_tc": "德忌利士街 (CW144)"
+    },
+    {
+        "route": "N603",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "5",
+        "stop": "D5FEF340EE98A7E8",
+        "stop_name_tc": "皇后像廣場 (CW145)"
+    },
+    {
+        "route": "N603",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "6",
+        "stop": "3FCC00D1D01ACD28",
+        "stop_name_tc": "金鐘站 (B1) (CW166)"
+    },
+    {
+        "route": "N603",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "7",
+        "stop": "AD1B202B678A3B56",
+        "stop_name_tc": "軍器廠街 (WC210)"
+    },
+    {
+        "route": "N603",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "8",
+        "stop": "C88DEC0AF0D1102B",
+        "stop_name_tc": "菲林明道 (WC213)"
+    },
+    {
+        "route": "N603",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "9",
+        "stop": "B241331CC87A36D4",
+        "stop_name_tc": "史釗域道 (WC215)"
+    },
+    {
+        "route": "N603",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "10",
+        "stop": "B4F3F0D547580CE2",
+        "stop_name_tc": "杜老誌道 (WC218)"
+    },
+    {
+        "route": "N603",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "11",
+        "stop": "F1A22B170518051B",
+        "stop_name_tc": "灣仔消防局 (WC220)"
+    },
+    {
+        "route": "N603",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "12",
+        "stop": "3DB9E473F29FCDEE",
+        "stop_name_tc": "百德新街 (WC231)"
+    },
+    {
+        "route": "N603",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "13",
+        "stop": "84C5EBC00642536A",
+        "stop_name_tc": "維多利亞公園 (ED312)"
+    },
+    {
+        "route": "N603",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "14",
+        "stop": "42E86F97FAC8F719",
+        "stop_name_tc": "興發街 (ED320)"
+    },
+    {
+        "route": "N603",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "15",
+        "stop": "D678B3364437D16B",
+        "stop_name_tc": "東隧轉車站 (LT101)"
+    },
+    {
+        "route": "N603",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "16",
+        "stop": "9C839C3824F47A6A",
+        "stop_name_tc": "聖安當女書院 (LT367)"
+    },
+    {
+        "route": "N603",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "17",
+        "stop": "CB4BB0008A87E4FC",
+        "stop_name_tc": "油塘邨 (LT368)"
+    },
+    {
+        "route": "N603",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "18",
+        "stop": "40FF132FB8E77051",
+        "stop_name_tc": "高怡邨 (LT115)"
+    },
+    {
+        "route": "N603",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "19",
+        "stop": "B08CA4B3CDCF142A",
+        "stop_name_tc": "高俊苑 (LT116)"
+    },
+    {
+        "route": "N603",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "20",
+        "stop": "CF18D17DE7B40350",
+        "stop_name_tc": "金栢閣 (LT120)"
+    },
+    {
+        "route": "N603",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "21",
+        "stop": "736E84A8060D2AB9",
+        "stop_name_tc": "龍栢閣 (LT122)"
+    },
+    {
+        "route": "N603",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "22",
+        "stop": "CB4B52222877C32F",
+        "stop_name_tc": "康雅苑 (LT124)"
+    },
+    {
+        "route": "N603",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "23",
+        "stop": "6B9496267BEFF02A",
+        "stop_name_tc": "德康樓 (LT126)"
+    },
+    {
+        "route": "N603",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "24",
+        "stop": "B9D7AE7CB0C56556",
+        "stop_name_tc": "德敬樓 (LT128)"
+    },
+    {
+        "route": "N603",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "25",
+        "stop": "DA29C9192B8D12DC",
+        "stop_name_tc": "康逸苑 (LT502)"
+    },
+    {
+        "route": "N603",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "26",
+        "stop": "23727783D2D3E994",
+        "stop_name_tc": "藍田綜合大樓 (LT146)"
+    },
+    {
+        "route": "N603",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "27",
+        "stop": "EF17FDCDDF170D38",
+        "stop_name_tc": "平真樓 (LT150)"
+    },
+    {
+        "route": "N603",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "28",
+        "stop": "F73D15363D3CA881",
+        "stop_name_tc": "平田 (LT930)"
+    },
+    {
         "route": "N619",
         "bound": "I",
         "service_type": "1",
@@ -271757,7 +272205,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "8237ED597A8A948B",
-        "stop_name_tc": "華明轉車站(C3) (ND988)"
+        "stop_name_tc": "華明轉車站 (ND988)"
     },
     {
         "route": "N73",
@@ -272101,7 +272549,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "CA9E9870D7B2FF36",
-        "stop_name_tc": "華明轉車站(C2) (ND989)"
+        "stop_name_tc": "華明轉車站 (ND989)"
     },
     {
         "route": "N73",
@@ -279552,6 +280000,134 @@
         "stop_name_tc": "星光大道"
     },
     {
+        "route": "PN10",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "1",
+        "stop": "A8DC6F85E7043234",
+        "stop_name_tc": "青衣站"
+    },
+    {
+        "route": "PN10",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "2",
+        "stop": "658F28C339443C17",
+        "stop_name_tc": "奧運(海泓道)"
+    },
+    {
+        "route": "PN10",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "3",
+        "stop": "95A40BF00DBAB2B8",
+        "stop_name_tc": "星光大道"
+    },
+    {
+        "route": "PN10",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "4",
+        "stop": "8125708E7EC47977",
+        "stop_name_tc": "半島酒店"
+    },
+    {
+        "route": "PN10",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "5",
+        "stop": "F050648C108571ED",
+        "stop_name_tc": "香港故宮文化博物館"
+    },
+    {
+        "route": "PN10",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "6",
+        "stop": "8125708E7EC47977",
+        "stop_name_tc": "半島酒店"
+    },
+    {
+        "route": "PN10",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "7",
+        "stop": "95A40BF00DBAB2B8",
+        "stop_name_tc": "星光大道"
+    },
+    {
+        "route": "PN10",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "8",
+        "stop": "658F28C339443C17",
+        "stop_name_tc": "奧運(海泓道)"
+    },
+    {
+        "route": "PN10",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "9",
+        "stop": "A8DC6F85E7043234",
+        "stop_name_tc": "青衣站"
+    },
+    {
+        "route": "PN9",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "1",
+        "stop": "F493236404A4FABF",
+        "stop_name_tc": "元朗 形點"
+    },
+    {
+        "route": "PN9",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "2",
+        "stop": "0678C85600B1A019",
+        "stop_name_tc": "屯門站(V City)"
+    },
+    {
+        "route": "PN9",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "3",
+        "stop": "1E5B31D284632D4B",
+        "stop_name_tc": "維多利亞公園"
+    },
+    {
+        "route": "PN9",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "4",
+        "stop": "6DED9BB3FAD04626",
+        "stop_name_tc": "軒尼詩道"
+    },
+    {
+        "route": "PN9",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "5",
+        "stop": "232DC1B2BE92C86F",
+        "stop_name_tc": "灣仔海濱"
+    },
+    {
+        "route": "PN9",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "6",
+        "stop": "0678C85600B1A019",
+        "stop_name_tc": "屯門站(V City)"
+    },
+    {
+        "route": "PN9",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "7",
+        "stop": "F493236404A4FABF",
+        "stop_name_tc": "元朗 形點"
+    },
+    {
         "route": "R230",
         "bound": "O",
         "service_type": "1",
@@ -279885,7 +280461,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "F129DD8D9E3268FB",
-        "stop_name_tc": "華明轉車站(C4) (ND987)"
+        "stop_name_tc": "華明轉車站 (ND987)"
     },
     {
         "route": "R270",
@@ -280645,7 +281221,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "F7D40D08CB05EA87",
-        "stop_name_tc": "華明轉車站(C7) (ND984)"
+        "stop_name_tc": "華明轉車站 (ND984)"
     },
     {
         "route": "R673",
@@ -284157,7 +284733,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "CA9E9870D7B2FF36",
-        "stop_name_tc": "華明轉車站(C2) (ND989)"
+        "stop_name_tc": "華明轉車站 (ND989)"
     },
     {
         "route": "T277",

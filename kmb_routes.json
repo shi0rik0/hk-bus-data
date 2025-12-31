@@ -16203,6 +16203,28 @@
         "dest_sc": "荃湾(湾景花园)"
     },
     {
+        "route": "N600",
+        "bound": "O",
+        "service_type": "1",
+        "orig_en": "CENTRAL (RUMSEY STREET)",
+        "orig_tc": "中環(林士街)",
+        "orig_sc": "中环(林士街)",
+        "dest_en": "ANDERSON",
+        "dest_tc": "安達臣",
+        "dest_sc": "安达臣"
+    },
+    {
+        "route": "N603",
+        "bound": "O",
+        "service_type": "1",
+        "orig_en": "CENTRAL (CENTRAL FERRY PIERS)",
+        "orig_tc": "中環(渡輪碼頭)",
+        "orig_sc": "中环(渡轮码头)",
+        "dest_en": "PING TIN",
+        "dest_tc": "平田",
+        "dest_sc": "平田"
+    },
+    {
         "route": "N619",
         "bound": "I",
         "service_type": "1",
@@ -16861,6 +16883,28 @@
         "dest_en": "Avenue of Stars",
         "dest_tc": "星光大道",
         "dest_sc": "星光大道"
+    },
+    {
+        "route": "PN10",
+        "bound": "O",
+        "service_type": "1",
+        "orig_en": "TSING YI STATION",
+        "orig_tc": "青衣站",
+        "orig_sc": "青衣站",
+        "dest_en": "HONG KONG PALACE MUSEUM",
+        "dest_tc": "香港故宮文化博物館",
+        "dest_sc": "香港故宫文化博物馆"
+    },
+    {
+        "route": "PN9",
+        "bound": "O",
+        "service_type": "1",
+        "orig_en": "YOHO MALL (YUEN LONG)",
+        "orig_tc": "元朗 形點",
+        "orig_sc": "元朗 形点",
+        "dest_en": "WAN CHAI HARBOUR PROMENADE",
+        "dest_tc": "灣仔海濱",
+        "dest_sc": "湾仔海滨"
     },
     {
         "route": "R230",
