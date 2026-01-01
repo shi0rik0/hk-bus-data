@@ -280072,6 +280072,190 @@
         "stop_name_tc": "青衣站"
     },
     {
+        "route": "PN11",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "1",
+        "stop": "993431C67E83B130",
+        "stop_name_tc": "堅尼地城 (科士街)"
+    },
+    {
+        "route": "PN11",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "2",
+        "stop": "5F32C53A90CDEB52",
+        "stop_name_tc": "中環 (港澳碼頭)"
+    },
+    {
+        "route": "PN11",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "3",
+        "stop": "90F0F685E42CC10D",
+        "stop_name_tc": "中環碼頭(民光街)"
+    },
+    {
+        "route": "PN11",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "4",
+        "stop": "232DC1B2BE92C86F",
+        "stop_name_tc": "灣仔海濱"
+    },
+    {
+        "route": "PN11",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "5",
+        "stop": "1E5B31D284632D4B",
+        "stop_name_tc": "維多利亞公園"
+    },
+    {
+        "route": "PN11",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "6",
+        "stop": "6DED9BB3FAD04626",
+        "stop_name_tc": "軒尼詩道"
+    },
+    {
+        "route": "PN11",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "7",
+        "stop": "90F0F685E42CC10D",
+        "stop_name_tc": "中環碼頭(民光街)"
+    },
+    {
+        "route": "PN11",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "8",
+        "stop": "5F32C53A90CDEB52",
+        "stop_name_tc": "中環 (港澳碼頭)"
+    },
+    {
+        "route": "PN11",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "9",
+        "stop": "993431C67E83B130",
+        "stop_name_tc": "堅尼地城 (科士街)"
+    },
+    {
+        "route": "PN13",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "1",
+        "stop": "029C4172D953DAF5",
+        "stop_name_tc": "啟德(沐元街)"
+    },
+    {
+        "route": "PN13",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "2",
+        "stop": "9252A494500A05C9",
+        "stop_name_tc": "觀塘碼頭 (基業街)"
+    },
+    {
+        "route": "PN13",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "3",
+        "stop": "1E5B31D284632D4B",
+        "stop_name_tc": "維多利亞公園"
+    },
+    {
+        "route": "PN13",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "4",
+        "stop": "6DED9BB3FAD04626",
+        "stop_name_tc": "軒尼詩道"
+    },
+    {
+        "route": "PN13",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "5",
+        "stop": "232DC1B2BE92C86F",
+        "stop_name_tc": "灣仔海濱"
+    },
+    {
+        "route": "PN13",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "6",
+        "stop": "9252A494500A05C9",
+        "stop_name_tc": "觀塘碼頭 (基業街)"
+    },
+    {
+        "route": "PN13",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "7",
+        "stop": "029C4172D953DAF5",
+        "stop_name_tc": "啟德(沐元街)"
+    },
+    {
+        "route": "PN15",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "1",
+        "stop": "7033D904840D5F18",
+        "stop_name_tc": "曼克頓山"
+    },
+    {
+        "route": "PN15",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "2",
+        "stop": "045FB4EAE4FE52D6",
+        "stop_name_tc": "南昌站 (V WALK)"
+    },
+    {
+        "route": "PN15",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "3",
+        "stop": "1E5B31D284632D4B",
+        "stop_name_tc": "維多利亞公園"
+    },
+    {
+        "route": "PN15",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "4",
+        "stop": "6DED9BB3FAD04626",
+        "stop_name_tc": "軒尼詩道"
+    },
+    {
+        "route": "PN15",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "5",
+        "stop": "232DC1B2BE92C86F",
+        "stop_name_tc": "灣仔海濱"
+    },
+    {
+        "route": "PN15",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "6",
+        "stop": "045FB4EAE4FE52D6",
+        "stop_name_tc": "南昌站 (V WALK)"
+    },
+    {
+        "route": "PN15",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "7",
+        "stop": "7033D904840D5F18",
+        "stop_name_tc": "曼克頓山"
+    },
+    {
         "route": "PN9",
         "bound": "O",
         "service_type": "1",

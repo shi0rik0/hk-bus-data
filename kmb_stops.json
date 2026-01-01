@@ -13121,7 +13121,7 @@
     },
     {
         "stop": "3E2E0FF05B36999C",
-        "name_en": "CENTRAL (MACAU FERRY)",
+        "name_en": "CENTRAL (MACAO FERRY)",
         "name_tc": "中環(港澳碼頭)",
         "name_sc": "中环(港澳码头)",
         "lat": "22.288303",
@@ -18873,7 +18873,7 @@
     },
     {
         "stop": "59013D693D2493FE",
-        "name_en": "CENTRAL (MACAU FERRY)",
+        "name_en": "CENTRAL (MACAO FERRY)",
         "name_tc": "中環(港澳碼頭)",
         "name_sc": "中环(港澳码头)",
         "lat": "22.288344",
@@ -20208,6 +20208,14 @@
         "long": "114.136527"
     },
     {
+        "stop": "5F32C53A90CDEB52",
+        "name_en": "CENTRAL (MACAU FERRY)",
+        "name_tc": "中環 (港澳碼頭)",
+        "name_sc": "中环 (港澳码头)",
+        "lat": "22.288088",
+        "long": "114.150019"
+    },
+    {
         "stop": "5F60283656DF3016",
         "name_en": "SILVERCORD, CANTON ROAD (YT205)",
         "name_tc": "廣東道,新港中心 (YT205)",
@@ -21089,7 +21097,7 @@
     },
     {
         "stop": "633A3F4B4A5637C2",
-        "name_en": "CENTRAL (MACAU FERRY)",
+        "name_en": "CENTRAL (MACAO FERRY)",
         "name_tc": "中環(港澳碼頭)",
         "name_sc": "中环(港澳码头)",
         "lat": "22.288527",
@@ -26353,7 +26361,7 @@
     },
     {
         "stop": "7D54A8E5B99740BE",
-        "name_en": "CENTRAL (MACAU FERRY)",
+        "name_en": "CENTRAL (MACAO FERRY)",
         "name_tc": "中環(港澳碼頭)",
         "name_sc": "中环(港澳码头)",
         "lat": "22.288584",
@@ -30168,6 +30176,14 @@
         "long": "114.215130"
     },
     {
+        "stop": "90F0F685E42CC10D",
+        "name_en": "CENTRAL FERRY PIERS (MAN KWONG STREET)",
+        "name_tc": "中環碼頭(民光街)",
+        "name_sc": "中环码头(民光街)",
+        "lat": "22.286032",
+        "long": "114.161172"
+    },
+    {
         "stop": "9100CA704DC2D403",
         "name_en": "CHEUNG SHA WAN (HOI TAT ESTATE) BUS TERMINUS",
         "name_tc": "長沙灣(海達邨)總站 (SS954)",
@@ -30462,6 +30478,14 @@
         "name_sc": "攸壆路简约公屋 (南) 总站",
         "lat": "22.475606",
         "long": "114.050757"
+    },
+    {
+        "stop": "9252A494500A05C9",
+        "name_en": "KWUN TONG FERRY (KEI YIP STREET)",
+        "name_tc": "觀塘碼頭 (基業街)",
+        "name_sc": "观塘码头 (基业街)",
+        "lat": "22.309177",
+        "long": "114.221147"
     },
     {
         "stop": "92540DF9CB08304C",
@@ -31846,6 +31870,14 @@
         "name_sc": "观塘顺业街 (KT573)",
         "lat": "22.315896",
         "long": "114.214922"
+    },
+    {
+        "stop": "993431C67E83B130",
+        "name_en": "KENNEDY TOWN (FORBES STREET)",
+        "name_tc": "堅尼地城 (科士街)",
+        "name_sc": "坚尼地城 (科士街)",
+        "lat": "22.281243",
+        "long": "114.126697"
     },
     {
         "stop": "9934B2D6C17179FE",
@@ -34553,7 +34585,7 @@
     },
     {
         "stop": "A5E0FE9BA2C37E30",
-        "name_en": "CENTRAL (MACAU FERRY)",
+        "name_en": "CENTRAL (MACAO FERRY)",
         "name_tc": "中環(港澳碼頭)",
         "name_sc": "中环(港澳码头)",
         "lat": "22.288593",
@@ -39321,7 +39353,7 @@
     },
     {
         "stop": "BC3B6E69D606932B",
-        "name_en": "CENTRAL (MACAU FERRY)",
+        "name_en": "CENTRAL (MACAO FERRY)",
         "name_tc": "中環(港澳碼頭)",
         "name_sc": "中环(港澳码头)",
         "lat": "22.288743",
