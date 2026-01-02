@@ -15818,17 +15818,6 @@
         "dest_sc": "红磡站"
     },
     {
-        "route": "N272",
-        "bound": "O",
-        "service_type": "1",
-        "orig_en": "UNIVERSITY STATION",
-        "orig_tc": "大學站",
-        "orig_sc": "大学站",
-        "dest_en": "PAK SHEK KOK (CIRCULAR)",
-        "dest_tc": "白石角(循環線)",
-        "dest_sc": "白石角(循环线)"
-    },
-    {
         "route": "N273",
         "bound": "O",
         "service_type": "1",
@@ -16258,17 +16247,6 @@
         "dest_sc": "东涌(逸东)"
     },
     {
-        "route": "N64P",
-        "bound": "O",
-        "service_type": "1",
-        "orig_en": "TAI PO MARKET STATION",
-        "orig_tc": "大埔墟站",
-        "orig_sc": "大埔墟站",
-        "dest_en": "NG TUNG CHAI (PAK NGAU SHEK)",
-        "dest_tc": "梧桐寨 (白牛石)",
-        "dest_sc": "梧桐寨 (白牛石)"
-    },
-    {
         "route": "N680",
         "bound": "I",
         "service_type": "1",
@@ -16311,17 +16289,6 @@
         "dest_en": "CENTRAL (MACAO FERRY)",
         "dest_tc": "中環(港澳碼頭)",
         "dest_sc": "中环(港澳码头)"
-    },
-    {
-        "route": "N71",
-        "bound": "O",
-        "service_type": "1",
-        "orig_en": "TAI PO (TAI WO)",
-        "orig_tc": "大埔(太和)",
-        "orig_sc": "大埔(太和)",
-        "dest_en": "FU SHIN/FU HENG/FU TIP (CIRCULAR)",
-        "dest_tc": "富善/富亨/富蝶(循環線)",
-        "dest_sc": "富善/富亨/富蝶(循环线)"
     },
     {
         "route": "N73",
@@ -16907,6 +16874,17 @@
         "dest_sc": "湾仔海滨"
     },
     {
+        "route": "PN12",
+        "bound": "O",
+        "service_type": "1",
+        "orig_en": "MEI YU STREET",
+        "orig_tc": "美裕街",
+        "orig_sc": "美裕街",
+        "dest_en": "HONG KONG PALACE MUSEUM",
+        "dest_tc": "香港故宮文化博物館",
+        "dest_sc": "香港故宫文化博物馆"
+    },
+    {
         "route": "PN13",
         "bound": "O",
         "service_type": "1",
@@ -16918,23 +16896,23 @@
         "dest_sc": "湾仔海滨"
     },
     {
+        "route": "PN14",
+        "bound": "O",
+        "service_type": "1",
+        "orig_en": "MTR TSUEN WAN WEST STATION",
+        "orig_tc": "港鐵荃灣西站",
+        "orig_sc": "港铁荃湾西站",
+        "dest_en": "HONG KONG PALACE MUSEUM",
+        "dest_tc": "香港故宮文化博物館",
+        "dest_sc": "香港故宫文化博物馆"
+    },
+    {
         "route": "PN15",
         "bound": "O",
         "service_type": "1",
         "orig_en": "Manhattan Hill",
         "orig_tc": "曼克頓山",
         "orig_sc": "曼克顿山",
-        "dest_en": "WAN CHAI HARBOUR PROMENADE",
-        "dest_tc": "灣仔海濱",
-        "dest_sc": "湾仔海滨"
-    },
-    {
-        "route": "PN9",
-        "bound": "O",
-        "service_type": "1",
-        "orig_en": "YOHO MALL (YUEN LONG)",
-        "orig_tc": "元朗 形點",
-        "orig_sc": "元朗 形点",
         "dest_en": "WAN CHAI HARBOUR PROMENADE",
         "dest_tc": "灣仔海濱",
         "dest_sc": "湾仔海滨"

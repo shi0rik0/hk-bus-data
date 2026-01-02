@@ -10504,6 +10504,14 @@
         "long": "113.970408"
     },
     {
+        "stop": "321060BAE1447BEE",
+        "name_en": "TSUEN WAN STATION",
+        "name_tc": "荃灣站",
+        "name_sc": "荃湾站",
+        "lat": "22.372748",
+        "long": "114.119285"
+    },
+    {
         "stop": "3210F3BCFFD74E61",
         "name_en": "MUNG YEUNG SCHOOL (YL733)",
         "name_tc": "蒙養小學 (YL733)",
@@ -12502,6 +12510,14 @@
         "name_sc": "天泽邨 (TN228)",
         "lat": "22.468157",
         "long": "113.999204"
+    },
+    {
+        "stop": "3B5FBD10AE27C017",
+        "name_en": "HANG HAU (MING SHING STREET)",
+        "name_tc": "坑口 (名成街)",
+        "name_sc": "坑口 (名成街)",
+        "lat": "22.315701",
+        "long": "114.265331"
     },
     {
         "stop": "3B604DDE85F00A7B",
@@ -16062,6 +16078,14 @@
         "name_sc": "锦英苑 (MA190)",
         "lat": "22.423954",
         "long": "114.238505"
+    },
+    {
+        "stop": "4B63964A12D91E2A",
+        "name_en": "Kwai Foo ROAD KWAI FONG",
+        "name_tc": "葵芳葵富路",
+        "name_sc": "葵芳葵富路",
+        "lat": "22.358222",
+        "long": "111.794683"
     },
     {
         "stop": "4B6D9BB197225DBE",
