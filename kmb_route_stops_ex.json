@@ -86464,6 +86464,142 @@
         "stop_name_tc": "顯徑巴士總站 (TA930)"
     },
     {
+        "route": "288D",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "1",
+        "stop": "4E7624E310A2FF44",
+        "stop_name_tc": "濱景花園總站 (ST156)"
+    },
+    {
+        "route": "288D",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "2",
+        "stop": "1BA4DE8405BB97BB",
+        "stop_name_tc": "翠湖花園 (ST157)"
+    },
+    {
+        "route": "288D",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "3",
+        "stop": "0D56ED01EED431BC",
+        "stop_name_tc": "石門轉車站-新界鄉議局大樓"
+    },
+    {
+        "route": "288D",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "4",
+        "stop": "ABFB3F43ECB908B2",
+        "stop_name_tc": "置富第一城 (ST301)"
+    },
+    {
+        "route": "288D",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "5",
+        "stop": "C1E9F8237EDBBAD2",
+        "stop_name_tc": "愉田苑 (ST304)"
+    },
+    {
+        "route": "288D",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "6",
+        "stop": "7F068ADB0659F04E",
+        "stop_name_tc": "第一城站 (ST311)"
+    },
+    {
+        "route": "288D",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "7",
+        "stop": "779954C17EAF3B95",
+        "stop_name_tc": "愉翠苑 (ST321)"
+    },
+    {
+        "route": "288D",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "8",
+        "stop": "CB0585244877B9B9",
+        "stop_name_tc": "小瀝源報案中心 (ST340)"
+    },
+    {
+        "route": "288D",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "9",
+        "stop": "69E4C417312C10C0",
+        "stop_name_tc": "小瀝源 (綠怡雅苑) (ST535)"
+    },
+    {
+        "route": "288D",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "10",
+        "stop": "C1E1199805BCC92D",
+        "stop_name_tc": "帝堡城 (ST538)"
+    },
+    {
+        "route": "288D",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "11",
+        "stop": "6FCDCBEC73F3AAF5",
+        "stop_name_tc": "廣源巴士總站 (ST880)"
+    },
+    {
+        "route": "288D",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "12",
+        "stop": "260B43921BAFD8CB",
+        "stop_name_tc": "廣源邨廣柏樓 (ST600)"
+    },
+    {
+        "route": "288D",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "13",
+        "stop": "BCEEE192EF01C361",
+        "stop_name_tc": "廣源邨廣榕樓 (ST620)"
+    },
+    {
+        "route": "288D",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "14",
+        "stop": "3F01C915E856B018",
+        "stop_name_tc": "香港恒生大學 (ST623)"
+    },
+    {
+        "route": "288D",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "15",
+        "stop": "6282A73360ACEBEA",
+        "stop_name_tc": "牛皮沙新村 (ST630)"
+    },
+    {
+        "route": "288D",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "16",
+        "stop": "ECB8FB3328B3E1F5",
+        "stop_name_tc": "多石街 (ST231)"
+    },
+    {
+        "route": "288D",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "17",
+        "stop": "3229F37E6637B0ED",
+        "stop_name_tc": "水泉澳總站 (ST974)"
+    },
+    {
         "route": "289K",
         "bound": "O",
         "service_type": "1",
@@ -181756,6 +181892,22 @@
         "bound": "O",
         "service_type": "1",
         "seq": "1",
+        "stop": "80C387D87AFBCE3E",
+        "stop_name_tc": null
+    },
+    {
+        "route": "79K",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "2",
+        "stop": "89D8AA4F45165FB6",
+        "stop_name_tc": "石湖墟郵政局 (ND170)"
+    },
+    {
+        "route": "79K",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "3",
         "stop": "60AEF6D3AA7AAC41",
         "stop_name_tc": "上水轉車站 - 上水總站 (ND903)"
     },
@@ -181763,7 +181915,7 @@
         "route": "79K",
         "bound": "O",
         "service_type": "1",
-        "seq": "2",
+        "seq": "4",
         "stop": "FC6CB9607D36FBD7",
         "stop_name_tc": "石湖墟郵政局 (ND490)"
     },
@@ -181771,7 +181923,7 @@
         "route": "79K",
         "bound": "O",
         "service_type": "1",
-        "seq": "3",
+        "seq": "5",
         "stop": "A67D189D438E1534",
         "stop_name_tc": "上水圍 (ND102)"
     },
@@ -181779,7 +181931,7 @@
         "route": "79K",
         "bound": "O",
         "service_type": "1",
-        "seq": "4",
+        "seq": "6",
         "stop": "26AEBA11CA6347CC",
         "stop_name_tc": "翠麗花園 (ND241)"
     },
@@ -181787,7 +181939,7 @@
         "route": "79K",
         "bound": "O",
         "service_type": "1",
-        "seq": "5",
+        "seq": "7",
         "stop": "A7C1A969F48B62C0",
         "stop_name_tc": "北區運動場 (ND243)"
     },
@@ -181795,7 +181947,7 @@
         "route": "79K",
         "bound": "O",
         "service_type": "1",
-        "seq": "6",
+        "seq": "8",
         "stop": "D3E18D04B69DF388",
         "stop_name_tc": "天平邨天明樓 (ND244)"
     },
@@ -181803,7 +181955,7 @@
         "route": "79K",
         "bound": "O",
         "service_type": "1",
-        "seq": "7",
+        "seq": "9",
         "stop": "515ECE2791A22276",
         "stop_name_tc": "心誠中學 (ND245)"
     },
@@ -181811,7 +181963,7 @@
         "route": "79K",
         "bound": "O",
         "service_type": "1",
-        "seq": "8",
+        "seq": "10",
         "stop": "6B885F5529A285BB",
         "stop_name_tc": "璧峰路-粉嶺法院大樓 (ND246)"
     },
@@ -181819,7 +181971,7 @@
         "route": "79K",
         "bound": "O",
         "service_type": "1",
-        "seq": "9",
+        "seq": "11",
         "stop": "25721F85DC026ACA",
         "stop_name_tc": "粉嶺站轉車站 - 祥華邨 (ND182)"
     },
@@ -181827,7 +181979,7 @@
         "route": "79K",
         "bound": "O",
         "service_type": "1",
-        "seq": "10",
+        "seq": "12",
         "stop": "07EEE519D04FFE28",
         "stop_name_tc": "粉嶺站轉車站 - 粉嶺站 (ND495)"
     },
@@ -181835,7 +181987,7 @@
         "route": "79K",
         "bound": "O",
         "service_type": "1",
-        "seq": "11",
+        "seq": "13",
         "stop": "53BB93AAB2D45F3B",
         "stop_name_tc": "聯和墟球場 (ND263)"
     },
@@ -181843,7 +181995,7 @@
         "route": "79K",
         "bound": "O",
         "service_type": "1",
-        "seq": "12",
+        "seq": "14",
         "stop": "12DC09C113E1C873",
         "stop_name_tc": "聯和墟總站 (ND966)"
     },
@@ -181851,7 +182003,7 @@
         "route": "79K",
         "bound": "O",
         "service_type": "1",
-        "seq": "13",
+        "seq": "15",
         "stop": "6C2DBC45160AA4BF",
         "stop_name_tc": "逸峯 (ND265)"
     },
@@ -181859,7 +182011,7 @@
         "route": "79K",
         "bound": "O",
         "service_type": "1",
-        "seq": "14",
+        "seq": "16",
         "stop": "E5F082F4C7300273",
         "stop_name_tc": "龍躍頭 (ND266)"
     },
@@ -181867,7 +182019,7 @@
         "route": "79K",
         "bound": "O",
         "service_type": "1",
-        "seq": "15",
+        "seq": "17",
         "stop": "18FB32A8BE19CB57",
         "stop_name_tc": "新圍軍營 (ND267)"
     },
@@ -181875,7 +182027,7 @@
         "route": "79K",
         "bound": "O",
         "service_type": "1",
-        "seq": "16",
+        "seq": "18",
         "stop": "753E63DCB2FFD3B2",
         "stop_name_tc": "軍地 (ND268)"
     },
@@ -181883,7 +182035,7 @@
         "route": "79K",
         "bound": "O",
         "service_type": "1",
-        "seq": "17",
+        "seq": "19",
         "stop": "0BB054192087F527",
         "stop_name_tc": "流水響 (ND269)"
     },
@@ -181891,7 +182043,7 @@
         "route": "79K",
         "bound": "O",
         "service_type": "1",
-        "seq": "18",
+        "seq": "20",
         "stop": "EAEA62781C49856C",
         "stop_name_tc": "高埔 (ND270)"
     },
@@ -181899,7 +182051,7 @@
         "route": "79K",
         "bound": "O",
         "service_type": "1",
-        "seq": "19",
+        "seq": "21",
         "stop": "4A85D10FF93639B1",
         "stop_name_tc": "孔嶺村 (ND300)"
     },
@@ -181907,7 +182059,7 @@
         "route": "79K",
         "bound": "O",
         "service_type": "1",
-        "seq": "20",
+        "seq": "22",
         "stop": "1A83561C79EB6EA8",
         "stop_name_tc": "坪輋中電站 (ND301)"
     },
@@ -181915,7 +182067,7 @@
         "route": "79K",
         "bound": "O",
         "service_type": "1",
-        "seq": "21",
+        "seq": "23",
         "stop": "A95FE3B4AB5DFF0A",
         "stop_name_tc": "香港浸會園 (ND302)"
     },
@@ -181923,7 +182075,7 @@
         "route": "79K",
         "bound": "O",
         "service_type": "1",
-        "seq": "22",
+        "seq": "24",
         "stop": "104F23B3D3BF195E",
         "stop_name_tc": "坪輋花園 (ND303)"
     },
@@ -181931,7 +182083,7 @@
         "route": "79K",
         "bound": "O",
         "service_type": "1",
-        "seq": "23",
+        "seq": "25",
         "stop": "2B6CFA0DA5F33352",
         "stop_name_tc": "坪輋元下村 (ND304)"
     },
@@ -181939,7 +182091,7 @@
         "route": "79K",
         "bound": "O",
         "service_type": "1",
-        "seq": "24",
+        "seq": "26",
         "stop": "497D02F258D3A30E",
         "stop_name_tc": "坪原路 (ND511)"
     },
@@ -181947,7 +182099,7 @@
         "route": "79K",
         "bound": "O",
         "service_type": "1",
-        "seq": "25",
+        "seq": "27",
         "stop": "B4D5698BCDA72702",
         "stop_name_tc": "雲泉仙館 (ND305)"
     },
@@ -181955,7 +182107,7 @@
         "route": "79K",
         "bound": "O",
         "service_type": "1",
-        "seq": "26",
+        "seq": "28",
         "stop": "56C8651A8E4D8B9C",
         "stop_name_tc": "昇平村 (ND306)"
     },
@@ -181963,7 +182115,7 @@
         "route": "79K",
         "bound": "O",
         "service_type": "1",
-        "seq": "27",
+        "seq": "29",
         "stop": "7E5AE4AB3F36BAEF",
         "stop_name_tc": "李屋村 (ND307)"
     },
@@ -181971,7 +182123,7 @@
         "route": "79K",
         "bound": "O",
         "service_type": "1",
-        "seq": "28",
+        "seq": "30",
         "stop": "2FB6E9437CDF3716",
         "stop_name_tc": "塘坊 (ND308)"
     },
@@ -181979,7 +182131,7 @@
         "route": "79K",
         "bound": "O",
         "service_type": "1",
-        "seq": "29",
+        "seq": "31",
         "stop": "6499E8B0408B298E",
         "stop_name_tc": "簡頭圍 (ND309)"
     },
@@ -181987,7 +182139,7 @@
         "route": "79K",
         "bound": "O",
         "service_type": "1",
-        "seq": "30",
+        "seq": "32",
         "stop": "1FDFAA33708D4FF2",
         "stop_name_tc": "打鼓嶺警署 (ND315)"
     },
@@ -181995,7 +182147,7 @@
         "route": "79K",
         "bound": "O",
         "service_type": "1",
-        "seq": "31",
+        "seq": "33",
         "stop": "63244A72D111510F",
         "stop_name_tc": "較寮 (ND316)"
     },
@@ -182003,25 +182155,9 @@
         "route": "79K",
         "bound": "O",
         "service_type": "1",
-        "seq": "32",
+        "seq": "34",
         "stop": "F47BC8784680F884",
         "stop_name_tc": "竹園 (ND317)"
-    },
-    {
-        "route": "79K",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "33",
-        "stop": "515928380B2DB2A3",
-        "stop_name_tc": "蓮麻坑路 (ND318)"
-    },
-    {
-        "route": "79K",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "34",
-        "stop": "588FC84C44F8634E",
-        "stop_name_tc": "打鼓嶺(松園下) (ND319)"
     },
     {
         "route": "79K",
@@ -279718,94 +279854,6 @@
         "seq": "9",
         "stop": "993431C67E83B130",
         "stop_name_tc": "堅尼地城 (科士街)"
-    },
-    {
-        "route": "PN14",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "1",
-        "stop": "A02CB1283981A937",
-        "stop_name_tc": "港鐵荃灣西站"
-    },
-    {
-        "route": "PN14",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "2",
-        "stop": "321060BAE1447BEE",
-        "stop_name_tc": "荃灣站"
-    },
-    {
-        "route": "PN14",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "3",
-        "stop": "4B63964A12D91E2A",
-        "stop_name_tc": "葵芳葵富路"
-    },
-    {
-        "route": "PN14",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "4",
-        "stop": "95A40BF00DBAB2B8",
-        "stop_name_tc": "星光大道"
-    },
-    {
-        "route": "PN14",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "5",
-        "stop": "8125708E7EC47977",
-        "stop_name_tc": "半島酒店"
-    },
-    {
-        "route": "PN14",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "6",
-        "stop": "F050648C108571ED",
-        "stop_name_tc": "香港故宮文化博物館"
-    },
-    {
-        "route": "PN14",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "7",
-        "stop": "8125708E7EC47977",
-        "stop_name_tc": "半島酒店"
-    },
-    {
-        "route": "PN14",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "8",
-        "stop": "95A40BF00DBAB2B8",
-        "stop_name_tc": "星光大道"
-    },
-    {
-        "route": "PN14",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "9",
-        "stop": "4B63964A12D91E2A",
-        "stop_name_tc": "葵芳葵富路"
-    },
-    {
-        "route": "PN14",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "10",
-        "stop": "321060BAE1447BEE",
-        "stop_name_tc": "荃灣站"
-    },
-    {
-        "route": "PN14",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "11",
-        "stop": "A02CB1283981A937",
-        "stop_name_tc": "港鐵荃灣西站"
     },
     {
         "route": "PN15",
