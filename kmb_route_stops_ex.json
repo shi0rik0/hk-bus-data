@@ -15469,7 +15469,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "D45CEDE6A9DFA30B",
-        "stop_name_tc": "德福花園 (KT660)"
+        "stop_name_tc": "德福花園 (KT659)"
     },
     {
         "route": "11B",
@@ -15709,7 +15709,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "06E1120EA9A7BF69",
-        "stop_name_tc": "德福花園 (KT661)"
+        "stop_name_tc": "德福花園 (KT660)"
     },
     {
         "route": "11C",
@@ -21357,7 +21357,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "C2AA10A9751D3692",
-        "stop_name_tc": "德福花園 (KT659)"
+        "stop_name_tc": "德福花園 (KT658)"
     },
     {
         "route": "14",
@@ -23317,7 +23317,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "C2AA10A9751D3692",
-        "stop_name_tc": "德福花園 (KT659)"
+        "stop_name_tc": "德福花園 (KT658)"
     },
     {
         "route": "15",
@@ -25965,7 +25965,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "D45CEDE6A9DFA30B",
-        "stop_name_tc": "德福花園 (KT660)"
+        "stop_name_tc": "德福花園 (KT659)"
     },
     {
         "route": "17",
@@ -73264,6 +73264,254 @@
         "stop_name_tc": "彩園總站 (ND922)"
     },
     {
+        "route": "273A",
+        "bound": "O",
+        "service_type": "4",
+        "seq": "1",
+        "stop": "80C387D87AFBCE3E",
+        "stop_name_tc": "彩石邨 (ND104)"
+    },
+    {
+        "route": "273A",
+        "bound": "O",
+        "service_type": "4",
+        "seq": "2",
+        "stop": "093289C2E4F6F408",
+        "stop_name_tc": "彩蒲苑彩碧閣 (ND105a)"
+    },
+    {
+        "route": "273A",
+        "bound": "O",
+        "service_type": "4",
+        "seq": "3",
+        "stop": "18785E68EAD3D9B8",
+        "stop_name_tc": "彩園總站 (ND922)"
+    },
+    {
+        "route": "273A",
+        "bound": "O",
+        "service_type": "4",
+        "seq": "4",
+        "stop": "F8C20FE9111D486A",
+        "stop_name_tc": "上水轉車站 - 上水站 (ND106)"
+    },
+    {
+        "route": "273A",
+        "bound": "O",
+        "service_type": "4",
+        "seq": "5",
+        "stop": "D97A36CE8D65B198",
+        "stop_name_tc": "太平總站-北區醫院 (ND927)"
+    },
+    {
+        "route": "273A",
+        "bound": "O",
+        "service_type": "4",
+        "seq": "6",
+        "stop": "CF94083CB24CF4E5",
+        "stop_name_tc": "祥龍圍邨 (ND110)"
+    },
+    {
+        "route": "273A",
+        "bound": "O",
+        "service_type": "4",
+        "seq": "7",
+        "stop": "4A76CDB32FA69BC6",
+        "stop_name_tc": "御皇庭 (ND115)"
+    },
+    {
+        "route": "273A",
+        "bound": "O",
+        "service_type": "4",
+        "seq": "8",
+        "stop": "6F11F73C749338DB",
+        "stop_name_tc": "御景峰 (ND117)"
+    },
+    {
+        "route": "273A",
+        "bound": "O",
+        "service_type": "4",
+        "seq": "9",
+        "stop": "98EBAB9468C80DD2",
+        "stop_name_tc": "欣翠花園 (ND126)"
+    },
+    {
+        "route": "273A",
+        "bound": "O",
+        "service_type": "4",
+        "seq": "10",
+        "stop": "CA1317F5A0B8A8B2",
+        "stop_name_tc": "嘉盛苑 (ND129)"
+    },
+    {
+        "route": "273A",
+        "bound": "O",
+        "service_type": "4",
+        "seq": "11",
+        "stop": "AFD29CB1A4F71AB9",
+        "stop_name_tc": "基新中學 (ND132)"
+    },
+    {
+        "route": "273A",
+        "bound": "O",
+        "service_type": "4",
+        "seq": "12",
+        "stop": "65ECD19EFD09FB74",
+        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站 (ND133)"
+    },
+    {
+        "route": "273A",
+        "bound": "O",
+        "service_type": "4",
+        "seq": "13",
+        "stop": "4C97BE87FBF959C4",
+        "stop_name_tc": "百福田心球場 (ND150)"
+    },
+    {
+        "route": "273A",
+        "bound": "O",
+        "service_type": "4",
+        "seq": "14",
+        "stop": "FA52803E2628A212",
+        "stop_name_tc": "牽晴間 (ND151)"
+    },
+    {
+        "route": "273A",
+        "bound": "O",
+        "service_type": "4",
+        "seq": "15",
+        "stop": "3AD4DADA5B941CF2",
+        "stop_name_tc": "和興村 (ND160)"
+    },
+    {
+        "route": "273A",
+        "bound": "O",
+        "service_type": "4",
+        "seq": "16",
+        "stop": "8237ED597A8A948B",
+        "stop_name_tc": "華明轉車站 (ND988)"
+    },
+    {
+        "route": "273A",
+        "bound": "O",
+        "service_type": "4",
+        "seq": "17",
+        "stop": "A4455CCA999A234C",
+        "stop_name_tc": "華明邨康明樓 (ND376)"
+    },
+    {
+        "route": "273A",
+        "bound": "O",
+        "service_type": "4",
+        "seq": "18",
+        "stop": "3C821C86ADED2B9D",
+        "stop_name_tc": "華明邨耀明樓 (ND378)"
+    },
+    {
+        "route": "273A",
+        "bound": "O",
+        "service_type": "4",
+        "seq": "19",
+        "stop": "14BDB94A8F3ED3EC",
+        "stop_name_tc": "花都廣場 (ND391)"
+    },
+    {
+        "route": "273A",
+        "bound": "O",
+        "service_type": "4",
+        "seq": "20",
+        "stop": "FA7A3D77713061E9",
+        "stop_name_tc": "欣盛苑 (ND396)"
+    },
+    {
+        "route": "273A",
+        "bound": "O",
+        "service_type": "4",
+        "seq": "21",
+        "stop": "C7120BD9A94B4F6A",
+        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館"
+    },
+    {
+        "route": "273A",
+        "bound": "O",
+        "service_type": "4",
+        "seq": "22",
+        "stop": "825199DC3BC0C5A3",
+        "stop_name_tc": "基新中學 (ND399)"
+    },
+    {
+        "route": "273A",
+        "bound": "O",
+        "service_type": "4",
+        "seq": "23",
+        "stop": "A8F178C255CF9783",
+        "stop_name_tc": "粉嶺置福圍 (ND411)"
+    },
+    {
+        "route": "273A",
+        "bound": "O",
+        "service_type": "4",
+        "seq": "24",
+        "stop": "ADB9356BBF06F7C7",
+        "stop_name_tc": "嘉盛苑 (ND401)"
+    },
+    {
+        "route": "273A",
+        "bound": "O",
+        "service_type": "4",
+        "seq": "25",
+        "stop": "8E3F5AE0A97053F9",
+        "stop_name_tc": "華慧園 (ND403)"
+    },
+    {
+        "route": "273A",
+        "bound": "O",
+        "service_type": "4",
+        "seq": "26",
+        "stop": "68C7CBB4CAB9FE69",
+        "stop_name_tc": "清河邨 (ND415)"
+    },
+    {
+        "route": "273A",
+        "bound": "O",
+        "service_type": "4",
+        "seq": "27",
+        "stop": "9CD9BFAE2BC91336",
+        "stop_name_tc": "曾梅千禧學校 (ND417)"
+    },
+    {
+        "route": "273A",
+        "bound": "O",
+        "service_type": "4",
+        "seq": "28",
+        "stop": "E86A26B1A389C290",
+        "stop_name_tc": "太平總站-北區醫院 (ND926)"
+    },
+    {
+        "route": "273A",
+        "bound": "O",
+        "service_type": "4",
+        "seq": "29",
+        "stop": "4E655B25ABAE103A",
+        "stop_name_tc": "上水轉車站 - 上水站 (ND430)"
+    },
+    {
+        "route": "273A",
+        "bound": "O",
+        "service_type": "4",
+        "seq": "30",
+        "stop": "AD4E0E8DC8ACEFB6",
+        "stop_name_tc": "彩蒲苑彩碧閣 (ND432)"
+    },
+    {
+        "route": "273A",
+        "bound": "O",
+        "service_type": "4",
+        "seq": "31",
+        "stop": "A4AA1D2CA4E92950",
+        "stop_name_tc": "彩石邨 (ND433)"
+    },
+    {
         "route": "273B",
         "bound": "O",
         "service_type": "1",
@@ -112709,7 +112957,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "06E1120EA9A7BF69",
-        "stop_name_tc": "德福花園 (KT661)"
+        "stop_name_tc": "德福花園 (KT660)"
     },
     {
         "route": "3D",
@@ -112845,7 +113093,7 @@
         "service_type": "2",
         "seq": "5",
         "stop": "06E1120EA9A7BF69",
-        "stop_name_tc": "德福花園 (KT661)"
+        "stop_name_tc": "德福花園 (KT660)"
     },
     {
         "route": "3D",
@@ -181684,8 +181932,24 @@
         "bound": "I",
         "service_type": "1",
         "seq": "33",
-        "stop": "60AEF6D3AA7AAC41",
-        "stop_name_tc": "上水轉車站 - 上水總站 (ND903)"
+        "stop": "647CBF3FE0DF2FAE",
+        "stop_name_tc": "上水轉車站 - 上水站 (ND477)"
+    },
+    {
+        "route": "79K",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "34",
+        "stop": "FC6CB9607D36FBD7",
+        "stop_name_tc": "石湖墟郵政局 (ND490)"
+    },
+    {
+        "route": "79K",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "35",
+        "stop": "A4AA1D2CA4E92950",
+        "stop_name_tc": "彩石邨 (ND433)"
     },
     {
         "route": "79K",
@@ -181893,7 +182157,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "80C387D87AFBCE3E",
-        "stop_name_tc": null
+        "stop_name_tc": "彩石邨 (ND104)"
     },
     {
         "route": "79K",
@@ -182158,6 +182422,22 @@
         "seq": "34",
         "stop": "F47BC8784680F884",
         "stop_name_tc": "竹園 (ND317)"
+    },
+    {
+        "route": "79K",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "35",
+        "stop": "515928380B2DB2A3",
+        "stop_name_tc": "蓮麻坑路 (ND318)"
+    },
+    {
+        "route": "79K",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "36",
+        "stop": "588FC84C44F8634E",
+        "stop_name_tc": "打鼓嶺(松園下) (ND319)"
     },
     {
         "route": "79K",
@@ -183261,7 +183541,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "50C432C497A20C1C",
-        "stop_name_tc": "德福花園 (KT661a)"
+        "stop_name_tc": "德福花園 (KT661)"
     },
     {
         "route": "80",
@@ -184397,7 +184677,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "50C432C497A20C1C",
-        "stop_name_tc": "德福花園 (KT661a)"
+        "stop_name_tc": "德福花園 (KT661)"
     },
     {
         "route": "80X",
@@ -188181,7 +188461,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "50C432C497A20C1C",
-        "stop_name_tc": "德福花園 (KT661a)"
+        "stop_name_tc": "德福花園 (KT661)"
     },
     {
         "route": "83X",
@@ -188341,7 +188621,7 @@
         "service_type": "2",
         "seq": "8",
         "stop": "50C432C497A20C1C",
-        "stop_name_tc": "德福花園 (KT661a)"
+        "stop_name_tc": "德福花園 (KT661)"
     },
     {
         "route": "83X",
@@ -198269,7 +198549,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "50C432C497A20C1C",
-        "stop_name_tc": "德福花園 (KT661a)"
+        "stop_name_tc": "德福花園 (KT661)"
     },
     {
         "route": "88X",
@@ -199893,7 +200173,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "50C432C497A20C1C",
-        "stop_name_tc": "德福花園 (KT661a)"
+        "stop_name_tc": "德福花園 (KT661)"
     },
     {
         "route": "89C",
@@ -200469,7 +200749,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "50C432C497A20C1C",
-        "stop_name_tc": "德福花園 (KT661a)"
+        "stop_name_tc": "德福花園 (KT661)"
     },
     {
         "route": "89D",
@@ -200653,7 +200933,7 @@
         "service_type": "2",
         "seq": "7",
         "stop": "50C432C497A20C1C",
-        "stop_name_tc": "德福花園 (KT661a)"
+        "stop_name_tc": "德福花園 (KT661)"
     },
     {
         "route": "89D",
@@ -201885,7 +202165,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "50C432C497A20C1C",
-        "stop_name_tc": "德福花園 (KT661a)"
+        "stop_name_tc": "德福花園 (KT661)"
     },
     {
         "route": "89X",
@@ -212797,7 +213077,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "C2AA10A9751D3692",
-        "stop_name_tc": "德福花園 (KT659)"
+        "stop_name_tc": "德福花園 (KT658)"
     },
     {
         "route": "93K",
@@ -267133,7 +267413,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "06E1120EA9A7BF69",
-        "stop_name_tc": "德福花園 (KT661)"
+        "stop_name_tc": "德福花園 (KT660)"
     },
     {
         "route": "N3D",
@@ -283484,14 +283764,6 @@
         "bound": "O",
         "service_type": "3",
         "seq": "19",
-        "stop": "31418DC3F19236BF",
-        "stop_name_tc": "國泰城 (CL341)"
-    },
-    {
-        "route": "S64X",
-        "bound": "O",
-        "service_type": "3",
-        "seq": "20",
         "stop": "18CA599721E67265",
         "stop_name_tc": "國泰城 (CL220)"
     },
@@ -283499,7 +283771,7 @@
         "route": "S64X",
         "bound": "O",
         "service_type": "3",
-        "seq": "21",
+        "seq": "20",
         "stop": "57DB1124DEF92894",
         "stop_name_tc": "飛機燃料庫 (CL223)"
     },
@@ -283507,7 +283779,7 @@
         "route": "S64X",
         "bound": "O",
         "service_type": "3",
-        "seq": "22",
+        "seq": "21",
         "stop": "2253B10FD05B01AB",
         "stop_name_tc": "東堤灣畔 (TC400)"
     },
@@ -283515,7 +283787,7 @@
         "route": "S64X",
         "bound": "O",
         "service_type": "3",
-        "seq": "23",
+        "seq": "22",
         "stop": "FF47BD49B38911D4",
         "stop_name_tc": "裕東苑 (TC401)"
     },
@@ -283523,7 +283795,7 @@
         "route": "S64X",
         "bound": "O",
         "service_type": "3",
-        "seq": "24",
+        "seq": "23",
         "stop": "FAC118A395652466",
         "stop_name_tc": "逸東邨美逸樓 (TC440)"
     },
@@ -283531,7 +283803,7 @@
         "route": "S64X",
         "bound": "O",
         "service_type": "3",
-        "seq": "25",
+        "seq": "24",
         "stop": "1A74AE460E7BEA16",
         "stop_name_tc": "逸東邨居逸樓 (TC451)"
     },
@@ -283539,7 +283811,7 @@
         "route": "S64X",
         "bound": "O",
         "service_type": "3",
-        "seq": "26",
+        "seq": "25",
         "stop": "FA265A8238AD5E8D",
         "stop_name_tc": "逸東邨巴士總站 (TC980)"
     },
@@ -283547,7 +283819,7 @@
         "route": "S64X",
         "bound": "O",
         "service_type": "3",
-        "seq": "27",
+        "seq": "26",
         "stop": "90551F12E553D27E",
         "stop_name_tc": "滿東邨 (TC426)"
     },

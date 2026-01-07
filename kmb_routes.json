@@ -4367,6 +4367,17 @@
         "dest_sc": "上水(彩园)"
     },
     {
+        "route": "273A",
+        "bound": "O",
+        "service_type": "4",
+        "orig_en": "CHOI SHEK ESTATE",
+        "orig_tc": "彩石邨",
+        "orig_sc": "彩石邨",
+        "dest_en": "WAH MING (CIRCULAR)",
+        "dest_tc": "華明(循環線)",
+        "dest_sc": "华明(循环线)"
+    },
+    {
         "route": "273B",
         "bound": "O",
         "service_type": "1",
@@ -11006,9 +11017,9 @@
         "orig_en": "TA KWU LING(TSUNG YUEN HA)",
         "orig_tc": "打鼓嶺(松園下)",
         "orig_sc": "打鼓岭(松园下)",
-        "dest_en": "SHEUNG SHUI",
-        "dest_tc": "上水",
-        "dest_sc": "上水"
+        "dest_en": "CHOI SHEK ESTATE",
+        "dest_tc": "彩石邨",
+        "dest_sc": "彩石邨"
     },
     {
         "route": "79K",
@@ -11025,9 +11036,9 @@
         "route": "79K",
         "bound": "O",
         "service_type": "1",
-        "orig_en": "SHEUNG SHUI",
-        "orig_tc": "上水",
-        "orig_sc": "上水",
+        "orig_en": "CHOI SHEK ESTATE",
+        "orig_tc": "彩石邨",
+        "orig_sc": "彩石邨",
         "dest_en": "TA KWU LING(TSUNG YUEN HA)",
         "dest_tc": "打鼓嶺(松園下)",
         "dest_sc": "打鼓岭(松园下)"

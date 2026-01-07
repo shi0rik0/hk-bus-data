@@ -1289,9 +1289,9 @@
     },
     {
         "stop": "06E1120EA9A7BF69",
-        "name_en": "TELFORD GARDENS (KT661)",
-        "name_tc": "德福花園 (KT661)",
-        "name_sc": "德福花园 (KT661)",
+        "name_en": "TELFORD GARDENS (KT660)",
+        "name_tc": "德福花園 (KT660)",
+        "name_sc": "德福花园 (KT660)",
         "lat": "22.321820",
         "long": "114.214330"
     },
@@ -17097,9 +17097,9 @@
     },
     {
         "stop": "50C432C497A20C1C",
-        "name_en": "TELFORD GARDENS (KT661a)",
-        "name_tc": "德福花園 (KT661a)",
-        "name_sc": "德福花园 (KT661a)",
+        "name_en": "TELFORD GARDENS (KT661)",
+        "name_tc": "德福花園 (KT661)",
+        "name_sc": "德福花园 (KT661)",
         "lat": "22.321890",
         "long": "114.214320"
     },
@@ -27000,6 +27000,14 @@
         "long": "114.225006"
     },
     {
+        "stop": "80C387D87AFBCE3E",
+        "name_en": "CHOI SHEK ESTATE (ND104)",
+        "name_tc": "彩石邨 (ND104)",
+        "name_sc": "彩石邨 (ND104)",
+        "lat": "22.504081",
+        "long": "114.121794"
+    },
+    {
         "stop": "80C801672D7D560D",
         "name_en": "LAM TIN (NORTH) (LT940)",
         "name_tc": "藍田(北) (LT940)",
@@ -34328,6 +34336,14 @@
         "long": "114.182034"
     },
     {
+        "stop": "A4AA1D2CA4E92950",
+        "name_en": "CHOI SHEK ESTATE (ND433)",
+        "name_tc": "彩石邨 (ND433)",
+        "name_sc": "彩石邨 (ND433)",
+        "lat": "22.504321",
+        "long": "114.121387"
+    },
+    {
         "stop": "A4B015A5BA35DDF9",
         "name_en": "FU TUNG PLAZA (TC417)",
         "name_tc": "富東廣場 (TC417)",
@@ -40697,9 +40713,9 @@
     },
     {
         "stop": "C2AA10A9751D3692",
-        "name_en": "TELFORD GARDENS (KT659)",
-        "name_tc": "德福花園 (KT659)",
-        "name_sc": "德福花园 (KT659)",
+        "name_en": "TELFORD GARDENS (KT658)",
+        "name_tc": "德福花園 (KT658)",
+        "name_sc": "德福花园 (KT658)",
         "lat": "22.321740",
         "long": "114.214340"
     },
@@ -44241,9 +44257,9 @@
     },
     {
         "stop": "D45CEDE6A9DFA30B",
-        "name_en": "TELFORD GARDENS (KT660)",
-        "name_tc": "德福花園 (KT660)",
-        "name_sc": "德福花园 (KT660)",
+        "name_en": "TELFORD GARDENS (KT659)",
+        "name_tc": "德福花園 (KT659)",
+        "name_sc": "德福花园 (KT659)",
         "lat": "22.321760",
         "long": "114.214335"
     },
