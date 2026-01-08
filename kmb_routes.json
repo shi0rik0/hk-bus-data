@@ -4378,6 +4378,17 @@
         "dest_sc": "华明(循环线)"
     },
     {
+        "route": "273A",
+        "bound": "O",
+        "service_type": "5",
+        "orig_en": "CHOI SHEK ESTATE",
+        "orig_tc": "彩石邨",
+        "orig_sc": "彩石邨",
+        "dest_en": "WAH MING (CIRCULAR)",
+        "dest_tc": "華明(循環線)",
+        "dest_sc": "华明(循环线)"
+    },
+    {
         "route": "273B",
         "bound": "O",
         "service_type": "1",
