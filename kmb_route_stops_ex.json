@@ -49645,7 +49645,7 @@
         "service_type": "1",
         "seq": "24",
         "stop": "320704B87EF998D4",
-        "stop_name_tc": "屯門泳池 (TM423)"
+        "stop_name_tc": "御海灣 (TM423)"
     },
     {
         "route": "259D",
@@ -49765,7 +49765,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "F69B2B317BEB37A3",
-        "stop_name_tc": "屯門泳池 (TM682)"
+        "stop_name_tc": "御海灣 (TM682)"
     },
     {
         "route": "259D",
@@ -49965,7 +49965,7 @@
         "service_type": "3",
         "seq": "6",
         "stop": "F69B2B317BEB37A3",
-        "stop_name_tc": "屯門泳池 (TM682)"
+        "stop_name_tc": "御海灣 (TM682)"
     },
     {
         "route": "259D",
@@ -50157,7 +50157,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "F69B2B317BEB37A3",
-        "stop_name_tc": "屯門泳池 (TM682)"
+        "stop_name_tc": "御海灣 (TM682)"
     },
     {
         "route": "259E",
@@ -50661,7 +50661,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "320704B87EF998D4",
-        "stop_name_tc": "屯門泳池 (TM423)"
+        "stop_name_tc": "御海灣 (TM423)"
     },
     {
         "route": "259X",
@@ -50773,7 +50773,7 @@
         "service_type": "3",
         "seq": "8",
         "stop": "320704B87EF998D4",
-        "stop_name_tc": "屯門泳池 (TM423)"
+        "stop_name_tc": "御海灣 (TM423)"
     },
     {
         "route": "259X",
@@ -50893,7 +50893,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "F69B2B317BEB37A3",
-        "stop_name_tc": "屯門泳池 (TM682)"
+        "stop_name_tc": "御海灣 (TM682)"
     },
     {
         "route": "259X",
@@ -51557,7 +51557,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "320704B87EF998D4",
-        "stop_name_tc": "屯門泳池 (TM423)"
+        "stop_name_tc": "御海灣 (TM423)"
     },
     {
         "route": "260C",
@@ -51613,7 +51613,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "F69B2B317BEB37A3",
-        "stop_name_tc": "屯門泳池 (TM682)"
+        "stop_name_tc": "御海灣 (TM682)"
     },
     {
         "route": "260C",
@@ -52341,7 +52341,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "9BE3D659E4C144D2",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺名都"
+        "stop_name_tc": "粉嶺站轉車站-粉嶺名都 (ND472)"
     },
     {
         "route": "261",
@@ -52693,7 +52693,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "87F9F165B63331A5",
-        "stop_name_tc": "粉嶺站轉車站 - 祥華邨(A1)"
+        "stop_name_tc": "粉嶺站轉車站 - 祥華邨 (ND185)"
     },
     {
         "route": "261",
@@ -53581,7 +53581,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "BFAE1E951D3B63EC",
-        "stop_name_tc": "粉嶺中心　　 (ND187)"
+        "stop_name_tc": "粉嶺中心 (ND187)"
     },
     {
         "route": "261X",
@@ -53613,7 +53613,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "C7120BD9A94B4F6A",
-        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館"
+        "stop_name_tc": "粉嶺站轉車站-蓬瀛仙館 (ND397)"
     },
     {
         "route": "261X",
@@ -65525,7 +65525,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "C7120BD9A94B4F6A",
-        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館"
+        "stop_name_tc": "粉嶺站轉車站-蓬瀛仙館 (ND397)"
     },
     {
         "route": "270A",
@@ -65925,7 +65925,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "C7120BD9A94B4F6A",
-        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館"
+        "stop_name_tc": "粉嶺站轉車站-蓬瀛仙館 (ND397)"
     },
     {
         "route": "270B",
@@ -66085,7 +66085,7 @@
         "service_type": "2",
         "seq": "11",
         "stop": "C7120BD9A94B4F6A",
-        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館"
+        "stop_name_tc": "粉嶺站轉車站-蓬瀛仙館 (ND397)"
     },
     {
         "route": "270B",
@@ -66917,7 +66917,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "2AC85D87661D5AF6",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺名都 (B1)"
+        "stop_name_tc": "粉嶺站轉車站-粉嶺名都 (ND473)"
     },
     {
         "route": "270C",
@@ -66989,7 +66989,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "BFAE1E951D3B63EC",
-        "stop_name_tc": "粉嶺中心　　 (ND187)"
+        "stop_name_tc": "粉嶺中心 (ND187)"
     },
     {
         "route": "270C",
@@ -67917,7 +67917,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "2AC85D87661D5AF6",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺名都 (B1)"
+        "stop_name_tc": "粉嶺站轉車站-粉嶺名都 (ND473)"
     },
     {
         "route": "270R",
@@ -68061,7 +68061,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "C7120BD9A94B4F6A",
-        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館"
+        "stop_name_tc": "粉嶺站轉車站-蓬瀛仙館 (ND397)"
     },
     {
         "route": "270S",
@@ -72621,7 +72621,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "C7120BD9A94B4F6A",
-        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館"
+        "stop_name_tc": "粉嶺站轉車站-蓬瀛仙館 (ND397)"
     },
     {
         "route": "273",
@@ -72829,7 +72829,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "C7120BD9A94B4F6A",
-        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館"
+        "stop_name_tc": "粉嶺站轉車站-蓬瀛仙館 (ND397)"
     },
     {
         "route": "273A",
@@ -73061,7 +73061,7 @@
         "service_type": "2",
         "seq": "20",
         "stop": "C7120BD9A94B4F6A",
-        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館"
+        "stop_name_tc": "粉嶺站轉車站-蓬瀛仙館 (ND397)"
     },
     {
         "route": "273A",
@@ -73189,7 +73189,7 @@
         "service_type": "3",
         "seq": "6",
         "stop": "C7120BD9A94B4F6A",
-        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館"
+        "stop_name_tc": "粉嶺站轉車站-蓬瀛仙館 (ND397)"
     },
     {
         "route": "273A",
@@ -73276,8 +73276,8 @@
         "bound": "O",
         "service_type": "4",
         "seq": "2",
-        "stop": "093289C2E4F6F408",
-        "stop_name_tc": "彩蒲苑彩碧閣 (ND105a)"
+        "stop": "31005C82D70F6B09",
+        "stop_name_tc": "彩蒲苑彩碧閣 (ND105)"
     },
     {
         "route": "273A",
@@ -73429,7 +73429,7 @@
         "service_type": "4",
         "seq": "21",
         "stop": "C7120BD9A94B4F6A",
-        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館"
+        "stop_name_tc": "粉嶺站轉車站-蓬瀛仙館 (ND397)"
     },
     {
         "route": "273A",
@@ -73524,8 +73524,8 @@
         "bound": "O",
         "service_type": "5",
         "seq": "2",
-        "stop": "093289C2E4F6F408",
-        "stop_name_tc": "彩蒲苑彩碧閣 (ND105a)"
+        "stop": "31005C82D70F6B09",
+        "stop_name_tc": "彩蒲苑彩碧閣 (ND105)"
     },
     {
         "route": "273A",
@@ -73685,7 +73685,7 @@
         "service_type": "5",
         "seq": "22",
         "stop": "C7120BD9A94B4F6A",
-        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館"
+        "stop_name_tc": "粉嶺站轉車站-蓬瀛仙館 (ND397)"
     },
     {
         "route": "273A",
@@ -73764,14 +73764,6 @@
         "bound": "O",
         "service_type": "5",
         "seq": "32",
-        "stop": "18785E68EAD3D9B8",
-        "stop_name_tc": "彩園總站 (ND922)"
-    },
-    {
-        "route": "273A",
-        "bound": "O",
-        "service_type": "5",
-        "seq": "33",
         "stop": "AD4E0E8DC8ACEFB6",
         "stop_name_tc": "彩蒲苑彩碧閣 (ND432)"
     },
@@ -73779,7 +73771,7 @@
         "route": "273A",
         "bound": "O",
         "service_type": "5",
-        "seq": "34",
+        "seq": "33",
         "stop": "A4AA1D2CA4E92950",
         "stop_name_tc": "彩石邨 (ND433)"
     },
@@ -74125,7 +74117,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "C7120BD9A94B4F6A",
-        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館"
+        "stop_name_tc": "粉嶺站轉車站-蓬瀛仙館 (ND397)"
     },
     {
         "route": "273D",
@@ -74269,7 +74261,7 @@
         "service_type": "2",
         "seq": "13",
         "stop": "C7120BD9A94B4F6A",
-        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館"
+        "stop_name_tc": "粉嶺站轉車站-蓬瀛仙館 (ND397)"
     },
     {
         "route": "273D",
@@ -74525,7 +74517,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "9D388587636920DA",
-        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館"
+        "stop_name_tc": "粉嶺站轉車站-蓬瀛仙館 (ND398)"
     },
     {
         "route": "273S",
@@ -76901,7 +76893,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "BFAE1E951D3B63EC",
-        "stop_name_tc": "粉嶺中心　　 (ND187)"
+        "stop_name_tc": "粉嶺中心 (ND187)"
     },
     {
         "route": "276C",
@@ -76933,7 +76925,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "C7120BD9A94B4F6A",
-        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館"
+        "stop_name_tc": "粉嶺站轉車站-蓬瀛仙館 (ND397)"
     },
     {
         "route": "276C",
@@ -78741,7 +78733,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "C7120BD9A94B4F6A",
-        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館"
+        "stop_name_tc": "粉嶺站轉車站-蓬瀛仙館 (ND397)"
     },
     {
         "route": "277P",
@@ -79197,7 +79189,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "2AC85D87661D5AF6",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺名都 (B1)"
+        "stop_name_tc": "粉嶺站轉車站-粉嶺名都 (ND473)"
     },
     {
         "route": "277X",
@@ -79277,7 +79269,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "BFAE1E951D3B63EC",
-        "stop_name_tc": "粉嶺中心　　 (ND187)"
+        "stop_name_tc": "粉嶺中心 (ND187)"
     },
     {
         "route": "277X",
@@ -79445,7 +79437,7 @@
         "service_type": "2",
         "seq": "6",
         "stop": "BFAE1E951D3B63EC",
-        "stop_name_tc": "粉嶺中心　　 (ND187)"
+        "stop_name_tc": "粉嶺中心 (ND187)"
     },
     {
         "route": "277X",
@@ -79757,7 +79749,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "3DEE05203A52B235",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺名都"
+        "stop_name_tc": "粉嶺站轉車站-粉嶺名都 (ND474)"
     },
     {
         "route": "278A",
@@ -79893,7 +79885,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "BFAE1E951D3B63EC",
-        "stop_name_tc": "粉嶺中心　　 (ND187)"
+        "stop_name_tc": "粉嶺中心 (ND187)"
     },
     {
         "route": "278A",
@@ -80549,7 +80541,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "C7120BD9A94B4F6A",
-        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館"
+        "stop_name_tc": "粉嶺站轉車站-蓬瀛仙館 (ND397)"
     },
     {
         "route": "278X",
@@ -81365,7 +81357,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "2AC85D87661D5AF6",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺名都 (B1)"
+        "stop_name_tc": "粉嶺站轉車站-粉嶺名都 (ND473)"
     },
     {
         "route": "279X",
@@ -81445,7 +81437,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "BFAE1E951D3B63EC",
-        "stop_name_tc": "粉嶺中心　　 (ND187)"
+        "stop_name_tc": "粉嶺中心 (ND187)"
     },
     {
         "route": "279X",
@@ -81477,7 +81469,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "C7120BD9A94B4F6A",
-        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館"
+        "stop_name_tc": "粉嶺站轉車站-蓬瀛仙館 (ND397)"
     },
     {
         "route": "279X",
@@ -109541,7 +109533,7 @@
         "service_type": "1",
         "seq": "24",
         "stop": "9BE3D659E4C144D2",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺名都"
+        "stop_name_tc": "粉嶺站轉車站-粉嶺名都 (ND472)"
     },
     {
         "route": "373",
@@ -109597,7 +109589,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "BFAE1E951D3B63EC",
-        "stop_name_tc": "粉嶺中心　　 (ND187)"
+        "stop_name_tc": "粉嶺中心 (ND187)"
     },
     {
         "route": "373",
@@ -144965,7 +144957,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "F69B2B317BEB37A3",
-        "stop_name_tc": "屯門泳池 (TM682)"
+        "stop_name_tc": "御海灣 (TM682)"
     },
     {
         "route": "61A",
@@ -145413,7 +145405,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "F69B2B317BEB37A3",
-        "stop_name_tc": "屯門泳池 (TM682)"
+        "stop_name_tc": "御海灣 (TM682)"
     },
     {
         "route": "61M",
@@ -151437,7 +151429,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "9BE3D659E4C144D2",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺名都"
+        "stop_name_tc": "粉嶺站轉車站-粉嶺名都 (ND472)"
     },
     {
         "route": "673",
@@ -151629,7 +151621,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "BFAE1E951D3B63EC",
-        "stop_name_tc": "粉嶺中心　　 (ND187)"
+        "stop_name_tc": "粉嶺中心 (ND187)"
     },
     {
         "route": "673",
@@ -151933,7 +151925,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "9BE3D659E4C144D2",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺名都"
+        "stop_name_tc": "粉嶺站轉車站-粉嶺名都 (ND472)"
     },
     {
         "route": "673A",
@@ -152117,7 +152109,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "87F9F165B63331A5",
-        "stop_name_tc": "粉嶺站轉車站 - 祥華邨(A1)"
+        "stop_name_tc": "粉嶺站轉車站 - 祥華邨 (ND185)"
     },
     {
         "route": "673A",
@@ -152125,7 +152117,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "BFAE1E951D3B63EC",
-        "stop_name_tc": "粉嶺中心　　 (ND187)"
+        "stop_name_tc": "粉嶺中心 (ND187)"
     },
     {
         "route": "673A",
@@ -152365,7 +152357,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "BFAE1E951D3B63EC",
-        "stop_name_tc": "粉嶺中心　　 (ND187)"
+        "stop_name_tc": "粉嶺中心 (ND187)"
     },
     {
         "route": "673P",
@@ -152629,7 +152621,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "C7120BD9A94B4F6A",
-        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館"
+        "stop_name_tc": "粉嶺站轉車站-蓬瀛仙館 (ND397)"
     },
     {
         "route": "678",
@@ -163701,7 +163693,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "9BE3D659E4C144D2",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺名都"
+        "stop_name_tc": "粉嶺站轉車站-粉嶺名都 (ND472)"
     },
     {
         "route": "70K",
@@ -163941,7 +163933,7 @@
         "service_type": "1",
         "seq": "36",
         "stop": "BFAE1E951D3B63EC",
-        "stop_name_tc": "粉嶺中心　　 (ND187)"
+        "stop_name_tc": "粉嶺中心 (ND187)"
     },
     {
         "route": "70K",
@@ -164125,7 +164117,7 @@
         "service_type": "2",
         "seq": "17",
         "stop": "BFAE1E951D3B63EC",
-        "stop_name_tc": "粉嶺中心　　 (ND187)"
+        "stop_name_tc": "粉嶺中心 (ND187)"
     },
     {
         "route": "70K",
@@ -168773,7 +168765,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "9BE3D659E4C144D2",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺名都"
+        "stop_name_tc": "粉嶺站轉車站-粉嶺名都 (ND472)"
     },
     {
         "route": "73B",
@@ -169165,7 +169157,7 @@
         "service_type": "3",
         "seq": "18",
         "stop": "9BE3D659E4C144D2",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺名都"
+        "stop_name_tc": "粉嶺站轉車站-粉嶺名都 (ND472)"
     },
     {
         "route": "73B",
@@ -178405,7 +178397,7 @@
         "service_type": "2",
         "seq": "3",
         "stop": "C7120BD9A94B4F6A",
-        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館"
+        "stop_name_tc": "粉嶺站轉車站-蓬瀛仙館 (ND397)"
     },
     {
         "route": "76K",
@@ -180165,7 +180157,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "9D388587636920DA",
-        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館"
+        "stop_name_tc": "粉嶺站轉車站-蓬瀛仙館 (ND398)"
     },
     {
         "route": "78",
@@ -180269,7 +180261,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "3DEE05203A52B235",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺名都"
+        "stop_name_tc": "粉嶺站轉車站-粉嶺名都 (ND474)"
     },
     {
         "route": "78A",
@@ -180381,7 +180373,7 @@
         "service_type": "3",
         "seq": "6",
         "stop": "3DEE05203A52B235",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺名都"
+        "stop_name_tc": "粉嶺站轉車站-粉嶺名都 (ND474)"
     },
     {
         "route": "78A",
@@ -180493,7 +180485,7 @@
         "service_type": "5",
         "seq": "6",
         "stop": "3DEE05203A52B235",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺名都"
+        "stop_name_tc": "粉嶺站轉車站-粉嶺名都 (ND474)"
     },
     {
         "route": "78A",
@@ -180509,7 +180501,7 @@
         "service_type": "6",
         "seq": "2",
         "stop": "3DEE05203A52B235",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺名都"
+        "stop_name_tc": "粉嶺站轉車站-粉嶺名都 (ND474)"
     },
     {
         "route": "78A",
@@ -180781,7 +180773,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "C7120BD9A94B4F6A",
-        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館"
+        "stop_name_tc": "粉嶺站轉車站-蓬瀛仙館 (ND397)"
     },
     {
         "route": "78B",
@@ -181797,7 +181789,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "9D388587636920DA",
-        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館"
+        "stop_name_tc": "粉嶺站轉車站-蓬瀛仙館 (ND398)"
     },
     {
         "route": "78S",
@@ -210796,6 +210788,14 @@
         "bound": "I",
         "service_type": "1",
         "seq": "4",
+        "stop": "A63B90588F747496",
+        "stop_name_tc": "中銀大廈 (CW745)"
+    },
+    {
+        "route": "934",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "5",
         "stop": "B471F4B9E9CB6DB7",
         "stop_name_tc": "滙豐總行 (CW761)"
     },
@@ -210803,7 +210803,7 @@
         "route": "934",
         "bound": "I",
         "service_type": "1",
-        "seq": "5",
+        "seq": "6",
         "stop": "7397A6CBBD749279",
         "stop_name_tc": "上環站 (CW768)"
     },
@@ -210811,7 +210811,7 @@
         "route": "934",
         "bound": "I",
         "service_type": "1",
-        "seq": "6",
+        "seq": "7",
         "stop": "DEBD2B9A856C0B1F",
         "stop_name_tc": "西隧轉車站 (YT600)"
     },
@@ -210819,7 +210819,7 @@
         "route": "934",
         "bound": "I",
         "service_type": "1",
-        "seq": "7",
+        "seq": "8",
         "stop": "9B664F8FD4E76E48",
         "stop_name_tc": "祈德尊新邨 (TW540)"
     },
@@ -210827,7 +210827,7 @@
         "route": "934",
         "bound": "I",
         "service_type": "1",
-        "seq": "8",
+        "seq": "9",
         "stop": "DC420AE60BA9F523",
         "stop_name_tc": "大涌道福來邨 (TW542)"
     },
@@ -210835,7 +210835,7 @@
         "route": "934",
         "bound": "I",
         "service_type": "1",
-        "seq": "9",
+        "seq": "10",
         "stop": "BFA3460955AC820C",
         "stop_name_tc": "荃景圍天橋 (TW159)"
     },
@@ -210843,7 +210843,7 @@
         "route": "934",
         "bound": "I",
         "service_type": "1",
-        "seq": "10",
+        "seq": "11",
         "stop": "5FB1FCAF80F3D97D",
         "stop_name_tc": "荃灣柴灣角街 (TW160)"
     },
@@ -210851,17 +210851,9 @@
         "route": "934",
         "bound": "I",
         "service_type": "1",
-        "seq": "11",
+        "seq": "12",
         "stop": "9CD69A8A588B2F8D",
         "stop_name_tc": "麗城花園第三期 (TW168)"
-    },
-    {
-        "route": "934",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "12",
-        "stop": "88F78BDD9BDD7636",
-        "stop_name_tc": "灣景花園總站 (TW987)"
     },
     {
         "route": "934",
@@ -210972,6 +210964,14 @@
         "bound": "I",
         "service_type": "1",
         "seq": "2",
+        "stop": "47A2AA98F8E20AE2",
+        "stop_name_tc": "盧押道 (WC674)"
+    },
+    {
+        "route": "934A",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "3",
         "stop": "7AD56B4986828A09",
         "stop_name_tc": "晏頓街 (WC676)"
     },
@@ -210979,7 +210979,7 @@
         "route": "934A",
         "bound": "I",
         "service_type": "1",
-        "seq": "3",
+        "seq": "4",
         "stop": "CAC48CE541F0E887",
         "stop_name_tc": "太古廣場 (A4) (CW740)"
     },
@@ -210987,7 +210987,15 @@
         "route": "934A",
         "bound": "I",
         "service_type": "1",
-        "seq": "4",
+        "seq": "5",
+        "stop": "A63B90588F747496",
+        "stop_name_tc": "中銀大廈 (CW745)"
+    },
+    {
+        "route": "934A",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "6",
         "stop": "B471F4B9E9CB6DB7",
         "stop_name_tc": "滙豐總行 (CW761)"
     },
@@ -210995,7 +211003,7 @@
         "route": "934A",
         "bound": "I",
         "service_type": "1",
-        "seq": "5",
+        "seq": "7",
         "stop": "7397A6CBBD749279",
         "stop_name_tc": "上環站 (CW768)"
     },
@@ -211003,7 +211011,7 @@
         "route": "934A",
         "bound": "I",
         "service_type": "1",
-        "seq": "6",
+        "seq": "8",
         "stop": "DEBD2B9A856C0B1F",
         "stop_name_tc": "西隧轉車站 (YT600)"
     },
@@ -211011,7 +211019,7 @@
         "route": "934A",
         "bound": "I",
         "service_type": "1",
-        "seq": "7",
+        "seq": "9",
         "stop": "F3432DFEDE7E7AA0",
         "stop_name_tc": "荃富街公園 (TW596)"
     },
@@ -211019,7 +211027,7 @@
         "route": "934A",
         "bound": "I",
         "service_type": "1",
-        "seq": "8",
+        "seq": "10",
         "stop": "7019D5AE9C63EE72",
         "stop_name_tc": "荃灣眾安街 (TW134)"
     },
@@ -211027,7 +211035,7 @@
         "route": "934A",
         "bound": "I",
         "service_type": "1",
-        "seq": "9",
+        "seq": "11",
         "stop": "D711AFA9658D51E9",
         "stop_name_tc": "荃灣富華街 (TW142)"
     },
@@ -211035,7 +211043,7 @@
         "route": "934A",
         "bound": "I",
         "service_type": "1",
-        "seq": "10",
+        "seq": "12",
         "stop": "3F545756160D7BEA",
         "stop_name_tc": "福來邨永康樓 (TW151)"
     },
@@ -211043,7 +211051,7 @@
         "route": "934A",
         "bound": "I",
         "service_type": "1",
-        "seq": "11",
+        "seq": "13",
         "stop": "50C0A622B149C308",
         "stop_name_tc": "美環街 (TW210)"
     },
@@ -211051,7 +211059,7 @@
         "route": "934A",
         "bound": "I",
         "service_type": "1",
-        "seq": "12",
+        "seq": "14",
         "stop": "A73739F6D37090EE",
         "stop_name_tc": "荃景花園 (TW212)"
     },
@@ -211059,7 +211067,7 @@
         "route": "934A",
         "bound": "I",
         "service_type": "1",
-        "seq": "13",
+        "seq": "15",
         "stop": "07814531B88CD829",
         "stop_name_tc": "荃灣中心 (TW214)"
     },
@@ -211067,25 +211075,9 @@
         "route": "934A",
         "bound": "I",
         "service_type": "1",
-        "seq": "14",
+        "seq": "16",
         "stop": "A722DAAC99CE03D4",
         "stop_name_tc": "聖母領報堂 (TW221)"
-    },
-    {
-        "route": "934A",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "15",
-        "stop": "5FD70A34C55CE590",
-        "stop_name_tc": "荃灣港安醫院 (TW217)"
-    },
-    {
-        "route": "934A",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "16",
-        "stop": "A6DCDE5BE439B179",
-        "stop_name_tc": "荃威花園總站 (TW933)"
     },
     {
         "route": "934A",
@@ -211228,6 +211220,14 @@
         "bound": "I",
         "service_type": "1",
         "seq": "3",
+        "stop": "7AD56B4986828A09",
+        "stop_name_tc": "晏頓街 (WC676)"
+    },
+    {
+        "route": "935",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "4",
         "stop": "CAC48CE541F0E887",
         "stop_name_tc": "太古廣場 (A4) (CW740)"
     },
@@ -211235,7 +211235,7 @@
         "route": "935",
         "bound": "I",
         "service_type": "1",
-        "seq": "4",
+        "seq": "5",
         "stop": "C0667F887514F03F",
         "stop_name_tc": "滙豐總行 (CW760)"
     },
@@ -211243,7 +211243,7 @@
         "route": "935",
         "bound": "I",
         "service_type": "1",
-        "seq": "5",
+        "seq": "6",
         "stop": "7397A6CBBD749279",
         "stop_name_tc": "上環站 (CW768)"
     },
@@ -211251,7 +211251,7 @@
         "route": "935",
         "bound": "I",
         "service_type": "1",
-        "seq": "6",
+        "seq": "7",
         "stop": "DEBD2B9A856C0B1F",
         "stop_name_tc": "西隧轉車站 (YT600)"
     },
@@ -211259,7 +211259,7 @@
         "route": "935",
         "bound": "I",
         "service_type": "1",
-        "seq": "7",
+        "seq": "8",
         "stop": "D17DA49D5EFC6DD4",
         "stop_name_tc": "葵芳廣場 (KW103)"
     },
@@ -211267,7 +211267,7 @@
         "route": "935",
         "bound": "I",
         "service_type": "1",
-        "seq": "8",
+        "seq": "9",
         "stop": "140E4137EAC319B5",
         "stop_name_tc": "光輝圍 (KW113)"
     },
@@ -211275,7 +211275,7 @@
         "route": "935",
         "bound": "I",
         "service_type": "1",
-        "seq": "9",
+        "seq": "10",
         "stop": "8C6EF1266E4EE05B",
         "stop_name_tc": "昌榮路 (KW480)"
     },
@@ -211283,7 +211283,7 @@
         "route": "935",
         "bound": "I",
         "service_type": "1",
-        "seq": "10",
+        "seq": "11",
         "stop": "D2ACD052AFD5900A",
         "stop_name_tc": "梨木道 (KW321)"
     },
@@ -211291,7 +211291,7 @@
         "route": "935",
         "bound": "I",
         "service_type": "1",
-        "seq": "11",
+        "seq": "12",
         "stop": "F718BAC64885E69E",
         "stop_name_tc": "北葵涌街市 (KW226)"
     },
@@ -211299,7 +211299,7 @@
         "route": "935",
         "bound": "I",
         "service_type": "1",
-        "seq": "12",
+        "seq": "13",
         "stop": "C95751DB2112F279",
         "stop_name_tc": "石蔭東邨 (KW340)"
     },
@@ -211307,7 +211307,7 @@
         "route": "935",
         "bound": "I",
         "service_type": "1",
-        "seq": "13",
+        "seq": "14",
         "stop": "F7AD8DE682AD5BB3",
         "stop_name_tc": "安蔭邨豐蔭樓 (KW345)"
     },
@@ -211315,17 +211315,9 @@
         "route": "935",
         "bound": "I",
         "service_type": "1",
-        "seq": "14",
+        "seq": "15",
         "stop": "3A10F716CC6102DE",
         "stop_name_tc": "安蔭巴士總站 (KW963)"
-    },
-    {
-        "route": "935",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "15",
-        "stop": "3597DD106B5CD29F",
-        "stop_name_tc": "石籬(大隴街)總站 (KW976)"
     },
     {
         "route": "935",
@@ -212220,6 +212212,14 @@
         "bound": "I",
         "service_type": "1",
         "seq": "8",
+        "stop": "7AD56B4986828A09",
+        "stop_name_tc": "晏頓街 (WC676)"
+    },
+    {
+        "route": "936A",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "9",
         "stop": "CAC48CE541F0E887",
         "stop_name_tc": "太古廣場 (A4) (CW740)"
     },
@@ -212227,7 +212227,7 @@
         "route": "936A",
         "bound": "I",
         "service_type": "1",
-        "seq": "9",
+        "seq": "10",
         "stop": "A63B90588F747496",
         "stop_name_tc": "中銀大廈 (CW745)"
     },
@@ -212235,7 +212235,7 @@
         "route": "936A",
         "bound": "I",
         "service_type": "1",
-        "seq": "10",
+        "seq": "11",
         "stop": "A0C1BB5A1A985802",
         "stop_name_tc": "置地廣場 (CW762)"
     },
@@ -212243,7 +212243,7 @@
         "route": "936A",
         "bound": "I",
         "service_type": "1",
-        "seq": "11",
+        "seq": "12",
         "stop": "DC5AC2E3C1153288",
         "stop_name_tc": "中環街市 (CW764)"
     },
@@ -212251,7 +212251,7 @@
         "route": "936A",
         "bound": "I",
         "service_type": "1",
-        "seq": "12",
+        "seq": "13",
         "stop": "7397A6CBBD749279",
         "stop_name_tc": "上環站 (CW768)"
     },
@@ -212259,7 +212259,7 @@
         "route": "936A",
         "bound": "I",
         "service_type": "1",
-        "seq": "13",
+        "seq": "14",
         "stop": "AF049AE41CC182FC",
         "stop_name_tc": "急庇利街 (CW770)"
     },
@@ -212267,7 +212267,7 @@
         "route": "936A",
         "bound": "I",
         "service_type": "1",
-        "seq": "14",
+        "seq": "15",
         "stop": "DEBD2B9A856C0B1F",
         "stop_name_tc": "西隧轉車站 (YT600)"
     },
@@ -212275,7 +212275,7 @@
         "route": "936A",
         "bound": "I",
         "service_type": "1",
-        "seq": "15",
+        "seq": "16",
         "stop": "F8A31970F2A8E25C",
         "stop_name_tc": "興華街西(海盈邨) (SS284)"
     },
@@ -212283,7 +212283,7 @@
         "route": "936A",
         "bound": "I",
         "service_type": "1",
-        "seq": "16",
+        "seq": "17",
         "stop": "F1DE119543E382D9",
         "stop_name_tc": "碧海藍天 (SS671)"
     },
@@ -212291,7 +212291,7 @@
         "route": "936A",
         "bound": "I",
         "service_type": "1",
-        "seq": "17",
+        "seq": "18",
         "stop": "D355B700FF30B3D7",
         "stop_name_tc": "長沙灣興華街 (SS229)"
     },
@@ -212299,7 +212299,7 @@
         "route": "936A",
         "bound": "I",
         "service_type": "1",
-        "seq": "18",
+        "seq": "19",
         "stop": "44EA73AE2E27AC12",
         "stop_name_tc": "荔枝角站 (SS238)"
     },
@@ -212307,7 +212307,7 @@
         "route": "936A",
         "bound": "I",
         "service_type": "1",
-        "seq": "19",
+        "seq": "20",
         "stop": "B4F2BAAED2470D0A",
         "stop_name_tc": "饒宗頤文化館 (KW120)"
     },
@@ -212315,7 +212315,7 @@
         "route": "936A",
         "bound": "I",
         "service_type": "1",
-        "seq": "20",
+        "seq": "21",
         "stop": "75C0DF6C7724CEEA",
         "stop_name_tc": "鐘山台 (KW121)"
     },
@@ -212323,7 +212323,7 @@
         "route": "936A",
         "bound": "I",
         "service_type": "1",
-        "seq": "21",
+        "seq": "22",
         "stop": "EBF4EB34B96BC242",
         "stop_name_tc": "華員邨 (KW122)"
     },
@@ -212331,7 +212331,7 @@
         "route": "936A",
         "bound": "I",
         "service_type": "1",
-        "seq": "22",
+        "seq": "23",
         "stop": "3FE93821145B65F5",
         "stop_name_tc": "葵涌業成街 (KW123)"
     },
@@ -212339,7 +212339,7 @@
         "route": "936A",
         "bound": "I",
         "service_type": "1",
-        "seq": "23",
+        "seq": "24",
         "stop": "264B29FD223D9C4E",
         "stop_name_tc": "葵涌打磚坪街 (KW486)"
     },
@@ -212347,7 +212347,7 @@
         "route": "936A",
         "bound": "I",
         "service_type": "1",
-        "seq": "24",
+        "seq": "25",
         "stop": "86D7BB9BA055D8A6",
         "stop_name_tc": "葵涌石宜路 (KW487)"
     },
@@ -212355,7 +212355,7 @@
         "route": "936A",
         "bound": "I",
         "service_type": "1",
-        "seq": "25",
+        "seq": "26",
         "stop": "C24776F20FE877FF",
         "stop_name_tc": "葵涌藍田街 (KW489)"
     },
@@ -212363,7 +212363,7 @@
         "route": "936A",
         "bound": "I",
         "service_type": "1",
-        "seq": "26",
+        "seq": "27",
         "stop": "257A6E19DD7F156C",
         "stop_name_tc": "和宜合道運動場 (TW490)"
     },
@@ -212371,17 +212371,9 @@
         "route": "936A",
         "bound": "I",
         "service_type": "1",
-        "seq": "27",
+        "seq": "28",
         "stop": "28A57C043C111604",
         "stop_name_tc": "石圍角新村 (TW493)"
-    },
-    {
-        "route": "936A",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "28",
-        "stop": "30000427BD163F84",
-        "stop_name_tc": "梨木樹巴士總站 (TW903)"
     },
     {
         "route": "936A",
@@ -223981,7 +223973,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "C7120BD9A94B4F6A",
-        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館"
+        "stop_name_tc": "粉嶺站轉車站-蓬瀛仙館 (ND397)"
     },
     {
         "route": "978",
@@ -232933,7 +232925,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "51418258FECF7F92",
-        "stop_name_tc": "屯門泳池 (TM681)"
+        "stop_name_tc": "御海灣 (TM681)"
     },
     {
         "route": "A33",
@@ -233213,7 +233205,7 @@
         "service_type": "3",
         "seq": "14",
         "stop": "51418258FECF7F92",
-        "stop_name_tc": "屯門泳池 (TM681)"
+        "stop_name_tc": "御海灣 (TM681)"
     },
     {
         "route": "A33",
@@ -233565,7 +233557,7 @@
         "service_type": "1",
         "seq": "23",
         "stop": "D0236013EDCA9EB1",
-        "stop_name_tc": "屯門泳池 (TM424)"
+        "stop_name_tc": "御海灣 (TM424)"
     },
     {
         "route": "A33",
@@ -233837,7 +233829,7 @@
         "service_type": "2",
         "seq": "23",
         "stop": "D0236013EDCA9EB1",
-        "stop_name_tc": "屯門泳池 (TM424)"
+        "stop_name_tc": "御海灣 (TM424)"
     },
     {
         "route": "A33",
@@ -241013,7 +241005,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "7CA480A59A2F904E",
-        "stop_name_tc": "上水轉車站 - 上水總站(A1)"
+        "stop_name_tc": "上水轉車站 - 上水總站 (ND904)"
     },
     {
         "route": "A43",
@@ -241101,7 +241093,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "2AC85D87661D5AF6",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺名都 (B1)"
+        "stop_name_tc": "粉嶺站轉車站-粉嶺名都 (ND473)"
     },
     {
         "route": "A43",
@@ -241157,7 +241149,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "87F9F165B63331A5",
-        "stop_name_tc": "粉嶺站轉車站 - 祥華邨(A1)"
+        "stop_name_tc": "粉嶺站轉車站 - 祥華邨 (ND185)"
     },
     {
         "route": "A43",
@@ -241197,7 +241189,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "9D388587636920DA",
-        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館"
+        "stop_name_tc": "粉嶺站轉車站-蓬瀛仙館 (ND398)"
     },
     {
         "route": "A43",
@@ -241245,7 +241237,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "6883840CF48EFF58",
-        "stop_name_tc": "上水轉車站 - 上水總站(A2)"
+        "stop_name_tc": "上水轉車站 - 上水總站 (ND907)"
     },
     {
         "route": "A43",
@@ -241325,7 +241317,7 @@
         "service_type": "2",
         "seq": "4",
         "stop": "87F9F165B63331A5",
-        "stop_name_tc": "粉嶺站轉車站 - 祥華邨(A1)"
+        "stop_name_tc": "粉嶺站轉車站 - 祥華邨 (ND185)"
     },
     {
         "route": "A43",
@@ -241365,7 +241357,7 @@
         "service_type": "2",
         "seq": "9",
         "stop": "9D388587636920DA",
-        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館"
+        "stop_name_tc": "粉嶺站轉車站-蓬瀛仙館 (ND398)"
     },
     {
         "route": "A43",
@@ -241413,7 +241405,7 @@
         "service_type": "2",
         "seq": "15",
         "stop": "6883840CF48EFF58",
-        "stop_name_tc": "上水轉車站 - 上水總站(A2)"
+        "stop_name_tc": "上水轉車站 - 上水總站 (ND907)"
     },
     {
         "route": "A43",
@@ -241525,7 +241517,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "7CA480A59A2F904E",
-        "stop_name_tc": "上水轉車站 - 上水總站(A1)"
+        "stop_name_tc": "上水轉車站 - 上水總站 (ND904)"
     },
     {
         "route": "A43P",
@@ -241549,7 +241541,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "04A05525A6AB819D",
-        "stop_name_tc": "粉嶺站轉車站-祥華邨 (A1)"
+        "stop_name_tc": "粉嶺站轉車站-祥華邨 (ND183)"
     },
     {
         "route": "A43P",
@@ -241645,7 +241637,7 @@
         "service_type": "2",
         "seq": "9",
         "stop": "7CA480A59A2F904E",
-        "stop_name_tc": "上水轉車站 - 上水總站(A1)"
+        "stop_name_tc": "上水轉車站 - 上水總站 (ND904)"
     },
     {
         "route": "A43P",
@@ -241669,7 +241661,7 @@
         "service_type": "2",
         "seq": "12",
         "stop": "04A05525A6AB819D",
-        "stop_name_tc": "粉嶺站轉車站-祥華邨 (A1)"
+        "stop_name_tc": "粉嶺站轉車站-祥華邨 (ND183)"
     },
     {
         "route": "A43P",
@@ -241765,7 +241757,7 @@
         "service_type": "3",
         "seq": "9",
         "stop": "7CA480A59A2F904E",
-        "stop_name_tc": "上水轉車站 - 上水總站(A1)"
+        "stop_name_tc": "上水轉車站 - 上水總站 (ND904)"
     },
     {
         "route": "A43P",
@@ -241789,7 +241781,7 @@
         "service_type": "3",
         "seq": "12",
         "stop": "04A05525A6AB819D",
-        "stop_name_tc": "粉嶺站轉車站-祥華邨 (A1)"
+        "stop_name_tc": "粉嶺站轉車站-祥華邨 (ND183)"
     },
     {
         "route": "A43P",
@@ -241885,7 +241877,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "87F9F165B63331A5",
-        "stop_name_tc": "粉嶺站轉車站 - 祥華邨(A1)"
+        "stop_name_tc": "粉嶺站轉車站 - 祥華邨 (ND185)"
     },
     {
         "route": "A43P",
@@ -241909,7 +241901,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "6883840CF48EFF58",
-        "stop_name_tc": "上水轉車站 - 上水總站(A2)"
+        "stop_name_tc": "上水轉車站 - 上水總站 (ND907)"
     },
     {
         "route": "A43P",
@@ -242037,7 +242029,7 @@
         "service_type": "3",
         "seq": "8",
         "stop": "87F9F165B63331A5",
-        "stop_name_tc": "粉嶺站轉車站 - 祥華邨(A1)"
+        "stop_name_tc": "粉嶺站轉車站 - 祥華邨 (ND185)"
     },
     {
         "route": "A43P",
@@ -242061,7 +242053,7 @@
         "service_type": "3",
         "seq": "11",
         "stop": "6883840CF48EFF58",
-        "stop_name_tc": "上水轉車站 - 上水總站(A2)"
+        "stop_name_tc": "上水轉車站 - 上水總站 (ND907)"
     },
     {
         "route": "A43P",
@@ -246557,7 +246549,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "51418258FECF7F92",
-        "stop_name_tc": "屯門泳池 (TM681)"
+        "stop_name_tc": "御海灣 (TM681)"
     },
     {
         "route": "E33P",
@@ -246805,7 +246797,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "D0236013EDCA9EB1",
-        "stop_name_tc": "屯門泳池 (TM424)"
+        "stop_name_tc": "御海灣 (TM424)"
     },
     {
         "route": "E33P",
@@ -246989,7 +246981,7 @@
         "service_type": "2",
         "seq": "9",
         "stop": "D0236013EDCA9EB1",
-        "stop_name_tc": "屯門泳池 (TM424)"
+        "stop_name_tc": "御海灣 (TM424)"
     },
     {
         "route": "E33P",
@@ -252309,7 +252301,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "87F9F165B63331A5",
-        "stop_name_tc": "粉嶺站轉車站 - 祥華邨(A1)"
+        "stop_name_tc": "粉嶺站轉車站 - 祥華邨 (ND185)"
     },
     {
         "route": "E43",
@@ -252381,7 +252373,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "2AC85D87661D5AF6",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺名都 (B1)"
+        "stop_name_tc": "粉嶺站轉車站-粉嶺名都 (ND473)"
     },
     {
         "route": "E43",
@@ -261376,222 +261368,6 @@
         "stop_name_tc": "紅磡站總站 (HH974)"
     },
     {
-        "route": "N273",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "1",
-        "stop": "F8C20FE9111D486A",
-        "stop_name_tc": "上水轉車站 - 上水站 (ND106)"
-    },
-    {
-        "route": "N273",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "2",
-        "stop": "D97A36CE8D65B198",
-        "stop_name_tc": "太平總站-北區醫院 (ND927)"
-    },
-    {
-        "route": "N273",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "3",
-        "stop": "CF94083CB24CF4E5",
-        "stop_name_tc": "祥龍圍邨 (ND110)"
-    },
-    {
-        "route": "N273",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "4",
-        "stop": "4A76CDB32FA69BC6",
-        "stop_name_tc": "御皇庭 (ND115)"
-    },
-    {
-        "route": "N273",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "5",
-        "stop": "6F11F73C749338DB",
-        "stop_name_tc": "御景峰 (ND117)"
-    },
-    {
-        "route": "N273",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "6",
-        "stop": "98EBAB9468C80DD2",
-        "stop_name_tc": "欣翠花園 (ND126)"
-    },
-    {
-        "route": "N273",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "7",
-        "stop": "CA1317F5A0B8A8B2",
-        "stop_name_tc": "嘉盛苑 (ND129)"
-    },
-    {
-        "route": "N273",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "8",
-        "stop": "AFD29CB1A4F71AB9",
-        "stop_name_tc": "基新中學 (ND132)"
-    },
-    {
-        "route": "N273",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "9",
-        "stop": "65ECD19EFD09FB74",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站 (ND133)"
-    },
-    {
-        "route": "N273",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "10",
-        "stop": "4C97BE87FBF959C4",
-        "stop_name_tc": "百福田心球場 (ND150)"
-    },
-    {
-        "route": "N273",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "11",
-        "stop": "FA52803E2628A212",
-        "stop_name_tc": "牽晴間 (ND151)"
-    },
-    {
-        "route": "N273",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "12",
-        "stop": "3AD4DADA5B941CF2",
-        "stop_name_tc": "和興村 (ND160)"
-    },
-    {
-        "route": "N273",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "13",
-        "stop": "8237ED597A8A948B",
-        "stop_name_tc": "華明轉車站 (ND988)"
-    },
-    {
-        "route": "N273",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "14",
-        "stop": "A4455CCA999A234C",
-        "stop_name_tc": "華明邨康明樓 (ND376)"
-    },
-    {
-        "route": "N273",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "15",
-        "stop": "3C821C86ADED2B9D",
-        "stop_name_tc": "華明邨耀明樓 (ND378)"
-    },
-    {
-        "route": "N273",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "16",
-        "stop": "14BDB94A8F3ED3EC",
-        "stop_name_tc": "花都廣場 (ND391)"
-    },
-    {
-        "route": "N273",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "17",
-        "stop": "FA7A3D77713061E9",
-        "stop_name_tc": "欣盛苑 (ND396)"
-    },
-    {
-        "route": "N273",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "18",
-        "stop": "C7120BD9A94B4F6A",
-        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館"
-    },
-    {
-        "route": "N273",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "19",
-        "stop": "825199DC3BC0C5A3",
-        "stop_name_tc": "基新中學 (ND399)"
-    },
-    {
-        "route": "N273",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "20",
-        "stop": "A8F178C255CF9783",
-        "stop_name_tc": "粉嶺置福圍 (ND411)"
-    },
-    {
-        "route": "N273",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "21",
-        "stop": "ADB9356BBF06F7C7",
-        "stop_name_tc": "嘉盛苑 (ND401)"
-    },
-    {
-        "route": "N273",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "22",
-        "stop": "8E3F5AE0A97053F9",
-        "stop_name_tc": "華慧園 (ND403)"
-    },
-    {
-        "route": "N273",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "23",
-        "stop": "68C7CBB4CAB9FE69",
-        "stop_name_tc": "清河邨 (ND415)"
-    },
-    {
-        "route": "N273",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "24",
-        "stop": "9CD9BFAE2BC91336",
-        "stop_name_tc": "曾梅千禧學校 (ND417)"
-    },
-    {
-        "route": "N273",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "25",
-        "stop": "E86A26B1A389C290",
-        "stop_name_tc": "太平總站-北區醫院 (ND926)"
-    },
-    {
-        "route": "N273",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "26",
-        "stop": "4E655B25ABAE103A",
-        "stop_name_tc": "上水轉車站 - 上水站 (ND430)"
-    },
-    {
-        "route": "N273",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "27",
-        "stop": "18785E68EAD3D9B8",
-        "stop_name_tc": "彩園總站 (ND922)"
-    },
-    {
         "route": "N276",
         "bound": "I",
         "service_type": "1",
@@ -266957,7 +266733,7 @@
         "service_type": "1",
         "seq": "36",
         "stop": "C7120BD9A94B4F6A",
-        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館"
+        "stop_name_tc": "粉嶺站轉車站-蓬瀛仙館 (ND397)"
     },
     {
         "route": "N373",
@@ -268861,7 +268637,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "7CA480A59A2F904E",
-        "stop_name_tc": "上水轉車站 - 上水總站(A1)"
+        "stop_name_tc": "上水轉車站 - 上水總站 (ND904)"
     },
     {
         "route": "N42A",
@@ -268933,7 +268709,7 @@
         "service_type": "1",
         "seq": "30",
         "stop": "2AC85D87661D5AF6",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺名都 (B1)"
+        "stop_name_tc": "粉嶺站轉車站-粉嶺名都 (ND473)"
     },
     {
         "route": "N42A",
@@ -268989,7 +268765,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "87F9F165B63331A5",
-        "stop_name_tc": "粉嶺站轉車站 - 祥華邨(A1)"
+        "stop_name_tc": "粉嶺站轉車站 - 祥華邨 (ND185)"
     },
     {
         "route": "N42A",
@@ -269029,7 +268805,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "9D388587636920DA",
-        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館"
+        "stop_name_tc": "粉嶺站轉車站-蓬瀛仙館 (ND398)"
     },
     {
         "route": "N42A",
@@ -269077,7 +268853,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "D9F731B6F7B5B4EB",
-        "stop_name_tc": "上水轉車站 - 上水總站(A1)"
+        "stop_name_tc": "上水轉車站 - 上水總站 (ND901)"
     },
     {
         "route": "N42A",
@@ -272565,7 +272341,7 @@
         "service_type": "1",
         "seq": "25",
         "stop": "C7120BD9A94B4F6A",
-        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館"
+        "stop_name_tc": "粉嶺站轉車站-蓬瀛仙館 (ND397)"
     },
     {
         "route": "N73",
@@ -276989,7 +276765,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "7CA480A59A2F904E",
-        "stop_name_tc": "上水轉車站 - 上水總站(A1)"
+        "stop_name_tc": "上水轉車站 - 上水總站 (ND904)"
     },
     {
         "route": "NA43",
@@ -277077,7 +276853,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "2AC85D87661D5AF6",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺名都 (B1)"
+        "stop_name_tc": "粉嶺站轉車站-粉嶺名都 (ND473)"
     },
     {
         "route": "NA43",
@@ -277133,7 +276909,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "87F9F165B63331A5",
-        "stop_name_tc": "粉嶺站轉車站 - 祥華邨(A1)"
+        "stop_name_tc": "粉嶺站轉車站 - 祥華邨 (ND185)"
     },
     {
         "route": "NA43",
@@ -277173,7 +276949,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "9D388587636920DA",
-        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館"
+        "stop_name_tc": "粉嶺站轉車站-蓬瀛仙館 (ND398)"
     },
     {
         "route": "NA43",
@@ -277221,7 +276997,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "D9F731B6F7B5B4EB",
-        "stop_name_tc": "上水轉車站 - 上水總站(A1)"
+        "stop_name_tc": "上水轉車站 - 上水總站 (ND901)"
     },
     {
         "route": "NA43",
@@ -277861,7 +277637,7 @@
         "service_type": "1",
         "seq": "23",
         "stop": "D0236013EDCA9EB1",
-        "stop_name_tc": "屯門泳池 (TM424)"
+        "stop_name_tc": "御海灣 (TM424)"
     },
     {
         "route": "NA52",
@@ -278053,7 +277829,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "51418258FECF7F92",
-        "stop_name_tc": "屯門泳池 (TM681)"
+        "stop_name_tc": "御海灣 (TM681)"
     },
     {
         "route": "NA52",
@@ -281188,6 +280964,14 @@
         "bound": "O",
         "service_type": "1",
         "seq": "11",
+        "stop": "84AF6F0ACA61386F",
+        "stop_name_tc": "粉嶺公路轉車站 (A2) (TP102)"
+    },
+    {
+        "route": "R270",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "12",
         "stop": "2431FF3100478DEE",
         "stop_name_tc": "九龍塘聯合道 (KC661)"
     },
@@ -281195,7 +280979,7 @@
         "route": "R270",
         "bound": "O",
         "service_type": "1",
-        "seq": "12",
+        "seq": "13",
         "stop": "ED6FCB0422D541F5",
         "stop_name_tc": "九龍塘站 (KC662)"
     },
@@ -281203,7 +280987,7 @@
         "route": "R270",
         "bound": "O",
         "service_type": "1",
-        "seq": "13",
+        "seq": "14",
         "stop": "850F72123F644500",
         "stop_name_tc": "龍濤花園 (KC665)"
     },
@@ -281211,7 +280995,7 @@
         "route": "R270",
         "bound": "O",
         "service_type": "1",
-        "seq": "14",
+        "seq": "15",
         "stop": "98FCC750B322B706",
         "stop_name_tc": "九龍醫院 (KC669)"
     },
@@ -281219,7 +281003,7 @@
         "route": "R270",
         "bound": "O",
         "service_type": "1",
-        "seq": "15",
+        "seq": "16",
         "stop": "66C6FDFC88F56E51",
         "stop_name_tc": "醫療輔助總部 (KC678)"
     },
@@ -281227,7 +281011,7 @@
         "route": "R270",
         "bound": "O",
         "service_type": "1",
-        "seq": "16",
+        "seq": "17",
         "stop": "7CD8F96A087CDDF2",
         "stop_name_tc": "愛民邨 (KC679)"
     },
@@ -281235,7 +281019,7 @@
         "route": "R270",
         "bound": "O",
         "service_type": "1",
-        "seq": "17",
+        "seq": "18",
         "stop": "F3D86A2A72FF3582",
         "stop_name_tc": "尖沙咀東（麼地道） (YT921)"
     },
@@ -281909,7 +281693,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "BFAE1E951D3B63EC",
-        "stop_name_tc": "粉嶺中心　　 (ND187)"
+        "stop_name_tc": "粉嶺中心 (ND187)"
     },
     {
         "route": "R673",
@@ -281948,6 +281732,14 @@
         "bound": "O",
         "service_type": "1",
         "seq": "16",
+        "stop": "84AF6F0ACA61386F",
+        "stop_name_tc": "粉嶺公路轉車站 (A2) (TP102)"
+    },
+    {
+        "route": "R673",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "17",
         "stop": "2431FF3100478DEE",
         "stop_name_tc": "九龍塘聯合道 (KC661)"
     },
@@ -281955,7 +281747,7 @@
         "route": "R673",
         "bound": "O",
         "service_type": "1",
-        "seq": "17",
+        "seq": "18",
         "stop": "ED6FCB0422D541F5",
         "stop_name_tc": "九龍塘站 (KC662)"
     },
@@ -281963,7 +281755,7 @@
         "route": "R673",
         "bound": "O",
         "service_type": "1",
-        "seq": "18",
+        "seq": "19",
         "stop": "850F72123F644500",
         "stop_name_tc": "龍濤花園 (KC665)"
     },
@@ -281971,7 +281763,7 @@
         "route": "R673",
         "bound": "O",
         "service_type": "1",
-        "seq": "19",
+        "seq": "20",
         "stop": "3821D64D2BF1BB66",
         "stop_name_tc": "九龍醫院 (KC668)"
     },
@@ -281979,7 +281771,7 @@
         "route": "R673",
         "bound": "O",
         "service_type": "1",
-        "seq": "20",
+        "seq": "21",
         "stop": "66C6FDFC88F56E51",
         "stop_name_tc": "醫療輔助總部 (KC678)"
     },
@@ -281987,7 +281779,7 @@
         "route": "R673",
         "bound": "O",
         "service_type": "1",
-        "seq": "21",
+        "seq": "22",
         "stop": "7CD8F96A087CDDF2",
         "stop_name_tc": "愛民邨 (KC679)"
     },
@@ -281995,7 +281787,7 @@
         "route": "R673",
         "bound": "O",
         "service_type": "1",
-        "seq": "22",
+        "seq": "23",
         "stop": "4D3CBBDB95447F2E",
         "stop_name_tc": "紅隧轉車站 (HH505)"
     },
@@ -282003,7 +281795,7 @@
         "route": "R673",
         "bound": "O",
         "service_type": "1",
-        "seq": "23",
+        "seq": "24",
         "stop": "76B4054F2E1F00B0",
         "stop_name_tc": "邊寧頓街 (WC250)"
     },
@@ -282011,7 +281803,7 @@
         "route": "R673",
         "bound": "O",
         "service_type": "1",
-        "seq": "24",
+        "seq": "25",
         "stop": "17B98BD1165A7B92",
         "stop_name_tc": "維多利亞公園 (ED310)"
     },
@@ -285189,7 +284981,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "9D388587636920DA",
-        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館"
+        "stop_name_tc": "粉嶺站轉車站-蓬瀛仙館 (ND398)"
     },
     {
         "route": "SP7",
@@ -285405,7 +285197,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "C7120BD9A94B4F6A",
-        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館"
+        "stop_name_tc": "粉嶺站轉車站-蓬瀛仙館 (ND397)"
     },
     {
         "route": "T270",
@@ -285565,7 +285357,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "C7120BD9A94B4F6A",
-        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館"
+        "stop_name_tc": "粉嶺站轉車站-蓬瀛仙館 (ND397)"
     },
     {
         "route": "T277",
@@ -286909,7 +286701,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "9D388587636920DA",
-        "stop_name_tc": "粉嶺站轉車站 - 蓬瀛仙館"
+        "stop_name_tc": "粉嶺站轉車站-蓬瀛仙館 (ND398)"
     },
     {
         "route": "W3",
@@ -289165,7 +288957,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "2AC85D87661D5AF6",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺名都 (B1)"
+        "stop_name_tc": "粉嶺站轉車站-粉嶺名都 (ND473)"
     },
     {
         "route": "X43",
