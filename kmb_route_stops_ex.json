@@ -235988,7 +235988,7 @@
         "bound": "I",
         "service_type": "1",
         "seq": "11",
-        "stop": "39CA64EA95DEE080",
+        "stop": "591FA32FB4B53682",
         "stop_name_tc": "形點 I (YL405)"
     },
     {
@@ -236132,7 +236132,7 @@
         "bound": "I",
         "service_type": "3",
         "seq": "12",
-        "stop": "39CA64EA95DEE080",
+        "stop": "591FA32FB4B53682",
         "stop_name_tc": "形點 I (YL405)"
     },
     {
@@ -236276,7 +236276,7 @@
         "bound": "I",
         "service_type": "5",
         "seq": "12",
-        "stop": "39CA64EA95DEE080",
+        "stop": "591FA32FB4B53682",
         "stop_name_tc": "形點 I (YL405)"
     },
     {
@@ -236428,7 +236428,7 @@
         "bound": "I",
         "service_type": "6",
         "seq": "13",
-        "stop": "39CA64EA95DEE080",
+        "stop": "591FA32FB4B53682",
         "stop_name_tc": "形點 I (YL405)"
     },
     {
@@ -247284,7 +247284,7 @@
         "bound": "I",
         "service_type": "1",
         "seq": "19",
-        "stop": "39CA64EA95DEE080",
+        "stop": "591FA32FB4B53682",
         "stop_name_tc": "形點 I (YL405)"
     },
     {
@@ -247780,7 +247780,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "4",
-        "stop": "39CA64EA95DEE080",
+        "stop": "591FA32FB4B53682",
         "stop_name_tc": "形點 I (YL405)"
     },
     {
@@ -248244,7 +248244,7 @@
         "bound": "I",
         "service_type": "1",
         "seq": "37",
-        "stop": "39CA64EA95DEE080",
+        "stop": "591FA32FB4B53682",
         "stop_name_tc": "形點 I (YL405)"
     },
     {
@@ -249396,7 +249396,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "7",
-        "stop": "39CA64EA95DEE080",
+        "stop": "591FA32FB4B53682",
         "stop_name_tc": "形點 I (YL405)"
     },
     {
@@ -275180,7 +275180,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "14",
-        "stop": "39CA64EA95DEE080",
+        "stop": "591FA32FB4B53682",
         "stop_name_tc": "形點 I (YL405)"
     },
     {
@@ -275332,7 +275332,7 @@
         "bound": "O",
         "service_type": "2",
         "seq": "13",
-        "stop": "39CA64EA95DEE080",
+        "stop": "591FA32FB4B53682",
         "stop_name_tc": "形點 I (YL405)"
     },
     {
@@ -287508,7 +287508,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "22",
-        "stop": "39CA64EA95DEE080",
+        "stop": "591FA32FB4B53682",
         "stop_name_tc": "形點 I (YL405)"
     },
     {
