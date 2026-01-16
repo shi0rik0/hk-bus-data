@@ -16885,6 +16885,28 @@
         "dest_sc": "湾仔海滨"
     },
     {
+        "route": "R108",
+        "bound": "O",
+        "service_type": "1",
+        "orig_en": "KAI YIP",
+        "orig_tc": "啟業",
+        "orig_sc": "启业",
+        "dest_en": "CAUSEWAY BAY (VICTORIA PARK)",
+        "dest_tc": "銅鑼灣(維多利亞公園)",
+        "dest_sc": "铜锣湾(维多利亚公园)"
+    },
+    {
+        "route": "R215",
+        "bound": "O",
+        "service_type": "1",
+        "orig_en": "LAM TIN (KWONG TIN ESTATE)",
+        "orig_tc": "藍田(廣田邨)",
+        "orig_sc": "蓝田(广田邨)",
+        "dest_en": "TSIM SHA TSUI EAST (MODY ROAD)",
+        "dest_tc": "尖東麼地道",
+        "dest_sc": "尖东么地道"
+    },
+    {
         "route": "R230",
         "bound": "O",
         "service_type": "1",
@@ -16949,6 +16971,61 @@
         "dest_en": "TSIM SHA TSUI EAST (MODY ROAD)",
         "dest_tc": "尖沙咀東(麼地道)",
         "dest_sc": "尖沙咀东(么地道)"
+    },
+    {
+        "route": "R271",
+        "bound": "O",
+        "service_type": "1",
+        "orig_en": "TAI PO (FU HENG)",
+        "orig_tc": "大埔(富亨)",
+        "orig_sc": "大埔(富亨)",
+        "dest_en": "TSIM SHA TSUI EAST (MODY ROAD)",
+        "dest_tc": "尖沙咀東(麼地道)",
+        "dest_sc": "尖沙咀东(么地道)"
+    },
+    {
+        "route": "R283",
+        "bound": "O",
+        "service_type": "1",
+        "orig_en": "SHEK MUN ESTATE",
+        "orig_tc": "碩門邨",
+        "orig_sc": "硕门邨",
+        "dest_en": "TSIM SHA TSUI EAST (MODY ROAD)",
+        "dest_tc": "尖沙咀東(麼地道)",
+        "dest_sc": "尖沙咀东(么地道)"
+    },
+    {
+        "route": "R287",
+        "bound": "O",
+        "service_type": "1",
+        "orig_en": "WU KAI SHA STATION",
+        "orig_tc": "烏溪沙站",
+        "orig_sc": "乌溪沙站",
+        "dest_en": "TSIM SHA TSUI EAST (MODY ROAD)",
+        "dest_tc": "尖沙咀東(麼地道)",
+        "dest_sc": "尖沙咀东(么地道)"
+    },
+    {
+        "route": "R298",
+        "bound": "O",
+        "service_type": "1",
+        "orig_en": "HONG SING GARDEN",
+        "orig_tc": "康盛花園",
+        "orig_sc": "康盛花园",
+        "dest_en": "TSIM SHA TSUI EAST (MODY ROAD)",
+        "dest_tc": "尖沙咀東(麼地道)",
+        "dest_sc": "尖沙咀东(么地道)"
+    },
+    {
+        "route": "R307",
+        "bound": "O",
+        "service_type": "1",
+        "orig_en": "TAI PO TING TAI ROAD",
+        "orig_tc": "大埔汀太路",
+        "orig_sc": "大埔汀太路",
+        "dest_en": "CAUSEWAY BAY (VICTORIA PARK)",
+        "dest_tc": "銅鑼灣 (維多利亞公園)",
+        "dest_sc": "铜锣湾 (维多利亚公园)"
     },
     {
         "route": "R33",
@@ -17017,12 +17094,34 @@
         "dest_sc": "大围站"
     },
     {
+        "route": "R603",
+        "bound": "O",
+        "service_type": "1",
+        "orig_en": "ON TAI (WEST)",
+        "orig_tc": "安泰(西)",
+        "orig_sc": "安泰(西)",
+        "dest_en": "CAUSEWAY BAY (VICTORIA PARK)",
+        "dest_tc": "銅鑼灣(維多利亞公園)",
+        "dest_sc": "铜锣湾(维多利亚公园)"
+    },
+    {
         "route": "R673",
         "bound": "O",
         "service_type": "1",
         "orig_en": "SHEUNG SHUI (CHING HO)",
         "orig_tc": "上水(清河)",
         "orig_sc": "上水(清河)",
+        "dest_en": "CAUSEWAY BAY (VICTORIA PARK)",
+        "dest_tc": "銅鑼灣 (維多利亞公園)",
+        "dest_sc": "铜锣湾 (维多利亚公园)"
+    },
+    {
+        "route": "R680",
+        "bound": "O",
+        "service_type": "1",
+        "orig_en": "KAM YING COURT",
+        "orig_tc": "錦英苑",
+        "orig_sc": "锦英苑",
         "dest_en": "CAUSEWAY BAY (VICTORIA PARK)",
         "dest_tc": "銅鑼灣 (維多利亞公園)",
         "dest_sc": "铜锣湾 (维多利亚公园)"
