@@ -12608,14 +12608,6 @@
         "long": "114.232520"
     },
     {
-        "stop": "3C34422AC69920E7",
-        "name_en": "KAI CHEUNG COURT (WT976)",
-        "name_tc": "啟翔苑 (WT976)",
-        "name_sc": "启翔苑 (WT976)",
-        "lat": "22.337851",
-        "long": "114.203078"
-    },
-    {
         "stop": "3C3AFAA5179D7F6D",
         "name_en": "SO KWUN WAT (TM369)",
         "name_tc": "掃管笏 (TM369)",
@@ -21310,14 +21302,6 @@
         "name_sc": "康怡广场",
         "lat": "22.284486",
         "long": "114.216720"
-    },
-    {
-        "stop": "645CC2C9E1C90E69",
-        "name_en": "KAI CHEUNG COURT (WT977)",
-        "name_tc": "啟翔苑 (WT977)",
-        "name_sc": "启翔苑 (WT977)",
-        "lat": "22.337832",
-        "long": "114.202923"
     },
     {
         "stop": "645D996BAD54FBBC",
@@ -49972,8 +49956,8 @@
         "name_en": "HONG KONG PALACE MUSEUM",
         "name_tc": "香港故宮文化博物館",
         "name_sc": "香港故宫文化博物馆",
-        "lat": "22.301530",
-        "long": "114.156018"
+        "lat": "22.301472",
+        "long": "114.156170"
     },
     {
         "stop": "F0536729876AA9D0",

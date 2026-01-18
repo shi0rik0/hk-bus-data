@@ -30132,8 +30132,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "1",
-        "stop": "17EC583ACAB167BE",
-        "stop_name_tc": "啟翔苑 (WT980)"
+        "stop": "FC343F5E57B07FBE",
+        "stop_name_tc": "啟翔苑 (WT975)"
     },
     {
         "route": "19",
@@ -30268,8 +30268,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "9",
-        "stop": "17EC583ACAB167BE",
-        "stop_name_tc": "啟翔苑 (WT980)"
+        "stop": "FC343F5E57B07FBE",
+        "stop_name_tc": "啟翔苑 (WT975)"
     },
     {
         "route": "1A",
@@ -171620,8 +171620,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "8",
-        "stop": "3C34422AC69920E7",
-        "stop_name_tc": "啟翔苑 (WT976)"
+        "stop": "17EC583ACAB167BE",
+        "stop_name_tc": "啟翔苑 (WT980)"
     },
     {
         "route": "74A",
@@ -172348,8 +172348,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "4",
-        "stop": "FC343F5E57B07FBE",
-        "stop_name_tc": "啟翔苑 (WT975)"
+        "stop": "17EC583ACAB167BE",
+        "stop_name_tc": "啟翔苑 (WT980)"
     },
     {
         "route": "74B",
@@ -175916,8 +175916,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "12",
-        "stop": "FC343F5E57B07FBE",
-        "stop_name_tc": "啟翔苑 (WT975)"
+        "stop": "17EC583ACAB167BE",
+        "stop_name_tc": "啟翔苑 (WT980)"
     },
     {
         "route": "74X",
@@ -200140,8 +200140,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "5",
-        "stop": "645CC2C9E1C90E69",
-        "stop_name_tc": "啟翔苑 (WT977)"
+        "stop": "17EC583ACAB167BE",
+        "stop_name_tc": "啟翔苑 (WT980)"
     },
     {
         "route": "89B",
@@ -277612,8 +277612,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "15",
-        "stop": "4EA9AA1416D2A374",
-        "stop_name_tc": "咖啡灣 (TM223)"
+        "stop": "63EBEAE45A92342A",
+        "stop_name_tc": null
     },
     {
         "route": "NA52",
