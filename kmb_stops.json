@@ -6616,6 +6616,14 @@
         "long": "114.149488"
     },
     {
+        "stop": "1FE4FBC2DB90CF80",
+        "name_en": "ON KIN ROAD (AN630)",
+        "name_tc": "安健道 (AN630)",
+        "name_sc": "安健道 (AN630)",
+        "lat": "22.323110",
+        "long": "114.233212"
+    },
+    {
         "stop": "1FEA0FF1E4CB57E8",
         "name_en": "LOK MOON HOUSE (WT394)",
         "name_tc": "樂滿樓 (WT394)",
@@ -29606,6 +29614,14 @@
         "name_sc": "碧沙路 (SK111)",
         "lat": "22.317698",
         "long": "114.274467"
+    },
+    {
+        "stop": "8DA8A378C47A1371",
+        "name_en": "ON KIN ROAD (AN301)",
+        "name_tc": "安健道 (AN301)",
+        "name_sc": "安健道 (AN301)",
+        "lat": "22.323095",
+        "long": "114.232817"
     },
     {
         "stop": "8DB16246038679CC",

@@ -17193,28 +17193,6 @@
         "dest_sc": "铜锣湾(维多利亚公园)"
     },
     {
-        "route": "R960",
-        "bound": "O",
-        "service_type": "1",
-        "orig_en": "HUNG SHUI KIU (HUNG YUEN ROAD)",
-        "orig_tc": "洪水橋(洪元路)",
-        "orig_sc": "洪水桥(洪元路)",
-        "dest_en": "CAUSEWAY BAY (VICTORIA PARK)",
-        "dest_tc": "銅鑼灣(維多利亞公園)",
-        "dest_sc": "铜锣湾(维多利亚公园)"
-    },
-    {
-        "route": "R961",
-        "bound": "O",
-        "service_type": "1",
-        "orig_en": "TUEN MUN (SHAN KING ESTATE)",
-        "orig_tc": "屯門(山景邨)",
-        "orig_sc": "屯门(山景邨)",
-        "dest_en": "CAUSEWAY BAY (VICTORIA PARK)",
-        "dest_tc": "銅鑼灣(維多利亞公園)",
-        "dest_sc": "铜锣湾(维多利亚公园)"
-    },
-    {
         "route": "R968",
         "bound": "O",
         "service_type": "1",
