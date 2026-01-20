@@ -16929,39 +16929,6 @@
         "dest_sc": "尖沙咀东(么地道)"
     },
     {
-        "route": "R260",
-        "bound": "O",
-        "service_type": "1",
-        "orig_en": "TUEN MUN PIER HEAD",
-        "orig_tc": "屯門碼頭",
-        "orig_sc": "屯门码头",
-        "dest_en": "TSIM SHA TSUI EAST (MODY ROAD)",
-        "dest_tc": "尖沙咀東(麼地道)",
-        "dest_sc": "尖沙咀东(么地道)"
-    },
-    {
-        "route": "R261",
-        "bound": "O",
-        "service_type": "1",
-        "orig_en": "TUEN MUN (SAM SHING ESTATE)",
-        "orig_tc": "屯門(三聖邨)",
-        "orig_sc": "屯门(三圣邨)",
-        "dest_en": "TSIM SHA TSUI EAST (MODY ROAD)",
-        "dest_tc": "尖沙咀東(麼地道)",
-        "dest_sc": "尖沙咀东(么地道)"
-    },
-    {
-        "route": "R269",
-        "bound": "O",
-        "service_type": "1",
-        "orig_en": "TIN TSZ",
-        "orig_tc": "天慈",
-        "orig_sc": "天慈",
-        "dest_en": "TSIM SHA TSUI EAST (MODY ROAD)",
-        "dest_tc": "尖沙咀東(麼地道)",
-        "dest_sc": "尖沙咀东(么地道)"
-    },
-    {
         "route": "R270",
         "bound": "O",
         "service_type": "1",
@@ -17188,17 +17155,6 @@
         "orig_en": "TSING YI (CHEUNG WANG ESTATE)",
         "orig_tc": "青衣(長宏邨)",
         "orig_sc": "青衣(长宏邨)",
-        "dest_en": "CAUSEWAY BAY (VICTORIA PARK)",
-        "dest_tc": "銅鑼灣(維多利亞公園)",
-        "dest_sc": "铜锣湾(维多利亚公园)"
-    },
-    {
-        "route": "R968",
-        "bound": "O",
-        "service_type": "1",
-        "orig_en": "YUEN LONG (FUNG CHEUNG ROAD)",
-        "orig_tc": "元朗(鳳翔路)",
-        "orig_sc": "元朗(凤翔路)",
         "dest_en": "CAUSEWAY BAY (VICTORIA PARK)",
         "dest_tc": "銅鑼灣(維多利亞公園)",
         "dest_sc": "铜锣湾(维多利亚公园)"
