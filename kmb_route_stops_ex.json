@@ -239604,16 +239604,16 @@
         "bound": "I",
         "service_type": "1",
         "seq": "18",
-        "stop": "14F7E124D3972753",
-        "stop_name_tc": "馬鞍山警署 (MA182)"
+        "stop": "1E04D9D97DE148C2",
+        "stop_name_tc": "馬鞍山警署 (MA181)"
     },
     {
         "route": "A41P",
         "bound": "I",
         "service_type": "1",
         "seq": "19",
-        "stop": "473AF4463A49DA24",
-        "stop_name_tc": "錦英苑 (MA192)"
+        "stop": "507E8F5167002BC5",
+        "stop_name_tc": "錦英苑 (MA191)"
     },
     {
         "route": "A41P",
@@ -239628,8 +239628,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "21",
-        "stop": "4DC840CF3B4B2427",
-        "stop_name_tc": "利安邨 (MA301)"
+        "stop": "A90443FD0C19C4B1",
+        "stop_name_tc": "利安邨 (MA163)"
     },
     {
         "route": "A41P",
@@ -239796,16 +239796,16 @@
         "bound": "I",
         "service_type": "2",
         "seq": "20",
-        "stop": "14F7E124D3972753",
-        "stop_name_tc": "馬鞍山警署 (MA182)"
+        "stop": "1E04D9D97DE148C2",
+        "stop_name_tc": "馬鞍山警署 (MA181)"
     },
     {
         "route": "A41P",
         "bound": "I",
         "service_type": "2",
         "seq": "21",
-        "stop": "473AF4463A49DA24",
-        "stop_name_tc": "錦英苑 (MA192)"
+        "stop": "507E8F5167002BC5",
+        "stop_name_tc": "錦英苑 (MA191)"
     },
     {
         "route": "A41P",
@@ -239820,8 +239820,8 @@
         "bound": "I",
         "service_type": "2",
         "seq": "23",
-        "stop": "4DC840CF3B4B2427",
-        "stop_name_tc": "利安邨 (MA301)"
+        "stop": "A90443FD0C19C4B1",
+        "stop_name_tc": "利安邨 (MA163)"
     },
     {
         "route": "A41P",
@@ -239988,16 +239988,16 @@
         "bound": "I",
         "service_type": "3",
         "seq": "20",
-        "stop": "14F7E124D3972753",
-        "stop_name_tc": "馬鞍山警署 (MA182)"
+        "stop": "1E04D9D97DE148C2",
+        "stop_name_tc": "馬鞍山警署 (MA181)"
     },
     {
         "route": "A41P",
         "bound": "I",
         "service_type": "3",
         "seq": "21",
-        "stop": "473AF4463A49DA24",
-        "stop_name_tc": "錦英苑 (MA192)"
+        "stop": "507E8F5167002BC5",
+        "stop_name_tc": "錦英苑 (MA191)"
     },
     {
         "route": "A41P",
@@ -240012,8 +240012,8 @@
         "bound": "I",
         "service_type": "3",
         "seq": "23",
-        "stop": "4DC840CF3B4B2427",
-        "stop_name_tc": "利安邨 (MA301)"
+        "stop": "A90443FD0C19C4B1",
+        "stop_name_tc": "利安邨 (MA163)"
     },
     {
         "route": "A41P",
@@ -276004,16 +276004,16 @@
         "bound": "I",
         "service_type": "1",
         "seq": "22",
-        "stop": "14F7E124D3972753",
-        "stop_name_tc": "馬鞍山警署 (MA182)"
+        "stop": "1E04D9D97DE148C2",
+        "stop_name_tc": "馬鞍山警署 (MA181)"
     },
     {
         "route": "NA40",
         "bound": "I",
         "service_type": "1",
         "seq": "23",
-        "stop": "473AF4463A49DA24",
-        "stop_name_tc": "錦英苑 (MA192)"
+        "stop": "507E8F5167002BC5",
+        "stop_name_tc": "錦英苑 (MA191)"
     },
     {
         "route": "NA40",
@@ -276028,8 +276028,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "25",
-        "stop": "4DC840CF3B4B2427",
-        "stop_name_tc": "利安邨 (MA301)"
+        "stop": "A90443FD0C19C4B1",
+        "stop_name_tc": "利安邨 (MA163)"
     },
     {
         "route": "NA40",
@@ -280672,150 +280672,6 @@
         "stop_name_tc": "尖沙咀東（麼地道） (YT924)"
     },
     {
-        "route": "R270",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "1",
-        "stop": "C799751FDFCE292E",
-        "stop_name_tc": "上水轉車站 - 上水總站 (ND905)"
-    },
-    {
-        "route": "R270",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "2",
-        "stop": "98EBAB9468C80DD2",
-        "stop_name_tc": "欣翠花園 (ND126)"
-    },
-    {
-        "route": "R270",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "3",
-        "stop": "6DD6B837EF1FA76C",
-        "stop_name_tc": "嘉盛苑 (ND128)"
-    },
-    {
-        "route": "R270",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "4",
-        "stop": "AFD29CB1A4F71AB9",
-        "stop_name_tc": "基新中學 (ND132)"
-    },
-    {
-        "route": "R270",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "5",
-        "stop": "60952B4A38F3D82E",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站 (ND134)"
-    },
-    {
-        "route": "R270",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "6",
-        "stop": "0E41E02CD9055626",
-        "stop_name_tc": "景盛苑 (ND138)"
-    },
-    {
-        "route": "R270",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "7",
-        "stop": "EE81A30BE4BDC8AC",
-        "stop_name_tc": "華心邨 (ND141)"
-    },
-    {
-        "route": "R270",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "8",
-        "stop": "F129DD8D9E3268FB",
-        "stop_name_tc": "華明轉車站 (ND987)"
-    },
-    {
-        "route": "R270",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "9",
-        "stop": "D0FB28B8EED62431",
-        "stop_name_tc": "欣盛苑 (ND395)"
-    },
-    {
-        "route": "R270",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "10",
-        "stop": "FA52803E2628A212",
-        "stop_name_tc": "牽晴間 (ND151)"
-    },
-    {
-        "route": "R270",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "11",
-        "stop": "84AF6F0ACA61386F",
-        "stop_name_tc": "粉嶺公路轉車站 (A2) (TP102)"
-    },
-    {
-        "route": "R270",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "12",
-        "stop": "2431FF3100478DEE",
-        "stop_name_tc": "九龍塘聯合道 (KC661)"
-    },
-    {
-        "route": "R270",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "13",
-        "stop": "ED6FCB0422D541F5",
-        "stop_name_tc": "九龍塘站 (KC662)"
-    },
-    {
-        "route": "R270",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "14",
-        "stop": "850F72123F644500",
-        "stop_name_tc": "龍濤花園 (KC665)"
-    },
-    {
-        "route": "R270",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "15",
-        "stop": "98FCC750B322B706",
-        "stop_name_tc": "九龍醫院 (KC669)"
-    },
-    {
-        "route": "R270",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "16",
-        "stop": "66C6FDFC88F56E51",
-        "stop_name_tc": "醫療輔助總部 (KC678)"
-    },
-    {
-        "route": "R270",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "17",
-        "stop": "7CD8F96A087CDDF2",
-        "stop_name_tc": "愛民邨 (KC679)"
-    },
-    {
-        "route": "R270",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "18",
-        "stop": "F3D86A2A72FF3582",
-        "stop_name_tc": "尖沙咀東（麼地道） (YT921)"
-    },
-    {
         "route": "R271",
         "bound": "O",
         "service_type": "1",
@@ -282430,206 +282286,6 @@
         "seq": "32",
         "stop": "DF901EF2F9A46F7B",
         "stop_name_tc": "維多利亞公園"
-    },
-    {
-        "route": "R673",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "1",
-        "stop": "583E102838FA4D0A",
-        "stop_name_tc": "清河邨總站 (ND935)"
-    },
-    {
-        "route": "R673",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "2",
-        "stop": "6F11F73C749338DB",
-        "stop_name_tc": "御景峰 (ND117)"
-    },
-    {
-        "route": "R673",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "3",
-        "stop": "C799751FDFCE292E",
-        "stop_name_tc": "上水轉車站 - 上水總站 (ND905)"
-    },
-    {
-        "route": "R673",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "4",
-        "stop": "D3E18D04B69DF388",
-        "stop_name_tc": "天平邨天明樓 (ND244)"
-    },
-    {
-        "route": "R673",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "5",
-        "stop": "C4F843F93CDCBE64",
-        "stop_name_tc": "皇府山 (ND255)"
-    },
-    {
-        "route": "R673",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "6",
-        "stop": "4235BA400EB10F0E",
-        "stop_name_tc": "粉嶺樓路 (ND565)"
-    },
-    {
-        "route": "R673",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "7",
-        "stop": "879A98CD29D9433F",
-        "stop_name_tc": "上水宣道小學 (ND296)"
-    },
-    {
-        "route": "R673",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "8",
-        "stop": "A22E315AD21129EB",
-        "stop_name_tc": "粉嶺樂和街 (ND552)"
-    },
-    {
-        "route": "R673",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "9",
-        "stop": "944EC71DD1731BE0",
-        "stop_name_tc": "粉嶺消防局 (ND555)"
-    },
-    {
-        "route": "R673",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "10",
-        "stop": "EF78DD9F765C6565",
-        "stop_name_tc": "粉嶺站轉車站 - 祥華邨 (ND184)"
-    },
-    {
-        "route": "R673",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "11",
-        "stop": "BFAE1E951D3B63EC",
-        "stop_name_tc": "粉嶺中心 (ND187)"
-    },
-    {
-        "route": "R673",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "12",
-        "stop": "C67060F448591E4F",
-        "stop_name_tc": "塘坑 (ND247)"
-    },
-    {
-        "route": "R673",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "13",
-        "stop": "F7D40D08CB05EA87",
-        "stop_name_tc": "華明轉車站 (ND984)"
-    },
-    {
-        "route": "R673",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "14",
-        "stop": "923E5B79E1B48739",
-        "stop_name_tc": "欣盛苑 (ND392)"
-    },
-    {
-        "route": "R673",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "15",
-        "stop": "FA52803E2628A212",
-        "stop_name_tc": "牽晴間 (ND151)"
-    },
-    {
-        "route": "R673",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "16",
-        "stop": "84AF6F0ACA61386F",
-        "stop_name_tc": "粉嶺公路轉車站 (A2) (TP102)"
-    },
-    {
-        "route": "R673",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "17",
-        "stop": "2431FF3100478DEE",
-        "stop_name_tc": "九龍塘聯合道 (KC661)"
-    },
-    {
-        "route": "R673",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "18",
-        "stop": "ED6FCB0422D541F5",
-        "stop_name_tc": "九龍塘站 (KC662)"
-    },
-    {
-        "route": "R673",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "19",
-        "stop": "850F72123F644500",
-        "stop_name_tc": "龍濤花園 (KC665)"
-    },
-    {
-        "route": "R673",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "20",
-        "stop": "3821D64D2BF1BB66",
-        "stop_name_tc": "九龍醫院 (KC668)"
-    },
-    {
-        "route": "R673",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "21",
-        "stop": "66C6FDFC88F56E51",
-        "stop_name_tc": "醫療輔助總部 (KC678)"
-    },
-    {
-        "route": "R673",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "22",
-        "stop": "7CD8F96A087CDDF2",
-        "stop_name_tc": "愛民邨 (KC679)"
-    },
-    {
-        "route": "R673",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "23",
-        "stop": "4D3CBBDB95447F2E",
-        "stop_name_tc": "紅隧轉車站 (HH505)"
-    },
-    {
-        "route": "R673",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "24",
-        "stop": "76B4054F2E1F00B0",
-        "stop_name_tc": "邊寧頓街 (WC250)"
-    },
-    {
-        "route": "R673",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "25",
-        "stop": "17B98BD1165A7B92",
-        "stop_name_tc": "維多利亞公園 (ED310)"
     },
     {
         "route": "R680",
