@@ -8930,8 +8930,8 @@
     {
         "stop": "2A9C98A6B36F3B11",
         "name_en": "HOUSING AUTHORITY HEADQUARTERS (KC298)",
-        "name_tc": "房屋署大樓 (KC298)",
-        "name_sc": "房屋署大楼 (KC298)",
+        "name_tc": "房屋委員會總部 (KC298)",
+        "name_sc": "房屋委员会总部 (KC298)",
         "lat": "22.315534",
         "long": "114.181227"
     },
@@ -30848,14 +30848,6 @@
         "long": "114.112821"
     },
     {
-        "stop": "942DAC2706D66A09",
-        "name_en": "O·PARK2 (ND217)",
-        "name_tc": "有機回收中心二期 (ND217)",
-        "name_sc": "有机回收中心二期 (ND217)",
-        "lat": "22.524740",
-        "long": "114.129932"
-    },
-    {
         "stop": "942E95B4336BDFA7",
         "name_en": "PAK HUNG HOUSE (WT230)",
         "name_tc": "白虹樓 (WT230)",
@@ -31910,14 +31902,6 @@
         "name_sc": "琴行街 (ED560)",
         "lat": "22.291207",
         "long": "114.200994"
-    },
-    {
-        "stop": "9952B8BC5B1655E7",
-        "name_en": "POLICE DOG UNIT HEADQUARTERS (ND218)",
-        "name_tc": "警犬隊總部 (ND218)",
-        "name_sc": "警犬队总部 (ND218)",
-        "lat": "22.525220",
-        "long": "114.126595"
     },
     {
         "stop": "9955DA9311A76BA4",
@@ -52750,14 +52734,6 @@
         "name_sc": "九龙湾运动场 (KT122)",
         "lat": "22.326515",
         "long": "114.208649"
-    },
-    {
-        "stop": "FC119E7F0F340385",
-        "name_en": "KONG NGA PO HONG KONG POLICE COLLEGE (ND613)",
-        "name_tc": "缸瓦甫香港警察學院 (ND613)",
-        "name_sc": "缸瓦甫香港警察学院 (ND613)",
-        "lat": "22.525114",
-        "long": "114.132699"
     },
     {
         "stop": "FC19ABA503C5FE51",

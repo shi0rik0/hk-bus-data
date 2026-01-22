@@ -29365,7 +29365,7 @@
         "service_type": "1",
         "seq": "24",
         "stop": "2A9C98A6B36F3B11",
-        "stop_name_tc": "房屋署大樓 (KC298)"
+        "stop_name_tc": "房屋委員會總部 (KC298)"
     },
     {
         "route": "18",
@@ -42949,7 +42949,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "2A9C98A6B36F3B11",
-        "stop_name_tc": "房屋署大樓 (KC298)"
+        "stop_name_tc": "房屋委員會總部 (KC298)"
     },
     {
         "route": "241X",
@@ -123493,7 +123493,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "2A9C98A6B36F3B11",
-        "stop_name_tc": "房屋署大樓 (KC298)"
+        "stop_name_tc": "房屋委員會總部 (KC298)"
     },
     {
         "route": "45",
@@ -176364,8 +176364,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "3",
-        "stop": "9DF152ED984CD4A0",
-        "stop_name_tc": "大埔寶鄉街 (TP300)"
+        "stop": "6219234626AC9DD5",
+        "stop_name_tc": "大埔寶鄉街 (TP301)"
     },
     {
         "route": "75K",
