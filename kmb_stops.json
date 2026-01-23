@@ -13640,6 +13640,14 @@
         "long": "114.161440"
     },
     {
+        "stop": "405F3262B401825B",
+        "name_en": "POLICE DOG UNIT HEADQUARTERS (ND611)",
+        "name_tc": "警犬隊總部 (ND611)",
+        "name_sc": "警犬队总部 (ND611)",
+        "lat": "22.523804",
+        "long": "114.125098"
+    },
+    {
         "stop": "406864EDEB186C9A",
         "name_en": "BENEVILLE (TM201)",
         "name_tc": "聚康山莊 (TM201)",
@@ -16009,9 +16017,9 @@
     },
     {
         "stop": "4B03758AF99951A6",
-        "name_en": "SHANSI STREET",
-        "name_tc": "山西街",
-        "name_sc": "山西街",
+        "name_en": "SHANSI STREET (HH179)",
+        "name_tc": "山西街 (HH179)",
+        "name_sc": "山西街 (HH179)",
         "lat": "22.313660",
         "long": "114.186954"
     },
@@ -24776,6 +24784,14 @@
         "long": "114.199182"
     },
     {
+        "stop": "74A3A3037E047C81",
+        "name_en": "LAM TSUEN WISHING TREE (TP860)",
+        "name_tc": "林村許願樹 (TP860)",
+        "name_sc": "林村许愿树 (TP860)",
+        "lat": "22.457656",
+        "long": "114.142927"
+    },
+    {
         "stop": "74C0E91D535648A2",
         "name_en": "LIN TONG MEI (ND343)",
         "name_tc": "蓮塘尾 (ND343)",
@@ -30848,6 +30864,14 @@
         "long": "114.112821"
     },
     {
+        "stop": "942DAC2706D66A09",
+        "name_en": "O·PARK2 (ND217)",
+        "name_tc": "有機回收中心二期 (ND217)",
+        "name_sc": "有机回收中心二期 (ND217)",
+        "lat": "22.524740",
+        "long": "114.129932"
+    },
+    {
         "stop": "942E95B4336BDFA7",
         "name_en": "PAK HUNG HOUSE (WT230)",
         "name_tc": "白虹樓 (WT230)",
@@ -31902,6 +31926,14 @@
         "name_sc": "琴行街 (ED560)",
         "lat": "22.291207",
         "long": "114.200994"
+    },
+    {
+        "stop": "9952B8BC5B1655E7",
+        "name_en": "POLICE DOG UNIT HEADQUARTERS (ND218)",
+        "name_tc": "警犬隊總部 (ND218)",
+        "name_sc": "警犬队总部 (ND218)",
+        "lat": "22.525220",
+        "long": "114.126595"
     },
     {
         "stop": "9955DA9311A76BA4",
@@ -36214,6 +36246,14 @@
         "name_sc": "屯门公路转车站 (A4) (TM755)",
         "lat": "22.362444",
         "long": "114.015978"
+    },
+    {
+        "stop": "ACC30E66CCF123BC",
+        "name_en": "O·PARK2 (ND612)",
+        "name_tc": "有機回收中心二期 (ND612)",
+        "name_sc": "有机回收中心二期 (ND612)",
+        "lat": "22.526318",
+        "long": "114.128418"
     },
     {
         "stop": "ACCABC765E3F0961",
@@ -52734,6 +52774,14 @@
         "name_sc": "九龙湾运动场 (KT122)",
         "lat": "22.326515",
         "long": "114.208649"
+    },
+    {
+        "stop": "FC119E7F0F340385",
+        "name_en": "KONG NGA PO HONG KONG POLICE COLLEGE (ND613)",
+        "name_tc": "缸瓦甫香港警察學院 (ND613)",
+        "name_sc": "缸瓦甫香港警察学院 (ND613)",
+        "lat": "22.525114",
+        "long": "114.132699"
     },
     {
         "stop": "FC19ABA503C5FE51",

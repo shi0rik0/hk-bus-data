@@ -75869,7 +75869,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "4B03758AF99951A6",
-        "stop_name_tc": "山西街"
+        "stop_name_tc": "山西街 (HH179)"
     },
     {
         "route": "275X",
@@ -147264,6 +147264,86 @@
         "stop_name_tc": "鯉魚門邨巴士總站 (LT951)"
     },
     {
+        "route": "63R",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "1",
+        "stop": "74A3A3037E047C81",
+        "stop_name_tc": "林村許願樹 (TP860)"
+    },
+    {
+        "route": "63R",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "2",
+        "stop": "BCC83D8C953DC504",
+        "stop_name_tc": "坑下甫 (TP195)"
+    },
+    {
+        "route": "63R",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "3",
+        "stop": "399EF919E10C7F33",
+        "stop_name_tc": "太和站 (TP981)"
+    },
+    {
+        "route": "63R",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "4",
+        "stop": "512C07C3D131AB5A",
+        "stop_name_tc": "大埔超級城 (TP317)"
+    },
+    {
+        "route": "63R",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "5",
+        "stop": "46604706EE6CC765",
+        "stop_name_tc": "大埔墟站巴士總站 (TP935)"
+    },
+    {
+        "route": "63R",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "6",
+        "stop": "8581908CE476D2CF",
+        "stop_name_tc": "大埔墟站巴士總站 (TP940)"
+    },
+    {
+        "route": "63R",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "1",
+        "stop": "8581908CE476D2CF",
+        "stop_name_tc": "大埔墟站巴士總站 (TP940)"
+    },
+    {
+        "route": "63R",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "2",
+        "stop": "0A8E2BA2F75E472E",
+        "stop_name_tc": "大埔超級城 (TP390)"
+    },
+    {
+        "route": "63R",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "3",
+        "stop": "CCC4773031BC0FD8",
+        "stop_name_tc": "太和廣場 (TP336)"
+    },
+    {
+        "route": "63R",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "4",
+        "stop": "74A3A3037E047C81",
+        "stop_name_tc": "林村許願樹 (TP860)"
+    },
+    {
         "route": "63X",
         "bound": "I",
         "service_type": "1",
@@ -170009,6 +170089,110 @@
     },
     {
         "route": "73K",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "1",
+        "stop": "E97F002DCFA395B1",
+        "stop_name_tc": "文錦渡(新屋嶺村) (ND220)"
+    },
+    {
+        "route": "73K",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "2",
+        "stop": "3E361632FD814F53",
+        "stop_name_tc": "新屋嶺練靶場 (ND221)"
+    },
+    {
+        "route": "73K",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "3",
+        "stop": "2327BAC99994C941",
+        "stop_name_tc": "沙嶺 (ND222)"
+    },
+    {
+        "route": "73K",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "4",
+        "stop": "B70A225FA9659A22",
+        "stop_name_tc": "羅湖道 (ND223)"
+    },
+    {
+        "route": "73K",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "5",
+        "stop": "FC119E7F0F340385",
+        "stop_name_tc": "缸瓦甫香港警察學院 (ND613)"
+    },
+    {
+        "route": "73K",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "6",
+        "stop": "942DAC2706D66A09",
+        "stop_name_tc": "有機回收中心二期 (ND217)"
+    },
+    {
+        "route": "73K",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "7",
+        "stop": "9952B8BC5B1655E7",
+        "stop_name_tc": "警犬隊總部 (ND218)"
+    },
+    {
+        "route": "73K",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "8",
+        "stop": "24E3010DECCD1055",
+        "stop_name_tc": "長甫頭 (ND224)"
+    },
+    {
+        "route": "73K",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "9",
+        "stop": "3381D9676D0B29C8",
+        "stop_name_tc": "虎地坳 (ND225)"
+    },
+    {
+        "route": "73K",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "10",
+        "stop": "95DEB5378CCEB9D2",
+        "stop_name_tc": "鳳溪第一中學 (ND240)"
+    },
+    {
+        "route": "73K",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "11",
+        "stop": "45924F2D86BEC3B4",
+        "stop_name_tc": "上水寶石湖路-上水圍 (ND435)"
+    },
+    {
+        "route": "73K",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "12",
+        "stop": "89D8AA4F45165FB6",
+        "stop_name_tc": "石湖墟郵政局 (ND170)"
+    },
+    {
+        "route": "73K",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "13",
+        "stop": "C799751FDFCE292E",
+        "stop_name_tc": "上水轉車站 - 上水總站 (ND905)"
+    },
+    {
+        "route": "73K",
         "bound": "O",
         "service_type": "1",
         "seq": "1",
@@ -170100,6 +170284,126 @@
         "bound": "O",
         "service_type": "1",
         "seq": "12",
+        "stop": "E97F002DCFA395B1",
+        "stop_name_tc": "文錦渡(新屋嶺村) (ND220)"
+    },
+    {
+        "route": "73K",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "1",
+        "stop": "C799751FDFCE292E",
+        "stop_name_tc": "上水轉車站 - 上水總站 (ND905)"
+    },
+    {
+        "route": "73K",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "2",
+        "stop": "FC6CB9607D36FBD7",
+        "stop_name_tc": "石湖墟郵政局 (ND490)"
+    },
+    {
+        "route": "73K",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "3",
+        "stop": "A67D189D438E1534",
+        "stop_name_tc": "上水圍 (ND102)"
+    },
+    {
+        "route": "73K",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "4",
+        "stop": "100141C63A642F1A",
+        "stop_name_tc": "鳳溪第一中學 (ND456)"
+    },
+    {
+        "route": "73K",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "5",
+        "stop": "5407432C01D5436D",
+        "stop_name_tc": "虎地坳 (ND460)"
+    },
+    {
+        "route": "73K",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "6",
+        "stop": "D1CF96D7F9E6E0D3",
+        "stop_name_tc": "長甫頭 (ND461)"
+    },
+    {
+        "route": "73K",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "7",
+        "stop": "405F3262B401825B",
+        "stop_name_tc": "警犬隊總部 (ND611)"
+    },
+    {
+        "route": "73K",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "8",
+        "stop": "ACC30E66CCF123BC",
+        "stop_name_tc": "有機回收中心二期 (ND612)"
+    },
+    {
+        "route": "73K",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "9",
+        "stop": "FC119E7F0F340385",
+        "stop_name_tc": "缸瓦甫香港警察學院 (ND613)"
+    },
+    {
+        "route": "73K",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "10",
+        "stop": "03C2FCE0BF616CB6",
+        "stop_name_tc": "羅湖道 (ND462)"
+    },
+    {
+        "route": "73K",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "11",
+        "stop": "F772B9044DD2F773",
+        "stop_name_tc": "沙嶺村 (ND463)"
+    },
+    {
+        "route": "73K",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "12",
+        "stop": "012BE724358D1EE1",
+        "stop_name_tc": "沙嶺 (ND464)"
+    },
+    {
+        "route": "73K",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "13",
+        "stop": "66011988F615D538",
+        "stop_name_tc": "新屋嶺練靶場 (ND465)"
+    },
+    {
+        "route": "73K",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "14",
+        "stop": "155F1F0445747AE7",
+        "stop_name_tc": "文錦渡貨車輪候區 (ND466)"
+    },
+    {
+        "route": "73K",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "15",
         "stop": "E97F002DCFA395B1",
         "stop_name_tc": "文錦渡(新屋嶺村) (ND220)"
     },
@@ -177077,7 +177381,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "4B03758AF99951A6",
-        "stop_name_tc": "山西街"
+        "stop_name_tc": "山西街 (HH179)"
     },
     {
         "route": "75X",
@@ -177285,7 +177589,7 @@
         "service_type": "2",
         "seq": "4",
         "stop": "4B03758AF99951A6",
-        "stop_name_tc": "山西街"
+        "stop_name_tc": "山西街 (HH179)"
     },
     {
         "route": "75X",
@@ -189973,7 +190277,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "4B03758AF99951A6",
-        "stop_name_tc": "山西街"
+        "stop_name_tc": "山西街 (HH179)"
     },
     {
         "route": "85",
@@ -253644,8 +253948,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "4",
-        "stop": "AA6F0A2661759A49",
-        "stop_name_tc": "牛池灣轉車站-丹鳳樓 (WT702)"
+        "stop": "7C855FDC7F8621AA",
+        "stop_name_tc": null
     },
     {
         "route": "N121",
@@ -253989,7 +254293,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "4B03758AF99951A6",
-        "stop_name_tc": "山西街"
+        "stop_name_tc": "山西街 (HH179)"
     },
     {
         "route": "N121",
