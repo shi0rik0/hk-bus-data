@@ -78176,6 +78176,374 @@
         "stop_name_tc": "藍田站 (LT902)"
     },
     {
+        "route": "277B",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "1",
+        "stop": "87549D6B12E322E5",
+        "stop_name_tc": "藍田站 (LT904)"
+    },
+    {
+        "route": "277B",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "2",
+        "stop": "5B04604E989BBDF0",
+        "stop_name_tc": "觀塘法院 (KT612)"
+    },
+    {
+        "route": "277B",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "3",
+        "stop": "1E3A342DF7D5B8B5",
+        "stop_name_tc": "apm創紀之城5期 (KT626)"
+    },
+    {
+        "route": "277B",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "4",
+        "stop": "C9A46DDC082BAEE0",
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT643)"
+    },
+    {
+        "route": "277B",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "5",
+        "stop": "ABF9301D1E5B52ED",
+        "stop_name_tc": "觀塘定富街 (KT651)"
+    },
+    {
+        "route": "277B",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "6",
+        "stop": "266A4CDA19461A42",
+        "stop_name_tc": "牛頭角下邨 (KT656)"
+    },
+    {
+        "route": "277B",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "7",
+        "stop": "8C79BE154468AE21",
+        "stop_name_tc": "德福花園 (KT665)"
+    },
+    {
+        "route": "277B",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "8",
+        "stop": "26A996F589C84844",
+        "stop_name_tc": "九龍灣站 (KT675)"
+    },
+    {
+        "route": "277B",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "9",
+        "stop": "F374B56E275194D8",
+        "stop_name_tc": "啟泰苑 (KT677)"
+    },
+    {
+        "route": "277B",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "10",
+        "stop": "AD0B5EFA2471962C",
+        "stop_name_tc": "牛池灣轉車站-紅萼樓 (WT709)"
+    },
+    {
+        "route": "277B",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "11",
+        "stop": "9274EF6791CA3ED8",
+        "stop_name_tc": "大老山隧道 (B1) (ST113)"
+    },
+    {
+        "route": "277B",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "12",
+        "stop": "F8D7946AFDBA377E",
+        "stop_name_tc": "清河邨總站 (ND937)"
+    },
+    {
+        "route": "277B",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "13",
+        "stop": "57E8A522E2C638FD",
+        "stop_name_tc": "上水轉車站 - 上水站 (ND481)"
+    },
+    {
+        "route": "277B",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "14",
+        "stop": "FC6CB9607D36FBD7",
+        "stop_name_tc": "石湖墟郵政局 (ND490)"
+    },
+    {
+        "route": "277B",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "15",
+        "stop": "A67D189D438E1534",
+        "stop_name_tc": "上水圍 (ND102)"
+    },
+    {
+        "route": "277B",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "16",
+        "stop": "100141C63A642F1A",
+        "stop_name_tc": "鳳溪第一中學 (ND456)"
+    },
+    {
+        "route": "277B",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "17",
+        "stop": "5407432C01D5436D",
+        "stop_name_tc": "虎地坳 (ND460)"
+    },
+    {
+        "route": "277B",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "18",
+        "stop": "D1CF96D7F9E6E0D3",
+        "stop_name_tc": "長甫頭 (ND461)"
+    },
+    {
+        "route": "277B",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "19",
+        "stop": "405F3262B401825B",
+        "stop_name_tc": "警犬隊總部 (ND611)"
+    },
+    {
+        "route": "277B",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "20",
+        "stop": "ACC30E66CCF123BC",
+        "stop_name_tc": "有機回收中心二期 (ND612)"
+    },
+    {
+        "route": "277B",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "21",
+        "stop": "FC119E7F0F340385",
+        "stop_name_tc": "缸瓦甫香港警察學院 (ND613)"
+    },
+    {
+        "route": "277B",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "1",
+        "stop": "FC119E7F0F340385",
+        "stop_name_tc": "缸瓦甫香港警察學院 (ND613)"
+    },
+    {
+        "route": "277B",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "2",
+        "stop": "942DAC2706D66A09",
+        "stop_name_tc": "有機回收中心二期 (ND217)"
+    },
+    {
+        "route": "277B",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "3",
+        "stop": "9952B8BC5B1655E7",
+        "stop_name_tc": "警犬隊總部 (ND218)"
+    },
+    {
+        "route": "277B",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "4",
+        "stop": "24E3010DECCD1055",
+        "stop_name_tc": "長甫頭 (ND224)"
+    },
+    {
+        "route": "277B",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "5",
+        "stop": "3381D9676D0B29C8",
+        "stop_name_tc": "虎地坳 (ND225)"
+    },
+    {
+        "route": "277B",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "6",
+        "stop": "95DEB5378CCEB9D2",
+        "stop_name_tc": "鳳溪第一中學 (ND240)"
+    },
+    {
+        "route": "277B",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "7",
+        "stop": "4442A9A5E7FABAB8",
+        "stop_name_tc": "天平邨總站 (ND952)"
+    },
+    {
+        "route": "277B",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "8",
+        "stop": "11B894BF379B1BFC",
+        "stop_name_tc": "鳳南路 (ND235)"
+    },
+    {
+        "route": "277B",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "9",
+        "stop": "A2D9858497241575",
+        "stop_name_tc": "翠麗花園第三座 (ND236)"
+    },
+    {
+        "route": "277B",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "10",
+        "stop": "B986375ED4762DA9",
+        "stop_name_tc": "翠麗花園 (ND242)"
+    },
+    {
+        "route": "277B",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "11",
+        "stop": "A7C1A969F48B62C0",
+        "stop_name_tc": "北區運動場 (ND243)"
+    },
+    {
+        "route": "277B",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "12",
+        "stop": "D417A444017171C6",
+        "stop_name_tc": "龍豐花園 (ND336)"
+    },
+    {
+        "route": "277B",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "13",
+        "stop": "26AC17B8F05DD7F2",
+        "stop_name_tc": "上水轉車站 - 上水站 (ND484)"
+    },
+    {
+        "route": "277B",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "14",
+        "stop": "940F276037968281",
+        "stop_name_tc": "上水轉車站 - 上水總站 (ND908)"
+    },
+    {
+        "route": "277B",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "15",
+        "stop": "4EB92F34598243DB",
+        "stop_name_tc": "清河邨總站 (ND938)"
+    },
+    {
+        "route": "277B",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "16",
+        "stop": "D2C1454B663392C9",
+        "stop_name_tc": "粉嶺公路轉車站 (A1) (TP102)"
+    },
+    {
+        "route": "277B",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "17",
+        "stop": "30D564180B68ECA8",
+        "stop_name_tc": "大老山隧道 (A2) (ST791)"
+    },
+    {
+        "route": "277B",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "18",
+        "stop": "BA03816A38B9DA7F",
+        "stop_name_tc": "啟業邨 (KT315)"
+    },
+    {
+        "route": "277B",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "19",
+        "stop": "D0F8772D043C207E",
+        "stop_name_tc": "九龍灣站(東九文化中心) (KT321)"
+    },
+    {
+        "route": "277B",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "20",
+        "stop": "BE36EF30B86ADD1D",
+        "stop_name_tc": "牛頭角下邨 (KT326)"
+    },
+    {
+        "route": "277B",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "21",
+        "stop": "598F766175BE3EF3",
+        "stop_name_tc": "觀塘道休憩處 (KT329)"
+    },
+    {
+        "route": "277B",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "22",
+        "stop": "5FE12AC5660F89D6",
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT345)"
+    },
+    {
+        "route": "277B",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "23",
+        "stop": "144E9479168069DD",
+        "stop_name_tc": "觀塘游泳池 (KT361)"
+    },
+    {
+        "route": "277B",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "24",
+        "stop": "A88EE1930BE82C54",
+        "stop_name_tc": "藍田站 (落客站) (LT901)"
+    },
+    {
+        "route": "277B",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "25",
+        "stop": "87549D6B12E322E5",
+        "stop_name_tc": "藍田站 (LT904)"
+    },
+    {
         "route": "277E",
         "bound": "I",
         "service_type": "1",
