@@ -5297,9 +5297,9 @@
         "orig_en": "UNIVERSITY STATION",
         "orig_tc": "大學站",
         "orig_sc": "大学站",
-        "dest_en": "Sai Sha Residence (CIRCULAR)",
-        "dest_tc": "西沙灣",
-        "dest_sc": "西沙湾"
+        "dest_en": "Sai Sha Residences Transport Interchange",
+        "dest_tc": "西沙灣交通交匯處",
+        "dest_sc": "西沙湾交通交汇处"
     },
     {
         "route": "287D",
