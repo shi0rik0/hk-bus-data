@@ -44789,7 +44789,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "5CB4727570240308",
-        "stop_name_tc": "八鄉路總站 (大欖隧道轉車站-C1)"
+        "stop_name_tc": "八鄉路總站 (大欖隧道轉車站)"
     },
     {
         "route": "251A",
@@ -44973,7 +44973,7 @@
         "service_type": "1",
         "seq": "32",
         "stop": "131A8DDFC3837AD7",
-        "stop_name_tc": "八鄉路總站 (大欖隧道轉車站-C2)"
+        "stop_name_tc": "八鄉路總站 (大欖隧道轉車站)"
     },
     {
         "route": "251A",
@@ -45053,7 +45053,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "34AD4356DEF0E0BD",
-        "stop_name_tc": "八鄉路總站 (大欖隧道轉車站-C3)"
+        "stop_name_tc": "八鄉路總站 (大欖隧道轉車站)"
     },
     {
         "route": "251B",
@@ -45317,7 +45317,7 @@
         "service_type": "1",
         "seq": "34",
         "stop": "34AD4356DEF0E0BD",
-        "stop_name_tc": "八鄉路總站 (大欖隧道轉車站-C3)"
+        "stop_name_tc": "八鄉路總站 (大欖隧道轉車站)"
     },
     {
         "route": "251C",
@@ -57589,7 +57589,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "131A8DDFC3837AD7",
-        "stop_name_tc": "八鄉路總站 (大欖隧道轉車站-C2)"
+        "stop_name_tc": "八鄉路總站 (大欖隧道轉車站)"
     },
     {
         "route": "268",
@@ -57845,7 +57845,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "131A8DDFC3837AD7",
-        "stop_name_tc": "八鄉路總站 (大欖隧道轉車站-C2)"
+        "stop_name_tc": "八鄉路總站 (大欖隧道轉車站)"
     },
     {
         "route": "268A",
@@ -86110,6 +86110,94 @@
         "seq": "30",
         "stop": "69BBC65EA7215C8F",
         "stop_name_tc": "顯徑巴士總站 (TA935)"
+    },
+    {
+        "route": "287",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "1",
+        "stop": "81D05719EDB6070E",
+        "stop_name_tc": "西沙灣交通交匯處 (SK982)"
+    },
+    {
+        "route": "287",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "2",
+        "stop": "79B88295548184C1",
+        "stop_name_tc": "田寮 (SK218)"
+    },
+    {
+        "route": "287",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "3",
+        "stop": "9CEC1F1000AFE806",
+        "stop_name_tc": "輋下 (SK219)"
+    },
+    {
+        "route": "287",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "4",
+        "stop": "5D86C919F15C0611",
+        "stop_name_tc": "西澳 (SK220)"
+    },
+    {
+        "route": "287",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "5",
+        "stop": "F63D25B428F1C1D9",
+        "stop_name_tc": "樟木頭帝琴灣 (SK221)"
+    },
+    {
+        "route": "287",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "6",
+        "stop": "8337F935242C5CC3",
+        "stop_name_tc": "利安邨 (MA300)"
+    },
+    {
+        "route": "287",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "7",
+        "stop": "0D4E07F475845DB3",
+        "stop_name_tc": "錦龍苑 (MA332)"
+    },
+    {
+        "route": "287",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "8",
+        "stop": "B071B60F5566934B",
+        "stop_name_tc": "錦英苑 (MA336)"
+    },
+    {
+        "route": "287",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "9",
+        "stop": "E2602DD1C8EA1AC8",
+        "stop_name_tc": "雅景台 (MA183)"
+    },
+    {
+        "route": "287",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "10",
+        "stop": "664BAA2EA12B80B1",
+        "stop_name_tc": "錦駿苑 (MA186)"
+    },
+    {
+        "route": "287",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "11",
+        "stop": "3E10F323161F4ADB",
+        "stop_name_tc": "大學站 (ST901)"
     },
     {
         "route": "287",
@@ -180653,7 +180741,7 @@
         "service_type": "3",
         "seq": "28",
         "stop": "5CB4727570240308",
-        "stop_name_tc": "八鄉路總站 (大欖隧道轉車站-C1)"
+        "stop_name_tc": "八鄉路總站 (大欖隧道轉車站)"
     },
     {
         "route": "78",

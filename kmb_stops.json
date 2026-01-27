@@ -3809,9 +3809,9 @@
     },
     {
         "stop": "131A8DDFC3837AD7",
-        "name_en": "PAT HEUNG ROAD B/T (C2 - TAI LAM TUNNEL BBI)",
-        "name_tc": "八鄉路總站 (大欖隧道轉車站-C2)",
-        "name_sc": "八乡路总站 (大榄隧道转车站-C2)",
+        "name_en": "PAT HEUNG ROAD B/T (TAI LAM TUNNEL BBI) (YL851)",
+        "name_tc": "八鄉路總站 (大欖隧道轉車站)",
+        "name_sc": "八乡路总站 (大榄隧道转车站)",
         "lat": "22.421375",
         "long": "114.063681"
     },
@@ -11209,9 +11209,9 @@
     },
     {
         "stop": "34AD4356DEF0E0BD",
-        "name_en": "PAT HEUNG ROAD B/T (C3 - TAI LAM TUNNEL BBI)",
-        "name_tc": "八鄉路總站 (大欖隧道轉車站-C3)",
-        "name_sc": "八乡路总站 (大榄隧道转车站-C3)",
+        "name_en": "PAT HEUNG ROAD B/T (TAI LAM TUNNEL BBI) (YL850)",
+        "name_tc": "八鄉路總站 (大欖隧道轉車站)",
+        "name_sc": "八乡路总站 (大榄隧道转车站)",
         "lat": "22.421402",
         "long": "114.063760"
     },
@@ -19673,9 +19673,9 @@
     },
     {
         "stop": "5CB4727570240308",
-        "name_en": "PAT HEUNG ROAD B/T (C1 - TAI LAM TUNNEL BBI)",
-        "name_tc": "八鄉路總站 (大欖隧道轉車站-C1)",
-        "name_sc": "八乡路总站 (大榄隧道转车站-C1)",
+        "name_en": "PAT HEUNG ROAD B/T (TAI LAM TUNNEL BBI) (YL852)",
+        "name_tc": "八鄉路總站 (大欖隧道轉車站)",
+        "name_sc": "八乡路总站 (大榄隧道转车站)",
         "lat": "22.421375",
         "long": "114.063681"
     },
