@@ -117756,16 +117756,16 @@
         "bound": "O",
         "service_type": "3",
         "seq": "1",
-        "stop": "8134FC79F33F203D",
-        "stop_name_tc": "烏溪沙站"
+        "stop": "9AD30F8EDBC3F139",
+        "stop_name_tc": "烏溪沙站 (MA983)"
     },
     {
         "route": "40X",
         "bound": "O",
         "service_type": "3",
         "seq": "2",
-        "stop": "146DCFCD863515EB",
-        "stop_name_tc": "利安邨"
+        "stop": "8337F935242C5CC3",
+        "stop_name_tc": "利安邨 (MA300)"
     },
     {
         "route": "40X",
@@ -117788,88 +117788,88 @@
         "bound": "O",
         "service_type": "3",
         "seq": "5",
-        "stop": "3F967BB2C0468A43",
-        "stop_name_tc": "馬鞍山市中心"
+        "stop": "2ADCFCFCCDDF2C9B",
+        "stop_name_tc": "馬鞍山市中心 (MA309)"
     },
     {
         "route": "40X",
         "bound": "O",
         "service_type": "3",
         "seq": "6",
-        "stop": "C1D111ADEB5E055E",
-        "stop_name_tc": "福安花園"
+        "stop": "2F163186FB995E0B",
+        "stop_name_tc": "福安花園 (MA314)"
     },
     {
         "route": "40X",
         "bound": "O",
         "service_type": "3",
         "seq": "7",
-        "stop": "DC1EC6F7B8AC0A29",
-        "stop_name_tc": "耀安邨耀謙樓"
+        "stop": "1F1A440137854ABF",
+        "stop_name_tc": "耀安邨耀謙樓 (MA377)"
     },
     {
         "route": "40X",
         "bound": "O",
         "service_type": "3",
         "seq": "8",
-        "stop": "2F85BA35D713EF80",
-        "stop_name_tc": "錦駿苑"
+        "stop": "2021D186A889FA2E",
+        "stop_name_tc": "錦駿苑 (MA185)"
     },
     {
         "route": "40X",
         "bound": "O",
         "service_type": "3",
         "seq": "9",
-        "stop": "1378C40A04C29027",
-        "stop_name_tc": "城門隧道轉車站 (B6)"
+        "stop": "620E14F31DA31490",
+        "stop_name_tc": "城門隧道轉車站 (B6) (TW300)"
     },
     {
         "route": "40X",
         "bound": "O",
         "service_type": "3",
         "seq": "10",
-        "stop": "6971AE04A57E940B",
-        "stop_name_tc": "城門隧道轉車站 (B2)"
+        "stop": "26D2833891C00F40",
+        "stop_name_tc": "城門隧道轉車站 (B2) (TW304)"
     },
     {
         "route": "40X",
         "bound": "O",
         "service_type": "3",
         "seq": "11",
-        "stop": "A0DC5DA3E06ADFC9",
-        "stop_name_tc": "可風中學"
+        "stop": "0A1DAEAFFDFF0B66",
+        "stop_name_tc": "可風中學 (TW310)"
     },
     {
         "route": "40X",
         "bound": "O",
         "service_type": "3",
         "seq": "12",
-        "stop": "86C504BEC753C4CB",
-        "stop_name_tc": "梨木樹邨"
+        "stop": "3A2924B2461D053B",
+        "stop_name_tc": "梨木樹邨 (TW313)"
     },
     {
         "route": "40X",
         "bound": "O",
         "service_type": "3",
         "seq": "13",
-        "stop": "62FA565D482FE9C0",
-        "stop_name_tc": "和宜合道運動場"
+        "stop": "066AA1A504714A20",
+        "stop_name_tc": "和宜合道運動場 (TW316)"
     },
     {
         "route": "40X",
         "bound": "O",
         "service_type": "3",
         "seq": "14",
-        "stop": "310BC5B0BFD3EA1F",
-        "stop_name_tc": "昌榮路"
+        "stop": "1423FCFF61709EAC",
+        "stop_name_tc": "昌榮路 (KW331)"
     },
     {
         "route": "40X",
         "bound": "O",
         "service_type": "3",
         "seq": "15",
-        "stop": "104479F0F5BB2010",
-        "stop_name_tc": "葵俊苑"
+        "stop": "898337E6181E5E66",
+        "stop_name_tc": "葵俊苑 (KW452)"
     },
     {
         "route": "40X",
@@ -281352,550 +281352,6 @@
         "stop_name_tc": "尖沙咀東（麼地道） (YT924)"
     },
     {
-        "route": "R271",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "1",
-        "stop": "D3EC6E5D48291437",
-        "stop_name_tc": "富亨總站 (TP994)"
-    },
-    {
-        "route": "R271",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "2",
-        "stop": "2CC694E5A84B05A0",
-        "stop_name_tc": "頌雅路 (TP376)"
-    },
-    {
-        "route": "R271",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "3",
-        "stop": "5A1A5F0DEB7F8EBE",
-        "stop_name_tc": "富善邨總站 (TP969)"
-    },
-    {
-        "route": "R271",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "4",
-        "stop": "7081CE830F3E9B50",
-        "stop_name_tc": "大埔中心總站 (TP911)"
-    },
-    {
-        "route": "R271",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "5",
-        "stop": "45628FA7B8D7C5D2",
-        "stop_name_tc": "大埔安祥路 (TP537)"
-    },
-    {
-        "route": "R271",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "6",
-        "stop": "5734545592215022",
-        "stop_name_tc": "廣福道轉車站 (TP565)"
-    },
-    {
-        "route": "R271",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "7",
-        "stop": "3FD481FB9B9DC36C",
-        "stop_name_tc": "大埔運頭角里 (TP569)"
-    },
-    {
-        "route": "R271",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "8",
-        "stop": "062FFE8F1560E8A4",
-        "stop_name_tc": "廣福邨 (TP575)"
-    },
-    {
-        "route": "R271",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "9",
-        "stop": "74648B92E0E80E2E",
-        "stop_name_tc": "白石角變電站 (PA201)"
-    },
-    {
-        "route": "R271",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "10",
-        "stop": "4DD5EC5516B360D7",
-        "stop_name_tc": "天賦海灣 (PA204)"
-    },
-    {
-        "route": "R271",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "11",
-        "stop": "33ABA49F0E91A247",
-        "stop_name_tc": "雲滙 (PA209)"
-    },
-    {
-        "route": "R271",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "12",
-        "stop": "B34F59A0270AEDA4",
-        "stop_name_tc": "創新路 (PA212)"
-    },
-    {
-        "route": "R271",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "13",
-        "stop": "B644204AEDE7A031",
-        "stop_name_tc": "科研路 (PA215)"
-    },
-    {
-        "route": "R271",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "14",
-        "stop": "5C2A974134634635",
-        "stop_name_tc": "科學園(第一期) (PA220)"
-    },
-    {
-        "route": "R271",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "15",
-        "stop": "A0D379E172F5BC93",
-        "stop_name_tc": "香港生物科技研究院 (PA232)"
-    },
-    {
-        "route": "R271",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "16",
-        "stop": "853CD1316EB5227B",
-        "stop_name_tc": "水上活動中心 (PA236)"
-    },
-    {
-        "route": "R271",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "17",
-        "stop": "BE6EC9708F5FB613",
-        "stop_name_tc": "馬料水公眾碼頭 (PA238)"
-    },
-    {
-        "route": "R271",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "18",
-        "stop": "DF9E89A391CAC245",
-        "stop_name_tc": "九龍塘聯合道 (KC660)"
-    },
-    {
-        "route": "R271",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "19",
-        "stop": "657E5836BC932790",
-        "stop_name_tc": "九龍塘站 (KC663)"
-    },
-    {
-        "route": "R271",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "20",
-        "stop": "850F72123F644500",
-        "stop_name_tc": "龍濤花園 (KC665)"
-    },
-    {
-        "route": "R271",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "21",
-        "stop": "98FCC750B322B706",
-        "stop_name_tc": "九龍醫院 (KC669)"
-    },
-    {
-        "route": "R271",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "22",
-        "stop": "66C6FDFC88F56E51",
-        "stop_name_tc": "醫療輔助總部 (KC678)"
-    },
-    {
-        "route": "R271",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "23",
-        "stop": "7CD8F96A087CDDF2",
-        "stop_name_tc": "愛民邨 (KC679)"
-    },
-    {
-        "route": "R271",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "24",
-        "stop": "F3D86A2A72FF3582",
-        "stop_name_tc": "尖沙咀東（麼地道） (YT921)"
-    },
-    {
-        "route": "R283",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "1",
-        "stop": "0035CDF15614428C",
-        "stop_name_tc": "碩門邨巴士總站 (ST991)"
-    },
-    {
-        "route": "R283",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "2",
-        "stop": "2223D64E9ED2E1A7",
-        "stop_name_tc": "帝逸酒店 (ST534)"
-    },
-    {
-        "route": "R283",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "3",
-        "stop": "69E4C417312C10C0",
-        "stop_name_tc": "小瀝源 (綠怡雅苑) (ST535)"
-    },
-    {
-        "route": "R283",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "4",
-        "stop": "C1E1199805BCC92D",
-        "stop_name_tc": "帝堡城 (ST538)"
-    },
-    {
-        "route": "R283",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "5",
-        "stop": "F0852C7827CC97EB",
-        "stop_name_tc": "黃泥頭巴士總站 (ST890)"
-    },
-    {
-        "route": "R283",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "6",
-        "stop": "7E3C2CA5ABEC8416",
-        "stop_name_tc": "廣源邨廣柏樓 (ST601)"
-    },
-    {
-        "route": "R283",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "7",
-        "stop": "D54A59914E577E3F",
-        "stop_name_tc": "廣源邨廣榕樓 (ST622)"
-    },
-    {
-        "route": "R283",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "8",
-        "stop": "3F01C915E856B018",
-        "stop_name_tc": "香港恒生大學 (ST623)"
-    },
-    {
-        "route": "R283",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "9",
-        "stop": "6282A73360ACEBEA",
-        "stop_name_tc": "牛皮沙新村 (ST630)"
-    },
-    {
-        "route": "R283",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "10",
-        "stop": "FF98F738E3D0FE6B",
-        "stop_name_tc": "愉翠苑 (ST634)"
-    },
-    {
-        "route": "R283",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "11",
-        "stop": "0333C7A4008A8DE3",
-        "stop_name_tc": "聖羅撒書院 (ST306)"
-    },
-    {
-        "route": "R283",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "12",
-        "stop": "38CCA601583A5C55",
-        "stop_name_tc": "水泉澳邨月泉樓 (ST652)"
-    },
-    {
-        "route": "R283",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "13",
-        "stop": "6FA31E38468068B6",
-        "stop_name_tc": "博康邨 (ST675)"
-    },
-    {
-        "route": "R283",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "14",
-        "stop": "5C6B22551FFEB285",
-        "stop_name_tc": "田家炳學校 (ST681)"
-    },
-    {
-        "route": "R283",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "15",
-        "stop": "B6B1AB47AB07887F",
-        "stop_name_tc": "文化博物館 (ST103)"
-    },
-    {
-        "route": "R283",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "16",
-        "stop": "61CB41A4FE2AD8E5",
-        "stop_name_tc": "美林邨 (TA733)"
-    },
-    {
-        "route": "R283",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "17",
-        "stop": "363957ECE0924AC4",
-        "stop_name_tc": "美輝街 (TA151)"
-    },
-    {
-        "route": "R283",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "18",
-        "stop": "F2E381299EA74E3E",
-        "stop_name_tc": "美林巴士總站 (TA962)"
-    },
-    {
-        "route": "R283",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "19",
-        "stop": "60F6F482EFA8FE18",
-        "stop_name_tc": "大圍街市 (TA332)"
-    },
-    {
-        "route": "R283",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "20",
-        "stop": "AD0E19B05666A22B",
-        "stop_name_tc": "大圍轉車站 - 新翠邨 (TA602)"
-    },
-    {
-        "route": "R283",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "21",
-        "stop": "C7C1C12D89968698",
-        "stop_name_tc": "世界花園 (TA606)"
-    },
-    {
-        "route": "R283",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "22",
-        "stop": "F2508598F5A43655",
-        "stop_name_tc": "香港科學館 (YT621)"
-    },
-    {
-        "route": "R283",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "23",
-        "stop": "F3D86A2A72FF3582",
-        "stop_name_tc": "尖沙咀東（麼地道） (YT921)"
-    },
-    {
-        "route": "R287",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "1",
-        "stop": "E22B819E638307CC",
-        "stop_name_tc": "烏溪沙站 (MA986)"
-    },
-    {
-        "route": "R287",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "2",
-        "stop": "8337F935242C5CC3",
-        "stop_name_tc": "利安邨 (MA300)"
-    },
-    {
-        "route": "R287",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "3",
-        "stop": "6BD93B827893E41E",
-        "stop_name_tc": "錦龍苑 (MA331)"
-    },
-    {
-        "route": "R287",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "4",
-        "stop": "3C61E9226688CA79",
-        "stop_name_tc": "錦英苑 (MA333)"
-    },
-    {
-        "route": "R287",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "5",
-        "stop": "8507CD56EB29D1CF",
-        "stop_name_tc": "新港城 (MA115)"
-    },
-    {
-        "route": "R287",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "6",
-        "stop": "1D99BD02B9B45429",
-        "stop_name_tc": "馬鞍山市中心總站 (MA953)"
-    },
-    {
-        "route": "R287",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "7",
-        "stop": "1D6A8B8C58C268FF",
-        "stop_name_tc": "馬鞍山運動場 (MA371)"
-    },
-    {
-        "route": "R287",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "8",
-        "stop": "96B1EEEF3B7B29A0",
-        "stop_name_tc": "耀安巴士總站 (MA931)"
-    },
-    {
-        "route": "R287",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "9",
-        "stop": "03354DBC3AD86BAC",
-        "stop_name_tc": "頌安邨 (MA315)"
-    },
-    {
-        "route": "R287",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "10",
-        "stop": "A07D2012213FC19D",
-        "stop_name_tc": "錦鞍苑 (MA323)"
-    },
-    {
-        "route": "R287",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "11",
-        "stop": "6B46C7E695EF21CF",
-        "stop_name_tc": "欣安邨 (MA142)"
-    },
-    {
-        "route": "R287",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "12",
-        "stop": "96012665619E0B98",
-        "stop_name_tc": "保泰街 (MA340)"
-    },
-    {
-        "route": "R287",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "13",
-        "stop": "C234CA2FB1299922",
-        "stop_name_tc": "德信中學 (MA350)"
-    },
-    {
-        "route": "R287",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "14",
-        "stop": "BDC2B3601964F0DD",
-        "stop_name_tc": "錦泰苑 (MA354)"
-    },
-    {
-        "route": "R287",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "15",
-        "stop": "C81CBD93FB2B5C60",
-        "stop_name_tc": "富安花園巴士總站 (MA907)"
-    },
-    {
-        "route": "R287",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "16",
-        "stop": "34740DD5ABC36F12",
-        "stop_name_tc": "亞公角 (MA402)"
-    },
-    {
-        "route": "R287",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "17",
-        "stop": "25E1BAE2C272ED4C",
-        "stop_name_tc": "沙田醫院 (MA404)"
-    },
-    {
-        "route": "R287",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "18",
-        "stop": "823E3EE2413E40E2",
-        "stop_name_tc": "石門轉車站-新界鄉議局大樓"
-    },
-    {
-        "route": "R287",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "19",
-        "stop": "E7133179F5800E85",
-        "stop_name_tc": "沙田第一城 (ST510)"
-    },
-    {
-        "route": "R287",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "20",
-        "stop": "F2508598F5A43655",
-        "stop_name_tc": "香港科學館 (YT621)"
-    },
-    {
-        "route": "R287",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "21",
-        "stop": "F3D86A2A72FF3582",
-        "stop_name_tc": "尖沙咀東（麼地道） (YT921)"
-    },
-    {
         "route": "R298",
         "bound": "O",
         "service_type": "1",
@@ -281990,142 +281446,6 @@
         "seq": "12",
         "stop": "0DB55CC5E4533F4E",
         "stop_name_tc": "尖沙咀東（麼地道） (YT926)"
-    },
-    {
-        "route": "R307",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "1",
-        "stop": "F9AB54847EF884BB",
-        "stop_name_tc": "大埔翠怡街 (TP340)"
-    },
-    {
-        "route": "R307",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "2",
-        "stop": "8C1810DE2419A30B",
-        "stop_name_tc": "太和站 (TP980)"
-    },
-    {
-        "route": "R307",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "3",
-        "stop": "56F79FB1FC157E22",
-        "stop_name_tc": "大埔政府合署 (TP611)"
-    },
-    {
-        "route": "R307",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "4",
-        "stop": "95B249916F323BD4",
-        "stop_name_tc": "大埔平安里 (TP612)"
-    },
-    {
-        "route": "R307",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "5",
-        "stop": "F1F1C3A91C6EB439",
-        "stop_name_tc": "海寶花園 (TP251)"
-    },
-    {
-        "route": "R307",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "6",
-        "stop": "27222F0DE22582ED",
-        "stop_name_tc": "大埔中心總站 (TP900)"
-    },
-    {
-        "route": "R307",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "7",
-        "stop": "ACDCC9E65172243D",
-        "stop_name_tc": "新興花園 (TP382)"
-    },
-    {
-        "route": "R307",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "8",
-        "stop": "12E4BAFA2B73435B",
-        "stop_name_tc": "廣福邨 (TP576)"
-    },
-    {
-        "route": "R307",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "9",
-        "stop": "2431FF3100478DEE",
-        "stop_name_tc": "九龍塘聯合道 (KC661)"
-    },
-    {
-        "route": "R307",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "10",
-        "stop": "ED6FCB0422D541F5",
-        "stop_name_tc": "九龍塘站 (KC662)"
-    },
-    {
-        "route": "R307",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "11",
-        "stop": "850F72123F644500",
-        "stop_name_tc": "龍濤花園 (KC665)"
-    },
-    {
-        "route": "R307",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "12",
-        "stop": "3821D64D2BF1BB66",
-        "stop_name_tc": "九龍醫院 (KC668)"
-    },
-    {
-        "route": "R307",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "13",
-        "stop": "66C6FDFC88F56E51",
-        "stop_name_tc": "醫療輔助總部 (KC678)"
-    },
-    {
-        "route": "R307",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "14",
-        "stop": "7CD8F96A087CDDF2",
-        "stop_name_tc": "愛民邨 (KC679)"
-    },
-    {
-        "route": "R307",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "15",
-        "stop": "4D3CBBDB95447F2E",
-        "stop_name_tc": "紅隧轉車站 (HH505)"
-    },
-    {
-        "route": "R307",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "16",
-        "stop": "76B4054F2E1F00B0",
-        "stop_name_tc": "邊寧頓街 (WC250)"
-    },
-    {
-        "route": "R307",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "17",
-        "stop": "17B98BD1165A7B92",
-        "stop_name_tc": "維多利亞公園 (ED310)"
     },
     {
         "route": "R33",
@@ -282966,150 +282286,6 @@
         "seq": "32",
         "stop": "DF901EF2F9A46F7B",
         "stop_name_tc": "維多利亞公園"
-    },
-    {
-        "route": "R680",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "1",
-        "stop": "4D8E5172E1C1EAF5",
-        "stop_name_tc": "錦英苑巴士總站 (MA961)"
-    },
-    {
-        "route": "R680",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "2",
-        "stop": "D156C558FF163BE3",
-        "stop_name_tc": "錦龍苑 (MA196)"
-    },
-    {
-        "route": "R680",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "3",
-        "stop": "013F884CBCB1CBE4",
-        "stop_name_tc": "富寶花園 (MA303)"
-    },
-    {
-        "route": "R680",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "4",
-        "stop": "1D99BD02B9B45429",
-        "stop_name_tc": "馬鞍山市中心總站 (MA953)"
-    },
-    {
-        "route": "R680",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "5",
-        "stop": "028E0B68D3166C00",
-        "stop_name_tc": "福安花園 (MA312)"
-    },
-    {
-        "route": "R680",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "6",
-        "stop": "1D6A8B8C58C268FF",
-        "stop_name_tc": "馬鞍山運動場 (MA371)"
-    },
-    {
-        "route": "R680",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "7",
-        "stop": "F86BDB236D6ACDC3",
-        "stop_name_tc": "耀安邨耀謙樓 (MA379)"
-    },
-    {
-        "route": "R680",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "8",
-        "stop": "30553FA19D045D25",
-        "stop_name_tc": "富安花園 (MA392)"
-    },
-    {
-        "route": "R680",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "9",
-        "stop": "4A3D71FFAB41B756",
-        "stop_name_tc": "亞公角 (MA401)"
-    },
-    {
-        "route": "R680",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "10",
-        "stop": "A78292AA77A277A7",
-        "stop_name_tc": "沙田醫院 (MA403)"
-    },
-    {
-        "route": "R680",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "11",
-        "stop": "578C11F0F4197509",
-        "stop_name_tc": "石門轉車站-新界鄉議局大樓"
-    },
-    {
-        "route": "R680",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "12",
-        "stop": "A295FD27A4E5A7C5",
-        "stop_name_tc": "小瀝源草地滾球場 (ST530)"
-    },
-    {
-        "route": "R680",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "13",
-        "stop": "C43782B93826F4CD",
-        "stop_name_tc": "小瀝源路遊樂場 (ST532)"
-    },
-    {
-        "route": "R680",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "14",
-        "stop": "2223D64E9ED2E1A7",
-        "stop_name_tc": "帝逸酒店 (ST534)"
-    },
-    {
-        "route": "R680",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "15",
-        "stop": "4D3CBBDB95447F2E",
-        "stop_name_tc": "紅隧轉車站 (HH505)"
-    },
-    {
-        "route": "R680",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "16",
-        "stop": "D1D807234805DBF4",
-        "stop_name_tc": "景隆街"
-    },
-    {
-        "route": "R680",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "17",
-        "stop": "76B4054F2E1F00B0",
-        "stop_name_tc": "邊寧頓街 (WC250)"
-    },
-    {
-        "route": "R680",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "18",
-        "stop": "17B98BD1165A7B92",
-        "stop_name_tc": "維多利亞公園 (ED310)"
     },
     {
         "route": "R78",

@@ -17006,39 +17006,6 @@
         "dest_sc": "尖沙咀东(么地道)"
     },
     {
-        "route": "R271",
-        "bound": "O",
-        "service_type": "1",
-        "orig_en": "TAI PO (FU HENG)",
-        "orig_tc": "大埔(富亨)",
-        "orig_sc": "大埔(富亨)",
-        "dest_en": "TSIM SHA TSUI EAST (MODY ROAD)",
-        "dest_tc": "尖沙咀東(麼地道)",
-        "dest_sc": "尖沙咀东(么地道)"
-    },
-    {
-        "route": "R283",
-        "bound": "O",
-        "service_type": "1",
-        "orig_en": "SHEK MUN ESTATE",
-        "orig_tc": "碩門邨",
-        "orig_sc": "硕门邨",
-        "dest_en": "TSIM SHA TSUI EAST (MODY ROAD)",
-        "dest_tc": "尖沙咀東(麼地道)",
-        "dest_sc": "尖沙咀东(么地道)"
-    },
-    {
-        "route": "R287",
-        "bound": "O",
-        "service_type": "1",
-        "orig_en": "WU KAI SHA STATION",
-        "orig_tc": "烏溪沙站",
-        "orig_sc": "乌溪沙站",
-        "dest_en": "TSIM SHA TSUI EAST (MODY ROAD)",
-        "dest_tc": "尖沙咀東(麼地道)",
-        "dest_sc": "尖沙咀东(么地道)"
-    },
-    {
         "route": "R298",
         "bound": "O",
         "service_type": "1",
@@ -17048,17 +17015,6 @@
         "dest_en": "TSIM SHA TSUI EAST (MODY ROAD)",
         "dest_tc": "尖沙咀東(麼地道)",
         "dest_sc": "尖沙咀东(么地道)"
-    },
-    {
-        "route": "R307",
-        "bound": "O",
-        "service_type": "1",
-        "orig_en": "TAI PO TING TAI ROAD",
-        "orig_tc": "大埔汀太路",
-        "orig_sc": "大埔汀太路",
-        "dest_en": "CAUSEWAY BAY (VICTORIA PARK)",
-        "dest_tc": "銅鑼灣 (維多利亞公園)",
-        "dest_sc": "铜锣湾 (维多利亚公园)"
     },
     {
         "route": "R33",
@@ -17136,17 +17092,6 @@
         "dest_en": "CAUSEWAY BAY (VICTORIA PARK)",
         "dest_tc": "銅鑼灣(維多利亞公園)",
         "dest_sc": "铜锣湾(维多利亚公园)"
-    },
-    {
-        "route": "R680",
-        "bound": "O",
-        "service_type": "1",
-        "orig_en": "KAM YING COURT",
-        "orig_tc": "錦英苑",
-        "orig_sc": "锦英苑",
-        "dest_en": "CAUSEWAY BAY (VICTORIA PARK)",
-        "dest_tc": "銅鑼灣 (維多利亞公園)",
-        "dest_sc": "铜锣湾 (维多利亚公园)"
     },
     {
         "route": "R78",

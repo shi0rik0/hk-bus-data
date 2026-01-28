@@ -3192,14 +3192,6 @@
         "long": "114.330620"
     },
     {
-        "stop": "104479F0F5BB2010",
-        "name_en": "KWAI CHUN COURT",
-        "name_tc": "葵俊苑",
-        "name_sc": "葵俊苑",
-        "lat": "22.364416",
-        "long": "114.132751"
-    },
-    {
         "stop": "104F23B3D3BF195E",
         "name_en": "PING CHE GARDEN (ND303)",
         "name_tc": "坪輋花園 (ND303)",
@@ -3896,14 +3888,6 @@
         "long": "114.165061"
     },
     {
-        "stop": "1378C40A04C29027",
-        "name_en": "SHING MUN TUNNELS BBI (B6)",
-        "name_tc": "城門隧道轉車站 (B6)",
-        "name_sc": "城门隧道转车站 (B6)",
-        "lat": "22.381181",
-        "long": "114.138129"
-    },
-    {
         "stop": "137E4ABB3A5D28F0",
         "name_en": "CAUSEWAY BAY TYPHOON SHELTER",
         "name_tc": "銅鑼灣避風塘",
@@ -4134,14 +4118,6 @@
         "name_sc": "沙田第一城 (ST144)",
         "lat": "22.389465",
         "long": "114.203314"
-    },
-    {
-        "stop": "146DCFCD863515EB",
-        "name_en": "LEE ON ESTATE",
-        "name_tc": "利安邨",
-        "name_sc": "利安邨",
-        "lat": "22.427459",
-        "long": "114.240591"
     },
     {
         "stop": "147195048B687121",
@@ -9848,14 +9824,6 @@
         "long": "114.122642"
     },
     {
-        "stop": "2F85BA35D713EF80",
-        "name_en": "KAM CHUN COURT",
-        "name_tc": "錦駿苑",
-        "name_sc": "锦骏苑",
-        "lat": "22.413265",
-        "long": "114.226888"
-    },
-    {
         "stop": "2F8A93ADDCEF6856",
         "name_en": "SHEK KIP MEI  STATION (SS573)",
         "name_tc": "石硤尾站 (SS573)",
@@ -10270,14 +10238,6 @@
         "name_sc": "茅湖仔 (KT194)",
         "lat": "22.317495",
         "long": "114.252038"
-    },
-    {
-        "stop": "310BC5B0BFD3EA1F",
-        "name_en": "CHEUNG WING ROAD",
-        "name_tc": "昌榮路",
-        "name_sc": "昌荣路",
-        "lat": "22.370511",
-        "long": "114.134739"
     },
     {
         "stop": "310E4FE9B7419F88",
@@ -21024,14 +20984,6 @@
         "long": "114.227035"
     },
     {
-        "stop": "62FA565D482FE9C0",
-        "name_en": "WO YI HOP ROAD SPORTSGROUND",
-        "name_tc": "和宜合道運動場",
-        "name_sc": "和宜合道运动场",
-        "lat": "22.374018",
-        "long": "114.136465"
-    },
-    {
         "stop": "6307B2B4322BFAE2",
         "name_en": "SHUI TSAN TIN",
         "name_tc": "水盞田",
@@ -22478,14 +22430,6 @@
         "name_sc": "亚皆老街球场 (KC385)",
         "lat": "22.327009",
         "long": "114.188955"
-    },
-    {
-        "stop": "6971AE04A57E940B",
-        "name_en": "SHING MUN TUNNELS BBI (B2)",
-        "name_tc": "城門隧道轉車站 (B2)",
-        "name_sc": "城门隧道转车站 (B2)",
-        "lat": "22.381478",
-        "long": "114.137785"
     },
     {
         "stop": "69741C71C234C871",
@@ -27160,14 +27104,6 @@
         "long": "114.162566"
     },
     {
-        "stop": "8134FC79F33F203D",
-        "name_en": "WU KAI SHA STATION",
-        "name_tc": "烏溪沙站",
-        "name_sc": "乌溪沙站",
-        "lat": "22.428394",
-        "long": "114.243732"
-    },
-    {
         "stop": "813962A51DF6DACE",
         "name_en": "THE FAMILY PLANNING ASSOCIATION OF HK (KC202)",
         "name_tc": "香港家庭計劃指導會 (KC202)",
@@ -28318,14 +28254,6 @@
         "name_sc": "立德里",
         "lat": "22.276210",
         "long": "114.180209"
-    },
-    {
-        "stop": "86C504BEC753C4CB",
-        "name_en": "LEI MUK SHUE ESTATE",
-        "name_tc": "梨木樹邨",
-        "name_sc": "梨木树邨",
-        "lat": "22.377275",
-        "long": "114.136891"
     },
     {
         "stop": "86C5B251AF5F68BF",
@@ -33526,14 +33454,6 @@
         "name_sc": "香港生物科技研究院 (PA232)",
         "lat": "22.422664",
         "long": "114.214179"
-    },
-    {
-        "stop": "A0DC5DA3E06ADFC9",
-        "name_en": "HO FUNG COLLEGE",
-        "name_tc": "可風中學",
-        "name_sc": "可风中学",
-        "lat": "22.380443",
-        "long": "114.135135"
     },
     {
         "stop": "A0E2F1B6E155C92F",
