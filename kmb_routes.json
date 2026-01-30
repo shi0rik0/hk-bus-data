@@ -16291,6 +16291,17 @@
         "dest_sc": "安达臣"
     },
     {
+        "route": "N601",
+        "bound": "O",
+        "service_type": "1",
+        "orig_en": "ADMIRALTY STATION (EAST)",
+        "orig_tc": "金鐘站(東)",
+        "orig_sc": "金钟站(东)",
+        "dest_en": "PO TAT",
+        "dest_tc": "寶達",
+        "dest_sc": "宝达"
+    },
+    {
         "route": "N603",
         "bound": "O",
         "service_type": "1",
@@ -16826,6 +16837,17 @@
         "orig_tc": "啟德AIRSIDE",
         "orig_sc": "启德AIRSIDE",
         "dest_en": "DB PLAZA",
+        "dest_tc": "愉景廣場",
+        "dest_sc": "愉景广场"
+    },
+    {
+        "route": "PB5",
+        "bound": "O",
+        "service_type": "1",
+        "orig_en": "HONG KONG PALACE MUSEUM",
+        "orig_tc": "香港故宮文化博物館",
+        "orig_sc": "香港故宫文化博物馆",
+        "dest_en": "DISCOVERY BAY PLAZA",
         "dest_tc": "愉景廣場",
         "dest_sc": "愉景广场"
     },

@@ -13424,14 +13424,6 @@
         "long": "114.064602"
     },
     {
-        "stop": "3F967BB2C0468A43",
-        "name_en": "MA ON SHAN TOWN CENTRE",
-        "name_tc": "馬鞍山市中心",
-        "name_sc": "马鞍山市中心",
-        "lat": "22.424577",
-        "long": "114.231660"
-    },
-    {
         "stop": "3F9AE21DC3A540B9",
         "name_en": "NGAU TAU KOK STATION (KT338)",
         "name_tc": "牛頭角站 (KT338)",
@@ -40440,14 +40432,6 @@
         "long": "114.210289"
     },
     {
-        "stop": "C1D111ADEB5E055E",
-        "name_en": "FOK ON GARDEN",
-        "name_tc": "福安花園",
-        "name_sc": "福安花园",
-        "lat": "22.423113",
-        "long": "114.228334"
-    },
-    {
         "stop": "C1DAF9F8B637B776",
         "name_en": "KWUN TONG(ELEGANCE RD) BUS TERMINUS (KT916)",
         "name_tc": "觀塘（雅麗道）總站 (KT916)",
@@ -45902,14 +45886,6 @@
         "name_sc": "祠堂村",
         "lat": "22.438147",
         "long": "114.064544"
-    },
-    {
-        "stop": "DC1EC6F7B8AC0A29",
-        "name_en": "YIU HIM HOUSE YIU ON ESTATE",
-        "name_tc": "耀安邨耀謙樓",
-        "name_sc": "耀安邨耀谦楼",
-        "lat": "22.418190",
-        "long": "114.230528"
     },
     {
         "stop": "DC28E30AF099D339",
