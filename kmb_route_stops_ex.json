@@ -280220,6 +280220,38 @@
         "bound": "O",
         "service_type": "1",
         "seq": "5",
+        "stop": "B26B63709D8A7DFA",
+        "stop_name_tc": "愉景北商場"
+    },
+    {
+        "route": "PB5",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "6",
+        "stop": "E4415E645A9914EF",
+        "stop_name_tc": "愉景廣場"
+    },
+    {
+        "route": "PB5",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "7",
+        "stop": "98C945957285E149",
+        "stop_name_tc": "愉景北商場"
+    },
+    {
+        "route": "PB5",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "8",
+        "stop": "9774D8AAAD859409",
+        "stop_name_tc": "馬灣(珀欣路)"
+    },
+    {
+        "route": "PB5",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "9",
         "stop": "A31DD8C4FD6740D4",
         "stop_name_tc": "青衣SPCA"
     },
@@ -280227,7 +280259,7 @@
         "route": "PB5",
         "bound": "O",
         "service_type": "1",
-        "seq": "6",
+        "seq": "10",
         "stop": "045FB4EAE4FE52D6",
         "stop_name_tc": "南昌站 (V WALK)"
     },
@@ -280235,7 +280267,7 @@
         "route": "PB5",
         "bound": "O",
         "service_type": "1",
-        "seq": "7",
+        "seq": "11",
         "stop": "F050648C108571ED",
         "stop_name_tc": "香港故宮文化博物館"
     },

@@ -245193,20 +245193,48 @@
         "bound": "O",
         "service_type": "1",
         "seq": "5",
-        "stop": "A31DD8C4FD6740D4"
+        "stop": "B26B63709D8A7DFA"
     },
     {
         "route": "PB5",
         "bound": "O",
         "service_type": "1",
         "seq": "6",
-        "stop": "045FB4EAE4FE52D6"
+        "stop": "E4415E645A9914EF"
     },
     {
         "route": "PB5",
         "bound": "O",
         "service_type": "1",
         "seq": "7",
+        "stop": "98C945957285E149"
+    },
+    {
+        "route": "PB5",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "8",
+        "stop": "9774D8AAAD859409"
+    },
+    {
+        "route": "PB5",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "9",
+        "stop": "A31DD8C4FD6740D4"
+    },
+    {
+        "route": "PB5",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "10",
+        "stop": "045FB4EAE4FE52D6"
+    },
+    {
+        "route": "PB5",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "11",
         "stop": "F050648C108571ED"
     },
     {
