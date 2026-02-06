@@ -14352,6 +14352,14 @@
         "long": "114.171389"
     },
     {
+        "stop": "43BB62F7CBC3D782",
+        "name_en": "KA SHING COURT",
+        "name_tc": "嘉盛苑",
+        "name_sc": "嘉盛苑",
+        "lat": "0.000000",
+        "long": "0.000000"
+    },
+    {
         "stop": "43BFFB46B4D209FC",
         "name_en": "SHUI TIN HOUSE PAK TIN ESTATE (SS108)",
         "name_tc": "白田邨瑞田樓 (SS108)",
@@ -25792,6 +25800,14 @@
         "long": "114.273824"
     },
     {
+        "stop": "7A7ADAC0C01409EE",
+        "name_en": "FANLING STATION BBI - FANLING STATION",
+        "name_tc": "粉嶺站轉車站 - 粉嶺站",
+        "name_sc": "粉岭站转车站 - 粉岭站",
+        "lat": "0.000000",
+        "long": "0.000000"
+    },
+    {
         "stop": "7A899F3009A31F68",
         "name_en": "LOK FU PLACE (WT624)",
         "name_tc": "樂富廣場 (WT624)",
@@ -32646,6 +32662,14 @@
         "name_sc": "蓝田(北) (LT941)",
         "lat": "22.309550",
         "long": "114.237168"
+    },
+    {
+        "stop": "9D7E5D8D1E2B3E10",
+        "name_en": "WAH SUM ESTATE",
+        "name_tc": "華心邨",
+        "name_sc": "华心邨",
+        "lat": "0.000000",
+        "long": "0.000000"
     },
     {
         "stop": "9D80403C90EDFBAD",
@@ -42656,6 +42680,14 @@
         "long": "114.224887"
     },
     {
+        "stop": "CCDD774F50E8650C",
+        "name_en": "CHEERFUL PARK",
+        "name_tc": "欣翠花園",
+        "name_sc": "欣翠花园",
+        "lat": "22.495515",
+        "long": "114.131539"
+    },
+    {
         "stop": "CCED20D6135C0347",
         "name_en": "8 ROYAL GREEN (ND117)",
         "name_tc": "御景峰 (ND117)",
@@ -50374,6 +50406,14 @@
         "name_sc": "荔景邨乐景楼 (KW437)",
         "lat": "22.345552",
         "long": "114.127175"
+    },
+    {
+        "stop": "F277A29EDF23121A",
+        "name_en": "KING SHING COURT",
+        "name_tc": "景盛苑",
+        "name_sc": "景盛苑",
+        "lat": "0.000000",
+        "long": "0.000000"
     },
     {
         "stop": "F2794804DD8799B4",
