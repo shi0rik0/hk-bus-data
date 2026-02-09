@@ -225,9 +225,9 @@
     },
     {
         "stop": "01633AD5B1B978B4",
-        "name_en": "WEST KOWLOON STATION (YT281)",
-        "name_tc": "西九龍站 (YT281)",
-        "name_sc": "西九龙站 (YT281)",
+        "name_en": "HIGH SPEED RAIL WEST KOWLOON STATION (YT281)",
+        "name_tc": "高鐵西九龍站 (YT281)",
+        "name_sc": "高铁西九龙站 (YT281)",
         "lat": "22.304190",
         "long": "114.166528"
     },
@@ -454,6 +454,14 @@
         "name_sc": "启德(沐元街)",
         "lat": "22.331823",
         "long": "114.198511"
+    },
+    {
+        "stop": "029EA5F3C2AEFBC9",
+        "name_en": "HOI FU COURT, PARK AVENUE (MK121)",
+        "name_tc": "海富苑 柏景灣 (MK121)",
+        "name_sc": "海富苑 柏景湾 (MK121)",
+        "lat": "22.316217",
+        "long": "114.163941"
     },
     {
         "stop": "02CF8D1FE31E9A09",
@@ -753,9 +761,9 @@
     },
     {
         "stop": "041A140AD24C1ADB",
-        "name_en": "JORDAN (WEST KOWLOON STATION) BUS TERMINUS (YT956)",
-        "name_tc": "佐敦(西九龍站)巴士總站 (YT956)",
-        "name_sc": "佐敦(西九龙站)巴士总站 (YT956)",
+        "name_en": "HIGH SPEED RAIL WEST KOWLOON STATION BUS TERMINUS",
+        "name_tc": "高鐵(西九龍站)巴士總站 (YT956)",
+        "name_sc": "高铁(西九龙站)巴士总站 (YT956)",
         "lat": "22.307550",
         "long": "114.164551"
     },
@@ -2305,9 +2313,9 @@
     },
     {
         "stop": "0C327E058835F570",
-        "name_en": "JORDAN (WEST KOWLOON STATION) BUS TERMINUS (YT954)",
-        "name_tc": "佐敦(西九龍站)巴士總站 (YT954)",
-        "name_sc": "佐敦(西九龙站)巴士总站 (YT954)",
+        "name_en": "HIGH SPEED RAIL WEST KOWLOON STATION BUS TERMINUS",
+        "name_tc": "高鐵(西九龍站)巴士總站 (YT954)",
+        "name_sc": "高铁(西九龙站)巴士总站 (YT954)",
         "lat": "22.307550",
         "long": "114.164551"
     },
@@ -3150,6 +3158,14 @@
         "name_sc": "芝麻岭",
         "lat": "22.437982",
         "long": "114.097488"
+    },
+    {
+        "stop": "102CF3166EF7ABFF",
+        "name_en": "DUNDAS STREET MONG KOK (MK524)",
+        "name_tc": "旺角登打士街 (MK524)",
+        "name_sc": "旺角登打士街 (MK524)",
+        "lat": "22.314939",
+        "long": "114.170396"
     },
     {
         "stop": "1030A4E612B75901",
@@ -5152,6 +5168,14 @@
         "long": "114.118929"
     },
     {
+        "stop": "190F209646059000",
+        "name_en": "KOWLOON UNION CHURCH (YT670)",
+        "name_tc": "九龍佑寧堂 (YT670)",
+        "name_sc": "九龙佑宁堂 (YT670)",
+        "lat": "22.305649",
+        "long": "114.172574"
+    },
+    {
         "stop": "1914B0BA828D5BAC",
         "name_en": "PAT HEUNG POLICE STATION (YL330)",
         "name_tc": "八鄉警署 (YL330)",
@@ -5486,6 +5510,14 @@
         "name_sc": "坪石总站 (WT889)",
         "lat": "22.333985",
         "long": "114.210024"
+    },
+    {
+        "stop": "1AD6D7010C8B1C45",
+        "name_en": "SHEUNG HEUNG ROAD TO KWA WAN",
+        "name_tc": "土瓜灣上鄉道",
+        "name_sc": "土瓜湾上乡道",
+        "lat": "22.318431",
+        "long": "114.187672"
     },
     {
         "stop": "1AD9C759A42F9003",
@@ -6206,6 +6238,14 @@
         "name_sc": "屯门官立中学 (TM137)",
         "lat": "22.390507",
         "long": "113.978410"
+    },
+    {
+        "stop": "1E1F9E719E67766C",
+        "name_en": "MEI FOO BBI (SS461)",
+        "name_tc": "美孚轉車站 (SS461)",
+        "name_sc": "美孚转车站 (SS461)",
+        "lat": "22.337460",
+        "long": "114.140547"
     },
     {
         "stop": "1E27754A297197EC",
@@ -11121,9 +11161,9 @@
     },
     {
         "stop": "343CF2F6ADACAACC",
-        "name_en": "WEST KOWLOON STATION (YT283)",
-        "name_tc": "西九龍站 (YT283)",
-        "name_sc": "西九龙站 (YT283)",
+        "name_en": "HIGH SPEED RAIL WEST KOWLOON STATION (YT283)",
+        "name_tc": "高鐵西九龍站 (YT283)",
+        "name_sc": "高铁西九龙站 (YT283)",
         "lat": "22.304014",
         "long": "114.166620"
     },
@@ -12553,9 +12593,9 @@
     },
     {
         "stop": "3BEDF164D4714445",
-        "name_en": "KOWLOON STATION BUS TERMINUS (YT944)",
-        "name_tc": "九龍站巴士總站 (YT944)",
-        "name_sc": "九龙站巴士总站 (YT944)",
+        "name_en": "KOWLOON STATION, HIGH SPEED RAIL STATION (YT944)",
+        "name_tc": "九龍站,高鐵站 (YT944)",
+        "name_sc": "九龙站,高铁站 (YT944)",
         "lat": "22.305069",
         "long": "114.162672"
     },
@@ -12758,6 +12798,14 @@
         "name_sc": "喜鹊楼 (KT378)",
         "lat": "22.317181",
         "long": "114.217644"
+    },
+    {
+        "stop": "3CE92CA0407BEB9C",
+        "name_en": "KWUN TONG SWIMMING POOL (KT361)",
+        "name_tc": "觀塘游泳池 (KT361)",
+        "name_sc": "观塘游泳池 (KT361)",
+        "lat": "22.310432",
+        "long": "114.229545"
     },
     {
         "stop": "3CEDAAAC5071EF7B",
@@ -13713,9 +13761,9 @@
     },
     {
         "stop": "40D067F126426DC6",
-        "name_en": "JORDAN (WEST KOWLOON STATION) BUS TERMINUS (YT957)",
-        "name_tc": "佐敦(西九龍站)巴士總站 (YT957)",
-        "name_sc": "佐敦(西九龙站)巴士总站 (YT957)",
+        "name_en": "HIGH SPEED RAIL WEST KOWLOON STATION BUS TERMINUS",
+        "name_tc": "高鐵(西九龍站)巴士總站 (YT957)",
+        "name_sc": "高铁(西九龙站)巴士总站 (YT957)",
         "lat": "22.307550",
         "long": "114.164551"
     },
@@ -14680,6 +14728,14 @@
         "long": "114.184162"
     },
     {
+        "stop": "4548FBAF08E3BF71",
+        "name_en": "MILLENNIUM CITY (KT341)",
+        "name_tc": "創紀之城 (KT341)",
+        "name_sc": "创纪之城 (KT341)",
+        "lat": "22.314442",
+        "long": "114.221302"
+    },
+    {
         "stop": "455338DEEC08A032",
         "name_en": "SEAVIEW GARDEN (ED275)",
         "name_tc": "海景台 (ED275)",
@@ -14753,9 +14809,9 @@
     },
     {
         "stop": "457F82CA73DB77ED",
-        "name_en": "JORDAN ROAD WEST KOWLOON STATION (YT241)",
-        "name_tc": "佐敦道西九龍站 (YT241)",
-        "name_sc": "佐敦道西九龙站 (YT241)",
+        "name_en": "JORDAN ROAD, HIGH SPEED RAIL STATION (YT241)",
+        "name_tc": "佐敦道,高鐵站 (YT241)",
+        "name_sc": "佐敦道,高铁站 (YT241)",
         "lat": "22.306180",
         "long": "114.166315"
     },
@@ -16457,9 +16513,9 @@
     },
     {
         "stop": "4DB8054CDFBB9E43",
-        "name_en": "WEST KOWLOON STATION (YT280)",
-        "name_tc": "西九龍站 (YT280)",
-        "name_sc": "西九龙站 (YT280)",
+        "name_en": "HIGH SPEED RAIL WEST KOWLOON STATION (YT280)",
+        "name_tc": "高鐵西九龍站 (YT280)",
+        "name_sc": "高铁西九龙站 (YT280)",
         "lat": "22.304171",
         "long": "114.166525"
     },
@@ -16582,14 +16638,6 @@
         "name_sc": "新葵兴花园 (KW458)",
         "lat": "22.362423",
         "long": "114.132128"
-    },
-    {
-        "stop": "4E42234F86ABC6E3",
-        "name_en": "JORDAN (WEST KOWLOON STATION) BUS TERMINUS (YT950)",
-        "name_tc": "佐敦(西九龍站)巴士總站 (YT950)",
-        "name_sc": "佐敦(西九龙站)巴士总站 (YT950)",
-        "lat": "22.307517",
-        "long": "114.164814"
     },
     {
         "stop": "4E56DD827C1F571A",
@@ -17001,9 +17049,9 @@
     },
     {
         "stop": "508D1C5BF90CE574",
-        "name_en": "JORDAN (WEST KOWLOON STATION) BUS TERMINUS (YT960)",
-        "name_tc": "佐敦(西九龍站)巴士總站 (YT960)",
-        "name_sc": "佐敦(西九龙站)巴士总站 (YT960)",
+        "name_en": "HIGH SPEED RAIL WEST KOWLOON STATION BUS TERMINUS",
+        "name_tc": "高鐵(西九龍站)巴士總站 (YT960)",
+        "name_sc": "高铁(西九龙站)巴士总站 (YT960)",
         "lat": "22.307550",
         "long": "114.164551"
     },
@@ -18384,6 +18432,14 @@
         "long": "113.993453"
     },
     {
+        "stop": "56E5C65B4893D75C",
+        "name_en": "TAK SHING STREET TSIM SHA TSUI (YT555)",
+        "name_tc": "尖沙咀德成街 (YT555)",
+        "name_sc": "尖沙咀德成街 (YT555)",
+        "lat": "22.304530",
+        "long": "114.171826"
+    },
+    {
         "stop": "56E62E497943CFAA",
         "name_en": "LOK WAH BUS TERMINUS (KT865)",
         "name_tc": "樂華總站 (KT865)",
@@ -18817,9 +18873,9 @@
     },
     {
         "stop": "58C01C52768108CC",
-        "name_en": "JORDAN (WEST KOWLOON STATION) BUS TERMINUS (YT951)",
-        "name_tc": "佐敦(西九龍站)巴士總站 (YT951)",
-        "name_sc": "佐敦(西九龙站)巴士总站 (YT951)",
+        "name_en": "HIGH SPEED RAIL WEST KOWLOON STATION BUS TERMINUS",
+        "name_tc": "高鐵(西九龍站)巴士總站 (YT951)",
+        "name_sc": "高铁(西九龙站)巴士总站 (YT951)",
         "lat": "22.307550",
         "long": "114.164551"
     },
@@ -18873,9 +18929,9 @@
     },
     {
         "stop": "593DE4298B444E66",
-        "name_en": "KOWLOON STATION BUS TERMINUS (YT948)",
-        "name_tc": "九龍站巴士總站 (YT948)",
-        "name_sc": "九龙站巴士总站 (YT948)",
+        "name_en": "KOWLOON STATION, HIGH SPEED RAIL STATION (YT948)",
+        "name_tc": "九龍站,高鐵站 (YT948)",
+        "name_sc": "九龙站,高铁站 (YT948)",
         "lat": "22.305079",
         "long": "114.162604"
     },
@@ -20409,9 +20465,9 @@
     },
     {
         "stop": "6085C420AB7E6FF9",
-        "name_en": "JORDAN ROAD WEST KOWLOON STATION (YT240)",
-        "name_tc": "佐敦道西九龍站 (YT240)",
-        "name_sc": "佐敦道西九龙站 (YT240)",
+        "name_en": "JORDAN ROAD, HIGH SPEED RAIL STATION (YT240)",
+        "name_tc": "佐敦道,高鐵站 (YT240)",
+        "name_sc": "佐敦道,高铁站 (YT240)",
         "lat": "22.306180",
         "long": "114.166315"
     },
@@ -20838,6 +20894,14 @@
         "name_sc": "元朗喜利径 (YL366)",
         "lat": "22.444661",
         "long": "114.025612"
+    },
+    {
+        "stop": "6265ADC5B1D37D6C",
+        "name_en": "KOWLOON PARK DRIVE (YT640)",
+        "name_tc": "九龍公園徑 (YT640)",
+        "name_sc": "九龙公园径 (YT640)",
+        "lat": "22.295997",
+        "long": "114.170136"
     },
     {
         "stop": "62742CFBA2BE9854",
@@ -22241,9 +22305,9 @@
     },
     {
         "stop": "68A0FA3CC69206CC",
-        "name_en": "KOWLOON STATION BUS TERMINUS (YT946)",
-        "name_tc": "九龍站巴士總站 (YT946)",
-        "name_sc": "九龙站巴士总站 (YT946)",
+        "name_en": "KOWLOON STATION, HIGH SPEED RAIL STATION (YT946)",
+        "name_tc": "九龍站,高鐵站 (YT946)",
+        "name_sc": "九龙站,高铁站 (YT946)",
         "lat": "22.305015",
         "long": "114.162893"
     },
@@ -23408,6 +23472,14 @@
         "long": "114.006455"
     },
     {
+        "stop": "6E4C75B59DEF3D89",
+        "name_en": "CHARMING GARDEN (MK122)",
+        "name_tc": "富榮花園 (MK122)",
+        "name_sc": "富荣花园 (MK122)",
+        "lat": "22.313988",
+        "long": "114.164449"
+    },
+    {
         "stop": "6E5B15E36D4974D6",
         "name_en": "SHEUNG TSUEN VILLAGE OFFICE",
         "name_tc": "上村村公所",
@@ -24030,6 +24102,14 @@
         "name_sc": "旺角站 (MK621)",
         "lat": "22.319454",
         "long": "114.170828"
+    },
+    {
+        "stop": "714E854D63623C93",
+        "name_en": "LAI YIP STREET, KWUN TONG (KT201)",
+        "name_tc": "觀塘勵業街 (KT201)",
+        "name_sc": "观塘励业街 (KT201)",
+        "lat": "22.314912",
+        "long": "114.216362"
     },
     {
         "stop": "714F28F2DEB4EB4F",
@@ -25953,9 +26033,9 @@
     },
     {
         "stop": "7B4FD0F182DCC294",
-        "name_en": "JORDAN ROAD WEST KOWLOON STATION (YT674b)",
-        "name_tc": "佐敦道西九龍站 (YT674b)",
-        "name_sc": "佐敦道西九龙站 (YT674b)",
+        "name_en": "JORDAN ROAD, HIGH SPEED RAIL STATION (YT674b)",
+        "name_tc": "佐敦道,高鐵站 (YT674b)",
+        "name_sc": "佐敦道,高铁站 (YT674b)",
         "lat": "22.305945",
         "long": "114.166374"
     },
@@ -26550,6 +26630,14 @@
         "name_sc": "采颐花园 (WT301)",
         "lat": "22.335055",
         "long": "114.201602"
+    },
+    {
+        "stop": "7EC4B2C80047770A",
+        "name_en": "CHUNG WUI STREET TAI KOK TSUI (MK296)",
+        "name_tc": "大角咀中匯街 (MK296)",
+        "name_sc": "大角咀中汇街 (MK296)",
+        "lat": "22.322767",
+        "long": "114.159836"
     },
     {
         "stop": "7EC5C567E35D2805",
@@ -27193,9 +27281,9 @@
     },
     {
         "stop": "818CD5D5B9FD5B97",
-        "name_en": "KOWLOON STATION BUS TERMINUS (YT940)",
-        "name_tc": "九龍站巴士總站 (YT940)",
-        "name_sc": "九龙站巴士总站 (YT940)",
+        "name_en": "KOWLOON STATION, HIGH SPEED RAIL STATION (YT940)",
+        "name_tc": "九龍站,高鐵站 (YT940)",
+        "name_sc": "九龙站,高铁站 (YT940)",
         "lat": "22.305007",
         "long": "114.162950"
     },
@@ -27713,9 +27801,9 @@
     },
     {
         "stop": "83C964C7AF464F05",
-        "name_en": "JORDAN (WEST KOWLOON STATION) BUS TERMINUS (YT959)",
-        "name_tc": "佐敦(西九龍站)巴士總站 (YT959)",
-        "name_sc": "佐敦(西九龙站)巴士总站 (YT959)",
+        "name_en": "HIGH SPEED RAIL WEST KOWLOON STATION BUS TERMINUS",
+        "name_tc": "高鐵(西九龍站)巴士總站 (YT959)",
+        "name_sc": "高铁(西九龙站)巴士总站 (YT959)",
         "lat": "22.307550",
         "long": "114.164551"
     },
@@ -28153,9 +28241,9 @@
     },
     {
         "stop": "8611CE1D516C6A6F",
-        "name_en": "KOWLOON STATION BUS TERMINUS",
-        "name_tc": "九龍站巴士總站",
-        "name_sc": "九龙站巴士总站",
+        "name_en": "KOWLOON STATION, HIGH SPEED RAIL STATION",
+        "name_tc": "九龍站,高鐵站",
+        "name_sc": "九龙站,高铁站",
         "lat": "22.305068",
         "long": "114.162626"
     },
@@ -28913,9 +29001,9 @@
     },
     {
         "stop": "89A8085A1605FDB4",
-        "name_en": "JORDAN ROAD WEST KOWLOON STATION (YT676)",
-        "name_tc": "佐敦道西九龍站 (YT676)",
-        "name_sc": "佐敦道西九龙站 (YT676)",
+        "name_en": "JORDAN ROAD, HIGH SPEED RAIL STATION (YT676)",
+        "name_tc": "佐敦道,高鐵站 (YT676)",
+        "name_sc": "佐敦道,高铁站 (YT676)",
         "lat": "22.306354",
         "long": "114.164444"
     },
@@ -31769,9 +31857,9 @@
     },
     {
         "stop": "98F2067168C267FE",
-        "name_en": "JORDAN ROAD WEST KOWLOON STATION (YT242)",
-        "name_tc": "佐敦道西九龍站 (YT242)",
-        "name_sc": "佐敦道西九龙站 (YT242)",
+        "name_en": "JORDAN ROAD, HIGH SPEED RAIL STATION (YT242)",
+        "name_tc": "佐敦道,高鐵站 (YT242)",
+        "name_sc": "佐敦道,高铁站 (YT242)",
         "lat": "22.306180",
         "long": "114.166315"
     },
@@ -32257,9 +32345,9 @@
     },
     {
         "stop": "9B45E50457274D2F",
-        "name_en": "KOWLOON STATION BUS TERMINUS (YT945)",
-        "name_tc": "九龍站巴士總站 (YT945)",
-        "name_sc": "九龙站巴士总站 (YT945)",
+        "name_en": "KOWLOON STATION, HIGH SPEED RAIL STATION (YT945)",
+        "name_tc": "九龍站,高鐵站 (YT945)",
+        "name_sc": "九龙站,高铁站 (YT945)",
         "lat": "22.305015",
         "long": "114.162893"
     },
@@ -32270,6 +32358,14 @@
         "name_sc": "富蝶总站 (TP926)",
         "lat": "22.462699",
         "long": "114.176025"
+    },
+    {
+        "stop": "9B62732E0E1E537C",
+        "name_en": "OLYMPIC STATION (MK297)",
+        "name_tc": "奧運站 (MK297)",
+        "name_sc": "奥运站 (MK297)",
+        "lat": "22.318545",
+        "long": "114.160606"
     },
     {
         "stop": "9B664F8FD4E76E48",
@@ -36145,9 +36241,9 @@
     },
     {
         "stop": "AC8828CF13B8AA49",
-        "name_en": "WEST KOWLOON STATION (YT282)",
-        "name_tc": "西九龍站 (YT282)",
-        "name_sc": "西九龙站 (YT282)",
+        "name_en": "HIGH SPEED RAIL WEST KOWLOON STATION (YT282)",
+        "name_tc": "高鐵西九龍站 (YT282)",
+        "name_sc": "高铁西九龙站 (YT282)",
         "lat": "22.304014",
         "long": "114.166620"
     },
@@ -37904,6 +38000,14 @@
         "long": "114.257688"
     },
     {
+        "stop": "B568727F49CD11A3",
+        "name_en": "KAI TAK TUNNEL BBI - KAI FUK ROAD (KT590)",
+        "name_tc": "啟隧轉車站-啟福道 (KT590)",
+        "name_sc": "启隧转车站-启福道 (KT590)",
+        "lat": "22.323065",
+        "long": "114.203197"
+    },
+    {
         "stop": "B577AC1835FA7995",
         "name_en": "SHEK KIP MEI STREET (SS641)",
         "name_tc": "石硤尾街 (SS641)",
@@ -38254,14 +38358,6 @@
         "name_sc": "火炭骏洋邨 (FT934)",
         "lat": "22.399154",
         "long": "114.190288"
-    },
-    {
-        "stop": "B74273D52D064437",
-        "name_en": "KOWLOON PARK DRIVE (YT640)",
-        "name_tc": "九龍公園徑 (YT640)",
-        "name_sc": "九龙公园径 (YT640)",
-        "lat": "22.295997",
-        "long": "114.170136"
     },
     {
         "stop": "B75CD6E70417E21B",
@@ -39529,9 +39625,9 @@
     },
     {
         "stop": "BD9C8BC4A5FCEC12",
-        "name_en": "KOWLOON STATION BUS TERMINUS (YT941)",
-        "name_tc": "九龍站巴士總站 (YT941)",
-        "name_sc": "九龙站巴士总站 (YT941)",
+        "name_en": "KOWLOON STATION, HIGH SPEED RAIL STATION (YT941)",
+        "name_tc": "九龍站,高鐵站 (YT941)",
+        "name_sc": "九龙站,高铁站 (YT941)",
         "lat": "22.305079",
         "long": "114.162604"
     },
@@ -40600,6 +40696,14 @@
         "long": "114.186006"
     },
     {
+        "stop": "C2593FE9DA3A0099",
+        "name_en": "SHUN YIP STREET, KWUN TONG (KT200)",
+        "name_tc": "觀塘順業街 (KT200)",
+        "name_sc": "观塘顺业街 (KT200)",
+        "lat": "22.316313",
+        "long": "114.214785"
+    },
+    {
         "stop": "C25EB13977ABF04E",
         "name_en": "TSUI CHUK GARDEN (WT931)",
         "name_tc": "翠竹花園 (WT931)",
@@ -40800,14 +40904,6 @@
         "long": "114.165291"
     },
     {
-        "stop": "C35DF653E02636CD",
-        "name_en": "JORDAN (WEST KOWLOON STATION) BUS TERMINUS (YT952)",
-        "name_tc": "佐敦(西九龍站)巴士總站 (YT952)",
-        "name_sc": "佐敦(西九龙站)巴士总站 (YT952)",
-        "lat": "22.307550",
-        "long": "114.164551"
-    },
-    {
         "stop": "C360EB0956976C4D",
         "name_en": "CENTRAL FERRY PIER NO.3",
         "name_tc": "中環三號碼頭",
@@ -40846,6 +40942,14 @@
         "name_sc": "红磡南道 (HH635)",
         "lat": "22.305437",
         "long": "114.185238"
+    },
+    {
+        "stop": "C3959EAA44E6B4DF",
+        "name_en": "SAN SHAN ROAD",
+        "name_tc": "新山道",
+        "name_sc": "新山道",
+        "lat": "22.322068",
+        "long": "114.187728"
     },
     {
         "stop": "C3D18DE248C7C435",
@@ -41358,6 +41462,14 @@
         "name_sc": "马牯缆 (SK303)",
         "lat": "22.425726",
         "long": "114.262745"
+    },
+    {
+        "stop": "C69F10C6D4676331",
+        "name_en": "KWUN TONG BBI-KWUN TONG TOWN CENTRE (KT348)",
+        "name_tc": "觀塘轉車站-觀塘市中心 (KT348)",
+        "name_sc": "观塘转车站-观塘市中心 (KT348)",
+        "lat": "22.313264",
+        "long": "114.224346"
     },
     {
         "stop": "C6A76DB999AF1213",
@@ -43289,9 +43401,9 @@
     },
     {
         "stop": "D06E5A5B162EF1BA",
-        "name_en": "WUI CHEUNG ROAD, AUSTIN STATION (YT201)",
-        "name_tc": "匯翔道  柯士甸站 (YT201)",
-        "name_sc": "汇翔道  柯士甸站 (YT201)",
+        "name_en": "WUI CHEUNG ROAD, HIGH SPEED RAIL STATION (YT201)",
+        "name_tc": "匯翔道,高鐵站 (YT201)",
+        "name_sc": "汇翔道,高铁站 (YT201)",
         "lat": "22.304716",
         "long": "114.167704"
     },
@@ -46097,9 +46209,9 @@
     },
     {
         "stop": "DD161A7AB0D39192",
-        "name_en": "JORDAN ROAD WEST KOWLOON STATION (YT675)",
-        "name_tc": "佐敦道西九龍站 (YT675)",
-        "name_sc": "佐敦道西九龙站 (YT675)",
+        "name_en": "JORDAN ROAD, HIGH SPEED RAIL STATION (YT675)",
+        "name_tc": "佐敦道,高鐵站 (YT675)",
+        "name_sc": "佐敦道,高铁站 (YT675)",
         "lat": "22.306354",
         "long": "114.164444"
     },
@@ -46216,6 +46328,14 @@
         "long": "114.062922"
     },
     {
+        "stop": "DE1F8505C6154534",
+        "name_en": "FOO KWAI STREET (MK202)",
+        "name_tc": "富貴街 (MK202)",
+        "name_sc": "富贵街 (MK202)",
+        "lat": "22.318849",
+        "long": "114.161872"
+    },
+    {
         "stop": "DE27CD3EB0AF43D8",
         "name_en": "FA YUEN STREET MARKET, MONG KOK ROAD (MK333)",
         "name_tc": "旺角道 花園街街市 (MK333)",
@@ -46230,6 +46350,14 @@
         "name_sc": "青衣邨宜伟楼 (TY220)",
         "lat": "22.355252",
         "long": "114.103485"
+    },
+    {
+        "stop": "DE46A23558FD6CF6",
+        "name_en": "TAI PO MEGA MALL (TP317)",
+        "name_tc": "大埔超級城 (TP317)",
+        "name_sc": "大埔超级城 (TP317)",
+        "lat": "22.451195",
+        "long": "114.169901"
     },
     {
         "stop": "DE56F722C9293A68",
@@ -46257,9 +46385,9 @@
     },
     {
         "stop": "DE620CFFEE15A211",
-        "name_en": "JORDAN (WEST KOWLOON STATION) BUS TERMINUS (YT955)",
-        "name_tc": "佐敦(西九龍站)巴士總站 (YT955)",
-        "name_sc": "佐敦(西九龙站)巴士总站 (YT955)",
+        "name_en": "HIGH SPEED RAIL WEST KOWLOON STATION BUS TERMINUS",
+        "name_tc": "高鐵(西九龍站)巴士總站 (YT955)",
+        "name_sc": "高铁(西九龙站)巴士总站 (YT955)",
         "lat": "22.307550",
         "long": "114.164551"
     },
@@ -46592,6 +46720,14 @@
         "long": "113.979679"
     },
     {
+        "stop": "E026DEF40AE536AA",
+        "name_en": "KWONG FUK ESTATE (TP575)",
+        "name_tc": "廣福邨 (TP575)",
+        "name_sc": "广福邨 (TP575)",
+        "lat": "22.446623",
+        "long": "114.173374"
+    },
+    {
         "stop": "E02E10C9135624F9",
         "name_en": "MING KEI COLLEGE (MK632)",
         "name_tc": "銘基書院 (MK632)",
@@ -46870,14 +47006,6 @@
         "name_sc": "荃湾站 (TW460)",
         "lat": "22.374488",
         "long": "114.115819"
-    },
-    {
-        "stop": "E1DA8EB2EA9A4B3C",
-        "name_en": "JORDAN (WEST KOWLOON STATION) BUS TERMINUS (YT953)",
-        "name_tc": "佐敦(西九龍站)巴士總站 (YT953)",
-        "name_sc": "佐敦(西九龙站)巴士总站 (YT953)",
-        "lat": "22.307550",
-        "long": "114.164551"
     },
     {
         "stop": "E1EAFF3759608D41",
@@ -48592,6 +48720,14 @@
         "long": "114.162879"
     },
     {
+        "stop": "E9F673D418FA9E71",
+        "name_en": "LAGUNA PARK (LT421)",
+        "name_tc": "麗港公園 (LT421)",
+        "name_sc": "丽港公园 (LT421)",
+        "lat": "22.307955",
+        "long": "114.226733"
+    },
+    {
         "stop": "EA01416B0BB7E485",
         "name_en": "NETHERSOLE HOSPITAL (TP921)",
         "name_tc": "那打素醫院 (TP921)",
@@ -49401,9 +49537,9 @@
     },
     {
         "stop": "EDE9E3D28B42969D",
-        "name_en": "KOWLOON STATION BUS TERMINUS (YT943)",
-        "name_tc": "九龍站巴士總站 (YT943)",
-        "name_sc": "九龙站巴士总站 (YT943)",
+        "name_en": "KOWLOON STATION, HIGH SPEED RAIL STATION (YT943)",
+        "name_tc": "九龍站,高鐵站 (YT943)",
+        "name_sc": "九龙站,高铁站 (YT943)",
         "lat": "22.305051",
         "long": "114.162734"
     },
@@ -49958,6 +50094,14 @@
         "name_sc": "友爱邨 (TM166)",
         "lat": "22.388021",
         "long": "113.975114"
+    },
+    {
+        "stop": "F053C0080D5D5B62",
+        "name_en": "PARKES STREET, TEMPLE STREET NIGHT MARKET (YT671)",
+        "name_tc": "白加士街 廟街夜市 (YT671)",
+        "name_sc": "白加士街 庙街夜市 (YT671)",
+        "lat": "22.305172",
+        "long": "114.170361"
     },
     {
         "stop": "F05A07492FBBAB3F",
@@ -51529,9 +51673,9 @@
     },
     {
         "stop": "F6EE4DC41A299593",
-        "name_en": "WUI CHEUNG ROAD, AUSTIN STATION (YT200)",
-        "name_tc": "匯翔道  柯士甸站 (YT200)",
-        "name_sc": "汇翔道  柯士甸站 (YT200)",
+        "name_en": "WUI CHEUNG ROAD, HIGH SPEED RAIL STATION (YT200)",
+        "name_tc": "匯翔道,高鐵站 (YT200)",
+        "name_sc": "汇翔道,高铁站 (YT200)",
         "lat": "22.304334",
         "long": "114.167837"
     },
@@ -53417,9 +53561,9 @@
     },
     {
         "stop": "FF46CB6182028AC6",
-        "name_en": "KOWLOON STATION BUS TERMINUS (YT942)",
-        "name_tc": "九龍站巴士總站 (YT942)",
-        "name_sc": "九龙站巴士总站 (YT942)",
+        "name_en": "KOWLOON STATION, HIGH SPEED RAIL STATION (YT942)",
+        "name_tc": "九龍站,高鐵站 (YT942)",
+        "name_sc": "九龙站,高铁站 (YT942)",
         "lat": "22.305079",
         "long": "114.162604"
     },

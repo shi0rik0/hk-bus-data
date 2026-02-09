@@ -9173,7 +9173,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "593DE4298B444E66",
-        "stop_name_tc": "九龍站巴士總站 (YT948)"
+        "stop_name_tc": "九龍站,高鐵站 (YT948)"
     },
     {
         "route": "11",
@@ -9381,7 +9381,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "C3959EAA44E6B4DF",
-        "stop_name_tc": null
+        "stop_name_tc": "新山道"
     },
     {
         "route": "11",
@@ -9397,7 +9397,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "1AD6D7010C8B1C45",
-        "stop_name_tc": null
+        "stop_name_tc": "土瓜灣上鄉道"
     },
     {
         "route": "11",
@@ -9461,7 +9461,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "593DE4298B444E66",
-        "stop_name_tc": "九龍站巴士總站 (YT948)"
+        "stop_name_tc": "九龍站,高鐵站 (YT948)"
     },
     {
         "route": "110",
@@ -9613,7 +9613,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "F6EE4DC41A299593",
-        "stop_name_tc": "匯翔道  柯士甸站 (YT200)"
+        "stop_name_tc": "匯翔道,高鐵站 (YT200)"
     },
     {
         "route": "110",
@@ -9989,7 +9989,7 @@
         "service_type": "2",
         "seq": "19",
         "stop": "F6EE4DC41A299593",
-        "stop_name_tc": "匯翔道  柯士甸站 (YT200)"
+        "stop_name_tc": "匯翔道,高鐵站 (YT200)"
     },
     {
         "route": "110",
@@ -10165,7 +10165,7 @@
         "service_type": "5",
         "seq": "19",
         "stop": "343CF2F6ADACAACC",
-        "stop_name_tc": "西九龍站 (YT283)"
+        "stop_name_tc": "高鐵西九龍站 (YT283)"
     },
     {
         "route": "110",
@@ -10173,7 +10173,7 @@
         "service_type": "5",
         "seq": "20",
         "stop": "F6EE4DC41A299593",
-        "stop_name_tc": "匯翔道  柯士甸站 (YT200)"
+        "stop_name_tc": "匯翔道,高鐵站 (YT200)"
     },
     {
         "route": "110",
@@ -10549,7 +10549,7 @@
         "service_type": "6",
         "seq": "19",
         "stop": "343CF2F6ADACAACC",
-        "stop_name_tc": "西九龍站 (YT283)"
+        "stop_name_tc": "高鐵西九龍站 (YT283)"
     },
     {
         "route": "110",
@@ -10557,7 +10557,7 @@
         "service_type": "6",
         "seq": "20",
         "stop": "F6EE4DC41A299593",
-        "stop_name_tc": "匯翔道  柯士甸站 (YT200)"
+        "stop_name_tc": "匯翔道,高鐵站 (YT200)"
     },
     {
         "route": "110",
@@ -17381,7 +17381,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "F6EE4DC41A299593",
-        "stop_name_tc": "匯翔道  柯士甸站 (YT200)"
+        "stop_name_tc": "匯翔道,高鐵站 (YT200)"
     },
     {
         "route": "12",
@@ -17901,7 +17901,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "F6EE4DC41A299593",
-        "stop_name_tc": "匯翔道  柯士甸站 (YT200)"
+        "stop_name_tc": "匯翔道,高鐵站 (YT200)"
     },
     {
         "route": "12P",
@@ -21413,7 +21413,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "C3959EAA44E6B4DF",
-        "stop_name_tc": null
+        "stop_name_tc": "新山道"
     },
     {
         "route": "14",
@@ -21421,7 +21421,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "1AD6D7010C8B1C45",
-        "stop_name_tc": null
+        "stop_name_tc": "土瓜灣上鄉道"
     },
     {
         "route": "14",
@@ -21477,7 +21477,7 @@
         "service_type": "1",
         "seq": "27",
         "stop": "D06E5A5B162EF1BA",
-        "stop_name_tc": "匯翔道  柯士甸站 (YT201)"
+        "stop_name_tc": "匯翔道,高鐵站 (YT201)"
     },
     {
         "route": "14",
@@ -31709,7 +31709,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "818CD5D5B9FD5B97",
-        "stop_name_tc": "九龍站巴士總站 (YT940)"
+        "stop_name_tc": "九龍站,高鐵站 (YT940)"
     },
     {
         "route": "203E",
@@ -32125,7 +32125,7 @@
         "service_type": "1",
         "seq": "26",
         "stop": "818CD5D5B9FD5B97",
-        "stop_name_tc": "九龍站巴士總站 (YT940)"
+        "stop_name_tc": "九龍站,高鐵站 (YT940)"
     },
     {
         "route": "203S",
@@ -33661,7 +33661,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "FF46CB6182028AC6",
-        "stop_name_tc": "九龍站巴士總站 (YT942)"
+        "stop_name_tc": "九龍站,高鐵站 (YT942)"
     },
     {
         "route": "213E",
@@ -33845,7 +33845,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "B568727F49CD11A3",
-        "stop_name_tc": null
+        "stop_name_tc": "啟隧轉車站-啟福道 (KT590)"
     },
     {
         "route": "213E",
@@ -33901,7 +33901,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "FF46CB6182028AC6",
-        "stop_name_tc": "九龍站巴士總站 (YT942)"
+        "stop_name_tc": "九龍站,高鐵站 (YT942)"
     },
     {
         "route": "213M",
@@ -35677,7 +35677,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "B568727F49CD11A3",
-        "stop_name_tc": null
+        "stop_name_tc": "啟隧轉車站-啟福道 (KT590)"
     },
     {
         "route": "215P",
@@ -35741,7 +35741,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "FF46CB6182028AC6",
-        "stop_name_tc": "九龍站巴士總站 (YT942)"
+        "stop_name_tc": "九龍站,高鐵站 (YT942)"
     },
     {
         "route": "215R",
@@ -35933,7 +35933,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "FF46CB6182028AC6",
-        "stop_name_tc": "九龍站巴士總站 (YT942)"
+        "stop_name_tc": "九龍站,高鐵站 (YT942)"
     },
     {
         "route": "215X",
@@ -36245,7 +36245,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "B568727F49CD11A3",
-        "stop_name_tc": null
+        "stop_name_tc": "啟隧轉車站-啟福道 (KT590)"
     },
     {
         "route": "215X",
@@ -36317,7 +36317,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "FF46CB6182028AC6",
-        "stop_name_tc": "九龍站巴士總站 (YT942)"
+        "stop_name_tc": "九龍站,高鐵站 (YT942)"
     },
     {
         "route": "215X",
@@ -36413,7 +36413,7 @@
         "service_type": "2",
         "seq": "12",
         "stop": "B568727F49CD11A3",
-        "stop_name_tc": null
+        "stop_name_tc": "啟隧轉車站-啟福道 (KT590)"
     },
     {
         "route": "215X",
@@ -36477,7 +36477,7 @@
         "service_type": "2",
         "seq": "20",
         "stop": "FF46CB6182028AC6",
-        "stop_name_tc": "九龍站巴士總站 (YT942)"
+        "stop_name_tc": "九龍站,高鐵站 (YT942)"
     },
     {
         "route": "216M",
@@ -37957,7 +37957,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "B74273D52D064437",
-        "stop_name_tc": "九龍公園徑 (YT640)"
+        "stop_name_tc": null
     },
     {
         "route": "230R",
@@ -37981,7 +37981,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "68A0FA3CC69206CC",
-        "stop_name_tc": "九龍站巴士總站 (YT946)"
+        "stop_name_tc": "九龍站,高鐵站 (YT946)"
     },
     {
         "route": "230R",
@@ -37989,7 +37989,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "68A0FA3CC69206CC",
-        "stop_name_tc": "九龍站巴士總站 (YT946)"
+        "stop_name_tc": "九龍站,高鐵站 (YT946)"
     },
     {
         "route": "230R",
@@ -40909,7 +40909,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "D06E5A5B162EF1BA",
-        "stop_name_tc": "匯翔道  柯士甸站 (YT201)"
+        "stop_name_tc": "匯翔道,高鐵站 (YT201)"
     },
     {
         "route": "238P",
@@ -41213,7 +41213,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "D06E5A5B162EF1BA",
-        "stop_name_tc": "匯翔道  柯士甸站 (YT201)"
+        "stop_name_tc": "匯翔道,高鐵站 (YT201)"
     },
     {
         "route": "238X",
@@ -51941,7 +51941,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "7B4FD0F182DCC294",
-        "stop_name_tc": "佐敦道西九龍站 (YT674b)"
+        "stop_name_tc": "佐敦道,高鐵站 (YT674b)"
     },
     {
         "route": "260X",
@@ -52141,7 +52141,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "4DB8054CDFBB9E43",
-        "stop_name_tc": "西九龍站 (YT280)"
+        "stop_name_tc": "高鐵西九龍站 (YT280)"
     },
     {
         "route": "260X",
@@ -52149,7 +52149,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "F6EE4DC41A299593",
-        "stop_name_tc": "匯翔道  柯士甸站 (YT200)"
+        "stop_name_tc": "匯翔道,高鐵站 (YT200)"
     },
     {
         "route": "260X",
@@ -52277,7 +52277,7 @@
         "service_type": "3",
         "seq": "9",
         "stop": "4DB8054CDFBB9E43",
-        "stop_name_tc": "西九龍站 (YT280)"
+        "stop_name_tc": "高鐵西九龍站 (YT280)"
     },
     {
         "route": "260X",
@@ -52285,7 +52285,7 @@
         "service_type": "3",
         "seq": "10",
         "stop": "F6EE4DC41A299593",
-        "stop_name_tc": "匯翔道  柯士甸站 (YT200)"
+        "stop_name_tc": "匯翔道,高鐵站 (YT200)"
     },
     {
         "route": "260X",
@@ -52989,7 +52989,7 @@
         "service_type": "1",
         "seq": "34",
         "stop": "EDE9E3D28B42969D",
-        "stop_name_tc": "九龍站巴士總站 (YT943)"
+        "stop_name_tc": "九龍站,高鐵站 (YT943)"
     },
     {
         "route": "261B",
@@ -53245,7 +53245,7 @@
         "service_type": "2",
         "seq": "32",
         "stop": "EDE9E3D28B42969D",
-        "stop_name_tc": "九龍站巴士總站 (YT943)"
+        "stop_name_tc": "九龍站,高鐵站 (YT943)"
     },
     {
         "route": "261P",
@@ -58317,7 +58317,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "7B4FD0F182DCC294",
-        "stop_name_tc": "佐敦道西九龍站 (YT674b)"
+        "stop_name_tc": "佐敦道,高鐵站 (YT674b)"
     },
     {
         "route": "268B",
@@ -58509,7 +58509,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "4DB8054CDFBB9E43",
-        "stop_name_tc": "西九龍站 (YT280)"
+        "stop_name_tc": "高鐵西九龍站 (YT280)"
     },
     {
         "route": "268B",
@@ -58517,7 +58517,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "F6EE4DC41A299593",
-        "stop_name_tc": "匯翔道  柯士甸站 (YT200)"
+        "stop_name_tc": "匯翔道,高鐵站 (YT200)"
     },
     {
         "route": "268B",
@@ -58701,7 +58701,7 @@
         "service_type": "3",
         "seq": "17",
         "stop": "4DB8054CDFBB9E43",
-        "stop_name_tc": "西九龍站 (YT280)"
+        "stop_name_tc": "高鐵西九龍站 (YT280)"
     },
     {
         "route": "268B",
@@ -58709,7 +58709,7 @@
         "service_type": "3",
         "seq": "18",
         "stop": "F6EE4DC41A299593",
-        "stop_name_tc": "匯翔道  柯士甸站 (YT200)"
+        "stop_name_tc": "匯翔道,高鐵站 (YT200)"
     },
     {
         "route": "268B",
@@ -60229,7 +60229,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "DE620CFFEE15A211",
-        "stop_name_tc": "佐敦(西九龍站)巴士總站 (YT955)"
+        "stop_name_tc": "高鐵(西九龍站)巴士總站 (YT955)"
     },
     {
         "route": "268X",
@@ -60237,7 +60237,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "457F82CA73DB77ED",
-        "stop_name_tc": "佐敦道西九龍站 (YT241)"
+        "stop_name_tc": "佐敦道,高鐵站 (YT241)"
     },
     {
         "route": "268X",
@@ -60581,7 +60581,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "DE620CFFEE15A211",
-        "stop_name_tc": "佐敦(西九龍站)巴士總站 (YT955)"
+        "stop_name_tc": "高鐵(西九龍站)巴士總站 (YT955)"
     },
     {
         "route": "268X",
@@ -60709,7 +60709,7 @@
         "service_type": "3",
         "seq": "16",
         "stop": "DE620CFFEE15A211",
-        "stop_name_tc": "佐敦(西九龍站)巴士總站 (YT955)"
+        "stop_name_tc": "高鐵(西九龍站)巴士總站 (YT955)"
     },
     {
         "route": "269B",
@@ -60805,7 +60805,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "7B4FD0F182DCC294",
-        "stop_name_tc": "佐敦道西九龍站 (YT674b)"
+        "stop_name_tc": "佐敦道,高鐵站 (YT674b)"
     },
     {
         "route": "269B",
@@ -61005,7 +61005,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "4DB8054CDFBB9E43",
-        "stop_name_tc": "西九龍站 (YT280)"
+        "stop_name_tc": "高鐵西九龍站 (YT280)"
     },
     {
         "route": "269B",
@@ -61013,7 +61013,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "F6EE4DC41A299593",
-        "stop_name_tc": "匯翔道  柯士甸站 (YT200)"
+        "stop_name_tc": "匯翔道,高鐵站 (YT200)"
     },
     {
         "route": "269B",
@@ -61173,7 +61173,7 @@
         "service_type": "4",
         "seq": "14",
         "stop": "4DB8054CDFBB9E43",
-        "stop_name_tc": "西九龍站 (YT280)"
+        "stop_name_tc": "高鐵西九龍站 (YT280)"
     },
     {
         "route": "269B",
@@ -61181,7 +61181,7 @@
         "service_type": "4",
         "seq": "15",
         "stop": "F6EE4DC41A299593",
-        "stop_name_tc": "匯翔道  柯士甸站 (YT200)"
+        "stop_name_tc": "匯翔道,高鐵站 (YT200)"
     },
     {
         "route": "269B",
@@ -64093,7 +64093,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "DE620CFFEE15A211",
-        "stop_name_tc": "佐敦(西九龍站)巴士總站 (YT955)"
+        "stop_name_tc": "高鐵(西九龍站)巴士總站 (YT955)"
     },
     {
         "route": "269X",
@@ -64101,7 +64101,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "457F82CA73DB77ED",
-        "stop_name_tc": "佐敦道西九龍站 (YT241)"
+        "stop_name_tc": "佐敦道,高鐵站 (YT241)"
     },
     {
         "route": "269X",
@@ -64429,7 +64429,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "DE620CFFEE15A211",
-        "stop_name_tc": "佐敦(西九龍站)巴士總站 (YT955)"
+        "stop_name_tc": "高鐵(西九龍站)巴士總站 (YT955)"
     },
     {
         "route": "26M",
@@ -67797,7 +67797,7 @@
         "service_type": "1",
         "seq": "25",
         "stop": "DD161A7AB0D39192",
-        "stop_name_tc": "佐敦道西九龍站 (YT675)"
+        "stop_name_tc": "佐敦道,高鐵站 (YT675)"
     },
     {
         "route": "270P",
@@ -67805,7 +67805,7 @@
         "service_type": "1",
         "seq": "26",
         "stop": "8611CE1D516C6A6F",
-        "stop_name_tc": "九龍站巴士總站"
+        "stop_name_tc": "九龍站,高鐵站"
     },
     {
         "route": "270R",
@@ -68197,7 +68197,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "58C01C52768108CC",
-        "stop_name_tc": "佐敦(西九龍站)巴士總站 (YT951)"
+        "stop_name_tc": "高鐵(西九龍站)巴士總站 (YT951)"
     },
     {
         "route": "271",
@@ -68205,7 +68205,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "F6EE4DC41A299593",
-        "stop_name_tc": "匯翔道  柯士甸站 (YT200)"
+        "stop_name_tc": "匯翔道,高鐵站 (YT200)"
     },
     {
         "route": "271",
@@ -68405,7 +68405,7 @@
         "service_type": "2",
         "seq": "1",
         "stop": "58C01C52768108CC",
-        "stop_name_tc": "佐敦(西九龍站)巴士總站 (YT951)"
+        "stop_name_tc": "高鐵(西九龍站)巴士總站 (YT951)"
     },
     {
         "route": "271",
@@ -68413,7 +68413,7 @@
         "service_type": "2",
         "seq": "2",
         "stop": "F6EE4DC41A299593",
-        "stop_name_tc": "匯翔道  柯士甸站 (YT200)"
+        "stop_name_tc": "匯翔道,高鐵站 (YT200)"
     },
     {
         "route": "271",
@@ -68661,7 +68661,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "E026DEF40AE536AA",
-        "stop_name_tc": null
+        "stop_name_tc": "廣福邨 (TP575)"
     },
     {
         "route": "271",
@@ -68789,7 +68789,7 @@
         "service_type": "1",
         "seq": "24",
         "stop": "58C01C52768108CC",
-        "stop_name_tc": "佐敦(西九龍站)巴士總站 (YT951)"
+        "stop_name_tc": "高鐵(西九龍站)巴士總站 (YT951)"
     },
     {
         "route": "271A",
@@ -68829,7 +68829,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "01633AD5B1B978B4",
-        "stop_name_tc": "西九龍站 (YT281)"
+        "stop_name_tc": "高鐵西九龍站 (YT281)"
     },
     {
         "route": "271A",
@@ -69037,7 +69037,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "4DB8054CDFBB9E43",
-        "stop_name_tc": "西九龍站 (YT280)"
+        "stop_name_tc": "高鐵西九龍站 (YT280)"
     },
     {
         "route": "271A",
@@ -69045,7 +69045,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "F6EE4DC41A299593",
-        "stop_name_tc": "匯翔道  柯士甸站 (YT200)"
+        "stop_name_tc": "匯翔道,高鐵站 (YT200)"
     },
     {
         "route": "271A",
@@ -69093,7 +69093,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "58C01C52768108CC",
-        "stop_name_tc": "佐敦(西九龍站)巴士總站 (YT951)"
+        "stop_name_tc": "高鐵(西九龍站)巴士總站 (YT951)"
     },
     {
         "route": "271B",
@@ -69101,7 +69101,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "F6EE4DC41A299593",
-        "stop_name_tc": "匯翔道  柯士甸站 (YT200)"
+        "stop_name_tc": "匯翔道,高鐵站 (YT200)"
     },
     {
         "route": "271B",
@@ -69421,7 +69421,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "E026DEF40AE536AA",
-        "stop_name_tc": null
+        "stop_name_tc": "廣福邨 (TP575)"
     },
     {
         "route": "271B",
@@ -69621,7 +69621,7 @@
         "service_type": "1",
         "seq": "33",
         "stop": "58C01C52768108CC",
-        "stop_name_tc": "佐敦(西九龍站)巴士總站 (YT951)"
+        "stop_name_tc": "高鐵(西九龍站)巴士總站 (YT951)"
     },
     {
         "route": "271P",
@@ -69725,7 +69725,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "E026DEF40AE536AA",
-        "stop_name_tc": null
+        "stop_name_tc": "廣福邨 (TP575)"
     },
     {
         "route": "271P",
@@ -70229,7 +70229,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "58C01C52768108CC",
-        "stop_name_tc": "佐敦(西九龍站)巴士總站 (YT951)"
+        "stop_name_tc": "高鐵(西九龍站)巴士總站 (YT951)"
     },
     {
         "route": "271X",
@@ -70301,7 +70301,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "7B4FD0F182DCC294",
-        "stop_name_tc": "佐敦道西九龍站 (YT674b)"
+        "stop_name_tc": "佐敦道,高鐵站 (YT674b)"
     },
     {
         "route": "271X",
@@ -82605,7 +82605,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "DD161A7AB0D39192",
-        "stop_name_tc": "佐敦道西九龍站 (YT675)"
+        "stop_name_tc": "佐敦道,高鐵站 (YT675)"
     },
     {
         "route": "280X",
@@ -83013,7 +83013,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "9B45E50457274D2F",
-        "stop_name_tc": "九龍站巴士總站 (YT945)"
+        "stop_name_tc": "九龍站,高鐵站 (YT945)"
     },
     {
         "route": "281A",
@@ -83405,7 +83405,7 @@
         "service_type": "1",
         "seq": "23",
         "stop": "9B45E50457274D2F",
-        "stop_name_tc": "九龍站巴士總站 (YT945)"
+        "stop_name_tc": "九龍站,高鐵站 (YT945)"
     },
     {
         "route": "281B",
@@ -93261,7 +93261,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "EDE9E3D28B42969D",
-        "stop_name_tc": "九龍站巴士總站 (YT943)"
+        "stop_name_tc": "九龍站,高鐵站 (YT943)"
     },
     {
         "route": "296D",
@@ -93413,7 +93413,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "B568727F49CD11A3",
-        "stop_name_tc": null
+        "stop_name_tc": "啟隧轉車站-啟福道 (KT590)"
     },
     {
         "route": "296D",
@@ -93477,7 +93477,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "DD161A7AB0D39192",
-        "stop_name_tc": "佐敦道西九龍站 (YT675)"
+        "stop_name_tc": "佐敦道,高鐵站 (YT675)"
     },
     {
         "route": "296D",
@@ -93509,7 +93509,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "EDE9E3D28B42969D",
-        "stop_name_tc": "九龍站巴士總站 (YT943)"
+        "stop_name_tc": "九龍站,高鐵站 (YT943)"
     },
     {
         "route": "296M",
@@ -108109,7 +108109,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "508D1C5BF90CE574",
-        "stop_name_tc": "佐敦(西九龍站)巴士總站 (YT960)"
+        "stop_name_tc": "高鐵(西九龍站)巴士總站 (YT960)"
     },
     {
         "route": "36B",
@@ -108117,7 +108117,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "98F2067168C267FE",
-        "stop_name_tc": "佐敦道西九龍站 (YT242)"
+        "stop_name_tc": "佐敦道,高鐵站 (YT242)"
     },
     {
         "route": "36B",
@@ -108549,7 +108549,7 @@
         "service_type": "1",
         "seq": "30",
         "stop": "508D1C5BF90CE574",
-        "stop_name_tc": "佐敦(西九龍站)巴士總站 (YT960)"
+        "stop_name_tc": "高鐵(西九龍站)巴士總站 (YT960)"
     },
     {
         "route": "36M",
@@ -113565,7 +113565,7 @@
         "service_type": "1",
         "seq": "27",
         "stop": "D06E5A5B162EF1BA",
-        "stop_name_tc": "匯翔道  柯士甸站 (YT201)"
+        "stop_name_tc": "匯翔道,高鐵站 (YT201)"
     },
     {
         "route": "3C",
@@ -114749,7 +114749,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "D06E5A5B162EF1BA",
-        "stop_name_tc": "匯翔道  柯士甸站 (YT201)"
+        "stop_name_tc": "匯翔道,高鐵站 (YT201)"
     },
     {
         "route": "3X",
@@ -114933,7 +114933,7 @@
         "service_type": "2",
         "seq": "22",
         "stop": "D06E5A5B162EF1BA",
-        "stop_name_tc": "匯翔道  柯士甸站 (YT201)"
+        "stop_name_tc": "匯翔道,高鐵站 (YT201)"
     },
     {
         "route": "3X",
@@ -119213,7 +119213,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "83C964C7AF464F05",
-        "stop_name_tc": "佐敦(西九龍站)巴士總站 (YT959)"
+        "stop_name_tc": "高鐵(西九龍站)巴士總站 (YT959)"
     },
     {
         "route": "42A",
@@ -119221,7 +119221,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "98F2067168C267FE",
-        "stop_name_tc": "佐敦道西九龍站 (YT242)"
+        "stop_name_tc": "佐敦道,高鐵站 (YT242)"
     },
     {
         "route": "42A",
@@ -119589,7 +119589,7 @@
         "service_type": "1",
         "seq": "24",
         "stop": "83C964C7AF464F05",
-        "stop_name_tc": "佐敦(西九龍站)巴士總站 (YT959)"
+        "stop_name_tc": "高鐵(西九龍站)巴士總站 (YT959)"
     },
     {
         "route": "42C",
@@ -124345,27 +124345,11 @@
     },
     {
         "route": "46",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "33",
-        "stop": "4E42234F86ABC6E3",
-        "stop_name_tc": "佐敦(西九龍站)巴士總站 (YT950)"
-    },
-    {
-        "route": "46",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "1",
-        "stop": "4E42234F86ABC6E3",
-        "stop_name_tc": "佐敦(西九龍站)巴士總站 (YT950)"
-    },
-    {
-        "route": "46",
         "bound": "O",
         "service_type": "1",
         "seq": "2",
         "stop": "98F2067168C267FE",
-        "stop_name_tc": "佐敦道西九龍站 (YT242)"
+        "stop_name_tc": "佐敦道,高鐵站 (YT242)"
     },
     {
         "route": "46",
@@ -127773,7 +127757,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "B568727F49CD11A3",
-        "stop_name_tc": null
+        "stop_name_tc": "啟隧轉車站-啟福道 (KT590)"
     },
     {
         "route": "49",
@@ -127805,7 +127789,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "7B4FD0F182DCC294",
-        "stop_name_tc": "佐敦道西九龍站 (YT674b)"
+        "stop_name_tc": "佐敦道,高鐵站 (YT674b)"
     },
     {
         "route": "49",
@@ -128085,7 +128069,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "6085C420AB7E6FF9",
-        "stop_name_tc": "佐敦道西九龍站 (YT240)"
+        "stop_name_tc": "佐敦道,高鐵站 (YT240)"
     },
     {
         "route": "49",
@@ -142747,17 +142731,9 @@
         "route": "60X",
         "bound": "I",
         "service_type": "1",
-        "seq": "1",
-        "stop": "E1DA8EB2EA9A4B3C",
-        "stop_name_tc": "佐敦(西九龍站)巴士總站 (YT953)"
-    },
-    {
-        "route": "60X",
-        "bound": "I",
-        "service_type": "1",
         "seq": "2",
         "stop": "457F82CA73DB77ED",
-        "stop_name_tc": "佐敦道西九龍站 (YT241)"
+        "stop_name_tc": "佐敦道,高鐵站 (YT241)"
     },
     {
         "route": "60X",
@@ -143094,14 +143070,6 @@
         "seq": "20",
         "stop": "FD1B403FD4EC3E8D",
         "stop_name_tc": "佐敦炮台街 (YT674)"
-    },
-    {
-        "route": "60X",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "21",
-        "stop": "E1DA8EB2EA9A4B3C",
-        "stop_name_tc": "佐敦(西九龍站)巴士總站 (YT953)"
     },
     {
         "route": "613",
@@ -147723,17 +147691,9 @@
         "route": "63X",
         "bound": "I",
         "service_type": "1",
-        "seq": "1",
-        "stop": "E1DA8EB2EA9A4B3C",
-        "stop_name_tc": "佐敦(西九龍站)巴士總站 (YT953)"
-    },
-    {
-        "route": "63X",
-        "bound": "I",
-        "service_type": "1",
         "seq": "2",
         "stop": "457F82CA73DB77ED",
-        "stop_name_tc": "佐敦道西九龍站 (YT241)"
+        "stop_name_tc": "佐敦道,高鐵站 (YT241)"
     },
     {
         "route": "63X",
@@ -148126,14 +148086,6 @@
         "seq": "25",
         "stop": "FD1B403FD4EC3E8D",
         "stop_name_tc": "佐敦炮台街 (YT674)"
-    },
-    {
-        "route": "63X",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "26",
-        "stop": "E1DA8EB2EA9A4B3C",
-        "stop_name_tc": "佐敦(西九龍站)巴士總站 (YT953)"
     },
     {
         "route": "641",
@@ -161085,7 +161037,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "0C327E058835F570",
-        "stop_name_tc": "佐敦(西九龍站)巴士總站 (YT954)"
+        "stop_name_tc": "高鐵(西九龍站)巴士總站 (YT954)"
     },
     {
         "route": "69X",
@@ -161093,7 +161045,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "457F82CA73DB77ED",
-        "stop_name_tc": "佐敦道西九龍站 (YT241)"
+        "stop_name_tc": "佐敦道,高鐵站 (YT241)"
     },
     {
         "route": "69X",
@@ -161429,7 +161381,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "0C327E058835F570",
-        "stop_name_tc": "佐敦(西九龍站)巴士總站 (YT954)"
+        "stop_name_tc": "高鐵(西九龍站)巴士總站 (YT954)"
     },
     {
         "route": "69X",
@@ -161581,7 +161533,7 @@
         "service_type": "2",
         "seq": "19",
         "stop": "0C327E058835F570",
-        "stop_name_tc": "佐敦(西九龍站)巴士總站 (YT954)"
+        "stop_name_tc": "高鐵(西九龍站)巴士總站 (YT954)"
     },
     {
         "route": "6C",
@@ -184037,7 +183989,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "BD9C8BC4A5FCEC12",
-        "stop_name_tc": "九龍站巴士總站 (YT941)"
+        "stop_name_tc": "九龍站,高鐵站 (YT941)"
     },
     {
         "route": "8",
@@ -184453,7 +184405,7 @@
         "service_type": "1",
         "seq": "27",
         "stop": "BD9C8BC4A5FCEC12",
-        "stop_name_tc": "九龍站巴士總站 (YT941)"
+        "stop_name_tc": "九龍站,高鐵站 (YT941)"
     },
     {
         "route": "80",
@@ -186099,17 +186051,9 @@
         "route": "81",
         "bound": "I",
         "service_type": "1",
-        "seq": "1",
-        "stop": "C35DF653E02636CD",
-        "stop_name_tc": "佐敦(西九龍站)巴士總站 (YT952)"
-    },
-    {
-        "route": "81",
-        "bound": "I",
-        "service_type": "1",
         "seq": "2",
         "stop": "98F2067168C267FE",
-        "stop_name_tc": "佐敦道西九龍站 (YT242)"
+        "stop_name_tc": "佐敦道,高鐵站 (YT242)"
     },
     {
         "route": "81",
@@ -186542,14 +186486,6 @@
         "seq": "28",
         "stop": "FD1B403FD4EC3E8D",
         "stop_name_tc": "佐敦炮台街 (YT674)"
-    },
-    {
-        "route": "81",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "29",
-        "stop": "C35DF653E02636CD",
-        "stop_name_tc": "佐敦(西九龍站)巴士總站 (YT952)"
     },
     {
         "route": "81C",
@@ -208133,7 +208069,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "98F2067168C267FE",
-        "stop_name_tc": "佐敦道西九龍站 (YT242)"
+        "stop_name_tc": "佐敦道,高鐵站 (YT242)"
     },
     {
         "route": "914",
@@ -208333,7 +208269,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "6085C420AB7E6FF9",
-        "stop_name_tc": "佐敦道西九龍站 (YT240)"
+        "stop_name_tc": "佐敦道,高鐵站 (YT240)"
     },
     {
         "route": "914",
@@ -208677,7 +208613,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "6085C420AB7E6FF9",
-        "stop_name_tc": "佐敦道西九龍站 (YT240)"
+        "stop_name_tc": "佐敦道,高鐵站 (YT240)"
     },
     {
         "route": "914X",
@@ -216989,7 +216925,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "3BEDF164D4714445",
-        "stop_name_tc": "九龍站巴士總站 (YT944)"
+        "stop_name_tc": "九龍站,高鐵站 (YT944)"
     },
     {
         "route": "95",
@@ -217541,7 +217477,7 @@
         "service_type": "1",
         "seq": "35",
         "stop": "DD161A7AB0D39192",
-        "stop_name_tc": "佐敦道西九龍站 (YT675)"
+        "stop_name_tc": "佐敦道,高鐵站 (YT675)"
     },
     {
         "route": "95",
@@ -217557,7 +217493,7 @@
         "service_type": "1",
         "seq": "37",
         "stop": "3BEDF164D4714445",
-        "stop_name_tc": "九龍站巴士總站 (YT944)"
+        "stop_name_tc": "九龍站,高鐵站 (YT944)"
     },
     {
         "route": "95M",
@@ -285717,7 +285653,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "7B4FD0F182DCC294",
-        "stop_name_tc": "佐敦道西九龍站 (YT674b)"
+        "stop_name_tc": "佐敦道,高鐵站 (YT674b)"
     },
     {
         "route": "T270",
@@ -286877,7 +286813,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "40D067F126426DC6",
-        "stop_name_tc": "佐敦(西九龍站)巴士總站 (YT957)"
+        "stop_name_tc": "高鐵(西九龍站)巴士總站 (YT957)"
     },
     {
         "route": "W2",
@@ -286885,7 +286821,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "AC8828CF13B8AA49",
-        "stop_name_tc": "西九龍站 (YT282)"
+        "stop_name_tc": "高鐵西九龍站 (YT282)"
     },
     {
         "route": "W2",
@@ -286893,7 +286829,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "6085C420AB7E6FF9",
-        "stop_name_tc": "佐敦道西九龍站 (YT240)"
+        "stop_name_tc": "佐敦道,高鐵站 (YT240)"
     },
     {
         "route": "W2",
@@ -286933,7 +286869,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "C2593FE9DA3A0099",
-        "stop_name_tc": null
+        "stop_name_tc": "觀塘順業街 (KT200)"
     },
     {
         "route": "W2",
@@ -286941,7 +286877,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "714E854D63623C93",
-        "stop_name_tc": null
+        "stop_name_tc": "觀塘勵業街 (KT201)"
     },
     {
         "route": "W2",
@@ -286949,7 +286885,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "4548FBAF08E3BF71",
-        "stop_name_tc": null
+        "stop_name_tc": "創紀之城 (KT341)"
     },
     {
         "route": "W2",
@@ -286957,7 +286893,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "C69F10C6D4676331",
-        "stop_name_tc": null
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT348)"
     },
     {
         "route": "W2",
@@ -286965,7 +286901,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "3CE92CA0407BEB9C",
-        "stop_name_tc": null
+        "stop_name_tc": "觀塘游泳池 (KT361)"
     },
     {
         "route": "W2",
@@ -286989,7 +286925,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "E9F673D418FA9E71",
-        "stop_name_tc": null
+        "stop_name_tc": "麗港公園 (LT421)"
     },
     {
         "route": "W2",
@@ -286997,7 +286933,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "B568727F49CD11A3",
-        "stop_name_tc": null
+        "stop_name_tc": "啟隧轉車站-啟福道 (KT590)"
     },
     {
         "route": "W2",
@@ -287029,7 +286965,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "4DB8054CDFBB9E43",
-        "stop_name_tc": "西九龍站 (YT280)"
+        "stop_name_tc": "高鐵西九龍站 (YT280)"
     },
     {
         "route": "W2",
@@ -287037,7 +286973,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "40D067F126426DC6",
-        "stop_name_tc": "佐敦(西九龍站)巴士總站 (YT957)"
+        "stop_name_tc": "高鐵(西九龍站)巴士總站 (YT957)"
     },
     {
         "route": "W2",
@@ -287045,7 +286981,7 @@
         "service_type": "2",
         "seq": "1",
         "stop": "40D067F126426DC6",
-        "stop_name_tc": "佐敦(西九龍站)巴士總站 (YT957)"
+        "stop_name_tc": "高鐵(西九龍站)巴士總站 (YT957)"
     },
     {
         "route": "W2",
@@ -287053,7 +286989,7 @@
         "service_type": "2",
         "seq": "2",
         "stop": "AC8828CF13B8AA49",
-        "stop_name_tc": "西九龍站 (YT282)"
+        "stop_name_tc": "高鐵西九龍站 (YT282)"
     },
     {
         "route": "W2",
@@ -287061,7 +286997,7 @@
         "service_type": "2",
         "seq": "3",
         "stop": "6085C420AB7E6FF9",
-        "stop_name_tc": "佐敦道西九龍站 (YT240)"
+        "stop_name_tc": "佐敦道,高鐵站 (YT240)"
     },
     {
         "route": "W2",
@@ -287101,7 +287037,7 @@
         "service_type": "2",
         "seq": "8",
         "stop": "C2593FE9DA3A0099",
-        "stop_name_tc": null
+        "stop_name_tc": "觀塘順業街 (KT200)"
     },
     {
         "route": "W2",
@@ -287109,7 +287045,7 @@
         "service_type": "2",
         "seq": "9",
         "stop": "714E854D63623C93",
-        "stop_name_tc": null
+        "stop_name_tc": "觀塘勵業街 (KT201)"
     },
     {
         "route": "W2",
@@ -287117,7 +287053,7 @@
         "service_type": "2",
         "seq": "10",
         "stop": "4548FBAF08E3BF71",
-        "stop_name_tc": null
+        "stop_name_tc": "創紀之城 (KT341)"
     },
     {
         "route": "W2",
@@ -287125,7 +287061,7 @@
         "service_type": "2",
         "seq": "11",
         "stop": "C69F10C6D4676331",
-        "stop_name_tc": null
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT348)"
     },
     {
         "route": "W2",
@@ -287133,7 +287069,7 @@
         "service_type": "2",
         "seq": "12",
         "stop": "3CE92CA0407BEB9C",
-        "stop_name_tc": null
+        "stop_name_tc": "觀塘游泳池 (KT361)"
     },
     {
         "route": "W2",
@@ -287157,7 +287093,7 @@
         "service_type": "2",
         "seq": "15",
         "stop": "E9F673D418FA9E71",
-        "stop_name_tc": null
+        "stop_name_tc": "麗港公園 (LT421)"
     },
     {
         "route": "W2",
@@ -287165,7 +287101,7 @@
         "service_type": "3",
         "seq": "1",
         "stop": "4548FBAF08E3BF71",
-        "stop_name_tc": null
+        "stop_name_tc": "創紀之城 (KT341)"
     },
     {
         "route": "W2",
@@ -287173,7 +287109,7 @@
         "service_type": "3",
         "seq": "2",
         "stop": "C69F10C6D4676331",
-        "stop_name_tc": null
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT348)"
     },
     {
         "route": "W2",
@@ -287181,7 +287117,7 @@
         "service_type": "3",
         "seq": "3",
         "stop": "3CE92CA0407BEB9C",
-        "stop_name_tc": null
+        "stop_name_tc": "觀塘游泳池 (KT361)"
     },
     {
         "route": "W2",
@@ -287205,7 +287141,7 @@
         "service_type": "3",
         "seq": "6",
         "stop": "E9F673D418FA9E71",
-        "stop_name_tc": null
+        "stop_name_tc": "麗港公園 (LT421)"
     },
     {
         "route": "W2",
@@ -287213,7 +287149,7 @@
         "service_type": "3",
         "seq": "7",
         "stop": "B568727F49CD11A3",
-        "stop_name_tc": null
+        "stop_name_tc": "啟隧轉車站-啟福道 (KT590)"
     },
     {
         "route": "W2",
@@ -287245,7 +287181,7 @@
         "service_type": "3",
         "seq": "11",
         "stop": "4DB8054CDFBB9E43",
-        "stop_name_tc": "西九龍站 (YT280)"
+        "stop_name_tc": "高鐵西九龍站 (YT280)"
     },
     {
         "route": "W2",
@@ -287253,7 +287189,7 @@
         "service_type": "3",
         "seq": "12",
         "stop": "40D067F126426DC6",
-        "stop_name_tc": "佐敦(西九龍站)巴士總站 (YT957)"
+        "stop_name_tc": "高鐵(西九龍站)巴士總站 (YT957)"
     },
     {
         "route": "W3",
@@ -287261,7 +287197,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "041A140AD24C1ADB",
-        "stop_name_tc": "佐敦(西九龍站)巴士總站 (YT956)"
+        "stop_name_tc": "高鐵(西九龍站)巴士總站 (YT956)"
     },
     {
         "route": "W3",
@@ -287269,7 +287205,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "01633AD5B1B978B4",
-        "stop_name_tc": "西九龍站 (YT281)"
+        "stop_name_tc": "高鐵西九龍站 (YT281)"
     },
     {
         "route": "W3",
@@ -287469,7 +287405,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "DE46A23558FD6CF6",
-        "stop_name_tc": null
+        "stop_name_tc": "大埔超級城 (TP317)"
     },
     {
         "route": "W3",
@@ -287477,7 +287413,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "E026DEF40AE536AA",
-        "stop_name_tc": null
+        "stop_name_tc": "廣福邨 (TP575)"
     },
     {
         "route": "W3",
@@ -287541,7 +287477,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "4DB8054CDFBB9E43",
-        "stop_name_tc": "西九龍站 (YT280)"
+        "stop_name_tc": "高鐵西九龍站 (YT280)"
     },
     {
         "route": "W3",
@@ -287549,7 +287485,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "041A140AD24C1ADB",
-        "stop_name_tc": "佐敦(西九龍站)巴士總站 (YT956)"
+        "stop_name_tc": "高鐵(西九龍站)巴士總站 (YT956)"
     },
     {
         "route": "W4",
@@ -287565,7 +287501,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "89A8085A1605FDB4",
-        "stop_name_tc": "佐敦道西九龍站 (YT676)"
+        "stop_name_tc": "佐敦道,高鐵站 (YT676)"
     },
     {
         "route": "W4",
