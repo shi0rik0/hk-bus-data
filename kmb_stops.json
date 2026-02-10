@@ -16640,6 +16640,14 @@
         "long": "114.132128"
     },
     {
+        "stop": "4E42234F86ABC6E3",
+        "name_en": "HIGH SPEED RAIL WEST KOWLOON STATION BUS TERMINUS",
+        "name_tc": "高鐵(西九龍站)巴士總站 (YT950)",
+        "name_sc": "高铁(西九龙站)巴士总站 (YT950)",
+        "lat": "22.307517",
+        "long": "114.164814"
+    },
+    {
         "stop": "4E56DD827C1F571A",
         "name_en": "LEK YUEN ESTATE (ST736)",
         "name_tc": "瀝源邨 (ST736)",
@@ -36584,6 +36592,14 @@
         "long": "114.168177"
     },
     {
+        "stop": "AE5E397C3B5B4EFF",
+        "name_en": "CHI KIANG STREET PLAYGROUND (HH735)",
+        "name_tc": "浙江街遊樂場 (HH735)",
+        "name_sc": "浙江街游乐场 (HH735)",
+        "lat": "22.314562",
+        "long": "114.187656"
+    },
+    {
         "stop": "AE6C9CC13AAF157D",
         "name_en": "KWUN TONG (YUE MAN SQUARE) BUS TERMINUS (KT926)",
         "name_tc": "觀塘(裕民坊)總站 (KT926)",
@@ -40904,6 +40920,14 @@
         "long": "114.165291"
     },
     {
+        "stop": "C35DF653E02636CD",
+        "name_en": "HIGH SPEED RAIL WEST KOWLOON STATION BUS TERMINUS",
+        "name_tc": "高鐵(西九龍站)巴士總站 (YT952)",
+        "name_sc": "高铁(西九龙站)巴士总站 (YT952)",
+        "lat": "22.307550",
+        "long": "114.164551"
+    },
+    {
         "stop": "C360EB0956976C4D",
         "name_en": "CENTRAL FERRY PIER NO.3",
         "name_tc": "中環三號碼頭",
@@ -42630,6 +42654,14 @@
         "name_sc": "长康邨康顺楼 (TY310)",
         "lat": "22.349627",
         "long": "114.099786"
+    },
+    {
+        "stop": "CC3C40EFC7971AEF",
+        "name_en": "SAN LAU STREET (HH737)",
+        "name_tc": "新柳街 (HH737)",
+        "name_sc": "新柳街 (HH737)",
+        "lat": "22.312282",
+        "long": "114.186412"
     },
     {
         "stop": "CC3EF4757AA0964A",
@@ -47006,6 +47038,14 @@
         "name_sc": "荃湾站 (TW460)",
         "lat": "22.374488",
         "long": "114.115819"
+    },
+    {
+        "stop": "E1DA8EB2EA9A4B3C",
+        "name_en": "HIGH SPEED RAIL WEST KOWLOON STATION BUS TERMINUS",
+        "name_tc": "高鐵(西九龍站)巴士總站 (YT953)",
+        "name_sc": "高铁(西九龙站)巴士总站 (YT953)",
+        "lat": "22.307550",
+        "long": "114.164551"
     },
     {
         "stop": "E1EAFF3759608D41",

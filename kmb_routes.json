@@ -3534,9 +3534,9 @@
         "route": "268X",
         "bound": "I",
         "service_type": "1",
-        "orig_en": "JORDAN (WEST KOWLOON STATION)",
-        "orig_tc": "佐敦(西九龍站)",
-        "orig_sc": "佐敦(西九龙站)",
+        "orig_en": "HIGH SPEED RAIL WEST KOWLOON STATION",
+        "orig_tc": "高鐵(西九龍站)",
+        "orig_sc": "高铁(西九龙站)",
         "dest_en": "HUNG SHUI KIU (HUNG FUK ESTATE)",
         "dest_tc": "洪水橋(洪福邨)",
         "dest_sc": "洪水桥(洪福邨)"
@@ -3548,9 +3548,9 @@
         "orig_en": "HUNG SHUI KIU (HUNG FUK ESTATE)",
         "orig_tc": "洪水橋(洪福邨)",
         "orig_sc": "洪水桥(洪福邨)",
-        "dest_en": "JORDAN (WEST KOWLOON STATION)",
-        "dest_tc": "佐敦(西九龍站)",
-        "dest_sc": "佐敦(西九龙站)"
+        "dest_en": "HIGH SPEED RAIL WEST KOWLOON STATION",
+        "dest_tc": "高鐵(西九龍站)",
+        "dest_sc": "高铁(西九龙站)"
     },
     {
         "route": "268X",
@@ -3559,9 +3559,9 @@
         "orig_en": "YUET PING HOUSE LONG PING ESTATE",
         "orig_tc": "朗屏邨悅屏樓",
         "orig_sc": "朗屏邨悦屏楼",
-        "dest_en": "JORDAN (WEST KOWLOON STATION)",
-        "dest_tc": "佐敦(西九龍站)",
-        "dest_sc": "佐敦(西九龙站)"
+        "dest_en": "HIGH SPEED RAIL WEST KOWLOON STATION",
+        "dest_tc": "高鐵(西九龍站)",
+        "dest_sc": "高铁(西九龙站)"
     },
     {
         "route": "269B",
@@ -3787,9 +3787,9 @@
         "route": "269X",
         "bound": "I",
         "service_type": "1",
-        "orig_en": "JORDAN (WEST KOWLOON STATION)",
-        "orig_tc": "佐敦(西九龍站)",
-        "orig_sc": "佐敦(西九龙站)",
+        "orig_en": "HIGH SPEED RAIL WEST KOWLOON STATION",
+        "orig_tc": "高鐵(西九龍站)",
+        "orig_sc": "高铁(西九龙站)",
         "dest_en": "TIN SHUI",
         "dest_tc": "天瑞",
         "dest_sc": "天瑞"
@@ -3801,9 +3801,9 @@
         "orig_en": "TIN SHUI",
         "orig_tc": "天瑞",
         "orig_sc": "天瑞",
-        "dest_en": "JORDAN (WEST KOWLOON STATION)",
-        "dest_tc": "佐敦(西九龍站)",
-        "dest_sc": "佐敦(西九龙站)"
+        "dest_en": "HIGH SPEED RAIL WEST KOWLOON STATION",
+        "dest_tc": "高鐵(西九龍站)",
+        "dest_sc": "高铁(西九龙站)"
     },
     {
         "route": "26M",
@@ -4040,9 +4040,9 @@
         "route": "271",
         "bound": "I",
         "service_type": "1",
-        "orig_en": "JORDAN (WEST KOWLOON STATION)",
-        "orig_tc": "佐敦(西九龍站)",
-        "orig_sc": "佐敦(西九龙站)",
+        "orig_en": "HIGH SPEED RAIL WEST KOWLOON STATION",
+        "orig_tc": "高鐵(西九龍站)",
+        "orig_sc": "高铁(西九龙站)",
         "dest_en": "TAI PO (FU HENG)",
         "dest_tc": "大埔(富亨)",
         "dest_sc": "大埔(富亨)"
@@ -4051,9 +4051,9 @@
         "route": "271",
         "bound": "I",
         "service_type": "2",
-        "orig_en": "JORDAN (WEST KOWLOON STATION)",
-        "orig_tc": "佐敦(西九龍站)",
-        "orig_sc": "佐敦(西九龙站)",
+        "orig_en": "HIGH SPEED RAIL WEST KOWLOON STATION",
+        "orig_tc": "高鐵(西九龍站)",
+        "orig_sc": "高铁(西九龙站)",
         "dest_en": "TAI PO (FU HENG)",
         "dest_tc": "大埔(富亨)",
         "dest_sc": "大埔(富亨)"
@@ -4065,9 +4065,9 @@
         "orig_en": "TAI PO (FU HENG)",
         "orig_tc": "大埔(富亨)",
         "orig_sc": "大埔(富亨)",
-        "dest_en": "JORDAN (WEST KOWLOON STATION)",
-        "dest_tc": "佐敦(西九龍站)",
-        "dest_sc": "佐敦(西九龙站)"
+        "dest_en": "HIGH SPEED RAIL WEST KOWLOON STATION",
+        "dest_tc": "高鐵(西九龍站)",
+        "dest_sc": "高铁(西九龙站)"
     },
     {
         "route": "271A",
@@ -4095,9 +4095,9 @@
         "route": "271B",
         "bound": "I",
         "service_type": "1",
-        "orig_en": "JORDAN (WEST KOWLOON STATION)",
-        "orig_tc": "佐敦(西九龍站)",
-        "orig_sc": "佐敦(西九龙站)",
+        "orig_en": "HIGH SPEED RAIL WEST KOWLOON STATION",
+        "orig_tc": "高鐵(西九龍站)",
+        "orig_sc": "高铁(西九龙站)",
         "dest_en": "TAI PO (FU HENG)",
         "dest_tc": "大埔(富亨)",
         "dest_sc": "大埔(富亨)"
@@ -4109,9 +4109,9 @@
         "orig_en": "TAI PO (FU HENG)",
         "orig_tc": "大埔(富亨)",
         "orig_sc": "大埔(富亨)",
-        "dest_en": "JORDAN (WEST KOWLOON STATION)",
-        "dest_tc": "佐敦(西九龍站)",
-        "dest_sc": "佐敦(西九龙站)"
+        "dest_en": "HIGH SPEED RAIL WEST KOWLOON STATION",
+        "dest_tc": "高鐵(西九龍站)",
+        "dest_sc": "高铁(西九龙站)"
     },
     {
         "route": "271P",
@@ -4150,9 +4150,9 @@
         "route": "271X",
         "bound": "O",
         "service_type": "1",
-        "orig_en": "JORDAN (WEST KOWLOON STATION)",
-        "orig_tc": "佐敦(西九龍站)",
-        "orig_sc": "佐敦(西九龙站)",
+        "orig_en": "HIGH SPEED RAIL WEST KOWLOON STATION",
+        "orig_tc": "高鐵(西九龍站)",
+        "orig_sc": "高铁(西九龙站)",
         "dest_en": "TAI PO (FU HENG)",
         "dest_tc": "大埔(富亨)",
         "dest_sc": "大埔(富亨)"
@@ -6669,9 +6669,9 @@
         "route": "36B",
         "bound": "I",
         "service_type": "1",
-        "orig_en": "JORDAN (WEST KOWLOON STATION)",
-        "orig_tc": "佐敦(西九龍站)",
-        "orig_sc": "佐敦(西九龙站)",
+        "orig_en": "HIGH SPEED RAIL WEST KOWLOON STATION",
+        "orig_tc": "高鐵(西九龍站)",
+        "orig_sc": "高铁(西九龙站)",
         "dest_en": "LEI MUK SHUE",
         "dest_tc": "梨木樹",
         "dest_sc": "梨木树"
@@ -6683,9 +6683,9 @@
         "orig_en": "LEI MUK SHUE",
         "orig_tc": "梨木樹",
         "orig_sc": "梨木树",
-        "dest_en": "JORDAN (WEST KOWLOON STATION)",
-        "dest_tc": "佐敦(西九龍站)",
-        "dest_sc": "佐敦(西九龙站)"
+        "dest_en": "HIGH SPEED RAIL WEST KOWLOON STATION",
+        "dest_tc": "高鐵(西九龍站)",
+        "dest_sc": "高铁(西九龙站)"
     },
     {
         "route": "36M",
@@ -7362,9 +7362,9 @@
         "route": "42A",
         "bound": "I",
         "service_type": "1",
-        "orig_en": "JORDAN (WEST KOWLOON STATION)",
-        "orig_tc": "佐敦(西九龍站)",
-        "orig_sc": "佐敦(西九龙站)",
+        "orig_en": "HIGH SPEED RAIL WEST KOWLOON STATION",
+        "orig_tc": "高鐵(西九龍站)",
+        "orig_sc": "高铁(西九龙站)",
         "dest_en": "TSING YI (CHEUNG HANG ESTATE)",
         "dest_tc": "青衣(長亨邨)",
         "dest_sc": "青衣(长亨邨)"
@@ -7376,9 +7376,9 @@
         "orig_en": "TSING YI (CHEUNG HANG ESTATE)",
         "orig_tc": "青衣(長亨邨)",
         "orig_sc": "青衣(长亨邨)",
-        "dest_en": "JORDAN (WEST KOWLOON STATION)",
-        "dest_tc": "佐敦(西九龍站)",
-        "dest_sc": "佐敦(西九龙站)"
+        "dest_en": "HIGH SPEED RAIL WEST KOWLOON STATION",
+        "dest_tc": "高鐵(西九龍站)",
+        "dest_sc": "高铁(西九龙站)"
     },
     {
         "route": "42C",
@@ -7695,17 +7695,17 @@
         "orig_en": "KWAI CHUNG (LAI YIU ESTATE)",
         "orig_tc": "葵涌(麗瑤邨)",
         "orig_sc": "葵涌(丽瑶邨)",
-        "dest_en": "JORDAN (WEST KOWLOON STATION)",
-        "dest_tc": "佐敦(西九龍站)",
-        "dest_sc": "佐敦(西九龙站)"
+        "dest_en": "HIGH SPEED RAIL WEST KOWLOON STATION",
+        "dest_tc": "高鐵(西九龍站)",
+        "dest_sc": "高铁(西九龙站)"
     },
     {
         "route": "46",
         "bound": "O",
         "service_type": "1",
-        "orig_en": "JORDAN (WEST KOWLOON STATION)",
-        "orig_tc": "佐敦(西九龍站)",
-        "orig_sc": "佐敦(西九龙站)",
+        "orig_en": "HIGH SPEED RAIL WEST KOWLOON STATION",
+        "orig_tc": "高鐵(西九龍站)",
+        "orig_sc": "高铁(西九龙站)",
         "dest_en": "KWAI CHUNG (LAI YIU ESTATE)",
         "dest_tc": "葵涌(麗瑤邨)",
         "dest_sc": "葵涌(丽瑶邨)"
@@ -8792,9 +8792,9 @@
         "route": "60X",
         "bound": "I",
         "service_type": "1",
-        "orig_en": "JORDAN (WEST KOWLOON STATION)",
-        "orig_tc": "佐敦(西九龍站)",
-        "orig_sc": "佐敦(西九龙站)",
+        "orig_en": "HIGH SPEED RAIL WEST KOWLOON STATION",
+        "orig_tc": "高鐵(西九龍站)",
+        "orig_sc": "高铁(西九龙站)",
         "dest_en": "TUEN MUN CENTRAL",
         "dest_tc": "屯門巿中心",
         "dest_sc": "屯门巿中心"
@@ -8806,9 +8806,9 @@
         "orig_en": "TUEN MUN CENTRAL",
         "orig_tc": "屯門巿中心",
         "orig_sc": "屯门巿中心",
-        "dest_en": "JORDAN (WEST KOWLOON STATION)",
-        "dest_tc": "佐敦(西九龍站)",
-        "dest_sc": "佐敦(西九龙站)"
+        "dest_en": "HIGH SPEED RAIL WEST KOWLOON STATION",
+        "dest_tc": "高鐵(西九龍站)",
+        "dest_sc": "高铁(西九龙站)"
     },
     {
         "route": "613",
@@ -9067,9 +9067,9 @@
         "route": "63X",
         "bound": "I",
         "service_type": "1",
-        "orig_en": "JORDAN (WEST KOWLOON STATION)",
-        "orig_tc": "佐敦(西九龍站)",
-        "orig_sc": "佐敦(西九龙站)",
+        "orig_en": "HIGH SPEED RAIL WEST KOWLOON STATION",
+        "orig_tc": "高鐵(西九龍站)",
+        "orig_sc": "高铁(西九龙站)",
         "dest_en": "HUNG SHUI KIU (HUNG FUK ESTATE)",
         "dest_tc": "洪水橋(洪福邨)",
         "dest_sc": "洪水桥(洪福邨)"
@@ -9081,9 +9081,9 @@
         "orig_en": "HUNG SHUI KIU (HUNG FUK ESTATE)",
         "orig_tc": "洪水橋(洪福邨)",
         "orig_sc": "洪水桥(洪福邨)",
-        "dest_en": "JORDAN (WEST KOWLOON STATION)",
-        "dest_tc": "佐敦(西九龍站)",
-        "dest_sc": "佐敦(西九龙站)"
+        "dest_en": "HIGH SPEED RAIL WEST KOWLOON STATION",
+        "dest_tc": "高鐵(西九龍站)",
+        "dest_sc": "高铁(西九龙站)"
     },
     {
         "route": "641",
@@ -9848,9 +9848,9 @@
         "route": "69X",
         "bound": "I",
         "service_type": "1",
-        "orig_en": "JORDAN (WEST KOWLOON STATION)",
-        "orig_tc": "佐敦(西九龍站)",
-        "orig_sc": "佐敦(西九龙站)",
+        "orig_en": "HIGH SPEED RAIL WEST KOWLOON STATION",
+        "orig_tc": "高鐵(西九龍站)",
+        "orig_sc": "高铁(西九龙站)",
         "dest_en": "TIN SHUI",
         "dest_tc": "天瑞",
         "dest_sc": "天瑞"
@@ -9862,9 +9862,9 @@
         "orig_en": "TIN SHUI",
         "orig_tc": "天瑞",
         "orig_sc": "天瑞",
-        "dest_en": "JORDAN (WEST KOWLOON STATION)",
-        "dest_tc": "佐敦(西九龍站)",
-        "dest_sc": "佐敦(西九龙站)"
+        "dest_en": "HIGH SPEED RAIL WEST KOWLOON STATION",
+        "dest_tc": "高鐵(西九龍站)",
+        "dest_sc": "高铁(西九龙站)"
     },
     {
         "route": "69X",
@@ -9873,9 +9873,9 @@
         "orig_en": "TIN YIU",
         "orig_tc": "天耀",
         "orig_sc": "天耀",
-        "dest_en": "JORDAN (WEST KOWLOON STATION)",
-        "dest_tc": "佐敦(西九龍站)",
-        "dest_sc": "佐敦(西九龙站)"
+        "dest_en": "HIGH SPEED RAIL WEST KOWLOON STATION",
+        "dest_tc": "高鐵(西九龍站)",
+        "dest_sc": "高铁(西九龙站)"
     },
     {
         "route": "6C",
@@ -11322,9 +11322,9 @@
         "route": "81",
         "bound": "I",
         "service_type": "1",
-        "orig_en": "JORDAN (WEST KOWLOON STATION)",
-        "orig_tc": "佐敦(西九龍站)",
-        "orig_sc": "佐敦(西九龙站)",
+        "orig_en": "HIGH SPEED RAIL WEST KOWLOON STATION",
+        "orig_tc": "高鐵(西九龍站)",
+        "orig_sc": "高铁(西九龙站)",
         "dest_en": "WO CHE",
         "dest_tc": "禾輋",
         "dest_sc": "禾輋"
@@ -11336,9 +11336,9 @@
         "orig_en": "WO CHE",
         "orig_tc": "禾輋",
         "orig_sc": "禾輋",
-        "dest_en": "JORDAN (WEST KOWLOON STATION)",
-        "dest_tc": "佐敦(西九龍站)",
-        "dest_sc": "佐敦(西九龙站)"
+        "dest_en": "HIGH SPEED RAIL WEST KOWLOON STATION",
+        "dest_tc": "高鐵(西九龍站)",
+        "dest_sc": "高铁(西九龙站)"
     },
     {
         "route": "81C",
@@ -14413,7 +14413,7 @@
         "route": "A33X",
         "bound": "I",
         "service_type": "2",
-        "orig_en": "Cathay Pacific City",
+        "orig_en": "Cathay City",
         "orig_tc": "國泰城",
         "orig_sc": "国泰城",
         "dest_en": "TUEN MUN (FU TAI ESTATE)",
@@ -17438,9 +17438,9 @@
         "route": "W2",
         "bound": "O",
         "service_type": "1",
-        "orig_en": "JORDAN (WEST KOWLOON STATION)",
-        "orig_tc": "佐敦(西九龍站)",
-        "orig_sc": "佐敦(西九龙站)",
+        "orig_en": "HIGH SPEED RAIL WEST KOWLOON STATION",
+        "orig_tc": "高鐵(西九龍站)",
+        "orig_sc": "高铁(西九龙站)",
         "dest_en": "KWUN TONG (CIRCULAR)",
         "dest_tc": "觀塘(循環線)",
         "dest_sc": "观塘(循环线)"
@@ -17449,9 +17449,9 @@
         "route": "W2",
         "bound": "O",
         "service_type": "2",
-        "orig_en": "JORDAN (WEST KOWLOON STATION)",
-        "orig_tc": "佐敦(西九龍站)",
-        "orig_sc": "佐敦(西九龙站)",
+        "orig_en": "HIGH SPEED RAIL WEST KOWLOON STATION",
+        "orig_tc": "高鐵(西九龍站)",
+        "orig_sc": "高铁(西九龙站)",
         "dest_en": "LAGUNA PARK",
         "dest_tc": "麗港公園",
         "dest_sc": "丽港公园"
@@ -17463,17 +17463,17 @@
         "orig_en": "MILLENNIUM CITY",
         "orig_tc": "創紀之城",
         "orig_sc": "创纪之城",
-        "dest_en": "JORDAN (WEST KOWLOON STATION)",
-        "dest_tc": "佐敦(西九龍站)",
-        "dest_sc": "佐敦(西九龙站)"
+        "dest_en": "HIGH SPEED RAIL WEST KOWLOON STATION",
+        "dest_tc": "高鐵(西九龍站)",
+        "dest_sc": "高铁(西九龙站)"
     },
     {
         "route": "W3",
         "bound": "I",
         "service_type": "1",
-        "orig_en": "JORDAN (WEST KOWLOON STATION)",
-        "orig_tc": "佐敦(西九龍站)",
-        "orig_sc": "佐敦(西九龙站)",
+        "orig_en": "HIGH SPEED RAIL WEST KOWLOON STATION",
+        "orig_tc": "高鐵(西九龍站)",
+        "orig_sc": "高铁(西九龙站)",
         "dest_en": "SHEUNG SHUI",
         "dest_tc": "上水",
         "dest_sc": "上水"
@@ -17485,9 +17485,9 @@
         "orig_en": "SHEUNG SHUI",
         "orig_tc": "上水",
         "orig_sc": "上水",
-        "dest_en": "JORDAN (WEST KOWLOON STATION)",
-        "dest_tc": "佐敦(西九龍站)",
-        "dest_sc": "佐敦(西九龙站)"
+        "dest_en": "HIGH SPEED RAIL WEST KOWLOON STATION",
+        "dest_tc": "高鐵(西九龍站)",
+        "dest_sc": "高铁(西九龙站)"
     },
     {
         "route": "W4",

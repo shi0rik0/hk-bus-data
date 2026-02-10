@@ -9404,7 +9404,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "10",
-        "stop": "57DFE7792042405B",
+        "stop": "AE5E397C3B5B4EFF",
         "stop_name_tc": "浙江街遊樂場 (HH735)"
     },
     {
@@ -9412,7 +9412,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "11",
-        "stop": "7CC8FC8889FF1596",
+        "stop": "CC3C40EFC7971AEF",
         "stop_name_tc": "新柳街 (HH737)"
     },
     {
@@ -9428,7 +9428,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "13",
-        "stop": "5CCBD9A6B58BF20D",
+        "stop": "190F209646059000",
         "stop_name_tc": "九龍佑寧堂 (YT670)"
     },
     {
@@ -17172,7 +17172,7 @@
         "bound": "I",
         "service_type": "1",
         "seq": "3",
-        "stop": "E3A083E4F64D93CD",
+        "stop": "6265ADC5B1D37D6C",
         "stop_name_tc": "九龍公園徑 (YT640)"
     },
     {
@@ -17332,7 +17332,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "7",
-        "stop": "5A0D9C9441ED6AC5",
+        "stop": "7EC4B2C80047770A",
         "stop_name_tc": "大角咀中匯街 (MK296)"
     },
     {
@@ -17340,7 +17340,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "8",
-        "stop": "9BF9C994F2DAE15D",
+        "stop": "9B62732E0E1E537C",
         "stop_name_tc": "奧運站 (MK297)"
     },
     {
@@ -17348,7 +17348,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "9",
-        "stop": "F5098BFD784B8FAB",
+        "stop": "029EA5F3C2AEFBC9",
         "stop_name_tc": "海富苑 柏景灣 (MK121)"
     },
     {
@@ -17356,7 +17356,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "10",
-        "stop": "1C7C526A52EF9171",
+        "stop": "6E4C75B59DEF3D89",
         "stop_name_tc": "富榮花園 (MK122)"
     },
     {
@@ -17852,7 +17852,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "7",
-        "stop": "5A0D9C9441ED6AC5",
+        "stop": "7EC4B2C80047770A",
         "stop_name_tc": "大角咀中匯街 (MK296)"
     },
     {
@@ -17860,7 +17860,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "8",
-        "stop": "9BF9C994F2DAE15D",
+        "stop": "9B62732E0E1E537C",
         "stop_name_tc": "奧運站 (MK297)"
     },
     {
@@ -17868,7 +17868,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "9",
-        "stop": "F5098BFD784B8FAB",
+        "stop": "029EA5F3C2AEFBC9",
         "stop_name_tc": "海富苑 柏景灣 (MK121)"
     },
     {
@@ -17876,7 +17876,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "10",
-        "stop": "1C7C526A52EF9171",
+        "stop": "6E4C75B59DEF3D89",
         "stop_name_tc": "富榮花園 (MK122)"
     },
     {
@@ -21428,7 +21428,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "21",
-        "stop": "57DFE7792042405B",
+        "stop": "AE5E397C3B5B4EFF",
         "stop_name_tc": "浙江街遊樂場 (HH735)"
     },
     {
@@ -21436,7 +21436,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "22",
-        "stop": "7CC8FC8889FF1596",
+        "stop": "CC3C40EFC7971AEF",
         "stop_name_tc": "新柳街 (HH737)"
     },
     {
@@ -21452,7 +21452,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "24",
-        "stop": "5CCBD9A6B58BF20D",
+        "stop": "190F209646059000",
         "stop_name_tc": "九龍佑寧堂 (YT670)"
     },
     {
@@ -21460,7 +21460,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "25",
-        "stop": "E049C81469E2B3C0",
+        "stop": "F053C0080D5D5B62",
         "stop_name_tc": "白加士街 廟街夜市 (YT671)"
     },
     {
@@ -32212,8 +32212,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "11",
-        "stop": "68D0BC0C7164F763",
-        "stop_name_tc": "旺角站,旺角中心 (MK511)"
+        "stop": "C2685779C6B11E87",
+        "stop_name_tc": "旺角站,旺角中心 (MK511a)"
     },
     {
         "route": "203S",
@@ -32268,8 +32268,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "18",
-        "stop": "452AD79BA74CF8F3",
-        "stop_name_tc": "尖沙咀轉車站 - 中間道 (YT561)"
+        "stop": "11A1269F9B78F269",
+        "stop_name_tc": "尖沙咀轉車站 - 中間道 (YT562)"
     },
     {
         "route": "203S",
@@ -33876,7 +33876,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "11",
-        "stop": "E3A083E4F64D93CD",
+        "stop": "6265ADC5B1D37D6C",
         "stop_name_tc": "九龍公園徑 (YT640)"
     },
     {
@@ -34660,8 +34660,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "3",
-        "stop": "A6013462EAC8AA50",
-        "stop_name_tc": "長沙灣光昌街 (SS468)"
+        "stop": "8EAD803DDD2C3BBA",
+        "stop_name_tc": "長沙灣光昌街 (SS469)"
     },
     {
         "route": "214",
@@ -35716,7 +35716,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "15",
-        "stop": "E3A083E4F64D93CD",
+        "stop": "6265ADC5B1D37D6C",
         "stop_name_tc": "九龍公園徑 (YT640)"
     },
     {
@@ -36292,7 +36292,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "18",
-        "stop": "E3A083E4F64D93CD",
+        "stop": "6265ADC5B1D37D6C",
         "stop_name_tc": "九龍公園徑 (YT640)"
     },
     {
@@ -36452,7 +36452,7 @@
         "bound": "O",
         "service_type": "2",
         "seq": "17",
-        "stop": "E3A083E4F64D93CD",
+        "stop": "6265ADC5B1D37D6C",
         "stop_name_tc": "九龍公園徑 (YT640)"
     },
     {
@@ -37956,8 +37956,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "7",
-        "stop": "B74273D52D064437",
-        "stop_name_tc": null
+        "stop": "6265ADC5B1D37D6C",
+        "stop_name_tc": "九龍公園徑 (YT640)"
     },
     {
         "route": "230R",
@@ -39916,8 +39916,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "7",
-        "stop": "68D0BC0C7164F763",
-        "stop_name_tc": "旺角站,旺角中心 (MK511)"
+        "stop": "C2685779C6B11E87",
+        "stop_name_tc": "旺角站,旺角中心 (MK511a)"
     },
     {
         "route": "234P",
@@ -39964,8 +39964,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "13",
-        "stop": "452AD79BA74CF8F3",
-        "stop_name_tc": "尖沙咀轉車站 - 中間道 (YT561)"
+        "stop": "11A1269F9B78F269",
+        "stop_name_tc": "尖沙咀轉車站 - 中間道 (YT562)"
     },
     {
         "route": "234P",
@@ -40028,16 +40028,16 @@
         "bound": "I",
         "service_type": "1",
         "seq": "7",
-        "stop": "A6013462EAC8AA50",
-        "stop_name_tc": "長沙灣光昌街 (SS468)"
+        "stop": "8EAD803DDD2C3BBA",
+        "stop_name_tc": "長沙灣光昌街 (SS469)"
     },
     {
         "route": "234X",
         "bound": "I",
         "service_type": "1",
         "seq": "8",
-        "stop": "DAE9E14BA67CEC80",
-        "stop_name_tc": "長沙灣興華街 (SS475)"
+        "stop": "2035C91B61C6DFC0",
+        "stop_name_tc": "長沙灣興華街 (SS474)"
     },
     {
         "route": "234X",
@@ -40052,8 +40052,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "10",
-        "stop": "7BA304A9D0662541",
-        "stop_name_tc": "深水埗九江街 (SS483)"
+        "stop": "789384E5DC5AF7A9",
+        "stop_name_tc": "深水埗九江街 (SS484)"
     },
     {
         "route": "234X",
@@ -40084,8 +40084,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "14",
-        "stop": "68D0BC0C7164F763",
-        "stop_name_tc": "旺角站,旺角中心 (MK511)"
+        "stop": "C2685779C6B11E87",
+        "stop_name_tc": "旺角站,旺角中心 (MK511a)"
     },
     {
         "route": "234X",
@@ -40132,8 +40132,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "20",
-        "stop": "452AD79BA74CF8F3",
-        "stop_name_tc": "尖沙咀轉車站 - 中間道 (YT561)"
+        "stop": "11A1269F9B78F269",
+        "stop_name_tc": "尖沙咀轉車站 - 中間道 (YT562)"
     },
     {
         "route": "234X",
@@ -40892,7 +40892,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "9",
-        "stop": "E049C81469E2B3C0",
+        "stop": "F053C0080D5D5B62",
         "stop_name_tc": "白加士街 廟街夜市 (YT671)"
     },
     {
@@ -41100,7 +41100,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "4",
-        "stop": "972145F4BB2B535F",
+        "stop": "1E1F9E719E67766C",
         "stop_name_tc": "美孚轉車站 (SS461)"
     },
     {
@@ -41124,8 +41124,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "7",
-        "stop": "3A5C336CCB38A3FA",
-        "stop_name_tc": "元州邨 (SS479)"
+        "stop": "AAB25066B96C6588",
+        "stop_name_tc": "元州邨 (SS478)"
     },
     {
         "route": "238X",
@@ -41196,7 +41196,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "16",
-        "stop": "E049C81469E2B3C0",
+        "stop": "F053C0080D5D5B62",
         "stop_name_tc": "白加士街 廟街夜市 (YT671)"
     },
     {
@@ -43636,8 +43636,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "11",
-        "stop": "25B94D808EC232D8",
-        "stop_name_tc": "加士居道 (YT547)"
+        "stop": "9DDE74BD2D803D9C",
+        "stop_name_tc": "加士居道 (YT548)"
     },
     {
         "route": "242X",
@@ -43652,8 +43652,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "13",
-        "stop": "D6E03ECA84C07932",
-        "stop_name_tc": "金巴利道 美麗華廣場 (YT558)"
+        "stop": "EAE9158BE729E917",
+        "stop_name_tc": "金巴利道 美麗華廣場 (YT559)"
     },
     {
         "route": "242X",
@@ -46468,8 +46468,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "20",
-        "stop": "D6E03ECA84C07932",
-        "stop_name_tc": "金巴利道 美麗華廣場 (YT558)"
+        "stop": "EAE9158BE729E917",
+        "stop_name_tc": "金巴利道 美麗華廣場 (YT559)"
     },
     {
         "route": "252B",
@@ -49364,8 +49364,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "12",
-        "stop": "D6E03ECA84C07932",
-        "stop_name_tc": "金巴利道 美麗華廣場 (YT558)"
+        "stop": "EAE9158BE729E917",
+        "stop_name_tc": "金巴利道 美麗華廣場 (YT559)"
     },
     {
         "route": "259B",
@@ -49460,8 +49460,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "11",
-        "stop": "D6E03ECA84C07932",
-        "stop_name_tc": "金巴利道 美麗華廣場 (YT558)"
+        "stop": "EAE9158BE729E917",
+        "stop_name_tc": "金巴利道 美麗華廣場 (YT559)"
     },
     {
         "route": "259C",
@@ -51468,8 +51468,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "10",
-        "stop": "D6E03ECA84C07932",
-        "stop_name_tc": "金巴利道 美麗華廣場 (YT558)"
+        "stop": "EAE9158BE729E917",
+        "stop_name_tc": "金巴利道 美麗華廣場 (YT559)"
     },
     {
         "route": "260B",
@@ -52932,8 +52932,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "27",
-        "stop": "9DDE74BD2D803D9C",
-        "stop_name_tc": "加士居道 (YT548)"
+        "stop": "25B94D808EC232D8",
+        "stop_name_tc": "加士居道 (YT547)"
     },
     {
         "route": "261B",
@@ -52964,7 +52964,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "31",
-        "stop": "E3A083E4F64D93CD",
+        "stop": "6265ADC5B1D37D6C",
         "stop_name_tc": "九龍公園徑 (YT640)"
     },
     {
@@ -53188,8 +53188,8 @@
         "bound": "O",
         "service_type": "2",
         "seq": "25",
-        "stop": "9DDE74BD2D803D9C",
-        "stop_name_tc": "加士居道 (YT548)"
+        "stop": "25B94D808EC232D8",
+        "stop_name_tc": "加士居道 (YT547)"
     },
     {
         "route": "261B",
@@ -53220,7 +53220,7 @@
         "bound": "O",
         "service_type": "2",
         "seq": "29",
-        "stop": "E3A083E4F64D93CD",
+        "stop": "6265ADC5B1D37D6C",
         "stop_name_tc": "九龍公園徑 (YT640)"
     },
     {
@@ -55900,16 +55900,16 @@
         "bound": "O",
         "service_type": "1",
         "seq": "15",
-        "stop": "5CF51F3B971D4D56",
-        "stop_name_tc": "昌華街 (SS472)"
+        "stop": "BD34A7B702373B12",
+        "stop_name_tc": "昌華街 (SS473)"
     },
     {
         "route": "265B",
         "bound": "O",
         "service_type": "1",
         "seq": "16",
-        "stop": "AAB25066B96C6588",
-        "stop_name_tc": "元州邨 (SS478)"
+        "stop": "3A5C336CCB38A3FA",
+        "stop_name_tc": "元州邨 (SS479)"
     },
     {
         "route": "265B",
@@ -60540,15 +60540,15 @@
         "bound": "O",
         "service_type": "1",
         "seq": "16",
-        "stop": "C2685779C6B11E87",
-        "stop_name_tc": "旺角站,旺角中心 (MK511a)"
+        "stop": "68D0BC0C7164F763",
+        "stop_name_tc": "旺角站,旺角中心 (MK511)"
     },
     {
         "route": "268X",
         "bound": "O",
         "service_type": "1",
         "seq": "17",
-        "stop": "C0AA7F3501EFA657",
+        "stop": "102CF3166EF7ABFF",
         "stop_name_tc": "旺角登打士街 (MK524)"
     },
     {
@@ -60668,15 +60668,15 @@
         "bound": "O",
         "service_type": "3",
         "seq": "11",
-        "stop": "C2685779C6B11E87",
-        "stop_name_tc": "旺角站,旺角中心 (MK511a)"
+        "stop": "68D0BC0C7164F763",
+        "stop_name_tc": "旺角站,旺角中心 (MK511)"
     },
     {
         "route": "268X",
         "bound": "O",
         "service_type": "3",
         "seq": "12",
-        "stop": "C0AA7F3501EFA657",
+        "stop": "102CF3166EF7ABFF",
         "stop_name_tc": "旺角登打士街 (MK524)"
     },
     {
@@ -64388,15 +64388,15 @@
         "bound": "O",
         "service_type": "1",
         "seq": "14",
-        "stop": "C2685779C6B11E87",
-        "stop_name_tc": "旺角站,旺角中心 (MK511a)"
+        "stop": "68D0BC0C7164F763",
+        "stop_name_tc": "旺角站,旺角中心 (MK511)"
     },
     {
         "route": "269X",
         "bound": "O",
         "service_type": "1",
         "seq": "15",
-        "stop": "C0AA7F3501EFA657",
+        "stop": "102CF3166EF7ABFF",
         "stop_name_tc": "旺角登打士街 (MK524)"
     },
     {
@@ -65756,8 +65756,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "21",
-        "stop": "25B94D808EC232D8",
-        "stop_name_tc": "加士居道 (YT547)"
+        "stop": "9DDE74BD2D803D9C",
+        "stop_name_tc": "加士居道 (YT548)"
     },
     {
         "route": "270A",
@@ -66452,16 +66452,16 @@
         "bound": "O",
         "service_type": "1",
         "seq": "18",
-        "stop": "A6013462EAC8AA50",
-        "stop_name_tc": "長沙灣光昌街 (SS468)"
+        "stop": "8EAD803DDD2C3BBA",
+        "stop_name_tc": "長沙灣光昌街 (SS469)"
     },
     {
         "route": "270B",
         "bound": "O",
         "service_type": "1",
         "seq": "19",
-        "stop": "DAE9E14BA67CEC80",
-        "stop_name_tc": "長沙灣興華街 (SS475)"
+        "stop": "2035C91B61C6DFC0",
+        "stop_name_tc": "長沙灣興華街 (SS474)"
     },
     {
         "route": "270B",
@@ -66676,16 +66676,16 @@
         "bound": "O",
         "service_type": "2",
         "seq": "17",
-        "stop": "A6013462EAC8AA50",
-        "stop_name_tc": "長沙灣光昌街 (SS468)"
+        "stop": "8EAD803DDD2C3BBA",
+        "stop_name_tc": "長沙灣光昌街 (SS469)"
     },
     {
         "route": "270B",
         "bound": "O",
         "service_type": "2",
         "seq": "18",
-        "stop": "DAE9E14BA67CEC80",
-        "stop_name_tc": "長沙灣興華街 (SS475)"
+        "stop": "2035C91B61C6DFC0",
+        "stop_name_tc": "長沙灣興華街 (SS474)"
     },
     {
         "route": "270B",
@@ -67092,8 +67092,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "17",
-        "stop": "25B94D808EC232D8",
-        "stop_name_tc": "加士居道 (YT547)"
+        "stop": "9DDE74BD2D803D9C",
+        "stop_name_tc": "加士居道 (YT548)"
     },
     {
         "route": "270C",
@@ -67356,16 +67356,16 @@
         "bound": "O",
         "service_type": "1",
         "seq": "11",
-        "stop": "A6013462EAC8AA50",
-        "stop_name_tc": "長沙灣光昌街 (SS468)"
+        "stop": "8EAD803DDD2C3BBA",
+        "stop_name_tc": "長沙灣光昌街 (SS469)"
     },
     {
         "route": "270D",
         "bound": "O",
         "service_type": "1",
         "seq": "12",
-        "stop": "DAE9E14BA67CEC80",
-        "stop_name_tc": "長沙灣興華街 (SS475)"
+        "stop": "2035C91B61C6DFC0",
+        "stop_name_tc": "長沙灣興華街 (SS474)"
     },
     {
         "route": "270D",
@@ -67380,8 +67380,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "14",
-        "stop": "7BA304A9D0662541",
-        "stop_name_tc": "深水埗九江街 (SS483)"
+        "stop": "789384E5DC5AF7A9",
+        "stop_name_tc": "深水埗九江街 (SS484)"
     },
     {
         "route": "270D",
@@ -67716,7 +67716,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "15",
-        "stop": "5A0D9C9441ED6AC5",
+        "stop": "7EC4B2C80047770A",
         "stop_name_tc": "大角咀中匯街 (MK296)"
     },
     {
@@ -67724,7 +67724,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "16",
-        "stop": "9BF9C994F2DAE15D",
+        "stop": "9B62732E0E1E537C",
         "stop_name_tc": "奧運站 (MK297)"
     },
     {
@@ -67756,8 +67756,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "20",
-        "stop": "68D0BC0C7164F763",
-        "stop_name_tc": "旺角站,旺角中心 (MK511)"
+        "stop": "C2685779C6B11E87",
+        "stop_name_tc": "旺角站,旺角中心 (MK511a)"
     },
     {
         "route": "270P",
@@ -68740,7 +68740,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "18",
-        "stop": "A6AED77D365E7011",
+        "stop": "56E5C65B4893D75C",
         "stop_name_tc": "尖沙咀德成街 (YT555)"
     },
     {
@@ -68748,8 +68748,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "19",
-        "stop": "EAE9158BE729E917",
-        "stop_name_tc": "金巴利道 美麗華廣場 (YT559)"
+        "stop": "D6E03ECA84C07932",
+        "stop_name_tc": "金巴利道 美麗華廣場 (YT558)"
     },
     {
         "route": "271",
@@ -68764,7 +68764,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "21",
-        "stop": "E3A083E4F64D93CD",
+        "stop": "6265ADC5B1D37D6C",
         "stop_name_tc": "九龍公園徑 (YT640)"
     },
     {
@@ -68804,7 +68804,7 @@
         "bound": "I",
         "service_type": "1",
         "seq": "2",
-        "stop": "E3A083E4F64D93CD",
+        "stop": "6265ADC5B1D37D6C",
         "stop_name_tc": "九龍公園徑 (YT640)"
     },
     {
@@ -68996,7 +68996,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "9",
-        "stop": "5A0D9C9441ED6AC5",
+        "stop": "7EC4B2C80047770A",
         "stop_name_tc": "大角咀中匯街 (MK296)"
     },
     {
@@ -69004,7 +69004,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "10",
-        "stop": "9BF9C994F2DAE15D",
+        "stop": "9B62732E0E1E537C",
         "stop_name_tc": "奧運站 (MK297)"
     },
     {
@@ -69012,7 +69012,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "11",
-        "stop": "520C9836ACAECDF9",
+        "stop": "DE1F8505C6154534",
         "stop_name_tc": "富貴街 (MK202)"
     },
     {
@@ -69020,7 +69020,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "12",
-        "stop": "F5098BFD784B8FAB",
+        "stop": "029EA5F3C2AEFBC9",
         "stop_name_tc": "海富苑 柏景灣 (MK121)"
     },
     {
@@ -69028,7 +69028,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "13",
-        "stop": "1C7C526A52EF9171",
+        "stop": "6E4C75B59DEF3D89",
         "stop_name_tc": "富榮花園 (MK122)"
     },
     {
@@ -69572,7 +69572,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "27",
-        "stop": "A6AED77D365E7011",
+        "stop": "56E5C65B4893D75C",
         "stop_name_tc": "尖沙咀德成街 (YT555)"
     },
     {
@@ -69580,8 +69580,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "28",
-        "stop": "EAE9158BE729E917",
-        "stop_name_tc": "金巴利道 美麗華廣場 (YT559)"
+        "stop": "D6E03ECA84C07932",
+        "stop_name_tc": "金巴利道 美麗華廣場 (YT558)"
     },
     {
         "route": "271B",
@@ -69596,7 +69596,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "30",
-        "stop": "E3A083E4F64D93CD",
+        "stop": "6265ADC5B1D37D6C",
         "stop_name_tc": "九龍公園徑 (YT640)"
     },
     {
@@ -69796,8 +69796,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "22",
-        "stop": "25B94D808EC232D8",
-        "stop_name_tc": "加士居道 (YT547)"
+        "stop": "9DDE74BD2D803D9C",
+        "stop_name_tc": "加士居道 (YT548)"
     },
     {
         "route": "271P",
@@ -69820,8 +69820,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "25",
-        "stop": "452AD79BA74CF8F3",
-        "stop_name_tc": "尖沙咀轉車站 - 中間道 (YT561)"
+        "stop": "11A1269F9B78F269",
+        "stop_name_tc": "尖沙咀轉車站 - 中間道 (YT562)"
     },
     {
         "route": "271P",
@@ -71092,16 +71092,16 @@
         "bound": "O",
         "service_type": "1",
         "seq": "11",
-        "stop": "A6013462EAC8AA50",
-        "stop_name_tc": "長沙灣光昌街 (SS468)"
+        "stop": "8EAD803DDD2C3BBA",
+        "stop_name_tc": "長沙灣光昌街 (SS469)"
     },
     {
         "route": "272E",
         "bound": "O",
         "service_type": "1",
         "seq": "12",
-        "stop": "DAE9E14BA67CEC80",
-        "stop_name_tc": "長沙灣興華街 (SS475)"
+        "stop": "2035C91B61C6DFC0",
+        "stop_name_tc": "長沙灣興華街 (SS474)"
     },
     {
         "route": "272E",
@@ -83356,7 +83356,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "17",
-        "stop": "A6AED77D365E7011",
+        "stop": "56E5C65B4893D75C",
         "stop_name_tc": "尖沙咀德成街 (YT555)"
     },
     {
@@ -83364,8 +83364,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "18",
-        "stop": "EAE9158BE729E917",
-        "stop_name_tc": "金巴利道 美麗華廣場 (YT559)"
+        "stop": "D6E03ECA84C07932",
+        "stop_name_tc": "金巴利道 美麗華廣場 (YT558)"
     },
     {
         "route": "281A",
@@ -83380,7 +83380,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "20",
-        "stop": "E3A083E4F64D93CD",
+        "stop": "6265ADC5B1D37D6C",
         "stop_name_tc": "九龍公園徑 (YT640)"
     },
     {
@@ -85076,16 +85076,16 @@
         "bound": "O",
         "service_type": "1",
         "seq": "16",
-        "stop": "A6013462EAC8AA50",
-        "stop_name_tc": "長沙灣光昌街 (SS468)"
+        "stop": "8EAD803DDD2C3BBA",
+        "stop_name_tc": "長沙灣光昌街 (SS469)"
     },
     {
         "route": "286C",
         "bound": "O",
         "service_type": "1",
         "seq": "17",
-        "stop": "DAE9E14BA67CEC80",
-        "stop_name_tc": "長沙灣興華街 (SS475)"
+        "stop": "2035C91B61C6DFC0",
+        "stop_name_tc": "長沙灣興華街 (SS474)"
     },
     {
         "route": "286C",
@@ -85444,16 +85444,16 @@
         "bound": "O",
         "service_type": "1",
         "seq": "17",
-        "stop": "A6013462EAC8AA50",
-        "stop_name_tc": "長沙灣光昌街 (SS468)"
+        "stop": "8EAD803DDD2C3BBA",
+        "stop_name_tc": "長沙灣光昌街 (SS469)"
     },
     {
         "route": "286D",
         "bound": "O",
         "service_type": "1",
         "seq": "18",
-        "stop": "DAE9E14BA67CEC80",
-        "stop_name_tc": "長沙灣興華街 (SS475)"
+        "stop": "2035C91B61C6DFC0",
+        "stop_name_tc": "長沙灣興華街 (SS474)"
     },
     {
         "route": "286D",
@@ -86644,8 +86644,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "16",
-        "stop": "68D0BC0C7164F763",
-        "stop_name_tc": "旺角站,旺角中心 (MK511)"
+        "stop": "C2685779C6B11E87",
+        "stop_name_tc": "旺角站,旺角中心 (MK511a)"
     },
     {
         "route": "287P",
@@ -86660,8 +86660,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "18",
-        "stop": "25B94D808EC232D8",
-        "stop_name_tc": "加士居道 (YT547)"
+        "stop": "9DDE74BD2D803D9C",
+        "stop_name_tc": "加士居道 (YT548)"
     },
     {
         "route": "287X",
@@ -92284,8 +92284,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "3",
-        "stop": "A6013462EAC8AA50",
-        "stop_name_tc": "長沙灣光昌街 (SS468)"
+        "stop": "8EAD803DDD2C3BBA",
+        "stop_name_tc": "長沙灣光昌街 (SS469)"
     },
     {
         "route": "293S",
@@ -92300,8 +92300,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "5",
-        "stop": "AAB25066B96C6588",
-        "stop_name_tc": "元州邨 (SS478)"
+        "stop": "3A5C336CCB38A3FA",
+        "stop_name_tc": "元州邨 (SS479)"
     },
     {
         "route": "293S",
@@ -93420,7 +93420,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "5",
-        "stop": "5CCBD9A6B58BF20D",
+        "stop": "190F209646059000",
         "stop_name_tc": "九龍佑寧堂 (YT670)"
     },
     {
@@ -93428,7 +93428,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "6",
-        "stop": "A6AED77D365E7011",
+        "stop": "56E5C65B4893D75C",
         "stop_name_tc": "尖沙咀德成街 (YT555)"
     },
     {
@@ -93436,8 +93436,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "7",
-        "stop": "EAE9158BE729E917",
-        "stop_name_tc": "金巴利道 美麗華廣場 (YT559)"
+        "stop": "D6E03ECA84C07932",
+        "stop_name_tc": "金巴利道 美麗華廣場 (YT558)"
     },
     {
         "route": "296D",
@@ -93452,7 +93452,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "9",
-        "stop": "E3A083E4F64D93CD",
+        "stop": "6265ADC5B1D37D6C",
         "stop_name_tc": "九龍公園徑 (YT640)"
     },
     {
@@ -93924,8 +93924,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "2",
-        "stop": "A6013462EAC8AA50",
-        "stop_name_tc": "長沙灣光昌街 (SS468)"
+        "stop": "8EAD803DDD2C3BBA",
+        "stop_name_tc": "長沙灣光昌街 (SS469)"
     },
     {
         "route": "296P",
@@ -93940,8 +93940,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "4",
-        "stop": "AAB25066B96C6588",
-        "stop_name_tc": "元州邨 (SS478)"
+        "stop": "3A5C336CCB38A3FA",
+        "stop_name_tc": "元州邨 (SS479)"
     },
     {
         "route": "296P",
@@ -95260,8 +95260,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "3",
-        "stop": "A6013462EAC8AA50",
-        "stop_name_tc": "長沙灣光昌街 (SS468)"
+        "stop": "8EAD803DDD2C3BBA",
+        "stop_name_tc": "長沙灣光昌街 (SS469)"
     },
     {
         "route": "298X",
@@ -95276,8 +95276,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "5",
-        "stop": "AAB25066B96C6588",
-        "stop_name_tc": "元州邨 (SS478)"
+        "stop": "3A5C336CCB38A3FA",
+        "stop_name_tc": "元州邨 (SS479)"
     },
     {
         "route": "298X",
@@ -97740,7 +97740,7 @@
         "bound": "I",
         "service_type": "1",
         "seq": "11",
-        "stop": "F5098BFD784B8FAB",
+        "stop": "029EA5F3C2AEFBC9",
         "stop_name_tc": "海富苑 柏景灣 (MK121)"
     },
     {
@@ -97748,7 +97748,7 @@
         "bound": "I",
         "service_type": "1",
         "seq": "12",
-        "stop": "1C7C526A52EF9171",
+        "stop": "6E4C75B59DEF3D89",
         "stop_name_tc": "富榮花園 (MK122)"
     },
     {
@@ -101828,8 +101828,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "12",
-        "stop": "DAE9E14BA67CEC80",
-        "stop_name_tc": "長沙灣興華街 (SS475)"
+        "stop": "2035C91B61C6DFC0",
+        "stop_name_tc": "長沙灣興華街 (SS474)"
     },
     {
         "route": "30X",
@@ -101844,24 +101844,24 @@
         "bound": "O",
         "service_type": "1",
         "seq": "14",
-        "stop": "7BA304A9D0662541",
-        "stop_name_tc": "深水埗九江街 (SS483)"
+        "stop": "789384E5DC5AF7A9",
+        "stop_name_tc": "深水埗九江街 (SS484)"
     },
     {
         "route": "30X",
         "bound": "O",
         "service_type": "1",
         "seq": "15",
-        "stop": "943DA171019723CE",
-        "stop_name_tc": "深水埗北河街 (SS490)"
+        "stop": "812E72C257C94B73",
+        "stop_name_tc": "深水埗北河街 (SS491)"
     },
     {
         "route": "30X",
         "bound": "O",
         "service_type": "1",
         "seq": "16",
-        "stop": "495A6186451A78E3",
-        "stop_name_tc": "深水埗楓樹街 (SS495)"
+        "stop": "E553B839AD6A8C3D",
+        "stop_name_tc": "深水埗楓樹街 (SS494)"
     },
     {
         "route": "30X",
@@ -107100,8 +107100,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "13",
-        "stop": "DAE9E14BA67CEC80",
-        "stop_name_tc": "長沙灣興華街 (SS475)"
+        "stop": "2035C91B61C6DFC0",
+        "stop_name_tc": "長沙灣興華街 (SS474)"
     },
     {
         "route": "35A",
@@ -107116,24 +107116,24 @@
         "bound": "O",
         "service_type": "1",
         "seq": "15",
-        "stop": "7BA304A9D0662541",
-        "stop_name_tc": "深水埗九江街 (SS483)"
+        "stop": "789384E5DC5AF7A9",
+        "stop_name_tc": "深水埗九江街 (SS484)"
     },
     {
         "route": "35A",
         "bound": "O",
         "service_type": "1",
         "seq": "16",
-        "stop": "943DA171019723CE",
-        "stop_name_tc": "深水埗北河街 (SS490)"
+        "stop": "812E72C257C94B73",
+        "stop_name_tc": "深水埗北河街 (SS491)"
     },
     {
         "route": "35A",
         "bound": "O",
         "service_type": "1",
         "seq": "17",
-        "stop": "495A6186451A78E3",
-        "stop_name_tc": "深水埗楓樹街 (SS495)"
+        "stop": "E553B839AD6A8C3D",
+        "stop_name_tc": "深水埗楓樹街 (SS494)"
     },
     {
         "route": "35A",
@@ -109124,8 +109124,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "16",
-        "stop": "25B94D808EC232D8",
-        "stop_name_tc": "加士居道 (YT547)"
+        "stop": "9DDE74BD2D803D9C",
+        "stop_name_tc": "加士居道 (YT548)"
     },
     {
         "route": "36X",
@@ -109140,8 +109140,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "18",
-        "stop": "D6E03ECA84C07932",
-        "stop_name_tc": "金巴利道 美麗華廣場 (YT558)"
+        "stop": "EAE9158BE729E917",
+        "stop_name_tc": "金巴利道 美麗華廣場 (YT559)"
     },
     {
         "route": "36X",
@@ -113548,7 +113548,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "25",
-        "stop": "E049C81469E2B3C0",
+        "stop": "F053C0080D5D5B62",
         "stop_name_tc": "白加士街 廟街夜市 (YT671)"
     },
     {
@@ -114724,15 +114724,15 @@
         "bound": "O",
         "service_type": "1",
         "seq": "16",
-        "stop": "9DDE74BD2D803D9C",
-        "stop_name_tc": "加士居道 (YT548)"
+        "stop": "25B94D808EC232D8",
+        "stop_name_tc": "加士居道 (YT547)"
     },
     {
         "route": "3X",
         "bound": "O",
         "service_type": "1",
         "seq": "17",
-        "stop": "E049C81469E2B3C0",
+        "stop": "F053C0080D5D5B62",
         "stop_name_tc": "白加士街 廟街夜市 (YT671)"
     },
     {
@@ -114908,15 +114908,15 @@
         "bound": "O",
         "service_type": "2",
         "seq": "19",
-        "stop": "9DDE74BD2D803D9C",
-        "stop_name_tc": "加士居道 (YT548)"
+        "stop": "25B94D808EC232D8",
+        "stop_name_tc": "加士居道 (YT547)"
     },
     {
         "route": "3X",
         "bound": "O",
         "service_type": "2",
         "seq": "20",
-        "stop": "E049C81469E2B3C0",
+        "stop": "F053C0080D5D5B62",
         "stop_name_tc": "白加士街 廟街夜市 (YT671)"
     },
     {
@@ -119476,7 +119476,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "10",
-        "stop": "972145F4BB2B535F",
+        "stop": "1E1F9E719E67766C",
         "stop_name_tc": "美孚轉車站 (SS461)"
     },
     {
@@ -119500,8 +119500,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "13",
-        "stop": "3A5C336CCB38A3FA",
-        "stop_name_tc": "元州邨 (SS479)"
+        "stop": "AAB25066B96C6588",
+        "stop_name_tc": "元州邨 (SS478)"
     },
     {
         "route": "42A",
@@ -119540,8 +119540,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "18",
-        "stop": "C2685779C6B11E87",
-        "stop_name_tc": "旺角站,旺角中心 (MK511a)"
+        "stop": "68D0BC0C7164F763",
+        "stop_name_tc": "旺角站,旺角中心 (MK511)"
     },
     {
         "route": "42A",
@@ -123060,16 +123060,16 @@
         "bound": "O",
         "service_type": "1",
         "seq": "11",
-        "stop": "5CF51F3B971D4D56",
-        "stop_name_tc": "昌華街 (SS472)"
+        "stop": "BD34A7B702373B12",
+        "stop_name_tc": "昌華街 (SS473)"
     },
     {
         "route": "44",
         "bound": "O",
         "service_type": "1",
         "seq": "12",
-        "stop": "AAB25066B96C6588",
-        "stop_name_tc": "元州邨 (SS478)"
+        "stop": "3A5C336CCB38A3FA",
+        "stop_name_tc": "元州邨 (SS479)"
     },
     {
         "route": "44",
@@ -124342,6 +124342,22 @@
         "seq": "32",
         "stop": "FD1B403FD4EC3E8D",
         "stop_name_tc": "佐敦炮台街 (YT674)"
+    },
+    {
+        "route": "46",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "33",
+        "stop": "4E42234F86ABC6E3",
+        "stop_name_tc": "高鐵(西九龍站)巴士總站 (YT950)"
+    },
+    {
+        "route": "46",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "1",
+        "stop": "4E42234F86ABC6E3",
+        "stop_name_tc": "高鐵(西九龍站)巴士總站 (YT950)"
     },
     {
         "route": "46",
@@ -127764,7 +127780,7 @@
         "bound": "I",
         "service_type": "1",
         "seq": "16",
-        "stop": "5CCBD9A6B58BF20D",
+        "stop": "190F209646059000",
         "stop_name_tc": "九龍佑寧堂 (YT670)"
     },
     {
@@ -127772,7 +127788,7 @@
         "bound": "I",
         "service_type": "1",
         "seq": "17",
-        "stop": "E049C81469E2B3C0",
+        "stop": "F053C0080D5D5B62",
         "stop_name_tc": "白加士街 廟街夜市 (YT671)"
     },
     {
@@ -130116,16 +130132,16 @@
         "bound": "O",
         "service_type": "1",
         "seq": "25",
-        "stop": "5CF51F3B971D4D56",
-        "stop_name_tc": "昌華街 (SS472)"
+        "stop": "BD34A7B702373B12",
+        "stop_name_tc": "昌華街 (SS473)"
     },
     {
         "route": "52P",
         "bound": "O",
         "service_type": "1",
         "seq": "26",
-        "stop": "AAB25066B96C6588",
-        "stop_name_tc": "元州邨 (SS478)"
+        "stop": "3A5C336CCB38A3FA",
+        "stop_name_tc": "元州邨 (SS479)"
     },
     {
         "route": "52P",
@@ -130788,16 +130804,16 @@
         "bound": "O",
         "service_type": "1",
         "seq": "30",
-        "stop": "5CF51F3B971D4D56",
-        "stop_name_tc": "昌華街 (SS472)"
+        "stop": "BD34A7B702373B12",
+        "stop_name_tc": "昌華街 (SS473)"
     },
     {
         "route": "52X",
         "bound": "O",
         "service_type": "1",
         "seq": "31",
-        "stop": "AAB25066B96C6588",
-        "stop_name_tc": "元州邨 (SS478)"
+        "stop": "3A5C336CCB38A3FA",
+        "stop_name_tc": "元州邨 (SS479)"
     },
     {
         "route": "52X",
@@ -142731,6 +142747,14 @@
         "route": "60X",
         "bound": "I",
         "service_type": "1",
+        "seq": "1",
+        "stop": "E1DA8EB2EA9A4B3C",
+        "stop_name_tc": "高鐵(西九龍站)巴士總站 (YT953)"
+    },
+    {
+        "route": "60X",
+        "bound": "I",
+        "service_type": "1",
         "seq": "2",
         "stop": "457F82CA73DB77ED",
         "stop_name_tc": "佐敦道,高鐵站 (YT241)"
@@ -142972,7 +142996,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "8",
-        "stop": "972145F4BB2B535F",
+        "stop": "1E1F9E719E67766C",
         "stop_name_tc": "美孚轉車站 (SS461)"
     },
     {
@@ -142980,8 +143004,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "9",
-        "stop": "8EAD803DDD2C3BBA",
-        "stop_name_tc": "長沙灣光昌街 (SS469)"
+        "stop": "A6013462EAC8AA50",
+        "stop_name_tc": "長沙灣光昌街 (SS468)"
     },
     {
         "route": "60X",
@@ -142996,8 +143020,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "11",
-        "stop": "3A5C336CCB38A3FA",
-        "stop_name_tc": "元州邨 (SS479)"
+        "stop": "AAB25066B96C6588",
+        "stop_name_tc": "元州邨 (SS478)"
     },
     {
         "route": "60X",
@@ -143036,15 +143060,15 @@
         "bound": "O",
         "service_type": "1",
         "seq": "16",
-        "stop": "C2685779C6B11E87",
-        "stop_name_tc": "旺角站,旺角中心 (MK511a)"
+        "stop": "68D0BC0C7164F763",
+        "stop_name_tc": "旺角站,旺角中心 (MK511)"
     },
     {
         "route": "60X",
         "bound": "O",
         "service_type": "1",
         "seq": "17",
-        "stop": "C0AA7F3501EFA657",
+        "stop": "102CF3166EF7ABFF",
         "stop_name_tc": "旺角登打士街 (MK524)"
     },
     {
@@ -143070,6 +143094,14 @@
         "seq": "20",
         "stop": "FD1B403FD4EC3E8D",
         "stop_name_tc": "佐敦炮台街 (YT674)"
+    },
+    {
+        "route": "60X",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "21",
+        "stop": "E1DA8EB2EA9A4B3C",
+        "stop_name_tc": "高鐵(西九龍站)巴士總站 (YT953)"
     },
     {
         "route": "613",
@@ -147691,6 +147723,14 @@
         "route": "63X",
         "bound": "I",
         "service_type": "1",
+        "seq": "1",
+        "stop": "E1DA8EB2EA9A4B3C",
+        "stop_name_tc": "高鐵(西九龍站)巴士總站 (YT953)"
+    },
+    {
+        "route": "63X",
+        "bound": "I",
+        "service_type": "1",
         "seq": "2",
         "stop": "457F82CA73DB77ED",
         "stop_name_tc": "佐敦道,高鐵站 (YT241)"
@@ -148036,7 +148076,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "19",
-        "stop": "972145F4BB2B535F",
+        "stop": "1E1F9E719E67766C",
         "stop_name_tc": "美孚轉車站 (SS461)"
     },
     {
@@ -148052,15 +148092,15 @@
         "bound": "O",
         "service_type": "1",
         "seq": "21",
-        "stop": "C2685779C6B11E87",
-        "stop_name_tc": "旺角站,旺角中心 (MK511a)"
+        "stop": "68D0BC0C7164F763",
+        "stop_name_tc": "旺角站,旺角中心 (MK511)"
     },
     {
         "route": "63X",
         "bound": "O",
         "service_type": "1",
         "seq": "22",
-        "stop": "C0AA7F3501EFA657",
+        "stop": "102CF3166EF7ABFF",
         "stop_name_tc": "旺角登打士街 (MK524)"
     },
     {
@@ -148068,8 +148108,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "23",
-        "stop": "9DDE74BD2D803D9C",
-        "stop_name_tc": "加士居道 (YT548)"
+        "stop": "25B94D808EC232D8",
+        "stop_name_tc": "加士居道 (YT547)"
     },
     {
         "route": "63X",
@@ -148086,6 +148126,14 @@
         "seq": "25",
         "stop": "FD1B403FD4EC3E8D",
         "stop_name_tc": "佐敦炮台街 (YT674)"
+    },
+    {
+        "route": "63X",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "26",
+        "stop": "E1DA8EB2EA9A4B3C",
+        "stop_name_tc": "高鐵(西九龍站)巴士總站 (YT953)"
     },
     {
         "route": "641",
@@ -161276,7 +161324,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "8",
-        "stop": "972145F4BB2B535F",
+        "stop": "1E1F9E719E67766C",
         "stop_name_tc": "美孚轉車站 (SS461)"
     },
     {
@@ -161284,8 +161332,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "9",
-        "stop": "8EAD803DDD2C3BBA",
-        "stop_name_tc": "長沙灣光昌街 (SS469)"
+        "stop": "A6013462EAC8AA50",
+        "stop_name_tc": "長沙灣光昌街 (SS468)"
     },
     {
         "route": "69X",
@@ -161300,8 +161348,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "11",
-        "stop": "3A5C336CCB38A3FA",
-        "stop_name_tc": "元州邨 (SS479)"
+        "stop": "AAB25066B96C6588",
+        "stop_name_tc": "元州邨 (SS478)"
     },
     {
         "route": "69X",
@@ -161340,15 +161388,15 @@
         "bound": "O",
         "service_type": "1",
         "seq": "16",
-        "stop": "C2685779C6B11E87",
-        "stop_name_tc": "旺角站,旺角中心 (MK511a)"
+        "stop": "68D0BC0C7164F763",
+        "stop_name_tc": "旺角站,旺角中心 (MK511)"
     },
     {
         "route": "69X",
         "bound": "O",
         "service_type": "1",
         "seq": "17",
-        "stop": "C0AA7F3501EFA657",
+        "stop": "102CF3166EF7ABFF",
         "stop_name_tc": "旺角登打士街 (MK524)"
     },
     {
@@ -161356,8 +161404,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "18",
-        "stop": "9DDE74BD2D803D9C",
-        "stop_name_tc": "加士居道 (YT548)"
+        "stop": "25B94D808EC232D8",
+        "stop_name_tc": "加士居道 (YT547)"
     },
     {
         "route": "69X",
@@ -161428,7 +161476,7 @@
         "bound": "O",
         "service_type": "2",
         "seq": "6",
-        "stop": "972145F4BB2B535F",
+        "stop": "1E1F9E719E67766C",
         "stop_name_tc": "美孚轉車站 (SS461)"
     },
     {
@@ -161436,8 +161484,8 @@
         "bound": "O",
         "service_type": "2",
         "seq": "7",
-        "stop": "8EAD803DDD2C3BBA",
-        "stop_name_tc": "長沙灣光昌街 (SS469)"
+        "stop": "A6013462EAC8AA50",
+        "stop_name_tc": "長沙灣光昌街 (SS468)"
     },
     {
         "route": "69X",
@@ -161452,8 +161500,8 @@
         "bound": "O",
         "service_type": "2",
         "seq": "9",
-        "stop": "3A5C336CCB38A3FA",
-        "stop_name_tc": "元州邨 (SS479)"
+        "stop": "AAB25066B96C6588",
+        "stop_name_tc": "元州邨 (SS478)"
     },
     {
         "route": "69X",
@@ -161492,15 +161540,15 @@
         "bound": "O",
         "service_type": "2",
         "seq": "14",
-        "stop": "C2685779C6B11E87",
-        "stop_name_tc": "旺角站,旺角中心 (MK511a)"
+        "stop": "68D0BC0C7164F763",
+        "stop_name_tc": "旺角站,旺角中心 (MK511)"
     },
     {
         "route": "69X",
         "bound": "O",
         "service_type": "2",
         "seq": "15",
-        "stop": "C0AA7F3501EFA657",
+        "stop": "102CF3166EF7ABFF",
         "stop_name_tc": "旺角登打士街 (MK524)"
     },
     {
@@ -161508,8 +161556,8 @@
         "bound": "O",
         "service_type": "2",
         "seq": "16",
-        "stop": "9DDE74BD2D803D9C",
-        "stop_name_tc": "加士居道 (YT548)"
+        "stop": "25B94D808EC232D8",
+        "stop_name_tc": "加士居道 (YT547)"
     },
     {
         "route": "69X",
@@ -164676,8 +164724,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "9",
-        "stop": "68D0BC0C7164F763",
-        "stop_name_tc": "旺角站,旺角中心 (MK511)"
+        "stop": "C2685779C6B11E87",
+        "stop_name_tc": "旺角站,旺角中心 (MK511a)"
     },
     {
         "route": "70S",
@@ -186051,6 +186099,14 @@
         "route": "81",
         "bound": "I",
         "service_type": "1",
+        "seq": "1",
+        "stop": "C35DF653E02636CD",
+        "stop_name_tc": "高鐵(西九龍站)巴士總站 (YT952)"
+    },
+    {
+        "route": "81",
+        "bound": "I",
+        "service_type": "1",
         "seq": "2",
         "stop": "98F2067168C267FE",
         "stop_name_tc": "佐敦道,高鐵站 (YT242)"
@@ -186452,15 +186508,15 @@
         "bound": "O",
         "service_type": "1",
         "seq": "24",
-        "stop": "C2685779C6B11E87",
-        "stop_name_tc": "旺角站,旺角中心 (MK511a)"
+        "stop": "68D0BC0C7164F763",
+        "stop_name_tc": "旺角站,旺角中心 (MK511)"
     },
     {
         "route": "81",
         "bound": "O",
         "service_type": "1",
         "seq": "25",
-        "stop": "C0AA7F3501EFA657",
+        "stop": "102CF3166EF7ABFF",
         "stop_name_tc": "旺角登打士街 (MK524)"
     },
     {
@@ -186486,6 +186542,14 @@
         "seq": "28",
         "stop": "FD1B403FD4EC3E8D",
         "stop_name_tc": "佐敦炮台街 (YT674)"
+    },
+    {
+        "route": "81",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "29",
+        "stop": "C35DF653E02636CD",
+        "stop_name_tc": "高鐵(西九龍站)巴士總站 (YT952)"
     },
     {
         "route": "81C",
@@ -217428,8 +217492,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "29",
-        "stop": "C2685779C6B11E87",
-        "stop_name_tc": "旺角站,旺角中心 (MK511a)"
+        "stop": "68D0BC0C7164F763",
+        "stop_name_tc": "旺角站,旺角中心 (MK511)"
     },
     {
         "route": "95",
@@ -228156,8 +228220,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "3",
-        "stop": "A6013462EAC8AA50",
-        "stop_name_tc": "長沙灣光昌街 (SS468)"
+        "stop": "8EAD803DDD2C3BBA",
+        "stop_name_tc": "長沙灣光昌街 (SS469)"
     },
     {
         "route": "98C",
@@ -228172,8 +228236,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "5",
-        "stop": "AAB25066B96C6588",
-        "stop_name_tc": "元州邨 (SS478)"
+        "stop": "3A5C336CCB38A3FA",
+        "stop_name_tc": "元州邨 (SS479)"
     },
     {
         "route": "98C",
@@ -229532,8 +229596,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "3",
-        "stop": "A6013462EAC8AA50",
-        "stop_name_tc": "長沙灣光昌街 (SS468)"
+        "stop": "8EAD803DDD2C3BBA",
+        "stop_name_tc": "長沙灣光昌街 (SS469)"
     },
     {
         "route": "98E",
@@ -229548,8 +229612,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "5",
-        "stop": "AAB25066B96C6588",
-        "stop_name_tc": "元州邨 (SS478)"
+        "stop": "3A5C336CCB38A3FA",
+        "stop_name_tc": "元州邨 (SS479)"
     },
     {
         "route": "98E",
@@ -230500,8 +230564,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "3",
-        "stop": "A6013462EAC8AA50",
-        "stop_name_tc": "長沙灣光昌街 (SS468)"
+        "stop": "8EAD803DDD2C3BBA",
+        "stop_name_tc": "長沙灣光昌街 (SS469)"
     },
     {
         "route": "98S",
@@ -230516,8 +230580,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "5",
-        "stop": "AAB25066B96C6588",
-        "stop_name_tc": "元州邨 (SS478)"
+        "stop": "3A5C336CCB38A3FA",
+        "stop_name_tc": "元州邨 (SS479)"
     },
     {
         "route": "98S",
@@ -261972,8 +262036,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "25",
-        "stop": "25B94D808EC232D8",
-        "stop_name_tc": "加士居道 (YT547)"
+        "stop": "9DDE74BD2D803D9C",
+        "stop_name_tc": "加士居道 (YT548)"
     },
     {
         "route": "N271",
@@ -261996,8 +262060,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "28",
-        "stop": "452AD79BA74CF8F3",
-        "stop_name_tc": "尖沙咀轉車站 - 中間道 (YT561)"
+        "stop": "11A1269F9B78F269",
+        "stop_name_tc": "尖沙咀轉車站 - 中間道 (YT562)"
     },
     {
         "route": "N271",
@@ -286940,7 +287004,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "17",
-        "stop": "5CCBD9A6B58BF20D",
+        "stop": "190F209646059000",
         "stop_name_tc": "九龍佑寧堂 (YT670)"
     },
     {
@@ -286948,7 +287012,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "18",
-        "stop": "E049C81469E2B3C0",
+        "stop": "F053C0080D5D5B62",
         "stop_name_tc": "白加士街 廟街夜市 (YT671)"
     },
     {
@@ -287156,7 +287220,7 @@
         "bound": "O",
         "service_type": "3",
         "seq": "8",
-        "stop": "5CCBD9A6B58BF20D",
+        "stop": "190F209646059000",
         "stop_name_tc": "九龍佑寧堂 (YT670)"
     },
     {
@@ -287164,7 +287228,7 @@
         "bound": "O",
         "service_type": "3",
         "seq": "9",
-        "stop": "E049C81469E2B3C0",
+        "stop": "F053C0080D5D5B62",
         "stop_name_tc": "白加士街 廟街夜市 (YT671)"
     },
     {
@@ -287436,7 +287500,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "13",
-        "stop": "5A0D9C9441ED6AC5",
+        "stop": "7EC4B2C80047770A",
         "stop_name_tc": "大角咀中匯街 (MK296)"
     },
     {
@@ -287444,7 +287508,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "14",
-        "stop": "9BF9C994F2DAE15D",
+        "stop": "9B62732E0E1E537C",
         "stop_name_tc": "奧運站 (MK297)"
     },
     {
@@ -287452,7 +287516,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "15",
-        "stop": "520C9836ACAECDF9",
+        "stop": "DE1F8505C6154534",
         "stop_name_tc": "富貴街 (MK202)"
     },
     {
@@ -287460,7 +287524,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "16",
-        "stop": "F5098BFD784B8FAB",
+        "stop": "029EA5F3C2AEFBC9",
         "stop_name_tc": "海富苑 柏景灣 (MK121)"
     },
     {
@@ -287468,7 +287532,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "17",
-        "stop": "1C7C526A52EF9171",
+        "stop": "6E4C75B59DEF3D89",
         "stop_name_tc": "富榮花園 (MK122)"
     },
     {
@@ -287572,7 +287636,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "11",
-        "stop": "E3A083E4F64D93CD",
+        "stop": "6265ADC5B1D37D6C",
         "stop_name_tc": "九龍公園徑 (YT640)"
     },
     {
