@@ -11102,9 +11102,9 @@
         "route": "79K",
         "bound": "I",
         "service_type": "1",
-        "orig_en": "TA KWU LING(TSUNG YUEN HA)",
-        "orig_tc": "打鼓嶺(松園下)",
-        "orig_sc": "打鼓岭(松园下)",
+        "orig_en": "TA KWU LING(HEUNG YUEN WAI CONTROL PT/LIANTANG)",
+        "orig_tc": "打鼓嶺 (香園圍口岸.蓮塘)",
+        "orig_sc": "打鼓岭 (香园围口岸.莲塘)",
         "dest_en": "CHOI SHEK ESTATE",
         "dest_tc": "彩石邨",
         "dest_sc": "彩石邨"
@@ -11113,9 +11113,9 @@
         "route": "79K",
         "bound": "I",
         "service_type": "3",
-        "orig_en": "TA KWU LING(TSUNG YUEN HA)",
-        "orig_tc": "打鼓嶺(松園下)",
-        "orig_sc": "打鼓岭(松园下)",
+        "orig_en": "TA KWU LING(HEUNG YUEN WAI CONTROL PT/LIANTANG)",
+        "orig_tc": "打鼓嶺 (香園圍口岸.蓮塘)",
+        "orig_sc": "打鼓岭 (香园围口岸.莲塘)",
         "dest_en": "FANLING STATION",
         "dest_tc": "粉嶺站",
         "dest_sc": "粉岭站"
@@ -11127,9 +11127,9 @@
         "orig_en": "CHOI SHEK ESTATE",
         "orig_tc": "彩石邨",
         "orig_sc": "彩石邨",
-        "dest_en": "TA KWU LING(TSUNG YUEN HA)",
-        "dest_tc": "打鼓嶺(松園下)",
-        "dest_sc": "打鼓岭(松园下)"
+        "dest_en": "TA KWU LING(HEUNG YUEN WAI CONTROL PT/LIANTANG)",
+        "dest_tc": "打鼓嶺 (香園圍口岸.蓮塘)",
+        "dest_sc": "打鼓岭 (香园围口岸.莲塘)"
     },
     {
         "route": "79K",
@@ -11138,9 +11138,9 @@
         "orig_en": "FANLING STATION",
         "orig_tc": "粉嶺站",
         "orig_sc": "粉岭站",
-        "dest_en": "TA KWU LING(TSUNG YUEN HA)",
-        "dest_tc": "打鼓嶺(松園下)",
-        "dest_sc": "打鼓岭(松园下)"
+        "dest_en": "TA KWU LING(HEUNG YUEN WAI CONTROL PT/LIANTANG)",
+        "dest_tc": "打鼓嶺 (香園圍口岸.蓮塘)",
+        "dest_sc": "打鼓岭 (香园围口岸.莲塘)"
     },
     {
         "route": "7B",
@@ -16127,6 +16127,17 @@
     },
     {
         "route": "N368",
+        "bound": "I",
+        "service_type": "2",
+        "orig_en": "CENTRAL (MACAU FERRY)",
+        "orig_tc": "中環(港澳碼頭)",
+        "orig_sc": "中环(港澳码头)",
+        "dest_en": "YUEN LONG (WEST)",
+        "dest_tc": "元朗(西)",
+        "dest_sc": "元朗(西)"
+    },
+    {
+        "route": "N368",
         "bound": "O",
         "service_type": "1",
         "orig_en": "YUEN LONG (WEST)",
@@ -16775,6 +16786,17 @@
         "dest_sc": "铜锣湾(天后)"
     },
     {
+        "route": "PB1",
+        "bound": "O",
+        "service_type": "2",
+        "orig_en": "GO PARK",
+        "orig_tc": "西沙 GO PARK",
+        "orig_sc": "西沙 GO PARK",
+        "dest_en": "Sheung Shui",
+        "dest_tc": "上水",
+        "dest_sc": "上水"
+    },
+    {
         "route": "PB1A",
         "bound": "O",
         "service_type": "1",
@@ -16844,6 +16866,17 @@
         "route": "PB5",
         "bound": "O",
         "service_type": "1",
+        "orig_en": "HONG KONG PALACE MUSEUM",
+        "orig_tc": "香港故宮文化博物館",
+        "orig_sc": "香港故宫文化博物馆",
+        "dest_en": "DISCOVERY BAY PLAZA",
+        "dest_tc": "愉景廣場",
+        "dest_sc": "愉景广场"
+    },
+    {
+        "route": "PB5",
+        "bound": "O",
+        "service_type": "2",
         "orig_en": "HONG KONG PALACE MUSEUM",
         "orig_tc": "香港故宮文化博物館",
         "orig_sc": "香港故宫文化博物馆",
