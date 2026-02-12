@@ -16788,6 +16788,17 @@
     {
         "route": "PB1",
         "bound": "O",
+        "service_type": "1",
+        "orig_en": "GO PARK",
+        "orig_tc": "西沙 GO PARK",
+        "orig_sc": "西沙 GO PARK",
+        "dest_en": "Sheung Shui",
+        "dest_tc": "上水",
+        "dest_sc": "上水"
+    },
+    {
+        "route": "PB1",
+        "bound": "O",
         "service_type": "2",
         "orig_en": "GO PARK",
         "orig_tc": "西沙 GO PARK",
@@ -16819,6 +16830,28 @@
         "dest_sc": "西沙 GO PARK"
     },
     {
+        "route": "PB2",
+        "bound": "O",
+        "service_type": "1",
+        "orig_en": "GO PARK",
+        "orig_tc": "西沙 GO PARK",
+        "orig_sc": "西沙 GO PARK",
+        "dest_en": "Hong Kong Palace Museum",
+        "dest_tc": "香港故宮文化博物館",
+        "dest_sc": "香港故宫文化博物馆"
+    },
+    {
+        "route": "PB2",
+        "bound": "O",
+        "service_type": "2",
+        "orig_en": "GO PARK",
+        "orig_tc": "西沙 GO PARK",
+        "orig_sc": "西沙 GO PARK",
+        "dest_en": "KAI TAK (MUK YUEN STREET)",
+        "dest_tc": "啟德(沐元街)",
+        "dest_sc": "启德(沐元街)"
+    },
+    {
         "route": "PB2A",
         "bound": "O",
         "service_type": "1",
@@ -16841,6 +16874,28 @@
         "dest_sc": "西九文化区(由屯门出发 循环行走)"
     },
     {
+        "route": "PB3",
+        "bound": "O",
+        "service_type": "1",
+        "orig_en": "Hong Kong Palace Museum",
+        "orig_tc": "香港故宮文化博物館",
+        "orig_sc": "香港故宫文化博物馆",
+        "dest_en": "Kornhill Plaza",
+        "dest_tc": "康怡廣場",
+        "dest_sc": "康怡广场"
+    },
+    {
+        "route": "PB3",
+        "bound": "O",
+        "service_type": "2",
+        "orig_en": "Hong Kong Palace Museum",
+        "orig_tc": "香港故宮文化博物館",
+        "orig_sc": "香港故宫文化博物馆",
+        "dest_en": "Kornhill Plaza",
+        "dest_tc": "康怡廣場",
+        "dest_sc": "康怡广场"
+    },
+    {
         "route": "PB3A",
         "bound": "O",
         "service_type": "1",
@@ -16861,6 +16916,28 @@
         "dest_en": "DB PLAZA",
         "dest_tc": "愉景廣場",
         "dest_sc": "愉景广场"
+    },
+    {
+        "route": "PB4",
+        "bound": "O",
+        "service_type": "1",
+        "orig_en": "HONG KONG PALACE MUSEUM",
+        "orig_tc": "香港故宮文化博物館",
+        "orig_sc": "香港故宫文化博物馆",
+        "dest_en": "YOHO MALL (YUEN LONG)",
+        "dest_tc": "元朗 形點",
+        "dest_sc": "元朗 形点"
+    },
+    {
+        "route": "PB4",
+        "bound": "O",
+        "service_type": "2",
+        "orig_en": "HONG KONG PALACE MUSEUM",
+        "orig_tc": "香港故宮文化博物館",
+        "orig_sc": "香港故宫文化博物馆",
+        "dest_en": "YOHO MALL (YUEN LONG)",
+        "dest_tc": "元朗 形點",
+        "dest_sc": "元朗 形点"
     },
     {
         "route": "PB5",

@@ -1960,14 +1960,6 @@
         "long": "114.232890"
     },
     {
-        "stop": "0AAF9F132CE224F0",
-        "name_en": "FANLING STATION BBI - FANLING STATION (ND135)",
-        "name_tc": "粉嶺站轉車站 - 粉嶺站 (ND135)",
-        "name_sc": "粉岭站转车站 - 粉岭站 (ND135)",
-        "lat": "22.490938",
-        "long": "114.139024"
-    },
-    {
         "stop": "0AB2356DB4B15F19",
         "name_en": "WONG TAI SIN TEMPLE (WT140)",
         "name_tc": "黃大仙廟 (WT140)",
@@ -10518,6 +10510,14 @@
         "name_sc": "御海湾 (TM423)",
         "lat": "22.381464",
         "long": "113.970408"
+    },
+    {
+        "stop": "321060BAE1447BEE",
+        "name_en": "TSUEN WAN STATION",
+        "name_tc": "荃灣站",
+        "name_sc": "荃湾站",
+        "lat": "22.372748",
+        "long": "114.119285"
     },
     {
         "stop": "3210F3BCFFD74E61",
@@ -21552,6 +21552,14 @@
         "long": "114.240685"
     },
     {
+        "stop": "654D32C3AC9FAEF7",
+        "name_en": "SHAM TSENG",
+        "name_tc": "深井",
+        "name_sc": "深井",
+        "lat": "22.367704",
+        "long": "114.060026"
+    },
+    {
         "stop": "65523F89F26B2088",
         "name_en": "KING'S COLLEGE",
         "name_tc": "英皇書院",
@@ -25536,6 +25544,14 @@
         "long": "113.968638"
     },
     {
+        "stop": "788EE9A16DCF784E",
+        "name_en": "Taikoo Shing (Kornhill Plaza)",
+        "name_tc": "太古城(康怡廣埸)",
+        "name_sc": "太古城(康怡广埸)",
+        "lat": "22.284602",
+        "long": "114.217602"
+    },
+    {
         "stop": "789384E5DC5AF7A9",
         "name_en": "KIU KIANG STREET SHAM SHUI PO (SS484)",
         "name_tc": "深水埗九江街 (SS484)",
@@ -27518,6 +27534,14 @@
         "name_sc": "大埔中心总站 (TP905)",
         "lat": "22.453151",
         "long": "114.169308"
+    },
+    {
+        "stop": "825B78271286D8DE",
+        "name_en": "SHAM TSENG",
+        "name_tc": "深井(南行)",
+        "name_sc": "深井(南行)",
+        "lat": "22.366449",
+        "long": "114.058713"
     },
     {
         "stop": "825D1D3AB07C1AC2",
@@ -30208,6 +30232,14 @@
         "long": "114.170565"
     },
     {
+        "stop": "90C2A33012A6F44E",
+        "name_en": "JAVA ROAD",
+        "name_tc": "渣華道",
+        "name_sc": "渣华道",
+        "lat": "22.292718",
+        "long": "114.201987"
+    },
+    {
         "stop": "90C3A9DB72F244DE",
         "name_en": "SHEK KIP MEI STATION (SS136)",
         "name_tc": "石硤尾站 (SS136)",
@@ -30254,6 +30286,14 @@
         "name_sc": "长沙湾(海达邨)总站 (SS954)",
         "lat": "22.329103",
         "long": "114.150978"
+    },
+    {
+        "stop": "910D55DA18BCCE2E",
+        "name_en": "MANSION STREET",
+        "name_tc": "民新街",
+        "name_sc": "民新街",
+        "lat": "22.289658",
+        "long": "114.209342"
     },
     {
         "stop": "910ECFD6092B55AF",
@@ -30544,6 +30584,14 @@
         "long": "114.050757"
     },
     {
+        "stop": "9252A494500A05C9",
+        "name_en": "KWUN TONG FERRY (KEI YIP STREET)",
+        "name_tc": "觀塘碼頭 (基業街)",
+        "name_sc": "观塘码头 (基业街)",
+        "lat": "22.309177",
+        "long": "114.221147"
+    },
+    {
         "stop": "92540DF9CB08304C",
         "name_en": "CHOI HUNG BBI - KAM WAN HOUSE (WT372)",
         "name_tc": "彩虹轉車站 - 錦雲樓 (WT372)",
@@ -30782,6 +30830,14 @@
         "name_sc": "海宝花园 (TP250)",
         "lat": "22.452967",
         "long": "114.166826"
+    },
+    {
+        "stop": "9397AF37FDBD2908",
+        "name_en": "NORTH POINT GOVERNMENT PRIMARY SCHOOL",
+        "name_tc": "北角官立小學",
+        "name_sc": "北角官立小学",
+        "lat": "22.288917",
+        "long": "114.209889"
     },
     {
         "stop": "939DD40498CB3066",
@@ -35632,6 +35688,14 @@
         "long": "114.162491"
     },
     {
+        "stop": "A96AF6278C46DB54",
+        "name_en": "CENTRE STREET",
+        "name_tc": "正街",
+        "name_sc": "正街",
+        "lat": "22.288035",
+        "long": "114.141558"
+    },
+    {
         "stop": "A96BE8855D16BCE0",
         "name_en": "MARY ROSE SCHOOL (KC410)",
         "name_tc": "天保民學校 (KC410)",
@@ -36630,6 +36694,14 @@
         "name_sc": "大帽山郊野公园 (YL758)",
         "lat": "22.407435",
         "long": "114.105113"
+    },
+    {
+        "stop": "AE77FAE78AB50667",
+        "name_en": "Ma On Shan Plaza ( On Chun Street)",
+        "name_tc": "馬鞍山廣埸(鞍駿街)",
+        "name_sc": "马鞍山广埸(鞍骏街)",
+        "lat": "22.425852",
+        "long": "114.231257"
     },
     {
         "stop": "AE7C79C814E6BD95",
@@ -41552,6 +41624,14 @@
         "long": "114.159871"
     },
     {
+        "stop": "C6F1D1D8DF180508",
+        "name_en": "GOLDEN BEACH",
+        "name_tc": "黃金泳灘(北行)",
+        "name_sc": "黄金泳滩(北行)",
+        "lat": "22.373800",
+        "long": "113.990764"
+    },
+    {
         "stop": "C6F406D78E5C515A",
         "name_en": "FORTUNE CITY ONE (ST712)",
         "name_tc": "置富第一城 (ST712)",
@@ -44208,6 +44288,14 @@
         "long": "113.939770"
     },
     {
+        "stop": "D3BE07119A817573",
+        "name_en": "CENTRE STREET",
+        "name_tc": "正街(西行)",
+        "name_sc": "正街(西行)",
+        "lat": "22.287818",
+        "long": "114.141681"
+    },
+    {
         "stop": "D3C41BB36EC805E0",
         "name_en": "SHEK KIP MEI STREET REST GARDEN (SS332)",
         "name_tc": "石硤尾街休憩花園 (SS332)",
@@ -44390,6 +44478,14 @@
         "name_sc": "德福花园 (KT659)",
         "lat": "22.321760",
         "long": "114.214335"
+    },
+    {
+        "stop": "D46D178ECBA8976C",
+        "name_en": "LAM TIN STATION",
+        "name_tc": "藍田站",
+        "name_sc": "蓝田站",
+        "lat": "22.305354",
+        "long": "114.234128"
     },
     {
         "stop": "D46D92A924B2F0FC",
@@ -45046,6 +45142,14 @@
         "name_sc": "映湾园第二期 (TC160)",
         "lat": "22.292070",
         "long": "113.950594"
+    },
+    {
+        "stop": "D7AEA2151D2CD809",
+        "name_en": "FANLING STATION BBI - FANLING STATION (ND135)",
+        "name_tc": "粉嶺站轉車站 - 粉嶺站 (ND135)",
+        "name_sc": "粉岭站转车站 - 粉岭站 (ND135)",
+        "lat": "22.490938",
+        "long": "114.139024"
     },
     {
         "stop": "D7C46496C9C7B7BA",
@@ -52510,6 +52614,14 @@
         "name_sc": "太平工业中心 (TP616)",
         "lat": "22.456967",
         "long": "114.168023"
+    },
+    {
+        "stop": "F9D89A6B45DFD0A0",
+        "name_en": "GOLDEN BEACH",
+        "name_tc": "黃金泳灘",
+        "name_sc": "黄金泳滩",
+        "lat": "22.373531",
+        "long": "113.991238"
     },
     {
         "stop": "F9F4E00007242BED",
