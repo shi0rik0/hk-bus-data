@@ -3128,6 +3128,14 @@
         "long": "114.115819"
     },
     {
+        "stop": "101D11C1C433CEC5",
+        "name_en": "FANLING HIGHWAY BBI (A3) (TP101)",
+        "name_tc": "粉嶺公路轉車站(A3) (TP101)",
+        "name_sc": "粉岭公路转车站(A3) (TP101)",
+        "lat": "22.484781",
+        "long": "114.152709"
+    },
+    {
         "stop": "101E821CA2F6D853",
         "name_en": "TAI WO HAU BBI-TAI WO HAU STATION (KW395)",
         "name_tc": "大窩口轉車站 -大窩口站 (KW395)",
@@ -4622,14 +4630,6 @@
         "name_sc": "林士街 (CW780)",
         "lat": "22.286858",
         "long": "114.153154"
-    },
-    {
-        "stop": "16F307C8DC4F835E",
-        "name_en": "PARK BELVEDERE (MA184)",
-        "name_tc": "雅景台 (MA184)",
-        "name_sc": "雅景台 (MA184)",
-        "lat": "22.419106",
-        "long": "114.232390"
     },
     {
         "stop": "16F5EB4168069F73",
@@ -7414,14 +7414,6 @@
         "name_sc": "机场(地面运输中心)巴士总站",
         "lat": "22.312980",
         "long": "113.937970"
-    },
-    {
-        "stop": "23CB2BE92C04DDFA",
-        "name_en": "FO TAN VILLAGE (FT101)",
-        "name_tc": "火炭村 (FT101)",
-        "name_sc": "火炭村 (FT101)",
-        "lat": "22.393996",
-        "long": "114.196606"
     },
     {
         "stop": "23CF721FCA83F54B",
@@ -18310,14 +18302,6 @@
         "name_sc": "拔萃男书院,太子道西 (KC744)",
         "lat": "22.324934",
         "long": "114.174398"
-    },
-    {
-        "stop": "55EF30BC3DD98667",
-        "name_en": "VILLA ATHENA (MA161)",
-        "name_tc": "雅典居 (MA161)",
-        "name_sc": "雅典居 (MA161)",
-        "lat": "22.425888",
-        "long": "114.236341"
     },
     {
         "stop": "564C0ECAAC09C371",
