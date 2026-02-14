@@ -871,6 +871,16 @@
     },
     {
         "co": "CTB",
+        "route": "38S",
+        "orig_tc": "置富花園",
+        "orig_en": "Chi Fu Fa Yuen",
+        "dest_tc": "銅鑼灣 (中央圖書館)",
+        "dest_en": "Causeway Bay (Central Library)",
+        "orig_sc": "置富花园",
+        "dest_sc": "铜锣湾 (中央图书馆)"
+    },
+    {
+        "co": "CTB",
         "route": "3A",
         "orig_tc": "中環 (天星碼頭)",
         "orig_en": "Central (Star Ferry)",
@@ -3471,6 +3481,16 @@
     },
     {
         "co": "CTB",
+        "route": "N116",
+        "orig_tc": "北角",
+        "orig_en": "North Point",
+        "dest_tc": "慈雲山 (中)",
+        "dest_en": "Tsz Wan Shan (Central)",
+        "orig_sc": "北角",
+        "dest_sc": "慈云山 (中)"
+    },
+    {
+        "co": "CTB",
         "route": "N118",
         "orig_tc": "小西灣 (藍灣半島)",
         "orig_en": "Siu Sai Wan (Island Resort)",
@@ -3608,6 +3628,16 @@
         "dest_en": "Tsim Sha Tsui (Kowloon Station)",
         "orig_sc": "屯门 (菁田及和田)",
         "dest_sc": "尖沙咀 (九龙站)"
+    },
+    {
+        "co": "CTB",
+        "route": "N601",
+        "orig_tc": "金鐘 (東)",
+        "orig_en": "Admiralty (East)",
+        "dest_tc": "寶達邨",
+        "dest_en": "Po Tat Estate",
+        "orig_sc": "金钟 (东)",
+        "dest_sc": "宝达邨"
     },
     {
         "co": "CTB",
