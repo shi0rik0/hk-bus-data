@@ -214615,6 +214615,13 @@
     {
         "route": "B9",
         "bound": "O",
+        "service_type": "1",
+        "seq": "5",
+        "stop": "20B3D40097A05769"
+    },
+    {
+        "route": "B9",
+        "bound": "O",
         "service_type": "2",
         "seq": "1",
         "stop": "4E2EC89B41600D7E"
