@@ -828,8 +828,8 @@
         "name_en": "NAM CHEONG STATION (V WALK)",
         "name_tc": "南昌站 (V WALK)",
         "name_sc": "南昌站 (V WALK)",
-        "lat": "22.328007",
-        "long": "114.153683"
+        "lat": "22.327310",
+        "long": "114.154421"
     },
     {
         "stop": "04601C2FB7201CAA",
@@ -6286,6 +6286,14 @@
         "name_sc": "马湾码头 (TW192)",
         "lat": "22.365339",
         "long": "114.056712"
+    },
+    {
+        "stop": "1E5278D8C44ACD9E",
+        "name_en": "TWGHs TungPo",
+        "name_tc": "東華三院東蒲",
+        "name_sc": "东华三院东蒲",
+        "lat": "22.335280",
+        "long": "114.199517"
     },
     {
         "stop": "1E58DF8CAD59712E",
@@ -18841,9 +18849,9 @@
     },
     {
         "stop": "588FC84C44F8634E",
-        "name_en": "TA KWU LING (TSUNG YUEN HA) (ND319)",
-        "name_tc": "打鼓嶺(松園下) (ND319)",
-        "name_sc": "打鼓岭(松园下) (ND319)",
+        "name_en": "TA KWU LING (LIANTANG PORT) (ND319)",
+        "name_tc": "打鼓嶺 (蓮塘口岸) (ND319)",
+        "name_sc": "打鼓岭 (莲塘口岸) (ND319)",
         "lat": "22.553078",
         "long": "114.155563"
     },
@@ -24400,14 +24408,6 @@
         "long": "114.022806"
     },
     {
-        "stop": "72B329134A0DADAD",
-        "name_en": "TIN SHUI WAI TSUI SING LAU",
-        "name_tc": "天水圍-聚星樓",
-        "name_sc": "天水围-聚星楼",
-        "lat": "22.449192",
-        "long": "114.005410"
-    },
-    {
         "stop": "72EE8A033E4260A3",
         "name_en": "FO TAN VILLAGE (FT100)",
         "name_tc": "火炭村 (FT100)",
@@ -27056,14 +27056,6 @@
         "long": "114.201727"
     },
     {
-        "stop": "8091E93BA6D4F59D",
-        "name_en": "LAM TSUEN WISHING TREE",
-        "name_tc": "林村許願樹",
-        "name_sc": "林村许愿树",
-        "lat": "22.457656",
-        "long": "114.142927"
-    },
-    {
         "stop": "80B56E2C7719DAF4",
         "name_en": "KWUN TONG BBI-KWUN TONG TOWN CENTRE (KT352)",
         "name_tc": "觀塘轉車站-觀塘市中心 (KT352)",
@@ -27534,14 +27526,6 @@
         "name_sc": "深井(南行)",
         "lat": "22.366449",
         "long": "114.058713"
-    },
-    {
-        "stop": "825D1D3AB07C1AC2",
-        "name_en": "Cheung Sha Wan Lai Ying St",
-        "name_tc": "長沙灣荔盈街",
-        "name_sc": "长沙湾荔盈街",
-        "lat": "22.328170",
-        "long": "114.147991"
     },
     {
         "stop": "82867084F4E7B92E",
@@ -46534,14 +46518,6 @@
         "name_sc": "香岛中学 (SS560)",
         "lat": "22.335079",
         "long": "114.174342"
-    },
-    {
-        "stop": "DE8AB4B54CD3D4F2",
-        "name_en": "LOHAS PARK STATION",
-        "name_tc": "康城站",
-        "name_sc": "康城站",
-        "lat": "22.296803",
-        "long": "114.269336"
     },
     {
         "stop": "DE925628D8747F6D",
