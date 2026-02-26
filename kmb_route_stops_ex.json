@@ -37485,7 +37485,7 @@
         "service_type": "3",
         "seq": "1",
         "stop": "A297D0A75996B49B",
-        "stop_name_tc": "啟德巴士總站 (KA901)"
+        "stop_name_tc": "啟德巴士總站 (KA910)"
     },
     {
         "route": "224X",
@@ -37653,7 +37653,7 @@
         "service_type": "3",
         "seq": "22",
         "stop": "A297D0A75996B49B",
-        "stop_name_tc": "啟德巴士總站 (KA901)"
+        "stop_name_tc": "啟德巴士總站 (KA910)"
     },
     {
         "route": "23",
@@ -183348,8 +183348,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "12",
-        "stop": "07EEE519D04FFE28",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站 (ND495)"
+        "stop": "C89B16214AA7E56C",
+        "stop_name_tc": null
     },
     {
         "route": "79K",
@@ -183548,8 +183548,8 @@
         "bound": "O",
         "service_type": "2",
         "seq": "1",
-        "stop": "07EEE519D04FFE28",
-        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站 (ND495)"
+        "stop": "C89B16214AA7E56C",
+        "stop_name_tc": null
     },
     {
         "route": "79K",
