@@ -48536,14 +48536,6 @@
         "long": "114.210206"
     },
     {
-        "stop": "E85A10E61A00CC09",
-        "name_en": "HARBOUR NORTH",
-        "name_tc": "北角匯",
-        "name_sc": "北角汇",
-        "lat": "22.292777",
-        "long": "114.202044"
-    },
-    {
         "stop": "E86A26B1A389C290",
         "name_en": "TAI PING BUS TERMINUS, NORTH DISTRICT HOSPITAL",
         "name_tc": "太平總站-北區醫院 (ND926)",
@@ -51216,14 +51208,6 @@
         "long": "114.229393"
     },
     {
-        "stop": "F4BCEFB7E0DA6994",
-        "name_en": "SIU SAI WAN (ISLAND RESORT)",
-        "name_tc": "小西灣(藍灣半島)",
-        "name_sc": "小西湾(蓝湾半岛)",
-        "lat": "22.265449",
-        "long": "114.250798"
-    },
-    {
         "stop": "F4C9995BB455AB46",
         "name_en": "MING KUM STATION (TM587)",
         "name_tc": "鳴琴站 (TM587)",
@@ -51966,14 +51950,6 @@
         "name_sc": "云景台 (ED608)",
         "lat": "22.284742",
         "long": "114.195932"
-    },
-    {
-        "stop": "F77B2A9037BF71ED",
-        "name_en": "GOLDEN BAUHINIA GARDEN",
-        "name_tc": "金紫荊廣場",
-        "name_sc": "金紫荆广场",
-        "lat": "22.284365",
-        "long": "114.173996"
     },
     {
         "stop": "F78B61532972282D",

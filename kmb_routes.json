@@ -2624,9 +2624,9 @@
         "orig_en": "TUEN MUN ROAD BBI",
         "orig_tc": "屯門公路轉車站",
         "orig_sc": "屯门公路转车站",
-        "dest_en": "18 KWUN CHUI ROAD",
-        "dest_tc": "管翠路18號",
-        "dest_sc": "管翠路18号"
+        "dest_en": "KWUN CHUI ROAD",
+        "dest_tc": "管翠路",
+        "dest_sc": "管翠路"
     },
     {
         "route": "252",
@@ -16795,17 +16795,6 @@
         "dest_en": "KAI TAK (MUK YUEN STREET)",
         "dest_tc": "啟德(沐元街)",
         "dest_sc": "启德(沐元街)"
-    },
-    {
-        "route": "PB2A",
-        "bound": "O",
-        "service_type": "1",
-        "orig_en": "SIU SAI WAN (ISLAND RESORT)",
-        "orig_tc": "小西灣((藍灣半島)",
-        "orig_sc": "小西湾((蓝湾半岛)",
-        "dest_en": "WEST KOWLOON CULTURAL DISTRICT",
-        "dest_tc": "西九文化區",
-        "dest_sc": "西九文化区"
     },
     {
         "route": "PB3",
