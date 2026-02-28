@@ -976,14 +976,6 @@
         "long": "114.112236"
     },
     {
-        "stop": "0524415976F284A4",
-        "name_en": "AUSTIN ROAD WEST",
-        "name_tc": "柯士甸道西",
-        "name_sc": "柯士甸道西",
-        "lat": "22.302618",
-        "long": "114.159612"
-    },
-    {
         "stop": "052D737A85CAFFB4",
         "name_en": "LION ROCK ROAD (KC252)",
         "name_tc": "獅子石道 (KC252)",
@@ -5504,14 +5496,6 @@
         "long": "114.210024"
     },
     {
-        "stop": "1AD6D7010C8B1C45",
-        "name_en": "SHEUNG HEUNG ROAD TO KWA WAN",
-        "name_tc": "土瓜灣上鄉道",
-        "name_sc": "土瓜湾上乡道",
-        "lat": "22.318431",
-        "long": "114.187672"
-    },
-    {
         "stop": "1AD9C759A42F9003",
         "name_en": "CHINA LIGHT BUILDING (TM470)",
         "name_tc": "中電 (TM470)",
@@ -6769,9 +6753,9 @@
     },
     {
         "stop": "20B3D40097A05769",
-        "name_en": "HEUNG YUEN WAI CONTROL POINT (ND890)",
-        "name_tc": "香園圍口岸 (ND890)",
-        "name_sc": "香园围口岸 (ND890)",
+        "name_en": "LIANTANG PORT (ND890)",
+        "name_tc": "蓮塘口岸 (ND890)",
+        "name_sc": "莲塘口岸 (ND890)",
         "lat": "22.551587",
         "long": "114.153911"
     },
@@ -9174,14 +9158,6 @@
         "name_sc": "伊利莎伯大厦",
         "lat": "22.281581",
         "long": "114.181313"
-    },
-    {
-        "stop": "2C02B3FE178DC965",
-        "name_en": "Austin Road",
-        "name_tc": "柯士甸道",
-        "name_sc": "柯士甸道",
-        "lat": "22.303127",
-        "long": "114.171035"
     },
     {
         "stop": "2C09A04B7BEC82F9",
@@ -22409,9 +22385,9 @@
     },
     {
         "stop": "68DD31B1EF55AF1A",
-        "name_en": "18 KWUN CHUI ROAD (TM415)",
-        "name_tc": "管翠路18號 (TM415)",
-        "name_sc": "管翠路18号 (TM415)",
+        "name_en": "8 KWUN CHUI ROAD (TM415)",
+        "name_tc": "管翠路8號 (TM415)",
+        "name_sc": "管翠路8号 (TM415)",
         "lat": "22.373601",
         "long": "114.000400"
     },
@@ -23910,14 +23886,6 @@
         "name_sc": "山翠苑 (ED521)",
         "lat": "22.269495",
         "long": "114.233561"
-    },
-    {
-        "stop": "7033D904840D5F18",
-        "name_en": "Manhattan Hill",
-        "name_tc": "曼克頓山",
-        "name_sc": "曼克顿山",
-        "lat": "22.334115",
-        "long": "114.142578"
     },
     {
         "stop": "70349D91EC82AFE1",
@@ -27241,9 +27209,9 @@
     },
     {
         "stop": "81567ACCCF40DD4B",
-        "name_en": "LOK MA CHAU STATION BUS TERMINUS (YL991)",
-        "name_tc": "落馬洲站總站 (YL991)",
-        "name_sc": "落马洲站总站 (YL991)",
+        "name_en": "FUTIAN PORT (YL991)",
+        "name_tc": "福田口岸 (YL991)",
+        "name_sc": "福田口岸 (YL991)",
         "lat": "22.515533",
         "long": "114.066508"
     },
@@ -28510,14 +28478,6 @@
         "name_sc": "蓝田站 (LT904)",
         "lat": "22.306866",
         "long": "114.233746"
-    },
-    {
-        "stop": "875B01AC78127A53",
-        "name_en": "Ma Tau Pa Road, Tsuen Wan",
-        "name_tc": "荃灣馬頭壩道",
-        "name_sc": "荃湾马头坝道",
-        "lat": "22.366864",
-        "long": "114.115353"
     },
     {
         "stop": "876057D899CE09C9",
@@ -36960,14 +36920,6 @@
         "long": "114.188176"
     },
     {
-        "stop": "AFFD0E0C6077741D",
-        "name_en": "TAI PO MEGA MALL (TAI WO ROAD)",
-        "name_tc": "大埔超級城(太和路)",
-        "name_sc": "大埔超级城(太和路)",
-        "lat": "22.451204",
-        "long": "114.168829"
-    },
-    {
         "stop": "B0007A6CF106CA4B",
         "name_en": "POK HONG BUS TERMINUS (ST964)",
         "name_tc": "博康巴士總站 (ST964)",
@@ -41024,14 +40976,6 @@
         "long": "114.185238"
     },
     {
-        "stop": "C3959EAA44E6B4DF",
-        "name_en": "SAN SHAN ROAD",
-        "name_tc": "新山道",
-        "name_sc": "新山道",
-        "lat": "22.322068",
-        "long": "114.187728"
-    },
-    {
         "stop": "C3D18DE248C7C435",
         "name_en": "TAI HO ROAD TSUEN WAN (TW574)",
         "name_tc": "荃灣大河道 (TW574)",
@@ -41966,6 +41910,14 @@
         "name_sc": "模范邨",
         "lat": "22.291096",
         "long": "114.208934"
+    },
+    {
+        "stop": "C89B16214AA7E56C",
+        "name_en": "FANLING STATION BBI - FANLING STATION (ND495a)",
+        "name_tc": "粉嶺站轉車站 - 粉嶺站 (ND495a)",
+        "name_sc": "粉岭站转车站 - 粉岭站 (ND495a)",
+        "lat": "22.491849",
+        "long": "114.139192"
     },
     {
         "stop": "C8A9DAB5E9051324",
@@ -44230,14 +44182,6 @@
         "name_sc": "孔岭 (ND271)",
         "lat": "22.515149",
         "long": "114.169191"
-    },
-    {
-        "stop": "D39BE9923B1C7294",
-        "name_en": "Lai Wan Road, Mei Foo",
-        "name_tc": "美孚荔灣道",
-        "name_sc": "美孚荔湾道",
-        "lat": "22.339876",
-        "long": "114.138927"
     },
     {
         "stop": "D39CFEB43490567F",
@@ -49880,14 +49824,6 @@
         "long": "113.980643"
     },
     {
-        "stop": "EED0140DBDE1B83B",
-        "name_en": "HO MAN TIN (CHUNG HAU STREET)",
-        "name_tc": "何文田(忠孝街)",
-        "name_sc": "何文田(忠孝街)",
-        "lat": "22.311669",
-        "long": "114.178509"
-    },
-    {
         "stop": "EEDFC5EC1DD36179",
         "name_en": "SAU CHUEN HOUSE LEK YUEN ESTATE (ST190)",
         "name_tc": "瀝源邨壽全樓 (ST190)",
@@ -50046,14 +49982,6 @@
         "name_sc": "裘锦秋中学 (KW215)",
         "lat": "22.369340",
         "long": "114.140828"
-    },
-    {
-        "stop": "EF8E1150891E5725",
-        "name_en": "Canton Road",
-        "name_tc": "廣東道",
-        "name_sc": "广东道",
-        "lat": "22.298763",
-        "long": "114.168697"
     },
     {
         "stop": "EFA71508B2EBD9B9",
@@ -52654,14 +52582,6 @@
         "name_sc": "和田邨 (TM503)",
         "lat": "22.412519",
         "long": "113.968638"
-    },
-    {
-        "stop": "FA3814D4475E4E1C",
-        "name_en": "HUNG HOM STATION",
-        "name_tc": "紅磡站",
-        "name_sc": "红磡站",
-        "lat": "22.302083",
-        "long": "114.182547"
     },
     {
         "stop": "FA44FBDA21BE2E05",
