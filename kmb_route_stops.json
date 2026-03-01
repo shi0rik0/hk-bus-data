@@ -244388,55 +244388,41 @@
         "bound": "O",
         "service_type": "1",
         "seq": "6",
-        "stop": "1E5278D8C44ACD9E"
-    },
-    {
-        "route": "PB2",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "7",
         "stop": "F050648C108571ED"
     },
     {
         "route": "PB2",
         "bound": "O",
         "service_type": "1",
-        "seq": "8",
+        "seq": "7",
         "stop": "029C4172D953DAF5"
     },
     {
         "route": "PB2",
         "bound": "O",
         "service_type": "1",
-        "seq": "9",
-        "stop": "1E5278D8C44ACD9E"
-    },
-    {
-        "route": "PB2",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "10",
+        "seq": "8",
         "stop": "9252A494500A05C9"
     },
     {
         "route": "PB2",
         "bound": "O",
         "service_type": "1",
-        "seq": "11",
+        "seq": "9",
         "stop": "06CC6423AA236B72"
     },
     {
         "route": "PB2",
         "bound": "O",
         "service_type": "1",
-        "seq": "12",
+        "seq": "10",
         "stop": "064B06C60E5EE126"
     },
     {
         "route": "PB2",
         "bound": "O",
         "service_type": "1",
-        "seq": "13",
+        "seq": "11",
         "stop": "8B9E121BB71771F4"
     },
     {
@@ -244949,132 +244935,6 @@
         "service_type": "2",
         "seq": "11",
         "stop": "F050648C108571ED"
-    },
-    {
-        "route": "PN10",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "1",
-        "stop": "A8DC6F85E7043234"
-    },
-    {
-        "route": "PN10",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "2",
-        "stop": "658F28C339443C17"
-    },
-    {
-        "route": "PN10",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "3",
-        "stop": "95A40BF00DBAB2B8"
-    },
-    {
-        "route": "PN10",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "4",
-        "stop": "8125708E7EC47977"
-    },
-    {
-        "route": "PN10",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "5",
-        "stop": "F050648C108571ED"
-    },
-    {
-        "route": "PN10",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "6",
-        "stop": "8125708E7EC47977"
-    },
-    {
-        "route": "PN10",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "7",
-        "stop": "95A40BF00DBAB2B8"
-    },
-    {
-        "route": "PN10",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "8",
-        "stop": "658F28C339443C17"
-    },
-    {
-        "route": "PN10",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "9",
-        "stop": "A8DC6F85E7043234"
-    },
-    {
-        "route": "PN11",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "1",
-        "stop": "993431C67E83B130"
-    },
-    {
-        "route": "PN11",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "2",
-        "stop": "5F32C53A90CDEB52"
-    },
-    {
-        "route": "PN11",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "3",
-        "stop": "90F0F685E42CC10D"
-    },
-    {
-        "route": "PN11",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "4",
-        "stop": "232DC1B2BE92C86F"
-    },
-    {
-        "route": "PN11",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "5",
-        "stop": "1E5B31D284632D4B"
-    },
-    {
-        "route": "PN11",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "6",
-        "stop": "6DED9BB3FAD04626"
-    },
-    {
-        "route": "PN11",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "7",
-        "stop": "90F0F685E42CC10D"
-    },
-    {
-        "route": "PN11",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "8",
-        "stop": "5F32C53A90CDEB52"
-    },
-    {
-        "route": "PN11",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "9",
-        "stop": "993431C67E83B130"
     },
     {
         "route": "R108",

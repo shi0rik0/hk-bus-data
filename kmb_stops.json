@@ -6272,28 +6272,12 @@
         "long": "114.056712"
     },
     {
-        "stop": "1E5278D8C44ACD9E",
-        "name_en": "TWGHs TungPo",
-        "name_tc": "東華三院東蒲",
-        "name_sc": "东华三院东蒲",
-        "lat": "22.335280",
-        "long": "114.199517"
-    },
-    {
         "stop": "1E58DF8CAD59712E",
         "name_en": "ST. TERESA'S HOSPITAL (KC245)",
         "name_tc": "聖德肋撒醫院 (KC245)",
         "name_sc": "圣德肋撒医院 (KC245)",
         "lat": "22.327382",
         "long": "114.185584"
-    },
-    {
-        "stop": "1E5B31D284632D4B",
-        "name_en": "Victoria Park",
-        "name_tc": "維多利亞公園",
-        "name_sc": "维多利亚公园",
-        "lat": "22.280452",
-        "long": "114.186862"
     },
     {
         "stop": "1E5EADCD9F424F07",
@@ -20208,14 +20192,6 @@
         "long": "114.136527"
     },
     {
-        "stop": "5F32C53A90CDEB52",
-        "name_en": "CENTRAL (MACAU FERRY)",
-        "name_tc": "中環 (港澳碼頭)",
-        "name_sc": "中环 (港澳码头)",
-        "lat": "22.288088",
-        "long": "114.150019"
-    },
-    {
         "stop": "5F60283656DF3016",
         "name_en": "SILVERCORD, CANTON ROAD (YT205)",
         "name_tc": "廣東道,新港中心 (YT205)",
@@ -21624,14 +21600,6 @@
         "long": "114.200529"
     },
     {
-        "stop": "658F28C339443C17",
-        "name_en": "Olympic (Hoi Wang Road)",
-        "name_tc": "奧運(海泓道)",
-        "name_sc": "奥运(海泓道)",
-        "lat": "22.314364",
-        "long": "114.164318"
-    },
-    {
         "stop": "659365A8AB2B98E9",
         "name_en": "TUNG HING HOUSE LEI TUNG ESTATE",
         "name_tc": "利東邨東興樓",
@@ -22388,8 +22356,8 @@
         "name_en": "8 KWUN CHUI ROAD (TM415)",
         "name_tc": "管翠路8號 (TM415)",
         "name_sc": "管翠路8号 (TM415)",
-        "lat": "22.373601",
-        "long": "114.000400"
+        "lat": "22.373868",
+        "long": "113.999344"
     },
     {
         "stop": "68DE9CB8E6AE046C",
@@ -27144,14 +27112,6 @@
         "long": "114.105547"
     },
     {
-        "stop": "8125708E7EC47977",
-        "name_en": "The Peninsula",
-        "name_tc": "半島酒店",
-        "name_sc": "半岛酒店",
-        "lat": "22.294988",
-        "long": "114.171243"
-    },
-    {
         "stop": "81293E4174C24FD5",
         "name_en": "CHUNG NGA ROAD (TP374)",
         "name_tc": "頌雅路 (TP374)",
@@ -30208,14 +30168,6 @@
         "long": "114.215130"
     },
     {
-        "stop": "90F0F685E42CC10D",
-        "name_en": "CENTRAL FERRY PIERS (MAN KWONG STREET)",
-        "name_tc": "中環碼頭(民光街)",
-        "name_sc": "中环码头(民光街)",
-        "lat": "22.286032",
-        "long": "114.161172"
-    },
-    {
         "stop": "9100CA704DC2D403",
         "name_en": "CHEUNG SHA WAN (HOI TAT ESTATE) BUS TERMINUS",
         "name_tc": "長沙灣(海達邨)總站 (SS954)",
@@ -31248,14 +31200,6 @@
         "long": "114.186880"
     },
     {
-        "stop": "95A40BF00DBAB2B8",
-        "name_en": "Avenue of Stars",
-        "name_tc": "星光大道",
-        "name_sc": "星光大道",
-        "lat": "22.296511",
-        "long": "114.177189"
-    },
-    {
         "stop": "95A8334E0385A5E7",
         "name_en": "KWAI FONG ESTATE (KW107)",
         "name_tc": "葵芳邨 (KW107)",
@@ -31926,14 +31870,6 @@
         "name_sc": "观塘顺业街 (KT573)",
         "lat": "22.315896",
         "long": "114.214922"
-    },
-    {
-        "stop": "993431C67E83B130",
-        "name_en": "KENNEDY TOWN (FORBES STREET)",
-        "name_tc": "堅尼地城 (科士街)",
-        "name_sc": "坚尼地城 (科士街)",
-        "lat": "22.281243",
-        "long": "114.126697"
     },
     {
         "stop": "9934B2D6C17179FE",
@@ -35406,14 +35342,6 @@
         "name_sc": "梁式芝书院 (KT512)",
         "lat": "22.315549",
         "long": "114.232908"
-    },
-    {
-        "stop": "A8DC6F85E7043234",
-        "name_en": "TSING YI STATION",
-        "name_tc": "青衣站",
-        "name_sc": "青衣站",
-        "lat": "22.359745",
-        "long": "114.107757"
     },
     {
         "stop": "A8E0D10D79497444",

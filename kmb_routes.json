@@ -16863,28 +16863,6 @@
         "dest_sc": "愉景广场"
     },
     {
-        "route": "PN10",
-        "bound": "O",
-        "service_type": "1",
-        "orig_en": "TSING YI STATION",
-        "orig_tc": "青衣站",
-        "orig_sc": "青衣站",
-        "dest_en": "HONG KONG PALACE MUSEUM",
-        "dest_tc": "香港故宮文化博物館",
-        "dest_sc": "香港故宫文化博物馆"
-    },
-    {
-        "route": "PN11",
-        "bound": "O",
-        "service_type": "1",
-        "orig_en": "KENNEDY TOWN (FORBES STREET)",
-        "orig_tc": "堅尼地城 (科士街)",
-        "orig_sc": "坚尼地城 (科士街)",
-        "dest_en": "WAN CHAI HARBOUR PROMENADE",
-        "dest_tc": "灣仔海濱",
-        "dest_sc": "湾仔海滨"
-    },
-    {
         "route": "R108",
         "bound": "O",
         "service_type": "1",

@@ -279300,14 +279300,6 @@
         "bound": "O",
         "service_type": "1",
         "seq": "6",
-        "stop": "1E5278D8C44ACD9E",
-        "stop_name_tc": "東華三院東蒲"
-    },
-    {
-        "route": "PB2",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "7",
         "stop": "F050648C108571ED",
         "stop_name_tc": "香港故宮文化博物館"
     },
@@ -279315,7 +279307,7 @@
         "route": "PB2",
         "bound": "O",
         "service_type": "1",
-        "seq": "8",
+        "seq": "7",
         "stop": "029C4172D953DAF5",
         "stop_name_tc": "啟德(沐元街)"
     },
@@ -279323,15 +279315,7 @@
         "route": "PB2",
         "bound": "O",
         "service_type": "1",
-        "seq": "9",
-        "stop": "1E5278D8C44ACD9E",
-        "stop_name_tc": "東華三院東蒲"
-    },
-    {
-        "route": "PB2",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "10",
+        "seq": "8",
         "stop": "9252A494500A05C9",
         "stop_name_tc": "觀塘碼頭 (基業街)"
     },
@@ -279339,7 +279323,7 @@
         "route": "PB2",
         "bound": "O",
         "service_type": "1",
-        "seq": "11",
+        "seq": "9",
         "stop": "06CC6423AA236B72",
         "stop_name_tc": "將軍澳(唐俊街)"
     },
@@ -279347,7 +279331,7 @@
         "route": "PB2",
         "bound": "O",
         "service_type": "1",
-        "seq": "12",
+        "seq": "10",
         "stop": "064B06C60E5EE126",
         "stop_name_tc": "美裕街"
     },
@@ -279355,7 +279339,7 @@
         "route": "PB2",
         "bound": "O",
         "service_type": "1",
-        "seq": "13",
+        "seq": "11",
         "stop": "8B9E121BB71771F4",
         "stop_name_tc": "西沙 GO PARK"
     },
@@ -279942,150 +279926,6 @@
         "seq": "11",
         "stop": "F050648C108571ED",
         "stop_name_tc": "香港故宮文化博物館"
-    },
-    {
-        "route": "PN10",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "1",
-        "stop": "A8DC6F85E7043234",
-        "stop_name_tc": "青衣站"
-    },
-    {
-        "route": "PN10",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "2",
-        "stop": "658F28C339443C17",
-        "stop_name_tc": "奧運(海泓道)"
-    },
-    {
-        "route": "PN10",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "3",
-        "stop": "95A40BF00DBAB2B8",
-        "stop_name_tc": "星光大道"
-    },
-    {
-        "route": "PN10",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "4",
-        "stop": "8125708E7EC47977",
-        "stop_name_tc": "半島酒店"
-    },
-    {
-        "route": "PN10",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "5",
-        "stop": "F050648C108571ED",
-        "stop_name_tc": "香港故宮文化博物館"
-    },
-    {
-        "route": "PN10",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "6",
-        "stop": "8125708E7EC47977",
-        "stop_name_tc": "半島酒店"
-    },
-    {
-        "route": "PN10",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "7",
-        "stop": "95A40BF00DBAB2B8",
-        "stop_name_tc": "星光大道"
-    },
-    {
-        "route": "PN10",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "8",
-        "stop": "658F28C339443C17",
-        "stop_name_tc": "奧運(海泓道)"
-    },
-    {
-        "route": "PN10",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "9",
-        "stop": "A8DC6F85E7043234",
-        "stop_name_tc": "青衣站"
-    },
-    {
-        "route": "PN11",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "1",
-        "stop": "993431C67E83B130",
-        "stop_name_tc": "堅尼地城 (科士街)"
-    },
-    {
-        "route": "PN11",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "2",
-        "stop": "5F32C53A90CDEB52",
-        "stop_name_tc": "中環 (港澳碼頭)"
-    },
-    {
-        "route": "PN11",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "3",
-        "stop": "90F0F685E42CC10D",
-        "stop_name_tc": "中環碼頭(民光街)"
-    },
-    {
-        "route": "PN11",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "4",
-        "stop": "232DC1B2BE92C86F",
-        "stop_name_tc": "灣仔海濱"
-    },
-    {
-        "route": "PN11",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "5",
-        "stop": "1E5B31D284632D4B",
-        "stop_name_tc": "維多利亞公園"
-    },
-    {
-        "route": "PN11",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "6",
-        "stop": "6DED9BB3FAD04626",
-        "stop_name_tc": "軒尼詩道"
-    },
-    {
-        "route": "PN11",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "7",
-        "stop": "90F0F685E42CC10D",
-        "stop_name_tc": "中環碼頭(民光街)"
-    },
-    {
-        "route": "PN11",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "8",
-        "stop": "5F32C53A90CDEB52",
-        "stop_name_tc": "中環 (港澳碼頭)"
-    },
-    {
-        "route": "PN11",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "9",
-        "stop": "993431C67E83B130",
-        "stop_name_tc": "堅尼地城 (科士街)"
     },
     {
         "route": "R108",
