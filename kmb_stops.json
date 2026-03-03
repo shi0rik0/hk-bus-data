@@ -13265,9 +13265,9 @@
     },
     {
         "stop": "3ED28170B05A236E",
-        "name_en": "HEUNG YUEN WAI CONTROL POINT (ND891)",
-        "name_tc": "香園圍口岸 (ND891)",
-        "name_sc": "香园围口岸 (ND891)",
+        "name_en": "LIANTANG PORT (ND891)",
+        "name_tc": "蓮塘口岸 (ND891)",
+        "name_sc": "莲塘口岸 (ND891)",
         "lat": "22.551587",
         "long": "114.153911"
     },
@@ -50052,8 +50052,8 @@
         "name_en": "HONG KONG PALACE MUSEUM",
         "name_tc": "香港故宮文化博物館",
         "name_sc": "香港故宫文化博物馆",
-        "lat": "22.301472",
-        "long": "114.156170"
+        "lat": "22.301530",
+        "long": "114.156018"
     },
     {
         "stop": "F0536729876AA9D0",

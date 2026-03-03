@@ -3204,10 +3204,10 @@
         "route": "B7X",
         "orig_tc": "上水站",
         "orig_en": "Sheung Shui Station",
-        "dest_tc": "香園圍口岸",
-        "dest_en": "Heung Yuen Wai Port",
+        "dest_tc": "香園圍 (蓮塘) 口岸",
+        "dest_en": "Heung Yuen Wai (Liantang) Port",
         "orig_sc": "上水站",
-        "dest_sc": "香园围口岸"
+        "dest_sc": "香园围 (莲塘) 口岸"
     },
     {
         "co": "CTB",
@@ -3881,32 +3881,12 @@
     },
     {
         "co": "CTB",
-        "route": "R307",
-        "orig_tc": "大埔 (汀太路)",
-        "orig_en": "Tai Po (Ting Tai Road)",
-        "dest_tc": "銅鑼灣 (維多利亞公園)",
-        "dest_en": "Causeway Bay (Victoria Park)",
-        "orig_sc": "大埔 (汀太路)",
-        "dest_sc": "铜锣湾 (维多利亚公园)"
-    },
-    {
-        "co": "CTB",
         "route": "R38",
         "orig_tc": "置富花園",
         "orig_en": "Chi Fu Fa Yuen",
         "dest_tc": "銅鑼灣 (維多利亞公園)",
         "dest_en": "Causeway Bay (Victoria Park)",
         "orig_sc": "置富花园",
-        "dest_sc": "铜锣湾 (维多利亚公园)"
-    },
-    {
-        "co": "CTB",
-        "route": "R680",
-        "orig_tc": "馬鞍山 (錦英苑)",
-        "orig_en": "Ma On Shan (Kam Ying Court)",
-        "dest_tc": "銅鑼灣 (維多利亞公園)",
-        "dest_en": "Causeway Bay (Victoria Park)",
-        "orig_sc": "马鞍山 (锦英苑)",
         "dest_sc": "铜锣湾 (维多利亚公园)"
     },
     {
@@ -3928,56 +3908,6 @@
         "dest_en": "Lantau Link Bus-Bus Interchange",
         "orig_sc": "迪士尼乐园",
         "dest_sc": "青屿干线巴士转乘站"
-    },
-    {
-        "co": "CTB",
-        "route": "R930",
-        "orig_tc": "荃灣 (愉景新城)",
-        "orig_en": "Tsuen Wan (Discovery Park)",
-        "dest_tc": "銅鑼灣 (維多利亞公園)",
-        "dest_en": "Causeway Bay (Victoria Park)",
-        "orig_sc": "荃湾 (愉景新城)",
-        "dest_sc": "铜锣湾 (维多利亚公园)"
-    },
-    {
-        "co": "CTB",
-        "route": "R948",
-        "orig_tc": "青衣 (長宏邨)",
-        "orig_en": "Tsing Yi (Cheung Wang Estate)",
-        "dest_tc": "銅鑼灣 (維多利亞公園)",
-        "dest_en": "Causeway Bay (Victoria Park)",
-        "orig_sc": "青衣 (长宏邨)",
-        "dest_sc": "铜锣湾 (维多利亚公园)"
-    },
-    {
-        "co": "CTB",
-        "route": "R950",
-        "orig_tc": "屯門 (菁田及和田)",
-        "orig_en": "Tuen Mun (Ching Tin and Wo Tin)",
-        "dest_tc": "銅鑼灣 (維多利亞公園)",
-        "dest_en": "Causeway Bay (Victoria Park)",
-        "orig_sc": "屯门 (菁田及和田)",
-        "dest_sc": "铜锣湾 (维多利亚公园)"
-    },
-    {
-        "co": "CTB",
-        "route": "R962",
-        "orig_tc": "屯門 (龍門居)",
-        "orig_en": "Tuen Mun (Lung Mun Oasis)",
-        "dest_tc": "銅鑼灣 (摩頓台)",
-        "dest_en": "Causeway Bay (Moreton Terrace)",
-        "orig_sc": "屯门 (龙门居)",
-        "dest_sc": "铜锣湾 (摩顿台)"
-    },
-    {
-        "co": "CTB",
-        "route": "R969",
-        "orig_tc": "天水圍市中心",
-        "orig_en": "Tin Shui Wai Town Centre",
-        "dest_tc": "銅鑼灣 (摩頓台)",
-        "dest_en": "Causeway Bay (Moreton Terrace)",
-        "orig_sc": "天水围市中心",
-        "dest_sc": "铜锣湾 (摩顿台)"
     },
     {
         "co": "CTB",
