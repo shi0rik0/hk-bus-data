@@ -8229,14 +8229,14 @@
         "bound": "O",
         "service_type": "1",
         "seq": "10",
-        "stop": "AE5E397C3B5B4EFF"
+        "stop": "57DFE7792042405B"
     },
     {
         "route": "11",
         "bound": "O",
         "service_type": "1",
         "seq": "11",
-        "stop": "CC3C40EFC7971AEF"
+        "stop": "7CC8FC8889FF1596"
     },
     {
         "route": "11",
@@ -18750,14 +18750,14 @@
         "bound": "O",
         "service_type": "1",
         "seq": "21",
-        "stop": "AE5E397C3B5B4EFF"
+        "stop": "57DFE7792042405B"
     },
     {
         "route": "14",
         "bound": "O",
         "service_type": "1",
         "seq": "22",
-        "stop": "CC3C40EFC7971AEF"
+        "stop": "7CC8FC8889FF1596"
     },
     {
         "route": "14",
