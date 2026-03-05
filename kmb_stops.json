@@ -6737,9 +6737,9 @@
     },
     {
         "stop": "20B3D40097A05769",
-        "name_en": "LIANTANG PORT (ND890)",
-        "name_tc": "蓮塘口岸 (ND890)",
-        "name_sc": "莲塘口岸 (ND890)",
+        "name_en": "HEUNG YUEN WAI ‧ LIANTANG PORT (ND890)",
+        "name_tc": "香園圍 ‧ 蓮塘口岸 (ND890)",
+        "name_sc": "香园围 · 莲塘口岸 (ND890)",
         "lat": "22.551587",
         "long": "114.153911"
     },
@@ -13265,9 +13265,9 @@
     },
     {
         "stop": "3ED28170B05A236E",
-        "name_en": "LIANTANG PORT (ND891)",
-        "name_tc": "蓮塘口岸 (ND891)",
-        "name_sc": "莲塘口岸 (ND891)",
+        "name_en": "HEUNG YUEN WAI ‧ LIANTANG PORT (ND891)",
+        "name_tc": "香園圍 ‧ 蓮塘口岸 (ND891)",
+        "name_sc": "香园围 · 莲塘口岸 (ND891)",
         "lat": "22.551587",
         "long": "114.153911"
     },
@@ -27169,9 +27169,9 @@
     },
     {
         "stop": "81567ACCCF40DD4B",
-        "name_en": "FUTIAN PORT (YL991)",
-        "name_tc": "福田口岸 (YL991)",
-        "name_sc": "福田口岸 (YL991)",
+        "name_en": "LOK MA CHAU STATION ‧ FUTIAN PORT (YL991)",
+        "name_tc": "落馬洲站 ‧ 福田口岸 (YL991)",
+        "name_sc": "落马洲站 · 福田口岸 (YL991)",
         "lat": "22.515533",
         "long": "114.066508"
     },

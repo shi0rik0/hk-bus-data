@@ -421,16 +421,6 @@
     },
     {
         "co": "CTB",
-        "route": "173R",
-        "orig_tc": "赤柱",
-        "orig_en": "Stanley",
-        "dest_tc": "尖沙咀(麼地道)",
-        "dest_en": "Tsim Sha Tsui (Mody Road)",
-        "orig_sc": "赤柱",
-        "dest_sc": "尖沙咀(么地道)"
-    },
-    {
-        "co": "CTB",
         "route": "18",
         "orig_tc": "北角 (健康中街)",
         "orig_en": "North Point (Healthy Street Central)",
@@ -3631,16 +3621,6 @@
     },
     {
         "co": "CTB",
-        "route": "N601",
-        "orig_tc": "金鐘 (東)",
-        "orig_en": "Admiralty (East)",
-        "dest_tc": "寶達邨",
-        "dest_en": "Po Tat Estate",
-        "orig_sc": "金钟 (东)",
-        "dest_sc": "宝达邨"
-    },
-    {
-        "co": "CTB",
         "route": "N619",
         "orig_tc": "中環 (港澳碼頭)",
         "orig_en": "Central (Macao Ferry)",
@@ -3878,26 +3858,6 @@
         "dest_en": "Yau Tong",
         "orig_sc": "迪士尼乐园",
         "dest_sc": "油塘"
-    },
-    {
-        "co": "CTB",
-        "route": "R38",
-        "orig_tc": "置富花園",
-        "orig_en": "Chi Fu Fa Yuen",
-        "dest_tc": "銅鑼灣 (維多利亞公園)",
-        "dest_en": "Causeway Bay (Victoria Park)",
-        "orig_sc": "置富花园",
-        "dest_sc": "铜锣湾 (维多利亚公园)"
-    },
-    {
-        "co": "CTB",
-        "route": "R796",
-        "orig_tc": "日出康城 (經:尚德)",
-        "orig_en": "LOHAS Park (via: Sheung Tak)",
-        "dest_tc": "尖沙咀(麼地道)",
-        "dest_en": "Tsim Sha Tsui (Mody Road)",
-        "orig_sc": "日出康城 (经:尚德)",
-        "dest_sc": "尖沙咀(么地道)"
     },
     {
         "co": "CTB",

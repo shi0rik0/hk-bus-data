@@ -244581,7 +244581,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "81567ACCCF40DD4B",
-        "stop_name_tc": "福田口岸 (YL991)"
+        "stop_name_tc": "落馬洲站 ‧ 福田口岸 (YL991)"
     },
     {
         "route": "B1",
@@ -244709,7 +244709,7 @@
         "service_type": "2",
         "seq": "1",
         "stop": "81567ACCCF40DD4B",
-        "stop_name_tc": "福田口岸 (YL991)"
+        "stop_name_tc": "落馬洲站 ‧ 福田口岸 (YL991)"
     },
     {
         "route": "B1",
@@ -244933,7 +244933,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "81567ACCCF40DD4B",
-        "stop_name_tc": "福田口岸 (YL991)"
+        "stop_name_tc": "落馬洲站 ‧ 福田口岸 (YL991)"
     },
     {
         "route": "B1",
@@ -245029,7 +245029,7 @@
         "service_type": "2",
         "seq": "12",
         "stop": "81567ACCCF40DD4B",
-        "stop_name_tc": "福田口岸 (YL991)"
+        "stop_name_tc": "落馬洲站 ‧ 福田口岸 (YL991)"
     },
     {
         "route": "B1",
@@ -245181,7 +245181,7 @@
         "service_type": "6",
         "seq": "19",
         "stop": "81567ACCCF40DD4B",
-        "stop_name_tc": "福田口岸 (YL991)"
+        "stop_name_tc": "落馬洲站 ‧ 福田口岸 (YL991)"
     },
     {
         "route": "B9",
@@ -245189,7 +245189,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "3ED28170B05A236E",
-        "stop_name_tc": "蓮塘口岸 (ND891)"
+        "stop_name_tc": "香園圍 ‧ 蓮塘口岸 (ND891)"
     },
     {
         "route": "B9",
@@ -245221,7 +245221,7 @@
         "service_type": "2",
         "seq": "1",
         "stop": "3ED28170B05A236E",
-        "stop_name_tc": "蓮塘口岸 (ND891)"
+        "stop_name_tc": "香園圍 ‧ 蓮塘口岸 (ND891)"
     },
     {
         "route": "B9",
@@ -245277,7 +245277,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "20B3D40097A05769",
-        "stop_name_tc": "蓮塘口岸 (ND890)"
+        "stop_name_tc": "香園圍 ‧ 蓮塘口岸 (ND890)"
     },
     {
         "route": "B9",
@@ -245301,7 +245301,7 @@
         "service_type": "2",
         "seq": "3",
         "stop": "20B3D40097A05769",
-        "stop_name_tc": "蓮塘口岸 (ND890)"
+        "stop_name_tc": "香園圍 ‧ 蓮塘口岸 (ND890)"
     },
     {
         "route": "B9",
@@ -245317,7 +245317,7 @@
         "service_type": "3",
         "seq": "2",
         "stop": "20B3D40097A05769",
-        "stop_name_tc": "蓮塘口岸 (ND890)"
+        "stop_name_tc": "香園圍 ‧ 蓮塘口岸 (ND890)"
     },
     {
         "route": "B9A",
@@ -245325,7 +245325,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "3ED28170B05A236E",
-        "stop_name_tc": "蓮塘口岸 (ND891)"
+        "stop_name_tc": "香園圍 ‧ 蓮塘口岸 (ND891)"
     },
     {
         "route": "B9A",
@@ -245421,7 +245421,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "20B3D40097A05769",
-        "stop_name_tc": "蓮塘口岸 (ND890)"
+        "stop_name_tc": "香園圍 ‧ 蓮塘口岸 (ND890)"
     },
     {
         "route": "E31",
