@@ -2890,8 +2890,8 @@
     {
         "stop": "0F3FA9B7D07A91F3",
         "name_en": "TONG HANG (ND450)",
-        "name_tc": "塘坑 (ND450)",
-        "name_sc": "塘坑 (ND450)",
+        "name_tc": "k (ND450)",
+        "name_sc": "k (ND450)",
         "lat": "22.490759",
         "long": "114.145622"
     },
@@ -13350,14 +13350,6 @@
         "name_sc": "铭基书院 (MK132)",
         "lat": "22.318844",
         "long": "114.164162"
-    },
-    {
-        "stop": "3F3636D9F8608572",
-        "name_en": "CAFETERIA BEACH (TM311)",
-        "name_tc": "咖啡灣 (TM311)",
-        "name_sc": "咖啡湾 (TM311)",
-        "lat": "22.375472",
-        "long": "113.986300"
     },
     {
         "stop": "3F3DBD185AC10BBE",
@@ -33997,7 +33989,7 @@
         "name_tc": "青衣SPCA",
         "name_sc": "青衣SPCA",
         "lat": "22.346439",
-        "long": "114.111897"
+        "long": "114.111889"
     },
     {
         "stop": "A332AF8FFAE8947D",
