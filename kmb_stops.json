@@ -2890,8 +2890,8 @@
     {
         "stop": "0F3FA9B7D07A91F3",
         "name_en": "TONG HANG (ND450)",
-        "name_tc": "k (ND450)",
-        "name_sc": "k (ND450)",
+        "name_tc": "塘坑 (ND450)",
+        "name_sc": "塘坑 (ND450)",
         "lat": "22.490759",
         "long": "114.145622"
     },
@@ -21558,14 +21558,6 @@
         "name_sc": "平田 (LT934)",
         "lat": "22.308254",
         "long": "114.235514"
-    },
-    {
-        "stop": "657953124B200983",
-        "name_en": "HANDSOME COURT (TM300)",
-        "name_tc": "恆順園 (TM300)",
-        "name_sc": "恒顺园 (TM300)",
-        "lat": "22.387343",
-        "long": "113.980863"
     },
     {
         "stop": "657E5836BC932790",
@@ -48342,14 +48334,6 @@
         "name_sc": "高等法院 (CW744)",
         "lat": "22.278550",
         "long": "114.163505"
-    },
-    {
-        "stop": "E8138A1EEE8FF3C9",
-        "name_en": "HARVEST GARDEN (TM303)",
-        "name_tc": "恆豐園 (TM303)",
-        "name_sc": "恒丰园 (TM303)",
-        "lat": "22.384771",
-        "long": "113.980968"
     },
     {
         "stop": "E8149C288DA7DF33",
