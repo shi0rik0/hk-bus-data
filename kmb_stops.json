@@ -19728,6 +19728,14 @@
         "long": "114.035043"
     },
     {
+        "stop": "5CEB16B6D0E01F36",
+        "name_en": "TOWNPLACE WEST KOWLOON",
+        "name_tc": "本舍西九 TOWNPLACE",
+        "name_sc": "本舍西九 TOWNPLACE",
+        "lat": "22.326880",
+        "long": "114.149381"
+    },
+    {
         "stop": "5CEC0EA1BB2D6D11",
         "name_en": "MA TSEUK LENG (ND279)",
         "name_tc": "麻雀嶺 (ND279)",
@@ -27446,14 +27454,6 @@
         "name_sc": "大埔中心总站 (TP905)",
         "lat": "22.453151",
         "long": "114.169308"
-    },
-    {
-        "stop": "825B78271286D8DE",
-        "name_en": "SHAM TSENG",
-        "name_tc": "深井(南行)",
-        "name_sc": "深井(南行)",
-        "lat": "22.366449",
-        "long": "114.058713"
     },
     {
         "stop": "82867084F4E7B92E",
