@@ -9032,14 +9032,6 @@
         "long": "114.018706"
     },
     {
-        "stop": "2B5E3DCF185BE85F",
-        "name_en": "JARDINE HOUSE (CW113)",
-        "name_tc": "怡和大廈 (CW113)",
-        "name_sc": "怡和大厦 (CW113)",
-        "lat": "22.282710",
-        "long": "114.159271"
-    },
-    {
         "stop": "2B6CFA0DA5F33352",
         "name_en": "PING CHE YUEN HA TSUEN (ND304)",
         "name_tc": "坪輋元下村 (ND304)",
@@ -27454,6 +27446,14 @@
         "name_sc": "大埔中心总站 (TP905)",
         "lat": "22.453151",
         "long": "114.169308"
+    },
+    {
+        "stop": "825B78271286D8DE",
+        "name_en": "SHAM TSENG",
+        "name_tc": "深井(南行)",
+        "name_sc": "深井(南行)",
+        "lat": "22.366449",
+        "long": "114.058713"
     },
     {
         "stop": "82867084F4E7B92E",
@@ -52414,6 +52414,14 @@
         "name_sc": "太平工业中心 (TP616)",
         "lat": "22.456967",
         "long": "114.168023"
+    },
+    {
+        "stop": "F9D89A6B45DFD0A0",
+        "name_en": "GOLDEN BEACH",
+        "name_tc": "黃金泳灘",
+        "name_sc": "黄金泳滩",
+        "lat": "22.373531",
+        "long": "113.991238"
     },
     {
         "stop": "F9F4E00007242BED",
