@@ -27448,14 +27448,6 @@
         "long": "114.169308"
     },
     {
-        "stop": "825B78271286D8DE",
-        "name_en": "SHAM TSENG",
-        "name_tc": "深井(南行)",
-        "name_sc": "深井(南行)",
-        "lat": "22.366449",
-        "long": "114.058713"
-    },
-    {
         "stop": "82867084F4E7B92E",
         "name_en": "CHEUNG SHA WAN GOVERNMENT OFFICES (SS181)",
         "name_tc": "長沙灣政府合署 (SS181)",
@@ -52414,14 +52406,6 @@
         "name_sc": "太平工业中心 (TP616)",
         "lat": "22.456967",
         "long": "114.168023"
-    },
-    {
-        "stop": "F9D89A6B45DFD0A0",
-        "name_en": "GOLDEN BEACH",
-        "name_tc": "黃金泳灘",
-        "name_sc": "黄金泳滩",
-        "lat": "22.373531",
-        "long": "113.991238"
     },
     {
         "stop": "F9F4E00007242BED",
