@@ -279972,14 +279972,6 @@
         "bound": "I",
         "service_type": "1",
         "seq": "6",
-        "stop": "5CEB16B6D0E01F36",
-        "stop_name_tc": "本舍西九 TOWNPLACE"
-    },
-    {
-        "route": "PB4",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "7",
         "stop": "F050648C108571ED",
         "stop_name_tc": "香港故宮文化博物館"
     },
@@ -280100,14 +280092,6 @@
         "bound": "I",
         "service_type": "1",
         "seq": "5",
-        "stop": "5CEB16B6D0E01F36",
-        "stop_name_tc": "本舍西九 TOWNPLACE"
-    },
-    {
-        "route": "PB5",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "6",
         "stop": "045FB4EAE4FE52D6",
         "stop_name_tc": "南昌站 (V WALK)"
     },
@@ -280115,7 +280099,7 @@
         "route": "PB5",
         "bound": "I",
         "service_type": "1",
-        "seq": "7",
+        "seq": "6",
         "stop": "F050648C108571ED",
         "stop_name_tc": "香港故宮文化博物館"
     },
