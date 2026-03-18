@@ -137820,8 +137820,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "14",
-        "stop": "6CD0823D8B4779B6",
-        "stop_name_tc": "電廠街 (ED343)"
+        "stop": "816F423684877612",
+        "stop_name_tc": "電廠街 (ED344)"
     },
     {
         "route": "600",
@@ -139764,8 +139764,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "15",
-        "stop": "816F423684877612",
-        "stop_name_tc": "電廠街 (ED344)"
+        "stop": "6CD0823D8B4779B6",
+        "stop_name_tc": "電廠街 (ED343)"
     },
     {
         "route": "603A",
