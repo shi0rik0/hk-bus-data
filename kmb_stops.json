@@ -11777,9 +11777,9 @@
     },
     {
         "stop": "376C4835851621D4",
-        "name_en": "TUEN MUN ROAD BBI (A15) (TM750)",
-        "name_tc": "屯門公路轉車站 (A15) (TM750)",
-        "name_sc": "屯门公路转车站 (A15) (TM750)",
+        "name_en": "TUEN MUN ROAD BBI (TM750)",
+        "name_tc": "屯門公路轉車站 (TM750)",
+        "name_sc": "屯门公路转车站 (TM750)",
         "lat": "22.362928",
         "long": "114.015522"
     },
@@ -31214,14 +31214,6 @@
         "name_sc": "红磡(红鸾道) 嘉里酒店 (HH909)",
         "lat": "22.301743",
         "long": "114.188848"
-    },
-    {
-        "stop": "95BC2BB922E8104B",
-        "name_en": "SHEUNG KOK SHAN ROAD",
-        "name_tc": "上角山路",
-        "name_sc": "上角山路",
-        "lat": "0.000000",
-        "long": "0.000000"
     },
     {
         "stop": "95C43FF4684FCADA",

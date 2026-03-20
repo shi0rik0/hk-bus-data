@@ -48149,7 +48149,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "376C4835851621D4",
-        "stop_name_tc": "屯門公路轉車站 (A15) (TM750)"
+        "stop_name_tc": "屯門公路轉車站 (TM750)"
     },
     {
         "route": "258D",
@@ -49789,7 +49789,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "376C4835851621D4",
-        "stop_name_tc": "屯門公路轉車站 (A15) (TM750)"
+        "stop_name_tc": "屯門公路轉車站 (TM750)"
     },
     {
         "route": "259D",
@@ -49989,7 +49989,7 @@
         "service_type": "3",
         "seq": "7",
         "stop": "376C4835851621D4",
-        "stop_name_tc": "屯門公路轉車站 (A15) (TM750)"
+        "stop_name_tc": "屯門公路轉車站 (TM750)"
     },
     {
         "route": "259D",
@@ -50181,7 +50181,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "376C4835851621D4",
-        "stop_name_tc": "屯門公路轉車站 (A15) (TM750)"
+        "stop_name_tc": "屯門公路轉車站 (TM750)"
     },
     {
         "route": "259E",
@@ -52125,7 +52125,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "376C4835851621D4",
-        "stop_name_tc": "屯門公路轉車站 (A15) (TM750)"
+        "stop_name_tc": "屯門公路轉車站 (TM750)"
     },
     {
         "route": "260X",
@@ -52261,7 +52261,7 @@
         "service_type": "3",
         "seq": "7",
         "stop": "376C4835851621D4",
-        "stop_name_tc": "屯門公路轉車站 (A15) (TM750)"
+        "stop_name_tc": "屯門公路轉車站 (TM750)"
     },
     {
         "route": "260X",
@@ -54245,7 +54245,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "376C4835851621D4",
-        "stop_name_tc": "屯門公路轉車站 (A15) (TM750)"
+        "stop_name_tc": "屯門公路轉車站 (TM750)"
     },
     {
         "route": "263",
@@ -54461,7 +54461,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "376C4835851621D4",
-        "stop_name_tc": "屯門公路轉車站 (A15) (TM750)"
+        "stop_name_tc": "屯門公路轉車站 (TM750)"
     },
     {
         "route": "263A",
@@ -54669,7 +54669,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "376C4835851621D4",
-        "stop_name_tc": "屯門公路轉車站 (A15) (TM750)"
+        "stop_name_tc": "屯門公路轉車站 (TM750)"
     },
     {
         "route": "263B",
@@ -54997,7 +54997,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "376C4835851621D4",
-        "stop_name_tc": "屯門公路轉車站 (A15) (TM750)"
+        "stop_name_tc": "屯門公路轉車站 (TM750)"
     },
     {
         "route": "263C",
@@ -104100,14 +104100,6 @@
         "bound": "O",
         "service_type": "1",
         "seq": "3",
-        "stop": "95BC2BB922E8104B",
-        "stop_name_tc": "上角山路"
-    },
-    {
-        "route": "32P",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "4",
         "stop": "B32791B3E5EF4287",
         "stop_name_tc": "圓玄學院總站 (TW895)"
     },
@@ -132869,7 +132861,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "376C4835851621D4",
-        "stop_name_tc": "屯門公路轉車站 (A15) (TM750)"
+        "stop_name_tc": "屯門公路轉車站 (TM750)"
     },
     {
         "route": "57M",
@@ -133173,7 +133165,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "376C4835851621D4",
-        "stop_name_tc": "屯門公路轉車站 (A15) (TM750)"
+        "stop_name_tc": "屯門公路轉車站 (TM750)"
     },
     {
         "route": "58M",
@@ -133317,7 +133309,7 @@
         "service_type": "2",
         "seq": "7",
         "stop": "376C4835851621D4",
-        "stop_name_tc": "屯門公路轉車站 (A15) (TM750)"
+        "stop_name_tc": "屯門公路轉車站 (TM750)"
     },
     {
         "route": "58M",
@@ -133461,7 +133453,7 @@
         "service_type": "3",
         "seq": "7",
         "stop": "376C4835851621D4",
-        "stop_name_tc": "屯門公路轉車站 (A15) (TM750)"
+        "stop_name_tc": "屯門公路轉車站 (TM750)"
     },
     {
         "route": "58M",
@@ -134501,7 +134493,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "376C4835851621D4",
-        "stop_name_tc": "屯門公路轉車站 (A15) (TM750)"
+        "stop_name_tc": "屯門公路轉車站 (TM750)"
     },
     {
         "route": "59M",
@@ -134573,7 +134565,7 @@
         "service_type": "2",
         "seq": "5",
         "stop": "376C4835851621D4",
-        "stop_name_tc": "屯門公路轉車站 (A15) (TM750)"
+        "stop_name_tc": "屯門公路轉車站 (TM750)"
     },
     {
         "route": "59M",
@@ -134637,7 +134629,7 @@
         "service_type": "3",
         "seq": "4",
         "stop": "376C4835851621D4",
-        "stop_name_tc": "屯門公路轉車站 (A15) (TM750)"
+        "stop_name_tc": "屯門公路轉車站 (TM750)"
     },
     {
         "route": "59M",
@@ -134901,7 +134893,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "376C4835851621D4",
-        "stop_name_tc": "屯門公路轉車站 (A15) (TM750)"
+        "stop_name_tc": "屯門公路轉車站 (TM750)"
     },
     {
         "route": "59X",
@@ -135029,7 +135021,7 @@
         "service_type": "2",
         "seq": "5",
         "stop": "376C4835851621D4",
-        "stop_name_tc": "屯門公路轉車站 (A15) (TM750)"
+        "stop_name_tc": "屯門公路轉車站 (TM750)"
     },
     {
         "route": "59X",
@@ -135141,7 +135133,7 @@
         "service_type": "3",
         "seq": "3",
         "stop": "376C4835851621D4",
-        "stop_name_tc": "屯門公路轉車站 (A15) (TM750)"
+        "stop_name_tc": "屯門公路轉車站 (TM750)"
     },
     {
         "route": "59X",
@@ -142853,7 +142845,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "376C4835851621D4",
-        "stop_name_tc": "屯門公路轉車站 (A15) (TM750)"
+        "stop_name_tc": "屯門公路轉車站 (TM750)"
     },
     {
         "route": "60M",
@@ -143117,7 +143109,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "376C4835851621D4",
-        "stop_name_tc": "屯門公路轉車站 (A15) (TM750)"
+        "stop_name_tc": "屯門公路轉車站 (TM750)"
     },
     {
         "route": "60X",
@@ -146829,7 +146821,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "376C4835851621D4",
-        "stop_name_tc": "屯門公路轉車站 (A15) (TM750)"
+        "stop_name_tc": "屯門公路轉車站 (TM750)"
     },
     {
         "route": "61X",
@@ -147709,7 +147701,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "376C4835851621D4",
-        "stop_name_tc": "屯門公路轉車站 (A15) (TM750)"
+        "stop_name_tc": "屯門公路轉車站 (TM750)"
     },
     {
         "route": "62X",
@@ -148269,7 +148261,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "376C4835851621D4",
-        "stop_name_tc": "屯門公路轉車站 (A15) (TM750)"
+        "stop_name_tc": "屯門公路轉車站 (TM750)"
     },
     {
         "route": "63X",
@@ -150781,7 +150773,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "376C4835851621D4",
-        "stop_name_tc": "屯門公路轉車站 (A15) (TM750)"
+        "stop_name_tc": "屯門公路轉車站 (TM750)"
     },
     {
         "route": "66M",
@@ -151053,7 +151045,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "376C4835851621D4",
-        "stop_name_tc": "屯門公路轉車站 (A15) (TM750)"
+        "stop_name_tc": "屯門公路轉車站 (TM750)"
     },
     {
         "route": "66X",
@@ -153829,7 +153821,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "376C4835851621D4",
-        "stop_name_tc": "屯門公路轉車站 (A15) (TM750)"
+        "stop_name_tc": "屯門公路轉車站 (TM750)"
     },
     {
         "route": "67A",
@@ -154173,7 +154165,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "376C4835851621D4",
-        "stop_name_tc": "屯門公路轉車站 (A15) (TM750)"
+        "stop_name_tc": "屯門公路轉車站 (TM750)"
     },
     {
         "route": "67M",
@@ -154557,7 +154549,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "376C4835851621D4",
-        "stop_name_tc": "屯門公路轉車站 (A15) (TM750)"
+        "stop_name_tc": "屯門公路轉車站 (TM750)"
     },
     {
         "route": "67X",
@@ -157117,7 +157109,7 @@
         "service_type": "1",
         "seq": "23",
         "stop": "376C4835851621D4",
-        "stop_name_tc": "屯門公路轉車站 (A15) (TM750)"
+        "stop_name_tc": "屯門公路轉車站 (TM750)"
     },
     {
         "route": "68A",
@@ -219285,7 +219277,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "376C4835851621D4",
-        "stop_name_tc": "屯門公路轉車站 (A15) (TM750)"
+        "stop_name_tc": "屯門公路轉車站 (TM750)"
     },
     {
         "route": "960",
@@ -219629,7 +219621,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "376C4835851621D4",
-        "stop_name_tc": "屯門公路轉車站 (A15) (TM750)"
+        "stop_name_tc": "屯門公路轉車站 (TM750)"
     },
     {
         "route": "960B",
@@ -220141,7 +220133,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "376C4835851621D4",
-        "stop_name_tc": "屯門公路轉車站 (A15) (TM750)"
+        "stop_name_tc": "屯門公路轉車站 (TM750)"
     },
     {
         "route": "960C",
@@ -220557,7 +220549,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "376C4835851621D4",
-        "stop_name_tc": "屯門公路轉車站 (A15) (TM750)"
+        "stop_name_tc": "屯門公路轉車站 (TM750)"
     },
     {
         "route": "960P",
@@ -220941,7 +220933,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "376C4835851621D4",
-        "stop_name_tc": "屯門公路轉車站 (A15) (TM750)"
+        "stop_name_tc": "屯門公路轉車站 (TM750)"
     },
     {
         "route": "960S",
@@ -221389,7 +221381,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "376C4835851621D4",
-        "stop_name_tc": "屯門公路轉車站 (A15) (TM750)"
+        "stop_name_tc": "屯門公路轉車站 (TM750)"
     },
     {
         "route": "960X",
@@ -221885,7 +221877,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "376C4835851621D4",
-        "stop_name_tc": "屯門公路轉車站 (A15) (TM750)"
+        "stop_name_tc": "屯門公路轉車站 (TM750)"
     },
     {
         "route": "961",
@@ -222037,7 +222029,7 @@
         "service_type": "3",
         "seq": "9",
         "stop": "376C4835851621D4",
-        "stop_name_tc": "屯門公路轉車站 (A15) (TM750)"
+        "stop_name_tc": "屯門公路轉車站 (TM750)"
     },
     {
         "route": "961",
@@ -222197,7 +222189,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "376C4835851621D4",
-        "stop_name_tc": "屯門公路轉車站 (A15) (TM750)"
+        "stop_name_tc": "屯門公路轉車站 (TM750)"
     },
     {
         "route": "961P",
@@ -222365,7 +222357,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "376C4835851621D4",
-        "stop_name_tc": "屯門公路轉車站 (A15) (TM750)"
+        "stop_name_tc": "屯門公路轉車站 (TM750)"
     },
     {
         "route": "961S",
@@ -222541,7 +222533,7 @@
         "service_type": "2",
         "seq": "8",
         "stop": "376C4835851621D4",
-        "stop_name_tc": "屯門公路轉車站 (A15) (TM750)"
+        "stop_name_tc": "屯門公路轉車站 (TM750)"
     },
     {
         "route": "961S",
@@ -273925,7 +273917,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "376C4835851621D4",
-        "stop_name_tc": "屯門公路轉車站 (A15) (TM750)"
+        "stop_name_tc": "屯門公路轉車站 (TM750)"
     },
     {
         "route": "N960",

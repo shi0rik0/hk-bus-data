@@ -661,16 +661,6 @@
     },
     {
         "co": "CTB",
-        "route": "260X",
-        "orig_tc": "中環 (交易廣場)",
-        "orig_en": "Central (Exchange Square)",
-        "dest_tc": "赤柱廣場",
-        "dest_en": "Stanley Plaza",
-        "orig_sc": "中环 (交易广场)",
-        "dest_sc": "赤柱广场"
-    },
-    {
-        "co": "CTB",
         "route": "27",
         "orig_tc": "北角碼頭",
         "orig_en": "North Point Ferry Pier",
