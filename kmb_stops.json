@@ -2769,9 +2769,9 @@
     },
     {
         "stop": "0E8140AF4317BDAE",
-        "name_en": "TSEUNG KWAN O - LAM TIN TUNNEL BBI (A1) (LT551)",
-        "name_tc": "將藍隧道轉車站(A1) (LT551)",
-        "name_sc": "将蓝隧道转车站(A1) (LT551)",
+        "name_en": "TSEUNG KWAN O - LAM TIN TUNNEL BBI (LT551)",
+        "name_tc": "將藍隧道轉車站 (LT551)",
+        "name_sc": "将蓝隧道转车站 (LT551)",
         "lat": "22.300182",
         "long": "114.230851"
     },
@@ -48137,9 +48137,9 @@
     },
     {
         "stop": "E721A2E3853D636D",
-        "name_en": "TSEUNG KWAN O - LAM TIN TUNNEL BBI (A2) (LT550)",
-        "name_tc": "將藍隧道轉車站(A2) (LT550)",
-        "name_sc": "将蓝隧道转车站(A2) (LT550)",
+        "name_en": "TSEUNG KWAN O - LAM TIN TUNNEL BBI (LT550)",
+        "name_tc": "將藍隧道轉車站 (LT550)",
+        "name_sc": "将蓝隧道转车站 (LT550)",
         "lat": "22.300330",
         "long": "114.231033"
     },
@@ -52406,6 +52406,14 @@
         "name_sc": "太平工业中心 (TP616)",
         "lat": "22.456967",
         "long": "114.168023"
+    },
+    {
+        "stop": "F9D89A6B45DFD0A0",
+        "name_en": "GOLDEN BEACH",
+        "name_tc": "黃金泳灘",
+        "name_sc": "黄金泳滩",
+        "lat": "22.373531",
+        "long": "113.991238"
     },
     {
         "stop": "F9F4E00007242BED",
