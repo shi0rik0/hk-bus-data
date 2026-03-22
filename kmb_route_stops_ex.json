@@ -279468,6 +279468,14 @@
         "bound": "O",
         "service_type": "1",
         "seq": "2",
+        "stop": "AE77FAE78AB50667",
+        "stop_name_tc": "馬鞍山廣埸(鞍駿街)"
+    },
+    {
+        "route": "PB1",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "3",
         "stop": "8C90768E30E981C6",
         "stop_name_tc": "沙田大會堂"
     },
@@ -279475,7 +279483,7 @@
         "route": "PB1",
         "bound": "O",
         "service_type": "1",
-        "seq": "3",
+        "seq": "4",
         "stop": "B1882202E2B36620",
         "stop_name_tc": "白石角(科研路)"
     },
@@ -279483,7 +279491,7 @@
         "route": "PB1",
         "bound": "O",
         "service_type": "1",
-        "seq": "4",
+        "seq": "5",
         "stop": "2B011CC82C51D518",
         "stop_name_tc": "運頭塘邨"
     },
@@ -279491,9 +279499,9 @@
         "route": "PB1",
         "bound": "O",
         "service_type": "1",
-        "seq": "5",
-        "stop": "F02A1646BD4FC0E2",
-        "stop_name_tc": "彩蒲苑彩碧閣 (ND105a)"
+        "seq": "6",
+        "stop": "01775517BE76284E",
+        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站(C1)"
     },
     {
         "route": "PB1",

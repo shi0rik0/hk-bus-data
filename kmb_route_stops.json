@@ -244535,28 +244535,35 @@
         "bound": "O",
         "service_type": "1",
         "seq": "2",
-        "stop": "8C90768E30E981C6"
+        "stop": "AE77FAE78AB50667"
     },
     {
         "route": "PB1",
         "bound": "O",
         "service_type": "1",
         "seq": "3",
-        "stop": "B1882202E2B36620"
+        "stop": "8C90768E30E981C6"
     },
     {
         "route": "PB1",
         "bound": "O",
         "service_type": "1",
         "seq": "4",
-        "stop": "2B011CC82C51D518"
+        "stop": "B1882202E2B36620"
     },
     {
         "route": "PB1",
         "bound": "O",
         "service_type": "1",
         "seq": "5",
-        "stop": "F02A1646BD4FC0E2"
+        "stop": "2B011CC82C51D518"
+    },
+    {
+        "route": "PB1",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "6",
+        "stop": "01775517BE76284E"
     },
     {
         "route": "PB1",
