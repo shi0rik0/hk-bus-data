@@ -22692,8 +22692,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "1",
-        "stop": "CB4BB0008A87E4FC",
-        "stop_name_tc": "油塘邨 (LT368)"
+        "stop": "74CBD919F18ACF61",
+        "stop_name_tc": "油塘(鯉魚門道)"
     },
     {
         "route": "14S",
@@ -22709,7 +22709,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "E0EEA7891A0FCD50",
-        "stop_name_tc": "油塘(落客站) (LT384)"
+        "stop_name_tc": "油塘(高超道) (LT384)"
     },
     {
         "route": "14X",
@@ -104068,16 +104068,16 @@
         "bound": "I",
         "service_type": "1",
         "seq": "2",
-        "stop": "D4C5C8BD5FC05C2E",
-        "stop_name_tc": "東普陀總站 (TW891)"
+        "stop": "E9BD263C719AFEC6",
+        "stop_name_tc": null
     },
     {
         "route": "32P",
         "bound": "I",
         "service_type": "1",
         "seq": "3",
-        "stop": "F5C42400BB24BA5B",
-        "stop_name_tc": "荃灣（青山公路） (TW140)"
+        "stop": "D4C5C8BD5FC05C2E",
+        "stop_name_tc": "東普陀總站 (TW891)"
     },
     {
         "route": "32P",
@@ -104100,8 +104100,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "3",
-        "stop": "B32791B3E5EF4287",
-        "stop_name_tc": "圓玄學院總站 (TW895)"
+        "stop": "EEBC9C001FC420B8",
+        "stop_name_tc": null
     },
     {
         "route": "33",
@@ -279490,14 +279490,6 @@
     {
         "route": "PB1",
         "bound": "O",
-        "service_type": "1",
-        "seq": "5",
-        "stop": "F02A1646BD4FC0E2",
-        "stop_name_tc": "彩蒲苑彩碧閣 (ND105a)"
-    },
-    {
-        "route": "PB1",
-        "bound": "O",
         "service_type": "2",
         "seq": "1",
         "stop": "8B9E121BB71771F4",
@@ -280010,32 +280002,16 @@
     {
         "route": "PB4",
         "bound": "O",
-        "service_type": "1",
+        "service_type": "2",
         "seq": "1",
-        "stop": "321060BAE1447BEE",
-        "stop_name_tc": "荃灣站"
-    },
-    {
-        "route": "PB4",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "2",
-        "stop": "0678C85600B1A019",
-        "stop_name_tc": "屯門站(V City)"
-    },
-    {
-        "route": "PB4",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "3",
-        "stop": "F493236404A4FABF",
-        "stop_name_tc": "元朗 形點"
+        "stop": "F050648C108571ED",
+        "stop_name_tc": "香港故宮文化博物館"
     },
     {
         "route": "PB4",
         "bound": "O",
         "service_type": "2",
-        "seq": "1",
+        "seq": "2",
         "stop": "321060BAE1447BEE",
         "stop_name_tc": "荃灣站"
     },
@@ -280043,7 +280019,7 @@
         "route": "PB4",
         "bound": "O",
         "service_type": "2",
-        "seq": "2",
+        "seq": "3",
         "stop": "0678C85600B1A019",
         "stop_name_tc": "屯門站(V City)"
     },
@@ -280051,7 +280027,7 @@
         "route": "PB4",
         "bound": "O",
         "service_type": "2",
-        "seq": "3",
+        "seq": "4",
         "stop": "F493236404A4FABF",
         "stop_name_tc": "元朗 形點"
     },
@@ -281980,6 +281956,14 @@
         "bound": "O",
         "service_type": "3",
         "seq": "1",
+        "stop": "E0A5FA73176D78A8",
+        "stop_name_tc": "迪士尼樂園巴士總站 (TW881)"
+    },
+    {
+        "route": "R8",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "2",
         "stop": "6314A92BE85A8A9A",
         "stop_name_tc": "迪欣湖活動中心 (TW631)"
     },
@@ -281987,7 +281971,7 @@
         "route": "R8",
         "bound": "O",
         "service_type": "3",
-        "seq": "2",
+        "seq": "3",
         "stop": "BB78072EA5359090",
         "stop_name_tc": "青嶼幹線轉車站 (N6) (TW701)"
     },
@@ -281995,7 +281979,7 @@
         "route": "R8",
         "bound": "O",
         "service_type": "3",
-        "seq": "3",
+        "seq": "4",
         "stop": "E1FF672AE45F06FE",
         "stop_name_tc": "青嶼幹線轉車站 (A6) (TW601)"
     },
@@ -282003,7 +281987,7 @@
         "route": "R8",
         "bound": "O",
         "service_type": "3",
-        "seq": "4",
+        "seq": "5",
         "stop": "FE235D7DCABCA944",
         "stop_name_tc": "迪士尼樂園巴士總站 (TW880)"
     },

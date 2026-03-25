@@ -24768,6 +24768,14 @@
         "long": "114.211197"
     },
     {
+        "stop": "74CBD919F18ACF61",
+        "name_en": "YAU TONG (LEI YUE MUN ROAD)",
+        "name_tc": "油塘(鯉魚門道)",
+        "name_sc": "油塘(鲤鱼门道)",
+        "lat": "22.299800",
+        "long": "114.238709"
+    },
+    {
         "stop": "74EE2ECB1A3773E9",
         "name_en": "LI YUEN STREET EAST",
         "name_tc": "利源東街",
@@ -27438,14 +27446,6 @@
         "name_sc": "大埔中心总站 (TP905)",
         "lat": "22.453151",
         "long": "114.169308"
-    },
-    {
-        "stop": "825B78271286D8DE",
-        "name_en": "SHAM TSENG",
-        "name_tc": "深井(南行)",
-        "name_sc": "深井(南行)",
-        "lat": "22.366449",
-        "long": "114.058713"
     },
     {
         "stop": "82867084F4E7B92E",
@@ -46833,9 +46833,9 @@
     },
     {
         "stop": "E0EEA7891A0FCD50",
-        "name_en": "YAU TONG (ALIGHTING BUS STOP) (LT384)",
-        "name_tc": "油塘(落客站) (LT384)",
-        "name_sc": "油塘(落客站) (LT384)",
+        "name_en": "YAU TONG (KO CHIU ROAD) (LT384)",
+        "name_tc": "油塘(高超道) (LT384)",
+        "name_sc": "油塘(高超道) (LT384)",
         "lat": "22.295250",
         "long": "114.240333"
     },
