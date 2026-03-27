@@ -104069,7 +104069,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "E9BD263C719AFEC6",
-        "stop_name_tc": null
+        "stop_name_tc": "西方寺 (TW730)"
     },
     {
         "route": "32P",
@@ -104078,6 +104078,14 @@
         "seq": "3",
         "stop": "D4C5C8BD5FC05C2E",
         "stop_name_tc": "東普陀總站 (TW891)"
+    },
+    {
+        "route": "32P",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "4",
+        "stop": "F5C42400BB24BA5B",
+        "stop_name_tc": "荃灣（青山公路） (TW140)"
     },
     {
         "route": "32P",
@@ -104101,7 +104109,15 @@
         "service_type": "1",
         "seq": "3",
         "stop": "EEBC9C001FC420B8",
-        "stop_name_tc": null
+        "stop_name_tc": "上角山路 (TW470)"
+    },
+    {
+        "route": "32P",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "4",
+        "stop": "B32791B3E5EF4287",
+        "stop_name_tc": "圓玄學院總站 (TW895)"
     },
     {
         "route": "33",
@@ -171820,6 +171836,30 @@
         "bound": "O",
         "service_type": "1",
         "seq": "2",
+        "stop": "2BD35970A9125DB3",
+        "stop_name_tc": "和合石(橋頭路) (ND871)"
+    },
+    {
+        "route": "73S",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "1",
+        "stop": "60952B4A38F3D82E",
+        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站 (ND134)"
+    },
+    {
+        "route": "73S",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "2",
+        "stop": "2EAB4A9D81722720",
+        "stop_name_tc": "和合石 (ND882)"
+    },
+    {
+        "route": "73S",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "3",
         "stop": "2BD35970A9125DB3",
         "stop_name_tc": "和合石(橋頭路) (ND871)"
     },
