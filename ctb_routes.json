@@ -3391,16 +3391,6 @@
     },
     {
         "co": "CTB",
-        "route": "H1S",
-        "orig_tc": "中環碼頭-天星小輪 ．落日飛車",
-        "orig_en": "Central Ferry - Star Ferry",
-        "dest_tc": "西九文化區 ．落日飛車",
-        "dest_en": "West Kowloon Cultural District",
-        "orig_sc": "中环码头-天星小轮 ．落日飞车",
-        "dest_sc": "西九文化区 ．落日飞车"
-    },
-    {
-        "co": "CTB",
         "route": "H2",
         "orig_tc": "中環碼頭-天星小輪 ．落日飛車",
         "orig_en": "Central Ferry - Star Ferry",

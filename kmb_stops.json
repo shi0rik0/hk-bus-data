@@ -13497,9 +13497,9 @@
     },
     {
         "stop": "3FCC00D1D01ACD28",
-        "name_en": "ADMIRALTY STATION (B1) (CW166)",
-        "name_tc": "金鐘站 (B1) (CW166)",
-        "name_sc": "金钟站 (B1) (CW166)",
+        "name_en": "ADMIRALTY STATION (CW166)",
+        "name_tc": "金鐘站 (CW166)",
+        "name_sc": "金钟站 (CW166)",
         "lat": "22.278410",
         "long": "114.164530"
     },
@@ -18089,9 +18089,9 @@
     },
     {
         "stop": "55371F963B58DC5B",
-        "name_en": "ADMIRALTY CENTRE (C1) (CW750)",
-        "name_tc": "海富中心 (C1) (CW750)",
-        "name_sc": "海富中心 (C1) (CW750)",
+        "name_en": "ADMIRALTY CENTRE (CW750)",
+        "name_tc": "海富中心 (CW750)",
+        "name_sc": "海富中心 (CW750)",
         "lat": "22.279391",
         "long": "114.165461"
     },
@@ -41681,9 +41681,9 @@
     },
     {
         "stop": "C804CCACB2781EEE",
-        "name_en": "LIPPO CENTRE (E1) (CW160)",
-        "name_tc": "力寶中心 (E1) (CW160)",
-        "name_sc": "力宝中心 (E1) (CW160)",
+        "name_en": "LIPPO CENTRE (CW160)",
+        "name_tc": "力寶中心 (CW160)",
+        "name_sc": "力宝中心 (CW160)",
         "lat": "22.279831",
         "long": "114.163252"
     },
@@ -49825,9 +49825,9 @@
     },
     {
         "stop": "EF111F2EC49F64AE",
-        "name_en": "ADMIRALTY STATION (B2) (CW165)",
-        "name_tc": "金鐘站 (B2) (CW165)",
-        "name_sc": "金钟站 (B2) (CW165)",
+        "name_en": "ADMIRALTY STATION (CW165)",
+        "name_tc": "金鐘站 (CW165)",
+        "name_sc": "金钟站 (CW165)",
         "lat": "22.278566",
         "long": "114.164343"
     },

@@ -109813,7 +109813,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "3FCC00D1D01ACD28",
-        "stop_name_tc": "金鐘站 (B1) (CW166)"
+        "stop_name_tc": "金鐘站 (CW166)"
     },
     {
         "route": "373",
@@ -110133,7 +110133,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "55371F963B58DC5B",
-        "stop_name_tc": "海富中心 (C1) (CW750)"
+        "stop_name_tc": "海富中心 (CW750)"
     },
     {
         "route": "373",
@@ -137757,7 +137757,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "3FCC00D1D01ACD28",
-        "stop_name_tc": "金鐘站 (B1) (CW166)"
+        "stop_name_tc": "金鐘站 (CW166)"
     },
     {
         "route": "600",
@@ -138157,7 +138157,7 @@
         "service_type": "1",
         "seq": "25",
         "stop": "55371F963B58DC5B",
-        "stop_name_tc": "海富中心 (C1) (CW750)"
+        "stop_name_tc": "海富中心 (CW750)"
     },
     {
         "route": "600",
@@ -139181,7 +139181,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "3FCC00D1D01ACD28",
-        "stop_name_tc": "金鐘站 (B1) (CW166)"
+        "stop_name_tc": "金鐘站 (CW166)"
     },
     {
         "route": "603",
@@ -139661,7 +139661,7 @@
         "service_type": "2",
         "seq": "17",
         "stop": "55371F963B58DC5B",
-        "stop_name_tc": "海富中心 (C1) (CW750)"
+        "stop_name_tc": "海富中心 (CW750)"
     },
     {
         "route": "603A",
@@ -139701,7 +139701,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "3FCC00D1D01ACD28",
-        "stop_name_tc": "金鐘站 (B1) (CW166)"
+        "stop_name_tc": "金鐘站 (CW166)"
     },
     {
         "route": "603A",
@@ -140197,7 +140197,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "3FCC00D1D01ACD28",
-        "stop_name_tc": "金鐘站 (B1) (CW166)"
+        "stop_name_tc": "金鐘站 (CW166)"
     },
     {
         "route": "603P",
@@ -152037,7 +152037,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "3FCC00D1D01ACD28",
-        "stop_name_tc": "金鐘站 (B1) (CW166)"
+        "stop_name_tc": "金鐘站 (CW166)"
     },
     {
         "route": "673",
@@ -152501,7 +152501,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "3FCC00D1D01ACD28",
-        "stop_name_tc": "金鐘站 (B1) (CW166)"
+        "stop_name_tc": "金鐘站 (CW166)"
     },
     {
         "route": "673A",
@@ -153149,7 +153149,7 @@
         "service_type": "1",
         "seq": "23",
         "stop": "55371F963B58DC5B",
-        "stop_name_tc": "海富中心 (C1) (CW750)"
+        "stop_name_tc": "海富中心 (CW750)"
     },
     {
         "route": "673P",
@@ -178011,126 +178011,6 @@
         "route": "75P",
         "bound": "O",
         "service_type": "1",
-        "seq": "15",
-        "stop": "94A3E9298FD887C6",
-        "stop_name_tc": "大埔墟站巴士總站 (TP942)"
-    },
-    {
-        "route": "75P",
-        "bound": "O",
-        "service_type": "2",
-        "seq": "1",
-        "stop": "20B7C6B56788E484",
-        "stop_name_tc": "大美督總站 (TP886)"
-    },
-    {
-        "route": "75P",
-        "bound": "O",
-        "service_type": "2",
-        "seq": "2",
-        "stop": "49AE5D2FF5562B95",
-        "stop_name_tc": "龍尾 (TP720)"
-    },
-    {
-        "route": "75P",
-        "bound": "O",
-        "service_type": "2",
-        "seq": "3",
-        "stop": "94A08BC49C306C1C",
-        "stop_name_tc": "龍尾村 (TP721)"
-    },
-    {
-        "route": "75P",
-        "bound": "O",
-        "service_type": "2",
-        "seq": "4",
-        "stop": "9AB9D810103D8382",
-        "stop_name_tc": "蘆慈田(龍尾泳灘) (TP723)"
-    },
-    {
-        "route": "75P",
-        "bound": "O",
-        "service_type": "2",
-        "seq": "5",
-        "stop": "DF5DA8A8487E05C7",
-        "stop_name_tc": "山寮 (TP724)"
-    },
-    {
-        "route": "75P",
-        "bound": "O",
-        "service_type": "2",
-        "seq": "6",
-        "stop": "CD442C8FBAD8FD45",
-        "stop_name_tc": "汀角 (TP725)"
-    },
-    {
-        "route": "75P",
-        "bound": "O",
-        "service_type": "2",
-        "seq": "7",
-        "stop": "232D88071DA925C2",
-        "stop_name_tc": "映月灣 (TP726)"
-    },
-    {
-        "route": "75P",
-        "bound": "O",
-        "service_type": "2",
-        "seq": "8",
-        "stop": "C6131E2EFE859240",
-        "stop_name_tc": "犁壁山 (TP727)"
-    },
-    {
-        "route": "75P",
-        "bound": "O",
-        "service_type": "2",
-        "seq": "9",
-        "stop": "5E4C8880C9A5E6E1",
-        "stop_name_tc": "布心排 (TP728)"
-    },
-    {
-        "route": "75P",
-        "bound": "O",
-        "service_type": "2",
-        "seq": "10",
-        "stop": "3FAC7CF6EAD17A92",
-        "stop_name_tc": "䃟頭角 (TP729)"
-    },
-    {
-        "route": "75P",
-        "bound": "O",
-        "service_type": "2",
-        "seq": "11",
-        "stop": "CF925A6BCC55379F",
-        "stop_name_tc": "船灣 (TP730)"
-    },
-    {
-        "route": "75P",
-        "bound": "O",
-        "service_type": "2",
-        "seq": "12",
-        "stop": "40CEC3119FC1ECCC",
-        "stop_name_tc": "大埔三門仔路 (TP731)"
-    },
-    {
-        "route": "75P",
-        "bound": "O",
-        "service_type": "2",
-        "seq": "13",
-        "stop": "12E4BAFA2B73435B",
-        "stop_name_tc": "廣福邨 (TP576)"
-    },
-    {
-        "route": "75P",
-        "bound": "O",
-        "service_type": "2",
-        "seq": "14",
-        "stop": "46604706EE6CC765",
-        "stop_name_tc": "大埔墟站巴士總站 (TP935)"
-    },
-    {
-        "route": "75P",
-        "bound": "O",
-        "service_type": "2",
         "seq": "15",
         "stop": "94A3E9298FD887C6",
         "stop_name_tc": "大埔墟站巴士總站 (TP942)"
@@ -205293,7 +205173,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "3FCC00D1D01ACD28",
-        "stop_name_tc": "金鐘站 (B1) (CW166)"
+        "stop_name_tc": "金鐘站 (CW166)"
     },
     {
         "route": "900",
@@ -205437,7 +205317,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "3FCC00D1D01ACD28",
-        "stop_name_tc": "金鐘站 (B1) (CW166)"
+        "stop_name_tc": "金鐘站 (CW166)"
     },
     {
         "route": "900X",
@@ -212053,7 +211933,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "C804CCACB2781EEE",
-        "stop_name_tc": "力寶中心 (E1) (CW160)"
+        "stop_name_tc": "力寶中心 (CW160)"
     },
     {
         "route": "934",
@@ -212317,7 +212197,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "C804CCACB2781EEE",
-        "stop_name_tc": "力寶中心 (E1) (CW160)"
+        "stop_name_tc": "力寶中心 (CW160)"
     },
     {
         "route": "934A",
@@ -212573,7 +212453,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "C804CCACB2781EEE",
-        "stop_name_tc": "力寶中心 (E1) (CW160)"
+        "stop_name_tc": "力寶中心 (CW160)"
     },
     {
         "route": "935",
@@ -212701,7 +212581,7 @@
         "service_type": "2",
         "seq": "14",
         "stop": "C804CCACB2781EEE",
-        "stop_name_tc": "力寶中心 (E1) (CW160)"
+        "stop_name_tc": "力寶中心 (CW160)"
     },
     {
         "route": "935",
@@ -219365,7 +219245,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "C804CCACB2781EEE",
-        "stop_name_tc": "力寶中心 (E1) (CW160)"
+        "stop_name_tc": "力寶中心 (CW160)"
     },
     {
         "route": "960",
@@ -220221,7 +220101,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "C804CCACB2781EEE",
-        "stop_name_tc": "力寶中心 (E1) (CW160)"
+        "stop_name_tc": "力寶中心 (CW160)"
     },
     {
         "route": "960C",
@@ -220645,7 +220525,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "EF111F2EC49F64AE",
-        "stop_name_tc": "金鐘站 (B2) (CW165)"
+        "stop_name_tc": "金鐘站 (CW165)"
     },
     {
         "route": "960P",
@@ -221021,7 +220901,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "C804CCACB2781EEE",
-        "stop_name_tc": "力寶中心 (E1) (CW160)"
+        "stop_name_tc": "力寶中心 (CW160)"
     },
     {
         "route": "960S",
@@ -221965,7 +221845,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "C804CCACB2781EEE",
-        "stop_name_tc": "力寶中心 (E1) (CW160)"
+        "stop_name_tc": "力寶中心 (CW160)"
     },
     {
         "route": "961",
@@ -222117,7 +221997,7 @@
         "service_type": "3",
         "seq": "15",
         "stop": "C804CCACB2781EEE",
-        "stop_name_tc": "力寶中心 (E1) (CW160)"
+        "stop_name_tc": "力寶中心 (CW160)"
     },
     {
         "route": "961",
@@ -222293,7 +222173,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "3FCC00D1D01ACD28",
-        "stop_name_tc": "金鐘站 (B1) (CW166)"
+        "stop_name_tc": "金鐘站 (CW166)"
     },
     {
         "route": "961P",
@@ -222461,7 +222341,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "3FCC00D1D01ACD28",
-        "stop_name_tc": "金鐘站 (B1) (CW166)"
+        "stop_name_tc": "金鐘站 (CW166)"
     },
     {
         "route": "961S",
@@ -222637,7 +222517,7 @@
         "service_type": "2",
         "seq": "16",
         "stop": "3FCC00D1D01ACD28",
-        "stop_name_tc": "金鐘站 (B1) (CW166)"
+        "stop_name_tc": "金鐘站 (CW166)"
     },
     {
         "route": "961S",
@@ -223037,7 +222917,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "C804CCACB2781EEE",
-        "stop_name_tc": "力寶中心 (E1) (CW160)"
+        "stop_name_tc": "力寶中心 (CW160)"
     },
     {
         "route": "968",
@@ -223213,7 +223093,7 @@
         "service_type": "2",
         "seq": "15",
         "stop": "C804CCACB2781EEE",
-        "stop_name_tc": "力寶中心 (E1) (CW160)"
+        "stop_name_tc": "力寶中心 (CW160)"
     },
     {
         "route": "968",
@@ -223389,7 +223269,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "C804CCACB2781EEE",
-        "stop_name_tc": "力寶中心 (E1) (CW160)"
+        "stop_name_tc": "力寶中心 (CW160)"
     },
     {
         "route": "968A",
@@ -267237,7 +267117,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "3FCC00D1D01ACD28",
-        "stop_name_tc": "金鐘站 (B1) (CW166)"
+        "stop_name_tc": "金鐘站 (CW166)"
     },
     {
         "route": "N368",
@@ -267661,7 +267541,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "3FCC00D1D01ACD28",
-        "stop_name_tc": "金鐘站 (B1) (CW166)"
+        "stop_name_tc": "金鐘站 (CW166)"
     },
     {
         "route": "N373",
@@ -274005,7 +273885,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "C804CCACB2781EEE",
-        "stop_name_tc": "力寶中心 (E1) (CW160)"
+        "stop_name_tc": "力寶中心 (CW160)"
     },
     {
         "route": "N960",
@@ -278749,7 +278629,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "55371F963B58DC5B",
-        "stop_name_tc": "海富中心 (C1) (CW750)"
+        "stop_name_tc": "海富中心 (CW750)"
     },
     {
         "route": "P960",
@@ -279508,6 +279388,14 @@
         "bound": "O",
         "service_type": "1",
         "seq": "2",
+        "stop": "AE77FAE78AB50667",
+        "stop_name_tc": "馬鞍山廣埸(鞍駿街)"
+    },
+    {
+        "route": "PB1",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "3",
         "stop": "8C90768E30E981C6",
         "stop_name_tc": "沙田大會堂"
     },
@@ -279515,7 +279403,7 @@
         "route": "PB1",
         "bound": "O",
         "service_type": "1",
-        "seq": "3",
+        "seq": "4",
         "stop": "B1882202E2B36620",
         "stop_name_tc": "白石角(科研路)"
     },
@@ -279523,7 +279411,7 @@
         "route": "PB1",
         "bound": "O",
         "service_type": "1",
-        "seq": "4",
+        "seq": "5",
         "stop": "2B011CC82C51D518",
         "stop_name_tc": "運頭塘邨"
     },
@@ -279531,7 +279419,15 @@
         "route": "PB1",
         "bound": "O",
         "service_type": "1",
-        "seq": "5",
+        "seq": "6",
+        "stop": "01775517BE76284E",
+        "stop_name_tc": "粉嶺站轉車站 - 粉嶺站(C1)"
+    },
+    {
+        "route": "PB1",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "7",
         "stop": "F02A1646BD4FC0E2",
         "stop_name_tc": "彩蒲苑彩碧閣 (ND105a)"
     },
@@ -279702,6 +279598,14 @@
         "seq": "5",
         "stop": "029C4172D953DAF5",
         "stop_name_tc": "啟德(沐元街)"
+    },
+    {
+        "route": "PB2",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "6",
+        "stop": "F050648C108571ED",
+        "stop_name_tc": "香港故宮文化博物館"
     },
     {
         "route": "PB2",
@@ -280068,6 +279972,22 @@
         "bound": "O",
         "service_type": "1",
         "seq": "3",
+        "stop": "825B78271286D8DE",
+        "stop_name_tc": "深井(南行)"
+    },
+    {
+        "route": "PB4",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "4",
+        "stop": "F9D89A6B45DFD0A0",
+        "stop_name_tc": "黃金泳灘"
+    },
+    {
+        "route": "PB4",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "5",
         "stop": "0678C85600B1A019",
         "stop_name_tc": "屯門站(V City)"
     },
@@ -280075,7 +279995,7 @@
         "route": "PB4",
         "bound": "O",
         "service_type": "1",
-        "seq": "4",
+        "seq": "6",
         "stop": "F493236404A4FABF",
         "stop_name_tc": "元朗 形點"
     },
@@ -281980,6 +281900,14 @@
         "bound": "O",
         "service_type": "1",
         "seq": "2",
+        "stop": "6314A92BE85A8A9A",
+        "stop_name_tc": "迪欣湖活動中心 (TW631)"
+    },
+    {
+        "route": "R8",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "3",
         "stop": "BB78072EA5359090",
         "stop_name_tc": "青嶼幹線轉車站 (N6) (TW701)"
     },
@@ -281987,17 +281915,9 @@
         "route": "R8",
         "bound": "O",
         "service_type": "1",
-        "seq": "3",
+        "seq": "4",
         "stop": "E1FF672AE45F06FE",
         "stop_name_tc": "青嶼幹線轉車站 (A6) (TW601)"
-    },
-    {
-        "route": "R8",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "4",
-        "stop": "FE235D7DCABCA944",
-        "stop_name_tc": "迪士尼樂園巴士總站 (TW880)"
     },
     {
         "route": "R8",
@@ -282012,14 +281932,6 @@
         "bound": "O",
         "service_type": "2",
         "seq": "2",
-        "stop": "6314A92BE85A8A9A",
-        "stop_name_tc": "迪欣湖活動中心 (TW631)"
-    },
-    {
-        "route": "R8",
-        "bound": "O",
-        "service_type": "2",
-        "seq": "3",
         "stop": "BB78072EA5359090",
         "stop_name_tc": "青嶼幹線轉車站 (N6) (TW701)"
     },
@@ -282027,9 +281939,17 @@
         "route": "R8",
         "bound": "O",
         "service_type": "2",
-        "seq": "4",
+        "seq": "3",
         "stop": "E1FF672AE45F06FE",
         "stop_name_tc": "青嶼幹線轉車站 (A6) (TW601)"
+    },
+    {
+        "route": "R8",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "4",
+        "stop": "FE235D7DCABCA944",
+        "stop_name_tc": "迪士尼樂園巴士總站 (TW880)"
     },
     {
         "route": "R8",
