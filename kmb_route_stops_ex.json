@@ -281900,14 +281900,6 @@
         "bound": "O",
         "service_type": "1",
         "seq": "2",
-        "stop": "6314A92BE85A8A9A",
-        "stop_name_tc": "迪欣湖活動中心 (TW631)"
-    },
-    {
-        "route": "R8",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "3",
         "stop": "BB78072EA5359090",
         "stop_name_tc": "青嶼幹線轉車站 (N6) (TW701)"
     },
@@ -281915,9 +281907,17 @@
         "route": "R8",
         "bound": "O",
         "service_type": "1",
-        "seq": "4",
+        "seq": "3",
         "stop": "E1FF672AE45F06FE",
         "stop_name_tc": "青嶼幹線轉車站 (A6) (TW601)"
+    },
+    {
+        "route": "R8",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "4",
+        "stop": "FE235D7DCABCA944",
+        "stop_name_tc": "迪士尼樂園巴士總站 (TW880)"
     },
     {
         "route": "R8",
@@ -281932,6 +281932,14 @@
         "bound": "O",
         "service_type": "2",
         "seq": "2",
+        "stop": "6314A92BE85A8A9A",
+        "stop_name_tc": "迪欣湖活動中心 (TW631)"
+    },
+    {
+        "route": "R8",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "3",
         "stop": "BB78072EA5359090",
         "stop_name_tc": "青嶼幹線轉車站 (N6) (TW701)"
     },
@@ -281939,7 +281947,7 @@
         "route": "R8",
         "bound": "O",
         "service_type": "2",
-        "seq": "3",
+        "seq": "4",
         "stop": "E1FF672AE45F06FE",
         "stop_name_tc": "青嶼幹線轉車站 (A6) (TW601)"
     },
@@ -281947,7 +281955,15 @@
         "route": "R8",
         "bound": "O",
         "service_type": "2",
-        "seq": "4",
+        "seq": "5",
+        "stop": "5971529D89929BEA",
+        "stop_name_tc": "迪欣湖活動中心 (TW630)"
+    },
+    {
+        "route": "R8",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "6",
         "stop": "FE235D7DCABCA944",
         "stop_name_tc": "迪士尼樂園巴士總站 (TW880)"
     },
