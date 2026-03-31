@@ -2841,9 +2841,9 @@
     },
     {
         "stop": "0EE7033EEE2C4C8C",
-        "name_en": "TUEN MUN CHEK LAP KOK TUNNEL BBI (T1) (TM664)",
-        "name_tc": "屯門赤鱲角隧道轉車站(T1)",
-        "name_sc": "屯门赤鱲角隧道转车站(T1)",
+        "name_en": "TUEN MUN CHEK LAP KOK TUNNEL BBI (TM664)",
+        "name_tc": "屯門赤鱲角隧道轉車站 (TM664)",
+        "name_sc": "屯门赤鱲角隧道转车站 (TM664)",
         "lat": "22.369197",
         "long": "113.947775"
     },
@@ -3129,9 +3129,9 @@
     },
     {
         "stop": "101D11C1C433CEC5",
-        "name_en": "FANLING HIGHWAY BBI (A3) (TP101)",
-        "name_tc": "粉嶺公路轉車站(A3) (TP101)",
-        "name_sc": "粉岭公路转车站(A3) (TP101)",
+        "name_en": "FANLING HIGHWAY BBI (TP101)",
+        "name_tc": "粉嶺公路轉車站 (TP101)",
+        "name_sc": "粉岭公路转车站 (TP101)",
         "lat": "22.484781",
         "long": "114.152709"
     },
@@ -16025,9 +16025,9 @@
     },
     {
         "stop": "4B5144408E60BF11",
-        "name_en": "TUEN MUN CHEK LAP KOK TUNNEL BBI (T2) (TM663)",
-        "name_tc": "屯門赤鱲角隧道轉車站 (T2)",
-        "name_sc": "屯门赤鱲角隧道转车站 (T2)",
+        "name_en": "TUEN MUN CHEK LAP KOK TUNNEL BBI (TM663)",
+        "name_tc": "屯門赤鱲角隧道轉車站 (TM663)",
+        "name_sc": "屯门赤鱲角隧道转车站 (TM663)",
         "lat": "22.369121",
         "long": "113.947704"
     },
@@ -19689,9 +19689,9 @@
     },
     {
         "stop": "5CDF70DDB539B39B",
-        "name_en": "TUEN MUN CHEK LAP KOK TUNNEL BBI (T4) (TM661)",
-        "name_tc": "屯門赤鱲角隧道轉車站 (T4)",
-        "name_sc": "屯门赤鱲角隧道转车站 (T4)",
+        "name_en": "TUEN MUN CHEK LAP KOK TUNNEL BBI (TM661)",
+        "name_tc": "屯門赤鱲角隧道轉車站 (TM661)",
+        "name_sc": "屯门赤鱲角隧道转车站 (TM661)",
         "lat": "22.368860",
         "long": "113.947582"
     },
@@ -26961,9 +26961,9 @@
     },
     {
         "stop": "80818BFC3FE76A5B",
-        "name_en": "TUEN MUN CHEK LAP KOK TUNNEL BBI (T3) (TM662)",
-        "name_tc": "屯門赤鱲角隧道轉車站 (T3)",
-        "name_sc": "屯门赤鱲角隧道转车站 (T3)",
+        "name_en": "TUEN MUN CHEK LAP KOK TUNNEL BBI (TM662)",
+        "name_tc": "屯門赤鱲角隧道轉車站 (TM662)",
+        "name_sc": "屯门赤鱲角隧道转车站 (TM662)",
         "lat": "22.368998",
         "long": "113.947621"
     },
@@ -27897,9 +27897,9 @@
     },
     {
         "stop": "84AF6F0ACA61386F",
-        "name_en": "FANLING HIGHWAY BBI (A2) (TP102)",
-        "name_tc": "粉嶺公路轉車站 (A2) (TP102)",
-        "name_sc": "粉岭公路转车站 (A2) (TP102)",
+        "name_en": "FANLING HIGHWAY BBI (TP102)",
+        "name_tc": "粉嶺公路轉車站 (TP102)",
+        "name_sc": "粉岭公路转车站 (TP102)",
         "lat": "22.484598",
         "long": "114.152902"
     },
@@ -42297,9 +42297,9 @@
     },
     {
         "stop": "CACE8456C1A48D50",
-        "name_en": "FANLING HIGHWAY BBI (A4) (TP100)",
-        "name_tc": "粉嶺公路轉車站(A4) (TP100)",
-        "name_sc": "粉岭公路转车站(A4) (TP100)",
+        "name_en": "FANLING HIGHWAY BBI (TP100)",
+        "name_tc": "粉嶺公路轉車站 (TP100)",
+        "name_sc": "粉岭公路转车站 (TP100)",
         "lat": "22.484781",
         "long": "114.152709"
     },
@@ -43857,9 +43857,9 @@
     },
     {
         "stop": "D2C1454B663392C9",
-        "name_en": "FANLING HIGHWAY BBI (A1) (TP102)",
-        "name_tc": "粉嶺公路轉車站 (A1) (TP102)",
-        "name_sc": "粉岭公路转车站 (A1) (TP102)",
+        "name_en": "FANLING HIGHWAY BBI (TP102)",
+        "name_tc": "粉嶺公路轉車站 (TP102)",
+        "name_sc": "粉岭公路转车站 (TP102)",
         "lat": "22.484598",
         "long": "114.152902"
     },
@@ -47897,9 +47897,9 @@
     },
     {
         "stop": "E6022594DB48E35B",
-        "name_en": "FANLING HIGHWAY BBI (A3) (TP101)",
-        "name_tc": "粉嶺公路轉車站(A3) (TP101)",
-        "name_sc": "粉岭公路转车站(A3) (TP101)",
+        "name_en": "FANLING HIGHWAY BBI (TP101)",
+        "name_tc": "粉嶺公路轉車站 (TP101)",
+        "name_sc": "粉岭公路转车站 (TP101)",
         "lat": "22.484781",
         "long": "114.152709"
     },
