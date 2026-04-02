@@ -3991,6 +3991,16 @@
     },
     {
         "co": "CTB",
+        "route": "X797",
+        "orig_tc": "調景嶺站",
+        "orig_en": "Tiu Keng Leng Station",
+        "dest_tc": "消防及救護學院",
+        "dest_en": "Fire and Ambulance Services Academy",
+        "orig_sc": "调景岭站",
+        "dest_sc": "消防及救护学院"
+    },
+    {
+        "co": "CTB",
         "route": "X8",
         "orig_tc": "跑馬地 (上)",
         "orig_en": "Happy Valley (Upper)",

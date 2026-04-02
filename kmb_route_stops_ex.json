@@ -45077,7 +45077,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "AECF334FEF4E73C5",
-        "stop_name_tc": "錦上路站停車場 (YL708)"
+        "stop_name_tc": "柏瓏 (YL708)"
     },
     {
         "route": "251B",
@@ -45293,7 +45293,7 @@
         "service_type": "1",
         "seq": "31",
         "stop": "A4F1BEF1EEAD0910",
-        "stop_name_tc": "錦上路站停車場 (YL673)"
+        "stop_name_tc": "柏瓏 (YL673)"
     },
     {
         "route": "251B",
@@ -45365,7 +45365,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "AECF334FEF4E73C5",
-        "stop_name_tc": "錦上路站停車場 (YL708)"
+        "stop_name_tc": "柏瓏 (YL708)"
     },
     {
         "route": "251C",
@@ -45525,7 +45525,7 @@
         "service_type": "1",
         "seq": "26",
         "stop": "A4F1BEF1EEAD0910",
-        "stop_name_tc": "錦上路站停車場 (YL673)"
+        "stop_name_tc": "柏瓏 (YL673)"
     },
     {
         "route": "251C",
@@ -45613,7 +45613,7 @@
         "service_type": "2",
         "seq": "6",
         "stop": "AECF334FEF4E73C5",
-        "stop_name_tc": "錦上路站停車場 (YL708)"
+        "stop_name_tc": "柏瓏 (YL708)"
     },
     {
         "route": "251C",
@@ -57613,7 +57613,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "AECF334FEF4E73C5",
-        "stop_name_tc": "錦上路站停車場 (YL708)"
+        "stop_name_tc": "柏瓏 (YL708)"
     },
     {
         "route": "268",
@@ -57821,7 +57821,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "A4F1BEF1EEAD0910",
-        "stop_name_tc": "錦上路站停車場 (YL673)"
+        "stop_name_tc": "柏瓏 (YL673)"
     },
     {
         "route": "268",
@@ -237021,7 +237021,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "A4F1BEF1EEAD0910",
-        "stop_name_tc": "錦上路站停車場 (YL673)"
+        "stop_name_tc": "柏瓏 (YL673)"
     },
     {
         "route": "A36",
@@ -237165,7 +237165,7 @@
         "service_type": "3",
         "seq": "17",
         "stop": "A4F1BEF1EEAD0910",
-        "stop_name_tc": "錦上路站停車場 (YL673)"
+        "stop_name_tc": "柏瓏 (YL673)"
     },
     {
         "route": "A36",
@@ -237309,7 +237309,7 @@
         "service_type": "5",
         "seq": "17",
         "stop": "A4F1BEF1EEAD0910",
-        "stop_name_tc": "錦上路站停車場 (YL673)"
+        "stop_name_tc": "柏瓏 (YL673)"
     },
     {
         "route": "A36",
@@ -237461,7 +237461,7 @@
         "service_type": "6",
         "seq": "18",
         "stop": "A4F1BEF1EEAD0910",
-        "stop_name_tc": "錦上路站停車場 (YL673)"
+        "stop_name_tc": "柏瓏 (YL673)"
     },
     {
         "route": "A36",
@@ -237485,7 +237485,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "C9C4CEEC13D20879",
-        "stop_name_tc": "錦上路站停車場 (YL707a)"
+        "stop_name_tc": "柏瓏 (YL707a)"
     },
     {
         "route": "A36",
@@ -237637,7 +237637,7 @@
         "service_type": "2",
         "seq": "2",
         "stop": "C9C4CEEC13D20879",
-        "stop_name_tc": "錦上路站停車場 (YL707a)"
+        "stop_name_tc": "柏瓏 (YL707a)"
     },
     {
         "route": "A36",
@@ -237797,7 +237797,7 @@
         "service_type": "3",
         "seq": "2",
         "stop": "C9C4CEEC13D20879",
-        "stop_name_tc": "錦上路站停車場 (YL707a)"
+        "stop_name_tc": "柏瓏 (YL707a)"
     },
     {
         "route": "A36",
@@ -237965,7 +237965,7 @@
         "service_type": "5",
         "seq": "2",
         "stop": "C9C4CEEC13D20879",
-        "stop_name_tc": "錦上路站停車場 (YL707a)"
+        "stop_name_tc": "柏瓏 (YL707a)"
     },
     {
         "route": "A36",
@@ -248325,7 +248325,7 @@
         "service_type": "1",
         "seq": "24",
         "stop": "A4F1BEF1EEAD0910",
-        "stop_name_tc": "錦上路站停車場 (YL673)"
+        "stop_name_tc": "柏瓏 (YL673)"
     },
     {
         "route": "E36",
@@ -248365,7 +248365,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "C9C4CEEC13D20879",
-        "stop_name_tc": "錦上路站停車場 (YL707a)"
+        "stop_name_tc": "柏瓏 (YL707a)"
     },
     {
         "route": "E36",
@@ -275349,7 +275349,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "C9C4CEEC13D20879",
-        "stop_name_tc": "錦上路站停車場 (YL707a)"
+        "stop_name_tc": "柏瓏 (YL707a)"
     },
     {
         "route": "NA36",
@@ -275773,7 +275773,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "A4F1BEF1EEAD0910",
-        "stop_name_tc": "錦上路站停車場 (YL673)"
+        "stop_name_tc": "柏瓏 (YL673)"
     },
     {
         "route": "NA36",
