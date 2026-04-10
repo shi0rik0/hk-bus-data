@@ -16578,17 +16578,6 @@
     },
     {
         "route": "NA36",
-        "bound": "I",
-        "service_type": "2",
-        "orig_en": "Yuen Long (YOHO MALL)",
-        "orig_tc": "元朗形點",
-        "orig_sc": "元朗形点",
-        "dest_en": "AIRPORT (GROUND TRANSPORTATION CENTRE)",
-        "dest_tc": "機場(地面運輸中心)",
-        "dest_sc": "机场(地面运输中心)"
-    },
-    {
-        "route": "NA36",
         "bound": "O",
         "service_type": "1",
         "orig_en": "Cathay City",
@@ -16597,17 +16586,6 @@
         "dest_en": "KAM SHEUNG ROAD STATION",
         "dest_tc": "錦上路站",
         "dest_sc": "锦上路站"
-    },
-    {
-        "route": "NA36",
-        "bound": "O",
-        "service_type": "2",
-        "orig_en": "AIRPORT (GROUND TRANSPORTATION CENTRE)",
-        "orig_tc": "機場(地面運輸中心)",
-        "orig_sc": "机场(地面运输中心)",
-        "dest_en": "Yuen Long (YOHO MALL)",
-        "dest_tc": "元朗形點",
-        "dest_sc": "元朗形点"
     },
     {
         "route": "NA37",
