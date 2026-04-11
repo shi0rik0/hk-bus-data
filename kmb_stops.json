@@ -13344,6 +13344,14 @@
         "long": "114.077812"
     },
     {
+        "stop": "3F312934CDF4C38D",
+        "name_en": "THE ELDORADO (YL303)",
+        "name_tc": "金碧花園 (YL303)",
+        "name_sc": "金碧花园 (YL303)",
+        "lat": "22.436169",
+        "long": "114.012011"
+    },
+    {
         "stop": "3F34A16B40CB1C7F",
         "name_en": "MING KEI COLLEGE (MK132)",
         "name_tc": "銘基書院 (MK132)",
@@ -14590,6 +14598,14 @@
         "name_sc": "尚翠苑 (TW257)",
         "lat": "22.367604",
         "long": "114.120355"
+    },
+    {
+        "stop": "44DD070290F93074",
+        "name_en": "PING HONG LANE (YL190)",
+        "name_tc": "屏康里 (YL190)",
+        "name_sc": "屏康里 (YL190)",
+        "lat": "22.441001",
+        "long": "114.011122"
     },
     {
         "stop": "44DE41D495197976",
@@ -19366,6 +19382,14 @@
         "name_sc": "圣保禄医院",
         "lat": "22.279010",
         "long": "114.188026"
+    },
+    {
+        "stop": "5BD4FF66AE704CF5",
+        "name_en": "THE BYRN (YL307)",
+        "name_tc": "琼霖 (YL307)",
+        "name_sc": "琼霖 (YL307)",
+        "lat": "22.432642",
+        "long": "114.010695"
     },
     {
         "stop": "5BD8484E82721AF9",
@@ -34344,6 +34368,14 @@
         "long": "114.182034"
     },
     {
+        "stop": "A4A70D25E7E80482",
+        "name_en": "PARK HILLCREST (YL308)",
+        "name_tc": "柏逸 (YL308)",
+        "name_sc": "柏逸 (YL308)",
+        "lat": "22.434105",
+        "long": "114.008142"
+    },
+    {
         "stop": "A4AA1D2CA4E92950",
         "name_en": "CHOI SHEK ESTATE (ND433)",
         "name_tc": "彩石邨 (ND433)",
@@ -39952,6 +39984,14 @@
         "long": "113.998665"
     },
     {
+        "stop": "BF81DC97F81D5AAD",
+        "name_en": "LONG TIN COURT (YL844)",
+        "name_tc": "朗天苑 (YL844)",
+        "name_sc": "朗天苑 (YL844)",
+        "lat": "22.442910",
+        "long": "114.016237"
+    },
+    {
         "stop": "BF85B8D218CD0FF6",
         "name_en": "YUEN LONG PLAZA (YL363)",
         "name_tc": "元朗廣場 (YL363)",
@@ -39974,6 +40014,14 @@
         "name_sc": "观塘巧明街 (KT202)",
         "lat": "22.311960",
         "long": "114.219656"
+    },
+    {
+        "stop": "BF8EAED2AF086669",
+        "name_en": "TUEN MUN ROAD BBI (C1) (TM112a)",
+        "name_tc": "屯門公路轉車站 (C1) (TM112a)",
+        "name_sc": "屯门公路转车站 (C1) (TM112a)",
+        "lat": "22.358492",
+        "long": "114.019106"
     },
     {
         "stop": "BF9CD8F3D1FB7066",
@@ -42366,6 +42414,14 @@
         "name_sc": "伊利莎伯大厦 (WC720)",
         "lat": "22.281407",
         "long": "114.181093"
+    },
+    {
+        "stop": "CB136E1C378BC183",
+        "name_en": "TONG YAN SAN TSUEN GARDEN (YL309)",
+        "name_tc": "唐人新村花園 (YL309)",
+        "name_sc": "唐人新村花园 (YL309)",
+        "lat": "22.436352",
+        "long": "114.009927"
     },
     {
         "stop": "CB1F6E0BE13D469D",
@@ -48702,6 +48758,14 @@
         "name_sc": "深水埗北河街 (SS206)",
         "lat": "22.330100",
         "long": "114.162879"
+    },
+    {
+        "stop": "E9F5F6ED88ED3616",
+        "name_en": "WINDSOR VILLA (YL304)",
+        "name_tc": "金沙花園 (YL304)",
+        "name_sc": "金沙花园 (YL304)",
+        "lat": "22.433275",
+        "long": "114.011661"
     },
     {
         "stop": "E9F673D418FA9E71",
