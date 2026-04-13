@@ -79580,14 +79580,6 @@
         "bound": "I",
         "service_type": "1",
         "seq": "19",
-        "stop": "000CFEE2F92DC17B",
-        "stop_name_tc": "粉嶺樓 (ND261)"
-    },
-    {
-        "route": "277X",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "20",
         "stop": "BA995ECF3EFCA99E",
         "stop_name_tc": "粉嶺樓村 (ND291)"
     },
@@ -79595,7 +79587,7 @@
         "route": "277X",
         "bound": "I",
         "service_type": "1",
-        "seq": "21",
+        "seq": "20",
         "stop": "879A98CD29D9433F",
         "stop_name_tc": "上水宣道小學 (ND296)"
     },
@@ -79603,7 +79595,7 @@
         "route": "277X",
         "bound": "I",
         "service_type": "1",
-        "seq": "22",
+        "seq": "21",
         "stop": "7EFB60ED247B4316",
         "stop_name_tc": "聯和墟總站 (ND968)"
     },
@@ -81748,14 +81740,6 @@
         "bound": "I",
         "service_type": "1",
         "seq": "17",
-        "stop": "000CFEE2F92DC17B",
-        "stop_name_tc": "粉嶺樓 (ND261)"
-    },
-    {
-        "route": "279X",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "18",
         "stop": "BA995ECF3EFCA99E",
         "stop_name_tc": "粉嶺樓村 (ND291)"
     },
@@ -81763,7 +81747,7 @@
         "route": "279X",
         "bound": "I",
         "service_type": "1",
-        "seq": "19",
+        "seq": "18",
         "stop": "879A98CD29D9433F",
         "stop_name_tc": "上水宣道小學 (ND296)"
     },
@@ -81771,7 +81755,7 @@
         "route": "279X",
         "bound": "I",
         "service_type": "1",
-        "seq": "20",
+        "seq": "19",
         "stop": "E057FE733052DDD7",
         "stop_name_tc": "聯和墟總站 (ND963)"
     },
@@ -179141,7 +179125,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "10FEC152B1CD2194",
-        "stop_name_tc": null
+        "stop_name_tc": "米埔村 (YL431a)"
     },
     {
         "route": "76K",
@@ -179294,6 +179278,14 @@
         "seq": "38",
         "stop": "396DD38F2E41E117",
         "stop_name_tc": "上水官立中學 (ND125)"
+    },
+    {
+        "route": "76K",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "39",
+        "stop": "B32FA6CD250F0F6B",
+        "stop_name_tc": "清河邨總站 (ND936)"
     },
     {
         "route": "76K",
@@ -179469,7 +179461,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "1D4801CD2E547FF3",
-        "stop_name_tc": null
+        "stop_name_tc": "米埔變電站 (YL549)"
     },
     {
         "route": "76K",
@@ -179638,6 +179630,14 @@
         "seq": "43",
         "stop": "76DD0B50D30CF140",
         "stop_name_tc": "朗屏邨總站 (YL923)"
+    },
+    {
+        "route": "76K",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "44",
+        "stop": "72B24F5DD57E3AE3",
+        "stop_name_tc": "朗屏邨總站 (YL925)"
     },
     {
         "route": "76K",
@@ -179869,7 +179869,7 @@
         "service_type": "2",
         "seq": "29",
         "stop": "1D4801CD2E547FF3",
-        "stop_name_tc": null
+        "stop_name_tc": "米埔變電站 (YL549)"
     },
     {
         "route": "76K",
@@ -180038,6 +180038,14 @@
         "seq": "50",
         "stop": "76DD0B50D30CF140",
         "stop_name_tc": "朗屏邨總站 (YL923)"
+    },
+    {
+        "route": "76K",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "51",
+        "stop": "72B24F5DD57E3AE3",
+        "stop_name_tc": "朗屏邨總站 (YL925)"
     },
     {
         "route": "76S",
@@ -182724,14 +182732,6 @@
         "bound": "O",
         "service_type": "1",
         "seq": "9",
-        "stop": "000CFEE2F92DC17B",
-        "stop_name_tc": "粉嶺樓 (ND261)"
-    },
-    {
-        "route": "78K",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "10",
         "stop": "BA995ECF3EFCA99E",
         "stop_name_tc": "粉嶺樓村 (ND291)"
     },
@@ -182739,7 +182739,7 @@
         "route": "78K",
         "bound": "O",
         "service_type": "1",
-        "seq": "11",
+        "seq": "10",
         "stop": "879A98CD29D9433F",
         "stop_name_tc": "上水宣道小學 (ND296)"
     },
@@ -182747,7 +182747,7 @@
         "route": "78K",
         "bound": "O",
         "service_type": "1",
-        "seq": "12",
+        "seq": "11",
         "stop": "6C2DBC45160AA4BF",
         "stop_name_tc": "逸峯 (ND265)"
     },
@@ -182755,7 +182755,7 @@
         "route": "78K",
         "bound": "O",
         "service_type": "1",
-        "seq": "13",
+        "seq": "12",
         "stop": "E5F082F4C7300273",
         "stop_name_tc": "龍躍頭 (ND266)"
     },
@@ -182763,7 +182763,7 @@
         "route": "78K",
         "bound": "O",
         "service_type": "1",
-        "seq": "14",
+        "seq": "13",
         "stop": "18FB32A8BE19CB57",
         "stop_name_tc": "新圍軍營 (ND267)"
     },
@@ -182771,7 +182771,7 @@
         "route": "78K",
         "bound": "O",
         "service_type": "1",
-        "seq": "15",
+        "seq": "14",
         "stop": "753E63DCB2FFD3B2",
         "stop_name_tc": "軍地 (ND268)"
     },
@@ -182779,7 +182779,7 @@
         "route": "78K",
         "bound": "O",
         "service_type": "1",
-        "seq": "16",
+        "seq": "15",
         "stop": "0BB054192087F527",
         "stop_name_tc": "流水響 (ND269)"
     },
@@ -182787,7 +182787,7 @@
         "route": "78K",
         "bound": "O",
         "service_type": "1",
-        "seq": "17",
+        "seq": "16",
         "stop": "EAEA62781C49856C",
         "stop_name_tc": "高埔 (ND270)"
     },
@@ -182795,7 +182795,7 @@
         "route": "78K",
         "bound": "O",
         "service_type": "1",
-        "seq": "18",
+        "seq": "17",
         "stop": "D395E730FC3A3473",
         "stop_name_tc": "孔嶺 (ND271)"
     },
@@ -182803,7 +182803,7 @@
         "route": "78K",
         "bound": "O",
         "service_type": "1",
-        "seq": "19",
+        "seq": "18",
         "stop": "EA6152DD7165E9DC",
         "stop_name_tc": "馬尾下 (ND272)"
     },
@@ -182811,7 +182811,7 @@
         "route": "78K",
         "bound": "O",
         "service_type": "1",
-        "seq": "20",
+        "seq": "19",
         "stop": "9B07890D73E13AE4",
         "stop_name_tc": "大塘湖 (ND273)"
     },
@@ -182819,7 +182819,7 @@
         "route": "78K",
         "bound": "O",
         "service_type": "1",
-        "seq": "21",
+        "seq": "20",
         "stop": "1927F52F4ED872E5",
         "stop_name_tc": "磚窰 (ND274)"
     },
@@ -182827,7 +182827,7 @@
         "route": "78K",
         "bound": "O",
         "service_type": "1",
-        "seq": "22",
+        "seq": "21",
         "stop": "F8619A3F780D4072",
         "stop_name_tc": "萊洞 (ND275)"
     },
@@ -182835,7 +182835,7 @@
         "route": "78K",
         "bound": "O",
         "service_type": "1",
-        "seq": "23",
+        "seq": "22",
         "stop": "3A3B108F799F3326",
         "stop_name_tc": "萬屋邊 (ND276)"
     },
@@ -182843,7 +182843,7 @@
         "route": "78K",
         "bound": "O",
         "service_type": "1",
-        "seq": "24",
+        "seq": "23",
         "stop": "7F8CEE1F02103A4A",
         "stop_name_tc": "禾坑 (ND277)"
     },
@@ -182851,7 +182851,7 @@
         "route": "78K",
         "bound": "O",
         "service_type": "1",
-        "seq": "25",
+        "seq": "24",
         "stop": "74A2E12A2DC55FE0",
         "stop_name_tc": "大朗 (ND278)"
     },
@@ -182859,7 +182859,7 @@
         "route": "78K",
         "bound": "O",
         "service_type": "1",
-        "seq": "26",
+        "seq": "25",
         "stop": "5CEC0EA1BB2D6D11",
         "stop_name_tc": "麻雀嶺 (ND279)"
     },
@@ -182867,7 +182867,7 @@
         "route": "78K",
         "bound": "O",
         "service_type": "1",
-        "seq": "27",
+        "seq": "26",
         "stop": "D3EBFAC0D6EE8DD5",
         "stop_name_tc": "石橋頭　 (ND280)"
     },
@@ -182875,7 +182875,7 @@
         "route": "78K",
         "bound": "O",
         "service_type": "1",
-        "seq": "28",
+        "seq": "27",
         "stop": "84891259878A06F5",
         "stop_name_tc": "鹽灶下 (ND281)"
     },
@@ -182883,7 +182883,7 @@
         "route": "78K",
         "bound": "O",
         "service_type": "1",
-        "seq": "29",
+        "seq": "28",
         "stop": "C7C774CD6AE937B1",
         "stop_name_tc": "南涌 (ND282)"
     },
@@ -182891,7 +182891,7 @@
         "route": "78K",
         "bound": "O",
         "service_type": "1",
-        "seq": "30",
+        "seq": "29",
         "stop": "24FEF0BD13752095",
         "stop_name_tc": "沙頭角診所 (ND283)"
     },
@@ -182899,7 +182899,7 @@
         "route": "78K",
         "bound": "O",
         "service_type": "1",
-        "seq": "31",
+        "seq": "30",
         "stop": "552DA8FCE732ABF0",
         "stop_name_tc": "塘肚　 (ND284)"
     },
@@ -182907,7 +182907,7 @@
         "route": "78K",
         "bound": "O",
         "service_type": "1",
-        "seq": "32",
+        "seq": "31",
         "stop": "ADB789C140CFBE00",
         "stop_name_tc": "新村 (ND285)"
     },
@@ -182915,7 +182915,7 @@
         "route": "78K",
         "bound": "O",
         "service_type": "1",
-        "seq": "33",
+        "seq": "32",
         "stop": "37AEC610CEBCEA48",
         "stop_name_tc": "木棉頭 (ND286)"
     },
@@ -182923,7 +182923,7 @@
         "route": "78K",
         "bound": "O",
         "service_type": "1",
-        "seq": "34",
+        "seq": "33",
         "stop": "8EA1F6CDA69E539C",
         "stop_name_tc": "担水坑 (ND287)"
     },
@@ -182931,7 +182931,7 @@
         "route": "78K",
         "bound": "O",
         "service_type": "1",
-        "seq": "35",
+        "seq": "34",
         "stop": "AC1FD9BDD09D1DD6",
         "stop_name_tc": "沙頭角總站 (ND896)"
     },

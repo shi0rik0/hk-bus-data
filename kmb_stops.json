@@ -3376,6 +3376,14 @@
         "long": "114.255293"
     },
     {
+        "stop": "10FEC152B1CD2194",
+        "name_en": "MAI PO TSUEN (YL431a)",
+        "name_tc": "米埔村 (YL431a)",
+        "name_sc": "米埔村 (YL431a)",
+        "lat": "22.490977",
+        "long": "114.060703"
+    },
+    {
         "stop": "1107CC28F2631CCB",
         "name_en": "KAI TIN SHOPPING CENTRE (LT532)",
         "name_tc": "啟田商場 (LT532)",
@@ -5990,6 +5998,14 @@
         "name_sc": "兆麟苑 (TM615)",
         "lat": "22.384297",
         "long": "113.975334"
+    },
+    {
+        "stop": "1D4801CD2E547FF3",
+        "name_en": "MAI PO SUBSTATION (YL549)",
+        "name_tc": "米埔變電站 (YL549)",
+        "name_sc": "米埔变电站 (YL549)",
+        "lat": "22.489598",
+        "long": "114.060950"
     },
     {
         "stop": "1D53F0BB47AB8441",
