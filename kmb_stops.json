@@ -1784,14 +1784,6 @@
         "long": "114.148799"
     },
     {
-        "stop": "09A5D5C90F15C08C",
-        "name_en": "LUNG KWU TAN",
-        "name_tc": "龍鼓灘",
-        "name_sc": "龙鼓滩",
-        "lat": "22.389055",
-        "long": "113.920312"
-    },
-    {
         "stop": "09AC1B6D147CA643",
         "name_en": "HIN KENG BUS TERMINUS (TA932)",
         "name_tc": "顯徑巴士總站 (TA932)",
@@ -25112,14 +25104,6 @@
         "long": "114.222731"
     },
     {
-        "stop": "76441824D4E31948",
-        "name_en": "LUNG KWU TAN",
-        "name_tc": "龍鼓灘",
-        "name_sc": "龙鼓滩",
-        "lat": "22.389055",
-        "long": "113.920312"
-    },
-    {
         "stop": "76457B949CBCDE7B",
         "name_en": "BAYVIEW GARDEN BUS TERMINUS (TW989)",
         "name_tc": "灣景花園總站 (TW989)",
@@ -40004,8 +39988,8 @@
         "name_en": "LONG TIN COURT (YL844)",
         "name_tc": "朗天苑 (YL844)",
         "name_sc": "朗天苑 (YL844)",
-        "lat": "22.442910",
-        "long": "114.016237"
+        "lat": "22.441426",
+        "long": "114.015706"
     },
     {
         "stop": "BF85B8D218CD0FF6",
@@ -43456,14 +43440,6 @@
         "long": "114.180447"
     },
     {
-        "stop": "D0937674DF369B23",
-        "name_en": "TUEN MUN ROAD BBI (C1) (TM113)",
-        "name_tc": "屯門公路轉車站 (C1) (TM113)",
-        "name_sc": "屯门公路转车站 (C1) (TM113)",
-        "lat": "22.358492",
-        "long": "114.019106"
-    },
-    {
         "stop": "D09590C6061D9FE7",
         "name_en": "MING KUM STATION (TM586)",
         "name_tc": "鳴琴站 (TM586)",
@@ -44726,14 +44702,6 @@
         "name_sc": "皇后像广场 (CW145)",
         "lat": "22.280703",
         "long": "114.159910"
-    },
-    {
-        "stop": "D6001B758148778A",
-        "name_en": "TSANG TSUI (TM876)",
-        "name_tc": "曾咀 (TM876)",
-        "name_sc": "曾咀 (TM876)",
-        "lat": "22.419386",
-        "long": "113.921369"
     },
     {
         "stop": "D617FE3785FAC79A",
@@ -48778,8 +48746,8 @@
     {
         "stop": "E9F5F6ED88ED3616",
         "name_en": "WINDSOR VILLA (YL304)",
-        "name_tc": "金沙花園 (YL304)",
-        "name_sc": "金沙花园 (YL304)",
+        "name_tc": "金莎花園 (YL304)",
+        "name_sc": "金莎花园 (YL304)",
         "lat": "22.433275",
         "long": "114.011661"
     },
@@ -51550,14 +51518,6 @@
         "name_sc": "樟木头帝琴湾 (SK221)",
         "lat": "22.430095",
         "long": "114.251168"
-    },
-    {
-        "stop": "F64076F7E14E38D4",
-        "name_en": "TSANG TSUI (TM875)",
-        "name_tc": "曾咀 (TM875)",
-        "name_sc": "曾咀 (TM875)",
-        "lat": "22.419386",
-        "long": "113.921369"
     },
     {
         "stop": "F646F96A5D18D121",

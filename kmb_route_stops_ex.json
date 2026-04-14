@@ -130240,54 +130240,6 @@
         "stop_name_tc": "旺角(柏景灣)總站 (MK911)"
     },
     {
-        "route": "52S",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "1",
-        "stop": "D6001B758148778A",
-        "stop_name_tc": "曾咀 (TM876)"
-    },
-    {
-        "route": "52S",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "2",
-        "stop": "76441824D4E31948",
-        "stop_name_tc": "龍鼓灘"
-    },
-    {
-        "route": "52S",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "3",
-        "stop": "212BFF5737D0116C",
-        "stop_name_tc": "屯門公路轉車站 (A9) (TM741)"
-    },
-    {
-        "route": "52S",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "1",
-        "stop": "D0937674DF369B23",
-        "stop_name_tc": "屯門公路轉車站 (C1) (TM113)"
-    },
-    {
-        "route": "52S",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "2",
-        "stop": "09A5D5C90F15C08C",
-        "stop_name_tc": "龍鼓灘"
-    },
-    {
-        "route": "52S",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "3",
-        "stop": "D6001B758148778A",
-        "stop_name_tc": "曾咀 (TM876)"
-    },
-    {
         "route": "52X",
         "bound": "I",
         "service_type": "1",
@@ -132598,70 +132550,6 @@
         "seq": "56",
         "stop": "FAB0AB2B6DCEE7F2",
         "stop_name_tc": "元朗（西）總站 (YL945)"
-    },
-    {
-        "route": "56S",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "1",
-        "stop": "F64076F7E14E38D4",
-        "stop_name_tc": "曾咀 (TM875)"
-    },
-    {
-        "route": "56S",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "2",
-        "stop": "76441824D4E31948",
-        "stop_name_tc": "龍鼓灘"
-    },
-    {
-        "route": "56S",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "3",
-        "stop": "5D14B75687F60509",
-        "stop_name_tc": "屯門公園 (TM167)"
-    },
-    {
-        "route": "56S",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "4",
-        "stop": "584E6744385F6463",
-        "stop_name_tc": "屯門站總站 (V5) (TM955)"
-    },
-    {
-        "route": "56S",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "1",
-        "stop": "584E6744385F6463",
-        "stop_name_tc": "屯門站總站 (V5) (TM955)"
-    },
-    {
-        "route": "56S",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "2",
-        "stop": "C1BF4509359B0895",
-        "stop_name_tc": "屯門市中心總站 (TM976)"
-    },
-    {
-        "route": "56S",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "3",
-        "stop": "09A5D5C90F15C08C",
-        "stop_name_tc": "龍鼓灘"
-    },
-    {
-        "route": "56S",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "4",
-        "stop": "F64076F7E14E38D4",
-        "stop_name_tc": "曾咀 (TM875)"
     },
     {
         "route": "57M",
@@ -147885,7 +147773,7 @@
         "service_type": "2",
         "seq": "9",
         "stop": "E9F5F6ED88ED3616",
-        "stop_name_tc": "金沙花園 (YL304)"
+        "stop_name_tc": "金莎花園 (YL304)"
     },
     {
         "route": "63",
@@ -148013,7 +147901,7 @@
         "service_type": "2",
         "seq": "5",
         "stop": "E9F5F6ED88ED3616",
-        "stop_name_tc": "金沙花園 (YL304)"
+        "stop_name_tc": "金莎花園 (YL304)"
     },
     {
         "route": "63",
