@@ -3921,6 +3921,16 @@
     },
     {
         "co": "CTB",
+        "route": "SP2A",
+        "orig_tc": "啟德體育園",
+        "orig_en": "Kai Tak Sports Park",
+        "dest_tc": "尖沙咀",
+        "dest_en": "Tsim Sha Tsui",
+        "orig_sc": "启德体育园",
+        "dest_sc": "尖沙咀"
+    },
+    {
+        "co": "CTB",
         "route": "SP5B",
         "orig_tc": "啟德體育園",
         "orig_en": "Kai Tak Sports Park",

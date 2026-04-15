@@ -232149,7 +232149,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "0E987A8094AF742E",
-        "stop_name_tc": "青嶼幹線轉車站 (N3) (TW704)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW704)"
     },
     {
         "route": "A30",
@@ -232341,7 +232341,7 @@
         "service_type": "2",
         "seq": "5",
         "stop": "0E987A8094AF742E",
-        "stop_name_tc": "青嶼幹線轉車站 (N3) (TW704)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW704)"
     },
     {
         "route": "A30",
@@ -232605,7 +232605,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "412DEEF534E127AF",
-        "stop_name_tc": "青嶼幹線轉車站 (A1) (TW606)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW606)"
     },
     {
         "route": "A30",
@@ -232741,7 +232741,7 @@
         "service_type": "2",
         "seq": "14",
         "stop": "412DEEF534E127AF",
-        "stop_name_tc": "青嶼幹線轉車站 (A1) (TW606)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW606)"
     },
     {
         "route": "A30",
@@ -232805,7 +232805,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "6A22FBF7825E3E7F",
-        "stop_name_tc": "青嶼幹線轉車站 (N4) (TW703)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW703)"
     },
     {
         "route": "A31",
@@ -232941,7 +232941,7 @@
         "service_type": "2",
         "seq": "5",
         "stop": "6A22FBF7825E3E7F",
-        "stop_name_tc": "青嶼幹線轉車站 (N4) (TW703)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW703)"
     },
     {
         "route": "A31",
@@ -233133,7 +233133,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "412DEEF534E127AF",
-        "stop_name_tc": "青嶼幹線轉車站 (A1) (TW606)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW606)"
     },
     {
         "route": "A31",
@@ -233261,7 +233261,7 @@
         "service_type": "3",
         "seq": "12",
         "stop": "412DEEF534E127AF",
-        "stop_name_tc": "青嶼幹線轉車站 (A1) (TW606)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW606)"
     },
     {
         "route": "A31",
@@ -233333,7 +233333,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "0E987A8094AF742E",
-        "stop_name_tc": "青嶼幹線轉車站 (N3) (TW704)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW704)"
     },
     {
         "route": "A32",
@@ -233501,7 +233501,7 @@
         "service_type": "2",
         "seq": "5",
         "stop": "0E987A8094AF742E",
-        "stop_name_tc": "青嶼幹線轉車站 (N3) (TW704)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW704)"
     },
     {
         "route": "A32",
@@ -233789,7 +233789,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "412DEEF534E127AF",
-        "stop_name_tc": "青嶼幹線轉車站 (A1) (TW606)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW606)"
     },
     {
         "route": "A32",
@@ -233973,7 +233973,7 @@
         "service_type": "2",
         "seq": "20",
         "stop": "412DEEF534E127AF",
-        "stop_name_tc": "青嶼幹線轉車站 (A1) (TW606)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW606)"
     },
     {
         "route": "A32",
@@ -238909,7 +238909,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "28E722A4FDD9ABB9",
-        "stop_name_tc": "青嶼幹線轉車站 (N5) (TW702)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW702)"
     },
     {
         "route": "A38",
@@ -239285,7 +239285,7 @@
         "service_type": "1",
         "seq": "23",
         "stop": "412DEEF534E127AF",
-        "stop_name_tc": "青嶼幹線轉車站 (A1) (TW606)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW606)"
     },
     {
         "route": "A38",
@@ -239341,7 +239341,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "0879D399E5B5FE0C",
-        "stop_name_tc": "青嶼幹線轉車站 (N2) (TW705)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW705)"
     },
     {
         "route": "A41",
@@ -239517,7 +239517,7 @@
         "service_type": "3",
         "seq": "4",
         "stop": "0879D399E5B5FE0C",
-        "stop_name_tc": "青嶼幹線轉車站 (N2) (TW705)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW705)"
     },
     {
         "route": "A41",
@@ -239813,7 +239813,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "412DEEF534E127AF",
-        "stop_name_tc": "青嶼幹線轉車站 (A1) (TW606)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW606)"
     },
     {
         "route": "A41",
@@ -239989,7 +239989,7 @@
         "service_type": "3",
         "seq": "19",
         "stop": "412DEEF534E127AF",
-        "stop_name_tc": "青嶼幹線轉車站 (A1) (TW606)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW606)"
     },
     {
         "route": "A41",
@@ -240181,7 +240181,7 @@
         "service_type": "5",
         "seq": "19",
         "stop": "412DEEF534E127AF",
-        "stop_name_tc": "青嶼幹線轉車站 (A1) (TW606)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW606)"
     },
     {
         "route": "A41",
@@ -240237,7 +240237,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "0879D399E5B5FE0C",
-        "stop_name_tc": "青嶼幹線轉車站 (N2) (TW705)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW705)"
     },
     {
         "route": "A41P",
@@ -240429,7 +240429,7 @@
         "service_type": "2",
         "seq": "5",
         "stop": "0879D399E5B5FE0C",
-        "stop_name_tc": "青嶼幹線轉車站 (N2) (TW705)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW705)"
     },
     {
         "route": "A41P",
@@ -240621,7 +240621,7 @@
         "service_type": "3",
         "seq": "5",
         "stop": "0879D399E5B5FE0C",
-        "stop_name_tc": "青嶼幹線轉車站 (N2) (TW705)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW705)"
     },
     {
         "route": "A41P",
@@ -240981,7 +240981,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "412DEEF534E127AF",
-        "stop_name_tc": "青嶼幹線轉車站 (A1) (TW606)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW606)"
     },
     {
         "route": "A41P",
@@ -241165,7 +241165,7 @@
         "service_type": "2",
         "seq": "20",
         "stop": "412DEEF534E127AF",
-        "stop_name_tc": "青嶼幹線轉車站 (A1) (TW606)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW606)"
     },
     {
         "route": "A41P",
@@ -241405,7 +241405,7 @@
         "service_type": "3",
         "seq": "25",
         "stop": "412DEEF534E127AF",
-        "stop_name_tc": "青嶼幹線轉車站 (A1) (TW606)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW606)"
     },
     {
         "route": "A41P",
@@ -241453,7 +241453,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "0879D399E5B5FE0C",
-        "stop_name_tc": "青嶼幹線轉車站 (N2) (TW705)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW705)"
     },
     {
         "route": "A42",
@@ -241757,7 +241757,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "412DEEF534E127AF",
-        "stop_name_tc": "青嶼幹線轉車站 (A1) (TW606)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW606)"
     },
     {
         "route": "A42",
@@ -241805,7 +241805,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "558ED5EDA9A0C43C",
-        "stop_name_tc": "青嶼幹線轉車站 (N1) (TW706)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW706)"
     },
     {
         "route": "A43",
@@ -242085,7 +242085,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "412DEEF534E127AF",
-        "stop_name_tc": "青嶼幹線轉車站 (A1) (TW606)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW606)"
     },
     {
         "route": "A43",
@@ -242253,7 +242253,7 @@
         "service_type": "2",
         "seq": "18",
         "stop": "412DEEF534E127AF",
-        "stop_name_tc": "青嶼幹線轉車站 (A1) (TW606)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW606)"
     },
     {
         "route": "A43",
@@ -242309,7 +242309,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "558ED5EDA9A0C43C",
-        "stop_name_tc": "青嶼幹線轉車站 (N1) (TW706)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW706)"
     },
     {
         "route": "A43P",
@@ -242429,7 +242429,7 @@
         "service_type": "2",
         "seq": "5",
         "stop": "558ED5EDA9A0C43C",
-        "stop_name_tc": "青嶼幹線轉車站 (N1) (TW706)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW706)"
     },
     {
         "route": "A43P",
@@ -242549,7 +242549,7 @@
         "service_type": "3",
         "seq": "5",
         "stop": "558ED5EDA9A0C43C",
-        "stop_name_tc": "青嶼幹線轉車站 (N1) (TW706)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW706)"
     },
     {
         "route": "A43P",
@@ -242757,7 +242757,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "412DEEF534E127AF",
-        "stop_name_tc": "青嶼幹線轉車站 (A1) (TW606)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW606)"
     },
     {
         "route": "A43P",
@@ -242909,7 +242909,7 @@
         "service_type": "3",
         "seq": "15",
         "stop": "412DEEF534E127AF",
-        "stop_name_tc": "青嶼幹線轉車站 (A1) (TW606)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW606)"
     },
     {
         "route": "A43P",
@@ -242965,7 +242965,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "0879D399E5B5FE0C",
-        "stop_name_tc": "青嶼幹線轉車站 (N2) (TW705)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW705)"
     },
     {
         "route": "A46",
@@ -243189,7 +243189,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "412DEEF534E127AF",
-        "stop_name_tc": "青嶼幹線轉車站 (A1) (TW606)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW606)"
     },
     {
         "route": "A46",
@@ -243237,7 +243237,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "558ED5EDA9A0C43C",
-        "stop_name_tc": "青嶼幹線轉車站 (N1) (TW706)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW706)"
     },
     {
         "route": "A47X",
@@ -243341,7 +243341,7 @@
         "service_type": "2",
         "seq": "3",
         "stop": "558ED5EDA9A0C43C",
-        "stop_name_tc": "青嶼幹線轉車站 (N1) (TW706)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW706)"
     },
     {
         "route": "A47X",
@@ -243517,7 +243517,7 @@
         "service_type": "3",
         "seq": "4",
         "stop": "558ED5EDA9A0C43C",
-        "stop_name_tc": "青嶼幹線轉車站 (N1) (TW706)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW706)"
     },
     {
         "route": "A47X",
@@ -243701,7 +243701,7 @@
         "service_type": "4",
         "seq": "5",
         "stop": "558ED5EDA9A0C43C",
-        "stop_name_tc": "青嶼幹線轉車站 (N1) (TW706)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW706)"
     },
     {
         "route": "A47X",
@@ -243901,7 +243901,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "412DEEF534E127AF",
-        "stop_name_tc": "青嶼幹線轉車站 (A1) (TW606)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW606)"
     },
     {
         "route": "A47X",
@@ -244117,7 +244117,7 @@
         "service_type": "2",
         "seq": "24",
         "stop": "412DEEF534E127AF",
-        "stop_name_tc": "青嶼幹線轉車站 (A1) (TW606)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW606)"
     },
     {
         "route": "A47X",
@@ -244333,7 +244333,7 @@
         "service_type": "3",
         "seq": "24",
         "stop": "412DEEF534E127AF",
-        "stop_name_tc": "青嶼幹線轉車站 (A1) (TW606)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW606)"
     },
     {
         "route": "A47X",
@@ -244485,7 +244485,7 @@
         "service_type": "4",
         "seq": "15",
         "stop": "412DEEF534E127AF",
-        "stop_name_tc": "青嶼幹線轉車站 (A1) (TW606)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW606)"
     },
     {
         "route": "A47X",
@@ -245453,7 +245453,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "6A22FBF7825E3E7F",
-        "stop_name_tc": "青嶼幹線轉車站 (N4) (TW703)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW703)"
     },
     {
         "route": "E31",
@@ -245613,7 +245613,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "CD6DA881946B9654",
-        "stop_name_tc": "青嶼幹線轉車站 (A2) (TW605)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW605)"
     },
     {
         "route": "E31",
@@ -245781,7 +245781,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "0E987A8094AF742E",
-        "stop_name_tc": "青嶼幹線轉車站 (N3) (TW704)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW704)"
     },
     {
         "route": "E32",
@@ -245957,7 +245957,7 @@
         "service_type": "2",
         "seq": "12",
         "stop": "0E987A8094AF742E",
-        "stop_name_tc": "青嶼幹線轉車站 (N3) (TW704)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW704)"
     },
     {
         "route": "E32",
@@ -246197,7 +246197,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "8394FFF35F9D2EFB",
-        "stop_name_tc": "青嶼幹線轉車站 (A4) (TW603)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW603)"
     },
     {
         "route": "E32",
@@ -246453,7 +246453,7 @@
         "service_type": "2",
         "seq": "20",
         "stop": "8394FFF35F9D2EFB",
-        "stop_name_tc": "青嶼幹線轉車站 (A4) (TW603)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW603)"
     },
     {
         "route": "E32",
@@ -246637,7 +246637,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "0E987A8094AF742E",
-        "stop_name_tc": "青嶼幹線轉車站 (N3) (TW704)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW704)"
     },
     {
         "route": "E32A",
@@ -246869,7 +246869,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "C7217641124605E5",
-        "stop_name_tc": "青嶼幹線轉車站 (A3) (TW604)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW604)"
     },
     {
         "route": "E32A",
@@ -249469,7 +249469,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "28E722A4FDD9ABB9",
-        "stop_name_tc": "青嶼幹線轉車站 (N5) (TW702)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW702)"
     },
     {
         "route": "E36P",
@@ -249909,7 +249909,7 @@
         "service_type": "1",
         "seq": "29",
         "stop": "8394FFF35F9D2EFB",
-        "stop_name_tc": "青嶼幹線轉車站 (A4) (TW603)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW603)"
     },
     {
         "route": "E36P",
@@ -250077,7 +250077,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "28E722A4FDD9ABB9",
-        "stop_name_tc": "青嶼幹線轉車站 (N5) (TW702)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW702)"
     },
     {
         "route": "E36S",
@@ -250205,7 +250205,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "DBB6D5D26FF3D909",
-        "stop_name_tc": "青嶼幹線轉車站 (A5) (TW602)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW602)"
     },
     {
         "route": "E36S",
@@ -251685,7 +251685,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "558ED5EDA9A0C43C",
-        "stop_name_tc": "青嶼幹線轉車站 (N1) (TW706)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW706)"
     },
     {
         "route": "E41",
@@ -251821,7 +251821,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "8394FFF35F9D2EFB",
-        "stop_name_tc": "青嶼幹線轉車站 (A4) (TW603)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW603)"
     },
     {
         "route": "E41",
@@ -252005,7 +252005,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "0879D399E5B5FE0C",
-        "stop_name_tc": "青嶼幹線轉車站 (N2) (TW705)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW705)"
     },
     {
         "route": "E42",
@@ -252221,7 +252221,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "DBB6D5D26FF3D909",
-        "stop_name_tc": "青嶼幹線轉車站 (A5) (TW602)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW602)"
     },
     {
         "route": "E42",
@@ -252365,7 +252365,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "0879D399E5B5FE0C",
-        "stop_name_tc": "青嶼幹線轉車站 (N2) (TW705)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW705)"
     },
     {
         "route": "E42C",
@@ -252549,7 +252549,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "DBB6D5D26FF3D909",
-        "stop_name_tc": "青嶼幹線轉車站 (A5) (TW602)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW602)"
     },
     {
         "route": "E42C",
@@ -252669,7 +252669,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "0879D399E5B5FE0C",
-        "stop_name_tc": "青嶼幹線轉車站 (N2) (TW705)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW705)"
     },
     {
         "route": "E42P",
@@ -252917,7 +252917,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "C7217641124605E5",
-        "stop_name_tc": "青嶼幹線轉車站 (A3) (TW604)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW604)"
     },
     {
         "route": "E42P",
@@ -266405,7 +266405,7 @@
         "service_type": "1",
         "seq": "24",
         "stop": "6A22FBF7825E3E7F",
-        "stop_name_tc": "青嶼幹線轉車站 (N4) (TW703)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW703)"
     },
     {
         "route": "N31",
@@ -266549,7 +266549,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "CD6DA881946B9654",
-        "stop_name_tc": "青嶼幹線轉車站 (A2) (TW605)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW605)"
     },
     {
         "route": "N31",
@@ -268757,7 +268757,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "0879D399E5B5FE0C",
-        "stop_name_tc": "青嶼幹線轉車站 (N2) (TW705)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW705)"
     },
     {
         "route": "N42",
@@ -269205,7 +269205,7 @@
         "service_type": "1",
         "seq": "28",
         "stop": "DBB6D5D26FF3D909",
-        "stop_name_tc": "青嶼幹線轉車站 (A5) (TW602)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW602)"
     },
     {
         "route": "N42",
@@ -269397,7 +269397,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "558ED5EDA9A0C43C",
-        "stop_name_tc": "青嶼幹線轉車站 (N1) (TW706)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW706)"
     },
     {
         "route": "N42A",
@@ -269749,7 +269749,7 @@
         "service_type": "1",
         "seq": "23",
         "stop": "DBB6D5D26FF3D909",
-        "stop_name_tc": "青嶼幹線轉車站 (A5) (TW602)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW602)"
     },
     {
         "route": "N42A",
@@ -273733,7 +273733,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "0E987A8094AF742E",
-        "stop_name_tc": "青嶼幹線轉車站 (N3) (TW704)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW704)"
     },
     {
         "route": "NA30",
@@ -273997,7 +273997,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "412DEEF534E127AF",
-        "stop_name_tc": "青嶼幹線轉車站 (A1) (TW606)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW606)"
     },
     {
         "route": "NA30",
@@ -274061,7 +274061,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "6A22FBF7825E3E7F",
-        "stop_name_tc": "青嶼幹線轉車站 (N4) (TW703)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW703)"
     },
     {
         "route": "NA31",
@@ -274253,7 +274253,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "412DEEF534E127AF",
-        "stop_name_tc": "青嶼幹線轉車站 (A1) (TW606)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW606)"
     },
     {
         "route": "NA31",
@@ -274317,7 +274317,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "0E987A8094AF742E",
-        "stop_name_tc": "青嶼幹線轉車站 (N3) (TW704)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW704)"
     },
     {
         "route": "NA32",
@@ -274605,7 +274605,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "412DEEF534E127AF",
-        "stop_name_tc": "青嶼幹線轉車站 (A1) (TW606)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW606)"
     },
     {
         "route": "NA32",
@@ -275949,7 +275949,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "0879D399E5B5FE0C",
-        "stop_name_tc": "青嶼幹線轉車站 (N2) (TW705)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW705)"
     },
     {
         "route": "NA40",
@@ -276317,7 +276317,7 @@
         "service_type": "1",
         "seq": "24",
         "stop": "412DEEF534E127AF",
-        "stop_name_tc": "青嶼幹線轉車站 (A1) (TW606)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW606)"
     },
     {
         "route": "NA40",
@@ -276381,7 +276381,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "0879D399E5B5FE0C",
-        "stop_name_tc": "青嶼幹線轉車站 (N2) (TW705)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW705)"
     },
     {
         "route": "NA41",
@@ -276829,7 +276829,7 @@
         "service_type": "1",
         "seq": "30",
         "stop": "412DEEF534E127AF",
-        "stop_name_tc": "青嶼幹線轉車站 (A1) (TW606)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW606)"
     },
     {
         "route": "NA41",
@@ -276893,7 +276893,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "558ED5EDA9A0C43C",
-        "stop_name_tc": "青嶼幹線轉車站 (N1) (TW706)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW706)"
     },
     {
         "route": "NA43",
@@ -277189,7 +277189,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "412DEEF534E127AF",
-        "stop_name_tc": "青嶼幹線轉車站 (A1) (TW606)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW606)"
     },
     {
         "route": "NA43",
@@ -277253,7 +277253,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "558ED5EDA9A0C43C",
-        "stop_name_tc": "青嶼幹線轉車站 (N1) (TW706)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW706)"
     },
     {
         "route": "NA47",
@@ -277581,7 +277581,7 @@
         "service_type": "1",
         "seq": "23",
         "stop": "412DEEF534E127AF",
-        "stop_name_tc": "青嶼幹線轉車站 (A1) (TW606)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW606)"
     },
     {
         "route": "NA47",
@@ -281053,7 +281053,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "444BEB5BB189B3A0",
-        "stop_name_tc": "青嶼幹線轉車站 (A7) (TW600)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW600)"
     },
     {
         "route": "R42",
@@ -281077,7 +281077,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "8C8191357A7B2C2F",
-        "stop_name_tc": "青嶼幹線轉車站 (N7) (TW700)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW700)"
     },
     {
         "route": "R42",
@@ -281469,7 +281469,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "BB78072EA5359090",
-        "stop_name_tc": "青嶼幹線轉車站 (N6) (TW701)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW701)"
     },
     {
         "route": "R8",
@@ -281477,7 +281477,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "E1FF672AE45F06FE",
-        "stop_name_tc": "青嶼幹線轉車站 (A6) (TW601)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW601)"
     },
     {
         "route": "R8",
@@ -281509,7 +281509,7 @@
         "service_type": "2",
         "seq": "3",
         "stop": "BB78072EA5359090",
-        "stop_name_tc": "青嶼幹線轉車站 (N6) (TW701)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW701)"
     },
     {
         "route": "R8",
@@ -281517,7 +281517,7 @@
         "service_type": "2",
         "seq": "4",
         "stop": "E1FF672AE45F06FE",
-        "stop_name_tc": "青嶼幹線轉車站 (A6) (TW601)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW601)"
     },
     {
         "route": "R8",
@@ -281557,7 +281557,7 @@
         "service_type": "3",
         "seq": "3",
         "stop": "BB78072EA5359090",
-        "stop_name_tc": "青嶼幹線轉車站 (N6) (TW701)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW701)"
     },
     {
         "route": "R8",
@@ -281565,7 +281565,7 @@
         "service_type": "3",
         "seq": "4",
         "stop": "E1FF672AE45F06FE",
-        "stop_name_tc": "青嶼幹線轉車站 (A6) (TW601)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW601)"
     },
     {
         "route": "R8",
@@ -287061,7 +287061,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "8C8191357A7B2C2F",
-        "stop_name_tc": "青嶼幹線轉車站 (N7) (TW700)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW700)"
     },
     {
         "route": "X40",
@@ -288373,7 +288373,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "8C8191357A7B2C2F",
-        "stop_name_tc": "青嶼幹線轉車站 (N7) (TW700)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW700)"
     },
     {
         "route": "X43",
@@ -288533,7 +288533,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "8C8191357A7B2C2F",
-        "stop_name_tc": "青嶼幹線轉車站 (N7) (TW700)"
+        "stop_name_tc": "青嶼幹線轉車站 (TW700)"
     },
     {
         "route": "X47",
