@@ -931,16 +931,6 @@
     },
     {
         "co": "CTB",
-        "route": "43M",
-        "orig_tc": "田灣",
-        "orig_en": "Tin Wan",
-        "dest_tc": "石塘咀",
-        "dest_en": "Shek Tong Tsui",
-        "orig_sc": "田湾",
-        "dest_sc": "石塘咀"
-    },
-    {
-        "co": "CTB",
         "route": "43R",
         "orig_tc": "堅尼地城站",
         "orig_en": "Kennedy Town Station",

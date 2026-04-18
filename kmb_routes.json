@@ -5605,9 +5605,9 @@
         "orig_en": "LOHAS PARK STATION",
         "orig_tc": "康城站",
         "orig_sc": "康城站",
-        "dest_en": "TSUEN WAN WEST STATION",
-        "dest_tc": "荃灣西站",
-        "dest_sc": "荃湾西站"
+        "dest_en": "TSUEN WAN WEST STATION (VIA: WONG TAI SIN, ON TAI)",
+        "dest_tc": "荃灣西站 (經: 安泰及黃大仙)",
+        "dest_sc": "荃湾西站 (经: 安泰及黄大仙)"
     },
     {
         "route": "290X",
@@ -5616,9 +5616,9 @@
         "orig_en": "TIU KENG LENG STATION",
         "orig_tc": "調景嶺站",
         "orig_sc": "调景岭站",
-        "dest_en": "TSUEN WAN WEST STATION",
-        "dest_tc": "荃灣西站",
-        "dest_sc": "荃湾西站"
+        "dest_en": "TSUEN WAN WEST STATION (VIA: WONG TAI SIN, ON TAI)",
+        "dest_tc": "荃灣西站 (經: 安泰及黃大仙)",
+        "dest_sc": "荃湾西站 (经: 安泰及黄大仙)"
     },
     {
         "route": "290X",
@@ -5627,9 +5627,9 @@
         "orig_en": "LOHAS PARK STATION",
         "orig_tc": "康城站",
         "orig_sc": "康城站",
-        "dest_en": "TSUEN WAN WEST STATION",
-        "dest_tc": "荃灣西站",
-        "dest_sc": "荃湾西站"
+        "dest_en": "TSUEN WAN WEST STATION (VIA: WONG TAI SIN, ON TAI)",
+        "dest_tc": "荃灣西站 (經: 安泰及黃大仙)",
+        "dest_sc": "荃湾西站 (经: 安泰及黄大仙)"
     },
     {
         "route": "291P",
