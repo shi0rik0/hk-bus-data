@@ -464,6 +464,14 @@
         "long": "114.163941"
     },
     {
+        "stop": "02B95C981F16C906",
+        "name_en": "CANTON ROAD, GATEWAY HOTEL (YT204a)",
+        "name_tc": "廣東道,港威酒店 (YT204a)",
+        "name_sc": "广东道,港威酒店 (YT204a)",
+        "lat": "22.298250",
+        "long": "114.168817"
+    },
+    {
         "stop": "02CF8D1FE31E9A09",
         "name_en": "ALVA HOTEL BY ROYAL (ST606)",
         "name_tc": "帝逸酒店 (ST606)",
@@ -4304,6 +4312,14 @@
         "long": "114.053126"
     },
     {
+        "stop": "151F6BD0D37CA555",
+        "name_en": "WESTERN HARBOUR TUNNEL BBI - NGA CHEUNG ROAD",
+        "name_tc": "西隧轉車站 - 雅翔道 (YT302)",
+        "name_sc": "西隧转车站 - 雅翔道 (YT302)",
+        "lat": "22.303565",
+        "long": "114.159802"
+    },
+    {
         "stop": "153D32217234A0F0",
         "name_en": "CROSS HARBOUR TUNNEL BBI (HH602)",
         "name_tc": "紅隧轉車站 (HH602)",
@@ -6464,6 +6480,14 @@
         "long": "114.180068"
     },
     {
+        "stop": "1F170F80E7CB2C2E",
+        "name_en": "JORDAN ROAD, HIGH SPEED RAIL STATION (YT675a)",
+        "name_tc": "佐敦道,高鐵站 (YT675a)",
+        "name_sc": "佐敦道,高铁站 (YT675a)",
+        "lat": "22.306354",
+        "long": "114.164444"
+    },
+    {
         "stop": "1F189CEB915C191D",
         "name_en": "MA CHAI HANG RECREATION GROUND (WT425)",
         "name_tc": "馬仔坑遊樂場 (WT425)",
@@ -7622,6 +7646,14 @@
         "name_sc": "屯门市中心 (TM975)",
         "lat": "22.391573",
         "long": "113.975564"
+    },
+    {
+        "stop": "24AA3CCF69A6572D",
+        "name_en": "KOWLOON STATION, HIGH SPEED RAIL STATION (YT947)",
+        "name_tc": "九龍站,高鐵站 (YT947)",
+        "name_sc": "九龙站,高铁站 (YT947)",
+        "lat": "22.305015",
+        "long": "114.162893"
     },
     {
         "stop": "24AD2532770CF399",
@@ -18184,6 +18216,14 @@
         "long": "114.165727"
     },
     {
+        "stop": "55852875C9223A6C",
+        "name_en": "JORDAN ROAD, HIGH SPEED RAIL STATION (YT674a)",
+        "name_tc": "佐敦道,高鐵站 (YT674a)",
+        "name_sc": "佐敦道,高铁站 (YT674a)",
+        "lat": "22.305945",
+        "long": "114.166374"
+    },
+    {
         "stop": "558599642E78BB9B",
         "name_en": "H.K. POLYTECHNIC UNIVERSITY (YT620)",
         "name_tc": "香港理工大學 (YT620)",
@@ -18286,6 +18326,14 @@
         "name_sc": "拔萃男书院,太子道西 (KC744)",
         "lat": "22.324934",
         "long": "114.174398"
+    },
+    {
+        "stop": "5612949E7487F309",
+        "name_en": "PEKING ROAD, CANTON ROAD (YT208)",
+        "name_tc": "廣東道,北京道 (YT208)",
+        "name_sc": "广东道,北京道 (YT208)",
+        "lat": "22.295621",
+        "long": "114.169362"
     },
     {
         "stop": "564C0ECAAC09C371",
@@ -22070,6 +22118,14 @@
         "name_sc": "九龙城转车站-富豪东方酒店",
         "lat": "22.327232",
         "long": "114.190701"
+    },
+    {
+        "stop": "677BBB37FFCA0FAD",
+        "name_en": "AUSTIN ROAD, XIQU CENTRE (YT202a)",
+        "name_tc": "柯士甸道 戲曲中心 (YT202a)",
+        "name_sc": "柯士甸道 戏曲中心 (YT202a)",
+        "lat": "22.302051",
+        "long": "114.168121"
     },
     {
         "stop": "6784D2ABC479F6CE",
@@ -44830,6 +44886,14 @@
         "name_sc": "愉景新城 (TW383)",
         "lat": "22.374994",
         "long": "114.112969"
+    },
+    {
+        "stop": "D6D0F24D89C90323",
+        "name_en": "FERRY STREET, YAU MA TEI POLICE STATION (YT325a)",
+        "name_tc": "渡船街, 油麻地警署 (YT325a)",
+        "name_sc": "渡船街, 油麻地警署 (YT325a)",
+        "lat": "22.325450",
+        "long": "114.167883"
     },
     {
         "stop": "D6D316FEAEC6793A",

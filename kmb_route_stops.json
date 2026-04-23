@@ -221886,6 +221886,118 @@
         "stop": "E2BFABFEB23808BD"
     },
     {
+        "route": "HK2",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "1",
+        "stop": "24AA3CCF69A6572D"
+    },
+    {
+        "route": "HK2",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "2",
+        "stop": "151F6BD0D37CA555"
+    },
+    {
+        "route": "HK2",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "3",
+        "stop": "677BBB37FFCA0FAD"
+    },
+    {
+        "route": "HK2",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "4",
+        "stop": "02B95C981F16C906"
+    },
+    {
+        "route": "HK2",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "5",
+        "stop": "5612949E7487F309"
+    },
+    {
+        "route": "HK2",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "6",
+        "stop": "24AD31E3F8DF42AE"
+    },
+    {
+        "route": "HK2",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "7",
+        "stop": "55852875C9223A6C"
+    },
+    {
+        "route": "HK2",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "8",
+        "stop": "D6D0F24D89C90323"
+    },
+    {
+        "route": "HK2",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "9",
+        "stop": "1F170F80E7CB2C2E"
+    },
+    {
+        "route": "HK2",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "10",
+        "stop": "24AA3CCF69A6572D"
+    },
+    {
+        "route": "HK2",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "1",
+        "stop": "5612949E7487F309"
+    },
+    {
+        "route": "HK2",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "2",
+        "stop": "24AD31E3F8DF42AE"
+    },
+    {
+        "route": "HK2",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "3",
+        "stop": "55852875C9223A6C"
+    },
+    {
+        "route": "HK2",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "4",
+        "stop": "D6D0F24D89C90323"
+    },
+    {
+        "route": "HK2",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "5",
+        "stop": "1F170F80E7CB2C2E"
+    },
+    {
+        "route": "HK2",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "6",
+        "stop": "24AA3CCF69A6572D"
+    },
+    {
         "route": "N116",
         "bound": "O",
         "service_type": "1",

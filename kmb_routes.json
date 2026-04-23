@@ -15637,9 +15637,9 @@
         "orig_en": "STAR FERRY",
         "orig_tc": "尖沙咀碼頭",
         "orig_sc": "尖沙咀码头",
-        "dest_en": "[KMB Tour HK] TSIM SHA TSUI,MONG KOK,WONG TAI SIN",
-        "dest_tc": "[九巴遊香港] 尖沙咀, 旺角及黃大仙",
-        "dest_sc": "[九巴游香港] 尖沙咀, 旺角及黄大仙"
+        "dest_en": "[KMB Tour HK] TSIM SHA TSUI, MONG KOK and WONG TAI",
+        "dest_tc": "[九巴遊香港] 尖沙咀、旺角及黃大仙",
+        "dest_sc": "[九巴游香港] 尖沙咀、旺角及黄大仙"
     },
     {
         "route": "HK1",
@@ -15648,9 +15648,31 @@
         "orig_en": "STAR FERRY",
         "orig_tc": "尖沙咀碼頭",
         "orig_sc": "尖沙咀码头",
-        "dest_en": "[KMB Tour HK] TSIM SHA TSUI,MONG KOK",
+        "dest_en": "[KMB Tour HK] TSIM SHA TSUI and MONG KOK",
         "dest_tc": "[九巴遊香港] 尖沙咀及旺角",
         "dest_sc": "[九巴游香港] 尖沙咀及旺角"
+    },
+    {
+        "route": "HK2",
+        "bound": "O",
+        "service_type": "1",
+        "orig_en": "KOWLOON STATION",
+        "orig_tc": "九龍站",
+        "orig_sc": "九龙站",
+        "dest_en": "[KMB Tour HK] TSIM SHA TSUI and TSING MA BRIDGE",
+        "dest_tc": "[九巴遊香港] 尖沙咀及青馬大橋",
+        "dest_sc": "[九巴游香港] 尖沙咀及青马大桥"
+    },
+    {
+        "route": "HK2",
+        "bound": "O",
+        "service_type": "2",
+        "orig_en": "CANTON ROAD",
+        "orig_tc": "廣東道",
+        "orig_sc": "广东道",
+        "dest_en": "KOWLOON STATION",
+        "dest_tc": "九龍站",
+        "dest_sc": "九龙站"
     },
     {
         "route": "N116",
