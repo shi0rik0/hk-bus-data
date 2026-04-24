@@ -15664,17 +15664,6 @@
         "dest_sc": "[九巴游香港] 尖沙咀及青马大桥"
     },
     {
-        "route": "HK2",
-        "bound": "O",
-        "service_type": "2",
-        "orig_en": "CANTON ROAD",
-        "orig_tc": "廣東道",
-        "orig_sc": "广东道",
-        "dest_en": "KOWLOON STATION",
-        "dest_tc": "九龍站",
-        "dest_sc": "九龙站"
-    },
-    {
         "route": "N116",
         "bound": "O",
         "service_type": "1",

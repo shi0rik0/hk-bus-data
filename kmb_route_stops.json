@@ -221956,48 +221956,6 @@
         "stop": "24AA3CCF69A6572D"
     },
     {
-        "route": "HK2",
-        "bound": "O",
-        "service_type": "2",
-        "seq": "1",
-        "stop": "5612949E7487F309"
-    },
-    {
-        "route": "HK2",
-        "bound": "O",
-        "service_type": "2",
-        "seq": "2",
-        "stop": "24AD31E3F8DF42AE"
-    },
-    {
-        "route": "HK2",
-        "bound": "O",
-        "service_type": "2",
-        "seq": "3",
-        "stop": "55852875C9223A6C"
-    },
-    {
-        "route": "HK2",
-        "bound": "O",
-        "service_type": "2",
-        "seq": "4",
-        "stop": "D6D0F24D89C90323"
-    },
-    {
-        "route": "HK2",
-        "bound": "O",
-        "service_type": "2",
-        "seq": "5",
-        "stop": "1F170F80E7CB2C2E"
-    },
-    {
-        "route": "HK2",
-        "bound": "O",
-        "service_type": "2",
-        "seq": "6",
-        "stop": "24AA3CCF69A6572D"
-    },
-    {
         "route": "N116",
         "bound": "O",
         "service_type": "1",
