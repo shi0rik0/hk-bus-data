@@ -3791,6 +3791,16 @@
     },
     {
         "co": "CTB",
+        "route": "NT3",
+        "orig_tc": "租賃包車",
+        "orig_en": "Chartered",
+        "dest_tc": "租賃包車",
+        "dest_en": "Chartered",
+        "orig_sc": "租赁包车",
+        "dest_sc": "租赁包车"
+    },
+    {
+        "co": "CTB",
         "route": "R11",
         "orig_tc": "迪士尼樂園",
         "orig_en": "Disneyland",
