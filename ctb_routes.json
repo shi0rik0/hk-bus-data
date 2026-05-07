@@ -3211,6 +3211,16 @@
     },
     {
         "co": "CTB",
+        "route": "E18",
+        "orig_tc": "東涌 (翔東邨)",
+        "orig_en": "Tung Chung (Cheung Tung Estate)",
+        "dest_tc": "北角碼頭",
+        "dest_en": "North Point Ferry Pier",
+        "orig_sc": "东涌 (翔东邨)",
+        "dest_sc": "北角码头"
+    },
+    {
+        "co": "CTB",
         "route": "E21",
         "orig_tc": "大角咀 (維港灣)",
         "orig_en": "Tai Kok Tsui (Island Harbourview)",
@@ -3348,6 +3358,16 @@
         "dest_en": "Airport (via Tung Chung North)",
         "orig_sc": "慈云山 (南)",
         "dest_sc": "机场 (经东涌北)"
+    },
+    {
+        "co": "CTB",
+        "route": "E28",
+        "orig_tc": "東涌 (翔東邨)",
+        "orig_en": "Tung Chung (Cheung Tung Estate)",
+        "dest_tc": "將軍澳工業邨",
+        "dest_en": "Tseung Kwan O Industrial Estate",
+        "orig_sc": "东涌 (翔东邨)",
+        "dest_sc": "将军澳工业邨"
     },
     {
         "co": "CTB",
