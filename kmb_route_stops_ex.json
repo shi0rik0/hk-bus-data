@@ -232205,7 +232205,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "23F3D6C7BDAD87EB",
-        "stop_name_tc": "機場(地面運輸中心)總站 (CL925)"
+        "stop_name_tc": "機場(地面運輸中心)總站 (CL916)"
     },
     {
         "route": "A30",
@@ -232381,7 +232381,7 @@
         "service_type": "2",
         "seq": "1",
         "stop": "23F3D6C7BDAD87EB",
-        "stop_name_tc": "機場(地面運輸中心)總站 (CL925)"
+        "stop_name_tc": "機場(地面運輸中心)總站 (CL916)"
     },
     {
         "route": "A30",
@@ -232701,7 +232701,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "23F3D6C7BDAD87EB",
-        "stop_name_tc": "機場(地面運輸中心)總站 (CL925)"
+        "stop_name_tc": "機場(地面運輸中心)總站 (CL916)"
     },
     {
         "route": "A30",
@@ -232853,7 +232853,7 @@
         "service_type": "2",
         "seq": "19",
         "stop": "23F3D6C7BDAD87EB",
-        "stop_name_tc": "機場(地面運輸中心)總站 (CL925)"
+        "stop_name_tc": "機場(地面運輸中心)總站 (CL916)"
     },
     {
         "route": "A31",
@@ -233389,7 +233389,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "23F3D6C7BDAD87EB",
-        "stop_name_tc": "機場(地面運輸中心)總站 (CL925)"
+        "stop_name_tc": "機場(地面運輸中心)總站 (CL916)"
     },
     {
         "route": "A32",
@@ -233541,7 +233541,7 @@
         "service_type": "2",
         "seq": "1",
         "stop": "23F3D6C7BDAD87EB",
-        "stop_name_tc": "機場(地面運輸中心)總站 (CL925)"
+        "stop_name_tc": "機場(地面運輸中心)總站 (CL916)"
     },
     {
         "route": "A32",
@@ -233885,7 +233885,7 @@
         "service_type": "1",
         "seq": "23",
         "stop": "23F3D6C7BDAD87EB",
-        "stop_name_tc": "機場(地面運輸中心)總站 (CL925)"
+        "stop_name_tc": "機場(地面運輸中心)總站 (CL916)"
     },
     {
         "route": "A32",
@@ -234085,7 +234085,7 @@
         "service_type": "2",
         "seq": "25",
         "stop": "23F3D6C7BDAD87EB",
-        "stop_name_tc": "機場(地面運輸中心)總站 (CL925)"
+        "stop_name_tc": "機場(地面運輸中心)總站 (CL916)"
     },
     {
         "route": "A33",
@@ -274141,7 +274141,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "23F3D6C7BDAD87EB",
-        "stop_name_tc": "機場(地面運輸中心)總站 (CL925)"
+        "stop_name_tc": "機場(地面運輸中心)總站 (CL916)"
     },
     {
         "route": "NA30",
@@ -274725,7 +274725,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "23F3D6C7BDAD87EB",
-        "stop_name_tc": "機場(地面運輸中心)總站 (CL925)"
+        "stop_name_tc": "機場(地面運輸中心)總站 (CL916)"
     },
     {
         "route": "NA32",
