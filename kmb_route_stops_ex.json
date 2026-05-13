@@ -42565,7 +42565,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "BF72FF473A660C0E",
-        "stop_name_tc": "青沙公路轉車站 (B4) (TA293)"
+        "stop_name_tc": "青沙公路轉車站 (TA293)"
     },
     {
         "route": "240X",
@@ -42789,7 +42789,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "9A26BDE49933CEA8",
-        "stop_name_tc": "青沙公路轉車站 (A1) (TA755)"
+        "stop_name_tc": "青沙公路轉車站 (TA755)"
     },
     {
         "route": "240X",
@@ -44421,7 +44421,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "897B26110ECE76B3",
-        "stop_name_tc": "青沙公路轉車站 (B5) (TA292)"
+        "stop_name_tc": "青沙公路轉車站 (TA292)"
     },
     {
         "route": "249X",
@@ -44565,7 +44565,7 @@
         "service_type": "2",
         "seq": "10",
         "stop": "897B26110ECE76B3",
-        "stop_name_tc": "青沙公路轉車站 (B5) (TA292)"
+        "stop_name_tc": "青沙公路轉車站 (TA292)"
     },
     {
         "route": "249X",
@@ -44669,7 +44669,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "9A26BDE49933CEA8",
-        "stop_name_tc": "青沙公路轉車站 (A1) (TA755)"
+        "stop_name_tc": "青沙公路轉車站 (TA755)"
     },
     {
         "route": "249X",
@@ -65933,7 +65933,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "2F202818B5A6F424",
-        "stop_name_tc": "青沙公路轉車站 (B1) (TA296)"
+        "stop_name_tc": "青沙公路轉車站 (TA296)"
     },
     {
         "route": "270B",
@@ -66093,7 +66093,7 @@
         "service_type": "2",
         "seq": "8",
         "stop": "2F202818B5A6F424",
-        "stop_name_tc": "青沙公路轉車站 (B1) (TA296)"
+        "stop_name_tc": "青沙公路轉車站 (TA296)"
     },
     {
         "route": "270B",
@@ -66309,7 +66309,7 @@
         "service_type": "3",
         "seq": "15",
         "stop": "2F202818B5A6F424",
-        "stop_name_tc": "青沙公路轉車站 (B1) (TA296)"
+        "stop_name_tc": "青沙公路轉車站 (TA296)"
     },
     {
         "route": "270B",
@@ -66453,7 +66453,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "FD8181D7574BB373",
-        "stop_name_tc": "青沙公路轉車站 (A2) (TA754)"
+        "stop_name_tc": "青沙公路轉車站 (TA754)"
     },
     {
         "route": "270B",
@@ -66677,7 +66677,7 @@
         "service_type": "2",
         "seq": "15",
         "stop": "FD8181D7574BB373",
-        "stop_name_tc": "青沙公路轉車站 (A2) (TA754)"
+        "stop_name_tc": "青沙公路轉車站 (TA754)"
     },
     {
         "route": "270B",
@@ -67213,7 +67213,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "2F202818B5A6F424",
-        "stop_name_tc": "青沙公路轉車站 (B1) (TA296)"
+        "stop_name_tc": "青沙公路轉車站 (TA296)"
     },
     {
         "route": "270D",
@@ -67357,7 +67357,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "FD8181D7574BB373",
-        "stop_name_tc": "青沙公路轉車站 (A2) (TA754)"
+        "stop_name_tc": "青沙公路轉車站 (TA754)"
     },
     {
         "route": "270D",
@@ -67541,7 +67541,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "2F202818B5A6F424",
-        "stop_name_tc": "青沙公路轉車站 (B1) (TA296)"
+        "stop_name_tc": "青沙公路轉車站 (TA296)"
     },
     {
         "route": "270E",
@@ -67725,7 +67725,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "673B33867260EBB7",
-        "stop_name_tc": "青沙公路轉車站 (A4) (TA752)"
+        "stop_name_tc": "青沙公路轉車站 (TA752)"
     },
     {
         "route": "270P",
@@ -68901,7 +68901,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "2F202818B5A6F424",
-        "stop_name_tc": "青沙公路轉車站 (B1) (TA296)"
+        "stop_name_tc": "青沙公路轉車站 (TA296)"
     },
     {
         "route": "271A",
@@ -69005,7 +69005,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "F3433105FE5F6865",
-        "stop_name_tc": "青沙公路轉車站 (A3) (TA753)"
+        "stop_name_tc": "青沙公路轉車站 (TA753)"
     },
     {
         "route": "271A",
@@ -70333,7 +70333,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "2F202818B5A6F424",
-        "stop_name_tc": "青沙公路轉車站 (B1) (TA296)"
+        "stop_name_tc": "青沙公路轉車站 (TA296)"
     },
     {
         "route": "271X",
@@ -70973,7 +70973,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "2F202818B5A6F424",
-        "stop_name_tc": "青沙公路轉車站 (B1) (TA296)"
+        "stop_name_tc": "青沙公路轉車站 (TA296)"
     },
     {
         "route": "272E",
@@ -71093,7 +71093,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "FD8181D7574BB373",
-        "stop_name_tc": "青沙公路轉車站 (A2) (TA754)"
+        "stop_name_tc": "青沙公路轉車站 (TA754)"
     },
     {
         "route": "272E",
@@ -71365,7 +71365,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "2F202818B5A6F424",
-        "stop_name_tc": "青沙公路轉車站 (B1) (TA296)"
+        "stop_name_tc": "青沙公路轉車站 (TA296)"
     },
     {
         "route": "272P",
@@ -71565,7 +71565,7 @@
         "service_type": "2",
         "seq": "9",
         "stop": "2F202818B5A6F424",
-        "stop_name_tc": "青沙公路轉車站 (B1) (TA296)"
+        "stop_name_tc": "青沙公路轉車站 (TA296)"
     },
     {
         "route": "272P",
@@ -71845,7 +71845,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "9A26BDE49933CEA8",
-        "stop_name_tc": "青沙公路轉車站 (A1) (TA755)"
+        "stop_name_tc": "青沙公路轉車站 (TA755)"
     },
     {
         "route": "272P",
@@ -72069,7 +72069,7 @@
         "service_type": "2",
         "seq": "19",
         "stop": "9A26BDE49933CEA8",
-        "stop_name_tc": "青沙公路轉車站 (A1) (TA755)"
+        "stop_name_tc": "青沙公路轉車站 (TA755)"
     },
     {
         "route": "272P",
@@ -72189,7 +72189,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "3114213F8975F536",
-        "stop_name_tc": "大老山隧道 (A3) (ST790)"
+        "stop_name_tc": "大老山隧道 (ST790)"
     },
     {
         "route": "272S",
@@ -72221,7 +72221,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "9961C7ED914E87DD",
-        "stop_name_tc": "大老山隧道 (B4) (ST110)"
+        "stop_name_tc": "大老山隧道 (ST110)"
     },
     {
         "route": "272S",
@@ -72341,7 +72341,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "2F202818B5A6F424",
-        "stop_name_tc": "青沙公路轉車站 (B1) (TA296)"
+        "stop_name_tc": "青沙公路轉車站 (TA296)"
     },
     {
         "route": "272X",
@@ -72573,7 +72573,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "673B33867260EBB7",
-        "stop_name_tc": "青沙公路轉車站 (A4) (TA752)"
+        "stop_name_tc": "青沙公路轉車站 (TA752)"
     },
     {
         "route": "272X",
@@ -75381,7 +75381,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "9274EF6791CA3ED8",
-        "stop_name_tc": "大老山隧道 (B1) (ST113)"
+        "stop_name_tc": "大老山隧道 (ST113)"
     },
     {
         "route": "274X",
@@ -75941,7 +75941,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "9274EF6791CA3ED8",
-        "stop_name_tc": "大老山隧道 (B1) (ST113)"
+        "stop_name_tc": "大老山隧道 (ST113)"
     },
     {
         "route": "275X",
@@ -76045,7 +76045,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "3114213F8975F536",
-        "stop_name_tc": "大老山隧道 (A3) (ST790)"
+        "stop_name_tc": "大老山隧道 (ST790)"
     },
     {
         "route": "275X",
@@ -77685,7 +77685,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "9274EF6791CA3ED8",
-        "stop_name_tc": "大老山隧道 (B1) (ST113)"
+        "stop_name_tc": "大老山隧道 (ST113)"
     },
     {
         "route": "277A",
@@ -78117,7 +78117,7 @@
         "service_type": "1",
         "seq": "27",
         "stop": "30D564180B68ECA8",
-        "stop_name_tc": "大老山隧道 (A2) (ST791)"
+        "stop_name_tc": "大老山隧道 (ST791)"
     },
     {
         "route": "277A",
@@ -78277,7 +78277,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "9274EF6791CA3ED8",
-        "stop_name_tc": "大老山隧道 (B1) (ST113)"
+        "stop_name_tc": "大老山隧道 (ST113)"
     },
     {
         "route": "277B",
@@ -78493,7 +78493,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "30D564180B68ECA8",
-        "stop_name_tc": "大老山隧道 (A2) (ST791)"
+        "stop_name_tc": "大老山隧道 (ST791)"
     },
     {
         "route": "277B",
@@ -78645,7 +78645,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "9274EF6791CA3ED8",
-        "stop_name_tc": "大老山隧道 (B1) (ST113)"
+        "stop_name_tc": "大老山隧道 (ST113)"
     },
     {
         "route": "277E",
@@ -78797,7 +78797,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "30D564180B68ECA8",
-        "stop_name_tc": "大老山隧道 (A2) (ST791)"
+        "stop_name_tc": "大老山隧道 (ST791)"
     },
     {
         "route": "277E",
@@ -78941,7 +78941,7 @@
         "service_type": "2",
         "seq": "10",
         "stop": "30D564180B68ECA8",
-        "stop_name_tc": "大老山隧道 (A2) (ST791)"
+        "stop_name_tc": "大老山隧道 (ST791)"
     },
     {
         "route": "277E",
@@ -79109,7 +79109,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "9274EF6791CA3ED8",
-        "stop_name_tc": "大老山隧道 (B1) (ST113)"
+        "stop_name_tc": "大老山隧道 (ST113)"
     },
     {
         "route": "277P",
@@ -79349,7 +79349,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "30D564180B68ECA8",
-        "stop_name_tc": "大老山隧道 (A2) (ST791)"
+        "stop_name_tc": "大老山隧道 (ST791)"
     },
     {
         "route": "277P",
@@ -79533,7 +79533,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "9274EF6791CA3ED8",
-        "stop_name_tc": "大老山隧道 (B1) (ST113)"
+        "stop_name_tc": "大老山隧道 (ST113)"
     },
     {
         "route": "277X",
@@ -79709,7 +79709,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "30D564180B68ECA8",
-        "stop_name_tc": "大老山隧道 (A2) (ST791)"
+        "stop_name_tc": "大老山隧道 (ST791)"
     },
     {
         "route": "277X",
@@ -79853,7 +79853,7 @@
         "service_type": "2",
         "seq": "9",
         "stop": "30D564180B68ECA8",
-        "stop_name_tc": "大老山隧道 (A2) (ST791)"
+        "stop_name_tc": "大老山隧道 (ST791)"
     },
     {
         "route": "277X",
@@ -79957,7 +79957,7 @@
         "service_type": "3",
         "seq": "4",
         "stop": "30D564180B68ECA8",
-        "stop_name_tc": "大老山隧道 (A2) (ST791)"
+        "stop_name_tc": "大老山隧道 (ST791)"
     },
     {
         "route": "277X",
@@ -82621,7 +82621,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "7EC5C567E35D2805",
-        "stop_name_tc": "青沙公路轉車站 (B2) (TA295)"
+        "stop_name_tc": "青沙公路轉車站 (TA295)"
     },
     {
         "route": "280X",
@@ -82781,7 +82781,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "F3433105FE5F6865",
-        "stop_name_tc": "青沙公路轉車站 (A3) (TA753)"
+        "stop_name_tc": "青沙公路轉車站 (TA753)"
     },
     {
         "route": "280X",
@@ -82893,7 +82893,7 @@
         "service_type": "2",
         "seq": "9",
         "stop": "F3433105FE5F6865",
-        "stop_name_tc": "青沙公路轉車站 (A3) (TA753)"
+        "stop_name_tc": "青沙公路轉車站 (TA753)"
     },
     {
         "route": "280X",
@@ -83709,7 +83709,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "BF72FF473A660C0E",
-        "stop_name_tc": "青沙公路轉車站 (B4) (TA293)"
+        "stop_name_tc": "青沙公路轉車站 (TA293)"
     },
     {
         "route": "281E",
@@ -84573,7 +84573,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "FD8181D7574BB373",
-        "stop_name_tc": "青沙公路轉車站 (A2) (TA754)"
+        "stop_name_tc": "青沙公路轉車站 (TA754)"
     },
     {
         "route": "286A",
@@ -84853,7 +84853,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "BA4AAEE586402CD4",
-        "stop_name_tc": "青沙公路轉車站 (B3) (TA294)"
+        "stop_name_tc": "青沙公路轉車站 (TA294)"
     },
     {
         "route": "286C",
@@ -85061,7 +85061,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "FD8181D7574BB373",
-        "stop_name_tc": "青沙公路轉車站 (A2) (TA754)"
+        "stop_name_tc": "青沙公路轉車站 (TA754)"
     },
     {
         "route": "286C",
@@ -85197,7 +85197,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "BA4AAEE586402CD4",
-        "stop_name_tc": "青沙公路轉車站 (B3) (TA294)"
+        "stop_name_tc": "青沙公路轉車站 (TA294)"
     },
     {
         "route": "286D",
@@ -85421,7 +85421,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "FD8181D7574BB373",
-        "stop_name_tc": "青沙公路轉車站 (A2) (TA754)"
+        "stop_name_tc": "青沙公路轉車站 (TA754)"
     },
     {
         "route": "286D",
@@ -85549,7 +85549,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "FD8181D7574BB373",
-        "stop_name_tc": "青沙公路轉車站 (A2) (TA754)"
+        "stop_name_tc": "青沙公路轉車站 (TA754)"
     },
     {
         "route": "286P",
@@ -85701,7 +85701,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "FD8181D7574BB373",
-        "stop_name_tc": "青沙公路轉車站 (A2) (TA754)"
+        "stop_name_tc": "青沙公路轉車站 (TA754)"
     },
     {
         "route": "286X",
@@ -85781,7 +85781,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "BA4AAEE586402CD4",
-        "stop_name_tc": "青沙公路轉車站 (B3) (TA294)"
+        "stop_name_tc": "青沙公路轉車站 (TA294)"
     },
     {
         "route": "286X",
@@ -85941,7 +85941,7 @@
         "service_type": "2",
         "seq": "9",
         "stop": "FD8181D7574BB373",
-        "stop_name_tc": "青沙公路轉車站 (A2) (TA754)"
+        "stop_name_tc": "青沙公路轉車站 (TA754)"
     },
     {
         "route": "286X",
@@ -86021,7 +86021,7 @@
         "service_type": "2",
         "seq": "19",
         "stop": "BA4AAEE586402CD4",
-        "stop_name_tc": "青沙公路轉車站 (B3) (TA294)"
+        "stop_name_tc": "青沙公路轉車站 (TA294)"
     },
     {
         "route": "286X",
@@ -86413,7 +86413,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "BA4AAEE586402CD4",
-        "stop_name_tc": "青沙公路轉車站 (B3) (TA294)"
+        "stop_name_tc": "青沙公路轉車站 (TA294)"
     },
     {
         "route": "287D",
@@ -86597,7 +86597,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "F3433105FE5F6865",
-        "stop_name_tc": "青沙公路轉車站 (A3) (TA753)"
+        "stop_name_tc": "青沙公路轉車站 (TA753)"
     },
     {
         "route": "287P",
@@ -86749,7 +86749,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "F3433105FE5F6865",
-        "stop_name_tc": "青沙公路轉車站 (A3) (TA753)"
+        "stop_name_tc": "青沙公路轉車站 (TA753)"
     },
     {
         "route": "287X",
@@ -86861,7 +86861,7 @@
         "service_type": "1",
         "seq": "25",
         "stop": "BF72FF473A660C0E",
-        "stop_name_tc": "青沙公路轉車站 (B4) (TA293)"
+        "stop_name_tc": "青沙公路轉車站 (TA293)"
     },
     {
         "route": "287X",
@@ -92765,7 +92765,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "E0BAA3364D0CE860",
-        "stop_name_tc": "將軍澳隧道轉車站 (G2) (LT301)"
+        "stop_name_tc": "將軍澳隧道轉車站 (LT301)"
     },
     {
         "route": "296A",
@@ -92813,7 +92813,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "9ACC26CD04287102",
-        "stop_name_tc": "將軍澳隧道轉車站 (P1) (LT202)"
+        "stop_name_tc": "將軍澳隧道轉車站 (LT202)"
     },
     {
         "route": "296A",
@@ -93053,7 +93053,7 @@
         "service_type": "1",
         "seq": "28",
         "stop": "9ACC26CD04287102",
-        "stop_name_tc": "將軍澳隧道轉車站 (P1) (LT202)"
+        "stop_name_tc": "將軍澳隧道轉車站 (LT202)"
     },
     {
         "route": "296C",
@@ -93093,7 +93093,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "E0BAA3364D0CE860",
-        "stop_name_tc": "將軍澳隧道轉車站 (G2) (LT301)"
+        "stop_name_tc": "將軍澳隧道轉車站 (LT301)"
     },
     {
         "route": "296C",
@@ -93389,7 +93389,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "9ACC26CD04287102",
-        "stop_name_tc": "將軍澳隧道轉車站 (P1) (LT202)"
+        "stop_name_tc": "將軍澳隧道轉車站 (LT202)"
     },
     {
         "route": "296D",
@@ -93429,7 +93429,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "9762FC524B26C4A7",
-        "stop_name_tc": "將軍澳隧道轉車站 (G1) (LT302)"
+        "stop_name_tc": "將軍澳隧道轉車站 (LT302)"
     },
     {
         "route": "296D",
@@ -94093,7 +94093,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "9ACC26CD04287102",
-        "stop_name_tc": "將軍澳隧道轉車站 (P1) (LT202)"
+        "stop_name_tc": "將軍澳隧道轉車站 (LT202)"
     },
     {
         "route": "296P",
@@ -94133,7 +94133,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "E0BAA3364D0CE860",
-        "stop_name_tc": "將軍澳隧道轉車站 (G2) (LT301)"
+        "stop_name_tc": "將軍澳隧道轉車站 (LT301)"
     },
     {
         "route": "296P",
@@ -94381,7 +94381,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "97D1981DE7ECBCE7",
-        "stop_name_tc": "將軍澳隧道轉車站 (P2) (LT201)"
+        "stop_name_tc": "將軍澳隧道轉車站 (LT201)"
     },
     {
         "route": "297",
@@ -94533,7 +94533,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "9762FC524B26C4A7",
-        "stop_name_tc": "將軍澳隧道轉車站 (G1) (LT302)"
+        "stop_name_tc": "將軍澳隧道轉車站 (LT302)"
     },
     {
         "route": "297",
@@ -94709,7 +94709,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "9762FC524B26C4A7",
-        "stop_name_tc": "將軍澳隧道轉車站 (G1) (LT302)"
+        "stop_name_tc": "將軍澳隧道轉車站 (LT302)"
     },
     {
         "route": "297P",
@@ -100165,7 +100165,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "9274EF6791CA3ED8",
-        "stop_name_tc": "大老山隧道 (B1) (ST113)"
+        "stop_name_tc": "大老山隧道 (ST113)"
     },
     {
         "route": "307",
@@ -100253,7 +100253,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "FFBEBD7068E01EA4",
-        "stop_name_tc": "大老山隧道 (A1) (ST792)"
+        "stop_name_tc": "大老山隧道 (ST792)"
     },
     {
         "route": "307",
@@ -100373,7 +100373,7 @@
         "service_type": "3",
         "seq": "6",
         "stop": "FFBEBD7068E01EA4",
-        "stop_name_tc": "大老山隧道 (A1) (ST792)"
+        "stop_name_tc": "大老山隧道 (ST792)"
     },
     {
         "route": "307",
@@ -100469,7 +100469,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "FFBEBD7068E01EA4",
-        "stop_name_tc": "大老山隧道 (A1) (ST792)"
+        "stop_name_tc": "大老山隧道 (ST792)"
     },
     {
         "route": "307A",
@@ -100637,7 +100637,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "9274EF6791CA3ED8",
-        "stop_name_tc": "大老山隧道 (B1) (ST113)"
+        "stop_name_tc": "大老山隧道 (ST113)"
     },
     {
         "route": "307P",
@@ -100805,7 +100805,7 @@
         "service_type": "2",
         "seq": "14",
         "stop": "9274EF6791CA3ED8",
-        "stop_name_tc": "大老山隧道 (B1) (ST113)"
+        "stop_name_tc": "大老山隧道 (ST113)"
     },
     {
         "route": "307P",
@@ -100973,7 +100973,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "FFBEBD7068E01EA4",
-        "stop_name_tc": "大老山隧道 (A1) (ST792)"
+        "stop_name_tc": "大老山隧道 (ST792)"
     },
     {
         "route": "307P",
@@ -101173,7 +101173,7 @@
         "service_type": "2",
         "seq": "10",
         "stop": "FFBEBD7068E01EA4",
-        "stop_name_tc": "大老山隧道 (A1) (ST792)"
+        "stop_name_tc": "大老山隧道 (ST792)"
     },
     {
         "route": "307P",
@@ -110101,7 +110101,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "FFBEBD7068E01EA4",
-        "stop_name_tc": "大老山隧道 (A1) (ST792)"
+        "stop_name_tc": "大老山隧道 (ST792)"
     },
     {
         "route": "373",
@@ -111365,7 +111365,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "9A26BDE49933CEA8",
-        "stop_name_tc": "青沙公路轉車站 (A1) (TA755)"
+        "stop_name_tc": "青沙公路轉車站 (TA755)"
     },
     {
         "route": "38B",
@@ -111549,7 +111549,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "BF72FF473A660C0E",
-        "stop_name_tc": "青沙公路轉車站 (B4) (TA293)"
+        "stop_name_tc": "青沙公路轉車站 (TA293)"
     },
     {
         "route": "38B",
@@ -124941,7 +124941,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "BF72FF473A660C0E",
-        "stop_name_tc": "青沙公路轉車站 (B4) (TA293)"
+        "stop_name_tc": "青沙公路轉車站 (TA293)"
     },
     {
         "route": "46R",
@@ -124965,7 +124965,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "673B33867260EBB7",
-        "stop_name_tc": "青沙公路轉車站 (A4) (TA752)"
+        "stop_name_tc": "青沙公路轉車站 (TA752)"
     },
     {
         "route": "46R",
@@ -127829,7 +127829,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "5BEC0CCDD7EE4A8C",
-        "stop_name_tc": "將軍澳隧道轉車站 (G3) (LT300)"
+        "stop_name_tc": "將軍澳隧道轉車站 (LT300)"
     },
     {
         "route": "49",
@@ -128245,7 +128245,7 @@
         "service_type": "1",
         "seq": "26",
         "stop": "97D1981DE7ECBCE7",
-        "stop_name_tc": "將軍澳隧道轉車站 (P2) (LT201)"
+        "stop_name_tc": "將軍澳隧道轉車站 (LT201)"
     },
     {
         "route": "49",
@@ -152309,7 +152309,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "9274EF6791CA3ED8",
-        "stop_name_tc": "大老山隧道 (B1) (ST113)"
+        "stop_name_tc": "大老山隧道 (ST113)"
     },
     {
         "route": "673",
@@ -152549,7 +152549,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "FFBEBD7068E01EA4",
-        "stop_name_tc": "大老山隧道 (A1) (ST792)"
+        "stop_name_tc": "大老山隧道 (ST792)"
     },
     {
         "route": "673",
@@ -152773,7 +152773,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "9274EF6791CA3ED8",
-        "stop_name_tc": "大老山隧道 (B1) (ST113)"
+        "stop_name_tc": "大老山隧道 (ST113)"
     },
     {
         "route": "673A",
@@ -153069,7 +153069,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "FFBEBD7068E01EA4",
-        "stop_name_tc": "大老山隧道 (A1) (ST792)"
+        "stop_name_tc": "大老山隧道 (ST792)"
     },
     {
         "route": "673A",
@@ -153285,7 +153285,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "FFBEBD7068E01EA4",
-        "stop_name_tc": "大老山隧道 (A1) (ST792)"
+        "stop_name_tc": "大老山隧道 (ST792)"
     },
     {
         "route": "673P",
@@ -153501,7 +153501,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "9274EF6791CA3ED8",
-        "stop_name_tc": "大老山隧道 (B1) (ST113)"
+        "stop_name_tc": "大老山隧道 (ST113)"
     },
     {
         "route": "678",
@@ -153653,7 +153653,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "FFBEBD7068E01EA4",
-        "stop_name_tc": "大老山隧道 (A1) (ST792)"
+        "stop_name_tc": "大老山隧道 (ST792)"
     },
     {
         "route": "678",
@@ -155045,7 +155045,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "C57C924EEB5463E5",
-        "stop_name_tc": "大老山隧道 (B2) (ST112)"
+        "stop_name_tc": "大老山隧道 (ST112)"
     },
     {
         "route": "680",
@@ -155277,7 +155277,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "FFBEBD7068E01EA4",
-        "stop_name_tc": "大老山隧道 (A1) (ST792)"
+        "stop_name_tc": "大老山隧道 (ST792)"
     },
     {
         "route": "680",
@@ -155517,7 +155517,7 @@
         "service_type": "3",
         "seq": "16",
         "stop": "FFBEBD7068E01EA4",
-        "stop_name_tc": "大老山隧道 (A1) (ST792)"
+        "stop_name_tc": "大老山隧道 (ST792)"
     },
     {
         "route": "680",
@@ -155661,7 +155661,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "FFBEBD7068E01EA4",
-        "stop_name_tc": "大老山隧道 (A1) (ST792)"
+        "stop_name_tc": "大老山隧道 (ST792)"
     },
     {
         "route": "680B",
@@ -155853,7 +155853,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "FFBEBD7068E01EA4",
-        "stop_name_tc": "大老山隧道 (A1) (ST792)"
+        "stop_name_tc": "大老山隧道 (ST792)"
     },
     {
         "route": "680P",
@@ -156077,7 +156077,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "C57C924EEB5463E5",
-        "stop_name_tc": "大老山隧道 (B2) (ST112)"
+        "stop_name_tc": "大老山隧道 (ST112)"
     },
     {
         "route": "680X",
@@ -156221,7 +156221,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "FFBEBD7068E01EA4",
-        "stop_name_tc": "大老山隧道 (A1) (ST792)"
+        "stop_name_tc": "大老山隧道 (ST792)"
     },
     {
         "route": "680X",
@@ -156317,7 +156317,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "FFBEBD7068E01EA4",
-        "stop_name_tc": "大老山隧道 (A1) (ST792)"
+        "stop_name_tc": "大老山隧道 (ST792)"
     },
     {
         "route": "681",
@@ -156501,7 +156501,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "C57C924EEB5463E5",
-        "stop_name_tc": "大老山隧道 (B2) (ST112)"
+        "stop_name_tc": "大老山隧道 (ST112)"
     },
     {
         "route": "681",
@@ -156661,7 +156661,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "C57C924EEB5463E5",
-        "stop_name_tc": "大老山隧道 (B2) (ST112)"
+        "stop_name_tc": "大老山隧道 (ST112)"
     },
     {
         "route": "681P",
@@ -156845,7 +156845,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "FFBEBD7068E01EA4",
-        "stop_name_tc": "大老山隧道 (A1) (ST792)"
+        "stop_name_tc": "大老山隧道 (ST792)"
     },
     {
         "route": "681P",
@@ -159405,7 +159405,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "3EB5320C2212F52F",
-        "stop_name_tc": "將軍澳隧道轉車站 (P3) (LT200)"
+        "stop_name_tc": "將軍澳隧道轉車站 (LT200)"
     },
     {
         "route": "690",
@@ -159557,7 +159557,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "5BEC0CCDD7EE4A8C",
-        "stop_name_tc": "將軍澳隧道轉車站 (G3) (LT300)"
+        "stop_name_tc": "將軍澳隧道轉車站 (LT300)"
     },
     {
         "route": "690",
@@ -159781,7 +159781,7 @@
         "service_type": "2",
         "seq": "12",
         "stop": "5BEC0CCDD7EE4A8C",
-        "stop_name_tc": "將軍澳隧道轉車站 (G3) (LT300)"
+        "stop_name_tc": "將軍澳隧道轉車站 (LT300)"
     },
     {
         "route": "690",
@@ -160013,7 +160013,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "5BEC0CCDD7EE4A8C",
-        "stop_name_tc": "將軍澳隧道轉車站 (G3) (LT300)"
+        "stop_name_tc": "將軍澳隧道轉車站 (LT300)"
     },
     {
         "route": "690P",
@@ -165093,7 +165093,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "F3433105FE5F6865",
-        "stop_name_tc": "青沙公路轉車站 (A3) (TA753)"
+        "stop_name_tc": "青沙公路轉車站 (TA753)"
     },
     {
         "route": "70S",
@@ -165405,7 +165405,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "2F202818B5A6F424",
-        "stop_name_tc": "青沙公路轉車站 (B1) (TA296)"
+        "stop_name_tc": "青沙公路轉車站 (TA296)"
     },
     {
         "route": "70S",
@@ -172557,7 +172557,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "9274EF6791CA3ED8",
-        "stop_name_tc": "大老山隧道 (B1) (ST113)"
+        "stop_name_tc": "大老山隧道 (ST113)"
     },
     {
         "route": "74",
@@ -172797,7 +172797,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "30D564180B68ECA8",
-        "stop_name_tc": "大老山隧道 (A2) (ST791)"
+        "stop_name_tc": "大老山隧道 (ST791)"
     },
     {
         "route": "74",
@@ -173581,7 +173581,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "30D564180B68ECA8",
-        "stop_name_tc": "大老山隧道 (A2) (ST791)"
+        "stop_name_tc": "大老山隧道 (ST791)"
     },
     {
         "route": "74B",
@@ -173685,7 +173685,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "9274EF6791CA3ED8",
-        "stop_name_tc": "大老山隧道 (B1) (ST113)"
+        "stop_name_tc": "大老山隧道 (ST113)"
     },
     {
         "route": "74B",
@@ -173861,7 +173861,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "30D564180B68ECA8",
-        "stop_name_tc": "大老山隧道 (A2) (ST791)"
+        "stop_name_tc": "大老山隧道 (ST791)"
     },
     {
         "route": "74C",
@@ -174029,7 +174029,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "9274EF6791CA3ED8",
-        "stop_name_tc": "大老山隧道 (B1) (ST113)"
+        "stop_name_tc": "大老山隧道 (ST113)"
     },
     {
         "route": "74D",
@@ -174397,7 +174397,7 @@
         "service_type": "1",
         "seq": "25",
         "stop": "30D564180B68ECA8",
-        "stop_name_tc": "大老山隧道 (A2) (ST791)"
+        "stop_name_tc": "大老山隧道 (ST791)"
     },
     {
         "route": "74D",
@@ -174565,7 +174565,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "9274EF6791CA3ED8",
-        "stop_name_tc": "大老山隧道 (B1) (ST113)"
+        "stop_name_tc": "大老山隧道 (ST113)"
     },
     {
         "route": "74E",
@@ -174933,7 +174933,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "30D564180B68ECA8",
-        "stop_name_tc": "大老山隧道 (A2) (ST791)"
+        "stop_name_tc": "大老山隧道 (ST791)"
     },
     {
         "route": "74E",
@@ -175053,7 +175053,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "30D564180B68ECA8",
-        "stop_name_tc": "大老山隧道 (A2) (ST791)"
+        "stop_name_tc": "大老山隧道 (ST791)"
     },
     {
         "route": "74F",
@@ -175221,7 +175221,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "9274EF6791CA3ED8",
-        "stop_name_tc": "大老山隧道 (B1) (ST113)"
+        "stop_name_tc": "大老山隧道 (ST113)"
     },
     {
         "route": "74F",
@@ -175981,7 +175981,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "30D564180B68ECA8",
-        "stop_name_tc": "大老山隧道 (A2) (ST791)"
+        "stop_name_tc": "大老山隧道 (ST791)"
     },
     {
         "route": "74P",
@@ -176109,7 +176109,7 @@
         "service_type": "2",
         "seq": "7",
         "stop": "30D564180B68ECA8",
-        "stop_name_tc": "大老山隧道 (A2) (ST791)"
+        "stop_name_tc": "大老山隧道 (ST791)"
     },
     {
         "route": "74P",
@@ -176277,7 +176277,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "9274EF6791CA3ED8",
-        "stop_name_tc": "大老山隧道 (B1) (ST113)"
+        "stop_name_tc": "大老山隧道 (ST113)"
     },
     {
         "route": "74P",
@@ -177253,7 +177253,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "9274EF6791CA3ED8",
-        "stop_name_tc": "大老山隧道 (B1) (ST113)"
+        "stop_name_tc": "大老山隧道 (ST113)"
     },
     {
         "route": "74X",
@@ -177341,7 +177341,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "30D564180B68ECA8",
-        "stop_name_tc": "大老山隧道 (A2) (ST791)"
+        "stop_name_tc": "大老山隧道 (ST791)"
     },
     {
         "route": "74X",
@@ -177445,7 +177445,7 @@
         "service_type": "2",
         "seq": "3",
         "stop": "30D564180B68ECA8",
-        "stop_name_tc": "大老山隧道 (A2) (ST791)"
+        "stop_name_tc": "大老山隧道 (ST791)"
     },
     {
         "route": "74X",
@@ -177541,7 +177541,7 @@
         "service_type": "3",
         "seq": "2",
         "stop": "30D564180B68ECA8",
-        "stop_name_tc": "大老山隧道 (A2) (ST791)"
+        "stop_name_tc": "大老山隧道 (ST791)"
     },
     {
         "route": "74X",
@@ -178365,7 +178365,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "9274EF6791CA3ED8",
-        "stop_name_tc": "大老山隧道 (B1) (ST113)"
+        "stop_name_tc": "大老山隧道 (ST113)"
     },
     {
         "route": "75X",
@@ -178573,7 +178573,7 @@
         "service_type": "2",
         "seq": "20",
         "stop": "9274EF6791CA3ED8",
-        "stop_name_tc": "大老山隧道 (B1) (ST113)"
+        "stop_name_tc": "大老山隧道 (ST113)"
     },
     {
         "route": "75X",
@@ -178669,7 +178669,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "3114213F8975F536",
-        "stop_name_tc": "大老山隧道 (A3) (ST790)"
+        "stop_name_tc": "大老山隧道 (ST790)"
     },
     {
         "route": "75X",
@@ -186197,7 +186197,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "9961C7ED914E87DD",
-        "stop_name_tc": "大老山隧道 (B4) (ST110)"
+        "stop_name_tc": "大老山隧道 (ST110)"
     },
     {
         "route": "80X",
@@ -186301,7 +186301,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "30D564180B68ECA8",
-        "stop_name_tc": "大老山隧道 (A2) (ST791)"
+        "stop_name_tc": "大老山隧道 (ST791)"
     },
     {
         "route": "80X",
@@ -186405,7 +186405,7 @@
         "service_type": "2",
         "seq": "4",
         "stop": "30D564180B68ECA8",
-        "stop_name_tc": "大老山隧道 (A2) (ST791)"
+        "stop_name_tc": "大老山隧道 (ST791)"
     },
     {
         "route": "80X",
@@ -186533,7 +186533,7 @@
         "service_type": "3",
         "seq": "9",
         "stop": "30D564180B68ECA8",
-        "stop_name_tc": "大老山隧道 (A2) (ST791)"
+        "stop_name_tc": "大老山隧道 (ST791)"
     },
     {
         "route": "80X",
@@ -188245,7 +188245,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "F3433105FE5F6865",
-        "stop_name_tc": "青沙公路轉車站 (A3) (TA753)"
+        "stop_name_tc": "青沙公路轉車站 (TA753)"
     },
     {
         "route": "81X",
@@ -189173,7 +189173,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "3114213F8975F536",
-        "stop_name_tc": "大老山隧道 (A3) (ST790)"
+        "stop_name_tc": "大老山隧道 (ST790)"
     },
     {
         "route": "82X",
@@ -189237,7 +189237,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "9961C7ED914E87DD",
-        "stop_name_tc": "大老山隧道 (B4) (ST110)"
+        "stop_name_tc": "大老山隧道 (ST110)"
     },
     {
         "route": "82X",
@@ -189325,7 +189325,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "30D564180B68ECA8",
-        "stop_name_tc": "大老山隧道 (A2) (ST791)"
+        "stop_name_tc": "大老山隧道 (ST791)"
     },
     {
         "route": "83A",
@@ -189981,7 +189981,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "9961C7ED914E87DD",
-        "stop_name_tc": "大老山隧道 (B4) (ST110)"
+        "stop_name_tc": "大老山隧道 (ST110)"
     },
     {
         "route": "83X",
@@ -190141,7 +190141,7 @@
         "service_type": "2",
         "seq": "12",
         "stop": "9961C7ED914E87DD",
-        "stop_name_tc": "大老山隧道 (B4) (ST110)"
+        "stop_name_tc": "大老山隧道 (ST110)"
     },
     {
         "route": "83X",
@@ -190237,7 +190237,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "30D564180B68ECA8",
-        "stop_name_tc": "大老山隧道 (A2) (ST791)"
+        "stop_name_tc": "大老山隧道 (ST791)"
     },
     {
         "route": "83X",
@@ -190341,7 +190341,7 @@
         "service_type": "2",
         "seq": "4",
         "stop": "30D564180B68ECA8",
-        "stop_name_tc": "大老山隧道 (A2) (ST791)"
+        "stop_name_tc": "大老山隧道 (ST791)"
     },
     {
         "route": "83X",
@@ -190613,7 +190613,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "3114213F8975F536",
-        "stop_name_tc": "大老山隧道 (A3) (ST790)"
+        "stop_name_tc": "大老山隧道 (ST790)"
     },
     {
         "route": "84M",
@@ -190757,7 +190757,7 @@
         "service_type": "2",
         "seq": "14",
         "stop": "3114213F8975F536",
-        "stop_name_tc": "大老山隧道 (A3) (ST790)"
+        "stop_name_tc": "大老山隧道 (ST790)"
     },
     {
         "route": "84M",
@@ -190869,7 +190869,7 @@
         "service_type": "2",
         "seq": "28",
         "stop": "9961C7ED914E87DD",
-        "stop_name_tc": "大老山隧道 (B4) (ST110)"
+        "stop_name_tc": "大老山隧道 (ST110)"
     },
     {
         "route": "84M",
@@ -191037,7 +191037,7 @@
         "service_type": "3",
         "seq": "7",
         "stop": "9961C7ED914E87DD",
-        "stop_name_tc": "大老山隧道 (B4) (ST110)"
+        "stop_name_tc": "大老山隧道 (ST110)"
     },
     {
         "route": "84M",
@@ -192597,7 +192597,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "3114213F8975F536",
-        "stop_name_tc": "大老山隧道 (A3) (ST790)"
+        "stop_name_tc": "大老山隧道 (ST790)"
     },
     {
         "route": "85M",
@@ -192661,7 +192661,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "C57C924EEB5463E5",
-        "stop_name_tc": "大老山隧道 (B2) (ST112)"
+        "stop_name_tc": "大老山隧道 (ST112)"
     },
     {
         "route": "85M",
@@ -192861,7 +192861,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "7BFC2AE979358DA7",
-        "stop_name_tc": "大老山隧道 (B3) (ST111)"
+        "stop_name_tc": "大老山隧道 (ST111)"
     },
     {
         "route": "85P",
@@ -193013,7 +193013,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "3114213F8975F536",
-        "stop_name_tc": "大老山隧道 (A3) (ST790)"
+        "stop_name_tc": "大老山隧道 (ST790)"
     },
     {
         "route": "85P",
@@ -193213,7 +193213,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "3114213F8975F536",
-        "stop_name_tc": "大老山隧道 (A3) (ST790)"
+        "stop_name_tc": "大老山隧道 (ST790)"
     },
     {
         "route": "85S",
@@ -193437,7 +193437,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "7BFC2AE979358DA7",
-        "stop_name_tc": "大老山隧道 (B3) (ST111)"
+        "stop_name_tc": "大老山隧道 (ST111)"
     },
     {
         "route": "85X",
@@ -193629,7 +193629,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "3114213F8975F536",
-        "stop_name_tc": "大老山隧道 (A3) (ST790)"
+        "stop_name_tc": "大老山隧道 (ST790)"
     },
     {
         "route": "85X",
@@ -198997,7 +198997,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "30D564180B68ECA8",
-        "stop_name_tc": "大老山隧道 (A2) (ST791)"
+        "stop_name_tc": "大老山隧道 (ST791)"
     },
     {
         "route": "88",
@@ -199213,7 +199213,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "7BFC2AE979358DA7",
-        "stop_name_tc": "大老山隧道 (B3) (ST111)"
+        "stop_name_tc": "大老山隧道 (ST111)"
     },
     {
         "route": "88",
@@ -200045,7 +200045,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "7BFC2AE979358DA7",
-        "stop_name_tc": "大老山隧道 (B3) (ST111)"
+        "stop_name_tc": "大老山隧道 (ST111)"
     },
     {
         "route": "88X",
@@ -200245,7 +200245,7 @@
         "service_type": "2",
         "seq": "15",
         "stop": "7BFC2AE979358DA7",
-        "stop_name_tc": "大老山隧道 (B3) (ST111)"
+        "stop_name_tc": "大老山隧道 (ST111)"
     },
     {
         "route": "88X",
@@ -200413,7 +200413,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "30D564180B68ECA8",
-        "stop_name_tc": "大老山隧道 (A2) (ST791)"
+        "stop_name_tc": "大老山隧道 (ST791)"
     },
     {
         "route": "88X",
@@ -200605,7 +200605,7 @@
         "service_type": "2",
         "seq": "11",
         "stop": "30D564180B68ECA8",
-        "stop_name_tc": "大老山隧道 (A2) (ST791)"
+        "stop_name_tc": "大老山隧道 (ST791)"
     },
     {
         "route": "88X",
@@ -201205,7 +201205,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "FFBEBD7068E01EA4",
-        "stop_name_tc": "大老山隧道 (A1) (ST792)"
+        "stop_name_tc": "大老山隧道 (ST792)"
     },
     {
         "route": "893",
@@ -201213,7 +201213,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "3EB5320C2212F52F",
-        "stop_name_tc": "將軍澳隧道轉車站 (P3) (LT200)"
+        "stop_name_tc": "將軍澳隧道轉車站 (LT200)"
     },
     {
         "route": "893",
@@ -201685,7 +201685,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "7BFC2AE979358DA7",
-        "stop_name_tc": "大老山隧道 (B3) (ST111)"
+        "stop_name_tc": "大老山隧道 (ST111)"
     },
     {
         "route": "89C",
@@ -201933,7 +201933,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "30D564180B68ECA8",
-        "stop_name_tc": "大老山隧道 (A2) (ST791)"
+        "stop_name_tc": "大老山隧道 (ST791)"
     },
     {
         "route": "89C",
@@ -202109,7 +202109,7 @@
         "service_type": "2",
         "seq": "12",
         "stop": "30D564180B68ECA8",
-        "stop_name_tc": "大老山隧道 (A2) (ST791)"
+        "stop_name_tc": "大老山隧道 (ST791)"
     },
     {
         "route": "89C",
@@ -202261,7 +202261,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "C57C924EEB5463E5",
-        "stop_name_tc": "大老山隧道 (B2) (ST112)"
+        "stop_name_tc": "大老山隧道 (ST112)"
     },
     {
         "route": "89D",
@@ -202437,7 +202437,7 @@
         "service_type": "2",
         "seq": "10",
         "stop": "C57C924EEB5463E5",
-        "stop_name_tc": "大老山隧道 (B2) (ST112)"
+        "stop_name_tc": "大老山隧道 (ST112)"
     },
     {
         "route": "89D",
@@ -202637,7 +202637,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "30D564180B68ECA8",
-        "stop_name_tc": "大老山隧道 (A2) (ST791)"
+        "stop_name_tc": "大老山隧道 (ST791)"
     },
     {
         "route": "89D",
@@ -203677,7 +203677,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "7BFC2AE979358DA7",
-        "stop_name_tc": "大老山隧道 (B3) (ST111)"
+        "stop_name_tc": "大老山隧道 (ST111)"
     },
     {
         "route": "89X",
@@ -203837,7 +203837,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "30D564180B68ECA8",
-        "stop_name_tc": "大老山隧道 (A2) (ST791)"
+        "stop_name_tc": "大老山隧道 (ST791)"
     },
     {
         "route": "89X",
@@ -204645,7 +204645,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "9762FC524B26C4A7",
-        "stop_name_tc": "將軍澳隧道轉車站 (G1) (LT302)"
+        "stop_name_tc": "將軍澳隧道轉車站 (LT302)"
     },
     {
         "route": "90",
@@ -204653,7 +204653,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "9961C7ED914E87DD",
-        "stop_name_tc": "大老山隧道 (B4) (ST110)"
+        "stop_name_tc": "大老山隧道 (ST110)"
     },
     {
         "route": "90",
@@ -204853,7 +204853,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "FFBEBD7068E01EA4",
-        "stop_name_tc": "大老山隧道 (A1) (ST792)"
+        "stop_name_tc": "大老山隧道 (ST792)"
     },
     {
         "route": "90",
@@ -204861,7 +204861,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "9ACC26CD04287102",
-        "stop_name_tc": "將軍澳隧道轉車站 (P1) (LT202)"
+        "stop_name_tc": "將軍澳隧道轉車站 (LT202)"
     },
     {
         "route": "90",
@@ -204997,7 +204997,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "7EC5C567E35D2805",
-        "stop_name_tc": "青沙公路轉車站 (B2) (TA295)"
+        "stop_name_tc": "青沙公路轉車站 (TA295)"
     },
     {
         "route": "900",
@@ -205173,7 +205173,7 @@
         "service_type": "2",
         "seq": "12",
         "stop": "7EC5C567E35D2805",
-        "stop_name_tc": "青沙公路轉車站 (B2) (TA295)"
+        "stop_name_tc": "青沙公路轉車站 (TA295)"
     },
     {
         "route": "900",
@@ -205357,7 +205357,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "673B33867260EBB7",
-        "stop_name_tc": "青沙公路轉車站 (A4) (TA752)"
+        "stop_name_tc": "青沙公路轉車站 (TA752)"
     },
     {
         "route": "900",
@@ -205501,7 +205501,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "673B33867260EBB7",
-        "stop_name_tc": "青沙公路轉車站 (A4) (TA752)"
+        "stop_name_tc": "青沙公路轉車站 (TA752)"
     },
     {
         "route": "900X",
@@ -211141,7 +211141,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "E0BAA3364D0CE860",
-        "stop_name_tc": "將軍澳隧道轉車站 (G2) (LT301)"
+        "stop_name_tc": "將軍澳隧道轉車站 (LT301)"
     },
     {
         "route": "91S",
@@ -218485,7 +218485,7 @@
         "service_type": "1",
         "seq": "26",
         "stop": "FFBEBD7068E01EA4",
-        "stop_name_tc": "大老山隧道 (A1) (ST792)"
+        "stop_name_tc": "大老山隧道 (ST792)"
     },
     {
         "route": "96",
@@ -218725,7 +218725,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "9274EF6791CA3ED8",
-        "stop_name_tc": "大老山隧道 (B1) (ST113)"
+        "stop_name_tc": "大老山隧道 (ST113)"
     },
     {
         "route": "96",
@@ -218949,7 +218949,7 @@
         "service_type": "2",
         "seq": "5",
         "stop": "9274EF6791CA3ED8",
-        "stop_name_tc": "大老山隧道 (B1) (ST113)"
+        "stop_name_tc": "大老山隧道 (ST113)"
     },
     {
         "route": "96",
@@ -224709,7 +224709,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "9762FC524B26C4A7",
-        "stop_name_tc": "將軍澳隧道轉車站 (G1) (LT302)"
+        "stop_name_tc": "將軍澳隧道轉車站 (LT302)"
     },
     {
         "route": "97",
@@ -224717,7 +224717,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "C57C924EEB5463E5",
-        "stop_name_tc": "大老山隧道 (B2) (ST112)"
+        "stop_name_tc": "大老山隧道 (ST112)"
     },
     {
         "route": "97",
@@ -224901,7 +224901,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "FFBEBD7068E01EA4",
-        "stop_name_tc": "大老山隧道 (A1) (ST792)"
+        "stop_name_tc": "大老山隧道 (ST792)"
     },
     {
         "route": "97",
@@ -224909,7 +224909,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "97D1981DE7ECBCE7",
-        "stop_name_tc": "將軍澳隧道轉車站 (P2) (LT201)"
+        "stop_name_tc": "將軍澳隧道轉車站 (LT201)"
     },
     {
         "route": "97",
@@ -225957,7 +225957,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "E0BAA3364D0CE860",
-        "stop_name_tc": "將軍澳隧道轉車站 (G2) (LT301)"
+        "stop_name_tc": "將軍澳隧道轉車站 (LT301)"
     },
     {
         "route": "98",
@@ -226005,7 +226005,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "97D1981DE7ECBCE7",
-        "stop_name_tc": "將軍澳隧道轉車站 (P2) (LT201)"
+        "stop_name_tc": "將軍澳隧道轉車站 (LT201)"
     },
     {
         "route": "98",
@@ -226141,7 +226141,7 @@
         "service_type": "3",
         "seq": "10",
         "stop": "E0BAA3364D0CE860",
-        "stop_name_tc": "將軍澳隧道轉車站 (G2) (LT301)"
+        "stop_name_tc": "將軍澳隧道轉車站 (LT301)"
     },
     {
         "route": "98",
@@ -228677,7 +228677,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "E0BAA3364D0CE860",
-        "stop_name_tc": "將軍澳隧道轉車站 (G2) (LT301)"
+        "stop_name_tc": "將軍澳隧道轉車站 (LT301)"
     },
     {
         "route": "98B",
@@ -229341,7 +229341,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "97D1981DE7ECBCE7",
-        "stop_name_tc": "將軍澳隧道轉車站 (P2) (LT201)"
+        "stop_name_tc": "將軍澳隧道轉車站 (LT201)"
     },
     {
         "route": "98D",
@@ -229509,7 +229509,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "9762FC524B26C4A7",
-        "stop_name_tc": "將軍澳隧道轉車站 (G1) (LT302)"
+        "stop_name_tc": "將軍澳隧道轉車站 (LT302)"
     },
     {
         "route": "98D",
@@ -229653,7 +229653,7 @@
         "service_type": "2",
         "seq": "7",
         "stop": "9762FC524B26C4A7",
-        "stop_name_tc": "將軍澳隧道轉車站 (G1) (LT302)"
+        "stop_name_tc": "將軍澳隧道轉車站 (LT302)"
     },
     {
         "route": "98D",
@@ -229829,7 +229829,7 @@
         "service_type": "3",
         "seq": "11",
         "stop": "9762FC524B26C4A7",
-        "stop_name_tc": "將軍澳隧道轉車站 (G1) (LT302)"
+        "stop_name_tc": "將軍澳隧道轉車站 (LT302)"
     },
     {
         "route": "98D",
@@ -229997,7 +229997,7 @@
         "service_type": "4",
         "seq": "10",
         "stop": "9762FC524B26C4A7",
-        "stop_name_tc": "將軍澳隧道轉車站 (G1) (LT302)"
+        "stop_name_tc": "將軍澳隧道轉車站 (LT302)"
     },
     {
         "route": "98D",
@@ -230837,7 +230837,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "9762FC524B26C4A7",
-        "stop_name_tc": "將軍澳隧道轉車站 (G1) (LT302)"
+        "stop_name_tc": "將軍澳隧道轉車站 (LT302)"
     },
     {
         "route": "98P",
@@ -231205,7 +231205,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "97D1981DE7ECBCE7",
-        "stop_name_tc": "將軍澳隧道轉車站 (P2) (LT201)"
+        "stop_name_tc": "將軍澳隧道轉車站 (LT201)"
     },
     {
         "route": "98S",
@@ -231365,7 +231365,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "E0BAA3364D0CE860",
-        "stop_name_tc": "將軍澳隧道轉車站 (G2) (LT301)"
+        "stop_name_tc": "將軍澳隧道轉車站 (LT301)"
     },
     {
         "route": "98S",
@@ -239421,7 +239421,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "897B26110ECE76B3",
-        "stop_name_tc": "青沙公路轉車站 (B5) (TA292)"
+        "stop_name_tc": "青沙公路轉車站 (TA292)"
     },
     {
         "route": "A41",
@@ -239597,7 +239597,7 @@
         "service_type": "3",
         "seq": "5",
         "stop": "897B26110ECE76B3",
-        "stop_name_tc": "青沙公路轉車站 (B5) (TA292)"
+        "stop_name_tc": "青沙公路轉車站 (TA292)"
     },
     {
         "route": "A41",
@@ -239877,7 +239877,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "673B33867260EBB7",
-        "stop_name_tc": "青沙公路轉車站 (A4) (TA752)"
+        "stop_name_tc": "青沙公路轉車站 (TA752)"
     },
     {
         "route": "A41",
@@ -240053,7 +240053,7 @@
         "service_type": "3",
         "seq": "18",
         "stop": "673B33867260EBB7",
-        "stop_name_tc": "青沙公路轉車站 (A4) (TA752)"
+        "stop_name_tc": "青沙公路轉車站 (TA752)"
     },
     {
         "route": "A41",
@@ -240245,7 +240245,7 @@
         "service_type": "5",
         "seq": "18",
         "stop": "673B33867260EBB7",
-        "stop_name_tc": "青沙公路轉車站 (A4) (TA752)"
+        "stop_name_tc": "青沙公路轉車站 (TA752)"
     },
     {
         "route": "A41",
@@ -240317,7 +240317,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "897B26110ECE76B3",
-        "stop_name_tc": "青沙公路轉車站 (B5) (TA292)"
+        "stop_name_tc": "青沙公路轉車站 (TA292)"
     },
     {
         "route": "A41P",
@@ -240509,7 +240509,7 @@
         "service_type": "2",
         "seq": "6",
         "stop": "897B26110ECE76B3",
-        "stop_name_tc": "青沙公路轉車站 (B5) (TA292)"
+        "stop_name_tc": "青沙公路轉車站 (TA292)"
     },
     {
         "route": "A41P",
@@ -240701,7 +240701,7 @@
         "service_type": "3",
         "seq": "6",
         "stop": "897B26110ECE76B3",
-        "stop_name_tc": "青沙公路轉車站 (B5) (TA292)"
+        "stop_name_tc": "青沙公路轉車站 (TA292)"
     },
     {
         "route": "A41P",
@@ -241045,7 +241045,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "673B33867260EBB7",
-        "stop_name_tc": "青沙公路轉車站 (A4) (TA752)"
+        "stop_name_tc": "青沙公路轉車站 (TA752)"
     },
     {
         "route": "A41P",
@@ -241229,7 +241229,7 @@
         "service_type": "2",
         "seq": "19",
         "stop": "673B33867260EBB7",
-        "stop_name_tc": "青沙公路轉車站 (A4) (TA752)"
+        "stop_name_tc": "青沙公路轉車站 (TA752)"
     },
     {
         "route": "A41P",
@@ -241469,7 +241469,7 @@
         "service_type": "3",
         "seq": "24",
         "stop": "673B33867260EBB7",
-        "stop_name_tc": "青沙公路轉車站 (A4) (TA752)"
+        "stop_name_tc": "青沙公路轉車站 (TA752)"
     },
     {
         "route": "A41P",
@@ -241533,7 +241533,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "897B26110ECE76B3",
-        "stop_name_tc": "青沙公路轉車站 (B5) (TA292)"
+        "stop_name_tc": "青沙公路轉車站 (TA292)"
     },
     {
         "route": "A42",
@@ -241821,7 +241821,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "673B33867260EBB7",
-        "stop_name_tc": "青沙公路轉車站 (A4) (TA752)"
+        "stop_name_tc": "青沙公路轉車站 (TA752)"
     },
     {
         "route": "A42",
@@ -243045,7 +243045,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "897B26110ECE76B3",
-        "stop_name_tc": "青沙公路轉車站 (B5) (TA292)"
+        "stop_name_tc": "青沙公路轉車站 (TA292)"
     },
     {
         "route": "A46",
@@ -243253,7 +243253,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "673B33867260EBB7",
-        "stop_name_tc": "青沙公路轉車站 (A4) (TA752)"
+        "stop_name_tc": "青沙公路轉車站 (TA752)"
     },
     {
         "route": "A46",
@@ -243317,7 +243317,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "897B26110ECE76B3",
-        "stop_name_tc": "青沙公路轉車站 (B5) (TA292)"
+        "stop_name_tc": "青沙公路轉車站 (TA292)"
     },
     {
         "route": "A47X",
@@ -243421,7 +243421,7 @@
         "service_type": "2",
         "seq": "4",
         "stop": "897B26110ECE76B3",
-        "stop_name_tc": "青沙公路轉車站 (B5) (TA292)"
+        "stop_name_tc": "青沙公路轉車站 (TA292)"
     },
     {
         "route": "A47X",
@@ -243597,7 +243597,7 @@
         "service_type": "3",
         "seq": "5",
         "stop": "897B26110ECE76B3",
-        "stop_name_tc": "青沙公路轉車站 (B5) (TA292)"
+        "stop_name_tc": "青沙公路轉車站 (TA292)"
     },
     {
         "route": "A47X",
@@ -243781,7 +243781,7 @@
         "service_type": "4",
         "seq": "6",
         "stop": "897B26110ECE76B3",
-        "stop_name_tc": "青沙公路轉車站 (B5) (TA292)"
+        "stop_name_tc": "青沙公路轉車站 (TA292)"
     },
     {
         "route": "A47X",
@@ -243965,7 +243965,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "673B33867260EBB7",
-        "stop_name_tc": "青沙公路轉車站 (A4) (TA752)"
+        "stop_name_tc": "青沙公路轉車站 (TA752)"
     },
     {
         "route": "A47X",
@@ -244181,7 +244181,7 @@
         "service_type": "2",
         "seq": "23",
         "stop": "673B33867260EBB7",
-        "stop_name_tc": "青沙公路轉車站 (A4) (TA752)"
+        "stop_name_tc": "青沙公路轉車站 (TA752)"
     },
     {
         "route": "A47X",
@@ -244397,7 +244397,7 @@
         "service_type": "3",
         "seq": "23",
         "stop": "673B33867260EBB7",
-        "stop_name_tc": "青沙公路轉車站 (A4) (TA752)"
+        "stop_name_tc": "青沙公路轉車站 (TA752)"
     },
     {
         "route": "A47X",
@@ -244549,7 +244549,7 @@
         "service_type": "4",
         "seq": "14",
         "stop": "673B33867260EBB7",
-        "stop_name_tc": "青沙公路轉車站 (A4) (TA752)"
+        "stop_name_tc": "青沙公路轉車站 (TA752)"
     },
     {
         "route": "A47X",
@@ -266085,7 +266085,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "9274EF6791CA3ED8",
-        "stop_name_tc": "大老山隧道 (B1) (ST113)"
+        "stop_name_tc": "大老山隧道 (ST113)"
     },
     {
         "route": "N307",
@@ -266221,7 +266221,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "FFBEBD7068E01EA4",
-        "stop_name_tc": "大老山隧道 (A1) (ST792)"
+        "stop_name_tc": "大老山隧道 (ST792)"
     },
     {
         "route": "N307",
@@ -271621,7 +271621,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "C57C924EEB5463E5",
-        "stop_name_tc": "大老山隧道 (B2) (ST112)"
+        "stop_name_tc": "大老山隧道 (ST112)"
     },
     {
         "route": "N680",
@@ -271861,7 +271861,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "FFBEBD7068E01EA4",
-        "stop_name_tc": "大老山隧道 (A1) (ST792)"
+        "stop_name_tc": "大老山隧道 (ST792)"
     },
     {
         "route": "N680",
@@ -280989,7 +280989,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "9762FC524B26C4A7",
-        "stop_name_tc": "將軍澳隧道轉車站 (G1) (LT302)"
+        "stop_name_tc": "將軍澳隧道轉車站 (LT302)"
     },
     {
         "route": "R298",
@@ -284861,7 +284861,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "9274EF6791CA3ED8",
-        "stop_name_tc": "大老山隧道 (B1) (ST113)"
+        "stop_name_tc": "大老山隧道 (ST113)"
     },
     {
         "route": "SP7",
@@ -285293,7 +285293,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "9274EF6791CA3ED8",
-        "stop_name_tc": "大老山隧道 (B1) (ST113)"
+        "stop_name_tc": "大老山隧道 (ST113)"
     },
     {
         "route": "T277",
@@ -285413,7 +285413,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "30D564180B68ECA8",
-        "stop_name_tc": "大老山隧道 (A2) (ST791)"
+        "stop_name_tc": "大老山隧道 (ST791)"
     },
     {
         "route": "T277",
@@ -285525,7 +285525,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "9274EF6791CA3ED8",
-        "stop_name_tc": "大老山隧道 (B1) (ST113)"
+        "stop_name_tc": "大老山隧道 (ST113)"
     },
     {
         "route": "T74",
@@ -285861,7 +285861,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "30D564180B68ECA8",
-        "stop_name_tc": "大老山隧道 (A2) (ST791)"
+        "stop_name_tc": "大老山隧道 (ST791)"
     },
     {
         "route": "T74",
@@ -285997,7 +285997,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "30D564180B68ECA8",
-        "stop_name_tc": "大老山隧道 (A2) (ST791)"
+        "stop_name_tc": "大老山隧道 (ST791)"
     },
     {
         "route": "T80",
@@ -286125,7 +286125,7 @@
         "service_type": "2",
         "seq": "12",
         "stop": "30D564180B68ECA8",
-        "stop_name_tc": "大老山隧道 (A2) (ST791)"
+        "stop_name_tc": "大老山隧道 (ST791)"
     },
     {
         "route": "T80",
@@ -286605,7 +286605,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "2F202818B5A6F424",
-        "stop_name_tc": "青沙公路轉車站 (B1) (TA296)"
+        "stop_name_tc": "青沙公路轉車站 (TA296)"
     },
     {
         "route": "W3",
@@ -286781,7 +286781,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "F3433105FE5F6865",
-        "stop_name_tc": "青沙公路轉車站 (A3) (TA753)"
+        "stop_name_tc": "青沙公路轉車站 (TA753)"
     },
     {
         "route": "W3",
@@ -289509,7 +289509,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "C57C924EEB5463E5",
-        "stop_name_tc": "大老山隧道 (B2) (ST112)"
+        "stop_name_tc": "大老山隧道 (ST112)"
     },
     {
         "route": "X89D",
@@ -289629,7 +289629,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "30D564180B68ECA8",
-        "stop_name_tc": "大老山隧道 (A2) (ST791)"
+        "stop_name_tc": "大老山隧道 (ST791)"
     },
     {
         "route": "X89D",
@@ -289757,7 +289757,7 @@
         "service_type": "2",
         "seq": "10",
         "stop": "30D564180B68ECA8",
-        "stop_name_tc": "大老山隧道 (A2) (ST791)"
+        "stop_name_tc": "大老山隧道 (ST791)"
     },
     {
         "route": "X89D",
@@ -289837,7 +289837,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "97D1981DE7ECBCE7",
-        "stop_name_tc": "將軍澳隧道轉車站 (P2) (LT201)"
+        "stop_name_tc": "將軍澳隧道轉車站 (LT201)"
     },
     {
         "route": "X90",
@@ -289861,7 +289861,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "E0BAA3364D0CE860",
-        "stop_name_tc": "將軍澳隧道轉車站 (G2) (LT301)"
+        "stop_name_tc": "將軍澳隧道轉車站 (LT301)"
     },
     {
         "route": "X90",
