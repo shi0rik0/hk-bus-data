@@ -2176,6 +2176,14 @@
         "long": "114.224871"
     },
     {
+        "stop": "0BACBE7BF15833EC",
+        "name_en": "ON LAI COURT (AN604)",
+        "name_tc": "安麗苑 (AN604)",
+        "name_sc": "安丽苑 (AN604)",
+        "lat": "22.323084",
+        "long": "114.236761"
+    },
+    {
         "stop": "0BAD689F3AEEC4C6",
         "name_en": "WONG CHUK YUEN (YL181)",
         "name_tc": "黃竹園 (YL181)",
@@ -6590,6 +6598,14 @@
         "name_sc": "荃湾众安街 (TW387)",
         "lat": "22.372659",
         "long": "114.118190"
+    },
+    {
+        "stop": "1FA045AFCD07D796",
+        "name_en": "ON SAU COURT (AN414)",
+        "name_tc": "安秀苑 (AN414)",
+        "name_sc": "安秀苑 (AN414)",
+        "lat": "22.322398",
+        "long": "114.237103"
     },
     {
         "stop": "1FAA805BF1635668",
