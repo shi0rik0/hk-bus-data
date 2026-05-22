@@ -86212,16 +86212,16 @@
         "bound": "I",
         "service_type": "1",
         "seq": "11",
-        "stop": "3E10F323161F4ADB",
-        "stop_name_tc": "大學站 (ST901)"
+        "stop": "A4384F66C9DD2BDE",
+        "stop_name_tc": null
     },
     {
         "route": "287",
         "bound": "O",
         "service_type": "1",
         "seq": "1",
-        "stop": "3E10F323161F4ADB",
-        "stop_name_tc": "大學站 (ST901)"
+        "stop": "A4384F66C9DD2BDE",
+        "stop_name_tc": null
     },
     {
         "route": "287",
@@ -232076,16 +232076,16 @@
         "bound": "I",
         "service_type": "1",
         "seq": "19",
-        "stop": "9F542D4B6CF41651",
-        "stop_name_tc": "大學站 (ST905)"
+        "stop": "3E10F323161F4ADB",
+        "stop_name_tc": "大學站 (ST901)"
     },
     {
         "route": "99R",
         "bound": "O",
         "service_type": "1",
         "seq": "1",
-        "stop": "9F542D4B6CF41651",
-        "stop_name_tc": "大學站 (ST905)"
+        "stop": "3E10F323161F4ADB",
+        "stop_name_tc": "大學站 (ST901)"
     },
     {
         "route": "99R",
