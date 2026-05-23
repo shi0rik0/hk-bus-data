@@ -60631,7 +60631,7 @@
         "bound": "I",
         "service_type": "1",
         "seq": "22",
-        "stop": "2D1A8946EF054FC9"
+        "stop": "F808AF482CCA028E"
     },
     {
         "route": "271B",
@@ -76535,7 +76535,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "11",
-        "stop": "6FCDCBEC73F3AAF5"
+        "stop": "D18861DD66E59F95"
     },
     {
         "route": "288D",
@@ -112830,14 +112830,14 @@
         "bound": "I",
         "service_type": "1",
         "seq": "23",
-        "stop": "D18861DD66E59F95"
+        "stop": "6FCDCBEC73F3AAF5"
     },
     {
         "route": "49X",
         "bound": "O",
         "service_type": "1",
         "seq": "1",
-        "stop": "D18861DD66E59F95"
+        "stop": "6FCDCBEC73F3AAF5"
     },
     {
         "route": "49X",
@@ -113117,7 +113117,7 @@
         "bound": "O",
         "service_type": "3",
         "seq": "1",
-        "stop": "D18861DD66E59F95"
+        "stop": "6FCDCBEC73F3AAF5"
     },
     {
         "route": "49X",
@@ -165533,7 +165533,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "9",
-        "stop": "667232A61C746899"
+        "stop": "C7C74EE6E201E5A9"
     },
     {
         "route": "82X",
@@ -165631,7 +165631,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "23",
-        "stop": "6FCDCBEC73F3AAF5"
+        "stop": "D18861DD66E59F95"
     },
     {
         "route": "82X",
@@ -166919,7 +166919,7 @@
         "bound": "O",
         "service_type": "2",
         "seq": "11",
-        "stop": "667232A61C746899"
+        "stop": "C7C74EE6E201E5A9"
     },
     {
         "route": "84M",
@@ -167059,7 +167059,7 @@
         "bound": "O",
         "service_type": "2",
         "seq": "31",
-        "stop": "6FCDCBEC73F3AAF5"
+        "stop": "D18861DD66E59F95"
     },
     {
         "route": "84M",
@@ -177888,7 +177888,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "9",
-        "stop": "ED0A8F0BF375EA10"
+        "stop": "F0852C7827CC97EB"
     },
     {
         "route": "89S",
@@ -178049,7 +178049,7 @@
         "bound": "O",
         "service_type": "2",
         "seq": "6",
-        "stop": "ED0A8F0BF375EA10"
+        "stop": "F0852C7827CC97EB"
     },
     {
         "route": "89S",
@@ -179253,7 +179253,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "10",
-        "stop": "F0852C7827CC97EB"
+        "stop": "A0496DDDC41213FA"
     },
     {
         "route": "90",

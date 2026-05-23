@@ -21920,14 +21920,6 @@
         "long": "114.201282"
     },
     {
-        "stop": "667232A61C746899",
-        "name_en": "KWONG YUEN BUS TERMINUS (ST881)",
-        "name_tc": "廣源巴士總站 (ST881)",
-        "name_sc": "广源巴士总站 (ST881)",
-        "lat": "22.381401",
-        "long": "114.216227"
-    },
-    {
         "stop": "667E322246C6F7FA",
         "name_en": "WU BOON HOUSE WU KING ESTATE (TM453)",
         "name_tc": "湖景邨湖畔樓 (TM453)",
@@ -41798,6 +41790,14 @@
         "name_sc": "世界花园 (TA606)",
         "lat": "22.364784",
         "long": "114.181269"
+    },
+    {
+        "stop": "C7C74EE6E201E5A9",
+        "name_en": "KWONG YUEN BUS TERMINUS (ST883)",
+        "name_tc": "廣源巴士總站 (ST883)",
+        "name_sc": "广源巴士总站 (ST883)",
+        "lat": "22.381167",
+        "long": "114.216113"
     },
     {
         "stop": "C7C774CD6AE937B1",
