@@ -86213,7 +86213,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "A4384F66C9DD2BDE",
-        "stop_name_tc": null
+        "stop_name_tc": "大學站 (ST907)"
     },
     {
         "route": "287",
@@ -86221,7 +86221,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "A4384F66C9DD2BDE",
-        "stop_name_tc": null
+        "stop_name_tc": "大學站 (ST907)"
     },
     {
         "route": "287",

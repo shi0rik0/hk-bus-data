@@ -34344,6 +34344,14 @@
         "long": "114.189159"
     },
     {
+        "stop": "A4384F66C9DD2BDE",
+        "name_en": "UNIVERSITY STATION (ST907)",
+        "name_tc": "大學站 (ST907)",
+        "name_sc": "大学站 (ST907)",
+        "lat": "22.412599",
+        "long": "114.210840"
+    },
+    {
         "stop": "A4455CCA999A234C",
         "name_en": "HONG MING HOUSE WAH MING ESTATE (ND376)",
         "name_tc": "華明邨康明樓 (ND376)",
@@ -49494,14 +49502,6 @@
         "name_sc": "红磡鹤园街 (HH785)",
         "lat": "22.309978",
         "long": "114.187750"
-    },
-    {
-        "stop": "ED0A8F0BF375EA10",
-        "name_en": "WONG NAI TAU BUS TERMINUS (ST891)",
-        "name_tc": "黃泥頭巴士總站 (ST891)",
-        "name_sc": "黄泥头巴士总站 (ST891)",
-        "lat": "22.382216",
-        "long": "114.217969"
     },
     {
         "stop": "ED18A55B2C83BAD2",
