@@ -232733,7 +232733,15 @@
         "service_type": "1",
         "seq": "17",
         "stop": "9A43D6FA1AC3D2EA",
-        "stop_name_tc": null
+        "stop_name_tc": "二號客運大樓 (落客站)"
+    },
+    {
+        "route": "A30",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "18",
+        "stop": "23F3D6C7BDAD87EB",
+        "stop_name_tc": "機場(地面運輸中心)巴士總站"
     },
     {
         "route": "A30",
@@ -232869,7 +232877,7 @@
         "service_type": "2",
         "seq": "17",
         "stop": "9A43D6FA1AC3D2EA",
-        "stop_name_tc": null
+        "stop_name_tc": "二號客運大樓 (落客站)"
     },
     {
         "route": "A30",
@@ -232888,6 +232896,14 @@
         "stop_name_tc": "航天城交匯處 (CL326)"
     },
     {
+        "route": "A30",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "20",
+        "stop": "23F3D6C7BDAD87EB",
+        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+    },
+    {
         "route": "A31",
         "bound": "I",
         "service_type": "1",
@@ -233253,7 +233269,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "9A43D6FA1AC3D2EA",
-        "stop_name_tc": null
+        "stop_name_tc": "二號客運大樓 (落客站)"
     },
     {
         "route": "A31",
@@ -233269,6 +233285,14 @@
         "service_type": "1",
         "seq": "16",
         "stop": "21466046C6868AA7",
+        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+    },
+    {
+        "route": "A31",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "17",
+        "stop": "5E1FA939586B3FD1",
         "stop_name_tc": "機場(地面運輸中心)巴士總站"
     },
     {
@@ -233381,7 +233405,7 @@
         "service_type": "3",
         "seq": "14",
         "stop": "9A43D6FA1AC3D2EA",
-        "stop_name_tc": null
+        "stop_name_tc": "二號客運大樓 (落客站)"
     },
     {
         "route": "A31",
@@ -233413,6 +233437,14 @@
         "service_type": "3",
         "seq": "18",
         "stop": "21466046C6868AA7",
+        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+    },
+    {
+        "route": "A31",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "19",
+        "stop": "5E1FA939586B3FD1",
         "stop_name_tc": "機場(地面運輸中心)巴士總站"
     },
     {
@@ -233909,7 +233941,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "9A43D6FA1AC3D2EA",
-        "stop_name_tc": null
+        "stop_name_tc": "二號客運大樓 (落客站)"
     },
     {
         "route": "A32",
@@ -233918,6 +233950,14 @@
         "seq": "23",
         "stop": "0D5759F7A4B185FE",
         "stop_name_tc": "港珠澳大橋旅檢大樓 (落客站)"
+    },
+    {
+        "route": "A32",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "24",
+        "stop": "23F3D6C7BDAD87EB",
+        "stop_name_tc": "機場(地面運輸中心)巴士總站"
     },
     {
         "route": "A33",
@@ -234733,7 +234773,15 @@
         "service_type": "1",
         "seq": "34",
         "stop": "9A43D6FA1AC3D2EA",
-        "stop_name_tc": null
+        "stop_name_tc": "二號客運大樓 (落客站)"
+    },
+    {
+        "route": "A33",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "35",
+        "stop": "21466046C6868AA7",
+        "stop_name_tc": "機場(地面運輸中心)巴士總站"
     },
     {
         "route": "A33",
@@ -235005,7 +235053,7 @@
         "service_type": "2",
         "seq": "34",
         "stop": "9A43D6FA1AC3D2EA",
-        "stop_name_tc": null
+        "stop_name_tc": "二號客運大樓 (落客站)"
     },
     {
         "route": "A33",
@@ -235022,6 +235070,14 @@
         "seq": "36",
         "stop": "E48E4C46F64FFB0E",
         "stop_name_tc": "航天城交匯處 (CL326)"
+    },
+    {
+        "route": "A33",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "37",
+        "stop": "21466046C6868AA7",
+        "stop_name_tc": "機場(地面運輸中心)巴士總站"
     },
     {
         "route": "A33X",
@@ -235397,7 +235453,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "9A43D6FA1AC3D2EA",
-        "stop_name_tc": null
+        "stop_name_tc": "二號客運大樓 (落客站)"
     },
     {
         "route": "A33X",
@@ -235549,7 +235605,7 @@
         "service_type": "2",
         "seq": "18",
         "stop": "9A43D6FA1AC3D2EA",
-        "stop_name_tc": null
+        "stop_name_tc": "二號客運大樓 (落客站)"
     },
     {
         "route": "A33X",
@@ -236293,7 +236349,15 @@
         "service_type": "1",
         "seq": "32",
         "stop": "9A43D6FA1AC3D2EA",
-        "stop_name_tc": null
+        "stop_name_tc": "二號客運大樓 (落客站)"
+    },
+    {
+        "route": "A34",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "33",
+        "stop": "21466046C6868AA7",
+        "stop_name_tc": "機場(地面運輸中心)巴士總站"
     },
     {
         "route": "A34",
@@ -236469,7 +236533,15 @@
         "service_type": "2",
         "seq": "22",
         "stop": "9A43D6FA1AC3D2EA",
-        "stop_name_tc": null
+        "stop_name_tc": "二號客運大樓 (落客站)"
+    },
+    {
+        "route": "A34",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "23",
+        "stop": "21466046C6868AA7",
+        "stop_name_tc": "機場(地面運輸中心)巴士總站"
     },
     {
         "route": "A34",
@@ -236725,7 +236797,7 @@
         "service_type": "3",
         "seq": "32",
         "stop": "9A43D6FA1AC3D2EA",
-        "stop_name_tc": null
+        "stop_name_tc": "二號客運大樓 (落客站)"
     },
     {
         "route": "A34",
@@ -236742,6 +236814,14 @@
         "seq": "34",
         "stop": "E48E4C46F64FFB0E",
         "stop_name_tc": "航天城交匯處 (CL326)"
+    },
+    {
+        "route": "A34",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "35",
+        "stop": "21466046C6868AA7",
+        "stop_name_tc": "機場(地面運輸中心)巴士總站"
     },
     {
         "route": "A34",
@@ -236917,7 +236997,7 @@
         "service_type": "4",
         "seq": "22",
         "stop": "9A43D6FA1AC3D2EA",
-        "stop_name_tc": null
+        "stop_name_tc": "二號客運大樓 (落客站)"
     },
     {
         "route": "A34",
@@ -236936,6 +237016,14 @@
         "stop_name_tc": "航天城交匯處 (CL326)"
     },
     {
+        "route": "A34",
+        "bound": "O",
+        "service_type": "4",
+        "seq": "25",
+        "stop": "21466046C6868AA7",
+        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+    },
+    {
         "route": "A36",
         "bound": "I",
         "service_type": "1",
@@ -237217,302 +237305,6 @@
     },
     {
         "route": "A36",
-        "bound": "I",
-        "service_type": "5",
-        "seq": "1",
-        "stop": "B8BAF95E90D6E16E",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
-    },
-    {
-        "route": "A36",
-        "bound": "I",
-        "service_type": "5",
-        "seq": "2",
-        "stop": "9C9F817064169CE7",
-        "stop_name_tc": "機場博覽館 (CL320)"
-    },
-    {
-        "route": "A36",
-        "bound": "I",
-        "service_type": "5",
-        "seq": "3",
-        "stop": "883451BFA586E00E",
-        "stop_name_tc": "港珠澳大橋香港口岸 (W3)"
-    },
-    {
-        "route": "A36",
-        "bound": "I",
-        "service_type": "5",
-        "seq": "4",
-        "stop": "80818BFC3FE76A5B",
-        "stop_name_tc": "屯門赤鱲角隧道轉車站 (TM662)"
-    },
-    {
-        "route": "A36",
-        "bound": "I",
-        "service_type": "5",
-        "seq": "5",
-        "stop": "D9B82EE66AFF2975",
-        "stop_name_tc": "紅橋 (TM134)"
-    },
-    {
-        "route": "A36",
-        "bound": "I",
-        "service_type": "5",
-        "seq": "6",
-        "stop": "ADD19B88AA8E99DC",
-        "stop_name_tc": "鳳池村 (YL141)"
-    },
-    {
-        "route": "A36",
-        "bound": "I",
-        "service_type": "5",
-        "seq": "7",
-        "stop": "00115688D89603F9",
-        "stop_name_tc": "香港家庭計劃指導會 (YL221)"
-    },
-    {
-        "route": "A36",
-        "bound": "I",
-        "service_type": "5",
-        "seq": "8",
-        "stop": "F87A56BD0A2640ED",
-        "stop_name_tc": "元朗廣場 (YL360)"
-    },
-    {
-        "route": "A36",
-        "bound": "I",
-        "service_type": "5",
-        "seq": "9",
-        "stop": "D54B0CA58FE5559D",
-        "stop_name_tc": "元朗同樂街 (YL372)"
-    },
-    {
-        "route": "A36",
-        "bound": "I",
-        "service_type": "5",
-        "seq": "10",
-        "stop": "3D566753F149907F",
-        "stop_name_tc": "谷亭街 (YL378)"
-    },
-    {
-        "route": "A36",
-        "bound": "I",
-        "service_type": "5",
-        "seq": "11",
-        "stop": "9FB710B737A32C3A",
-        "stop_name_tc": "形點 II (YL393)"
-    },
-    {
-        "route": "A36",
-        "bound": "I",
-        "service_type": "5",
-        "seq": "12",
-        "stop": "591FA32FB4B53682",
-        "stop_name_tc": "形點 I (YL405)"
-    },
-    {
-        "route": "A36",
-        "bound": "I",
-        "service_type": "5",
-        "seq": "13",
-        "stop": "C59B16415222709D",
-        "stop_name_tc": "東成里 (YL421)"
-    },
-    {
-        "route": "A36",
-        "bound": "I",
-        "service_type": "5",
-        "seq": "14",
-        "stop": "88B9BE4ED93A3292",
-        "stop_name_tc": "凹頭 (YL631)"
-    },
-    {
-        "route": "A36",
-        "bound": "I",
-        "service_type": "5",
-        "seq": "15",
-        "stop": "7469F3B24F889F1B",
-        "stop_name_tc": "下高埔村 (YL634)"
-    },
-    {
-        "route": "A36",
-        "bound": "I",
-        "service_type": "5",
-        "seq": "16",
-        "stop": "8DBA8FDF35CE7CC0",
-        "stop_name_tc": "高埔村 (YL635)"
-    },
-    {
-        "route": "A36",
-        "bound": "I",
-        "service_type": "5",
-        "seq": "17",
-        "stop": "A4F1BEF1EEAD0910",
-        "stop_name_tc": "柏瓏 (YL673)"
-    },
-    {
-        "route": "A36",
-        "bound": "I",
-        "service_type": "5",
-        "seq": "18",
-        "stop": "FD27DF93530C7540",
-        "stop_name_tc": "錦上路站 (YL863)"
-    },
-    {
-        "route": "A36",
-        "bound": "I",
-        "service_type": "6",
-        "seq": "1",
-        "stop": "B8BAF95E90D6E16E",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
-    },
-    {
-        "route": "A36",
-        "bound": "I",
-        "service_type": "6",
-        "seq": "2",
-        "stop": "9C9F817064169CE7",
-        "stop_name_tc": "機場博覽館 (CL320)"
-    },
-    {
-        "route": "A36",
-        "bound": "I",
-        "service_type": "6",
-        "seq": "3",
-        "stop": "D3B54388E91DAB57",
-        "stop_name_tc": "民航處總部 (CL231)"
-    },
-    {
-        "route": "A36",
-        "bound": "I",
-        "service_type": "6",
-        "seq": "4",
-        "stop": "883451BFA586E00E",
-        "stop_name_tc": "港珠澳大橋香港口岸 (W3)"
-    },
-    {
-        "route": "A36",
-        "bound": "I",
-        "service_type": "6",
-        "seq": "5",
-        "stop": "80818BFC3FE76A5B",
-        "stop_name_tc": "屯門赤鱲角隧道轉車站 (TM662)"
-    },
-    {
-        "route": "A36",
-        "bound": "I",
-        "service_type": "6",
-        "seq": "6",
-        "stop": "D9B82EE66AFF2975",
-        "stop_name_tc": "紅橋 (TM134)"
-    },
-    {
-        "route": "A36",
-        "bound": "I",
-        "service_type": "6",
-        "seq": "7",
-        "stop": "ADD19B88AA8E99DC",
-        "stop_name_tc": "鳳池村 (YL141)"
-    },
-    {
-        "route": "A36",
-        "bound": "I",
-        "service_type": "6",
-        "seq": "8",
-        "stop": "00115688D89603F9",
-        "stop_name_tc": "香港家庭計劃指導會 (YL221)"
-    },
-    {
-        "route": "A36",
-        "bound": "I",
-        "service_type": "6",
-        "seq": "9",
-        "stop": "F87A56BD0A2640ED",
-        "stop_name_tc": "元朗廣場 (YL360)"
-    },
-    {
-        "route": "A36",
-        "bound": "I",
-        "service_type": "6",
-        "seq": "10",
-        "stop": "D54B0CA58FE5559D",
-        "stop_name_tc": "元朗同樂街 (YL372)"
-    },
-    {
-        "route": "A36",
-        "bound": "I",
-        "service_type": "6",
-        "seq": "11",
-        "stop": "3D566753F149907F",
-        "stop_name_tc": "谷亭街 (YL378)"
-    },
-    {
-        "route": "A36",
-        "bound": "I",
-        "service_type": "6",
-        "seq": "12",
-        "stop": "9FB710B737A32C3A",
-        "stop_name_tc": "形點 II (YL393)"
-    },
-    {
-        "route": "A36",
-        "bound": "I",
-        "service_type": "6",
-        "seq": "13",
-        "stop": "591FA32FB4B53682",
-        "stop_name_tc": "形點 I (YL405)"
-    },
-    {
-        "route": "A36",
-        "bound": "I",
-        "service_type": "6",
-        "seq": "14",
-        "stop": "C59B16415222709D",
-        "stop_name_tc": "東成里 (YL421)"
-    },
-    {
-        "route": "A36",
-        "bound": "I",
-        "service_type": "6",
-        "seq": "15",
-        "stop": "88B9BE4ED93A3292",
-        "stop_name_tc": "凹頭 (YL631)"
-    },
-    {
-        "route": "A36",
-        "bound": "I",
-        "service_type": "6",
-        "seq": "16",
-        "stop": "7469F3B24F889F1B",
-        "stop_name_tc": "下高埔村 (YL634)"
-    },
-    {
-        "route": "A36",
-        "bound": "I",
-        "service_type": "6",
-        "seq": "17",
-        "stop": "8DBA8FDF35CE7CC0",
-        "stop_name_tc": "高埔村 (YL635)"
-    },
-    {
-        "route": "A36",
-        "bound": "I",
-        "service_type": "6",
-        "seq": "18",
-        "stop": "A4F1BEF1EEAD0910",
-        "stop_name_tc": "柏瓏 (YL673)"
-    },
-    {
-        "route": "A36",
-        "bound": "I",
-        "service_type": "6",
-        "seq": "19",
-        "stop": "FD27DF93530C7540",
-        "stop_name_tc": "錦上路站 (YL863)"
-    },
-    {
-        "route": "A36",
         "bound": "O",
         "service_type": "1",
         "seq": "1",
@@ -237661,7 +237453,15 @@
         "service_type": "1",
         "seq": "19",
         "stop": "9A43D6FA1AC3D2EA",
-        "stop_name_tc": null
+        "stop_name_tc": "二號客運大樓 (落客站)"
+    },
+    {
+        "route": "A36",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "20",
+        "stop": "21466046C6868AA7",
+        "stop_name_tc": "機場(地面運輸中心)巴士總站"
     },
     {
         "route": "A36",
@@ -237821,7 +237621,15 @@
         "service_type": "2",
         "seq": "20",
         "stop": "9A43D6FA1AC3D2EA",
-        "stop_name_tc": null
+        "stop_name_tc": "二號客運大樓 (落客站)"
+    },
+    {
+        "route": "A36",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "21",
+        "stop": "21466046C6868AA7",
+        "stop_name_tc": "機場(地面運輸中心)巴士總站"
     },
     {
         "route": "A36",
@@ -237981,7 +237789,7 @@
         "service_type": "3",
         "seq": "20",
         "stop": "9A43D6FA1AC3D2EA",
-        "stop_name_tc": null
+        "stop_name_tc": "二號客運大樓 (落客站)"
     },
     {
         "route": "A36",
@@ -237994,6 +237802,14 @@
     {
         "route": "A36",
         "bound": "O",
+        "service_type": "3",
+        "seq": "22",
+        "stop": "21466046C6868AA7",
+        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+    },
+    {
+        "route": "A36",
+        "bound": "O",
         "service_type": "5",
         "seq": "1",
         "stop": "FD27DF93530C7540",
@@ -238141,7 +237957,7 @@
         "service_type": "5",
         "seq": "19",
         "stop": "9A43D6FA1AC3D2EA",
-        "stop_name_tc": null
+        "stop_name_tc": "二號客運大樓 (落客站)"
     },
     {
         "route": "A36",
@@ -238150,6 +237966,14 @@
         "seq": "20",
         "stop": "9C9F817064169CE7",
         "stop_name_tc": "機場博覽館 (CL320)"
+    },
+    {
+        "route": "A36",
+        "bound": "O",
+        "service_type": "5",
+        "seq": "21",
+        "stop": "21466046C6868AA7",
+        "stop_name_tc": "機場(地面運輸中心)巴士總站"
     },
     {
         "route": "A37",
@@ -238597,7 +238421,15 @@
         "service_type": "1",
         "seq": "20",
         "stop": "9A43D6FA1AC3D2EA",
-        "stop_name_tc": null
+        "stop_name_tc": "二號客運大樓 (落客站)"
+    },
+    {
+        "route": "A37",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "21",
+        "stop": "21466046C6868AA7",
+        "stop_name_tc": "機場(地面運輸中心)巴士總站"
     },
     {
         "route": "A37",
@@ -238757,7 +238589,7 @@
         "service_type": "2",
         "seq": "20",
         "stop": "9A43D6FA1AC3D2EA",
-        "stop_name_tc": null
+        "stop_name_tc": "二號客運大樓 (落客站)"
     },
     {
         "route": "A37",
@@ -238774,6 +238606,14 @@
         "seq": "22",
         "stop": "E48E4C46F64FFB0E",
         "stop_name_tc": "航天城交匯處 (CL326)"
+    },
+    {
+        "route": "A37",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "23",
+        "stop": "21466046C6868AA7",
+        "stop_name_tc": "機場(地面運輸中心)巴士總站"
     },
     {
         "route": "A38",
@@ -239189,7 +239029,7 @@
         "service_type": "1",
         "seq": "25",
         "stop": "9A43D6FA1AC3D2EA",
-        "stop_name_tc": null
+        "stop_name_tc": "二號客運大樓 (落客站)"
     },
     {
         "route": "A38",
@@ -239205,6 +239045,14 @@
         "service_type": "1",
         "seq": "27",
         "stop": "21466046C6868AA7",
+        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+    },
+    {
+        "route": "A38",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "28",
+        "stop": "5E1FA939586B3FD1",
         "stop_name_tc": "機場(地面運輸中心)巴士總站"
     },
     {
@@ -239717,7 +239565,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "9A43D6FA1AC3D2EA",
-        "stop_name_tc": null
+        "stop_name_tc": "二號客運大樓 (落客站)"
     },
     {
         "route": "A41",
@@ -239726,6 +239574,14 @@
         "seq": "22",
         "stop": "0D5759F7A4B185FE",
         "stop_name_tc": "港珠澳大橋旅檢大樓 (落客站)"
+    },
+    {
+        "route": "A41",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "23",
+        "stop": "21466046C6868AA7",
+        "stop_name_tc": "機場(地面運輸中心)巴士總站"
     },
     {
         "route": "A41",
@@ -239892,6 +239748,22 @@
         "bound": "O",
         "service_type": "3",
         "seq": "21",
+        "stop": "C552CE565E1F0C85",
+        "stop_name_tc": "一號客運大樓 (落客站)"
+    },
+    {
+        "route": "A41",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "22",
+        "stop": "9A43D6FA1AC3D2EA",
+        "stop_name_tc": "二號客運大樓 (落客站)"
+    },
+    {
+        "route": "A41",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "23",
         "stop": "D3B54388E91DAB57",
         "stop_name_tc": "民航處總部 (CL231)"
     },
@@ -239899,15 +239771,7 @@
         "route": "A41",
         "bound": "O",
         "service_type": "3",
-        "seq": "22",
-        "stop": "C552CE565E1F0C85",
-        "stop_name_tc": "一號客運大樓 (落客站)"
-    },
-    {
-        "route": "A41",
-        "bound": "O",
-        "service_type": "3",
-        "seq": "23",
+        "seq": "24",
         "stop": "0D5759F7A4B185FE",
         "stop_name_tc": "港珠澳大橋旅檢大樓 (落客站)"
     },
@@ -239915,193 +239779,9 @@
         "route": "A41",
         "bound": "O",
         "service_type": "3",
-        "seq": "24",
+        "seq": "25",
         "stop": "21466046C6868AA7",
         "stop_name_tc": "機場(地面運輸中心)巴士總站"
-    },
-    {
-        "route": "A41",
-        "bound": "O",
-        "service_type": "5",
-        "seq": "1",
-        "stop": "24F7097D1D913EC5",
-        "stop_name_tc": "石門總站 (ST992)"
-    },
-    {
-        "route": "A41",
-        "bound": "O",
-        "service_type": "5",
-        "seq": "2",
-        "stop": "F0B624403EB4108C",
-        "stop_name_tc": "帝逸酒店 (ST533)"
-    },
-    {
-        "route": "A41",
-        "bound": "O",
-        "service_type": "5",
-        "seq": "3",
-        "stop": "4C236D0FBDFDDA6E",
-        "stop_name_tc": "香港駕駛學院 (ST610)"
-    },
-    {
-        "route": "A41",
-        "bound": "O",
-        "service_type": "5",
-        "seq": "4",
-        "stop": "9F527C21FE33EF58",
-        "stop_name_tc": "愉翠苑 (ST635)"
-    },
-    {
-        "route": "A41",
-        "bound": "O",
-        "service_type": "5",
-        "seq": "5",
-        "stop": "EFB9F85F98113CB0",
-        "stop_name_tc": "愉田苑 (ST704)"
-    },
-    {
-        "route": "A41",
-        "bound": "O",
-        "service_type": "5",
-        "seq": "6",
-        "stop": "55B5E2A727CAA86D",
-        "stop_name_tc": "置富第一城 (ST709)"
-    },
-    {
-        "route": "A41",
-        "bound": "O",
-        "service_type": "5",
-        "seq": "7",
-        "stop": "E757600B79B0B2AC",
-        "stop_name_tc": "沙田第一城 (ST506)"
-    },
-    {
-        "route": "A41",
-        "bound": "O",
-        "service_type": "5",
-        "seq": "8",
-        "stop": "4039C75BB85BF238",
-        "stop_name_tc": "富豪花園 (ST513)"
-    },
-    {
-        "route": "A41",
-        "bound": "O",
-        "service_type": "5",
-        "seq": "9",
-        "stop": "FCCAC3FC3C8A66E2",
-        "stop_name_tc": "麗豪酒店 (ST518)"
-    },
-    {
-        "route": "A41",
-        "bound": "O",
-        "service_type": "5",
-        "seq": "10",
-        "stop": "197315C40E767929",
-        "stop_name_tc": "沙田市中心巴士總站 (ST928)"
-    },
-    {
-        "route": "A41",
-        "bound": "O",
-        "service_type": "5",
-        "seq": "11",
-        "stop": "6ACFA599CC0EA4E0",
-        "stop_name_tc": "帝都酒店 (ST763)"
-    },
-    {
-        "route": "A41",
-        "bound": "O",
-        "service_type": "5",
-        "seq": "12",
-        "stop": "CA89494AD121A8DC",
-        "stop_name_tc": "文化博物館 (ST771)"
-    },
-    {
-        "route": "A41",
-        "bound": "O",
-        "service_type": "5",
-        "seq": "13",
-        "stop": "FCA7A9D99D36338B",
-        "stop_name_tc": "秦石邨 (TA532)"
-    },
-    {
-        "route": "A41",
-        "bound": "O",
-        "service_type": "5",
-        "seq": "14",
-        "stop": "2E0FD54FCF000E13",
-        "stop_name_tc": "車公廟 (TA537)"
-    },
-    {
-        "route": "A41",
-        "bound": "O",
-        "service_type": "5",
-        "seq": "15",
-        "stop": "4F09976CA4CF80C9",
-        "stop_name_tc": "大圍轉車站 - 新翠邨新明樓"
-    },
-    {
-        "route": "A41",
-        "bound": "O",
-        "service_type": "5",
-        "seq": "16",
-        "stop": "F01D5D94B03AA8A2",
-        "stop_name_tc": "大圍轉車站 - 積運街 (TA140)"
-    },
-    {
-        "route": "A41",
-        "bound": "O",
-        "service_type": "5",
-        "seq": "17",
-        "stop": "1983BD4319FB2713",
-        "stop_name_tc": "海福花園 (TA143)"
-    },
-    {
-        "route": "A41",
-        "bound": "O",
-        "service_type": "5",
-        "seq": "18",
-        "stop": "673B33867260EBB7",
-        "stop_name_tc": "青沙公路轉車站 (TA752)"
-    },
-    {
-        "route": "A41",
-        "bound": "O",
-        "service_type": "5",
-        "seq": "19",
-        "stop": "412DEEF534E127AF",
-        "stop_name_tc": "青嶼幹線轉車站 (TW606)"
-    },
-    {
-        "route": "A41",
-        "bound": "O",
-        "service_type": "5",
-        "seq": "20",
-        "stop": "C552CE565E1F0C85",
-        "stop_name_tc": "一號客運大樓 (落客站)"
-    },
-    {
-        "route": "A41",
-        "bound": "O",
-        "service_type": "5",
-        "seq": "21",
-        "stop": "9A43D6FA1AC3D2EA",
-        "stop_name_tc": null
-    },
-    {
-        "route": "A41",
-        "bound": "O",
-        "service_type": "5",
-        "seq": "22",
-        "stop": "9C9F817064169CE7",
-        "stop_name_tc": "機場博覽館 (CL320)"
-    },
-    {
-        "route": "A41",
-        "bound": "O",
-        "service_type": "5",
-        "seq": "23",
-        "stop": "0D5759F7A4B185FE",
-        "stop_name_tc": "港珠澳大橋旅檢大樓 (落客站)"
     },
     {
         "route": "A41P",
@@ -240885,7 +240565,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "9A43D6FA1AC3D2EA",
-        "stop_name_tc": null
+        "stop_name_tc": "二號客運大樓 (落客站)"
     },
     {
         "route": "A41P",
@@ -240894,6 +240574,14 @@
         "seq": "23",
         "stop": "0D5759F7A4B185FE",
         "stop_name_tc": "港珠澳大橋旅檢大樓 (落客站)"
+    },
+    {
+        "route": "A41P",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "24",
+        "stop": "21466046C6868AA7",
+        "stop_name_tc": "機場(地面運輸中心)巴士總站"
     },
     {
         "route": "A41P",
@@ -241109,7 +240797,7 @@
         "service_type": "3",
         "seq": "27",
         "stop": "9A43D6FA1AC3D2EA",
-        "stop_name_tc": null
+        "stop_name_tc": "二號客運大樓 (落客站)"
     },
     {
         "route": "A41P",
@@ -241118,6 +240806,14 @@
         "seq": "28",
         "stop": "0D5759F7A4B185FE",
         "stop_name_tc": "港珠澳大橋旅檢大樓 (落客站)"
+    },
+    {
+        "route": "A41P",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "29",
+        "stop": "21466046C6868AA7",
+        "stop_name_tc": "機場(地面運輸中心)巴士總站"
     },
     {
         "route": "A42",
@@ -241469,7 +241165,15 @@
         "service_type": "1",
         "seq": "23",
         "stop": "9A43D6FA1AC3D2EA",
-        "stop_name_tc": null
+        "stop_name_tc": "二號客運大樓 (落客站)"
+    },
+    {
+        "route": "A42",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "24",
+        "stop": "21466046C6868AA7",
+        "stop_name_tc": "機場(地面運輸中心)巴士總站"
     },
     {
         "route": "A43",
@@ -241789,7 +241493,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "9A43D6FA1AC3D2EA",
-        "stop_name_tc": null
+        "stop_name_tc": "二號客運大樓 (落客站)"
     },
     {
         "route": "A43",
@@ -241798,6 +241502,14 @@
         "seq": "21",
         "stop": "0D5759F7A4B185FE",
         "stop_name_tc": "港珠澳大橋旅檢大樓 (落客站)"
+    },
+    {
+        "route": "A43",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "22",
+        "stop": "21466046C6868AA7",
+        "stop_name_tc": "機場(地面運輸中心)巴士總站"
     },
     {
         "route": "A43",
@@ -241965,7 +241677,7 @@
         "service_type": "2",
         "seq": "21",
         "stop": "9A43D6FA1AC3D2EA",
-        "stop_name_tc": null
+        "stop_name_tc": "二號客運大樓 (落客站)"
     },
     {
         "route": "A43",
@@ -241974,6 +241686,14 @@
         "seq": "22",
         "stop": "0D5759F7A4B185FE",
         "stop_name_tc": "港珠澳大橋旅檢大樓 (落客站)"
+    },
+    {
+        "route": "A43",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "23",
+        "stop": "21466046C6868AA7",
+        "stop_name_tc": "機場(地面運輸中心)巴士總站"
     },
     {
         "route": "A43P",
@@ -242461,7 +242181,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "9A43D6FA1AC3D2EA",
-        "stop_name_tc": null
+        "stop_name_tc": "二號客運大樓 (落客站)"
     },
     {
         "route": "A43P",
@@ -242478,6 +242198,14 @@
         "seq": "15",
         "stop": "0D5759F7A4B185FE",
         "stop_name_tc": "港珠澳大橋旅檢大樓 (落客站)"
+    },
+    {
+        "route": "A43P",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "16",
+        "stop": "21466046C6868AA7",
+        "stop_name_tc": "機場(地面運輸中心)巴士總站"
     },
     {
         "route": "A43P",
@@ -242613,7 +242341,7 @@
         "service_type": "3",
         "seq": "17",
         "stop": "9A43D6FA1AC3D2EA",
-        "stop_name_tc": null
+        "stop_name_tc": "二號客運大樓 (落客站)"
     },
     {
         "route": "A43P",
@@ -242630,6 +242358,14 @@
         "seq": "19",
         "stop": "0D5759F7A4B185FE",
         "stop_name_tc": "港珠澳大橋旅檢大樓 (落客站)"
+    },
+    {
+        "route": "A43P",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "20",
+        "stop": "21466046C6868AA7",
+        "stop_name_tc": "機場(地面運輸中心)巴士總站"
     },
     {
         "route": "A46",
@@ -242901,7 +242637,15 @@
         "service_type": "1",
         "seq": "16",
         "stop": "9A43D6FA1AC3D2EA",
-        "stop_name_tc": null
+        "stop_name_tc": "二號客運大樓 (落客站)"
+    },
+    {
+        "route": "A46",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "17",
+        "stop": "21466046C6868AA7",
+        "stop_name_tc": "機場(地面運輸中心)巴士總站"
     },
     {
         "route": "A47X",
@@ -243605,7 +243349,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "9A43D6FA1AC3D2EA",
-        "stop_name_tc": null
+        "stop_name_tc": "二號客運大樓 (落客站)"
     },
     {
         "route": "A47X",
@@ -243614,6 +243358,14 @@
         "seq": "18",
         "stop": "0D5759F7A4B185FE",
         "stop_name_tc": "港珠澳大橋旅檢大樓 (落客站)"
+    },
+    {
+        "route": "A47X",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "19",
+        "stop": "21466046C6868AA7",
+        "stop_name_tc": "機場(地面運輸中心)巴士總站"
     },
     {
         "route": "A47X",
@@ -243821,7 +243573,7 @@
         "service_type": "2",
         "seq": "26",
         "stop": "9A43D6FA1AC3D2EA",
-        "stop_name_tc": null
+        "stop_name_tc": "二號客運大樓 (落客站)"
     },
     {
         "route": "A47X",
@@ -243830,6 +243582,14 @@
         "seq": "27",
         "stop": "0D5759F7A4B185FE",
         "stop_name_tc": "港珠澳大橋旅檢大樓 (落客站)"
+    },
+    {
+        "route": "A47X",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "28",
+        "stop": "21466046C6868AA7",
+        "stop_name_tc": "機場(地面運輸中心)巴士總站"
     },
     {
         "route": "A47X",
@@ -244045,7 +243805,7 @@
         "service_type": "3",
         "seq": "27",
         "stop": "9A43D6FA1AC3D2EA",
-        "stop_name_tc": null
+        "stop_name_tc": "二號客運大樓 (落客站)"
     },
     {
         "route": "A47X",
@@ -244054,6 +243814,14 @@
         "seq": "28",
         "stop": "0D5759F7A4B185FE",
         "stop_name_tc": "港珠澳大橋旅檢大樓 (落客站)"
+    },
+    {
+        "route": "A47X",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "29",
+        "stop": "21466046C6868AA7",
+        "stop_name_tc": "機場(地面運輸中心)巴士總站"
     },
     {
         "route": "B1",
@@ -266681,286 +266449,6 @@
     },
     {
         "route": "N368",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "1",
-        "stop": "28B264A688848238",
-        "stop_name_tc": "港澳碼頭 (CW110)"
-    },
-    {
-        "route": "N368",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "2",
-        "stop": "25D811895B82ABCA",
-        "stop_name_tc": "港澳碼頭 (CW111)"
-    },
-    {
-        "route": "N368",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "3",
-        "stop": "5FEC91F62EE33DA1",
-        "stop_name_tc": "永和街 (CW141)"
-    },
-    {
-        "route": "N368",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "4",
-        "stop": "4328371AE3AD16B9",
-        "stop_name_tc": "恒生銀行總行 (CW143)"
-    },
-    {
-        "route": "N368",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "5",
-        "stop": "46CB01C7F12428A3",
-        "stop_name_tc": "德忌利士街 (CW144)"
-    },
-    {
-        "route": "N368",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "6",
-        "stop": "D5FEF340EE98A7E8",
-        "stop_name_tc": "皇后像廣場 (CW145)"
-    },
-    {
-        "route": "N368",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "7",
-        "stop": "3FCC00D1D01ACD28",
-        "stop_name_tc": "金鐘站 (CW166)"
-    },
-    {
-        "route": "N368",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "8",
-        "stop": "AD1B202B678A3B56",
-        "stop_name_tc": "軍器廠街 (WC210)"
-    },
-    {
-        "route": "N368",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "9",
-        "stop": "C88DEC0AF0D1102B",
-        "stop_name_tc": "菲林明道 (WC213)"
-    },
-    {
-        "route": "N368",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "10",
-        "stop": "4C333C4D4E80902B",
-        "stop_name_tc": "史釗域道 (WC217)"
-    },
-    {
-        "route": "N368",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "11",
-        "stop": "F1A22B170518051B",
-        "stop_name_tc": "灣仔消防局 (WC220)"
-    },
-    {
-        "route": "N368",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "12",
-        "stop": "3DB9E473F29FCDEE",
-        "stop_name_tc": "百德新街 (WC231)"
-    },
-    {
-        "route": "N368",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "13",
-        "stop": "17B98BD1165A7B92",
-        "stop_name_tc": "維多利亞公園 (ED310)"
-    },
-    {
-        "route": "N368",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "14",
-        "stop": "42E86F97FAC8F719",
-        "stop_name_tc": "興發街 (ED320)"
-    },
-    {
-        "route": "N368",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "15",
-        "stop": "F948129B464BB963",
-        "stop_name_tc": "景隆街 (WC712)"
-    },
-    {
-        "route": "N368",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "16",
-        "stop": "79AFB35F9DBD485A",
-        "stop_name_tc": "紅隧轉車站 (HH600)"
-    },
-    {
-        "route": "N368",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "17",
-        "stop": "893BBB901005C3E6",
-        "stop_name_tc": "拔萃女書院 (YT665)"
-    },
-    {
-        "route": "N368",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "18",
-        "stop": "B046BFB6CCD3E7CE",
-        "stop_name_tc": "九龍中央郵政局 (YT133)"
-    },
-    {
-        "route": "N368",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "19",
-        "stop": "FC46B100B69573B7",
-        "stop_name_tc": "油麻地碧街 (YT145)"
-    },
-    {
-        "route": "N368",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "20",
-        "stop": "4A1CFF0BEA83DE78",
-        "stop_name_tc": "旺角豉油街 (MK163)"
-    },
-    {
-        "route": "N368",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "21",
-        "stop": "221A18C37331E6FD",
-        "stop_name_tc": "旺角奶路臣街 (MK174)"
-    },
-    {
-        "route": "N368",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "22",
-        "stop": "7ADC6D521E6BECE6",
-        "stop_name_tc": "旺角街市, 地區康健中心 (MK626)"
-    },
-    {
-        "route": "N368",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "23",
-        "stop": "6E764374E3F36BBB",
-        "stop_name_tc": "銘基書院 (MK630)"
-    },
-    {
-        "route": "N368",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "24",
-        "stop": "0CC9C5E5DBB3FF89",
-        "stop_name_tc": "美孚轉車站 (SS322)"
-    },
-    {
-        "route": "N368",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "25",
-        "stop": "643D73028E9E8490",
-        "stop_name_tc": "大欖隧道轉車站 (B5) (YL232)"
-    },
-    {
-        "route": "N368",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "26",
-        "stop": "52241C2AEB38627B",
-        "stop_name_tc": "大欖隧道轉車站 (B2) (YL235)"
-    },
-    {
-        "route": "N368",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "27",
-        "stop": "BFCFEBF6F5C35402",
-        "stop_name_tc": "高埔村 (YL734)"
-    },
-    {
-        "route": "N368",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "28",
-        "stop": "F8B3A5C8D0D3CED7",
-        "stop_name_tc": "下高埔村 (YL736)"
-    },
-    {
-        "route": "N368",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "29",
-        "stop": "3D5F826FD00C0529",
-        "stop_name_tc": "凹頭 (YL738)"
-    },
-    {
-        "route": "N368",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "30",
-        "stop": "876CF2E8C375F78B",
-        "stop_name_tc": "東成里 (YL566)"
-    },
-    {
-        "route": "N368",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "31",
-        "stop": "6386333EDAC64C96",
-        "stop_name_tc": "楊屋村 (YL568)"
-    },
-    {
-        "route": "N368",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "32",
-        "stop": "6A4B371546D489BF",
-        "stop_name_tc": "形點 I (YL242)"
-    },
-    {
-        "route": "N368",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "33",
-        "stop": "AC935792C88AF135",
-        "stop_name_tc": "元朗又新街 (YL249)"
-    },
-    {
-        "route": "N368",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "34",
-        "stop": "43E5D3A445382F82",
-        "stop_name_tc": "元朗大棠路 (YL252)"
-    },
-    {
-        "route": "N368",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "35",
-        "stop": "41D1C16D44F410F1",
-        "stop_name_tc": "元朗（西）總站 (YL942)"
-    },
-    {
-        "route": "N368",
         "bound": "O",
         "service_type": "1",
         "seq": "1",
@@ -273901,7 +273389,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "9A43D6FA1AC3D2EA",
-        "stop_name_tc": null
+        "stop_name_tc": "二號客運大樓 (落客站)"
     },
     {
         "route": "NA30",
@@ -273910,6 +273398,14 @@
         "seq": "18",
         "stop": "0D5759F7A4B185FE",
         "stop_name_tc": "港珠澳大橋旅檢大樓 (落客站)"
+    },
+    {
+        "route": "NA30",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "19",
+        "stop": "9F9D5E46754C52D4",
+        "stop_name_tc": "港珠澳大橋香港口岸 (E3)"
     },
     {
         "route": "NA31",
@@ -274157,7 +273653,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "9A43D6FA1AC3D2EA",
-        "stop_name_tc": null
+        "stop_name_tc": "二號客運大樓 (落客站)"
     },
     {
         "route": "NA31",
@@ -274166,6 +273662,14 @@
         "seq": "16",
         "stop": "0D5759F7A4B185FE",
         "stop_name_tc": "港珠澳大橋旅檢大樓 (落客站)"
+    },
+    {
+        "route": "NA31",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "17",
+        "stop": "35178229BDA14084",
+        "stop_name_tc": "港珠澳大橋香港口岸 (E2)"
     },
     {
         "route": "NA32",
@@ -274509,7 +274013,7 @@
         "service_type": "1",
         "seq": "23",
         "stop": "9A43D6FA1AC3D2EA",
-        "stop_name_tc": null
+        "stop_name_tc": "二號客運大樓 (落客站)"
     },
     {
         "route": "NA32",
@@ -274518,6 +274022,14 @@
         "seq": "24",
         "stop": "0D5759F7A4B185FE",
         "stop_name_tc": "港珠澳大橋旅檢大樓 (落客站)"
+    },
+    {
+        "route": "NA32",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "25",
+        "stop": "9F9D5E46754C52D4",
+        "stop_name_tc": "港珠澳大橋香港口岸 (E3)"
     },
     {
         "route": "NA33",
@@ -274765,7 +274277,15 @@
         "service_type": "1",
         "seq": "31",
         "stop": "9A43D6FA1AC3D2EA",
-        "stop_name_tc": null
+        "stop_name_tc": "二號客運大樓 (落客站)"
+    },
+    {
+        "route": "NA33",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "32",
+        "stop": "AAC64BCDD5B55A86",
+        "stop_name_tc": "國泰城 (CL221)"
     },
     {
         "route": "NA33",
@@ -275173,7 +274693,15 @@
         "service_type": "1",
         "seq": "21",
         "stop": "9A43D6FA1AC3D2EA",
-        "stop_name_tc": null
+        "stop_name_tc": "二號客運大樓 (落客站)"
+    },
+    {
+        "route": "NA36",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "22",
+        "stop": "AAC64BCDD5B55A86",
+        "stop_name_tc": "國泰城 (CL221)"
     },
     {
         "route": "NA36",
@@ -275797,7 +275325,15 @@
         "service_type": "1",
         "seq": "30",
         "stop": "9A43D6FA1AC3D2EA",
-        "stop_name_tc": null
+        "stop_name_tc": "二號客運大樓 (落客站)"
+    },
+    {
+        "route": "NA37",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "31",
+        "stop": "AAC64BCDD5B55A86",
+        "stop_name_tc": "國泰城 (CL221)"
     },
     {
         "route": "NA40",
@@ -276221,7 +275757,7 @@
         "service_type": "1",
         "seq": "27",
         "stop": "9A43D6FA1AC3D2EA",
-        "stop_name_tc": null
+        "stop_name_tc": "二號客運大樓 (落客站)"
     },
     {
         "route": "NA40",
@@ -276230,6 +275766,14 @@
         "seq": "28",
         "stop": "0D5759F7A4B185FE",
         "stop_name_tc": "港珠澳大橋旅檢大樓 (落客站)"
+    },
+    {
+        "route": "NA40",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "29",
+        "stop": "A7378EEEBFA0C76C",
+        "stop_name_tc": "港珠澳大橋香港口岸 (E7)"
     },
     {
         "route": "NA41",
@@ -276733,7 +276277,7 @@
         "service_type": "1",
         "seq": "33",
         "stop": "9A43D6FA1AC3D2EA",
-        "stop_name_tc": null
+        "stop_name_tc": "二號客運大樓 (落客站)"
     },
     {
         "route": "NA41",
@@ -276742,6 +276286,14 @@
         "seq": "34",
         "stop": "0D5759F7A4B185FE",
         "stop_name_tc": "港珠澳大橋旅檢大樓 (落客站)"
+    },
+    {
+        "route": "NA41",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "35",
+        "stop": "38A38CABCA7969CF",
+        "stop_name_tc": "港珠澳大橋香港口岸 (E4)"
     },
     {
         "route": "NA43",
@@ -277093,7 +276645,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "9A43D6FA1AC3D2EA",
-        "stop_name_tc": null
+        "stop_name_tc": "二號客運大樓 (落客站)"
     },
     {
         "route": "NA43",
@@ -277102,6 +276654,14 @@
         "seq": "23",
         "stop": "0D5759F7A4B185FE",
         "stop_name_tc": "港珠澳大橋旅檢大樓 (落客站)"
+    },
+    {
+        "route": "NA43",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "24",
+        "stop": "192BF77E794E87E1",
+        "stop_name_tc": "港珠澳大橋香港口岸 (W5)"
     },
     {
         "route": "NA47",
@@ -277485,7 +277045,7 @@
         "service_type": "1",
         "seq": "26",
         "stop": "9A43D6FA1AC3D2EA",
-        "stop_name_tc": null
+        "stop_name_tc": "二號客運大樓 (落客站)"
     },
     {
         "route": "NA47",
@@ -277494,6 +277054,14 @@
         "seq": "27",
         "stop": "0D5759F7A4B185FE",
         "stop_name_tc": "港珠澳大橋旅檢大樓 (落客站)"
+    },
+    {
+        "route": "NA47",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "28",
+        "stop": "09836E367F4BA3E2",
+        "stop_name_tc": "港珠澳大橋香港口岸 (W6)"
     },
     {
         "route": "NA52",
@@ -277765,7 +277333,15 @@
         "service_type": "1",
         "seq": "34",
         "stop": "9A43D6FA1AC3D2EA",
-        "stop_name_tc": null
+        "stop_name_tc": "二號客運大樓 (落客站)"
+    },
+    {
+        "route": "NA52",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "35",
+        "stop": "AAC64BCDD5B55A86",
+        "stop_name_tc": "國泰城 (CL221)"
     },
     {
         "route": "NA52",

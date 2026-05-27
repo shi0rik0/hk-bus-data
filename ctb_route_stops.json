@@ -660,6 +660,14 @@
         "route": "A29",
         "dir": "O",
         "seq": 19,
+        "stop": "002715",
+        "stop_name_tc": "機場 (2 號客運大樓)"
+    },
+    {
+        "co": "CTB",
+        "route": "A29",
+        "dir": "O",
+        "seq": 20,
         "stop": "002672",
         "stop_name_tc": "機場博覽館, 航展道"
     },
@@ -667,7 +675,7 @@
         "co": "CTB",
         "route": "A29",
         "dir": "O",
-        "seq": 20,
+        "seq": 21,
         "stop": "003304",
         "stop_name_tc": "香港天際萬豪酒店, 航天城東路"
     },
@@ -675,7 +683,7 @@
         "co": "CTB",
         "route": "A29",
         "dir": "O",
-        "seq": 21,
+        "seq": 22,
         "stop": "003482",
         "stop_name_tc": "航天城交匯處, 航天城東路"
     },
@@ -683,7 +691,7 @@
         "co": "CTB",
         "route": "A29",
         "dir": "O",
-        "seq": 22,
+        "seq": 23,
         "stop": "003550",
         "stop_name_tc": "港珠澳大橋旅檢大樓"
     },
@@ -691,7 +699,7 @@
         "co": "CTB",
         "route": "A29",
         "dir": "O",
-        "seq": 23,
+        "seq": 24,
         "stop": "001837",
         "stop_name_tc": "機場 (地面運輸中心)"
     }

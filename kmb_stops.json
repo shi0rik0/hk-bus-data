@@ -32208,6 +32208,14 @@
         "long": "114.133181"
     },
     {
+        "stop": "9A43D6FA1AC3D2EA",
+        "name_en": "TERMINAL 2  (ALIGHTING STOP)",
+        "name_tc": "二號客運大樓 (落客站)",
+        "name_sc": "二号客运大楼 (落客站)",
+        "lat": "22.315621",
+        "long": "113.937796"
+    },
+    {
         "stop": "9A76CA1FD056C9ED",
         "name_en": "CYBERPORT 3",
         "name_tc": "數碼港三座",
