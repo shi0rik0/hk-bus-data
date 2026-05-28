@@ -1061,7 +1061,7 @@
         "service_type": "1",
         "seq": "35",
         "stop": "8B8DDE8FC3A125B8",
-        "stop_name_tc": "觀塘(裕民坊)總站 (KT920)"
+        "stop_name_tc": "觀塘(裕民坊)總站 (KT919)"
     },
     {
         "route": "101",
@@ -1261,7 +1261,7 @@
         "service_type": "2",
         "seq": "25",
         "stop": "8B8DDE8FC3A125B8",
-        "stop_name_tc": "觀塘(裕民坊)總站 (KT920)"
+        "stop_name_tc": "觀塘(裕民坊)總站 (KT919)"
     },
     {
         "route": "101",
@@ -2349,7 +2349,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "8B8DDE8FC3A125B8",
-        "stop_name_tc": "觀塘(裕民坊)總站 (KT920)"
+        "stop_name_tc": "觀塘(裕民坊)總站 (KT919)"
     },
     {
         "route": "101X",
@@ -2501,7 +2501,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "8B8DDE8FC3A125B8",
-        "stop_name_tc": "觀塘(裕民坊)總站 (KT920)"
+        "stop_name_tc": "觀塘(裕民坊)總站 (KT919)"
     },
     {
         "route": "101X",
@@ -25133,7 +25133,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "8B8DDE8FC3A125B8",
-        "stop_name_tc": "觀塘(裕民坊)總站 (KT920)"
+        "stop_name_tc": "觀塘(裕民坊)總站 (KT919)"
     },
     {
         "route": "16P",
@@ -25941,7 +25941,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "8B8DDE8FC3A125B8",
-        "stop_name_tc": "觀塘(裕民坊)總站 (KT920)"
+        "stop_name_tc": "觀塘(裕民坊)總站 (KT919)"
     },
     {
         "route": "17",
@@ -45348,7 +45348,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "34",
-        "stop": "34AD4356DEF0E0BD",
+        "stop": "0E129862160C8DAD",
         "stop_name_tc": "八鄉路總站 (大欖隧道轉車站)"
     },
     {
@@ -57876,7 +57876,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "16",
-        "stop": "131A8DDFC3837AD7",
+        "stop": "0E129862160C8DAD",
         "stop_name_tc": "八鄉路總站 (大欖隧道轉車站)"
     },
     {
@@ -113989,7 +113989,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "8B8DDE8FC3A125B8",
-        "stop_name_tc": "觀塘(裕民坊)總站 (KT920)"
+        "stop_name_tc": "觀塘(裕民坊)總站 (KT919)"
     },
     {
         "route": "3D",
@@ -114085,7 +114085,7 @@
         "service_type": "2",
         "seq": "12",
         "stop": "8B8DDE8FC3A125B8",
-        "stop_name_tc": "觀塘(裕民坊)總站 (KT920)"
+        "stop_name_tc": "觀塘(裕民坊)總站 (KT919)"
     },
     {
         "route": "3D",
@@ -114189,7 +114189,7 @@
         "service_type": "3",
         "seq": "13",
         "stop": "8B8DDE8FC3A125B8",
-        "stop_name_tc": "觀塘(裕民坊)總站 (KT920)"
+        "stop_name_tc": "觀塘(裕民坊)總站 (KT919)"
     },
     {
         "route": "3M",
@@ -267621,7 +267621,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "8B8DDE8FC3A125B8",
-        "stop_name_tc": "觀塘(裕民坊)總站 (KT920)"
+        "stop_name_tc": "觀塘(裕民坊)總站 (KT919)"
     },
     {
         "route": "N3D",
