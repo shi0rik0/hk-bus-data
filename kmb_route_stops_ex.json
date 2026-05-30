@@ -137069,7 +137069,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "B83FDB494B1E7E31",
-        "stop_name_tc": "啟德橋道 (KA108)"
+        "stop_name_tc": "啟德橋道 (KA140)"
     },
     {
         "route": "5R",
@@ -137077,7 +137077,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "600158E293C9354E",
-        "stop_name_tc": "香港兒童醫院 (KA110)"
+        "stop_name_tc": "香港兒童醫院 (KA150)"
     },
     {
         "route": "5R",
@@ -137149,7 +137149,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "1094B993AA8409D0",
-        "stop_name_tc": "承豐道 (KA540)"
+        "stop_name_tc": "承豐道 (KA560)"
     },
     {
         "route": "5R",
@@ -137157,7 +137157,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "2F9C6EBE1A9AA07E",
-        "stop_name_tc": "承景街 (KA541)"
+        "stop_name_tc": "承景街 (KA561)"
     },
     {
         "route": "5R",
@@ -137197,7 +137197,7 @@
         "service_type": "2",
         "seq": "4",
         "stop": "B83FDB494B1E7E31",
-        "stop_name_tc": "啟德橋道 (KA108)"
+        "stop_name_tc": "啟德橋道 (KA140)"
     },
     {
         "route": "5R",
@@ -137205,7 +137205,7 @@
         "service_type": "2",
         "seq": "5",
         "stop": "600158E293C9354E",
-        "stop_name_tc": "香港兒童醫院 (KA110)"
+        "stop_name_tc": "香港兒童醫院 (KA150)"
     },
     {
         "route": "5R",
@@ -137293,7 +137293,7 @@
         "service_type": "3",
         "seq": "8",
         "stop": "1094B993AA8409D0",
-        "stop_name_tc": "承豐道 (KA540)"
+        "stop_name_tc": "承豐道 (KA560)"
     },
     {
         "route": "5R",
@@ -137301,7 +137301,7 @@
         "service_type": "3",
         "seq": "9",
         "stop": "2F9C6EBE1A9AA07E",
-        "stop_name_tc": "承景街 (KA541)"
+        "stop_name_tc": "承景街 (KA561)"
     },
     {
         "route": "5R",
@@ -288133,7 +288133,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "0513406BAC1F8881",
-        "stop_name_tc": "香港兒童醫院 (KA111)"
+        "stop_name_tc": "香港兒童醫院 (KA151)"
     },
     {
         "route": "X6C",
@@ -288493,7 +288493,7 @@
         "service_type": "1",
         "seq": "23",
         "stop": "0513406BAC1F8881",
-        "stop_name_tc": "香港兒童醫院 (KA111)"
+        "stop_name_tc": "香港兒童醫院 (KA151)"
     },
     {
         "route": "X89D",

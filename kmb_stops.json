@@ -961,9 +961,9 @@
     },
     {
         "stop": "0513406BAC1F8881",
-        "name_en": "HONG KONG CHILDREN'S HOSPITAL (KA111)",
-        "name_tc": "香港兒童醫院 (KA111)",
-        "name_sc": "香港儿童医院 (KA111)",
+        "name_en": "HONG KONG CHILDREN'S HOSPITAL (KA151)",
+        "name_tc": "香港兒童醫院 (KA151)",
+        "name_sc": "香港儿童医院 (KA151)",
         "lat": "22.315795",
         "long": "114.209880"
     },
@@ -3289,9 +3289,9 @@
     },
     {
         "stop": "1094B993AA8409D0",
-        "name_en": "SHING FUNG ROAD (KA540)",
-        "name_tc": "承豐道 (KA540)",
-        "name_sc": "承丰道 (KA540)",
+        "name_en": "SHING FUNG ROAD (KA560)",
+        "name_tc": "承豐道 (KA560)",
+        "name_sc": "承丰道 (KA560)",
         "lat": "22.311992",
         "long": "114.207735"
     },
@@ -9913,9 +9913,9 @@
     },
     {
         "stop": "2F9C6EBE1A9AA07E",
-        "name_en": "SHING KING STREET (KA541)",
-        "name_tc": "承景街 (KA541)",
-        "name_sc": "承景街 (KA541)",
+        "name_en": "SHING KING STREET (KA561)",
+        "name_tc": "承景街 (KA561)",
+        "name_sc": "承景街 (KA561)",
         "lat": "22.309269",
         "long": "114.210888"
     },
@@ -20473,9 +20473,9 @@
     },
     {
         "stop": "600158E293C9354E",
-        "name_en": "HONG KONG CHILDREN'S HOSPITAL (KA110)",
-        "name_tc": "香港兒童醫院 (KA110)",
-        "name_sc": "香港儿童医院 (KA110)",
+        "name_en": "HONG KONG CHILDREN'S HOSPITAL (KA150)",
+        "name_tc": "香港兒童醫院 (KA150)",
+        "name_sc": "香港儿童医院 (KA150)",
         "lat": "22.315856",
         "long": "114.209803"
     },
@@ -38625,9 +38625,9 @@
     },
     {
         "stop": "B83FDB494B1E7E31",
-        "name_en": "KAI TAK BRIDGE ROAD (KA108)",
-        "name_tc": "啟德橋道 (KA108)",
-        "name_sc": "启德桥道 (KA108)",
+        "name_en": "KAI TAK BRIDGE ROAD (KA140)",
+        "name_tc": "啟德橋道 (KA140)",
+        "name_sc": "启德桥道 (KA140)",
         "lat": "22.315153",
         "long": "114.205891"
     },

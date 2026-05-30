@@ -3791,26 +3791,6 @@
     },
     {
         "co": "CTB",
-        "route": "NP1",
-        "orig_tc": "機場／昂坪360 - 東涌纜車站",
-        "orig_en": "Airport / Ngong Ping 360 - Tung Chung Cable Car Station",
-        "dest_tc": "香港迪士尼樂園",
-        "dest_en": "Hong Kong Disneyland",
-        "orig_sc": "机场／昂坪360 - 东涌缆车站",
-        "dest_sc": "香港迪士尼乐园"
-    },
-    {
-        "co": "CTB",
-        "route": "NP2",
-        "orig_tc": "昂坪360 - 東涌纜車站",
-        "orig_en": "Ngong Ping 360 - Tung Chung Cable Car Station",
-        "dest_tc": "機場／飛機維修區",
-        "dest_en": "Airport / Aircraft Maintenance Area",
-        "orig_sc": "昂坪360 - 东涌缆车站",
-        "dest_sc": "机场／飞机维修区"
-    },
-    {
-        "co": "CTB",
         "route": "NT3",
         "orig_tc": "租賃包車",
         "orig_en": "Chartered",
