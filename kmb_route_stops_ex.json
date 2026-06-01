@@ -178764,6 +178764,14 @@
         "bound": "O",
         "service_type": "1",
         "seq": "15",
+        "stop": "69B1F1ED4F1EC09D",
+        "stop_name_tc": "美東邨美仁樓 (WT627)"
+    },
+    {
+        "route": "75X",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "16",
         "stop": "B2B63870BF0309F5",
         "stop_name_tc": "嘉諾撒聖家學校 (KC630)"
     },
@@ -178771,7 +178779,7 @@
         "route": "75X",
         "bound": "O",
         "service_type": "1",
-        "seq": "16",
+        "seq": "17",
         "stop": "4BB3E2907D3ED1CB",
         "stop_name_tc": "衙前圍道 (KC632)"
     },
@@ -178779,7 +178787,7 @@
         "route": "75X",
         "bound": "O",
         "service_type": "1",
-        "seq": "17",
+        "seq": "18",
         "stop": "5D01986FB5E538CC",
         "stop_name_tc": "福佬村道 (KC251)"
     },
@@ -178787,7 +178795,7 @@
         "route": "75X",
         "bound": "O",
         "service_type": "1",
-        "seq": "18",
+        "seq": "19",
         "stop": "AE4D7869B643DAA2",
         "stop_name_tc": "宋皇臺道 (KC718)"
     },
@@ -178795,7 +178803,7 @@
         "route": "75X",
         "bound": "O",
         "service_type": "1",
-        "seq": "19",
+        "seq": "20",
         "stop": "AE2A53D953B640BE",
         "stop_name_tc": "馬頭角道 (KC721)"
     },
@@ -178803,7 +178811,7 @@
         "route": "75X",
         "bound": "O",
         "service_type": "1",
-        "seq": "20",
+        "seq": "21",
         "stop": "F5795A904B483F33",
         "stop_name_tc": "土瓜灣上鄉道 (KC727)"
     },
@@ -178811,7 +178819,7 @@
         "route": "75X",
         "bound": "O",
         "service_type": "1",
-        "seq": "21",
+        "seq": "22",
         "stop": "2C7AEE8C6B2BC06A",
         "stop_name_tc": "浙江街 (KC261)"
     },
@@ -178819,7 +178827,7 @@
         "route": "75X",
         "bound": "O",
         "service_type": "1",
-        "seq": "22",
+        "seq": "23",
         "stop": "0B8D095A45B05587",
         "stop_name_tc": "落山道 (KC262)"
     },
@@ -178827,9 +178835,17 @@
         "route": "75X",
         "bound": "O",
         "service_type": "1",
-        "seq": "23",
-        "stop": "60C1F7910C07C52B",
-        "stop_name_tc": "九龍城碼頭巴士總站 (KC949)"
+        "seq": "24",
+        "stop": "C3427DE8E291FFA6",
+        "stop_name_tc": "九龍城碼頭巴士總站(落客站)"
+    },
+    {
+        "route": "75X",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "25",
+        "stop": "C72D7C053FC3AEBB",
+        "stop_name_tc": "九龍城碼頭巴士總站 (KC950)"
     },
     {
         "route": "76",
