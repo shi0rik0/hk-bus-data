@@ -99580,8 +99580,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "7",
-        "stop": "CDEB07C7C0841D5B",
-        "stop_name_tc": "戴麟趾夫人診所 (TW552)"
+        "stop": "387ABDCA2814CA84",
+        "stop_name_tc": null
     },
     {
         "route": "30",
@@ -128364,8 +128364,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "2",
-        "stop": "CDEB07C7C0841D5B",
-        "stop_name_tc": "戴麟趾夫人診所 (TW552)"
+        "stop": "387ABDCA2814CA84",
+        "stop_name_tc": null
     },
     {
         "route": "49A",
@@ -169060,8 +169060,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "2",
-        "stop": "4D99E0E24AF289E9",
-        "stop_name_tc": "威爾斯親王醫院 (ST861)"
+        "stop": "1C9A67AF93C79806",
+        "stop_name_tc": "威爾斯親王醫院 (ST864)"
     },
     {
         "route": "73A",
@@ -169708,8 +169708,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "40",
-        "stop": "24E16716BBB7F2D0",
-        "stop_name_tc": "威爾斯親王醫院 (ST860)"
+        "stop": "13BC4506ABF349C7",
+        "stop_name_tc": null
     },
     {
         "route": "73A",
@@ -185996,8 +185996,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "16",
-        "stop": "24E16716BBB7F2D0",
-        "stop_name_tc": "威爾斯親王醫院 (ST860)"
+        "stop": "13BC4506ABF349C7",
+        "stop_name_tc": null
     },
     {
         "route": "80K",
@@ -189108,8 +189108,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "20",
-        "stop": "24E16716BBB7F2D0",
-        "stop_name_tc": "威爾斯親王醫院 (ST860)"
+        "stop": "13BC4506ABF349C7",
+        "stop_name_tc": null
     },
     {
         "route": "82K",
@@ -190500,8 +190500,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "5",
-        "stop": "25290A19CDC7FF1E",
-        "stop_name_tc": "戴麟趾夫人診所 (TW554)"
+        "stop": "387ABDCA2814CA84",
+        "stop_name_tc": null
     },
     {
         "route": "848",
@@ -194044,8 +194044,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "32",
-        "stop": "9001559964CBF493",
-        "stop_name_tc": "黃泥頭巴士總站 (ST893)"
+        "stop": "D75CEF6318A515DE",
+        "stop_name_tc": null
     },
     {
         "route": "86",
@@ -203220,8 +203220,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "23",
-        "stop": "24E16716BBB7F2D0",
-        "stop_name_tc": "威爾斯親王醫院 (ST860)"
+        "stop": "13BC4506ABF349C7",
+        "stop_name_tc": null
     },
     {
         "route": "89S",
@@ -203276,8 +203276,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "4",
-        "stop": "1C9A67AF93C79806",
-        "stop_name_tc": "威爾斯親王醫院 (ST864)"
+        "stop": "24E16716BBB7F2D0",
+        "stop_name_tc": "威爾斯親王醫院 (ST860)"
     },
     {
         "route": "89S",
@@ -203748,8 +203748,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "16",
-        "stop": "24E16716BBB7F2D0",
-        "stop_name_tc": "威爾斯親王醫院 (ST860)"
+        "stop": "4D99E0E24AF289E9",
+        "stop_name_tc": "威爾斯親王醫院 (ST861)"
     },
     {
         "route": "89X",
@@ -240996,16 +240996,16 @@
         "bound": "I",
         "service_type": "1",
         "seq": "21",
-        "stop": "3DA2B5ABEA985788",
-        "stop_name_tc": "黃泥頭巴士總站 (ST894)"
+        "stop": "9DB1F8ED716CD77E",
+        "stop_name_tc": null
     },
     {
         "route": "A42",
         "bound": "O",
         "service_type": "1",
         "seq": "1",
-        "stop": "3DA2B5ABEA985788",
-        "stop_name_tc": "黃泥頭巴士總站 (ST894)"
+        "stop": "9DB1F8ED716CD77E",
+        "stop_name_tc": null
     },
     {
         "route": "A42",
@@ -276012,8 +276012,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "28",
-        "stop": "3DA2B5ABEA985788",
-        "stop_name_tc": "黃泥頭巴士總站 (ST894)"
+        "stop": "9DB1F8ED716CD77E",
+        "stop_name_tc": null
     },
     {
         "route": "NA41",
@@ -276052,8 +276052,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "3",
-        "stop": "3DA2B5ABEA985788",
-        "stop_name_tc": "黃泥頭巴士總站 (ST894)"
+        "stop": "9DB1F8ED716CD77E",
+        "stop_name_tc": null
     },
     {
         "route": "NA41",
