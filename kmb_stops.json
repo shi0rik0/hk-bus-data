@@ -4000,6 +4000,14 @@
         "long": "114.273473"
     },
     {
+        "stop": "13BC4506ABF349C7",
+        "name_en": "PRINCE OF WALES HOSPITAL (ST859)",
+        "name_tc": "威爾斯親王醫院 (ST859)",
+        "name_sc": "威尔斯亲王医院 (ST859)",
+        "lat": "22.381229",
+        "long": "114.201162"
+    },
+    {
         "stop": "13C75FFFA2BB060D",
         "name_en": "HING FAT STREET",
         "name_tc": "興發街",
@@ -11984,6 +11992,14 @@
         "long": "114.140229"
     },
     {
+        "stop": "387ABDCA2814CA84",
+        "name_en": "CHUEN LUNG STREET (TW555a)",
+        "name_tc": "川龍街 (TW555a)",
+        "name_sc": "川龙街 (TW555a)",
+        "lat": "22.370068",
+        "long": "114.116204"
+    },
+    {
         "stop": "38807E0A7C24085C",
         "name_en": "HK AUX. POLICE FORCE HQ (KT107)",
         "name_tc": "香港輔助警察隊總部 (KT107)",
@@ -13014,14 +13030,6 @@
         "name_sc": "大埔工业邨 (TP873)",
         "lat": "22.457662",
         "long": "114.187770"
-    },
-    {
-        "stop": "3DA2B5ABEA985788",
-        "name_en": "WONG NAI TAU B/T (ST894)",
-        "name_tc": "黃泥頭巴士總站 (ST894)",
-        "name_sc": "黄泥头巴士总站 (ST894)",
-        "lat": "22.382384",
-        "long": "114.217715"
     },
     {
         "stop": "3DB9E473F29FCDEE",
@@ -30040,14 +30048,6 @@
         "long": "114.188848"
     },
     {
-        "stop": "9001559964CBF493",
-        "name_en": "WONG NAI TAU BUS TERMINUS (ST893)",
-        "name_tc": "黃泥頭巴士總站 (ST893)",
-        "name_sc": "黄泥头巴士总站 (ST893)",
-        "lat": "22.382285",
-        "long": "114.217717"
-    },
-    {
         "stop": "9013CD4C1D5BFF3E",
         "name_en": "GENERAL POST OFFICE",
         "name_tc": "郵政總局",
@@ -32902,6 +32902,14 @@
         "name_sc": "长沙湾站 (SS476)",
         "lat": "22.336841",
         "long": "114.154597"
+    },
+    {
+        "stop": "9DB1F8ED716CD77E",
+        "name_en": "WONG NAI TAU BUS TERMINUS (ST893)",
+        "name_tc": "黃泥頭巴士總站 (ST893)",
+        "name_sc": "黄泥头巴士总站 (ST893)",
+        "lat": "22.382285",
+        "long": "114.217717"
     },
     {
         "stop": "9DBBC71CB1578A87",
@@ -45102,6 +45110,14 @@
         "name_sc": "屯门站总站 (V6) (TM953)",
         "lat": "22.394975",
         "long": "113.973399"
+    },
+    {
+        "stop": "D75CEF6318A515DE",
+        "name_en": "WONG NAI TAU B/T (ST894)",
+        "name_tc": "黃泥頭巴士總站 (ST894)",
+        "name_sc": "黄泥头巴士总站 (ST894)",
+        "lat": "22.382285",
+        "long": "114.217717"
     },
     {
         "stop": "D77779E531F14725",
