@@ -159052,6 +159052,14 @@
         "bound": "I",
         "service_type": "1",
         "seq": "4",
+        "stop": "0C943B7308FF4DCC",
+        "stop_name_tc": "形點 II (YL390)"
+    },
+    {
+        "route": "69",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "5",
         "stop": "F63C4B8B958E9830",
         "stop_name_tc": "元朗又新街 (YL247)"
     },
@@ -159059,7 +159067,7 @@
         "route": "69",
         "bound": "I",
         "service_type": "1",
-        "seq": "5",
+        "seq": "6",
         "stop": "78AD2432201EF5EE",
         "stop_name_tc": "元朗大棠路 (YL251)"
     },
@@ -159067,7 +159075,7 @@
         "route": "69",
         "bound": "I",
         "service_type": "1",
-        "seq": "6",
+        "seq": "7",
         "stop": "D9CE618F99BAC2B6",
         "stop_name_tc": "元朗康樂路 (YL254)"
     },
@@ -159075,7 +159083,7 @@
         "route": "69",
         "bound": "I",
         "service_type": "1",
-        "seq": "7",
+        "seq": "8",
         "stop": "D8F0A3AD8E765CE0",
         "stop_name_tc": "水邊圍邨康水樓 (YL135)"
     },
@@ -159083,7 +159091,7 @@
         "route": "69",
         "bound": "I",
         "service_type": "1",
-        "seq": "8",
+        "seq": "9",
         "stop": "6723518D536070AB",
         "stop_name_tc": "朗屏邨悅屏樓 (YL142)"
     },
@@ -159091,7 +159099,7 @@
         "route": "69",
         "bound": "I",
         "service_type": "1",
-        "seq": "9",
+        "seq": "10",
         "stop": "919524B8F36AF7F1",
         "stop_name_tc": "惠州學校 (YL146)"
     },
@@ -159099,7 +159107,7 @@
         "route": "69",
         "bound": "I",
         "service_type": "1",
-        "seq": "10",
+        "seq": "11",
         "stop": "0CF8C59B80E70369",
         "stop_name_tc": "朗屏邨珠屏樓 (YL150)"
     },
@@ -159107,7 +159115,7 @@
         "route": "69",
         "bound": "I",
         "service_type": "1",
-        "seq": "11",
+        "seq": "12",
         "stop": "F05E718C02104BAC",
         "stop_name_tc": "朗屏邨總站 (YL924)"
     },
@@ -159115,7 +159123,7 @@
         "route": "69",
         "bound": "I",
         "service_type": "1",
-        "seq": "12",
+        "seq": "13",
         "stop": "C480A2E59BC05FB0",
         "stop_name_tc": "朗屏路鳳池村 (YL186)"
     },
@@ -159123,7 +159131,7 @@
         "route": "69",
         "bound": "I",
         "service_type": "1",
-        "seq": "13",
+        "seq": "14",
         "stop": "71D916F7E97D18A3",
         "stop_name_tc": "濕地公園路 (TN400)"
     },
@@ -159131,7 +159139,7 @@
         "route": "69",
         "bound": "I",
         "service_type": "1",
-        "seq": "14",
+        "seq": "15",
         "stop": "42AEF6365E78DA56",
         "stop_name_tc": "香港濕地公園 (TN402)"
     },
@@ -159139,7 +159147,7 @@
         "route": "69",
         "bound": "I",
         "service_type": "1",
-        "seq": "15",
+        "seq": "16",
         "stop": "8753A8442C2FFF53",
         "stop_name_tc": "天逸邨逸潭樓 (TN501)"
     },
@@ -159147,7 +159155,7 @@
         "route": "69",
         "bound": "I",
         "service_type": "1",
-        "seq": "16",
+        "seq": "17",
         "stop": "8D56DB404D264D5A",
         "stop_name_tc": "天富苑欣富閣 (TN503)"
     },
@@ -159155,7 +159163,7 @@
         "route": "69",
         "bound": "I",
         "service_type": "1",
-        "seq": "17",
+        "seq": "18",
         "stop": "63DF37D89C356A04",
         "stop_name_tc": "天悅邨 (TN550)"
     },
@@ -159163,7 +159171,7 @@
         "route": "69",
         "bound": "I",
         "service_type": "1",
-        "seq": "18",
+        "seq": "19",
         "stop": "1A52AD7D8F64311F",
         "stop_name_tc": "天水圍市中心 (TN943)"
     },
