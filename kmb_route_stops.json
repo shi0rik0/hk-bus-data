@@ -41692,6 +41692,41 @@
         "stop": "F36C1B3AC57D96FA"
     },
     {
+        "route": "254R",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "1",
+        "stop": "65B07713A0DDFF22"
+    },
+    {
+        "route": "254R",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "2",
+        "stop": "B930AD84BC1A8655"
+    },
+    {
+        "route": "254R",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "3",
+        "stop": "2D10E16919B5A96E"
+    },
+    {
+        "route": "254R",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "4",
+        "stop": "6A4B371546D489BF"
+    },
+    {
+        "route": "254R",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "5",
+        "stop": "65B07713A0DDFF22"
+    },
+    {
         "route": "258A",
         "bound": "O",
         "service_type": "1",
