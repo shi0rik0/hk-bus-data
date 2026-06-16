@@ -44757,7 +44757,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "E909A45B1FB3213B",
-        "stop_name_tc": "錦上路站 (YL865)"
+        "stop_name_tc": "錦上路站"
     },
     {
         "route": "251A",
@@ -45069,7 +45069,7 @@
         "service_type": "1",
         "seq": "40",
         "stop": "4EBE182141C52094",
-        "stop_name_tc": "錦上路站 (YL860)"
+        "stop_name_tc": "錦上路站"
     },
     {
         "route": "251A",
@@ -45077,7 +45077,7 @@
         "service_type": "1",
         "seq": "41",
         "stop": "E909A45B1FB3213B",
-        "stop_name_tc": "錦上路站 (YL865)"
+        "stop_name_tc": "錦上路站"
     },
     {
         "route": "251B",
@@ -45101,7 +45101,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "1E81121E54BA1E71",
-        "stop_name_tc": "錦上路站 (YL864)"
+        "stop_name_tc": "錦上路站"
     },
     {
         "route": "251B",
@@ -45333,7 +45333,7 @@
         "service_type": "1",
         "seq": "32",
         "stop": "4EBE182141C52094",
-        "stop_name_tc": "錦上路站 (YL860)"
+        "stop_name_tc": "錦上路站"
     },
     {
         "route": "251B",
@@ -45389,7 +45389,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "4EBE182141C52094",
-        "stop_name_tc": "錦上路站 (YL860)"
+        "stop_name_tc": "錦上路站"
     },
     {
         "route": "251C",
@@ -45565,7 +45565,7 @@
         "service_type": "1",
         "seq": "27",
         "stop": "E909A45B1FB3213B",
-        "stop_name_tc": "錦上路站 (YL865)"
+        "stop_name_tc": "錦上路站"
     },
     {
         "route": "251C",
@@ -45637,7 +45637,7 @@
         "service_type": "2",
         "seq": "5",
         "stop": "4EBE182141C52094",
-        "stop_name_tc": "錦上路站 (YL860)"
+        "stop_name_tc": "錦上路站"
     },
     {
         "route": "251C",
@@ -57677,7 +57677,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "EFB2FCFCD7E9950A",
-        "stop_name_tc": "錦上路站 (YL861)"
+        "stop_name_tc": "錦上路站"
     },
     {
         "route": "268",
@@ -57901,7 +57901,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "4EBE182141C52094",
-        "stop_name_tc": "錦上路站 (YL860)"
+        "stop_name_tc": "錦上路站"
     },
     {
         "route": "268",
@@ -132349,7 +132349,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "1E81121E54BA1E71",
-        "stop_name_tc": "錦上路站 (YL864)"
+        "stop_name_tc": "錦上路站"
     },
     {
         "route": "54",
@@ -132525,7 +132525,7 @@
         "service_type": "1",
         "seq": "39",
         "stop": "4EBE182141C52094",
-        "stop_name_tc": "錦上路站 (YL860)"
+        "stop_name_tc": "錦上路站"
     },
     {
         "route": "54",
@@ -149285,7 +149285,7 @@
         "service_type": "1",
         "seq": "42",
         "stop": "4EBE182141C52094",
-        "stop_name_tc": "錦上路站 (YL860)"
+        "stop_name_tc": "錦上路站"
     },
     {
         "route": "64K",
@@ -149509,7 +149509,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "E909A45B1FB3213B",
-        "stop_name_tc": "錦上路站 (YL865)"
+        "stop_name_tc": "錦上路站"
     },
     {
         "route": "64K",
@@ -150333,7 +150333,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "4EBE182141C52094",
-        "stop_name_tc": "錦上路站 (YL860)"
+        "stop_name_tc": "錦上路站"
     },
     {
         "route": "64X",
@@ -180237,7 +180237,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "1E81121E54BA1E71",
-        "stop_name_tc": "錦上路站 (YL864)"
+        "stop_name_tc": "錦上路站"
     },
     {
         "route": "77K",
@@ -180661,7 +180661,7 @@
         "service_type": "1",
         "seq": "26",
         "stop": "4EBE182141C52094",
-        "stop_name_tc": "錦上路站 (YL860)"
+        "stop_name_tc": "錦上路站"
     },
     {
         "route": "77K",
@@ -180989,7 +180989,7 @@
         "service_type": "2",
         "seq": "26",
         "stop": "4EBE182141C52094",
-        "stop_name_tc": "錦上路站 (YL860)"
+        "stop_name_tc": "錦上路站"
     },
     {
         "route": "77K",
@@ -181325,7 +181325,7 @@
         "service_type": "3",
         "seq": "26",
         "stop": "4EBE182141C52094",
-        "stop_name_tc": "錦上路站 (YL860)"
+        "stop_name_tc": "錦上路站"
     },
     {
         "route": "77K",
@@ -237221,7 +237221,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "FD27DF93530C7540",
-        "stop_name_tc": "錦上路站 (YL863)"
+        "stop_name_tc": "錦上路站"
     },
     {
         "route": "A36",
@@ -237365,7 +237365,7 @@
         "service_type": "3",
         "seq": "18",
         "stop": "FD27DF93530C7540",
-        "stop_name_tc": "錦上路站 (YL863)"
+        "stop_name_tc": "錦上路站"
     },
     {
         "route": "A36",
@@ -237373,7 +237373,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "FD27DF93530C7540",
-        "stop_name_tc": "錦上路站 (YL863)"
+        "stop_name_tc": "錦上路站"
     },
     {
         "route": "A36",
@@ -237533,7 +237533,7 @@
         "service_type": "2",
         "seq": "1",
         "stop": "FD27DF93530C7540",
-        "stop_name_tc": "錦上路站 (YL863)"
+        "stop_name_tc": "錦上路站"
     },
     {
         "route": "A36",
@@ -237701,7 +237701,7 @@
         "service_type": "3",
         "seq": "1",
         "stop": "FD27DF93530C7540",
-        "stop_name_tc": "錦上路站 (YL863)"
+        "stop_name_tc": "錦上路站"
     },
     {
         "route": "A36",
@@ -237877,7 +237877,7 @@
         "service_type": "5",
         "seq": "1",
         "stop": "FD27DF93530C7540",
-        "stop_name_tc": "錦上路站 (YL863)"
+        "stop_name_tc": "錦上路站"
     },
     {
         "route": "A36",
@@ -274877,7 +274877,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "FD27DF93530C7540",
-        "stop_name_tc": "錦上路站 (YL863)"
+        "stop_name_tc": "錦上路站"
     },
     {
         "route": "NA36",
@@ -275205,7 +275205,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "FD27DF93530C7540",
-        "stop_name_tc": "錦上路站 (YL863)"
+        "stop_name_tc": "錦上路站"
     },
     {
         "route": "NA37",
@@ -286845,7 +286845,7 @@
         "service_type": "1",
         "seq": "27",
         "stop": "FD27DF93530C7540",
-        "stop_name_tc": "錦上路站 (YL863)"
+        "stop_name_tc": "錦上路站"
     },
     {
         "route": "X40",
