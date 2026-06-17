@@ -1761,6 +1761,16 @@
     },
     {
         "co": "CTB",
+        "route": "73X",
+        "orig_tc": "數碼港",
+        "orig_en": "Cyberport",
+        "dest_tc": "黃竹坑站",
+        "dest_en": "Wong Chuk Hang Station",
+        "orig_sc": "数码港",
+        "dest_sc": "黄竹坑站"
+    },
+    {
+        "co": "CTB",
         "route": "75",
         "orig_tc": "深灣",
         "orig_en": "Sham Wan",
