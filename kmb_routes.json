@@ -4400,6 +4400,28 @@
         "dest_sc": "华明(循环线)"
     },
     {
+        "route": "273A",
+        "bound": "O",
+        "service_type": "6",
+        "orig_en": "SHEUNG SHUI (CHOI YUEN)",
+        "orig_tc": "上水(彩園)",
+        "orig_sc": "上水(彩园)",
+        "dest_en": "WAH MING (CIRCULAR)",
+        "dest_tc": "華明(循環線)",
+        "dest_sc": "华明(循环线)"
+    },
+    {
+        "route": "273A",
+        "bound": "O",
+        "service_type": "7",
+        "orig_en": "CHOI SHEK ESTATE",
+        "orig_tc": "彩石邨",
+        "orig_sc": "彩石邨",
+        "dest_en": "WAH MING (CIRCULAR)",
+        "dest_tc": "華明(循環線)",
+        "dest_sc": "华明(循环线)"
+    },
+    {
         "route": "273B",
         "bound": "O",
         "service_type": "1",
@@ -13002,6 +13024,17 @@
         "dest_sc": "香港科技大学(北)"
     },
     {
+        "route": "91R",
+        "bound": "O",
+        "service_type": "1",
+        "orig_en": "CLEAR WATER BAY",
+        "orig_tc": "清水灣",
+        "orig_sc": "清水湾",
+        "dest_en": "TSEUNG KWAN O (CHOI MING)",
+        "dest_tc": "將軍澳(彩明)",
+        "dest_sc": "将军澳(彩明)"
+    },
+    {
         "route": "91S",
         "bound": "O",
         "service_type": "1",
@@ -16514,7 +16547,7 @@
         "route": "NA36",
         "bound": "I",
         "service_type": "1",
-        "orig_en": "KAM SHEUNG ROAD STATION",
+        "orig_en": "Kam Sheung Road Station",
         "orig_tc": "錦上路站",
         "orig_sc": "锦上路站",
         "dest_en": "Cathay City",
@@ -16528,7 +16561,7 @@
         "orig_en": "Cathay City",
         "orig_tc": "國泰城",
         "orig_sc": "国泰城",
-        "dest_en": "KAM SHEUNG ROAD STATION",
+        "dest_en": "Kam Sheung Road Station",
         "dest_tc": "錦上路站",
         "dest_sc": "锦上路站"
     },
