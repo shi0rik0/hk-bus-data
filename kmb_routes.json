@@ -16547,7 +16547,7 @@
         "route": "NA36",
         "bound": "I",
         "service_type": "1",
-        "orig_en": "Kam Sheung Road Station",
+        "orig_en": "KAM SHEUNG ROAD STATION",
         "orig_tc": "錦上路站",
         "orig_sc": "锦上路站",
         "dest_en": "Cathay City",
@@ -16561,7 +16561,7 @@
         "orig_en": "Cathay City",
         "orig_tc": "國泰城",
         "orig_sc": "国泰城",
-        "dest_en": "Kam Sheung Road Station",
+        "dest_en": "KAM SHEUNG ROAD STATION",
         "dest_tc": "錦上路站",
         "dest_sc": "锦上路站"
     },

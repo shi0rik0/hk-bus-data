@@ -4008,6 +4008,14 @@
         "long": "114.201162"
     },
     {
+        "stop": "13C46D68CA99BF05",
+        "name_en": "KAM SHEUNG ROAD STATION (YL861)",
+        "name_tc": "錦上路站 (YL861)",
+        "name_sc": "锦上路站 (YL861)",
+        "lat": "22.433865",
+        "long": "114.063770"
+    },
+    {
         "stop": "13C75FFFA2BB060D",
         "name_en": "HING FAT STREET",
         "name_tc": "興發街",
@@ -6368,14 +6376,6 @@
         "long": "114.228309"
     },
     {
-        "stop": "1E81121E54BA1E71",
-        "name_en": "KAM SHEUNG ROAD STATION",
-        "name_tc": "錦上路站",
-        "name_sc": "锦上路站",
-        "lat": "22.434510",
-        "long": "114.064924"
-    },
-    {
         "stop": "1E88575F644EF7D4",
         "name_en": "WEST KOWLOON LAW COURTS BUILDING (SS675)",
         "name_tc": "西九龍法院大樓 (SS675)",
@@ -7878,6 +7878,14 @@
         "name_sc": "屯门公路转车站 (A6) (TM753)",
         "lat": "22.362528",
         "long": "114.015847"
+    },
+    {
+        "stop": "2562B3983ECD76C5",
+        "name_en": "KAM SHEUNG ROAD STATION (YL864)",
+        "name_tc": "錦上路站 (YL864)",
+        "name_sc": "锦上路站 (YL864)",
+        "lat": "22.433865",
+        "long": "114.063770"
     },
     {
         "stop": "2567DBD44B8B1328",
@@ -12840,6 +12848,14 @@
         "long": "114.166918"
     },
     {
+        "stop": "3CE63268F3DE9794",
+        "name_en": "KAM SHEUNG ROAD STATION (YL863)",
+        "name_tc": "錦上路站 (YL863)",
+        "name_sc": "锦上路站 (YL863)",
+        "lat": "22.433865",
+        "long": "114.063770"
+    },
+    {
         "stop": "3CE7B5D1EBF9C5F7",
         "name_en": "HAY CHEUK LAU (KT378)",
         "name_tc": "喜鵲樓 (KT378)",
@@ -16798,14 +16814,6 @@
         "name_sc": "清河邨总站 (ND938)",
         "lat": "22.494629",
         "long": "114.128045"
-    },
-    {
-        "stop": "4EBE182141C52094",
-        "name_en": "KAM SHEUNG ROAD STATION",
-        "name_tc": "錦上路站",
-        "name_sc": "锦上路站",
-        "lat": "22.434342",
-        "long": "114.064494"
     },
     {
         "stop": "4ECA2B50C8EF1979",
@@ -35048,6 +35056,14 @@
         "long": "114.176009"
     },
     {
+        "stop": "A7156FD2BD44D128",
+        "name_en": "KAM SHEUNG ROAD STATION (YL865)",
+        "name_tc": "錦上路站 (YL865)",
+        "name_sc": "锦上路站 (YL865)",
+        "lat": "22.433865",
+        "long": "114.063770"
+    },
+    {
         "stop": "A722DAAC99CE03D4",
         "name_en": "CHURCH OF THE ANNUNCIATION (TW221)",
         "name_tc": "聖母領報堂 (TW221)",
@@ -39016,6 +39032,14 @@
         "long": "114.188219"
     },
     {
+        "stop": "B9CB8D64781C3323",
+        "name_en": "KAM SHEUNG ROAD STATION (YL860)",
+        "name_tc": "錦上路站 (YL860)",
+        "name_sc": "锦上路站 (YL860)",
+        "lat": "22.433865",
+        "long": "114.063770"
+    },
+    {
         "stop": "B9CC4872480304AA",
         "name_en": "PAK KUNG STREET (HH245)",
         "name_tc": "北拱街 (HH245)",
@@ -40686,6 +40710,14 @@
         "name_sc": "愉田苑 (ST304)",
         "lat": "22.384059",
         "long": "114.201988"
+    },
+    {
+        "stop": "C1FA7F4BEE80A723",
+        "name_en": "KAM SHEUNG ROAD STATION (YL864a)",
+        "name_tc": "錦上路站 (YL864a)",
+        "name_sc": "锦上路站 (YL864a)",
+        "lat": "22.433865",
+        "long": "114.063770"
     },
     {
         "stop": "C1FC4F003C9031B3",
@@ -44390,6 +44422,14 @@
         "name_sc": "秀雅道游乐场 (KT285)",
         "lat": "22.320222",
         "long": "114.228251"
+    },
+    {
+        "stop": "D4027BBC82CDBA61",
+        "name_en": "KAM SHEUNG ROAD STATION (YL862)",
+        "name_tc": "錦上路站 (YL862)",
+        "name_sc": "锦上路站 (YL862)",
+        "lat": "22.433865",
+        "long": "114.063770"
     },
     {
         "stop": "D40C730A1930BABB",
@@ -48736,14 +48776,6 @@
         "long": "114.175669"
     },
     {
-        "stop": "E909A45B1FB3213B",
-        "name_en": "KAM SHEUNG ROAD STATION",
-        "name_tc": "錦上路站",
-        "name_sc": "锦上路站",
-        "lat": "22.434510",
-        "long": "114.064924"
-    },
-    {
         "stop": "E919C0B67C6ACF3F",
         "name_en": "CHEUNG WING ROAD (KW481)",
         "name_tc": "昌榮路 (KW481)",
@@ -50126,14 +50158,6 @@
         "name_sc": "沙田马场巴士总站 (FT905)",
         "lat": "22.397717",
         "long": "114.201926"
-    },
-    {
-        "stop": "EFB2FCFCD7E9950A",
-        "name_en": "KAM SHEUNG ROAD STATION",
-        "name_tc": "錦上路站",
-        "name_sc": "锦上路站",
-        "lat": "22.434342",
-        "long": "114.064494"
     },
     {
         "stop": "EFB9F85F98113CB0",
@@ -53262,14 +53286,6 @@
         "name_sc": "雀桥街 (SS156)",
         "lat": "22.331104",
         "long": "114.175303"
-    },
-    {
-        "stop": "FD27DF93530C7540",
-        "name_en": "KAM SHEUNG ROAD STATION",
-        "name_tc": "錦上路站",
-        "name_sc": "锦上路站",
-        "lat": "22.434360",
-        "long": "114.065081"
     },
     {
         "stop": "FD3A4BA146CE57ED",
