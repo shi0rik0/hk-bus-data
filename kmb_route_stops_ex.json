@@ -96864,6 +96864,14 @@
         "stop_name_tc": "香港WM酒店 (SK440)"
     },
     {
+        "route": "299X",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "25",
+        "stop": "7547D90C500629AF",
+        "stop_name_tc": "西貢總站 (SK905)"
+    },
+    {
         "route": "29M",
         "bound": "O",
         "service_type": "1",
@@ -117057,6 +117065,14 @@
     },
     {
         "route": "40E",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "21",
+        "stop": "B493CF03406C0B5E",
+        "stop_name_tc": "泥涌 (SK971)"
+    },
+    {
+        "route": "40E",
         "bound": "O",
         "service_type": "1",
         "seq": "1",
@@ -117198,6 +117214,14 @@
         "seq": "18",
         "stop": "4E3FEA4E559A5D16",
         "stop_name_tc": "新葵興花園 (KW458)"
+    },
+    {
+        "route": "40E",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "19",
+        "stop": "DA17B01A4A61A358",
+        "stop_name_tc": "葵芳邨 (KW462)"
     },
     {
         "route": "40P",
