@@ -3461,16 +3461,6 @@
     },
     {
         "co": "CTB",
-        "route": "N116",
-        "orig_tc": "北角",
-        "orig_en": "North Point",
-        "dest_tc": "慈雲山 (中)",
-        "dest_en": "Tsz Wan Shan (Central)",
-        "orig_sc": "北角",
-        "dest_sc": "慈云山 (中)"
-    },
-    {
-        "co": "CTB",
         "route": "N118",
         "orig_tc": "小西灣 (藍灣半島)",
         "orig_en": "Siu Sai Wan (Island Resort)",
