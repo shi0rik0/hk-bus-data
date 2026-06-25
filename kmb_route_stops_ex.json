@@ -214101,7 +214101,7 @@
         "service_type": "1",
         "seq": "25",
         "stop": "B4EBE05A59376062",
-        "stop_name_tc": "政府總部 (D1) (CW120)"
+        "stop_name_tc": "政府總部 (CW120)"
     },
     {
         "route": "936",
@@ -214565,7 +214565,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "B4EBE05A59376062",
-        "stop_name_tc": "政府總部 (D1) (CW120)"
+        "stop_name_tc": "政府總部 (CW120)"
     },
     {
         "route": "936A",
@@ -226149,7 +226149,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "B4EBE05A59376062",
-        "stop_name_tc": "政府總部 (D1) (CW120)"
+        "stop_name_tc": "政府總部 (CW120)"
     },
     {
         "route": "978",
@@ -226461,7 +226461,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "B4EBE05A59376062",
-        "stop_name_tc": "政府總部 (D1) (CW120)"
+        "stop_name_tc": "政府總部 (CW120)"
     },
     {
         "route": "978A",
@@ -226629,7 +226629,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "B4EBE05A59376062",
-        "stop_name_tc": "政府總部 (D1) (CW120)"
+        "stop_name_tc": "政府總部 (CW120)"
     },
     {
         "route": "978B",
@@ -265220,8 +265220,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "24",
-        "stop": "45C2286729E1475B",
-        "stop_name_tc": "裕民坊 (KT556)"
+        "stop": "42B4DEF46BB30887",
+        "stop_name_tc": null
     },
     {
         "route": "N293",
@@ -270932,8 +270932,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "22",
-        "stop": "CCD89A67612BB17B",
-        "stop_name_tc": "裕民坊 (KT555)"
+        "stop": "42B4DEF46BB30887",
+        "stop_name_tc": null
     },
     {
         "route": "N619",
@@ -278941,7 +278941,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "B4EBE05A59376062",
-        "stop_name_tc": "政府總部 (D1) (CW120)"
+        "stop_name_tc": "政府總部 (CW120)"
     },
     {
         "route": "P960",
@@ -279173,7 +279173,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "B4EBE05A59376062",
-        "stop_name_tc": "政府總部 (D1) (CW120)"
+        "stop_name_tc": "政府總部 (CW120)"
     },
     {
         "route": "P968",
@@ -279309,7 +279309,7 @@
         "service_type": "2",
         "seq": "14",
         "stop": "B4EBE05A59376062",
-        "stop_name_tc": "政府總部 (D1) (CW120)"
+        "stop_name_tc": "政府總部 (CW120)"
     },
     {
         "route": "P968",
