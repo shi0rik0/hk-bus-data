@@ -1058,14 +1058,6 @@
     {
         "route": "101",
         "bound": "I",
-        "service_type": "1",
-        "seq": "35",
-        "stop": "8B8DDE8FC3A125B8",
-        "stop_name_tc": "觀塘(裕民坊)總站 (KT919)"
-    },
-    {
-        "route": "101",
-        "bound": "I",
         "service_type": "2",
         "seq": "1",
         "stop": "1FBF3DA8236B5F45",
@@ -1254,14 +1246,6 @@
         "seq": "24",
         "stop": "3F9AE21DC3A540B9",
         "stop_name_tc": "牛頭角站 (KT338)"
-    },
-    {
-        "route": "101",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "25",
-        "stop": "8B8DDE8FC3A125B8",
-        "stop_name_tc": "觀塘(裕民坊)總站 (KT919)"
     },
     {
         "route": "101",
@@ -2494,14 +2478,6 @@
         "seq": "18",
         "stop": "750ADEB14D018CF7",
         "stop_name_tc": "玉蓮臺 (KT380)"
-    },
-    {
-        "route": "101X",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "19",
-        "stop": "8B8DDE8FC3A125B8",
-        "stop_name_tc": "觀塘(裕民坊)總站 (KT919)"
     },
     {
         "route": "101X",
@@ -18956,8 +18932,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "11",
-        "stop": "45C2286729E1475B",
-        "stop_name_tc": "裕民坊 (KT556)"
+        "stop": "04BED071257A601F",
+        "stop_name_tc": null
     },
     {
         "route": "13D",
@@ -19204,8 +19180,8 @@
         "bound": "O",
         "service_type": "2",
         "seq": "11",
-        "stop": "45C2286729E1475B",
-        "stop_name_tc": "裕民坊 (KT556)"
+        "stop": "04BED071257A601F",
+        "stop_name_tc": null
     },
     {
         "route": "13D",
@@ -19572,8 +19548,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "23",
-        "stop": "45C2286729E1475B",
-        "stop_name_tc": "裕民坊 (KT556)"
+        "stop": "42B4DEF46BB30887",
+        "stop_name_tc": null
     },
     {
         "route": "13M",
@@ -19692,8 +19668,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "11",
-        "stop": "B7773ED8D2FC08E5",
-        "stop_name_tc": "裕民坊 (KT557)"
+        "stop": "04BED071257A601F",
+        "stop_name_tc": null
     },
     {
         "route": "13P",
@@ -21564,8 +21540,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "10",
-        "stop": "45C2286729E1475B",
-        "stop_name_tc": "裕民坊 (KT556)"
+        "stop": "9BABE6579EB241FA",
+        "stop_name_tc": null
     },
     {
         "route": "14B",
@@ -25124,16 +25100,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "14",
-        "stop": "45C2286729E1475B",
-        "stop_name_tc": "裕民坊 (KT556)"
-    },
-    {
-        "route": "16M",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "15",
-        "stop": "8B8DDE8FC3A125B8",
-        "stop_name_tc": "觀塘(裕民坊)總站 (KT919)"
+        "stop": "9BABE6579EB241FA",
+        "stop_name_tc": null
     },
     {
         "route": "16P",
@@ -25934,14 +25902,6 @@
         "seq": "21",
         "stop": "9627881F2180C5AB",
         "stop_name_tc": "創紀之城 (KT342)"
-    },
-    {
-        "route": "17",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "22",
-        "stop": "8B8DDE8FC3A125B8",
-        "stop_name_tc": "觀塘(裕民坊)總站 (KT919)"
     },
     {
         "route": "17",
@@ -30652,8 +30612,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "8",
-        "stop": "B7773ED8D2FC08E5",
-        "stop_name_tc": "裕民坊 (KT557)"
+        "stop": "04BED071257A601F",
+        "stop_name_tc": null
     },
     {
         "route": "1A",
@@ -41412,8 +41372,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "20",
-        "stop": "CCD89A67612BB17B",
-        "stop_name_tc": "裕民坊 (KT555)"
+        "stop": "42B4DEF46BB30887",
+        "stop_name_tc": null
     },
     {
         "route": "23M",
@@ -41620,8 +41580,8 @@
         "bound": "O",
         "service_type": "2",
         "seq": "20",
-        "stop": "CCD89A67612BB17B",
-        "stop_name_tc": "裕民坊 (KT555)"
+        "stop": "42B4DEF46BB30887",
+        "stop_name_tc": null
     },
     {
         "route": "23M",
@@ -89180,8 +89140,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "13",
-        "stop": "45C2286729E1475B",
-        "stop_name_tc": "裕民坊 (KT556)"
+        "stop": "42B4DEF46BB30887",
+        "stop_name_tc": null
     },
     {
         "route": "28B",
@@ -114506,14 +114466,6 @@
     {
         "route": "3D",
         "bound": "O",
-        "service_type": "1",
-        "seq": "15",
-        "stop": "8B8DDE8FC3A125B8",
-        "stop_name_tc": "觀塘(裕民坊)總站 (KT919)"
-    },
-    {
-        "route": "3D",
-        "bound": "O",
         "service_type": "2",
         "seq": "1",
         "stop": "839276ED5C3F4F4C",
@@ -114598,14 +114550,6 @@
         "seq": "11",
         "stop": "F59AE1D39E8B2E29",
         "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT343)"
-    },
-    {
-        "route": "3D",
-        "bound": "O",
-        "service_type": "2",
-        "seq": "12",
-        "stop": "8B8DDE8FC3A125B8",
-        "stop_name_tc": "觀塘(裕民坊)總站 (KT919)"
     },
     {
         "route": "3D",
@@ -114702,14 +114646,6 @@
         "seq": "12",
         "stop": "F59AE1D39E8B2E29",
         "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT343)"
-    },
-    {
-        "route": "3D",
-        "bound": "O",
-        "service_type": "3",
-        "seq": "13",
-        "stop": "8B8DDE8FC3A125B8",
-        "stop_name_tc": "觀塘(裕民坊)總站 (KT919)"
     },
     {
         "route": "3M",
@@ -141252,8 +141188,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "34",
-        "stop": "45C2286729E1475B",
-        "stop_name_tc": "裕民坊 (KT556)"
+        "stop": "9BABE6579EB241FA",
+        "stop_name_tc": null
     },
     {
         "route": "606",
@@ -142180,8 +142116,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "15",
-        "stop": "45C2286729E1475B",
-        "stop_name_tc": "裕民坊 (KT556)"
+        "stop": "9BABE6579EB241FA",
+        "stop_name_tc": null
     },
     {
         "route": "606A",
@@ -142636,8 +142572,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "19",
-        "stop": "45C2286729E1475B",
-        "stop_name_tc": "裕民坊 (KT556)"
+        "stop": "9BABE6579EB241FA",
+        "stop_name_tc": null
     },
     {
         "route": "606X",
@@ -145084,8 +145020,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "21",
-        "stop": "CCD89A67612BB17B",
-        "stop_name_tc": "裕民坊 (KT555)"
+        "stop": "42B4DEF46BB30887",
+        "stop_name_tc": null
     },
     {
         "route": "619",
@@ -149204,8 +149140,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "11",
-        "stop": "45C2286729E1475B",
-        "stop_name_tc": "裕民坊 (KT556)"
+        "stop": "9BABE6579EB241FA",
+        "stop_name_tc": null
     },
     {
         "route": "641",
@@ -201364,8 +201300,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "4",
-        "stop": "45C2286729E1475B",
-        "stop_name_tc": "裕民坊 (KT556)"
+        "stop": "8E9B6657E38443D6",
+        "stop_name_tc": null
     },
     {
         "route": "89",
@@ -204204,8 +204140,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "5",
-        "stop": "45C2286729E1475B",
-        "stop_name_tc": "裕民坊 (KT556)"
+        "stop": "3221A3FF8CA898FF",
+        "stop_name_tc": "觀塘駿業里 (KT631)"
     },
     {
         "route": "89X",
@@ -219052,8 +218988,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "12",
-        "stop": "45C2286729E1475B",
-        "stop_name_tc": "裕民坊 (KT556)"
+        "stop": "42B4DEF46BB30887",
+        "stop_name_tc": null
     },
     {
         "route": "95M",
@@ -268646,14 +268582,6 @@
         "seq": "14",
         "stop": "F59AE1D39E8B2E29",
         "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT343)"
-    },
-    {
-        "route": "N3D",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "15",
-        "stop": "8B8DDE8FC3A125B8",
-        "stop_name_tc": "觀塘(裕民坊)總站 (KT919)"
     },
     {
         "route": "N3D",
