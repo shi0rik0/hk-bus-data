@@ -14248,6 +14248,14 @@
         "long": "114.128045"
     },
     {
+        "stop": "42B4DEF46BB30887",
+        "name_en": "MUT WAH STREET, YUE MAN SQUARE (KT551)",
+        "name_tc": "物華街, 裕民坊 (KT551)",
+        "name_sc": "物华街, 裕民坊 (KT551)",
+        "lat": "22.315043",
+        "long": "114.225114"
+    },
+    {
         "stop": "42B5697C975C3953",
         "name_en": "CHAI KEK (TP150)",
         "name_tc": "寨乪 (TP150)",
@@ -19582,6 +19590,14 @@
         "name_sc": "乙明邨街 (ST690)",
         "lat": "22.375743",
         "long": "114.190888"
+    },
+    {
+        "stop": "5C08F9922E452CF8",
+        "name_en": "AIRPORT (GTC) BUS TERMINUS",
+        "name_tc": "機場(地面運輸中心)巴士總站",
+        "name_sc": "机场(地面运输中心)巴士总站",
+        "lat": "22.313992",
+        "long": "113.937621"
     },
     {
         "stop": "5C0A536D9D2B20B2",
