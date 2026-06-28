@@ -18757,7 +18757,7 @@
         "service_type": "1",
         "seq": "24",
         "stop": "49229D04FCA51B61",
-        "stop_name_tc": "物華街 (KT250)"
+        "stop_name_tc": "物華街, 裕民坊 (KT250)"
     },
     {
         "route": "13D",
@@ -18933,7 +18933,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "04BED071257A601F",
-        "stop_name_tc": null
+        "stop_name_tc": "觀塘(裕民坊)總站 (KT924)"
     },
     {
         "route": "13D",
@@ -19181,7 +19181,7 @@
         "service_type": "2",
         "seq": "11",
         "stop": "04BED071257A601F",
-        "stop_name_tc": null
+        "stop_name_tc": "觀塘(裕民坊)總站 (KT924)"
     },
     {
         "route": "13D",
@@ -19669,7 +19669,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "04BED071257A601F",
-        "stop_name_tc": null
+        "stop_name_tc": "觀塘(裕民坊)總站 (KT924)"
     },
     {
         "route": "13P",
@@ -21541,7 +21541,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "9BABE6579EB241FA",
-        "stop_name_tc": null
+        "stop_name_tc": "協和街, 裕民坊 (KT254)"
     },
     {
         "route": "14B",
@@ -21613,7 +21613,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "49229D04FCA51B61",
-        "stop_name_tc": "物華街 (KT250)"
+        "stop_name_tc": "物華街, 裕民坊 (KT250)"
     },
     {
         "route": "14B",
@@ -21621,7 +21621,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "B5CB3F0D26BBBD03",
-        "stop_name_tc": "觀塘同仁街 (KT538)"
+        "stop_name_tc": "協和街, 裕民坊 (KT538)"
     },
     {
         "route": "14B",
@@ -21741,7 +21741,7 @@
         "service_type": "3",
         "seq": "7",
         "stop": "49229D04FCA51B61",
-        "stop_name_tc": "物華街 (KT250)"
+        "stop_name_tc": "物華街, 裕民坊 (KT250)"
     },
     {
         "route": "14B",
@@ -21749,7 +21749,7 @@
         "service_type": "3",
         "seq": "8",
         "stop": "B5CB3F0D26BBBD03",
-        "stop_name_tc": "觀塘同仁街 (KT538)"
+        "stop_name_tc": "協和街, 裕民坊 (KT538)"
     },
     {
         "route": "14B",
@@ -25101,7 +25101,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "9BABE6579EB241FA",
-        "stop_name_tc": null
+        "stop_name_tc": "協和街, 裕民坊 (KT254)"
     },
     {
         "route": "16P",
@@ -30613,7 +30613,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "04BED071257A601F",
-        "stop_name_tc": null
+        "stop_name_tc": "觀塘(裕民坊)總站 (KT924)"
     },
     {
         "route": "1A",
@@ -33301,7 +33301,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "B5CB3F0D26BBBD03",
-        "stop_name_tc": "觀塘同仁街 (KT538)"
+        "stop_name_tc": "協和街, 裕民坊 (KT538)"
     },
     {
         "route": "213B",
@@ -37781,7 +37781,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "B5CB3F0D26BBBD03",
-        "stop_name_tc": "觀塘同仁街 (KT538)"
+        "stop_name_tc": "協和街, 裕民坊 (KT538)"
     },
     {
         "route": "23",
@@ -37877,7 +37877,7 @@
         "service_type": "2",
         "seq": "10",
         "stop": "B5CB3F0D26BBBD03",
-        "stop_name_tc": "觀塘同仁街 (KT538)"
+        "stop_name_tc": "協和街, 裕民坊 (KT538)"
     },
     {
         "route": "23",
@@ -41269,7 +41269,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "49229D04FCA51B61",
-        "stop_name_tc": "物華街 (KT250)"
+        "stop_name_tc": "物華街, 裕民坊 (KT250)"
     },
     {
         "route": "23M",
@@ -41477,7 +41477,7 @@
         "service_type": "2",
         "seq": "7",
         "stop": "49229D04FCA51B61",
-        "stop_name_tc": "物華街 (KT250)"
+        "stop_name_tc": "物華街, 裕民坊 (KT250)"
     },
     {
         "route": "23M",
@@ -64565,7 +64565,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "B5CB3F0D26BBBD03",
-        "stop_name_tc": "觀塘同仁街 (KT538)"
+        "stop_name_tc": "協和街, 裕民坊 (KT538)"
     },
     {
         "route": "26M",
@@ -88789,7 +88789,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "49229D04FCA51B61",
-        "stop_name_tc": "物華街 (KT250)"
+        "stop_name_tc": "物華街, 裕民坊 (KT250)"
     },
     {
         "route": "28B",
@@ -88949,7 +88949,7 @@
         "service_type": "2",
         "seq": "9",
         "stop": "49229D04FCA51B61",
-        "stop_name_tc": "物華街 (KT250)"
+        "stop_name_tc": "物華街, 裕民坊 (KT250)"
     },
     {
         "route": "28B",
@@ -138949,7 +138949,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "B5CB3F0D26BBBD03",
-        "stop_name_tc": "觀塘同仁街 (KT538)"
+        "stop_name_tc": "協和街, 裕民坊 (KT538)"
     },
     {
         "route": "601",
@@ -139397,7 +139397,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "B5CB3F0D26BBBD03",
-        "stop_name_tc": "觀塘同仁街 (KT538)"
+        "stop_name_tc": "協和街, 裕民坊 (KT538)"
     },
     {
         "route": "601P",
@@ -139501,7 +139501,7 @@
         "service_type": "2",
         "seq": "4",
         "stop": "B5CB3F0D26BBBD03",
-        "stop_name_tc": "觀塘同仁街 (KT538)"
+        "stop_name_tc": "協和街, 裕民坊 (KT538)"
     },
     {
         "route": "601P",
@@ -141197,7 +141197,7 @@
         "service_type": "1",
         "seq": "34",
         "stop": "9BABE6579EB241FA",
-        "stop_name_tc": null
+        "stop_name_tc": "協和街, 裕民坊 (KT254)"
     },
     {
         "route": "606",
@@ -142125,7 +142125,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "9BABE6579EB241FA",
-        "stop_name_tc": null
+        "stop_name_tc": "協和街, 裕民坊 (KT254)"
     },
     {
         "route": "606A",
@@ -142581,7 +142581,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "9BABE6579EB241FA",
-        "stop_name_tc": null
+        "stop_name_tc": "協和街, 裕民坊 (KT254)"
     },
     {
         "route": "606X",
@@ -149149,7 +149149,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "9BABE6579EB241FA",
-        "stop_name_tc": null
+        "stop_name_tc": "協和街, 裕民坊 (KT254)"
     },
     {
         "route": "641",
@@ -201309,7 +201309,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "8E9B6657E38443D6",
-        "stop_name_tc": null
+        "stop_name_tc": "觀塘(裕民坊)總站 (KT920)"
     },
     {
         "route": "89",
@@ -201597,7 +201597,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "49229D04FCA51B61",
-        "stop_name_tc": "物華街 (KT250)"
+        "stop_name_tc": "物華街, 裕民坊 (KT250)"
     },
     {
         "route": "89",
@@ -204429,7 +204429,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "49229D04FCA51B61",
-        "stop_name_tc": "物華街 (KT250)"
+        "stop_name_tc": "物華街, 裕民坊 (KT250)"
     },
     {
         "route": "89X",
@@ -214877,7 +214877,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "B5CB3F0D26BBBD03",
-        "stop_name_tc": "觀塘同仁街 (KT538)"
+        "stop_name_tc": "協和街, 裕民坊 (KT538)"
     },
     {
         "route": "93A",
@@ -264765,7 +264765,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "49229D04FCA51B61",
-        "stop_name_tc": "物華街 (KT250)"
+        "stop_name_tc": "物華街, 裕民坊 (KT250)"
     },
     {
         "route": "N293",
