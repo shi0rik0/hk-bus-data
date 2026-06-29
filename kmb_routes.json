@@ -39,7 +39,7 @@
         "orig_en": "KENNEDY TOWN",
         "orig_tc": "堅尼地城",
         "orig_sc": "坚尼地城",
-        "dest_en": "YUE MAN SQUARE",
+        "dest_en": "KWUN TONG (YUE MAN SQUARE)",
         "dest_tc": "觀塘(裕民坊)",
         "dest_sc": "观塘(裕民坊)"
     },
@@ -50,7 +50,7 @@
         "orig_en": "DES VOEUX RD CENTRAL",
         "orig_tc": "德輔道中",
         "orig_sc": "德辅道中",
-        "dest_en": "YUE MAN SQUARE",
+        "dest_en": "KWUN TONG (YUE MAN SQUARE)",
         "dest_tc": "觀塘(裕民坊)",
         "dest_sc": "观塘(裕民坊)"
     },
@@ -116,7 +116,7 @@
         "orig_en": "KENNEDY TOWN",
         "orig_tc": "堅尼地城",
         "orig_sc": "坚尼地城",
-        "dest_en": "KWUN TONG(YUE MAN SQUARE)",
+        "dest_en": "KWUN TONG (YUE MAN SQUARE)",
         "dest_tc": "觀塘(裕民坊)",
         "dest_sc": "观塘(裕民坊)"
     },
@@ -17229,9 +17229,9 @@
         "route": "S64P",
         "bound": "O",
         "service_type": "1",
-        "orig_en": "YING TUNG ESTATE",
-        "orig_tc": "迎東邨",
-        "orig_sc": "迎东邨",
+        "orig_en": "Cheung Tung Estate",
+        "orig_tc": "翔東邨",
+        "orig_sc": "翔东邨",
         "dest_en": "AIRPORT (CARGO AND CATERING AREA)",
         "dest_tc": "機場(貨運及航膳區)",
         "dest_sc": "机场(货运及航膳区)"
@@ -17240,9 +17240,9 @@
         "route": "S64P",
         "bound": "O",
         "service_type": "2",
-        "orig_en": "YING TUNG ESTATE",
-        "orig_tc": "迎東邨",
-        "orig_sc": "迎东邨",
+        "orig_en": "Cheung Tung Estate",
+        "orig_tc": "翔東邨",
+        "orig_sc": "翔东邨",
         "dest_en": "AIRPORT (CARGO AND CATERING AREA)",
         "dest_tc": "機場(貨運及航膳區)",
         "dest_sc": "机场(货运及航膳区)"

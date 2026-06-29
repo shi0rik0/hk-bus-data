@@ -7040,6 +7040,14 @@
         "long": "114.031081"
     },
     {
+        "stop": "21D795EEFB43255D",
+        "name_en": "AIRPORT (GTC) BUS TERMINUS",
+        "name_tc": "機場(地面運輸中心)巴士總站",
+        "name_sc": "机场(地面运输中心)巴士总站",
+        "lat": "22.313992",
+        "long": "113.937621"
+    },
+    {
         "stop": "21DA1E33BF580B96",
         "name_en": "YOHO MIX (YL244)",
         "name_tc": "元點 (YL244)",
@@ -22952,6 +22960,14 @@
         "long": "114.199302"
     },
     {
+        "stop": "6B689FA123E9E1A6",
+        "name_en": "AIRPORT (GTC) BUS TERMINUS",
+        "name_tc": "機場(地面運輸中心)巴士總站",
+        "name_sc": "机场(地面运输中心)巴士总站",
+        "lat": "22.313992",
+        "long": "113.937621"
+    },
+    {
         "stop": "6B775855F6FB16D9",
         "name_en": "NAI CHUNG (SK301)",
         "name_tc": "泥涌 (SK301)",
@@ -25030,14 +25046,6 @@
         "name_sc": "坪石邨 (WT306)",
         "lat": "22.333234",
         "long": "114.207131"
-    },
-    {
-        "stop": "75A16CAB149EF577",
-        "name_en": "AIRPORT (GTC) BUS TERMINUS (CL910)",
-        "name_tc": "機場(地面運輸中心)巴士總站",
-        "name_sc": "机场(地面运输中心)巴士总站",
-        "lat": "22.312564",
-        "long": "113.937669"
     },
     {
         "stop": "75AA9801B870CCE1",
@@ -27742,6 +27750,14 @@
         "name_sc": "深水埗黄竹街 (SS493)",
         "lat": "22.328895",
         "long": "114.164877"
+    },
+    {
+        "stop": "833FF184B120B167",
+        "name_en": "Cheung Tung Estate",
+        "name_tc": "翔東邨",
+        "name_sc": "翔东邨",
+        "lat": "22.297265",
+        "long": "113.952209"
     },
     {
         "stop": "834CC2324AAFB567",
@@ -30934,6 +30950,14 @@
         "name_sc": "摩士公园泳池 (WT719)",
         "lat": "22.341570",
         "long": "114.191604"
+    },
+    {
+        "stop": "93DD7DA7A8D5BFE7",
+        "name_en": "AIRPORT (GTC) BUS TERMINUS",
+        "name_tc": "機場(地面運輸中心)巴士總站",
+        "name_sc": "机场(地面运输中心)巴士总站",
+        "lat": "22.313827",
+        "long": "113.937491"
     },
     {
         "stop": "93E0033436973DA7",
@@ -35976,6 +36000,14 @@
         "long": "114.195094"
     },
     {
+        "stop": "AA858B587381ED16",
+        "name_en": "AIRPORT (GTC) BUS TERMINUS",
+        "name_tc": "機場(地面運輸中心)巴士總站",
+        "name_sc": "机场(地面运输中心)巴士总站",
+        "lat": "22.313992",
+        "long": "113.937621"
+    },
+    {
         "stop": "AA92A3F2775F4F69",
         "name_en": "TIN SHUI WAI TOWN CENTRE (TN945)",
         "name_tc": "天水圍市中心 (TN945)",
@@ -36998,14 +37030,6 @@
         "name_sc": "田园阁 (ST222)",
         "lat": "22.379794",
         "long": "114.195798"
-    },
-    {
-        "stop": "AFCA97F6E77FA669",
-        "name_en": "AIRPORT (GTC) BUS TERMINUS (CL907)",
-        "name_tc": "機場(地面運輸中心)巴士總站",
-        "name_sc": "机场(地面运输中心)巴士总站",
-        "lat": "22.314039",
-        "long": "113.937235"
     },
     {
         "stop": "AFD29CB1A4F71AB9",
@@ -43480,14 +43504,6 @@
         "long": "114.228240"
     },
     {
-        "stop": "CFDE62B6C9EDE114",
-        "name_en": "AIRPORT (GTC) BUS TERMINUS (CL906)",
-        "name_tc": "機場(地面運輸中心)巴士總站",
-        "name_sc": "机场(地面运输中心)巴士总站",
-        "lat": "22.314039",
-        "long": "113.937235"
-    },
-    {
         "stop": "CFE2F36860FB2F12",
         "name_en": "MA TSEUK LENG (ND537)",
         "name_tc": "麻雀嶺 (ND537)",
@@ -44014,6 +44030,14 @@
         "name_sc": "慈民邨 (WT517)",
         "lat": "22.348542",
         "long": "114.202610"
+    },
+    {
+        "stop": "D23DB06513E5F202",
+        "name_en": "AIRPORT (GTC) BUS TERMINUS",
+        "name_tc": "機場(地面運輸中心)巴士總站",
+        "name_sc": "机场(地面运输中心)巴士总站",
+        "lat": "22.313827",
+        "long": "113.937491"
     },
     {
         "stop": "D2425B7147B58E1D",
