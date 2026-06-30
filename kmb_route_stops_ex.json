@@ -47640,46 +47640,6 @@
         "stop_name_tc": "藍田站 (落客站) (LT900)"
     },
     {
-        "route": "254R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "1",
-        "stop": "65B07713A0DDFF22",
-        "stop_name_tc": "元朗 形點 (YL400)"
-    },
-    {
-        "route": "254R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "2",
-        "stop": "B930AD84BC1A8655",
-        "stop_name_tc": "八鄉石崗橋 (YL642)"
-    },
-    {
-        "route": "254R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "3",
-        "stop": "2D10E16919B5A96E",
-        "stop_name_tc": "八鄉石崗橋 (YL727)"
-    },
-    {
-        "route": "254R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "4",
-        "stop": "6A4B371546D489BF",
-        "stop_name_tc": "形點 I (YL242)"
-    },
-    {
-        "route": "254R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "5",
-        "stop": "65B07713A0DDFF22",
-        "stop_name_tc": "元朗 形點 (YL400)"
-    },
-    {
         "route": "258A",
         "bound": "O",
         "service_type": "1",
@@ -253229,7 +253189,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "F8446E87636522E1",
-        "stop_name_tc": "華明轉車站(C1) (ND990)"
+        "stop_name_tc": "華明轉車站 (ND990)"
     },
     {
         "route": "E43",
@@ -253237,7 +253197,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "F8446E87636522E1",
-        "stop_name_tc": "華明轉車站(C1) (ND990)"
+        "stop_name_tc": "華明轉車站 (ND990)"
     },
     {
         "route": "E43",
@@ -270092,14 +270052,6 @@
         "bound": "O",
         "service_type": "1",
         "seq": "13",
-        "stop": "F15B04D268DD5C8F",
-        "stop_name_tc": "上水站 (ND478)"
-    },
-    {
-        "route": "N42A",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "14",
         "stop": "3FBF0DB2F9B1524A",
         "stop_name_tc": "上水站 (ND480)"
     },
@@ -270107,7 +270059,7 @@
         "route": "N42A",
         "bound": "O",
         "service_type": "1",
-        "seq": "15",
+        "seq": "14",
         "stop": "D9F731B6F7B5B4EB",
         "stop_name_tc": "上水轉車站 - 上水總站 (ND901)"
     },
@@ -270115,7 +270067,7 @@
         "route": "N42A",
         "bound": "O",
         "service_type": "1",
-        "seq": "16",
+        "seq": "15",
         "stop": "638851B5496C1765",
         "stop_name_tc": "大埔公眾泳池 (TP246)"
     },
@@ -270123,7 +270075,7 @@
         "route": "N42A",
         "bound": "O",
         "service_type": "1",
-        "seq": "17",
+        "seq": "16",
         "stop": "9394A27497B9958D",
         "stop_name_tc": "海寶花園 (TP250)"
     },
@@ -270131,7 +270083,7 @@
         "route": "N42A",
         "bound": "O",
         "service_type": "1",
-        "seq": "18",
+        "seq": "17",
         "stop": "89240EC55B8818BC",
         "stop_name_tc": "大埔中心總站 (TP914)"
     },
@@ -270139,7 +270091,7 @@
         "route": "N42A",
         "bound": "O",
         "service_type": "1",
-        "seq": "19",
+        "seq": "18",
         "stop": "B83F3546C41A5114",
         "stop_name_tc": "大埔文娛中心 (TP538)"
     },
@@ -270147,7 +270099,7 @@
         "route": "N42A",
         "bound": "O",
         "service_type": "1",
-        "seq": "20",
+        "seq": "19",
         "stop": "CE6B0D24BEBCD3F5",
         "stop_name_tc": "大埔廣福道 (TP563)"
     },
@@ -270155,7 +270107,7 @@
         "route": "N42A",
         "bound": "O",
         "service_type": "1",
-        "seq": "21",
+        "seq": "20",
         "stop": "87F2B57F6457C6CA",
         "stop_name_tc": "運頭角里 (TP570)"
     },
@@ -270163,7 +270115,7 @@
         "route": "N42A",
         "bound": "O",
         "service_type": "1",
-        "seq": "22",
+        "seq": "21",
         "stop": "EE212E6FD5124813",
         "stop_name_tc": "廣福邨 (TP577)"
     },
@@ -270171,7 +270123,7 @@
         "route": "N42A",
         "bound": "O",
         "service_type": "1",
-        "seq": "23",
+        "seq": "22",
         "stop": "DBB6D5D26FF3D909",
         "stop_name_tc": "青嶼幹線轉車站 (TW602)"
     },
@@ -270179,7 +270131,7 @@
         "route": "N42A",
         "bound": "O",
         "service_type": "1",
-        "seq": "24",
+        "seq": "23",
         "stop": "A99B6BB7F1628A08",
         "stop_name_tc": "暢連路 (CL300)"
     },
@@ -270187,7 +270139,7 @@
         "route": "N42A",
         "bound": "O",
         "service_type": "1",
-        "seq": "25",
+        "seq": "24",
         "stop": "D454783409D8D7FF",
         "stop_name_tc": "暢達路(一號停車場) (CL301)"
     },
@@ -270195,7 +270147,7 @@
         "route": "N42A",
         "bound": "O",
         "service_type": "1",
-        "seq": "26",
+        "seq": "25",
         "stop": "20AEF0F80E06013D",
         "stop_name_tc": "暢達路(一號客運大樓)(北)"
     },
@@ -270203,7 +270155,7 @@
         "route": "N42A",
         "bound": "O",
         "service_type": "1",
-        "seq": "27",
+        "seq": "26",
         "stop": "9DCBD34740D95B23",
         "stop_name_tc": "富豪機場酒店 (CL310)"
     },
@@ -270211,7 +270163,7 @@
         "route": "N42A",
         "bound": "O",
         "service_type": "1",
-        "seq": "28",
+        "seq": "27",
         "stop": "31418DC3F19236BF",
         "stop_name_tc": "國泰城 (CL341)"
     },
@@ -270219,7 +270171,7 @@
         "route": "N42A",
         "bound": "O",
         "service_type": "1",
-        "seq": "29",
+        "seq": "28",
         "stop": "5BD8484E82721AF9",
         "stop_name_tc": "機場警署 (CL350)"
     },
@@ -270227,7 +270179,7 @@
         "route": "N42A",
         "bound": "O",
         "service_type": "1",
-        "seq": "30",
+        "seq": "29",
         "stop": "F2DFF3A02940D925",
         "stop_name_tc": "駿運南路 (CL370)"
     },
@@ -270235,7 +270187,7 @@
         "route": "N42A",
         "bound": "O",
         "service_type": "1",
-        "seq": "31",
+        "seq": "30",
         "stop": "F00B9766890B9FD5",
         "stop_name_tc": "機場空運中心 (CL371)"
     },
@@ -270243,7 +270195,7 @@
         "route": "N42A",
         "bound": "O",
         "service_type": "1",
-        "seq": "32",
+        "seq": "31",
         "stop": "A14D4AF63BFAB364",
         "stop_name_tc": "亞洲空運中心 (CL240)"
     },
@@ -270251,7 +270203,7 @@
         "route": "N42A",
         "bound": "O",
         "service_type": "1",
-        "seq": "33",
+        "seq": "32",
         "stop": "1159654D863462B1",
         "stop_name_tc": "赤鱲角南路 (CL380)"
     },
@@ -270259,7 +270211,7 @@
         "route": "N42A",
         "bound": "O",
         "service_type": "1",
-        "seq": "34",
+        "seq": "33",
         "stop": "AD0673A137BB972F",
         "stop_name_tc": "東涌纜車站 (TC411)"
     },
@@ -270267,7 +270219,7 @@
         "route": "N42A",
         "bound": "O",
         "service_type": "1",
-        "seq": "35",
+        "seq": "34",
         "stop": "E2BB3825832556CA",
         "stop_name_tc": "東涌站巴士總站 (TC970)"
     },
