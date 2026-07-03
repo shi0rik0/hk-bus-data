@@ -232973,7 +232973,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "D3564BFD1FE1DB08",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL913)"
     },
     {
         "route": "A30",
@@ -233149,7 +233149,7 @@
         "service_type": "2",
         "seq": "1",
         "stop": "D3564BFD1FE1DB08",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL913)"
     },
     {
         "route": "A30",
@@ -233476,8 +233476,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "18",
-        "stop": "F29174C943F627B2",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop": "21466046C6868AA7",
+        "stop_name_tc": "機場地面運輸中心 (CL900)"
     },
     {
         "route": "A30",
@@ -233636,8 +233636,8 @@
         "bound": "O",
         "service_type": "2",
         "seq": "20",
-        "stop": "F29174C943F627B2",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop": "21466046C6868AA7",
+        "stop_name_tc": "機場地面運輸中心 (CL900)"
     },
     {
         "route": "A31",
@@ -233645,7 +233645,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "7CB61EFB024D9025",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL914)"
     },
     {
         "route": "A31",
@@ -233765,7 +233765,7 @@
         "service_type": "2",
         "seq": "1",
         "stop": "7CB61EFB024D9025",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL914)"
     },
     {
         "route": "A31",
@@ -234021,7 +234021,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "21466046C6868AA7",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL900)"
     },
     {
         "route": "A31",
@@ -234029,7 +234029,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "7CB61EFB024D9025",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL914)"
     },
     {
         "route": "A31",
@@ -234173,7 +234173,7 @@
         "service_type": "3",
         "seq": "18",
         "stop": "21466046C6868AA7",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL900)"
     },
     {
         "route": "A31",
@@ -234181,7 +234181,7 @@
         "service_type": "3",
         "seq": "19",
         "stop": "7CB61EFB024D9025",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL914)"
     },
     {
         "route": "A32",
@@ -234189,7 +234189,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "D3564BFD1FE1DB08",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL913)"
     },
     {
         "route": "A32",
@@ -234341,7 +234341,7 @@
         "service_type": "2",
         "seq": "1",
         "stop": "D3564BFD1FE1DB08",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL913)"
     },
     {
         "route": "A32",
@@ -234693,7 +234693,7 @@
         "service_type": "1",
         "seq": "24",
         "stop": "21466046C6868AA7",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL900)"
     },
     {
         "route": "A33",
@@ -234701,7 +234701,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "0713774B2DB5E4D3",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL903)"
     },
     {
         "route": "A33",
@@ -234965,7 +234965,7 @@
         "service_type": "3",
         "seq": "1",
         "stop": "0713774B2DB5E4D3",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL903)"
     },
     {
         "route": "A33",
@@ -235517,7 +235517,7 @@
         "service_type": "1",
         "seq": "35",
         "stop": "21466046C6868AA7",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL900)"
     },
     {
         "route": "A33",
@@ -235813,7 +235813,7 @@
         "service_type": "2",
         "seq": "37",
         "stop": "21466046C6868AA7",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL900)"
     },
     {
         "route": "A33X",
@@ -235821,7 +235821,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "86218AD69549D7B2",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL904)"
     },
     {
         "route": "A33X",
@@ -235949,7 +235949,7 @@
         "service_type": "2",
         "seq": "2",
         "stop": "86218AD69549D7B2",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL904)"
     },
     {
         "route": "A33X",
@@ -236197,7 +236197,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "21466046C6868AA7",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL900)"
     },
     {
         "route": "A33X",
@@ -236349,7 +236349,7 @@
         "service_type": "2",
         "seq": "19",
         "stop": "21466046C6868AA7",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL900)"
     },
     {
         "route": "A34",
@@ -236357,7 +236357,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "1C7EDE6D51378E58",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL905)"
     },
     {
         "route": "A34",
@@ -236589,7 +236589,7 @@
         "service_type": "2",
         "seq": "1",
         "stop": "1C7EDE6D51378E58",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL905)"
     },
     {
         "route": "A34",
@@ -237093,7 +237093,7 @@
         "service_type": "1",
         "seq": "33",
         "stop": "21466046C6868AA7",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL900)"
     },
     {
         "route": "A34",
@@ -237277,7 +237277,7 @@
         "service_type": "2",
         "seq": "23",
         "stop": "21466046C6868AA7",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL900)"
     },
     {
         "route": "A34",
@@ -237557,7 +237557,7 @@
         "service_type": "3",
         "seq": "35",
         "stop": "21466046C6868AA7",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL900)"
     },
     {
         "route": "A34",
@@ -237757,7 +237757,7 @@
         "service_type": "4",
         "seq": "25",
         "stop": "21466046C6868AA7",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL900)"
     },
     {
         "route": "A36",
@@ -237765,7 +237765,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "B8BAF95E90D6E16E",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL902)"
     },
     {
         "route": "A36",
@@ -237901,7 +237901,7 @@
         "service_type": "3",
         "seq": "1",
         "stop": "B8BAF95E90D6E16E",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL902)"
     },
     {
         "route": "A36",
@@ -238197,7 +238197,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "21466046C6868AA7",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL900)"
     },
     {
         "route": "A36",
@@ -238365,7 +238365,7 @@
         "service_type": "2",
         "seq": "21",
         "stop": "21466046C6868AA7",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL900)"
     },
     {
         "route": "A36",
@@ -238541,7 +238541,7 @@
         "service_type": "3",
         "seq": "22",
         "stop": "21466046C6868AA7",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL900)"
     },
     {
         "route": "A36",
@@ -238709,7 +238709,7 @@
         "service_type": "5",
         "seq": "21",
         "stop": "21466046C6868AA7",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL900)"
     },
     {
         "route": "A37",
@@ -238717,7 +238717,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "93A608CBFD9D5128",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL901)"
     },
     {
         "route": "A37",
@@ -238853,7 +238853,7 @@
         "service_type": "2",
         "seq": "1",
         "stop": "93A608CBFD9D5128",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL901)"
     },
     {
         "route": "A37",
@@ -239165,7 +239165,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "21466046C6868AA7",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL900)"
     },
     {
         "route": "A37",
@@ -239349,7 +239349,7 @@
         "service_type": "2",
         "seq": "23",
         "stop": "21466046C6868AA7",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL900)"
     },
     {
         "route": "A38",
@@ -239357,7 +239357,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "7CB61EFB024D9025",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL914)"
     },
     {
         "route": "A38",
@@ -239781,7 +239781,7 @@
         "service_type": "1",
         "seq": "27",
         "stop": "21466046C6868AA7",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL900)"
     },
     {
         "route": "A38",
@@ -239789,7 +239789,7 @@
         "service_type": "1",
         "seq": "28",
         "stop": "7CB61EFB024D9025",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL914)"
     },
     {
         "route": "A41",
@@ -239797,7 +239797,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "5E1FA939586B3FD1",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL915)"
     },
     {
         "route": "A41",
@@ -239965,7 +239965,7 @@
         "service_type": "3",
         "seq": "1",
         "stop": "5E1FA939586B3FD1",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL915)"
     },
     {
         "route": "A41",
@@ -240317,7 +240317,7 @@
         "service_type": "1",
         "seq": "23",
         "stop": "21466046C6868AA7",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL900)"
     },
     {
         "route": "A41",
@@ -240517,7 +240517,7 @@
         "service_type": "3",
         "seq": "25",
         "stop": "21466046C6868AA7",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL900)"
     },
     {
         "route": "A41P",
@@ -240525,7 +240525,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "D23DB06513E5F202",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL917)"
     },
     {
         "route": "A41P",
@@ -240701,7 +240701,7 @@
         "service_type": "2",
         "seq": "1",
         "stop": "D23DB06513E5F202",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL917)"
     },
     {
         "route": "A41P",
@@ -240893,7 +240893,7 @@
         "service_type": "3",
         "seq": "1",
         "stop": "D23DB06513E5F202",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL917)"
     },
     {
         "route": "A41P",
@@ -241317,7 +241317,7 @@
         "service_type": "1",
         "seq": "24",
         "stop": "21466046C6868AA7",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL900)"
     },
     {
         "route": "A41P",
@@ -241549,7 +241549,7 @@
         "service_type": "3",
         "seq": "29",
         "stop": "21466046C6868AA7",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL900)"
     },
     {
         "route": "A42",
@@ -241557,7 +241557,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "23F3D6C7BDAD87EB",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL916)"
     },
     {
         "route": "A42",
@@ -241909,7 +241909,7 @@
         "service_type": "1",
         "seq": "24",
         "stop": "21466046C6868AA7",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL900)"
     },
     {
         "route": "A43",
@@ -241917,7 +241917,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "93DD7DA7A8D5BFE7",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL918)"
     },
     {
         "route": "A43",
@@ -242245,7 +242245,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "21466046C6868AA7",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL900)"
     },
     {
         "route": "A43",
@@ -242429,7 +242429,7 @@
         "service_type": "2",
         "seq": "23",
         "stop": "21466046C6868AA7",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL900)"
     },
     {
         "route": "A43P",
@@ -242437,7 +242437,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "93DD7DA7A8D5BFE7",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL918)"
     },
     {
         "route": "A43P",
@@ -242541,7 +242541,7 @@
         "service_type": "2",
         "seq": "1",
         "stop": "93DD7DA7A8D5BFE7",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL918)"
     },
     {
         "route": "A43P",
@@ -242661,7 +242661,7 @@
         "service_type": "3",
         "seq": "1",
         "stop": "93DD7DA7A8D5BFE7",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL918)"
     },
     {
         "route": "A43P",
@@ -242941,7 +242941,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "21466046C6868AA7",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL900)"
     },
     {
         "route": "A43P",
@@ -243101,7 +243101,7 @@
         "service_type": "3",
         "seq": "20",
         "stop": "21466046C6868AA7",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL900)"
     },
     {
         "route": "A46",
@@ -243109,7 +243109,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "23F3D6C7BDAD87EB",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL916)"
     },
     {
         "route": "A46",
@@ -243381,7 +243381,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "21466046C6868AA7",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL900)"
     },
     {
         "route": "A47X",
@@ -243389,7 +243389,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "6B689FA123E9E1A6",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL919)"
     },
     {
         "route": "A47X",
@@ -243493,7 +243493,7 @@
         "service_type": "2",
         "seq": "1",
         "stop": "6B689FA123E9E1A6",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL919)"
     },
     {
         "route": "A47X",
@@ -243661,7 +243661,7 @@
         "service_type": "3",
         "seq": "1",
         "stop": "6B689FA123E9E1A6",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL919)"
     },
     {
         "route": "A47X",
@@ -243837,7 +243837,7 @@
         "service_type": "4",
         "seq": "1",
         "stop": "6B689FA123E9E1A6",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL919)"
     },
     {
         "route": "A47X",
@@ -244101,7 +244101,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "21466046C6868AA7",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL900)"
     },
     {
         "route": "A47X",
@@ -244325,7 +244325,7 @@
         "service_type": "2",
         "seq": "28",
         "stop": "21466046C6868AA7",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL900)"
     },
     {
         "route": "A47X",
@@ -244557,7 +244557,7 @@
         "service_type": "3",
         "seq": "29",
         "stop": "21466046C6868AA7",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL900)"
     },
     {
         "route": "B1",
@@ -245733,7 +245733,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "F29174C943F627B2",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL911)"
     },
     {
         "route": "E32",
@@ -245909,7 +245909,7 @@
         "service_type": "2",
         "seq": "2",
         "stop": "F29174C943F627B2",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL911)"
     },
     {
         "route": "E32",
@@ -246981,7 +246981,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "5C08F9922E452CF8",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL922)"
     },
     {
         "route": "E33",
@@ -247285,7 +247285,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "21466046C6868AA7",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL900)"
     },
     {
         "route": "E33",
@@ -247293,7 +247293,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "5C08F9922E452CF8",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL922)"
     },
     {
         "route": "E33P",
@@ -247301,7 +247301,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "5C08F9922E452CF8",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL922)"
     },
     {
         "route": "E33P",
@@ -247765,7 +247765,7 @@
         "service_type": "1",
         "seq": "30",
         "stop": "21466046C6868AA7",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL900)"
     },
     {
         "route": "E33P",
@@ -247773,7 +247773,7 @@
         "service_type": "1",
         "seq": "31",
         "stop": "5C08F9922E452CF8",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL922)"
     },
     {
         "route": "E33P",
@@ -247949,7 +247949,7 @@
         "service_type": "2",
         "seq": "22",
         "stop": "21466046C6868AA7",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL900)"
     },
     {
         "route": "E33P",
@@ -247957,7 +247957,7 @@
         "service_type": "2",
         "seq": "23",
         "stop": "5C08F9922E452CF8",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL922)"
     },
     {
         "route": "E36",
@@ -247965,7 +247965,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "21D795EEFB43255D",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL921)"
     },
     {
         "route": "E36",
@@ -248365,7 +248365,7 @@
         "service_type": "1",
         "seq": "25",
         "stop": "21466046C6868AA7",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL900)"
     },
     {
         "route": "E36",
@@ -248373,7 +248373,7 @@
         "service_type": "1",
         "seq": "26",
         "stop": "23C2E672FA95C807",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL912)"
     },
     {
         "route": "E36A",
@@ -249421,7 +249421,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "F29174C943F627B2",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL911)"
     },
     {
         "route": "E36P",
@@ -250013,7 +250013,7 @@
         "service_type": "1",
         "seq": "38",
         "stop": "21466046C6868AA7",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL900)"
     },
     {
         "route": "E36P",
@@ -250029,7 +250029,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "21D795EEFB43255D",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL921)"
     },
     {
         "route": "E36S",
@@ -250309,7 +250309,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "21466046C6868AA7",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL900)"
     },
     {
         "route": "E36S",
@@ -250317,7 +250317,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "23C2E672FA95C807",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL912)"
     },
     {
         "route": "E37",
@@ -250325,7 +250325,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "AA858B587381ED16",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL920)"
     },
     {
         "route": "E37",
@@ -250725,7 +250725,7 @@
         "service_type": "1",
         "seq": "25",
         "stop": "21466046C6868AA7",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL900)"
     },
     {
         "route": "E37",
@@ -250733,7 +250733,7 @@
         "service_type": "1",
         "seq": "26",
         "stop": "D3564BFD1FE1DB08",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL913)"
     },
     {
         "route": "E37",
@@ -250893,7 +250893,7 @@
         "service_type": "2",
         "seq": "20",
         "stop": "21466046C6868AA7",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL900)"
     },
     {
         "route": "E37",
@@ -250901,7 +250901,7 @@
         "service_type": "2",
         "seq": "21",
         "stop": "D3564BFD1FE1DB08",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL913)"
     },
     {
         "route": "E37",
@@ -251037,7 +251037,7 @@
         "service_type": "3",
         "seq": "17",
         "stop": "21466046C6868AA7",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL900)"
     },
     {
         "route": "E37",
@@ -251045,7 +251045,7 @@
         "service_type": "3",
         "seq": "18",
         "stop": "D3564BFD1FE1DB08",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL913)"
     },
     {
         "route": "E37C",
@@ -251637,7 +251637,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "F29174C943F627B2",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL911)"
     },
     {
         "route": "E41",
@@ -251957,7 +251957,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "23C2E672FA95C807",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL912)"
     },
     {
         "route": "E42",
@@ -252325,7 +252325,7 @@
         "service_type": "1",
         "seq": "23",
         "stop": "21466046C6868AA7",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL900)"
     },
     {
         "route": "E42",
@@ -252333,7 +252333,7 @@
         "service_type": "1",
         "seq": "24",
         "stop": "F29174C943F627B2",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL911)"
     },
     {
         "route": "E42C",
@@ -266325,7 +266325,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "1C7EDE6D51378E58",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL905)"
     },
     {
         "route": "N31",
@@ -266821,7 +266821,7 @@
         "service_type": "1",
         "seq": "31",
         "stop": "21466046C6868AA7",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL900)"
     },
     {
         "route": "N36",
@@ -269117,7 +269117,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "23F3D6C7BDAD87EB",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL916)"
     },
     {
         "route": "N42",
@@ -269757,7 +269757,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "93DD7DA7A8D5BFE7",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL918)"
     },
     {
         "route": "N42A",
@@ -271269,7 +271269,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "1C7EDE6D51378E58",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL905)"
     },
     {
         "route": "N64",
@@ -274093,7 +274093,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "D3564BFD1FE1DB08",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL913)"
     },
     {
         "route": "NA30",
@@ -274429,7 +274429,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "7CB61EFB024D9025",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL914)"
     },
     {
         "route": "NA31",
@@ -274693,7 +274693,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "D3564BFD1FE1DB08",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL913)"
     },
     {
         "route": "NA32",
@@ -275309,7 +275309,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "86218AD69549D7B2",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL904)"
     },
     {
         "route": "NA33",
@@ -275725,7 +275725,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "B8BAF95E90D6E16E",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL902)"
     },
     {
         "route": "NA36",
@@ -275885,7 +275885,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "93A608CBFD9D5128",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL901)"
     },
     {
         "route": "NA37",
@@ -276357,7 +276357,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "D23DB06513E5F202",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL917)"
     },
     {
         "route": "NA40",
@@ -276797,7 +276797,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "5E1FA939586B3FD1",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL915)"
     },
     {
         "route": "NA41",
@@ -277317,7 +277317,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "93DD7DA7A8D5BFE7",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL918)"
     },
     {
         "route": "NA43",
@@ -277685,7 +277685,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "6B689FA123E9E1A6",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL919)"
     },
     {
         "route": "NA47",
@@ -278365,7 +278365,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "0713774B2DB5E4D3",
-        "stop_name_tc": "機場(地面運輸中心)巴士總站"
+        "stop_name_tc": "機場地面運輸中心 (CL903)"
     },
     {
         "route": "NA52",
