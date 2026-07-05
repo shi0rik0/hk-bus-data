@@ -340,14 +340,6 @@
         "route": "A29",
         "dir": "I",
         "seq": 3,
-        "stop": "003304",
-        "stop_name_tc": "香港天際萬豪酒店, 航天城東路"
-    },
-    {
-        "co": "CTB",
-        "route": "A29",
-        "dir": "I",
-        "seq": 4,
         "stop": "003482",
         "stop_name_tc": "航天城交匯處, 航天城東路"
     },
@@ -355,7 +347,7 @@
         "co": "CTB",
         "route": "A29",
         "dir": "I",
-        "seq": 5,
+        "seq": 4,
         "stop": "003540",
         "stop_name_tc": "港珠澳大橋香港口岸"
     },
@@ -363,7 +355,7 @@
         "co": "CTB",
         "route": "A29",
         "dir": "I",
-        "seq": 6,
+        "seq": 5,
         "stop": "001854",
         "stop_name_tc": "青嶼幹線巴士轉乘站"
     },
@@ -371,7 +363,7 @@
         "co": "CTB",
         "route": "A29",
         "dir": "I",
-        "seq": 7,
+        "seq": 6,
         "stop": "001766",
         "stop_name_tc": "畢架山花園, 龍翔道"
     },
@@ -379,7 +371,7 @@
         "co": "CTB",
         "route": "A29",
         "dir": "I",
-        "seq": 8,
+        "seq": 7,
         "stop": "001767",
         "stop_name_tc": "豐力樓, 龍翔道"
     },
@@ -387,7 +379,7 @@
         "co": "CTB",
         "route": "A29",
         "dir": "I",
-        "seq": 9,
+        "seq": 8,
         "stop": "001734",
         "stop_name_tc": "天馬苑, 龍翔道"
     },
@@ -395,7 +387,7 @@
         "co": "CTB",
         "route": "A29",
         "dir": "I",
-        "seq": 10,
+        "seq": 9,
         "stop": "001523",
         "stop_name_tc": "黃大仙站, 龍翔道"
     },
@@ -403,7 +395,7 @@
         "co": "CTB",
         "route": "A29",
         "dir": "I",
-        "seq": 11,
+        "seq": 10,
         "stop": "001688",
         "stop_name_tc": "沙田坳道, 龍翔道"
     },
@@ -411,7 +403,7 @@
         "co": "CTB",
         "route": "A29",
         "dir": "I",
-        "seq": 12,
+        "seq": 11,
         "stop": "001696",
         "stop_name_tc": "鑽石山站, 大磡道"
     },
@@ -419,7 +411,7 @@
         "co": "CTB",
         "route": "A29",
         "dir": "I",
-        "seq": 13,
+        "seq": 12,
         "stop": "001697",
         "stop_name_tc": "牛池灣村, 龍翔道"
     },
@@ -427,7 +419,7 @@
         "co": "CTB",
         "route": "A29",
         "dir": "I",
-        "seq": 14,
+        "seq": 13,
         "stop": "001505",
         "stop_name_tc": "九龍灣站, 觀塘道"
     },
@@ -435,7 +427,7 @@
         "co": "CTB",
         "route": "A29",
         "dir": "I",
-        "seq": 15,
+        "seq": 14,
         "stop": "001506",
         "stop_name_tc": "牛頭角下邨, 觀塘道"
     },
@@ -443,7 +435,7 @@
         "co": "CTB",
         "route": "A29",
         "dir": "I",
-        "seq": 16,
+        "seq": 15,
         "stop": "001507",
         "stop_name_tc": "定富街, 觀塘道"
     },
@@ -451,7 +443,7 @@
         "co": "CTB",
         "route": "A29",
         "dir": "I",
-        "seq": 17,
+        "seq": 16,
         "stop": "001508",
         "stop_name_tc": "牛頭角站, 觀塘道"
     },
@@ -459,7 +451,7 @@
         "co": "CTB",
         "route": "A29",
         "dir": "I",
-        "seq": 18,
+        "seq": 17,
         "stop": "001509",
         "stop_name_tc": "觀塘市中心, 觀塘道"
     },
@@ -467,7 +459,7 @@
         "co": "CTB",
         "route": "A29",
         "dir": "I",
-        "seq": 19,
+        "seq": 18,
         "stop": "001670",
         "stop_name_tc": "觀塘警署, 將軍澳道"
     },
@@ -475,7 +467,7 @@
         "co": "CTB",
         "route": "A29",
         "dir": "I",
-        "seq": 20,
+        "seq": 19,
         "stop": "003595",
         "stop_name_tc": "將軍澳隧道巴士轉乘站"
     },
@@ -483,7 +475,7 @@
         "co": "CTB",
         "route": "A29",
         "dir": "I",
-        "seq": 21,
+        "seq": 20,
         "stop": "001752",
         "stop_name_tc": "新寶城, 銀澳路"
     },
@@ -491,7 +483,7 @@
         "co": "CTB",
         "route": "A29",
         "dir": "I",
-        "seq": 22,
+        "seq": 21,
         "stop": "001736",
         "stop_name_tc": "南豐廣場, 培成路"
     },
@@ -499,7 +491,7 @@
         "co": "CTB",
         "route": "A29",
         "dir": "I",
-        "seq": 23,
+        "seq": 22,
         "stop": "001737",
         "stop_name_tc": "厚德邨, 寶寧路"
     },
@@ -507,7 +499,7 @@
         "co": "CTB",
         "route": "A29",
         "dir": "I",
-        "seq": 24,
+        "seq": 23,
         "stop": "001753",
         "stop_name_tc": "景林邨, 寶琳北路"
     },
@@ -515,7 +507,7 @@
         "co": "CTB",
         "route": "A29",
         "dir": "I",
-        "seq": 25,
+        "seq": 24,
         "stop": "001700",
         "stop_name_tc": "寶琳站"
     },
@@ -684,14 +676,6 @@
         "route": "A29",
         "dir": "O",
         "seq": 21,
-        "stop": "003304",
-        "stop_name_tc": "香港天際萬豪酒店, 航天城東路"
-    },
-    {
-        "co": "CTB",
-        "route": "A29",
-        "dir": "O",
-        "seq": 22,
         "stop": "003482",
         "stop_name_tc": "航天城交匯處, 航天城東路"
     },
@@ -699,7 +683,7 @@
         "co": "CTB",
         "route": "A29",
         "dir": "O",
-        "seq": 23,
+        "seq": 22,
         "stop": "003550",
         "stop_name_tc": "港珠澳大橋旅檢大樓"
     },
@@ -707,7 +691,7 @@
         "co": "CTB",
         "route": "A29",
         "dir": "O",
-        "seq": 24,
+        "seq": 23,
         "stop": "001837",
         "stop_name_tc": "機場 (地面運輸中心)"
     }
