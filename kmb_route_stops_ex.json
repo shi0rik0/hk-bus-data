@@ -100017,6 +100017,182 @@
     },
     {
         "route": "30",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "1",
+        "stop": "B93E7E45080413AC",
+        "stop_name_tc": "麗瑤巴士總站 (KW992)"
+    },
+    {
+        "route": "30",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "2",
+        "stop": "6A24FDC5EF64C20A",
+        "stop_name_tc": "麗瑤邨榮瑤樓 (KW420)"
+    },
+    {
+        "route": "30",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "3",
+        "stop": "7F405508C257705F",
+        "stop_name_tc": "下葵涌分科診所 (KW423)"
+    },
+    {
+        "route": "30",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "4",
+        "stop": "7EA4C557505395EF",
+        "stop_name_tc": "葵芳站巴士總站 (KW900)"
+    },
+    {
+        "route": "30",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "5",
+        "stop": "EE0ACB2B516C305E",
+        "stop_name_tc": "葵芳智芳街 (KW144)"
+    },
+    {
+        "route": "30",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "6",
+        "stop": "45A499CD3132E90A",
+        "stop_name_tc": "林士德體育館 (KW146)"
+    },
+    {
+        "route": "30",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "7",
+        "stop": "4E12586C551A48D3",
+        "stop_name_tc": "葵興站 (KW930)"
+    },
+    {
+        "route": "30",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "8",
+        "stop": "F7005C63821245C3",
+        "stop_name_tc": "葵興路葵興邨 (KW153)"
+    },
+    {
+        "route": "30",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "9",
+        "stop": "ABA04608DBB7C351",
+        "stop_name_tc": "光輝圍 (KW111)"
+    },
+    {
+        "route": "30",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "10",
+        "stop": "40A8EA2850B0979B",
+        "stop_name_tc": "葵涌健全街 (KW129)"
+    },
+    {
+        "route": "30",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "11",
+        "stop": "B943DBEE65B0B18F",
+        "stop_name_tc": "大窩口轉車站-大窩口站 (KW131)"
+    },
+    {
+        "route": "30",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "12",
+        "stop": "F09516C266163337",
+        "stop_name_tc": "悅來酒店 (TW280)"
+    },
+    {
+        "route": "30",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "13",
+        "stop": "E5F3EF7B050DA88F",
+        "stop_name_tc": "荃灣鹹田街 (TW260)"
+    },
+    {
+        "route": "30",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "14",
+        "stop": "8CD6C24187EC56A6",
+        "stop_name_tc": "戴麟趾夫人診所 (TW264)"
+    },
+    {
+        "route": "30",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "15",
+        "stop": "D711AFA9658D51E9",
+        "stop_name_tc": "荃灣富華街 (TW142)"
+    },
+    {
+        "route": "30",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "16",
+        "stop": "3F545756160D7BEA",
+        "stop_name_tc": "福來邨永康樓 (TW151)"
+    },
+    {
+        "route": "30",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "17",
+        "stop": "50C0A622B149C308",
+        "stop_name_tc": "美環街 (TW210)"
+    },
+    {
+        "route": "30",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "18",
+        "stop": "A73739F6D37090EE",
+        "stop_name_tc": "荃景花園 (TW212)"
+    },
+    {
+        "route": "30",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "19",
+        "stop": "07814531B88CD829",
+        "stop_name_tc": "荃灣中心 (TW214)"
+    },
+    {
+        "route": "30",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "20",
+        "stop": "A722DAAC99CE03D4",
+        "stop_name_tc": "聖母領報堂 (TW221)"
+    },
+    {
+        "route": "30",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "21",
+        "stop": "5FD70A34C55CE590",
+        "stop_name_tc": "荃灣港安醫院 (TW217)"
+    },
+    {
+        "route": "30",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "22",
+        "stop": "756141FB7A6EA349",
+        "stop_name_tc": "荃威花園總站 (TW932)"
+    },
+    {
+        "route": "30",
         "bound": "O",
         "service_type": "1",
         "seq": "1",

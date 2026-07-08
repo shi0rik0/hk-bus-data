@@ -3280,6 +3280,14 @@
         "long": "114.260993"
     },
     {
+        "stop": "107E0EAD1E4D0CF5",
+        "name_en": "CHAU TAU TSUEN",
+        "name_tc": "洲頭村",
+        "name_sc": "洲头村",
+        "lat": "22.506385",
+        "long": "114.079977"
+    },
+    {
         "stop": "10860B611840CF22",
         "name_en": "TSUEN KING CIRCUIT FLYOVER (TW377)",
         "name_tc": "荃景圍天橋 (TW377)",
@@ -12800,6 +12808,14 @@
         "long": "114.140963"
     },
     {
+        "stop": "3CB02010AEC23403",
+        "name_en": "LOK MA CHAU STATION ‧ FUTIAN PORT",
+        "name_tc": "落馬洲站 ‧ 福田口岸",
+        "name_sc": "落马洲站 · 福田口岸",
+        "lat": "22.515450",
+        "long": "114.066417"
+    },
+    {
         "stop": "3CB360C4C4AA1098",
         "name_en": "BANYAN GARDEN (SS700)",
         "name_tc": "泓景臺 (SS700)",
@@ -15694,6 +15710,14 @@
         "name_sc": "元朗喜利径 (YL367)",
         "lat": "22.444661",
         "long": "114.025612"
+    },
+    {
+        "stop": "49024ADB07E7BB54",
+        "name_en": "YAU SAN STREET YUEN LONG",
+        "name_tc": "元朗又新街",
+        "name_sc": "元朗又新街",
+        "lat": "22.444277",
+        "long": "114.031155"
     },
     {
         "stop": "490F1A302D8C32FC",
@@ -24432,6 +24456,14 @@
         "long": "114.331118"
     },
     {
+        "stop": "727851F159B388F0",
+        "name_en": "HA WAN TSUEN",
+        "name_tc": "下灣村",
+        "name_sc": "下湾村",
+        "lat": "0.000000",
+        "long": "0.000000"
+    },
+    {
         "stop": "727AA8B21AB74300",
         "name_en": "CITY ONE SHATIN (ST145)",
         "name_tc": "沙田第一城 (ST145)",
@@ -25582,6 +25614,14 @@
         "name_sc": "芝麻岭 (YL647)",
         "lat": "22.437950",
         "long": "114.097991"
+    },
+    {
+        "stop": "7857F114E84F09F6",
+        "name_en": "YUEN LONG POLICE STATION",
+        "name_tc": "元朗警署",
+        "name_sc": "元朗警署",
+        "lat": "22.444354",
+        "long": "114.023702"
     },
     {
         "stop": "785985F99EE00AE4",
@@ -27102,6 +27142,14 @@
         "name_sc": "油麻地西贡街 (YT549)",
         "lat": "22.307556",
         "long": "114.171554"
+    },
+    {
+        "stop": "807DAA4D6A6F5F08",
+        "name_en": "SHUI PIN TSUEN",
+        "name_tc": "水邊村",
+        "name_sc": "水边村",
+        "lat": "22.444383",
+        "long": "114.020784"
     },
     {
         "stop": "807FF45E7E451237",
@@ -39688,6 +39736,14 @@
         "long": "114.189301"
     },
     {
+        "stop": "BCB9FCB25902BDC5",
+        "name_en": "TAI TONG ROAD YUEN LONG",
+        "name_tc": "元朗大棠路",
+        "name_sc": "元朗大棠路",
+        "lat": "22.444340",
+        "long": "114.028542"
+    },
+    {
         "stop": "BCC6E5BA6810FED6",
         "name_en": "SHUI PIN WAI ESTATE (YL358)",
         "name_tc": "水邊圍邨 (YL358)",
@@ -40158,6 +40214,14 @@
         "name_sc": "沙埔村 (YL559)",
         "lat": "22.452722",
         "long": "114.050990"
+    },
+    {
+        "stop": "BF5D3D148FD00837",
+        "name_en": "SAN TIN PUBLIC TRANSPORT INTERCHANGE",
+        "name_tc": "新田運輸交匯處",
+        "name_sc": "新田运输交汇处",
+        "lat": "22.503081",
+        "long": "114.081766"
     },
     {
         "stop": "BF6A2F247B90FEBB",
@@ -45008,6 +45072,14 @@
         "long": "114.140579"
     },
     {
+        "stop": "D67C0DD6278C8755",
+        "name_en": "YOHO MIX",
+        "name_tc": "元點",
+        "name_sc": "元点",
+        "lat": "22.444312",
+        "long": "114.034373"
+    },
+    {
         "stop": "D693BB486419666B",
         "name_en": "CHING WAI HOUSE CHEUNG CHING ESTATE (TY325)",
         "name_tc": "長青邨青槐樓 (TY325)",
@@ -48070,6 +48142,14 @@
         "name_sc": "硕门邨巴士总站 (ST990)",
         "lat": "22.387499",
         "long": "114.208580"
+    },
+    {
+        "stop": "E54EB610E4DABDAE",
+        "name_en": "YUEN LONG PARK",
+        "name_tc": "元朗公園",
+        "name_sc": "元朗公园",
+        "lat": "22.444088",
+        "long": "114.018963"
     },
     {
         "stop": "E553B839AD6A8C3D",
@@ -53662,6 +53742,14 @@
         "name_sc": "兆康苑兆贤阁 (TM529)",
         "lat": "22.410132",
         "long": "113.976542"
+    },
+    {
+        "stop": "FEE90C6EEAAC8E4B",
+        "name_en": "HA WAN FISHERMAN SAN TSUEN",
+        "name_tc": "下灣漁民新村",
+        "name_sc": "下湾渔民新村",
+        "lat": "22.509928",
+        "long": "114.078553"
     },
     {
         "stop": "FEE97828AB584E76",
