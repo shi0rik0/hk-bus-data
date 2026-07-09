@@ -17094,17 +17094,6 @@
         "dest_sc": "铜锣湾(维多利亚公园)"
     },
     {
-        "route": "R78",
-        "bound": "O",
-        "service_type": "1",
-        "orig_en": "FANLING STATION",
-        "orig_tc": "粉嶺站",
-        "orig_sc": "粉岭站",
-        "dest_en": "SAN WAI BARRACKS(CIRCULAR)",
-        "dest_tc": "新圍軍營(循環線)",
-        "dest_sc": "新围军营(循环线)"
-    },
-    {
         "route": "R8",
         "bound": "O",
         "service_type": "1",
