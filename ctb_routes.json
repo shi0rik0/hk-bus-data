@@ -3961,6 +3961,16 @@
     },
     {
         "co": "CTB",
+        "route": "TCD4",
+        "orig_tc": "東涌車廠",
+        "orig_en": "Tung Chung Garage",
+        "dest_tc": "東涌 (北)",
+        "dest_en": "Tung Chung (North)",
+        "orig_sc": "东涌车厂",
+        "dest_sc": "东涌 (北)"
+    },
+    {
+        "co": "CTB",
         "route": "X1",
         "orig_tc": "東涌站",
         "orig_en": "Tung Chung Station",
