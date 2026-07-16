@@ -962,11 +962,11 @@
     {
         "co": "CTB",
         "route": "49X",
-        "orig_tc": "小西灣 (藍灣半島)",
-        "orig_en": "Siu Sai Wan (Island Resort)",
+        "orig_tc": "柴灣(東)",
+        "orig_en": "Chai Wan (East)",
         "dest_tc": "數碼港",
         "dest_en": "Cyberport",
-        "orig_sc": "小西湾 (蓝湾半岛)",
+        "orig_sc": "柴湾(东)",
         "dest_sc": "数码港"
     },
     {
@@ -992,11 +992,11 @@
     {
         "co": "CTB",
         "route": "50M",
-        "orig_tc": "和田邨",
-        "orig_en": "Wo Tin Estate",
+        "orig_tc": "菁田邨",
+        "orig_en": "Ching Tin Estate",
         "dest_tc": "屯門站",
         "dest_en": "Tuen Mun Station",
-        "orig_sc": "和田邨",
+        "orig_sc": "菁田邨",
         "dest_sc": "屯门站"
     },
     {
@@ -2192,11 +2192,11 @@
     {
         "co": "CTB",
         "route": "8H",
-        "orig_tc": "小西灣 (藍灣半島)",
-        "orig_en": "Siu Sai Wan (Island Resort)",
+        "orig_tc": "柴灣 (東)",
+        "orig_en": "Chai Wan (East)",
         "dest_tc": "東華東院",
         "dest_en": "Tung Wah Eastern Hospital",
-        "orig_sc": "小西湾 (蓝湾半岛)",
+        "orig_sc": "柴湾 (东)",
         "dest_sc": "东华东院"
     },
     {

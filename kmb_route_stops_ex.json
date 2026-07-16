@@ -182410,6 +182410,54 @@
     {
         "route": "78A",
         "bound": "O",
+        "service_type": "4",
+        "seq": "1",
+        "stop": "886559B17A8D61EC",
+        "stop_name_tc": "皇后山總站 (ND977)"
+    },
+    {
+        "route": "78A",
+        "bound": "O",
+        "service_type": "4",
+        "seq": "2",
+        "stop": "A088D19226D59E98",
+        "stop_name_tc": "龍躍頭 (ND550)"
+    },
+    {
+        "route": "78A",
+        "bound": "O",
+        "service_type": "4",
+        "seq": "3",
+        "stop": "6573811D015A0818",
+        "stop_name_tc": "安樂村 (ND551)"
+    },
+    {
+        "route": "78A",
+        "bound": "O",
+        "service_type": "4",
+        "seq": "4",
+        "stop": "A22E315AD21129EB",
+        "stop_name_tc": "粉嶺樂和街 (ND552)"
+    },
+    {
+        "route": "78A",
+        "bound": "O",
+        "service_type": "4",
+        "seq": "5",
+        "stop": "C837C3C549793472",
+        "stop_name_tc": "粉嶺中心 (ND470)"
+    },
+    {
+        "route": "78A",
+        "bound": "O",
+        "service_type": "4",
+        "seq": "6",
+        "stop": "3DEE05203A52B235",
+        "stop_name_tc": "粉嶺站轉車站-粉嶺名都 (ND474)"
+    },
+    {
+        "route": "78A",
+        "bound": "O",
         "service_type": "5",
         "seq": "1",
         "stop": "BFEDCC774FD671CB",
@@ -244868,88 +244916,88 @@
         "bound": "I",
         "service_type": "2",
         "seq": "1",
-        "stop": "3CB02010AEC23403",
-        "stop_name_tc": "落馬洲站 ‧ 福田口岸"
+        "stop": "81567ACCCF40DD4B",
+        "stop_name_tc": "落馬洲站 ‧ 福田口岸 (YL991)"
     },
     {
         "route": "B1",
         "bound": "I",
         "service_type": "2",
         "seq": "2",
-        "stop": "727851F159B388F0",
-        "stop_name_tc": "下灣村"
+        "stop": "DC2FFD02E8F541A8",
+        "stop_name_tc": "下灣村 (YL530)"
     },
     {
         "route": "B1",
         "bound": "I",
         "service_type": "2",
         "seq": "3",
-        "stop": "FEE90C6EEAAC8E4B",
-        "stop_name_tc": "下灣漁民新村"
+        "stop": "5E6930E95AF84C94",
+        "stop_name_tc": "下灣漁民新村 (YL531)"
     },
     {
         "route": "B1",
         "bound": "I",
         "service_type": "2",
         "seq": "4",
-        "stop": "107E0EAD1E4D0CF5",
-        "stop_name_tc": "洲頭村"
+        "stop": "1221E26C45F978B1",
+        "stop_name_tc": "洲頭村 (YL532)"
     },
     {
         "route": "B1",
         "bound": "I",
         "service_type": "2",
         "seq": "5",
-        "stop": "BF5D3D148FD00837",
-        "stop_name_tc": "新田運輸交匯處"
+        "stop": "FFFB0F940CA7BEA7",
+        "stop_name_tc": "新田運輸交匯處 (YL540)"
     },
     {
         "route": "B1",
         "bound": "I",
         "service_type": "2",
         "seq": "6",
-        "stop": "D67C0DD6278C8755",
-        "stop_name_tc": "元點"
+        "stop": "14157BA5C06B0B6B",
+        "stop_name_tc": "元點 (YL243)"
     },
     {
         "route": "B1",
         "bound": "I",
         "service_type": "2",
         "seq": "7",
-        "stop": "49024ADB07E7BB54",
-        "stop_name_tc": "元朗又新街"
+        "stop": "605B05317A40A2A4",
+        "stop_name_tc": "元朗又新街 (YL246)"
     },
     {
         "route": "B1",
         "bound": "I",
         "service_type": "2",
         "seq": "8",
-        "stop": "BCB9FCB25902BDC5",
-        "stop_name_tc": "元朗大棠路"
+        "stop": "78AD2432201EF5EE",
+        "stop_name_tc": "元朗大棠路 (YL251)"
     },
     {
         "route": "B1",
         "bound": "I",
         "service_type": "2",
         "seq": "9",
-        "stop": "7857F114E84F09F6",
-        "stop_name_tc": "元朗警署"
+        "stop": "1B0FD9C27F5FE0BE",
+        "stop_name_tc": "元朗警署 (YL258)"
     },
     {
         "route": "B1",
         "bound": "I",
         "service_type": "2",
         "seq": "10",
-        "stop": "807DAA4D6A6F5F08",
-        "stop_name_tc": "水邊村"
+        "stop": "A010FE2C473103A8",
+        "stop_name_tc": "水邊村 (YL259)"
     },
     {
         "route": "B1",
         "bound": "I",
         "service_type": "2",
         "seq": "11",
-        "stop": "E54EB610E4DABDAE",
-        "stop_name_tc": "元朗公園"
+        "stop": "70FEB409760C77EE",
+        "stop_name_tc": "元朗公園 (YL261)"
     },
     {
         "route": "B1",
