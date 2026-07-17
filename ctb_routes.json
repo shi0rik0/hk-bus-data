@@ -1811,6 +1811,16 @@
     },
     {
         "co": "CTB",
+        "route": "770",
+        "orig_tc": "田灣",
+        "orig_en": "Tin Wan",
+        "dest_tc": "柴灣(東)",
+        "dest_en": "Chai Wan (East)",
+        "orig_sc": "田湾",
+        "dest_sc": "柴湾(东)"
+    },
+    {
+        "co": "CTB",
         "route": "77A",
         "orig_tc": "筲箕灣",
         "orig_en": "Shau Kei Wan",
