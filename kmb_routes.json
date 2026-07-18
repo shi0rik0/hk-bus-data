@@ -3212,6 +3212,28 @@
         "dest_sc": "香港教育大学"
     },
     {
+        "route": "264X",
+        "bound": "I",
+        "service_type": "1",
+        "orig_en": "TAI PO MARKET STATION",
+        "orig_tc": "大埔墟站",
+        "orig_sc": "大埔墟站",
+        "dest_en": "TIN YIU",
+        "dest_tc": "天耀",
+        "dest_sc": "天耀"
+    },
+    {
+        "route": "264X",
+        "bound": "O",
+        "service_type": "1",
+        "orig_en": "TIN YIU",
+        "orig_tc": "天耀",
+        "orig_sc": "天耀",
+        "dest_en": "TAI PO MARKET STATION",
+        "dest_tc": "大埔墟站",
+        "dest_sc": "大埔墟站"
+    },
+    {
         "route": "265B",
         "bound": "I",
         "service_type": "1",
