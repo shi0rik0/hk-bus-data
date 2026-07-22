@@ -7021,7 +7021,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "225E8FAE869B3308",
-        "stop_name_tc": "香港仔隧道"
+        "stop_name_tc": "黃竹坑醫院"
     },
     {
         "route": "107",
@@ -7277,7 +7277,7 @@
         "service_type": "2",
         "seq": "11",
         "stop": "225E8FAE869B3308",
-        "stop_name_tc": "香港仔隧道"
+        "stop_name_tc": "黃竹坑醫院"
     },
     {
         "route": "107",
@@ -7597,7 +7597,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "719B6A48C203AFBA",
-        "stop_name_tc": "香港仔隧道"
+        "stop_name_tc": "黃竹坑醫院"
     },
     {
         "route": "107",
@@ -7853,7 +7853,7 @@
         "service_type": "2",
         "seq": "19",
         "stop": "719B6A48C203AFBA",
-        "stop_name_tc": "香港仔隧道"
+        "stop_name_tc": "黃竹坑醫院"
     },
     {
         "route": "107",
@@ -8069,7 +8069,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "225E8FAE869B3308",
-        "stop_name_tc": "香港仔隧道"
+        "stop_name_tc": "黃竹坑醫院"
     },
     {
         "route": "107P",
@@ -8173,7 +8173,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "719B6A48C203AFBA",
-        "stop_name_tc": "香港仔隧道"
+        "stop_name_tc": "黃竹坑醫院"
     },
     {
         "route": "107P",
@@ -26485,7 +26485,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "225E8FAE869B3308",
-        "stop_name_tc": "香港仔隧道"
+        "stop_name_tc": "黃竹坑醫院"
     },
     {
         "route": "170",
@@ -26773,7 +26773,7 @@
         "service_type": "2",
         "seq": "11",
         "stop": "225E8FAE869B3308",
-        "stop_name_tc": "香港仔隧道"
+        "stop_name_tc": "黃竹坑醫院"
     },
     {
         "route": "170",
@@ -27117,7 +27117,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "719B6A48C203AFBA",
-        "stop_name_tc": "香港仔隧道"
+        "stop_name_tc": "黃竹坑醫院"
     },
     {
         "route": "170",
@@ -27349,7 +27349,7 @@
         "service_type": "2",
         "seq": "18",
         "stop": "719B6A48C203AFBA",
-        "stop_name_tc": "香港仔隧道"
+        "stop_name_tc": "黃竹坑醫院"
     },
     {
         "route": "170",
@@ -27541,7 +27541,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "225E8FAE869B3308",
-        "stop_name_tc": "香港仔隧道"
+        "stop_name_tc": "黃竹坑醫院"
     },
     {
         "route": "171",
@@ -27781,7 +27781,7 @@
         "service_type": "2",
         "seq": "13",
         "stop": "225E8FAE869B3308",
-        "stop_name_tc": "香港仔隧道"
+        "stop_name_tc": "黃竹坑醫院"
     },
     {
         "route": "171",
@@ -27997,7 +27997,7 @@
         "service_type": "9",
         "seq": "10",
         "stop": "225E8FAE869B3308",
-        "stop_name_tc": "香港仔隧道"
+        "stop_name_tc": "黃竹坑醫院"
     },
     {
         "route": "171",
@@ -28285,7 +28285,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "719B6A48C203AFBA",
-        "stop_name_tc": "香港仔隧道"
+        "stop_name_tc": "黃竹坑醫院"
     },
     {
         "route": "171",
@@ -28533,7 +28533,7 @@
         "service_type": "2",
         "seq": "19",
         "stop": "719B6A48C203AFBA",
-        "stop_name_tc": "香港仔隧道"
+        "stop_name_tc": "黃竹坑醫院"
     },
     {
         "route": "171",
@@ -28789,7 +28789,7 @@
         "service_type": "7",
         "seq": "19",
         "stop": "719B6A48C203AFBA",
-        "stop_name_tc": "香港仔隧道"
+        "stop_name_tc": "黃竹坑醫院"
     },
     {
         "route": "171",
@@ -28917,7 +28917,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "225E8FAE869B3308",
-        "stop_name_tc": "香港仔隧道"
+        "stop_name_tc": "黃竹坑醫院"
     },
     {
         "route": "171A",
@@ -29117,7 +29117,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "225E8FAE869B3308",
-        "stop_name_tc": "香港仔隧道"
+        "stop_name_tc": "黃竹坑醫院"
     },
     {
         "route": "171P",
@@ -150792,6 +150792,150 @@
         "stop_name_tc": "太和站 (TP981)"
     },
     {
+        "route": "64K",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "1",
+        "stop": "D4027BBC82CDBA61",
+        "stop_name_tc": "錦上路站 (YL862)"
+    },
+    {
+        "route": "64K",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "2",
+        "stop": "13211112A23954EC",
+        "stop_name_tc": "沙田坑 (YL712)"
+    },
+    {
+        "route": "64K",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "3",
+        "stop": "3502ABD7492B8C56",
+        "stop_name_tc": "吳家村 (YL656)"
+    },
+    {
+        "route": "64K",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "4",
+        "stop": "B20A1163984772C9",
+        "stop_name_tc": "八鄉新馬路 (YL657)"
+    },
+    {
+        "route": "64K",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "5",
+        "stop": "8D47F8C7AA27FCB8",
+        "stop_name_tc": "金錢圍 (YL658)"
+    },
+    {
+        "route": "64K",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "6",
+        "stop": "7AA3F7F89AD36B1B",
+        "stop_name_tc": "石湖塘 (YL659)"
+    },
+    {
+        "route": "64K",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "7",
+        "stop": "180648AA12CF6725",
+        "stop_name_tc": "田心村 (YL660)"
+    },
+    {
+        "route": "64K",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "8",
+        "stop": "7525EA3D297065CC",
+        "stop_name_tc": "八鄉八鄉路 (YL661)"
+    },
+    {
+        "route": "64K",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "9",
+        "stop": "BC05332A477AB8F9",
+        "stop_name_tc": "大窩村 (YL661a)"
+    },
+    {
+        "route": "64K",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "10",
+        "stop": "BC3E701090D7E56E",
+        "stop_name_tc": "元崗村 (YL662)"
+    },
+    {
+        "route": "64K",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "11",
+        "stop": "8DDFE8598C7DA354",
+        "stop_name_tc": "八鄉東邊路 (YL663)"
+    },
+    {
+        "route": "64K",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "12",
+        "stop": "8A0B04DDC3B321A4",
+        "stop_name_tc": "水盞田 (YL664)"
+    },
+    {
+        "route": "64K",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "13",
+        "stop": "076E1AA3258C5D0A",
+        "stop_name_tc": "水流田 (YL665)"
+    },
+    {
+        "route": "64K",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "14",
+        "stop": "2FE9CA5CC344B5A3",
+        "stop_name_tc": "蓮花地 (YL666)"
+    },
+    {
+        "route": "64K",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "15",
+        "stop": "AEE5D5FDC38650DB",
+        "stop_name_tc": "黎屋村 (YL667)"
+    },
+    {
+        "route": "64K",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "16",
+        "stop": "B1E11C753EE8DC31",
+        "stop_name_tc": "杜屋村 (YL668)"
+    },
+    {
+        "route": "64K",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "17",
+        "stop": "CD364F8B176DE0EC",
+        "stop_name_tc": "石上路 (YL669)"
+    },
+    {
+        "route": "64K",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "18",
+        "stop": "B3CCAA9D93647348",
+        "stop_name_tc": "張屋村 (YL670)"
+    },
+    {
         "route": "64P",
         "bound": "O",
         "service_type": "1",
@@ -152341,7 +152485,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "225E8FAE869B3308",
-        "stop_name_tc": "香港仔隧道"
+        "stop_name_tc": "黃竹坑醫院"
     },
     {
         "route": "671",
@@ -152685,7 +152829,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "719B6A48C203AFBA",
-        "stop_name_tc": "香港仔隧道"
+        "stop_name_tc": "黃竹坑醫院"
     },
     {
         "route": "671",
@@ -152933,7 +153077,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "225E8FAE869B3308",
-        "stop_name_tc": "香港仔隧道"
+        "stop_name_tc": "黃竹坑醫院"
     },
     {
         "route": "671X",
@@ -255941,7 +256085,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "225E8FAE869B3308",
-        "stop_name_tc": "香港仔隧道"
+        "stop_name_tc": "黃竹坑醫院"
     },
     {
         "route": "N170",
@@ -256317,7 +256461,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "719B6A48C203AFBA",
-        "stop_name_tc": "香港仔隧道"
+        "stop_name_tc": "黃竹坑醫院"
     },
     {
         "route": "N170",
@@ -256501,7 +256645,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "225E8FAE869B3308",
-        "stop_name_tc": "香港仔隧道"
+        "stop_name_tc": "黃竹坑醫院"
     },
     {
         "route": "N171",
@@ -256829,7 +256973,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "719B6A48C203AFBA",
-        "stop_name_tc": "香港仔隧道"
+        "stop_name_tc": "黃竹坑醫院"
     },
     {
         "route": "N171",
