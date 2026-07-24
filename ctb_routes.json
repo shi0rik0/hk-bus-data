@@ -2012,12 +2012,10 @@
     {
         "co": "CTB",
         "route": "796X",
-        "orig_tc": "將軍澳工業邨／將軍澳站",
-        "orig_en": "Tseung Kwan O Industrial Estate / Tseung Kwan O Station",
-        "dest_tc": "尖沙咀東",
-        "dest_en": "Tsim Sha Tsui East",
-        "orig_sc": "将军澳工业邨／将军澳站",
-        "dest_sc": "尖沙咀东"
+        "orig_tc": "日出康城",
+        "orig_en": "LOHAS Park",
+        "dest_tc": "紅磡及土瓜灣",
+        "dest_en": "Hung Hom and To Kwa Wan"
     },
     {
         "co": "CTB",
