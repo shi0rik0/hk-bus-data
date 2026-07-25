@@ -17840,158 +17840,6 @@
         "stop_name_tc": "長沙灣(海達邨)總站 (SS952)"
     },
     {
-        "route": "12P",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "1",
-        "stop": "296E43213D6DB624",
-        "stop_name_tc": "海麗邨巴士總站 (SS667)"
-    },
-    {
-        "route": "12P",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "2",
-        "stop": "32CB1FBDCB7932A6",
-        "stop_name_tc": "泓景臺 (SS280)"
-    },
-    {
-        "route": "12P",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "3",
-        "stop": "CCAD6B9A4B1CFFD8",
-        "stop_name_tc": "碧海藍天 (SS283)"
-    },
-    {
-        "route": "12P",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "4",
-        "stop": "1BD82E4312536F0C",
-        "stop_name_tc": "發祥街西 (SS289)"
-    },
-    {
-        "route": "12P",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "5",
-        "stop": "5FBC215F6F58AC98",
-        "stop_name_tc": "富昌邨 (SS291)"
-    },
-    {
-        "route": "12P",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "6",
-        "stop": "A411F9374FB2879B",
-        "stop_name_tc": "港灣豪庭 (MK295)"
-    },
-    {
-        "route": "12P",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "7",
-        "stop": "7EC4B2C80047770A",
-        "stop_name_tc": "大角咀中匯街 (MK296)"
-    },
-    {
-        "route": "12P",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "8",
-        "stop": "9B62732E0E1E537C",
-        "stop_name_tc": "奧運站 (MK297)"
-    },
-    {
-        "route": "12P",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "9",
-        "stop": "029EA5F3C2AEFBC9",
-        "stop_name_tc": "海富苑 柏景灣 (MK121)"
-    },
-    {
-        "route": "12P",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "10",
-        "stop": "6E4C75B59DEF3D89",
-        "stop_name_tc": "富榮花園 (MK122)"
-    },
-    {
-        "route": "12P",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "11",
-        "stop": "DED3339EB26494EA",
-        "stop_name_tc": "甘肅街 (YT325)"
-    },
-    {
-        "route": "12P",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "12",
-        "stop": "577633405E7A3ACD",
-        "stop_name_tc": "渡船街 (YT326)"
-    },
-    {
-        "route": "12P",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "13",
-        "stop": "F6EE4DC41A299593",
-        "stop_name_tc": "匯翔道,高鐵站 (YT200)"
-    },
-    {
-        "route": "12P",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "14",
-        "stop": "83EB94899B6BBB4B",
-        "stop_name_tc": "柯士甸道 戲曲中心 (YT202)"
-    },
-    {
-        "route": "12P",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "15",
-        "stop": "5F60283656DF3016",
-        "stop_name_tc": "廣東道,新港中心 (YT205)"
-    },
-    {
-        "route": "12P",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "16",
-        "stop": "576538E1395C8508",
-        "stop_name_tc": "尖東站 K11 MUSEA (YT215)"
-    },
-    {
-        "route": "12P",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "17",
-        "stop": "1864222D8939BD69",
-        "stop_name_tc": "永安廣場 星光大道 (YT218)"
-    },
-    {
-        "route": "12P",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "18",
-        "stop": "95FAB1D2AD752ECE",
-        "stop_name_tc": "紅磡南道 (HH321)"
-    },
-    {
-        "route": "12P",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "19",
-        "stop": "505D36136FD57784",
-        "stop_name_tc": "紅磡站 (HH979)"
-    },
-    {
         "route": "13",
         "bound": "I",
         "service_type": "1",
@@ -283133,7 +282981,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "833FF184B120B167",
-        "stop_name_tc": "翔東邨"
+        "stop_name_tc": "翔東邨 (TC953)"
     },
     {
         "route": "S64P",
@@ -283325,7 +283173,7 @@
         "service_type": "1",
         "seq": "25",
         "stop": "833FF184B120B167",
-        "stop_name_tc": "翔東邨"
+        "stop_name_tc": "翔東邨 (TC953)"
     },
     {
         "route": "S64P",
@@ -283333,7 +283181,7 @@
         "service_type": "2",
         "seq": "1",
         "stop": "833FF184B120B167",
-        "stop_name_tc": "翔東邨"
+        "stop_name_tc": "翔東邨 (TC953)"
     },
     {
         "route": "S64P",
@@ -283533,7 +283381,7 @@
         "service_type": "2",
         "seq": "26",
         "stop": "833FF184B120B167",
-        "stop_name_tc": "翔東邨"
+        "stop_name_tc": "翔東邨 (TC953)"
     },
     {
         "route": "S64X",
