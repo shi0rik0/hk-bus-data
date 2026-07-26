@@ -7029,7 +7029,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "3F463A541D165B44",
-        "stop_name_tc": null
+        "stop_name_tc": "香港仔隧道"
     },
     {
         "route": "107",
@@ -7194,6 +7194,14 @@
     {
         "route": "107",
         "bound": "I",
+        "service_type": "1",
+        "seq": "32",
+        "stop": "06834C0C275F4DDC",
+        "stop_name_tc": "九龍灣總站 (KT906)"
+    },
+    {
+        "route": "107",
+        "bound": "I",
         "service_type": "2",
         "seq": "1",
         "stop": "689BAEAC4F89EC8B",
@@ -7285,7 +7293,7 @@
         "service_type": "2",
         "seq": "12",
         "stop": "3F463A541D165B44",
-        "stop_name_tc": null
+        "stop_name_tc": "香港仔隧道"
     },
     {
         "route": "107",
@@ -7449,6 +7457,14 @@
     },
     {
         "route": "107",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "33",
+        "stop": "06834C0C275F4DDC",
+        "stop_name_tc": "九龍灣總站 (KT906)"
+    },
+    {
+        "route": "107",
         "bound": "O",
         "service_type": "1",
         "seq": "1",
@@ -7597,7 +7613,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "E0C452A539D57317",
-        "stop_name_tc": null
+        "stop_name_tc": "香港仔隧道"
     },
     {
         "route": "107",
@@ -7706,6 +7722,14 @@
     {
         "route": "107",
         "bound": "O",
+        "service_type": "1",
+        "seq": "33",
+        "stop": "689BAEAC4F89EC8B",
+        "stop_name_tc": "華貴邨巴士總站"
+    },
+    {
+        "route": "107",
+        "bound": "O",
         "service_type": "2",
         "seq": "1",
         "stop": "06834C0C275F4DDC",
@@ -7853,7 +7877,7 @@
         "service_type": "2",
         "seq": "19",
         "stop": "E0C452A539D57317",
-        "stop_name_tc": null
+        "stop_name_tc": "香港仔隧道"
     },
     {
         "route": "107",
@@ -7968,6 +7992,14 @@
         "stop_name_tc": "牛奶公司凍房"
     },
     {
+        "route": "107",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "34",
+        "stop": "689BAEAC4F89EC8B",
+        "stop_name_tc": "華貴邨巴士總站"
+    },
+    {
         "route": "107P",
         "bound": "I",
         "service_type": "1",
@@ -8077,7 +8109,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "3F463A541D165B44",
-        "stop_name_tc": null
+        "stop_name_tc": "香港仔隧道"
     },
     {
         "route": "107P",
@@ -8118,6 +8150,14 @@
         "seq": "19",
         "stop": "69EB1A85EBBBA550",
         "stop_name_tc": "紅磡民泰街 (HH350)"
+    },
+    {
+        "route": "107P",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "20",
+        "stop": "0B84025BFA5C2F9F",
+        "stop_name_tc": "海逸豪園 (HH932)"
     },
     {
         "route": "107P",
@@ -8173,7 +8213,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "E0C452A539D57317",
-        "stop_name_tc": null
+        "stop_name_tc": "香港仔隧道"
     },
     {
         "route": "107P",
@@ -8278,6 +8318,14 @@
         "seq": "20",
         "stop": "A5314FFB6DBA4B2D",
         "stop_name_tc": "貝沙灣"
+    },
+    {
+        "route": "107P",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "21",
+        "stop": "1B41827EB0497A78",
+        "stop_name_tc": "數碼港巴士總站"
     },
     {
         "route": "108",
@@ -26341,7 +26389,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "3F463A541D165B44",
-        "stop_name_tc": null
+        "stop_name_tc": "香港仔隧道"
     },
     {
         "route": "170",
@@ -26538,6 +26586,14 @@
     {
         "route": "170",
         "bound": "I",
+        "service_type": "1",
+        "seq": "36",
+        "stop": "F0A8A596641FFC5A",
+        "stop_name_tc": "沙田站巴士總站 (ST941)"
+    },
+    {
+        "route": "170",
+        "bound": "I",
         "service_type": "2",
         "seq": "1",
         "stop": "939DD40498CB3066",
@@ -26629,7 +26685,7 @@
         "service_type": "2",
         "seq": "12",
         "stop": "3F463A541D165B44",
-        "stop_name_tc": null
+        "stop_name_tc": "香港仔隧道"
     },
     {
         "route": "170",
@@ -26825,6 +26881,14 @@
     },
     {
         "route": "170",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "37",
+        "stop": "F0A8A596641FFC5A",
+        "stop_name_tc": "沙田站巴士總站 (ST941)"
+    },
+    {
+        "route": "170",
         "bound": "O",
         "service_type": "1",
         "seq": "1",
@@ -26965,7 +27029,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "E0C452A539D57317",
-        "stop_name_tc": null
+        "stop_name_tc": "香港仔隧道"
     },
     {
         "route": "170",
@@ -27058,6 +27122,14 @@
     {
         "route": "170",
         "bound": "O",
+        "service_type": "1",
+        "seq": "30",
+        "stop": "939DD40498CB3066",
+        "stop_name_tc": "華富中總站"
+    },
+    {
+        "route": "170",
+        "bound": "O",
         "service_type": "2",
         "seq": "1",
         "stop": "F0A8A596641FFC5A",
@@ -27197,7 +27269,7 @@
         "service_type": "2",
         "seq": "18",
         "stop": "E0C452A539D57317",
-        "stop_name_tc": null
+        "stop_name_tc": "香港仔隧道"
     },
     {
         "route": "170",
@@ -27294,6 +27366,14 @@
         "seq": "30",
         "stop": "5C6A29BCDA410664",
         "stop_name_tc": "華清樓"
+    },
+    {
+        "route": "170",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "31",
+        "stop": "939DD40498CB3066",
+        "stop_name_tc": "華富中總站"
     },
     {
         "route": "171",
@@ -27397,7 +27477,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "3F463A541D165B44",
-        "stop_name_tc": null
+        "stop_name_tc": "香港仔隧道"
     },
     {
         "route": "171",
@@ -27526,6 +27606,14 @@
         "seq": "29",
         "stop": "EBEF10F95443B217",
         "stop_name_tc": "荔灣道　 (SS271)"
+    },
+    {
+        "route": "171",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "30",
+        "stop": "636F6AAF3B891E82",
+        "stop_name_tc": "荔枝角巴士總站 (SS980)"
     },
     {
         "route": "171",
@@ -27637,7 +27725,7 @@
         "service_type": "2",
         "seq": "14",
         "stop": "3F463A541D165B44",
-        "stop_name_tc": null
+        "stop_name_tc": "香港仔隧道"
     },
     {
         "route": "171",
@@ -27770,6 +27858,14 @@
     {
         "route": "171",
         "bound": "I",
+        "service_type": "2",
+        "seq": "31",
+        "stop": "636F6AAF3B891E82",
+        "stop_name_tc": "荔枝角巴士總站 (SS980)"
+    },
+    {
+        "route": "171",
+        "bound": "I",
         "service_type": "9",
         "seq": "1",
         "stop": "C95F46AD9BB057BC",
@@ -27853,7 +27949,7 @@
         "service_type": "9",
         "seq": "11",
         "stop": "3F463A541D165B44",
-        "stop_name_tc": null
+        "stop_name_tc": "香港仔隧道"
     },
     {
         "route": "171",
@@ -27982,6 +28078,14 @@
         "seq": "27",
         "stop": "EBEF10F95443B217",
         "stop_name_tc": "荔灣道　 (SS271)"
+    },
+    {
+        "route": "171",
+        "bound": "I",
+        "service_type": "9",
+        "seq": "28",
+        "stop": "636F6AAF3B891E82",
+        "stop_name_tc": "荔枝角巴士總站 (SS980)"
     },
     {
         "route": "171",
@@ -28133,7 +28237,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "A2ED007C8CD070A0",
-        "stop_name_tc": null
+        "stop_name_tc": "香港仔隧道"
     },
     {
         "route": "171",
@@ -28234,6 +28338,14 @@
     {
         "route": "171",
         "bound": "O",
+        "service_type": "1",
+        "seq": "32",
+        "stop": "C95F46AD9BB057BC",
+        "stop_name_tc": "海怡半島巴士總站"
+    },
+    {
+        "route": "171",
+        "bound": "O",
         "service_type": "2",
         "seq": "1",
         "stop": "636F6AAF3B891E82",
@@ -28381,7 +28493,7 @@
         "service_type": "2",
         "seq": "19",
         "stop": "A2ED007C8CD070A0",
-        "stop_name_tc": null
+        "stop_name_tc": "香港仔隧道"
     },
     {
         "route": "171",
@@ -28490,6 +28602,14 @@
     {
         "route": "171",
         "bound": "O",
+        "service_type": "2",
+        "seq": "33",
+        "stop": "C95F46AD9BB057BC",
+        "stop_name_tc": "海怡半島巴士總站"
+    },
+    {
+        "route": "171",
+        "bound": "O",
         "service_type": "7",
         "seq": "1",
         "stop": "636F6AAF3B891E82",
@@ -28637,7 +28757,7 @@
         "service_type": "7",
         "seq": "19",
         "stop": "A2ED007C8CD070A0",
-        "stop_name_tc": null
+        "stop_name_tc": "香港仔隧道"
     },
     {
         "route": "171",
@@ -28720,6 +28840,14 @@
         "stop_name_tc": "御庭園"
     },
     {
+        "route": "171",
+        "bound": "O",
+        "service_type": "7",
+        "seq": "30",
+        "stop": "C95F46AD9BB057BC",
+        "stop_name_tc": "海怡半島巴士總站"
+    },
+    {
         "route": "171A",
         "bound": "O",
         "service_type": "1",
@@ -28773,7 +28901,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "3F463A541D165B44",
-        "stop_name_tc": null
+        "stop_name_tc": "香港仔隧道"
     },
     {
         "route": "171A",
@@ -28904,6 +29032,14 @@
         "stop_name_tc": "荔灣道　 (SS271)"
     },
     {
+        "route": "171A",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "24",
+        "stop": "636F6AAF3B891E82",
+        "stop_name_tc": "荔枝角巴士總站 (SS980)"
+    },
+    {
         "route": "171P",
         "bound": "O",
         "service_type": "1",
@@ -28973,7 +29109,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "3F463A541D165B44",
-        "stop_name_tc": null
+        "stop_name_tc": "香港仔隧道"
     },
     {
         "route": "171P",
@@ -29094,6 +29230,14 @@
         "seq": "24",
         "stop": "EBEF10F95443B217",
         "stop_name_tc": "荔灣道　 (SS271)"
+    },
+    {
+        "route": "171P",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "25",
+        "stop": "636F6AAF3B891E82",
+        "stop_name_tc": "荔枝角巴士總站 (SS980)"
     },
     {
         "route": "18",
@@ -152341,7 +152485,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "3F463A541D165B44",
-        "stop_name_tc": null
+        "stop_name_tc": "香港仔隧道"
     },
     {
         "route": "671",
@@ -152521,6 +152665,14 @@
     },
     {
         "route": "671",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "39",
+        "stop": "CC0EA05EEADFA481",
+        "stop_name_tc": "鑽石山站巴士總站 (WT965)"
+    },
+    {
+        "route": "671",
         "bound": "O",
         "service_type": "1",
         "seq": "1",
@@ -152677,7 +152829,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "A2ED007C8CD070A0",
-        "stop_name_tc": null
+        "stop_name_tc": "香港仔隧道"
     },
     {
         "route": "671",
@@ -152808,6 +152960,14 @@
         "stop_name_tc": "新海怡廣場"
     },
     {
+        "route": "671",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "37",
+        "stop": "FBBA97AE1E9F4B53",
+        "stop_name_tc": "鴨脷洲利樂街巴士總站"
+    },
+    {
         "route": "671X",
         "bound": "O",
         "service_type": "1",
@@ -152933,7 +153093,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "3F463A541D165B44",
-        "stop_name_tc": null
+        "stop_name_tc": "香港仔隧道"
     },
     {
         "route": "671X",
@@ -153038,6 +153198,14 @@
         "seq": "29",
         "stop": "A0FDF34B2D278750",
         "stop_name_tc": "鳳德商場 (WT408)"
+    },
+    {
+        "route": "671X",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "30",
+        "stop": "CC0EA05EEADFA481",
+        "stop_name_tc": "鑽石山站巴士總站 (WT965)"
     },
     {
         "route": "673",
@@ -255941,7 +256109,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "3F463A541D165B44",
-        "stop_name_tc": null
+        "stop_name_tc": "香港仔隧道"
     },
     {
         "route": "N170",
@@ -256137,6 +256305,14 @@
     },
     {
         "route": "N170",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "39",
+        "stop": "9CCAA319B4354EC6",
+        "stop_name_tc": "沙田市中心總站 (ST921)"
+    },
+    {
+        "route": "N170",
         "bound": "O",
         "service_type": "1",
         "seq": "1",
@@ -256309,7 +256485,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "E0C452A539D57317",
-        "stop_name_tc": null
+        "stop_name_tc": "香港仔隧道"
     },
     {
         "route": "N170",
@@ -256408,6 +256584,14 @@
         "stop_name_tc": "華清樓"
     },
     {
+        "route": "N170",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "35",
+        "stop": "939DD40498CB3066",
+        "stop_name_tc": "華富中總站"
+    },
+    {
         "route": "N171",
         "bound": "I",
         "service_type": "1",
@@ -256501,7 +256685,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "3F463A541D165B44",
-        "stop_name_tc": null
+        "stop_name_tc": "香港仔隧道"
     },
     {
         "route": "N171",
@@ -256654,6 +256838,14 @@
         "seq": "31",
         "stop": "EBEF10F95443B217",
         "stop_name_tc": "荔灣道　 (SS271)"
+    },
+    {
+        "route": "N171",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "32",
+        "stop": "B9F19D629C894FEE",
+        "stop_name_tc": "荔枝角巴士總站 (SS986)"
     },
     {
         "route": "N171",
@@ -256821,7 +257013,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "A2ED007C8CD070A0",
-        "stop_name_tc": null
+        "stop_name_tc": "香港仔隧道"
     },
     {
         "route": "N171",
@@ -256902,6 +257094,14 @@
         "seq": "31",
         "stop": "5A7CD7DCB08F92C2",
         "stop_name_tc": "利枝道"
+    },
+    {
+        "route": "N171",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "32",
+        "stop": "38504AAEF0A5E595",
+        "stop_name_tc": "鴨脷洲邨巴士總站"
     },
     {
         "route": "N182",

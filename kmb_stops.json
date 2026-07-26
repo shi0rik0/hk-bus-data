@@ -13488,6 +13488,14 @@
         "long": "114.044662"
     },
     {
+        "stop": "3F463A541D165B44",
+        "name_en": "ABERDEEN TUNNEL",
+        "name_tc": "香港仔隧道",
+        "name_sc": "香港仔隧道",
+        "lat": "22.251807",
+        "long": "114.178070"
+    },
+    {
         "stop": "3F4B54625D1F9E48",
         "name_en": "KOWLOON BAY SPORTS GROUND (KT483)",
         "name_tc": "九龍灣運動場 (KT483)",
@@ -34184,6 +34192,14 @@
         "long": "114.163281"
     },
     {
+        "stop": "A2ED007C8CD070A0",
+        "name_en": "ABERDEEN TUNNEL",
+        "name_tc": "香港仔隧道",
+        "name_sc": "香港仔隧道",
+        "lat": "22.251256",
+        "long": "114.178132"
+    },
+    {
         "stop": "A30F5B94F215CCBA",
         "name_en": "SHEK TIN ROAD",
         "name_tc": "石田路",
@@ -47094,6 +47110,14 @@
         "name_sc": "将军澳隧道转车站 (LT301)",
         "lat": "22.315426",
         "long": "114.240619"
+    },
+    {
+        "stop": "E0C452A539D57317",
+        "name_en": "ABERDEEN TUNNEL",
+        "name_tc": "香港仔隧道",
+        "name_sc": "香港仔隧道",
+        "lat": "22.251430",
+        "long": "114.178279"
     },
     {
         "stop": "E0E2097354500456",
