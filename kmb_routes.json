@@ -2838,17 +2838,6 @@
         "dest_sc": "鲤鱼门邨"
     },
     {
-        "route": "259E",
-        "bound": "O",
-        "service_type": "1",
-        "orig_en": "TUEN MUN (LUNG MUN OASIS)",
-        "orig_tc": "屯門(龍門居)",
-        "orig_sc": "屯门(龙门居)",
-        "dest_en": "TSUEN WAN STATION",
-        "dest_tc": "荃灣站",
-        "dest_sc": "荃湾站"
-    },
-    {
         "route": "259R",
         "bound": "O",
         "service_type": "1",
@@ -8930,17 +8919,6 @@
         "dest_en": "CENTRAL (MACAO FERRY)",
         "dest_tc": "中環(港澳碼頭)",
         "dest_sc": "中环(港澳码头)"
-    },
-    {
-        "route": "61A",
-        "bound": "O",
-        "service_type": "1",
-        "orig_en": "TUEN MUN (HOI WING ROAD)",
-        "orig_tc": "屯門(海榮路)",
-        "orig_sc": "屯门(海荣路)",
-        "dest_en": "TUEN MUN ROAD BBI - URBAN BOUND",
-        "dest_tc": "屯門公路轉車站- 市區方向",
-        "dest_sc": "屯门公路转车站- 市区方向"
     },
     {
         "route": "61M",
