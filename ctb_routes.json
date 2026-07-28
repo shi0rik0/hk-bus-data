@@ -1821,16 +1821,6 @@
     },
     {
         "co": "CTB",
-        "route": "77A",
-        "orig_tc": "筲箕灣",
-        "orig_en": "Shau Kei Wan",
-        "dest_tc": "田灣",
-        "dest_en": "Tin Wan",
-        "orig_sc": "筲箕湾",
-        "dest_sc": "田湾"
-    },
-    {
-        "co": "CTB",
         "route": "77X",
         "orig_tc": "華貴邨",
         "orig_en": "Wah Kwai Estate",
@@ -3396,6 +3386,16 @@
         "dest_en": "Tseung Kwan O Industrial Estate",
         "orig_sc": "东涌 (翔东邨)",
         "dest_sc": "将军澳工业邨"
+    },
+    {
+        "co": "CTB",
+        "route": "H0",
+        "orig_tc": "中環 (天星碼頭)",
+        "orig_en": "Central (Star Ferry)",
+        "dest_tc": "中環 (天星碼頭)",
+        "dest_en": "Central (Star Ferry)",
+        "orig_sc": "中环 (天星码头)",
+        "dest_sc": "中环 (天星码头)"
     },
     {
         "co": "CTB",
