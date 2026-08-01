@@ -3821,6 +3821,16 @@
     },
     {
         "co": "CTB",
+        "route": "ONPA",
+        "orig_tc": "八達通夜遊票",
+        "orig_en": "Octopus Night Pass",
+        "dest_tc": "八達通夜遊票",
+        "dest_en": "Octopus Night Pass",
+        "orig_sc": "八达通夜游票",
+        "dest_sc": "八达通夜游票"
+    },
+    {
+        "co": "CTB",
         "route": "R11",
         "orig_tc": "迪士尼樂園",
         "orig_en": "Disneyland",
