@@ -196,14 +196,6 @@
         "route": "798",
         "dir": "O",
         "seq": 6,
-        "stop": "001727",
-        "stop_name_tc": "重華路"
-    },
-    {
-        "co": "CTB",
-        "route": "798",
-        "dir": "O",
-        "seq": 7,
         "stop": "001737",
         "stop_name_tc": "厚德邨, 寶寧路"
     },
@@ -211,7 +203,7 @@
         "co": "CTB",
         "route": "798",
         "dir": "O",
-        "seq": 8,
+        "seq": 7,
         "stop": "001753",
         "stop_name_tc": "景林邨, 寶琳北路"
     },
@@ -219,7 +211,7 @@
         "co": "CTB",
         "route": "798",
         "dir": "O",
-        "seq": 9,
+        "seq": 8,
         "stop": "001785",
         "stop_name_tc": "欣景路"
     },
@@ -227,7 +219,7 @@
         "co": "CTB",
         "route": "798",
         "dir": "O",
-        "seq": 10,
+        "seq": 9,
         "stop": "001683",
         "stop_name_tc": "梁潔華小學, 寶豐路"
     },
@@ -235,7 +227,7 @@
         "co": "CTB",
         "route": "798",
         "dir": "O",
-        "seq": 11,
+        "seq": 10,
         "stop": "001760",
         "stop_name_tc": "茵怡花園, 寶康路"
     },
@@ -243,7 +235,7 @@
         "co": "CTB",
         "route": "798",
         "dir": "O",
-        "seq": 12,
+        "seq": 11,
         "stop": "001759",
         "stop_name_tc": "寶康公園, 寶康路"
     },
@@ -251,7 +243,7 @@
         "co": "CTB",
         "route": "798",
         "dir": "O",
-        "seq": 13,
+        "seq": 12,
         "stop": "003589",
         "stop_name_tc": "將軍澳隧道巴士轉乘站"
     },
@@ -259,7 +251,7 @@
         "co": "CTB",
         "route": "798",
         "dir": "O",
-        "seq": 14,
+        "seq": 13,
         "stop": "001985",
         "stop_name_tc": "大老山隧道巴士轉乘站"
     },
@@ -267,7 +259,7 @@
         "co": "CTB",
         "route": "798",
         "dir": "O",
-        "seq": 15,
+        "seq": 14,
         "stop": "001962",
         "stop_name_tc": "田園閣, 沙田圍路"
     },
@@ -275,7 +267,7 @@
         "co": "CTB",
         "route": "798",
         "dir": "O",
-        "seq": 16,
+        "seq": 15,
         "stop": "001961",
         "stop_name_tc": "沙田站"
     },
@@ -283,7 +275,7 @@
         "co": "CTB",
         "route": "798",
         "dir": "O",
-        "seq": 17,
+        "seq": 16,
         "stop": "003560",
         "stop_name_tc": "瀝源邨, 源禾路"
     },
@@ -291,7 +283,7 @@
         "co": "CTB",
         "route": "798",
         "dir": "O",
-        "seq": 18,
+        "seq": 17,
         "stop": "003561",
         "stop_name_tc": "禾輋邨, 源禾路"
     },
@@ -299,7 +291,7 @@
         "co": "CTB",
         "route": "798",
         "dir": "O",
-        "seq": 19,
+        "seq": 18,
         "stop": "003294",
         "stop_name_tc": "火炭村, 火炭路"
     },
@@ -307,7 +299,7 @@
         "co": "CTB",
         "route": "798",
         "dir": "O",
-        "seq": 20,
+        "seq": 19,
         "stop": "003602",
         "stop_name_tc": "松頭下路, 火炭路"
     },
@@ -315,7 +307,7 @@
         "co": "CTB",
         "route": "798",
         "dir": "O",
-        "seq": 21,
+        "seq": 20,
         "stop": "003603",
         "stop_name_tc": "駿洋邨"
     },
