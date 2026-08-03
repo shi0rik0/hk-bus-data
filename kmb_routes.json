@@ -9405,42 +9405,31 @@
         "dest_sc": "铜锣湾(东院道)"
     },
     {
-        "route": "67A",
-        "bound": "I",
-        "service_type": "1",
-        "orig_en": "KWAI FONG (KWAI TSUI ESTATE)",
-        "orig_tc": "葵芳(葵翠邨)",
-        "orig_sc": "葵芳(葵翠邨)",
-        "dest_en": "TUEN MUN (PO TIN ESTATE)",
-        "dest_tc": "屯門(寶田邨)",
-        "dest_sc": "屯门(宝田邨)"
-    },
-    {
-        "route": "67A",
-        "bound": "O",
-        "service_type": "1",
-        "orig_en": "TUEN MUN (PO TIN ESTATE)",
-        "orig_tc": "屯門(寶田邨)",
-        "orig_sc": "屯门(宝田邨)",
-        "dest_en": "KWAI FONG (KWAI TSUI ESTATE)",
-        "dest_tc": "葵芳(葵翠邨)",
-        "dest_sc": "葵芳(葵翠邨)"
-    },
-    {
         "route": "67M",
         "bound": "I",
         "service_type": "1",
         "orig_en": "KWAI FONG STATION",
         "orig_tc": "葵芳站",
         "orig_sc": "葵芳站",
-        "dest_en": "TUEN MUN (SIU HONG COURT)",
-        "dest_tc": "屯門(兆康苑)",
-        "dest_sc": "屯门(兆康苑)"
+        "dest_en": "TUEN MUN (PO TIN ESTATE)",
+        "dest_tc": "屯門(寶田邨)",
+        "dest_sc": "屯门(宝田邨)"
     },
     {
         "route": "67M",
         "bound": "O",
         "service_type": "1",
+        "orig_en": "TUEN MUN (PO TIN ESTATE)",
+        "orig_tc": "屯門(寶田邨)",
+        "orig_sc": "屯门(宝田邨)",
+        "dest_en": "KWAI FONG STATION",
+        "dest_tc": "葵芳站",
+        "dest_sc": "葵芳站"
+    },
+    {
+        "route": "67M",
+        "bound": "O",
+        "service_type": "2",
         "orig_en": "TUEN MUN (SIU HONG COURT)",
         "orig_tc": "屯門(兆康苑)",
         "orig_sc": "屯门(兆康苑)",

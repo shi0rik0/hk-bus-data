@@ -154536,334 +154536,6 @@
         "stop_name_tc": "銅鑼灣(東院道)總站"
     },
     {
-        "route": "67A",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "1",
-        "stop": "376B94FDBA371A25",
-        "stop_name_tc": "葵芳(葵翠邨)總站 (KW914)"
-    },
-    {
-        "route": "67A",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "2",
-        "stop": "3CB45560769AA11A",
-        "stop_name_tc": "葵芳邨 (KW105)"
-    },
-    {
-        "route": "67A",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "3",
-        "stop": "D6A21211E4788F7B",
-        "stop_name_tc": "光輝圍 (KW114)"
-    },
-    {
-        "route": "67A",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "4",
-        "stop": "AB10F01039440464",
-        "stop_name_tc": "葵涌健全街 (KW127)"
-    },
-    {
-        "route": "67A",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "5",
-        "stop": "354A2C15BD189228",
-        "stop_name_tc": "大窩口轉車站-大窩口站 (KW132)"
-    },
-    {
-        "route": "67A",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "6",
-        "stop": "C7FC5050194509AE",
-        "stop_name_tc": "荃灣眾安街 (TW137)"
-    },
-    {
-        "route": "67A",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "7",
-        "stop": "0115F5FC6A7772C3",
-        "stop_name_tc": "福來邨永樂樓 (TW149)"
-    },
-    {
-        "route": "67A",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "8",
-        "stop": "12E6D91298FABAEE",
-        "stop_name_tc": "荃景圍天橋 (TW156)"
-    },
-    {
-        "route": "67A",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "9",
-        "stop": "DFE346B2C7332BC0",
-        "stop_name_tc": "屯門公路轉車站 (B6) (TM102)"
-    },
-    {
-        "route": "67A",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "10",
-        "stop": "872110C8ADA14DA1",
-        "stop_name_tc": "屯門公路轉車站 (B1) (TM107)"
-    },
-    {
-        "route": "67A",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "11",
-        "stop": "1E15CFA82F408124",
-        "stop_name_tc": "屯門官立中學 (TM137)"
-    },
-    {
-        "route": "67A",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "12",
-        "stop": "CD4626E2F32FE372",
-        "stop_name_tc": "華都花園 (TM242)"
-    },
-    {
-        "route": "67A",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "13",
-        "stop": "25E34120CA3AD554",
-        "stop_name_tc": "何福堂書院 (TM243)"
-    },
-    {
-        "route": "67A",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "14",
-        "stop": "02824AAFC038FA20",
-        "stop_name_tc": "景峰花園 (TM246)"
-    },
-    {
-        "route": "67A",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "15",
-        "stop": "B954B8082D1AA9B0",
-        "stop_name_tc": "富泰邨 (TM254)"
-    },
-    {
-        "route": "67A",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "16",
-        "stop": "E16D49ECA536ECC6",
-        "stop_name_tc": "兆康路 (TM528)"
-    },
-    {
-        "route": "67A",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "17",
-        "stop": "EDAD79A7F0FE08D8",
-        "stop_name_tc": "菁田邨 (TM495)"
-    },
-    {
-        "route": "67A",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "18",
-        "stop": "C054428621712B5C",
-        "stop_name_tc": "NOVO LAND (TM497)"
-    },
-    {
-        "route": "67A",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "19",
-        "stop": "787BD27C926C60F7",
-        "stop_name_tc": "和田邨 (TM502)"
-    },
-    {
-        "route": "67A",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "20",
-        "stop": "92DFA68888DB615D",
-        "stop_name_tc": "寶田轉車站 - 寶田總站 (TM924)"
-    },
-    {
-        "route": "67A",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "1",
-        "stop": "92DFA68888DB615D",
-        "stop_name_tc": "寶田轉車站 - 寶田總站 (TM924)"
-    },
-    {
-        "route": "67A",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "2",
-        "stop": "B491EC8833D9928B",
-        "stop_name_tc": "和田邨 (TM500)"
-    },
-    {
-        "route": "67A",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "3",
-        "stop": "90CFA838B3C95AE0",
-        "stop_name_tc": "NOVO LAND (TM520)"
-    },
-    {
-        "route": "67A",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "4",
-        "stop": "C2B20556AB5A2C1C",
-        "stop_name_tc": "紫田村 (TM521)"
-    },
-    {
-        "route": "67A",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "5",
-        "stop": "580D52F4D93CAD9B",
-        "stop_name_tc": "欣田邨 (TM488)"
-    },
-    {
-        "route": "67A",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "6",
-        "stop": "F1D1F84A466543BE",
-        "stop_name_tc": "富泰邨 (TM286)"
-    },
-    {
-        "route": "67A",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "7",
-        "stop": "FA553D19AD960A9B",
-        "stop_name_tc": "景峰花園 (TM294)"
-    },
-    {
-        "route": "67A",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "8",
-        "stop": "642F7D358D36F715",
-        "stop_name_tc": "新圍仔 (TM296)"
-    },
-    {
-        "route": "67A",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "9",
-        "stop": "68354B780EDFC52B",
-        "stop_name_tc": "華都花園 (TM298)"
-    },
-    {
-        "route": "67A",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "10",
-        "stop": "665CE110A84542E9",
-        "stop_name_tc": "屯門官立中學 (TM731)"
-    },
-    {
-        "route": "67A",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "11",
-        "stop": "376C4835851621D4",
-        "stop_name_tc": "屯門公路轉車站 (TM750)"
-    },
-    {
-        "route": "67A",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "12",
-        "stop": "CA6AB8446B694566",
-        "stop_name_tc": "屯門公路轉車站 (A5) (TM754)"
-    },
-    {
-        "route": "67A",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "13",
-        "stop": "ED364A58F885DC92",
-        "stop_name_tc": "荃景圍天橋 (TW378)"
-    },
-    {
-        "route": "67A",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "14",
-        "stop": "5941DC3E9FA7BE8B",
-        "stop_name_tc": "愉景新城 (TW382)"
-    },
-    {
-        "route": "67A",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "15",
-        "stop": "85B0E39398B91605",
-        "stop_name_tc": "荃灣站 (TW385)"
-    },
-    {
-        "route": "67A",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "16",
-        "stop": "1F934873940D1F49",
-        "stop_name_tc": "荃灣眾安街 (TW387)"
-    },
-    {
-        "route": "67A",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "17",
-        "stop": "AAB411C52D067AD1",
-        "stop_name_tc": "大窩口轉車站 -大窩口站 (KW393)"
-    },
-    {
-        "route": "67A",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "18",
-        "stop": "6A20A74A8B3F78A3",
-        "stop_name_tc": "國瑞路公園 (KW397)"
-    },
-    {
-        "route": "67A",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "19",
-        "stop": "0E65D3EC41A1D34B",
-        "stop_name_tc": "葵俊苑 (KW454)"
-    },
-    {
-        "route": "67A",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "20",
-        "stop": "4E3FEA4E559A5D16",
-        "stop_name_tc": "新葵興花園 (KW458)"
-    },
-    {
-        "route": "67A",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "21",
-        "stop": "376B94FDBA371A25",
-        "stop_name_tc": "葵芳(葵翠邨)總站 (KW914)"
-    },
-    {
         "route": "67M",
         "bound": "I",
         "service_type": "1",
@@ -155036,22 +154708,78 @@
         "bound": "I",
         "service_type": "1",
         "seq": "22",
-        "stop": "7B966B22D0464566",
-        "stop_name_tc": "兆康苑總站 (TM901)"
+        "stop": "EDAD79A7F0FE08D8",
+        "stop_name_tc": "菁田邨 (TM495)"
+    },
+    {
+        "route": "67M",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "23",
+        "stop": "C054428621712B5C",
+        "stop_name_tc": "NOVO LAND (TM497)"
+    },
+    {
+        "route": "67M",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "24",
+        "stop": "787BD27C926C60F7",
+        "stop_name_tc": "和田邨 (TM502)"
+    },
+    {
+        "route": "67M",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "25",
+        "stop": "92DFA68888DB615D",
+        "stop_name_tc": "寶田轉車站 - 寶田總站 (TM924)"
     },
     {
         "route": "67M",
         "bound": "O",
         "service_type": "1",
         "seq": "1",
-        "stop": "7B966B22D0464566",
-        "stop_name_tc": "兆康苑總站 (TM901)"
+        "stop": "92DFA68888DB615D",
+        "stop_name_tc": "寶田轉車站 - 寶田總站 (TM924)"
     },
     {
         "route": "67M",
         "bound": "O",
         "service_type": "1",
         "seq": "2",
+        "stop": "B491EC8833D9928B",
+        "stop_name_tc": "和田邨 (TM500)"
+    },
+    {
+        "route": "67M",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "3",
+        "stop": "90CFA838B3C95AE0",
+        "stop_name_tc": "NOVO LAND (TM520)"
+    },
+    {
+        "route": "67M",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "4",
+        "stop": "C2B20556AB5A2C1C",
+        "stop_name_tc": "紫田村 (TM521)"
+    },
+    {
+        "route": "67M",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "5",
+        "stop": "580D52F4D93CAD9B",
+        "stop_name_tc": "欣田邨 (TM488)"
+    },
+    {
+        "route": "67M",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "6",
         "stop": "3199543D3AE70527",
         "stop_name_tc": "五柳路 (TM490)"
     },
@@ -155059,7 +154787,7 @@
         "route": "67M",
         "bound": "O",
         "service_type": "1",
-        "seq": "3",
+        "seq": "7",
         "stop": "F1D1F84A466543BE",
         "stop_name_tc": "富泰邨 (TM286)"
     },
@@ -155067,7 +154795,7 @@
         "route": "67M",
         "bound": "O",
         "service_type": "1",
-        "seq": "4",
+        "seq": "8",
         "stop": "AA5DA45828958EAE",
         "stop_name_tc": "嶺南大學 (TM290)"
     },
@@ -155075,7 +154803,7 @@
         "route": "67M",
         "bound": "O",
         "service_type": "1",
-        "seq": "5",
+        "seq": "9",
         "stop": "876057D899CE09C9",
         "stop_name_tc": "彩暉花園 (TM293)"
     },
@@ -155083,7 +154811,7 @@
         "route": "67M",
         "bound": "O",
         "service_type": "1",
-        "seq": "6",
+        "seq": "10",
         "stop": "FA553D19AD960A9B",
         "stop_name_tc": "景峰花園 (TM294)"
     },
@@ -155091,7 +154819,7 @@
         "route": "67M",
         "bound": "O",
         "service_type": "1",
-        "seq": "7",
+        "seq": "11",
         "stop": "642F7D358D36F715",
         "stop_name_tc": "新圍仔 (TM296)"
     },
@@ -155099,7 +154827,7 @@
         "route": "67M",
         "bound": "O",
         "service_type": "1",
-        "seq": "8",
+        "seq": "12",
         "stop": "F269ACD809D1B43E",
         "stop_name_tc": "何福堂書院 (TM297)"
     },
@@ -155107,7 +154835,7 @@
         "route": "67M",
         "bound": "O",
         "service_type": "1",
-        "seq": "9",
+        "seq": "13",
         "stop": "68354B780EDFC52B",
         "stop_name_tc": "華都花園 (TM298)"
     },
@@ -155115,7 +154843,7 @@
         "route": "67M",
         "bound": "O",
         "service_type": "1",
-        "seq": "10",
+        "seq": "14",
         "stop": "665CE110A84542E9",
         "stop_name_tc": "屯門官立中學 (TM731)"
     },
@@ -155123,7 +154851,7 @@
         "route": "67M",
         "bound": "O",
         "service_type": "1",
-        "seq": "11",
+        "seq": "15",
         "stop": "376C4835851621D4",
         "stop_name_tc": "屯門公路轉車站 (TM750)"
     },
@@ -155131,7 +154859,7 @@
         "route": "67M",
         "bound": "O",
         "service_type": "1",
-        "seq": "12",
+        "seq": "16",
         "stop": "CA6AB8446B694566",
         "stop_name_tc": "屯門公路轉車站 (A5) (TM754)"
     },
@@ -155139,7 +154867,7 @@
         "route": "67M",
         "bound": "O",
         "service_type": "1",
-        "seq": "13",
+        "seq": "17",
         "stop": "10860B611840CF22",
         "stop_name_tc": "荃景圍天橋 (TW377)"
     },
@@ -155147,7 +154875,7 @@
         "route": "67M",
         "bound": "O",
         "service_type": "1",
-        "seq": "14",
+        "seq": "18",
         "stop": "D6C06E7091666AB4",
         "stop_name_tc": "愉景新城 (TW383)"
     },
@@ -155155,7 +154883,7 @@
         "route": "67M",
         "bound": "O",
         "service_type": "1",
-        "seq": "15",
+        "seq": "19",
         "stop": "F8D8D0AED9889278",
         "stop_name_tc": "荃灣站 (TW386)"
     },
@@ -155163,7 +154891,7 @@
         "route": "67M",
         "bound": "O",
         "service_type": "1",
-        "seq": "16",
+        "seq": "20",
         "stop": "CA8554613AAA6C49",
         "stop_name_tc": "荃灣眾安街 (TW390)"
     },
@@ -155171,7 +154899,7 @@
         "route": "67M",
         "bound": "O",
         "service_type": "1",
-        "seq": "17",
+        "seq": "21",
         "stop": "AAB411C52D067AD1",
         "stop_name_tc": "大窩口轉車站 -大窩口站 (KW393)"
     },
@@ -155179,7 +154907,7 @@
         "route": "67M",
         "bound": "O",
         "service_type": "1",
-        "seq": "18",
+        "seq": "22",
         "stop": "6A20A74A8B3F78A3",
         "stop_name_tc": "國瑞路公園 (KW397)"
     },
@@ -155187,7 +154915,7 @@
         "route": "67M",
         "bound": "O",
         "service_type": "1",
-        "seq": "19",
+        "seq": "23",
         "stop": "B09E06FF6EF5A8C4",
         "stop_name_tc": "葵俊苑 (KW455)"
     },
@@ -155195,7 +154923,7 @@
         "route": "67M",
         "bound": "O",
         "service_type": "1",
-        "seq": "20",
+        "seq": "24",
         "stop": "508B02C5E209E802",
         "stop_name_tc": "新葵興花園 (KW457)"
     },
@@ -155203,7 +154931,7 @@
         "route": "67M",
         "bound": "O",
         "service_type": "1",
-        "seq": "21",
+        "seq": "25",
         "stop": "6C11A9780213BBBB",
         "stop_name_tc": "新都會廣場 (KW536)"
     },
@@ -155211,6 +154939,182 @@
         "route": "67M",
         "bound": "O",
         "service_type": "1",
+        "seq": "26",
+        "stop": "716A72D0EAAC8738",
+        "stop_name_tc": "葵芳站巴士總站 (KW906)"
+    },
+    {
+        "route": "67M",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "1",
+        "stop": "7B966B22D0464566",
+        "stop_name_tc": "兆康苑總站 (TM901)"
+    },
+    {
+        "route": "67M",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "2",
+        "stop": "3199543D3AE70527",
+        "stop_name_tc": "五柳路 (TM490)"
+    },
+    {
+        "route": "67M",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "3",
+        "stop": "F1D1F84A466543BE",
+        "stop_name_tc": "富泰邨 (TM286)"
+    },
+    {
+        "route": "67M",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "4",
+        "stop": "AA5DA45828958EAE",
+        "stop_name_tc": "嶺南大學 (TM290)"
+    },
+    {
+        "route": "67M",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "5",
+        "stop": "876057D899CE09C9",
+        "stop_name_tc": "彩暉花園 (TM293)"
+    },
+    {
+        "route": "67M",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "6",
+        "stop": "FA553D19AD960A9B",
+        "stop_name_tc": "景峰花園 (TM294)"
+    },
+    {
+        "route": "67M",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "7",
+        "stop": "642F7D358D36F715",
+        "stop_name_tc": "新圍仔 (TM296)"
+    },
+    {
+        "route": "67M",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "8",
+        "stop": "F269ACD809D1B43E",
+        "stop_name_tc": "何福堂書院 (TM297)"
+    },
+    {
+        "route": "67M",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "9",
+        "stop": "68354B780EDFC52B",
+        "stop_name_tc": "華都花園 (TM298)"
+    },
+    {
+        "route": "67M",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "10",
+        "stop": "665CE110A84542E9",
+        "stop_name_tc": "屯門官立中學 (TM731)"
+    },
+    {
+        "route": "67M",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "11",
+        "stop": "376C4835851621D4",
+        "stop_name_tc": "屯門公路轉車站 (TM750)"
+    },
+    {
+        "route": "67M",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "12",
+        "stop": "CA6AB8446B694566",
+        "stop_name_tc": "屯門公路轉車站 (A5) (TM754)"
+    },
+    {
+        "route": "67M",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "13",
+        "stop": "10860B611840CF22",
+        "stop_name_tc": "荃景圍天橋 (TW377)"
+    },
+    {
+        "route": "67M",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "14",
+        "stop": "D6C06E7091666AB4",
+        "stop_name_tc": "愉景新城 (TW383)"
+    },
+    {
+        "route": "67M",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "15",
+        "stop": "F8D8D0AED9889278",
+        "stop_name_tc": "荃灣站 (TW386)"
+    },
+    {
+        "route": "67M",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "16",
+        "stop": "CA8554613AAA6C49",
+        "stop_name_tc": "荃灣眾安街 (TW390)"
+    },
+    {
+        "route": "67M",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "17",
+        "stop": "AAB411C52D067AD1",
+        "stop_name_tc": "大窩口轉車站 -大窩口站 (KW393)"
+    },
+    {
+        "route": "67M",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "18",
+        "stop": "6A20A74A8B3F78A3",
+        "stop_name_tc": "國瑞路公園 (KW397)"
+    },
+    {
+        "route": "67M",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "19",
+        "stop": "B09E06FF6EF5A8C4",
+        "stop_name_tc": "葵俊苑 (KW455)"
+    },
+    {
+        "route": "67M",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "20",
+        "stop": "508B02C5E209E802",
+        "stop_name_tc": "新葵興花園 (KW457)"
+    },
+    {
+        "route": "67M",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "21",
+        "stop": "6C11A9780213BBBB",
+        "stop_name_tc": "新都會廣場 (KW536)"
+    },
+    {
+        "route": "67M",
+        "bound": "O",
+        "service_type": "2",
         "seq": "22",
         "stop": "716A72D0EAAC8738",
         "stop_name_tc": "葵芳站巴士總站 (KW906)"
