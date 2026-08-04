@@ -246661,7 +246661,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "7F8BF075DDF6231A",
-        "stop_name_tc": "迎東邨總站 (TC992)"
+        "stop_name_tc": "迎東邨 (TC992)"
     },
     {
         "route": "E32A",
@@ -248485,7 +248485,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "7F8BF075DDF6231A",
-        "stop_name_tc": "迎東邨總站 (TC992)"
+        "stop_name_tc": "迎東邨 (TC992)"
     },
     {
         "route": "E36A",
@@ -266549,7 +266549,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "7F8BF075DDF6231A",
-        "stop_name_tc": "迎東邨總站 (TC992)"
+        "stop_name_tc": "迎東邨 (TC992)"
     },
     {
         "route": "N31",
