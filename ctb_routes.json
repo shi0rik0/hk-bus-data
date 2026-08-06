@@ -3784,10 +3784,10 @@
         "route": "NA21",
         "orig_tc": "機場 / 港珠澳大橋香港口岸",
         "orig_en": "Airport / HZMB Hong Kong Port",
-        "dest_tc": "大角咀 (海輝道)",
-        "dest_en": "Tai Kok Tsui (Hoi Fai Road)",
+        "dest_tc": "旺角 / 南昌",
+        "dest_en": "Mongkok /  Nam Cheong",
         "orig_sc": "机场 / 港珠澳大桥香港口岸",
-        "dest_sc": "大角咀 (海辉道)"
+        "dest_sc": "旺角 / 南昌"
     },
     {
         "co": "CTB",
