@@ -3012,11 +3012,11 @@
     {
         "co": "CTB",
         "route": "A20",
-        "orig_tc": "紅磡站",
-        "orig_en": "Hung Hom Station",
+        "orig_tc": "何文田",
+        "orig_en": "Ho Man Tin",
         "dest_tc": "機場",
         "dest_en": "Airport",
-        "orig_sc": "红磡站",
+        "orig_sc": "何文田",
         "dest_sc": "机场"
     },
     {
