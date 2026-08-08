@@ -94148,8 +94148,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "13",
-        "stop": "9B90BAE383F14AD3",
-        "stop_name_tc": "英明苑"
+        "stop": "3BE0B584549B365D",
+        "stop_name_tc": null
     },
     {
         "route": "296M",
@@ -94244,8 +94244,8 @@
         "bound": "I",
         "service_type": "2",
         "seq": "9",
-        "stop": "9B90BAE383F14AD3",
-        "stop_name_tc": "英明苑"
+        "stop": "3BE0B584549B365D",
+        "stop_name_tc": null
     },
     {
         "route": "296M",
@@ -185913,6 +185913,14 @@
     },
     {
         "route": "80",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "28",
+        "stop": "17F010FBF594E572",
+        "stop_name_tc": "美林巴士總站 (TA963)"
+    },
+    {
+        "route": "80",
         "bound": "O",
         "service_type": "1",
         "seq": "1",
@@ -186122,6 +186130,14 @@
     {
         "route": "80",
         "bound": "O",
+        "service_type": "1",
+        "seq": "27",
+        "stop": "0D9932C476D51576",
+        "stop_name_tc": "觀塘碼頭 (KT935)"
+    },
+    {
+        "route": "80",
+        "bound": "O",
         "service_type": "2",
         "seq": "1",
         "stop": "17F010FBF594E572",
@@ -186278,6 +186294,14 @@
         "seq": "20",
         "stop": "71E3EB7E709522C7",
         "stop_name_tc": "觀塘開源道 (KT211)"
+    },
+    {
+        "route": "80",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "21",
+        "stop": "0D9932C476D51576",
+        "stop_name_tc": "觀塘碼頭 (KT935)"
     },
     {
         "route": "80A",
@@ -202053,7 +202077,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "038116DE4624B0DF",
-        "stop_name_tc": null
+        "stop_name_tc": "彩虹轉車站 - 彩虹總站 (WT997)"
     },
     {
         "route": "89B",
@@ -215372,8 +215396,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "3",
-        "stop": "9B90BAE383F14AD3",
-        "stop_name_tc": "英明苑"
+        "stop": "3BE0B584549B365D",
+        "stop_name_tc": null
     },
     {
         "route": "93K",
@@ -215668,8 +215692,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "8",
-        "stop": "9B90BAE383F14AD3",
-        "stop_name_tc": "英明苑"
+        "stop": "3BE0B584549B365D",
+        "stop_name_tc": null
     },
     {
         "route": "93M",
@@ -216140,8 +216164,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "3",
-        "stop": "9B90BAE383F14AD3",
-        "stop_name_tc": "英明苑"
+        "stop": "3BE0B584549B365D",
+        "stop_name_tc": null
     },
     {
         "route": "93P",
@@ -246612,24 +246636,24 @@
         "bound": "I",
         "service_type": "1",
         "seq": "6",
-        "stop": "7F8BF075DDF6231A",
-        "stop_name_tc": "迎東邨 (TC992)"
+        "stop": "CC57C2DF592993CB",
+        "stop_name_tc": "昇薈 (TC155)"
     },
     {
         "route": "E32A",
         "bound": "I",
         "service_type": "1",
         "seq": "7",
-        "stop": "2AA862C9E7E497EE",
-        "stop_name_tc": "昇薈 (TC220)"
+        "stop": "E6AD97BD84D3C0BC",
+        "stop_name_tc": null
     },
     {
         "route": "E32A",
         "bound": "I",
         "service_type": "1",
         "seq": "8",
-        "stop": "FE6D5955F777E39C",
-        "stop_name_tc": "迎禧路 (TC230)"
+        "stop": "92E674C6961B07CA",
+        "stop_name_tc": null
     },
     {
         "route": "E32A",
@@ -246892,32 +246916,32 @@
         "bound": "O",
         "service_type": "1",
         "seq": "15",
-        "stop": "1C958B99EB171940",
-        "stop_name_tc": "迎禧路裕雅苑 (TC150)"
+        "stop": "0EB1DDFEBF0D09E0",
+        "stop_name_tc": null
     },
     {
         "route": "E32A",
         "bound": "O",
         "service_type": "1",
         "seq": "16",
-        "stop": "AB63C9E8465C6002",
-        "stop_name_tc": "東環 (TC151)"
+        "stop": "DBC287AE0C58AEC0",
+        "stop_name_tc": null
     },
     {
         "route": "E32A",
         "bound": "O",
         "service_type": "1",
         "seq": "17",
-        "stop": "CC57C2DF592993CB",
-        "stop_name_tc": "昇薈 (TC155)"
+        "stop": "7F8BF075DDF6231A",
+        "stop_name_tc": "迎東邨 (TC992)"
     },
     {
         "route": "E32A",
         "bound": "O",
         "service_type": "1",
         "seq": "18",
-        "stop": "91DBF92544F472E6",
-        "stop_name_tc": "迎東邨 (TC991)"
+        "stop": "2AA862C9E7E497EE",
+        "stop_name_tc": "昇薈 (TC220)"
     },
     {
         "route": "E32A",
@@ -248436,24 +248460,24 @@
         "bound": "I",
         "service_type": "1",
         "seq": "10",
-        "stop": "7F8BF075DDF6231A",
-        "stop_name_tc": "迎東邨 (TC992)"
+        "stop": "CC57C2DF592993CB",
+        "stop_name_tc": "昇薈 (TC155)"
     },
     {
         "route": "E36A",
         "bound": "I",
         "service_type": "1",
         "seq": "11",
-        "stop": "2AA862C9E7E497EE",
-        "stop_name_tc": "昇薈 (TC220)"
+        "stop": "C9479F7A9B2C43CE",
+        "stop_name_tc": null
     },
     {
         "route": "E36A",
         "bound": "I",
         "service_type": "1",
         "seq": "12",
-        "stop": "FE6D5955F777E39C",
-        "stop_name_tc": "迎禧路 (TC230)"
+        "stop": "92E674C6961B07CA",
+        "stop_name_tc": null
     },
     {
         "route": "E36A",
@@ -248660,32 +248684,32 @@
         "bound": "O",
         "service_type": "1",
         "seq": "13",
-        "stop": "1C958B99EB171940",
-        "stop_name_tc": "迎禧路裕雅苑 (TC150)"
+        "stop": "0EB1DDFEBF0D09E0",
+        "stop_name_tc": null
     },
     {
         "route": "E36A",
         "bound": "O",
         "service_type": "1",
         "seq": "14",
-        "stop": "AB63C9E8465C6002",
-        "stop_name_tc": "東環 (TC151)"
+        "stop": "92E674C6961B07CA",
+        "stop_name_tc": null
     },
     {
         "route": "E36A",
         "bound": "O",
         "service_type": "1",
         "seq": "15",
-        "stop": "CC57C2DF592993CB",
-        "stop_name_tc": "昇薈 (TC155)"
+        "stop": "7F8BF075DDF6231A",
+        "stop_name_tc": "迎東邨 (TC992)"
     },
     {
         "route": "E36A",
         "bound": "O",
         "service_type": "1",
         "seq": "16",
-        "stop": "91DBF92544F472E6",
-        "stop_name_tc": "迎東邨 (TC991)"
+        "stop": "2AA862C9E7E497EE",
+        "stop_name_tc": "昇薈 (TC220)"
     },
     {
         "route": "E36A",
@@ -253678,6 +253702,174 @@
         "seq": "10",
         "stop": "24AA3CCF69A6572D",
         "stop_name_tc": "九龍站,高鐵站 (YT947)"
+    },
+    {
+        "route": "K12",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "1",
+        "stop": "A20B8580B8E9B95D",
+        "stop_name_tc": "大埔墟站巴士總站"
+    },
+    {
+        "route": "K12",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "2",
+        "stop": "D4001CA2F385E700",
+        "stop_name_tc": "大埔超級城"
+    },
+    {
+        "route": "K12",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "3",
+        "stop": "F7D0214CE5D8F22F",
+        "stop_name_tc": "八號花園"
+    },
+    {
+        "route": "K12",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "1",
+        "stop": "F7D0214CE5D8F22F",
+        "stop_name_tc": "八號花園"
+    },
+    {
+        "route": "K12",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "2",
+        "stop": "D758BEFF6536BFE9",
+        "stop_name_tc": "大埔超級城"
+    },
+    {
+        "route": "K12",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "3",
+        "stop": "DD78D147EB6130E3",
+        "stop_name_tc": "大埔墟站巴士總站"
+    },
+    {
+        "route": "K12",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "4",
+        "stop": "A20B8580B8E9B95D",
+        "stop_name_tc": "大埔墟站巴士總站"
+    },
+    {
+        "route": "K14",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "1",
+        "stop": "D758BEFF6536BFE9",
+        "stop_name_tc": "大埔超級城"
+    },
+    {
+        "route": "K14",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "2",
+        "stop": "DD78D147EB6130E3",
+        "stop_name_tc": "大埔墟站巴士總站"
+    },
+    {
+        "route": "K17",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "1",
+        "stop": "AE3AAFB2094C9DD6",
+        "stop_name_tc": "大埔墟站巴士總站"
+    },
+    {
+        "route": "K17",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "2",
+        "stop": "52DC1BF11D8EB4DA",
+        "stop_name_tc": "大埔中心第五期"
+    },
+    {
+        "route": "K17",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "3",
+        "stop": "2569BAE397FEE0BA",
+        "stop_name_tc": "富善邨"
+    },
+    {
+        "route": "K17",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "1",
+        "stop": "2569BAE397FEE0BA",
+        "stop_name_tc": "富善邨"
+    },
+    {
+        "route": "K17",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "2",
+        "stop": "5A7F59AB342237CE",
+        "stop_name_tc": "大埔墟站巴士總站"
+    },
+    {
+        "route": "K17",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "3",
+        "stop": "AE3AAFB2094C9DD6",
+        "stop_name_tc": "大埔墟站巴士總站"
+    },
+    {
+        "route": "K18",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "1",
+        "stop": "0676565808C51B06",
+        "stop_name_tc": "大埔墟站巴士總站"
+    },
+    {
+        "route": "K18",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "2",
+        "stop": "7C5D8F55807CFE78",
+        "stop_name_tc": "宏福苑"
+    },
+    {
+        "route": "K18",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "3",
+        "stop": "0E10C95214870DB0",
+        "stop_name_tc": "廣福"
+    },
+    {
+        "route": "K18",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "1",
+        "stop": "0E10C95214870DB0",
+        "stop_name_tc": "廣福"
+    },
+    {
+        "route": "K18",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "2",
+        "stop": "5A7F59AB342237CE",
+        "stop_name_tc": "大埔墟站巴士總站"
+    },
+    {
+        "route": "K18",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "3",
+        "stop": "0676565808C51B06",
+        "stop_name_tc": "大埔墟站巴士總站"
     },
     {
         "route": "N116",
@@ -266500,24 +266692,24 @@
         "bound": "I",
         "service_type": "1",
         "seq": "19",
-        "stop": "7F8BF075DDF6231A",
-        "stop_name_tc": "迎東邨 (TC992)"
+        "stop": "CC57C2DF592993CB",
+        "stop_name_tc": "昇薈 (TC155)"
     },
     {
         "route": "N31",
         "bound": "I",
         "service_type": "1",
         "seq": "20",
-        "stop": "2AA862C9E7E497EE",
-        "stop_name_tc": "昇薈 (TC220)"
+        "stop": "E6AD97BD84D3C0BC",
+        "stop_name_tc": null
     },
     {
         "route": "N31",
         "bound": "I",
         "service_type": "1",
         "seq": "21",
-        "stop": "FE6D5955F777E39C",
-        "stop_name_tc": "迎禧路 (TC230)"
+        "stop": "92E674C6961B07CA",
+        "stop_name_tc": null
     },
     {
         "route": "N31",
@@ -266692,32 +266884,32 @@
         "bound": "O",
         "service_type": "1",
         "seq": "11",
-        "stop": "1C958B99EB171940",
-        "stop_name_tc": "迎禧路裕雅苑 (TC150)"
+        "stop": "0EB1DDFEBF0D09E0",
+        "stop_name_tc": null
     },
     {
         "route": "N31",
         "bound": "O",
         "service_type": "1",
         "seq": "12",
-        "stop": "AB63C9E8465C6002",
-        "stop_name_tc": "東環 (TC151)"
+        "stop": "DBC287AE0C58AEC0",
+        "stop_name_tc": null
     },
     {
         "route": "N31",
         "bound": "O",
         "service_type": "1",
         "seq": "13",
-        "stop": "CC57C2DF592993CB",
-        "stop_name_tc": "昇薈 (TC155)"
+        "stop": "7F8BF075DDF6231A",
+        "stop_name_tc": "迎東邨 (TC992)"
     },
     {
         "route": "N31",
         "bound": "O",
         "service_type": "1",
         "seq": "14",
-        "stop": "91DBF92544F472E6",
-        "stop_name_tc": "迎東邨 (TC991)"
+        "stop": "2AA862C9E7E497EE",
+        "stop_name_tc": "昇薈 (TC220)"
     },
     {
         "route": "N31",

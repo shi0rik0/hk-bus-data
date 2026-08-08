@@ -12422,9 +12422,9 @@
         "route": "89B",
         "bound": "I",
         "service_type": "1",
-        "orig_en": "NGAU TAU KOK",
-        "orig_tc": "牛頭角",
-        "orig_sc": "牛头角",
+        "orig_en": "CHOI HUNG",
+        "orig_tc": "彩虹",
+        "orig_sc": "彩虹",
         "dest_en": "SHATIN WAI",
         "dest_tc": "沙田圍",
         "dest_sc": "沙田围"
@@ -12436,9 +12436,9 @@
         "orig_en": "SHATIN WAI",
         "orig_tc": "沙田圍",
         "orig_sc": "沙田围",
-        "dest_en": "NGAU TAU KOK",
-        "dest_tc": "牛頭角",
-        "dest_sc": "牛头角"
+        "dest_en": "CHOI HUNG",
+        "dest_tc": "彩虹",
+        "dest_sc": "彩虹"
     },
     {
         "route": "89C",
@@ -15607,6 +15607,83 @@
         "dest_en": "[KMB Tour HK] TSIM SHA TSUI and TSING MA BRIDGE",
         "dest_tc": "[九巴遊香港] 尖沙咀及青馬大橋",
         "dest_sc": "[九巴游香港] 尖沙咀及青马大桥"
+    },
+    {
+        "route": "K12",
+        "bound": "I",
+        "service_type": "1",
+        "orig_en": "TAI PO MARKET STATION",
+        "orig_tc": "大埔墟站",
+        "orig_sc": "大埔墟站",
+        "dest_en": "EIGHT LAND GARDEN",
+        "dest_tc": "八號花園",
+        "dest_sc": "八号花园"
+    },
+    {
+        "route": "K12",
+        "bound": "O",
+        "service_type": "1",
+        "orig_en": "EIGHT LAND GARDEN",
+        "orig_tc": "八號花園",
+        "orig_sc": "八号花园",
+        "dest_en": "TAI PO MARKET STATION",
+        "dest_tc": "大埔墟站",
+        "dest_sc": "大埔墟站"
+    },
+    {
+        "route": "K14",
+        "bound": "O",
+        "service_type": "1",
+        "orig_en": "TAI PO CENTRAL",
+        "orig_tc": "大埔太和路",
+        "orig_sc": "大埔太和路",
+        "dest_en": "TAI PO MARKET STATION",
+        "dest_tc": "大埔墟站",
+        "dest_sc": "大埔墟站"
+    },
+    {
+        "route": "K17",
+        "bound": "I",
+        "service_type": "1",
+        "orig_en": "TAI PO MARKET STATION",
+        "orig_tc": "大埔墟站",
+        "orig_sc": "大埔墟站",
+        "dest_en": "TAI PO (FU SHIN)",
+        "dest_tc": "大埔(富善)",
+        "dest_sc": "大埔(富善)"
+    },
+    {
+        "route": "K17",
+        "bound": "O",
+        "service_type": "1",
+        "orig_en": "TAI PO (FU SHIN)",
+        "orig_tc": "大埔(富善)",
+        "orig_sc": "大埔(富善)",
+        "dest_en": "TAI PO MARKET STATION",
+        "dest_tc": "大埔墟站",
+        "dest_sc": "大埔墟站"
+    },
+    {
+        "route": "K18",
+        "bound": "I",
+        "service_type": "1",
+        "orig_en": "TAI PO MARKET STATION",
+        "orig_tc": "大埔墟站",
+        "orig_sc": "大埔墟站",
+        "dest_en": "KWONG FUK ESTATE",
+        "dest_tc": "廣福",
+        "dest_sc": "广福"
+    },
+    {
+        "route": "K18",
+        "bound": "O",
+        "service_type": "1",
+        "orig_en": "KWONG FUK ESTATE",
+        "orig_tc": "廣福",
+        "orig_sc": "广福",
+        "dest_en": "TAI PO MARKET STATION",
+        "dest_tc": "大埔墟站",
+        "dest_sc": "大埔墟站"
     },
     {
         "route": "N116",
