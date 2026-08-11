@@ -3014,10 +3014,10 @@
         "route": "A20",
         "orig_tc": "何文田",
         "orig_en": "Ho Man Tin",
-        "dest_tc": "機場",
-        "dest_en": "Airport",
+        "dest_tc": "機場 (經港珠澳大橋香港口岸)",
+        "dest_en": "Airport (via HZMB Hong Kong Port)",
         "orig_sc": "何文田",
-        "dest_sc": "机场"
+        "dest_sc": "机场 (经港珠澳大桥香港口岸)"
     },
     {
         "co": "CTB",
