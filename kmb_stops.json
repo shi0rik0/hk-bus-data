@@ -5552,14 +5552,6 @@
         "long": "114.188598"
     },
     {
-        "stop": "1AB800949FF1203B",
-        "name_en": "LUEN WO HUI BUS TERMINUS (ND961)",
-        "name_tc": "聯和墟總站 (ND961)",
-        "name_sc": "联和墟总站 (ND961)",
-        "lat": "22.500346",
-        "long": "114.143625"
-    },
-    {
         "stop": "1AB934EFE0E1470A",
         "name_en": "ARSENAL STREET",
         "name_tc": "軍器廠街",
@@ -6977,9 +6969,9 @@
     },
     {
         "stop": "21466046C6868AA7",
-        "name_en": "AIRPORT (GTC) (CL900)",
-        "name_tc": "機場地面運輸中心 (CL900)",
-        "name_sc": "机场地面运输中心 (CL900)",
+        "name_en": "AIRPORT (GTC) (ALIGHTING STOP) (CL900)",
+        "name_tc": "機場地面運輸中心 (落客站)",
+        "name_sc": "机场地面运输中心 (落客站)",
         "lat": "22.312604",
         "long": "113.937526"
     },
@@ -9838,6 +9830,14 @@
         "name_sc": "兴华邨兴翠楼",
         "lat": "22.262655",
         "long": "114.234518"
+    },
+    {
+        "stop": "2F0E6EBEACC4B9D9",
+        "name_en": "LUEN WO HUI BUS TERMINUS",
+        "name_tc": "聯和墟總站",
+        "name_sc": "联和墟总站",
+        "lat": "0.000000",
+        "long": "0.000000"
     },
     {
         "stop": "2F163186FB995E0B",
