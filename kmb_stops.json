@@ -9833,9 +9833,9 @@
     },
     {
         "stop": "2F0E6EBEACC4B9D9",
-        "name_en": "LUEN WO HUI BUS TERMINUS",
-        "name_tc": "聯和墟總站",
-        "name_sc": "联和墟总站",
+        "name_en": "LUEN WO HUI BUS TERMINUS (ND967)",
+        "name_tc": "聯和墟總站 (ND967)",
+        "name_sc": "联和墟总站 (ND967)",
         "lat": "0.000000",
         "long": "0.000000"
     },
@@ -33048,6 +33048,14 @@
         "long": "114.183159"
     },
     {
+        "stop": "9DBFBF7A3CE5DF0A",
+        "name_en": "FANLING STATION BBI-FANLING STATION (ND497)",
+        "name_tc": "粉嶺站轉車站-粉嶺站 (ND497)",
+        "name_sc": "粉岭站转车站-粉岭站 (ND497)",
+        "lat": "22.492376",
+        "long": "114.138830"
+    },
+    {
         "stop": "9DC117C78DBDB1A7",
         "name_en": "THE AEGEAN (TM321)",
         "name_tc": "愛琴灣 (TM321)",
@@ -34150,6 +34158,14 @@
         "name_sc": "坪朗 (TP147)",
         "lat": "22.445870",
         "long": "114.132429"
+    },
+    {
+        "stop": "A278B33099733DB5",
+        "name_en": "FUNG WONG LENG ESTATE (ND865)",
+        "name_tc": "鳳凰嶺邨 (ND865)",
+        "name_sc": "凤凰岭邨 (ND865)",
+        "lat": "22.503617",
+        "long": "114.144108"
     },
     {
         "stop": "A28048B524056C9D",
@@ -38374,6 +38390,14 @@
         "name_sc": "宏福苑 (TP350)",
         "lat": "22.447504",
         "long": "114.174799"
+    },
+    {
+        "stop": "B63202433AD89E92",
+        "name_en": "LUEN WO HUI BUS TERMINUS (ND961)",
+        "name_tc": "聯和墟總站 (ND961)",
+        "name_sc": "联和墟总站 (ND961)",
+        "lat": "22.500346",
+        "long": "114.143625"
     },
     {
         "stop": "B63533CEFAA3269F",
@@ -44630,14 +44654,6 @@
         "name_sc": "水盏田",
         "lat": "22.427429",
         "long": "114.082361"
-    },
-    {
-        "stop": "D44F9DCC71251889",
-        "name_en": "LUEN WO HUI BUS TERMINUS (ND967)",
-        "name_tc": "聯和墟總站 (ND967)",
-        "name_sc": "联和墟总站 (ND967)",
-        "lat": "22.500471",
-        "long": "114.143622"
     },
     {
         "stop": "D454783409D8D7FF",

@@ -10934,6 +10934,28 @@
         "dest_sc": "和合石"
     },
     {
+        "route": "77",
+        "bound": "I",
+        "service_type": "1",
+        "orig_en": "SHEUNG SHUI (TAI PING)",
+        "orig_tc": "上水(太平)",
+        "orig_sc": "上水(太平)",
+        "dest_en": "FUNG WONG LENG ESTATE",
+        "dest_tc": "鳳凰嶺邨",
+        "dest_sc": "凤凰岭邨"
+    },
+    {
+        "route": "77",
+        "bound": "O",
+        "service_type": "1",
+        "orig_en": "FUNG WONG LENG ESTATE",
+        "orig_tc": "鳳凰嶺邨",
+        "orig_sc": "凤凰岭邨",
+        "dest_en": "SHEUNG SHUI (TAI PING)",
+        "dest_tc": "上水(太平)",
+        "dest_sc": "上水(太平)"
+    },
+    {
         "route": "77K",
         "bound": "I",
         "service_type": "1",
