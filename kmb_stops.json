@@ -9836,8 +9836,8 @@
         "name_en": "LUEN WO HUI BUS TERMINUS (ND967)",
         "name_tc": "聯和墟總站 (ND967)",
         "name_sc": "联和墟总站 (ND967)",
-        "lat": "0.000000",
-        "long": "0.000000"
+        "lat": "22.500346",
+        "long": "114.143625"
     },
     {
         "stop": "2F163186FB995E0B",
@@ -10777,9 +10777,9 @@
     },
     {
         "stop": "325FDAE396B59480",
-        "name_en": "SUN HING GARDEN (TP381)",
-        "name_tc": "新興花園 (TP381)",
-        "name_sc": "新兴花园 (TP381)",
+        "name_en": "SUN HING GARDEN,TAI PO CENTRE PHASE 5 (TP381)",
+        "name_tc": "新興花園,大埔中心五期 (TP381)",
+        "name_sc": "新兴花园,大埔中心五期 (TP381)",
         "lat": "22.452910",
         "long": "114.172626"
     },
@@ -30489,9 +30489,9 @@
     },
     {
         "stop": "916501787D3948F1",
-        "name_en": "DAI FAT STREET TAI PO (TP736)",
-        "name_tc": "大埔大發街 (TP736)",
-        "name_sc": "大埔大发街 (TP736)",
+        "name_en": "DAI FAT STREET, FUNG YUEN ROAD (TP736)",
+        "name_tc": "大發街, 鳳園路 (TP736)",
+        "name_sc": "大发街, 凤园路 (TP736)",
         "lat": "22.458961",
         "long": "114.180318"
     },
@@ -36561,9 +36561,9 @@
     },
     {
         "stop": "ACDCC9E65172243D",
-        "name_en": "SUN HING GARDEN (TP382)",
-        "name_tc": "新興花園 (TP382)",
-        "name_sc": "新兴花园 (TP382)",
+        "name_en": "SUN HING GARDEN, TAI PO CENTRE PHASE 5 (TP382)",
+        "name_tc": "新興花園,大埔中心五期 (TP382)",
+        "name_sc": "新兴花园,大埔中心五期 (TP382)",
         "lat": "22.452910",
         "long": "114.172626"
     },
