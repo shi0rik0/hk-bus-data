@@ -26208,6 +26208,14 @@
         "long": "114.166374"
     },
     {
+        "stop": "7B730DF319D6FBA7",
+        "name_en": "KEI SHUN SPECIAL SCHOOL",
+        "name_tc": "基順學校",
+        "name_sc": "基顺学校",
+        "lat": "22.332596",
+        "long": "114.223330"
+    },
+    {
         "stop": "7B93AB79165E79E6",
         "name_en": "YOHO MALL (YL241)",
         "name_tc": "形點 I (YL241)",
@@ -31070,14 +31078,6 @@
         "name_sc": "荔景北巴士总站 (KW997)",
         "lat": "22.351730",
         "long": "114.127228"
-    },
-    {
-        "stop": "942084E1090F193E",
-        "name_en": "LEE MING HOUSE",
-        "name_tc": "利明樓",
-        "name_sc": "利明楼",
-        "lat": "22.331600",
-        "long": "114.224738"
     },
     {
         "stop": "94236C65C84D8C17",
@@ -39014,14 +39014,6 @@
         "name_sc": "八乡石岗桥 (YL642)",
         "lat": "22.440537",
         "long": "114.077602"
-    },
-    {
-        "stop": "B932B24E7F3C5677",
-        "name_en": "KEI SHUN SPECIAL SCHOOL",
-        "name_tc": "基順學校",
-        "name_sc": "基顺学校",
-        "lat": "22.332995",
-        "long": "114.222363"
     },
     {
         "stop": "B9343464EDE68947",
@@ -49382,6 +49374,14 @@
         "name_sc": "台山小学 (TM472)",
         "lat": "22.401251",
         "long": "113.971800"
+    },
+    {
+        "stop": "EB666DF59D741258",
+        "name_en": "KEI SHUN SPECIAL SCHOOL (KT236)",
+        "name_tc": "基順學校 (KT236)",
+        "name_sc": "基顺学校 (KT236)",
+        "lat": "22.332535",
+        "long": "114.223473"
     },
     {
         "stop": "EB9531CB75DC2589",

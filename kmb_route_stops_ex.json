@@ -46828,6 +46828,14 @@
         "bound": "O",
         "service_type": "1",
         "seq": "1",
+        "stop": "90481AAABF662D3B",
+        "stop_name_tc": null
+    },
+    {
+        "route": "252S",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "2",
         "stop": "46D78D8886A71B3B",
         "stop_name_tc": "恒順園 (TM301)"
     },
@@ -46835,7 +46843,7 @@
         "route": "252S",
         "bound": "O",
         "service_type": "1",
-        "seq": "2",
+        "seq": "3",
         "stop": "630AA1866C5372B6",
         "stop_name_tc": "恒豐園 (TM302)"
     },
@@ -46843,7 +46851,7 @@
         "route": "252S",
         "bound": "O",
         "service_type": "1",
-        "seq": "3",
+        "seq": "4",
         "stop": "C90375A74B02D2E8",
         "stop_name_tc": "三聖邨 (TM304)"
     },
@@ -46851,7 +46859,7 @@
         "route": "252S",
         "bound": "O",
         "service_type": "1",
-        "seq": "4",
+        "seq": "5",
         "stop": "EEC48EC880FC63CB",
         "stop_name_tc": "青山灣 (TM307)"
     },
@@ -46859,7 +46867,7 @@
         "route": "252S",
         "bound": "O",
         "service_type": "1",
-        "seq": "5",
+        "seq": "6",
         "stop": "242418A9AB386596",
         "stop_name_tc": "海景花園 (TM308)"
     },
@@ -46867,7 +46875,7 @@
         "route": "252S",
         "bound": "O",
         "service_type": "1",
-        "seq": "6",
+        "seq": "7",
         "stop": "A9D85812EAEE6C17",
         "stop_name_tc": "咖啡灣 (TM310)"
     },
@@ -46875,7 +46883,7 @@
         "route": "252S",
         "bound": "O",
         "service_type": "1",
-        "seq": "7",
+        "seq": "8",
         "stop": "971554761E4413EF",
         "stop_name_tc": "黃金泳灘 (TM312)"
     },
@@ -46883,7 +46891,7 @@
         "route": "252S",
         "bound": "O",
         "service_type": "1",
-        "seq": "8",
+        "seq": "9",
         "stop": "7FB2AE7FA13EDB0F",
         "stop_name_tc": "香港黃金海岸 (TM314)"
     },
@@ -46891,7 +46899,7 @@
         "route": "252S",
         "bound": "O",
         "service_type": "1",
-        "seq": "9",
+        "seq": "10",
         "stop": "79D10A715EAC0EFF",
         "stop_name_tc": "掃管笏 (TM366)"
     },
@@ -46899,7 +46907,7 @@
         "route": "252S",
         "bound": "O",
         "service_type": "1",
-        "seq": "10",
+        "seq": "11",
         "stop": "130015EE1C05A484",
         "stop_name_tc": "掃管笏路 (TM403)"
     },
@@ -46907,7 +46915,7 @@
         "route": "252S",
         "bound": "O",
         "service_type": "1",
-        "seq": "11",
+        "seq": "12",
         "stop": "0F9DE5E3F13FBABA",
         "stop_name_tc": "星堤 (TM406)"
     },
@@ -46915,7 +46923,7 @@
         "route": "252S",
         "bound": "O",
         "service_type": "1",
-        "seq": "12",
+        "seq": "13",
         "stop": "FCE8D0E0D2A89B8B",
         "stop_name_tc": "管翠路 (TM407)"
     },
@@ -46923,7 +46931,7 @@
         "route": "252S",
         "bound": "O",
         "service_type": "1",
-        "seq": "13",
+        "seq": "14",
         "stop": "D77779E531F14725",
         "stop_name_tc": "愛琴海岸 (TM410)"
     },
@@ -46931,7 +46939,7 @@
         "route": "252S",
         "bound": "O",
         "service_type": "1",
-        "seq": "14",
+        "seq": "15",
         "stop": "4F64DA53415F3128",
         "stop_name_tc": "嘉和里村 (TM316)"
     },
@@ -46939,7 +46947,7 @@
         "route": "252S",
         "bound": "O",
         "service_type": "1",
-        "seq": "15",
+        "seq": "16",
         "stop": "BF7FD3BC4994EBE5",
         "stop_name_tc": "小秀村 (TM318)"
     },
@@ -46947,7 +46955,7 @@
         "route": "252S",
         "bound": "O",
         "service_type": "1",
-        "seq": "16",
+        "seq": "17",
         "stop": "9DC117C78DBDB1A7",
         "stop_name_tc": "愛琴灣 (TM321)"
     },
@@ -46955,7 +46963,7 @@
         "route": "252S",
         "bound": "O",
         "service_type": "1",
-        "seq": "17",
+        "seq": "18",
         "stop": "BD52FF1BA0AC99BE",
         "stop_name_tc": "小欖新村 (TM323)"
     },
@@ -46963,7 +46971,7 @@
         "route": "252S",
         "bound": "O",
         "service_type": "1",
-        "seq": "18",
+        "seq": "19",
         "stop": "1F2376A52800A2CA",
         "stop_name_tc": "小欖村 (TM325)"
     },
@@ -46971,7 +46979,7 @@
         "route": "252S",
         "bound": "O",
         "service_type": "1",
-        "seq": "19",
+        "seq": "20",
         "stop": "0B72FFAB7F7230E4",
         "stop_name_tc": "小欖澄麗路 (TM326)"
     },
@@ -46979,7 +46987,7 @@
         "route": "252S",
         "bound": "O",
         "service_type": "1",
-        "seq": "20",
+        "seq": "21",
         "stop": "9955DA9311A76BA4",
         "stop_name_tc": "大欖涌 (TM204)"
     },
@@ -46987,7 +46995,7 @@
         "route": "252S",
         "bound": "O",
         "service_type": "1",
-        "seq": "21",
+        "seq": "22",
         "stop": "846872B8B3E76E7D",
         "stop_name_tc": "屯門公路轉車站 (A10) (TM742)"
     },
@@ -46995,7 +47003,7 @@
         "route": "252S",
         "bound": "O",
         "service_type": "1",
-        "seq": "22",
+        "seq": "23",
         "stop": "416B7606A9A5FEEB",
         "stop_name_tc": "啟隧轉車站 - 啟成街 (KT105)"
     },
@@ -47003,7 +47011,7 @@
         "route": "252S",
         "bound": "O",
         "service_type": "1",
-        "seq": "23",
+        "seq": "24",
         "stop": "327E4BC13954EA86",
         "stop_name_tc": "臨華街遊樂場 (KT492)"
     },
@@ -47011,7 +47019,7 @@
         "route": "252S",
         "bound": "O",
         "service_type": "1",
-        "seq": "24",
+        "seq": "25",
         "stop": "81C6D8E74259157E",
         "stop_name_tc": "常怡道 (KT135)"
     },
@@ -47019,7 +47027,7 @@
         "route": "252S",
         "bound": "O",
         "service_type": "1",
-        "seq": "25",
+        "seq": "26",
         "stop": "5D8FCEF2915882FD",
         "stop_name_tc": "觀塘順業街 (KT200)"
     },
@@ -47027,7 +47035,7 @@
         "route": "252S",
         "bound": "O",
         "service_type": "1",
-        "seq": "26",
+        "seq": "27",
         "stop": "C2605DED84199B84",
         "stop_name_tc": "觀塘勵業街 (KT201)"
     },
@@ -47035,17 +47043,9 @@
         "route": "252S",
         "bound": "O",
         "service_type": "1",
-        "seq": "27",
+        "seq": "28",
         "stop": "BF8E440F5584D39D",
         "stop_name_tc": "觀塘巧明街 (KT202)"
-    },
-    {
-        "route": "252S",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "28",
-        "stop": "2255A14989E8F149",
-        "stop_name_tc": "觀塘碼頭 (KT931)"
     },
     {
         "route": "252X",
@@ -47332,6 +47332,14 @@
         "bound": "O",
         "service_type": "1",
         "seq": "1",
+        "stop": "AA5A9E3D027C4083",
+        "stop_name_tc": null
+    },
+    {
+        "route": "252X",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "2",
         "stop": "46D78D8886A71B3B",
         "stop_name_tc": "恒順園 (TM301)"
     },
@@ -47339,7 +47347,7 @@
         "route": "252X",
         "bound": "O",
         "service_type": "1",
-        "seq": "2",
+        "seq": "3",
         "stop": "630AA1866C5372B6",
         "stop_name_tc": "恒豐園 (TM302)"
     },
@@ -47347,7 +47355,7 @@
         "route": "252X",
         "bound": "O",
         "service_type": "1",
-        "seq": "3",
+        "seq": "4",
         "stop": "C90375A74B02D2E8",
         "stop_name_tc": "三聖邨 (TM304)"
     },
@@ -47355,7 +47363,7 @@
         "route": "252X",
         "bound": "O",
         "service_type": "1",
-        "seq": "4",
+        "seq": "5",
         "stop": "EEC48EC880FC63CB",
         "stop_name_tc": "青山灣 (TM307)"
     },
@@ -47363,7 +47371,7 @@
         "route": "252X",
         "bound": "O",
         "service_type": "1",
-        "seq": "5",
+        "seq": "6",
         "stop": "242418A9AB386596",
         "stop_name_tc": "海景花園 (TM308)"
     },
@@ -47371,7 +47379,7 @@
         "route": "252X",
         "bound": "O",
         "service_type": "1",
-        "seq": "6",
+        "seq": "7",
         "stop": "A9D85812EAEE6C17",
         "stop_name_tc": "咖啡灣 (TM310)"
     },
@@ -47379,7 +47387,7 @@
         "route": "252X",
         "bound": "O",
         "service_type": "1",
-        "seq": "7",
+        "seq": "8",
         "stop": "971554761E4413EF",
         "stop_name_tc": "黃金泳灘 (TM312)"
     },
@@ -47387,7 +47395,7 @@
         "route": "252X",
         "bound": "O",
         "service_type": "1",
-        "seq": "8",
+        "seq": "9",
         "stop": "7FB2AE7FA13EDB0F",
         "stop_name_tc": "香港黃金海岸 (TM314)"
     },
@@ -47395,7 +47403,7 @@
         "route": "252X",
         "bound": "O",
         "service_type": "1",
-        "seq": "9",
+        "seq": "10",
         "stop": "4F64DA53415F3128",
         "stop_name_tc": "嘉和里村 (TM316)"
     },
@@ -47403,7 +47411,7 @@
         "route": "252X",
         "bound": "O",
         "service_type": "1",
-        "seq": "10",
+        "seq": "11",
         "stop": "BF7FD3BC4994EBE5",
         "stop_name_tc": "小秀村 (TM318)"
     },
@@ -47411,7 +47419,7 @@
         "route": "252X",
         "bound": "O",
         "service_type": "1",
-        "seq": "11",
+        "seq": "12",
         "stop": "9DC117C78DBDB1A7",
         "stop_name_tc": "愛琴灣 (TM321)"
     },
@@ -47419,7 +47427,7 @@
         "route": "252X",
         "bound": "O",
         "service_type": "1",
-        "seq": "12",
+        "seq": "13",
         "stop": "BD52FF1BA0AC99BE",
         "stop_name_tc": "小欖新村 (TM323)"
     },
@@ -47427,7 +47435,7 @@
         "route": "252X",
         "bound": "O",
         "service_type": "1",
-        "seq": "13",
+        "seq": "14",
         "stop": "1F2376A52800A2CA",
         "stop_name_tc": "小欖村 (TM325)"
     },
@@ -47435,7 +47443,7 @@
         "route": "252X",
         "bound": "O",
         "service_type": "1",
-        "seq": "14",
+        "seq": "15",
         "stop": "0B72FFAB7F7230E4",
         "stop_name_tc": "小欖澄麗路 (TM326)"
     },
@@ -47443,7 +47451,7 @@
         "route": "252X",
         "bound": "O",
         "service_type": "1",
-        "seq": "15",
+        "seq": "16",
         "stop": "F5A44B89EFBC0B4F",
         "stop_name_tc": "畢架山花園 (SS190)"
     },
@@ -47451,7 +47459,7 @@
         "route": "252X",
         "bound": "O",
         "service_type": "1",
-        "seq": "16",
+        "seq": "17",
         "stop": "99EF4CA10B3E1F17",
         "stop_name_tc": "豐力樓 (SS192)"
     },
@@ -47459,7 +47467,7 @@
         "route": "252X",
         "bound": "O",
         "service_type": "1",
-        "seq": "17",
+        "seq": "18",
         "stop": "B27236FC63F891D9",
         "stop_name_tc": "黃大仙轉車站-黃大仙廟 (WT206)"
     },
@@ -47467,7 +47475,7 @@
         "route": "252X",
         "bound": "O",
         "service_type": "1",
-        "seq": "18",
+        "seq": "19",
         "stop": "5D1E6432755E4F5F",
         "stop_name_tc": "新蒲崗四美街 (WT332)"
     },
@@ -47475,7 +47483,7 @@
         "route": "252X",
         "bound": "O",
         "service_type": "1",
-        "seq": "19",
+        "seq": "20",
         "stop": "D80313EC29620E1D",
         "stop_name_tc": "彩虹轉車站 - 碧海樓 (WT344)"
     },
@@ -47483,7 +47491,7 @@
         "route": "252X",
         "bound": "O",
         "service_type": "1",
-        "seq": "20",
+        "seq": "21",
         "stop": "BA03816A38B9DA7F",
         "stop_name_tc": "啟業邨 (KT315)"
     },
@@ -47491,7 +47499,7 @@
         "route": "252X",
         "bound": "O",
         "service_type": "1",
-        "seq": "21",
+        "seq": "22",
         "stop": "D0F8772D043C207E",
         "stop_name_tc": "九龍灣站(東九文化中心) (KT321)"
     },
@@ -47499,7 +47507,7 @@
         "route": "252X",
         "bound": "O",
         "service_type": "1",
-        "seq": "22",
+        "seq": "23",
         "stop": "E5E15C5F7F0344AB",
         "stop_name_tc": "牛頭角下邨 (KT327)"
     },
@@ -47507,7 +47515,7 @@
         "route": "252X",
         "bound": "O",
         "service_type": "1",
-        "seq": "23",
+        "seq": "24",
         "stop": "598F766175BE3EF3",
         "stop_name_tc": "觀塘道休憩處 (KT329)"
     },
@@ -47515,7 +47523,7 @@
         "route": "252X",
         "bound": "O",
         "service_type": "1",
-        "seq": "24",
+        "seq": "25",
         "stop": "0644E10571B8CA12",
         "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT344)"
     },
@@ -47523,17 +47531,9 @@
         "route": "252X",
         "bound": "O",
         "service_type": "1",
-        "seq": "25",
+        "seq": "26",
         "stop": "5AAC6A858427D04E",
         "stop_name_tc": "觀塘游泳池 (KT360)"
-    },
-    {
-        "route": "252X",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "26",
-        "stop": "F36C1B3AC57D96FA",
-        "stop_name_tc": "藍田站 (落客站) (LT900)"
     },
     {
         "route": "252X",
@@ -64493,7 +64493,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "EB666DF59D741258",
-        "stop_name_tc": null
+        "stop_name_tc": "基順學校 (KT236)"
     },
     {
         "route": "26M",
@@ -89197,7 +89197,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "EB666DF59D741258",
-        "stop_name_tc": null
+        "stop_name_tc": "基順學校 (KT236)"
     },
     {
         "route": "290A",
@@ -119293,7 +119293,7 @@
         "service_type": "1",
         "seq": "42",
         "stop": "EB666DF59D741258",
-        "stop_name_tc": null
+        "stop_name_tc": "基順學校 (KT236)"
     },
     {
         "route": "42",
@@ -207861,7 +207861,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "7B730DF319D6FBA7",
-        "stop_name_tc": null
+        "stop_name_tc": "基順學校"
     },
     {
         "route": "91",
@@ -208117,7 +208117,7 @@
         "service_type": "2",
         "seq": "4",
         "stop": "7B730DF319D6FBA7",
-        "stop_name_tc": null
+        "stop_name_tc": "基順學校"
     },
     {
         "route": "91",
@@ -210373,7 +210373,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "7B730DF319D6FBA7",
-        "stop_name_tc": null
+        "stop_name_tc": "基順學校"
     },
     {
         "route": "91M",
@@ -211485,7 +211485,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "7B730DF319D6FBA7",
-        "stop_name_tc": null
+        "stop_name_tc": "基順學校"
     },
     {
         "route": "92",
@@ -217933,7 +217933,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "EB666DF59D741258",
-        "stop_name_tc": null
+        "stop_name_tc": "基順學校 (KT236)"
     },
     {
         "route": "95",
@@ -257837,7 +257837,7 @@
         "service_type": "1",
         "seq": "36",
         "stop": "EB666DF59D741258",
-        "stop_name_tc": null
+        "stop_name_tc": "基順學校 (KT236)"
     },
     {
         "route": "N216",
@@ -263981,7 +263981,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "EB666DF59D741258",
-        "stop_name_tc": null
+        "stop_name_tc": "基順學校 (KT236)"
     },
     {
         "route": "N290",
