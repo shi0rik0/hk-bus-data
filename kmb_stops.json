@@ -30216,6 +30216,14 @@
         "long": "114.148213"
     },
     {
+        "stop": "90481AAABF662D3B",
+        "name_en": "HIN FAT ESTATE (TM298b)",
+        "name_tc": "顯發邨 (TM298b)",
+        "name_sc": "显发邨 (TM298b)",
+        "lat": "22.388879",
+        "long": "113.980485"
+    },
+    {
         "stop": "904DEAF7441E3BB8",
         "name_en": "KOWLOON CITY BBI - REGAL ORIENTAL HOTEL (KC709)",
         "name_tc": "九龍城轉車站-富豪東方酒店",
@@ -36030,6 +36038,14 @@
         "name_sc": "丽港中心 (LT545)",
         "lat": "22.305334",
         "long": "114.227752"
+    },
+    {
+        "stop": "AA5A9E3D027C4083",
+        "name_en": "HIN FAT ESTATE (TM298a)",
+        "name_tc": "顯發邨 (TM298a)",
+        "name_sc": "显发邨 (TM298a)",
+        "lat": "22.388879",
+        "long": "113.980485"
     },
     {
         "stop": "AA5CBDB0758443A9",
@@ -46950,14 +46966,6 @@
         "name_sc": "红磡平治街 (HH741)",
         "lat": "22.309524",
         "long": "114.184594"
-    },
-    {
-        "stop": "DF54B41AF7CE380C",
-        "name_en": "TONG MING STREET PARK (TK106)",
-        "name_tc": "唐明街公園 (TK106)",
-        "name_sc": "唐明街公园 (TK106)",
-        "lat": "22.310718",
-        "long": "114.259016"
     },
     {
         "stop": "DF5DA8A8487E05C7",
