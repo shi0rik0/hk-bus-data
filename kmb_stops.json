@@ -1248,14 +1248,6 @@
         "long": "114.136465"
     },
     {
-        "stop": "0676565808C51B06",
-        "name_en": "TAI PO MARKET STATION BUS TERMINUS",
-        "name_tc": "大埔墟站巴士總站",
-        "name_sc": "大埔墟站巴士总站",
-        "lat": "22.443804",
-        "long": "114.169264"
-    },
-    {
         "stop": "0678C85600B1A019",
         "name_en": "TUEN MUN STATION(V City)",
         "name_tc": "屯門站(V City)",
@@ -2702,14 +2694,6 @@
         "name_sc": "富东广场 (TC418)",
         "lat": "22.288825",
         "long": "113.942028"
-    },
-    {
-        "stop": "0E10C95214870DB0",
-        "name_en": "KWONG FUK",
-        "name_tc": "廣福",
-        "name_sc": "广福",
-        "lat": "22.448583",
-        "long": "114.174644"
     },
     {
         "stop": "0E129862160C8DAD",
@@ -7934,14 +7918,6 @@
         "name_sc": "小西湾邨",
         "lat": "22.263050",
         "long": "114.249186"
-    },
-    {
-        "stop": "2569BAE397FEE0BA",
-        "name_en": "FU SHIN ESTATE",
-        "name_tc": "富善邨",
-        "name_sc": "富善邨",
-        "lat": "22.454147",
-        "long": "114.174847"
     },
     {
         "stop": "25721F85DC026ACA",
@@ -17768,14 +17744,6 @@
         "long": "113.929972"
     },
     {
-        "stop": "52DC1BF11D8EB4DA",
-        "name_en": "TAI PO CENTRE PHASE 5",
-        "name_tc": "大埔中心第五期",
-        "name_sc": "大埔中心第五期",
-        "lat": "22.452876",
-        "long": "114.172280"
-    },
-    {
         "stop": "52EEDDA90227F4C9",
         "name_en": "PERFECT MOUNT GARDENS",
         "name_tc": "峻峰花園",
@@ -19326,14 +19294,6 @@
         "name_sc": "利枝道",
         "lat": "22.243062",
         "long": "114.155087"
-    },
-    {
-        "stop": "5A7F59AB342237CE",
-        "name_en": "TAI PO MARKET STATION BUS TERMINUS",
-        "name_tc": "大埔墟站巴士總站",
-        "name_sc": "大埔墟站巴士总站",
-        "lat": "22.443503",
-        "long": "114.169911"
     },
     {
         "stop": "5A850F8739B82EA6",
@@ -26398,14 +26358,6 @@
         "name_sc": "沙田马场巴士总站 (FT902)",
         "lat": "22.397437",
         "long": "114.201705"
-    },
-    {
-        "stop": "7C5D8F55807CFE78",
-        "name_en": "WANG FUK COURT",
-        "name_tc": "宏福苑",
-        "name_sc": "宏福苑",
-        "lat": "22.447439",
-        "long": "114.174633"
     },
     {
         "stop": "7C6C443BF06FD704",
@@ -34056,14 +34008,6 @@
         "long": "114.036355"
     },
     {
-        "stop": "A20B8580B8E9B95D",
-        "name_en": "TAI PO MARKET STATION BUS TERMINUS",
-        "name_tc": "大埔墟站巴士總站",
-        "name_sc": "大埔墟站巴士总站",
-        "lat": "22.443785",
-        "long": "114.169347"
-    },
-    {
         "stop": "A21BEB6F4E6D43E6",
         "name_en": "SHEUNG YUET ROAD, KOWLOON BAY (KT475)",
         "name_tc": "九龍灣常悅道 (KT475)",
@@ -36830,14 +36774,6 @@
         "name_sc": "和乐邨 (KT537)",
         "lat": "22.317004",
         "long": "114.226686"
-    },
-    {
-        "stop": "AE3AAFB2094C9DD6",
-        "name_en": "TAI PO MARKET STATION BUS TERMINUS",
-        "name_tc": "大埔墟站巴士總站",
-        "name_sc": "大埔墟站巴士总站",
-        "lat": "22.443769",
-        "long": "114.169428"
     },
     {
         "stop": "AE4423E551C360BF",
@@ -42169,9 +42105,9 @@
     },
     {
         "stop": "C8830886D41FB5FA",
-        "name_en": "HIU KWONG STREET RECREATION GROUND (KT287)",
-        "name_tc": "曉光街遊樂場 (KT287)",
-        "name_sc": "晓光街游乐场 (KT287)",
+        "name_en": "HIU YAN ESTATE (KT287)",
+        "name_tc": "曉茵邨 (KT287)",
+        "name_sc": "晓茵邨 (KT287)",
         "lat": "22.317021",
         "long": "114.231554"
     },
@@ -44568,14 +44504,6 @@
         "long": "114.228251"
     },
     {
-        "stop": "D4001CA2F385E700",
-        "name_en": "TAI PO MEGA MALL",
-        "name_tc": "大埔超級城",
-        "name_sc": "大埔超级城",
-        "lat": "22.450983",
-        "long": "114.169605"
-    },
-    {
         "stop": "D4027BBC82CDBA61",
         "name_en": "KAM SHEUNG ROAD STATION (YL862)",
         "name_tc": "錦上路站 (YL862)",
@@ -45312,14 +45240,6 @@
         "long": "113.973399"
     },
     {
-        "stop": "D758BEFF6536BFE9",
-        "name_en": "TAI PO MEGA MALL",
-        "name_tc": "大埔超級城",
-        "name_sc": "大埔超级城",
-        "lat": "22.451253",
-        "long": "114.169856"
-    },
-    {
         "stop": "D75CEF6318A515DE",
         "name_en": "WONG NAI TAU B/T (ST894)",
         "name_tc": "黃泥頭巴士總站 (ST894)",
@@ -45766,6 +45686,14 @@
         "name_sc": "威灵顿街",
         "lat": "22.284986",
         "long": "114.153289"
+    },
+    {
+        "stop": "D95CAEA4D5C491E2",
+        "name_en": "HIU YAN ESTATE (KT512a)",
+        "name_tc": "曉茵邨 (KT512a)",
+        "name_sc": "晓茵邨 (KT512a)",
+        "lat": "22.316484",
+        "long": "114.231751"
     },
     {
         "stop": "D9655458715EBBF8",
@@ -46662,14 +46590,6 @@
         "name_sc": "长康巴士总站 (TY970)",
         "lat": "22.349748",
         "long": "114.098988"
-    },
-    {
-        "stop": "DD78D147EB6130E3",
-        "name_en": "TAI PO MARKET STATION BUS TERMINUS",
-        "name_tc": "大埔墟站巴士總站",
-        "name_sc": "大埔墟站巴士总站",
-        "lat": "22.443456",
-        "long": "114.169911"
     },
     {
         "stop": "DD9DF46F3BA040EE",
@@ -48214,6 +48134,14 @@
         "name_sc": "宝林总站 (TK927)",
         "lat": "22.323135",
         "long": "114.257493"
+    },
+    {
+        "stop": "E5746F4692437377",
+        "name_en": "SHUN TIN BUS TERMINUS (KT852a)",
+        "name_tc": "順天總站 (KT852a)",
+        "name_sc": "顺天总站 (KT852a)",
+        "lat": "22.326387",
+        "long": "114.226750"
     },
     {
         "stop": "E5763322877BB340",
@@ -52270,14 +52198,6 @@
         "name_sc": "朗屏邨珠屏楼 (YL151)",
         "lat": "22.451349",
         "long": "114.025322"
-    },
-    {
-        "stop": "F7D0214CE5D8F22F",
-        "name_en": "EIGHTLAND GARDENS",
-        "name_tc": "八號花園",
-        "name_sc": "八号花园",
-        "lat": "22.452817",
-        "long": "114.166705"
     },
     {
         "stop": "F7D40D08CB05EA87",
