@@ -1329,16 +1329,6 @@
     },
     {
         "co": "CTB",
-        "route": "66",
-        "orig_tc": "中環 (交易廣場)",
-        "orig_en": "Central (Exchange Square)",
-        "dest_tc": "赤柱廣場 (馬坑)",
-        "dest_en": "Stanley Plaza (Ma Hang)",
-        "orig_sc": "中环 (交易广场)",
-        "dest_sc": "赤柱广场 (马坑)"
-    },
-    {
-        "co": "CTB",
         "route": "671",
         "orig_tc": "鴨脷洲 (利樂街)",
         "orig_en": "Ap Lei Chau (Lee Lok Street)",
