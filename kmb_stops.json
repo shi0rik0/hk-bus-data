@@ -22000,6 +22000,14 @@
         "long": "114.201282"
     },
     {
+        "stop": "667232A61C746899",
+        "name_en": "KWONG YUEN BUS TERMINUS (ST881)",
+        "name_tc": "廣源巴士總站 (ST881)",
+        "name_sc": "广源巴士总站 (ST881)",
+        "lat": "22.381401",
+        "long": "114.216227"
+    },
+    {
         "stop": "667E322246C6F7FA",
         "name_en": "WU BOON HOUSE WU KING ESTATE (TM453)",
         "name_tc": "湖景邨湖畔樓 (TM453)",
@@ -41952,14 +41960,6 @@
         "long": "114.181269"
     },
     {
-        "stop": "C7C74EE6E201E5A9",
-        "name_en": "KWONG YUEN BUS TERMINUS (ST883)",
-        "name_tc": "廣源巴士總站 (ST883)",
-        "name_sc": "广源巴士总站 (ST883)",
-        "lat": "22.381167",
-        "long": "114.216113"
-    },
-    {
         "stop": "C7C774CD6AE937B1",
         "name_en": "NAM CHUNG (ND282)",
         "name_tc": "南涌 (ND282)",
@@ -47825,9 +47825,9 @@
     },
     {
         "stop": "E40D588376226D6E",
-        "name_en": "KAM SHEUNG ROAD STATION",
-        "name_tc": "錦上路站",
-        "name_sc": "锦上路站",
+        "name_en": "KAM SHEUNG ROAD STATION (YL861a)",
+        "name_tc": "錦上路站 (YL861a)",
+        "name_sc": "锦上路站 (YL861a)",
         "lat": "22.433865",
         "long": "114.063770"
     },
@@ -48952,6 +48952,14 @@
         "long": "114.154490"
     },
     {
+        "stop": "E95DF08C1630AE79",
+        "name_en": "KWONG YUEN BUS TERMINUS (ST885)",
+        "name_tc": "廣源巴士總站 (ST885)",
+        "name_sc": "广源巴士总站 (ST885)",
+        "lat": "22.381177",
+        "long": "114.216353"
+    },
+    {
         "stop": "E960E8842F9C633D",
         "name_en": "LUEN WO HUI BUS TERMINUS (ND965)",
         "name_tc": "聯和墟總站 (ND965)",
@@ -49068,8 +49076,8 @@
         "name_en": "KWAI FONG (SOUTH) BUS TERMINUS (KW920)",
         "name_tc": "葵芳(南)總站 (KW920)",
         "name_sc": "葵芳(南)总站 (KW920)",
-        "lat": "22.354641",
-        "long": "114.126501"
+        "lat": "22.354537",
+        "long": "114.126514"
     },
     {
         "stop": "EA0FE520B3A369D5",
