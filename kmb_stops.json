@@ -128,14 +128,6 @@
         "long": "114.187527"
     },
     {
-        "stop": "00A529823BEBABA7",
-        "name_en": "KWUN TONG (ELEGANCE RD) BUS TERMINUS (KT915)",
-        "name_tc": "觀塘（雅麗道）總站 (KT915)",
-        "name_sc": "观塘（雅丽道）总站 (KT915)",
-        "lat": "22.315072",
-        "long": "114.219890"
-    },
-    {
         "stop": "00A61AE52C4EE28E",
         "name_en": "SHING ON HOUSE KWAI SHING ESTATE (KW369)",
         "name_tc": "葵盛邨盛安樓 (KW369)",
@@ -24393,9 +24385,9 @@
     },
     {
         "stop": "7210357910C44570",
-        "name_en": "THE LATITUDE (WT297)",
-        "name_tc": "譽．港灣 (WT297)",
-        "name_sc": "誉．港湾 (WT297)",
+        "name_en": "THE LATITUDE, SAN PO KONG (WT297)",
+        "name_tc": "新蒲崗譽．港灣 (WT297)",
+        "name_sc": "新蒲岗誉．港湾 (WT297)",
         "lat": "22.333055",
         "long": "114.196691"
     },
@@ -33745,9 +33737,9 @@
     },
     {
         "stop": "A0EFE3E68568F194",
-        "name_en": "THE LATITUDE (WT296)",
-        "name_tc": "譽．港灣 (WT296)",
-        "name_sc": "誉．港湾 (WT296)",
+        "name_en": "THE LATITUDE, SAN PO KONG (WT296)",
+        "name_tc": "新蒲崗譽．港灣 (WT296)",
+        "name_sc": "新蒲岗誉．港湾 (WT296)",
         "lat": "22.333136",
         "long": "114.196760"
     },
@@ -40712,14 +40704,6 @@
         "long": "114.196453"
     },
     {
-        "stop": "C1AAFE0EB8BD89C7",
-        "name_en": "H.K.U.S.T. (NORTH) (SK930)",
-        "name_tc": "香港科技大學(北) (SK930)",
-        "name_sc": "香港科技大学(北) (SK930)",
-        "lat": "22.338616",
-        "long": "114.261997"
-    },
-    {
         "stop": "C1AE59CABFFE3F21",
         "name_en": "WONG YUE TAN, LOK SIN VILLAGE (TP627)",
         "name_tc": "黃魚灘 - 樂善村 (TP627)",
@@ -41993,9 +41977,9 @@
     },
     {
         "stop": "C80FB453C9F53569",
-        "name_en": "THE LATITUDE (WT697)",
-        "name_tc": "譽．港灣 (WT697)",
-        "name_sc": "誉．港湾 (WT697)",
+        "name_en": "THE LATITUDE, SAN PO KONG (WT697)",
+        "name_tc": "新蒲崗譽．港灣 (WT697)",
+        "name_sc": "新蒲岗誉．港湾 (WT697)",
         "lat": "22.332000",
         "long": "114.196917"
     },
@@ -44969,9 +44953,9 @@
     },
     {
         "stop": "D625B0997C3DBCFE",
-        "name_en": "THE LATITUDE (WT698)",
-        "name_tc": "譽．港灣 (WT698)",
-        "name_sc": "誉．港湾 (WT698)",
+        "name_en": "THE LATITUDE, SAN PO KONG (WT698)",
+        "name_tc": "新蒲崗譽．港灣 (WT698)",
+        "name_sc": "新蒲岗誉．港湾 (WT698)",
         "lat": "22.332000",
         "long": "114.196917"
     },
@@ -45289,9 +45273,9 @@
     },
     {
         "stop": "D7A05B5BAF07A89B",
-        "name_en": "THE LATITUDE (WT295)",
-        "name_tc": "譽．港灣 (WT295)",
-        "name_sc": "誉．港湾 (WT295)",
+        "name_en": "THE LATITUDE, SAN PO KONG (WT295)",
+        "name_tc": "新蒲崗譽．港灣 (WT295)",
+        "name_sc": "新蒲岗誉．港湾 (WT295)",
         "lat": "22.332960",
         "long": "114.196532"
     },

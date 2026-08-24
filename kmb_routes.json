@@ -446,14 +446,25 @@
         "orig_en": "KOWLOON STATION",
         "orig_tc": "九龍站",
         "orig_sc": "九龙站",
-        "dest_en": "DIAMOND HILL STATION",
-        "dest_tc": "鑽石山站",
-        "dest_sc": "钻石山站"
+        "dest_en": "TSZ WAN SHAN (CENTRAL)",
+        "dest_tc": "慈雲山(中)",
+        "dest_sc": "慈云山(中)"
     },
     {
         "route": "11",
         "bound": "O",
         "service_type": "1",
+        "orig_en": "TSZ WAN SHAN (CENTRAL)",
+        "orig_tc": "慈雲山(中)",
+        "orig_sc": "慈云山(中)",
+        "dest_en": "KOWLOON STATION",
+        "dest_tc": "九龍站",
+        "dest_sc": "九龙站"
+    },
+    {
+        "route": "11",
+        "bound": "O",
+        "service_type": "2",
         "orig_en": "DIAMOND HILL STATION",
         "orig_tc": "鑽石山站",
         "orig_sc": "钻石山站",
@@ -12986,9 +12997,9 @@
         "orig_en": "DIAMOND HILL STATION",
         "orig_tc": "鑽石山站",
         "orig_sc": "钻石山站",
-        "dest_en": "H.K.U.S.T (NORTH)",
-        "dest_tc": "香港科技大學(北)",
-        "dest_sc": "香港科技大学(北)"
+        "dest_en": "HONG KONG UNIVERSITY OF SCIENCE AND TEHNOLOGY",
+        "dest_tc": "香港科技大學",
+        "dest_sc": "香港科技大学"
     },
     {
         "route": "91R",
@@ -13228,17 +13239,17 @@
         "orig_en": "MONG KOK EAST STATION",
         "orig_tc": "旺角東站",
         "orig_sc": "旺角东站",
-        "dest_en": "PO LAM",
-        "dest_tc": "寶林",
-        "dest_sc": "宝林"
+        "dest_en": "TSUI LAM",
+        "dest_tc": "翠林",
+        "dest_sc": "翠林"
     },
     {
         "route": "93K",
         "bound": "O",
         "service_type": "1",
-        "orig_en": "PO LAM",
-        "orig_tc": "寶林",
-        "orig_sc": "宝林",
+        "orig_en": "TSUI LAM",
+        "orig_tc": "翠林",
+        "orig_sc": "翠林",
         "dest_en": "MONG KOK EAST STATION",
         "dest_tc": "旺角東站",
         "dest_sc": "旺角东站"
@@ -13429,28 +13440,6 @@
         "dest_en": "KOWLOON STATION",
         "dest_tc": "九龍站",
         "dest_sc": "九龙站"
-    },
-    {
-        "route": "95M",
-        "bound": "I",
-        "service_type": "1",
-        "orig_en": "KWUN TONG (ELEGANCE ROAD)",
-        "orig_tc": "觀塘(雅麗道)",
-        "orig_sc": "观塘(雅丽道)",
-        "dest_en": "TSUI LAM",
-        "dest_tc": "翠林",
-        "dest_sc": "翠林"
-    },
-    {
-        "route": "95M",
-        "bound": "O",
-        "service_type": "1",
-        "orig_en": "TSUI LAM",
-        "orig_tc": "翠林",
-        "orig_sc": "翠林",
-        "dest_en": "KWUN TONG (ELEGANCE ROAD)",
-        "dest_tc": "觀塘(雅麗道)",
-        "dest_sc": "观塘(雅丽道)"
     },
     {
         "route": "96",
