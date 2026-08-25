@@ -452,6 +452,17 @@
     },
     {
         "route": "11",
+        "bound": "I",
+        "service_type": "2",
+        "orig_en": "KOWLOON STATION",
+        "orig_tc": "九龍站",
+        "orig_sc": "九龙站",
+        "dest_en": "TSZ WAN SHAN (CENTRAL)",
+        "dest_tc": "慈雲山(中)",
+        "dest_sc": "慈云山(中)"
+    },
+    {
+        "route": "11",
         "bound": "O",
         "service_type": "1",
         "orig_en": "TSZ WAN SHAN (CENTRAL)",
@@ -3361,7 +3372,7 @@
         "orig_en": "PAT HEUNG ROAD",
         "orig_tc": "八鄉路",
         "orig_sc": "八乡路",
-        "dest_en": "YAU POK ROAD PUBLIC HOUSING (SOUTH)",
+        "dest_en": "YAU POK ROAD LIGHT PUBLIC HOUSING (SOUTH)",
         "dest_tc": "攸壆路簡約公屋 (南)",
         "dest_sc": "攸壆路简约公屋 (南)"
     },
@@ -3369,7 +3380,7 @@
         "route": "268",
         "bound": "O",
         "service_type": "1",
-        "orig_en": "YAU POK ROAD PUBLIC HOUSING (SOUTH)",
+        "orig_en": "YAU POK ROAD LIGHT PUBLIC HOUSING (SOUTH)",
         "orig_tc": "攸壆路簡約公屋 (南)",
         "orig_sc": "攸壆路简约公屋 (南)",
         "dest_en": "PAT HEUNG ROAD",
@@ -6158,28 +6169,6 @@
         "dest_en": "SHEUNG WAN",
         "dest_tc": "上環",
         "dest_sc": "上环"
-    },
-    {
-        "route": "307D",
-        "bound": "I",
-        "service_type": "1",
-        "orig_en": "SIU SAI WAN",
-        "orig_tc": "小西灣",
-        "orig_sc": "小西湾",
-        "dest_en": "TAI PO (TING TAI ROAD)",
-        "dest_tc": "大埔 (汀太路)",
-        "dest_sc": "大埔 (汀太路)"
-    },
-    {
-        "route": "307D",
-        "bound": "O",
-        "service_type": "1",
-        "orig_en": "TAI PO (TING TAI ROAD)",
-        "orig_tc": "大埔 (汀太路)",
-        "orig_sc": "大埔 (汀太路)",
-        "dest_en": "SIU SAI WAN",
-        "dest_tc": "小西灣",
-        "dest_sc": "小西湾"
     },
     {
         "route": "307P",
@@ -10904,7 +10893,7 @@
         "route": "76",
         "bound": "O",
         "service_type": "1",
-        "orig_en": "YAU POK ROAD PUBLIC HOUSING (SOUTH)",
+        "orig_en": "YAU POK ROAD LIGHT PUBLIC HOUSING (SOUTH)",
         "orig_tc": "攸壆路簡約公屋 (南)",
         "orig_sc": "攸壆路简约公屋 (南)",
         "dest_en": "SHEUNG SHUI STATION (CHOI YUEN ROAD) (CIRCULAR)",
