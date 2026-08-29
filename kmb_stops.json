@@ -5449,9 +5449,9 @@
     },
     {
         "stop": "1A3478416DABC289",
-        "name_en": "RAINBOW PRIMARY SCHOOL (WT420)",
-        "name_tc": "天虹小學 (WT420)",
-        "name_sc": "天虹小学 (WT420)",
+        "name_en": "WING YUEN HOUSE, CHUK YUEN SOUTH ESTATE (WT420)",
+        "name_tc": "竹園南邨榮園樓 (WT420)",
+        "name_sc": "竹园南邨荣园楼 (WT420)",
         "lat": "22.345066",
         "long": "114.189714"
     },
@@ -9257,9 +9257,9 @@
     },
     {
         "stop": "2C1366DA10099003",
-        "name_en": "RAINBOW PRIMARY SCHOOL (WT419)",
-        "name_tc": "天虹小學 (WT419)",
-        "name_sc": "天虹小学 (WT419)",
+        "name_en": "WING YUEN HOUSE, CHUK YUEN SOUTH ESTATE (WT419)",
+        "name_tc": "竹園南邨榮園樓 (WT419)",
+        "name_sc": "竹园南邨荣园楼 (WT419)",
         "lat": "22.345145",
         "long": "114.189677"
     },
@@ -16657,9 +16657,9 @@
     },
     {
         "stop": "4E037679702BBCBC",
-        "name_en": "KAM SHING ROAD (KC620)",
-        "name_tc": "金城道 (KC620)",
-        "name_sc": "金城道 (KC620)",
+        "name_en": "KAM SHING ROAD, H.K. BAPTIST UNIVERSITY (KC620)",
+        "name_tc": "金城道，香港浸會大學 (KC620)",
+        "name_sc": "金城道，香港浸会大学 (KC620)",
         "lat": "22.339203",
         "long": "114.181225"
     },
@@ -24505,9 +24505,9 @@
     },
     {
         "stop": "72999453ECAC4693",
-        "name_en": "BLOCK 8 RICHLAND GARDENS (KT120)",
-        "name_tc": "麗晶花園第8座 (KT120)",
-        "name_sc": "丽晶花园第8座 (KT120)",
+        "name_en": "SHING CHI COURT, BLOCK 8 RICHLAND GARDENS (KT120)",
+        "name_tc": "盛緻苑，麗晶花園第8座 (KT120)",
+        "name_sc": "盛致苑，丽晶花园第8座 (KT120)",
         "lat": "22.331389",
         "long": "114.205832"
     },
@@ -33329,9 +33329,9 @@
     },
     {
         "stop": "9ED7E93749ABAE67",
-        "name_en": "RAINBOW PRIMARY SCHOOL (WT418)",
-        "name_tc": "天虹小學 (WT418)",
-        "name_sc": "天虹小学 (WT418)",
+        "name_en": "WING YUEN HOUSE, CHUK YUEN SOUTH ESTATE (WT418)",
+        "name_tc": "竹園南邨榮園樓 (WT418)",
+        "name_sc": "竹园南邨荣园楼 (WT418)",
         "lat": "22.345076",
         "long": "114.190023"
     },
@@ -36425,9 +36425,9 @@
     },
     {
         "stop": "AC4EEE801BB9133C",
-        "name_en": "BLOCK 13 RICHLAND GARDENS (KT486)",
-        "name_tc": "麗晶花園13座 (KT486)",
-        "name_sc": "丽晶花园13座 (KT486)",
+        "name_en": "BLOCK 13 RICHLAND GARDENS, WANG CHI COURT (KT486)",
+        "name_tc": "麗晶花園13座，宏緻苑 (KT486)",
+        "name_sc": "丽晶花园13座，宏致苑 (KT486)",
         "lat": "22.330688",
         "long": "114.206918"
     },
@@ -42025,9 +42025,9 @@
     },
     {
         "stop": "C847B9021C407731",
-        "name_en": "LUNG CHEUNG GOVT. SEC. SCHOOL (WT201)",
-        "name_tc": "龍翔官立中學 (WT201)",
-        "name_sc": "龙翔官立中学 (WT201)",
+        "name_en": "WING KWONG COLLEGE (WT201)",
+        "name_tc": "永光書院 (WT201)",
+        "name_sc": "永光书院 (WT201)",
         "lat": "22.342366",
         "long": "114.189837"
     },
@@ -44137,9 +44137,9 @@
     },
     {
         "stop": "D2B43459063F53DB",
-        "name_en": "BLOCK 13 RICHLAND GARDENS (KT485)",
-        "name_tc": "麗晶花園13座 (KT485)",
-        "name_sc": "丽晶花园13座 (KT485)",
+        "name_en": "BLOCK 13 RICHLAND GARDENS, WANG CHI COURT (KT485)",
+        "name_tc": "麗晶花園13座，宏緻苑 (KT485)",
+        "name_sc": "丽晶花园13座，宏致苑 (KT485)",
         "lat": "22.330648",
         "long": "114.206988"
     },
@@ -45553,9 +45553,9 @@
     },
     {
         "stop": "D8DBA3F5A1146887",
-        "name_en": "LUNG CHEUNG GOVT. SEC. SCHOOL (WT141)",
-        "name_tc": "龍翔官立中學 (WT141)",
-        "name_sc": "龙翔官立中学 (WT141)",
+        "name_en": "PO SIN HOUSE, UPPER WONG TAI SIN ESTATE (WT141)",
+        "name_tc": "黃大仙上邨普善樓 (WT141)",
+        "name_sc": "黄大仙上邨普善楼 (WT141)",
         "lat": "22.343226",
         "long": "114.190945"
     },
@@ -52433,9 +52433,9 @@
     },
     {
         "stop": "F893C6ABC2743F64",
-        "name_en": "LUNG CHEUNG GOVT. SEC. SCHOOL (WT202)",
-        "name_tc": "龍翔官立中學 (WT202)",
-        "name_sc": "龙翔官立中学 (WT202)",
+        "name_en": "WING KWONG COLLEGE (WT202)",
+        "name_tc": "永光書院 (WT202)",
+        "name_sc": "永光书院 (WT202)",
         "lat": "22.342344",
         "long": "114.189898"
     },

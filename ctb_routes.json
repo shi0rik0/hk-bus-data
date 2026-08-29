@@ -2289,16 +2289,6 @@
     },
     {
         "co": "CTB",
-        "route": "907D",
-        "orig_tc": "大埔 (汀太路)",
-        "orig_en": "Tai Po (Ting Tai Road)",
-        "dest_tc": "小西灣運動場",
-        "dest_en": "Siu Sai Wan Sports Ground",
-        "orig_sc": "大埔 (汀太路)",
-        "dest_sc": "小西湾运动场"
-    },
-    {
-        "co": "CTB",
         "route": "90B",
         "orig_tc": "海怡半島",
         "orig_en": "South Horizons",
