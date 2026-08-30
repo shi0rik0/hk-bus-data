@@ -12804,28 +12804,6 @@
         "dest_sc": "湾仔(会展)"
     },
     {
-        "route": "907D",
-        "bound": "I",
-        "service_type": "1",
-        "orig_en": "SIU SAI WAN",
-        "orig_tc": "小西灣",
-        "orig_sc": "小西湾",
-        "dest_en": "TAI PO (TING TAI ROAD)",
-        "dest_tc": "大埔 (汀太路)",
-        "dest_sc": "大埔 (汀太路)"
-    },
-    {
-        "route": "907D",
-        "bound": "O",
-        "service_type": "1",
-        "orig_en": "TAI PO (TING TAI ROAD)",
-        "orig_tc": "大埔 (汀太路)",
-        "orig_sc": "大埔 (汀太路)",
-        "dest_en": "SIU SAI WAN",
-        "dest_tc": "小西灣",
-        "dest_sc": "小西湾"
-    },
-    {
         "route": "91",
         "bound": "I",
         "service_type": "1",
