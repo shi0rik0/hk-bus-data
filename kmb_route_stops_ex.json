@@ -176533,7 +176533,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "081EB225028BC80B",
-        "stop_name_tc": null
+        "stop_name_tc": "香港教育大學 (TP895)"
     },
     {
         "route": "74K",
@@ -176909,7 +176909,7 @@
         "service_type": "2",
         "seq": "23",
         "stop": "081EB225028BC80B",
-        "stop_name_tc": null
+        "stop_name_tc": "香港教育大學 (TP895)"
     },
     {
         "route": "74K",
@@ -178774,6 +178774,158 @@
         "seq": "12",
         "stop": "53FC6F95C61542C1",
         "stop_name_tc": "觀塘碼頭 (KT938)"
+    },
+    {
+        "route": "75F",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "1",
+        "stop": "DA9843B8F12ED700",
+        "stop_name_tc": "香港教育大學 (TP893)"
+    },
+    {
+        "route": "75F",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "2",
+        "stop": "DB241439B4E2785A",
+        "stop_name_tc": "怡雅苑 (TP739)"
+    },
+    {
+        "route": "75F",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "3",
+        "stop": "ACDCC9E65172243D",
+        "stop_name_tc": "新興花園,大埔中心五期 (TP382)"
+    },
+    {
+        "route": "75F",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "4",
+        "stop": "12E4BAFA2B73435B",
+        "stop_name_tc": "廣福邨 (TP576)"
+    },
+    {
+        "route": "75F",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "5",
+        "stop": "46604706EE6CC765",
+        "stop_name_tc": "大埔墟站巴士總站 (TP935)"
+    },
+    {
+        "route": "75F",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "1",
+        "stop": "8581908CE476D2CF",
+        "stop_name_tc": "大埔墟站巴士總站 (TP940)"
+    },
+    {
+        "route": "75F",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "2",
+        "stop": "11B658F68A9F577C",
+        "stop_name_tc": "廣福邨　 (TP265)"
+    },
+    {
+        "route": "75F",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "3",
+        "stop": "BBFADA4889A61FCC",
+        "stop_name_tc": "大埔中心第五期 (TP326)"
+    },
+    {
+        "route": "75F",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "4",
+        "stop": "32C1F605CAAD7861",
+        "stop_name_tc": "怡雅苑 (TP618)"
+    },
+    {
+        "route": "75F",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "5",
+        "stop": "DA9843B8F12ED700",
+        "stop_name_tc": "香港教育大學 (TP893)"
+    },
+    {
+        "route": "75F",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "1",
+        "stop": "8581908CE476D2CF",
+        "stop_name_tc": "大埔墟站巴士總站 (TP940)"
+    },
+    {
+        "route": "75F",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "2",
+        "stop": "11B658F68A9F577C",
+        "stop_name_tc": "廣福邨　 (TP265)"
+    },
+    {
+        "route": "75F",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "3",
+        "stop": "BBFADA4889A61FCC",
+        "stop_name_tc": "大埔中心第五期 (TP326)"
+    },
+    {
+        "route": "75F",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "4",
+        "stop": "32C1F605CAAD7861",
+        "stop_name_tc": "怡雅苑 (TP618)"
+    },
+    {
+        "route": "75F",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "5",
+        "stop": "4705F639E370A9AD",
+        "stop_name_tc": "大埔大發街 (TP660)"
+    },
+    {
+        "route": "75F",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "6",
+        "stop": "CAB927254C5D8892",
+        "stop_name_tc": "大埔大昌街 (TP675)"
+    },
+    {
+        "route": "75F",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "7",
+        "stop": "ADF5445FF5059D45",
+        "stop_name_tc": "大埔工業邨 (TP872)"
+    },
+    {
+        "route": "75F",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "8",
+        "stop": "BB33B8049C297ADD",
+        "stop_name_tc": "大埔大貴街 (TP756)"
+    },
+    {
+        "route": "75F",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "9",
+        "stop": "DA9843B8F12ED700",
+        "stop_name_tc": "香港教育大學 (TP893)"
     },
     {
         "route": "75K",
@@ -188302,6 +188454,14 @@
         "seq": "28",
         "stop": "458D2C951A759CAD",
         "stop_name_tc": "豐和邨 (ST195)"
+    },
+    {
+        "route": "81",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "29",
+        "stop": "9096776C02070F8E",
+        "stop_name_tc": "禾輋巴士總站 (ST950)"
     },
     {
         "route": "81",
@@ -252276,14 +252436,46 @@
         "bound": "I",
         "service_type": "1",
         "seq": "7",
-        "stop": "FE6D5955F777E39C",
-        "stop_name_tc": "迎禧路 (TC230)"
+        "stop": "CC57C2DF592993CB",
+        "stop_name_tc": "昇薈 (TC155)"
     },
     {
         "route": "E42P",
         "bound": "I",
         "service_type": "1",
         "seq": "8",
+        "stop": "C9479F7A9B2C43CE",
+        "stop_name_tc": "翔東邨 (TC955)"
+    },
+    {
+        "route": "E42P",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "9",
+        "stop": "92E674C6961B07CA",
+        "stop_name_tc": "匯東街"
+    },
+    {
+        "route": "E42P",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "10",
+        "stop": "D153D63F650C1D36",
+        "stop_name_tc": "裕雅苑雅盛閣 (TC240)"
+    },
+    {
+        "route": "E42P",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "11",
+        "stop": "D62C524F32F472E6",
+        "stop_name_tc": "裕雅商場 (TC241)"
+    },
+    {
+        "route": "E42P",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "12",
         "stop": "0879D399E5B5FE0C",
         "stop_name_tc": "青嶼幹線轉車站 (TW705)"
     },
@@ -252291,7 +252483,7 @@
         "route": "E42P",
         "bound": "I",
         "service_type": "1",
-        "seq": "9",
+        "seq": "13",
         "stop": "6118B186F901485A",
         "stop_name_tc": "青華苑 (TY121)"
     },
@@ -252299,7 +252491,7 @@
         "route": "E42P",
         "bound": "I",
         "service_type": "1",
-        "seq": "10",
+        "seq": "14",
         "stop": "6246D82DAB57582A",
         "stop_name_tc": "長亨邨 (TY124)"
     },
@@ -252307,7 +252499,7 @@
         "route": "E42P",
         "bound": "I",
         "service_type": "1",
-        "seq": "11",
+        "seq": "15",
         "stop": "84864BD3AA42BECE",
         "stop_name_tc": "大圍道 (TA747)"
     },
@@ -252315,7 +252507,7 @@
         "route": "E42P",
         "bound": "I",
         "service_type": "1",
-        "seq": "12",
+        "seq": "16",
         "stop": "AB52CEC256B299BE",
         "stop_name_tc": "大圍街市 (TA334)"
     },
@@ -252323,7 +252515,7 @@
         "route": "E42P",
         "bound": "I",
         "service_type": "1",
-        "seq": "13",
+        "seq": "17",
         "stop": "156FFE36D7D42EFE",
         "stop_name_tc": "大圍轉車站 - 大圍站 (TA124)"
     },
@@ -252331,7 +252523,7 @@
         "route": "E42P",
         "bound": "I",
         "service_type": "1",
-        "seq": "14",
+        "seq": "18",
         "stop": "65F5585B72A99D7F",
         "stop_name_tc": "車公廟 (TA128)"
     },
@@ -252339,7 +252531,7 @@
         "route": "E42P",
         "bound": "I",
         "service_type": "1",
-        "seq": "15",
+        "seq": "19",
         "stop": "94BA372E9FDC87C4",
         "stop_name_tc": "秦石邨 (TA131)"
     },
@@ -252347,7 +252539,7 @@
         "route": "E42P",
         "bound": "I",
         "service_type": "1",
-        "seq": "16",
+        "seq": "20",
         "stop": "A6631CAD2E2DE2A6",
         "stop_name_tc": "文化博物館 (ST104)"
     },
@@ -252355,7 +252547,7 @@
         "route": "E42P",
         "bound": "I",
         "service_type": "1",
-        "seq": "17",
+        "seq": "21",
         "stop": "84FC122EC64D8885",
         "stop_name_tc": "希爾頓中心 (ST161)"
     },
@@ -252363,7 +252555,7 @@
         "route": "E42P",
         "bound": "I",
         "service_type": "1",
-        "seq": "18",
+        "seq": "22",
         "stop": "04EA3349BDD260C8",
         "stop_name_tc": "沙田市中心巴士總站 (ST923)"
     },
@@ -252371,7 +252563,7 @@
         "route": "E42P",
         "bound": "I",
         "service_type": "1",
-        "seq": "19",
+        "seq": "23",
         "stop": "225D34B4D891AFB1",
         "stop_name_tc": "好運中心 (ST168)"
     },
@@ -252379,7 +252571,7 @@
         "route": "E42P",
         "bound": "I",
         "service_type": "1",
-        "seq": "20",
+        "seq": "24",
         "stop": "452DC333DCAD8464",
         "stop_name_tc": "瀝源邨 (ST176)"
     },
@@ -252387,7 +252579,7 @@
         "route": "E42P",
         "bound": "I",
         "service_type": "1",
-        "seq": "21",
+        "seq": "25",
         "stop": "95974C5D780AB509",
         "stop_name_tc": "禾輋邨 (ST181)"
     },
@@ -252395,7 +252587,7 @@
         "route": "E42P",
         "bound": "I",
         "service_type": "1",
-        "seq": "22",
+        "seq": "26",
         "stop": "72EE8A033E4260A3",
         "stop_name_tc": "火炭村 (FT100)"
     },
@@ -252403,7 +252595,7 @@
         "route": "E42P",
         "bound": "I",
         "service_type": "1",
-        "seq": "23",
+        "seq": "27",
         "stop": "1128EA51B0983903",
         "stop_name_tc": "火炭(山尾街)總站 (FT953)"
     },
@@ -252598,6 +252790,22 @@
         "seq": "24",
         "stop": "B1790A47B8FFEF37",
         "stop_name_tc": "海堤灣畔 (TC170)"
+    },
+    {
+        "route": "E42P",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "25",
+        "stop": "FAC118A395652466",
+        "stop_name_tc": "逸東邨美逸樓 (TC440)"
+    },
+    {
+        "route": "E42P",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "26",
+        "stop": "1A74AE460E7BEA16",
+        "stop_name_tc": "逸東邨居逸樓 (TC451)"
     },
     {
         "route": "E43",
@@ -288646,6 +288854,14 @@
         "seq": "22",
         "stop": "BB5DEEAB7F39ECD9",
         "stop_name_tc": "泓景臺 (SS317)"
+    },
+    {
+        "route": "X6C",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "23",
+        "stop": "3856383C8A22904A",
+        "stop_name_tc": "美孚巴士總站 (SS994)"
     },
     {
         "route": "X6C",
