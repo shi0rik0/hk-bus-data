@@ -34532,6 +34532,30 @@
         "bound": "I",
         "service_type": "1",
         "seq": "12",
+        "stop": "5FD7848A339751B6",
+        "stop_name_tc": "觀塘轉車站-觀塘市中心 (KT349)"
+    },
+    {
+        "route": "213E",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "13",
+        "stop": "2A5B424322D35B0A",
+        "stop_name_tc": "觀塘游泳池 (KT362)"
+    },
+    {
+        "route": "213E",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "14",
+        "stop": "ED8812E232F6958A",
+        "stop_name_tc": "觀塘警署 (LT190)"
+    },
+    {
+        "route": "213E",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "15",
         "stop": "1FBAAE29AF1CA50E",
         "stop_name_tc": "秀暉樓 (KT501)"
     },
@@ -34539,7 +34563,7 @@
         "route": "213E",
         "bound": "I",
         "service_type": "1",
-        "seq": "13",
+        "seq": "16",
         "stop": "466BC4C1908A1A06",
         "stop_name_tc": "寶達邨轉車站 (KT191)"
     },
@@ -34547,33 +34571,9 @@
         "route": "213E",
         "bound": "I",
         "service_type": "1",
-        "seq": "14",
+        "seq": "17",
         "stop": "5996115DCAE8C603",
         "stop_name_tc": "安愉徑 (AN600)"
-    },
-    {
-        "route": "213E",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "15",
-        "stop": "0BACBE7BF15833EC",
-        "stop_name_tc": "安麗苑 (AN604)"
-    },
-    {
-        "route": "213E",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "16",
-        "stop": "CABB1AAE412C6049",
-        "stop_name_tc": "安柏苑 (AN610)"
-    },
-    {
-        "route": "213E",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "17",
-        "stop": "7B0BAF8C626CDF2D",
-        "stop_name_tc": "安達臣總站 (AN914)"
     },
     {
         "route": "213E",
@@ -34588,6 +34588,14 @@
         "bound": "O",
         "service_type": "1",
         "seq": "2",
+        "stop": "D456864A2E0933B2",
+        "stop_name_tc": "安楹苑 (AN400)"
+    },
+    {
+        "route": "213E",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "3",
         "stop": "FA9F1DB955870000",
         "stop_name_tc": "安柏苑 (AN410)"
     },
@@ -34595,7 +34603,7 @@
         "route": "213E",
         "bound": "O",
         "service_type": "1",
-        "seq": "3",
+        "seq": "4",
         "stop": "1DB8D58C023AFD4D",
         "stop_name_tc": "安秀苑 (AN415)"
     },
@@ -34603,7 +34611,7 @@
         "route": "213E",
         "bound": "O",
         "service_type": "1",
-        "seq": "4",
+        "seq": "5",
         "stop": "21F97AD41821FC73",
         "stop_name_tc": "安愉徑 (AN420)"
     },
@@ -34611,7 +34619,7 @@
         "route": "213E",
         "bound": "O",
         "service_type": "1",
-        "seq": "5",
+        "seq": "6",
         "stop": "EA2CFF27310EAEC3",
         "stop_name_tc": "寶達邨轉車站 (KT459)"
     },
@@ -34619,7 +34627,7 @@
         "route": "213E",
         "bound": "O",
         "service_type": "1",
-        "seq": "6",
+        "seq": "7",
         "stop": "25863CD2A364E72F",
         "stop_name_tc": "秀暉樓 (KT300)"
     },
@@ -34627,7 +34635,23 @@
         "route": "213E",
         "bound": "O",
         "service_type": "1",
-        "seq": "7",
+        "seq": "8",
+        "stop": "8C67C373BC19EDF5",
+        "stop_name_tc": "觀塘駿業里 (KT630)"
+    },
+    {
+        "route": "213E",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "9",
+        "stop": "179C182ADEF1070D",
+        "stop_name_tc": "觀塘轉車站 - 創紀之城 (KT635)"
+    },
+    {
+        "route": "213E",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "10",
         "stop": "B568727F49CD11A3",
         "stop_name_tc": "啟隧轉車站-啟福道 (KT590)"
     },
@@ -34635,7 +34659,7 @@
         "route": "213E",
         "bound": "O",
         "service_type": "1",
-        "seq": "8",
+        "seq": "11",
         "stop": "558599642E78BB9B",
         "stop_name_tc": "香港理工大學 (YT620)"
     },
@@ -34643,7 +34667,7 @@
         "route": "213E",
         "bound": "O",
         "service_type": "1",
-        "seq": "9",
+        "seq": "12",
         "stop": "BEEBDDB542A7E709",
         "stop_name_tc": "香港科學館 (YT622)"
     },
@@ -34651,7 +34675,7 @@
         "route": "213E",
         "bound": "O",
         "service_type": "1",
-        "seq": "10",
+        "seq": "13",
         "stop": "48184733EFE9D3E3",
         "stop_name_tc": "尖沙咀麼地道 (YT624)"
     },
@@ -34659,33 +34683,9 @@
         "route": "213E",
         "bound": "O",
         "service_type": "1",
-        "seq": "11",
+        "seq": "14",
         "stop": "6265ADC5B1D37D6C",
         "stop_name_tc": "九龍公園徑 (YT640)"
-    },
-    {
-        "route": "213E",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "12",
-        "stop": "2EEB9CB69FB6A58D",
-        "stop_name_tc": "中港城 戲曲中心 (YT645)"
-    },
-    {
-        "route": "213E",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "13",
-        "stop": "0CC0B21EFF42EE19",
-        "stop_name_tc": "柯士甸道西 (YT262)"
-    },
-    {
-        "route": "213E",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "14",
-        "stop": "FF46CB6182028AC6",
-        "stop_name_tc": "九龍站,高鐵站 (YT942)"
     },
     {
         "route": "213M",
@@ -45148,8 +45148,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "1",
-        "stop": "9E42D981C59B5762",
-        "stop_name_tc": "青衣站 (TY930)"
+        "stop": "A39682B5A68D668F",
+        "stop_name_tc": "青衣站 (TY928)"
     },
     {
         "route": "249X",
@@ -45292,8 +45292,8 @@
         "bound": "I",
         "service_type": "2",
         "seq": "1",
-        "stop": "9E42D981C59B5762",
-        "stop_name_tc": "青衣站 (TY930)"
+        "stop": "A39682B5A68D668F",
+        "stop_name_tc": "青衣站 (TY928)"
     },
     {
         "route": "249X",
@@ -46613,7 +46613,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "3ECEF3B735084236",
-        "stop_name_tc": "大欖隧道轉車站 (A5) (YL791)"
+        "stop_name_tc": "大欖隧道轉車站 (YL791)"
     },
     {
         "route": "251M",
@@ -46621,7 +46621,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "7E2E1F1269E520DE",
-        "stop_name_tc": "大欖隧道轉車站 (A4) (YL792)"
+        "stop_name_tc": "大欖隧道轉車站 (YL792)"
     },
     {
         "route": "251M",
@@ -56461,7 +56461,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "643D73028E9E8490",
-        "stop_name_tc": "大欖隧道轉車站 (B5) (YL232)"
+        "stop_name_tc": "大欖隧道轉車站 (YL232)"
     },
     {
         "route": "265B",
@@ -56469,7 +56469,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "E3B0A57678CFD140",
-        "stop_name_tc": "大欖隧道轉車站 (B4) (YL233)"
+        "stop_name_tc": "大欖隧道轉車站 (YL233)"
     },
     {
         "route": "265B",
@@ -56613,7 +56613,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "3ECEF3B735084236",
-        "stop_name_tc": "大欖隧道轉車站 (A5) (YL791)"
+        "stop_name_tc": "大欖隧道轉車站 (YL791)"
     },
     {
         "route": "265B",
@@ -56621,7 +56621,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "447C1D79A10C83E2",
-        "stop_name_tc": "大欖隧道轉車站 (A2) (YL794)"
+        "stop_name_tc": "大欖隧道轉車站 (YL794)"
     },
     {
         "route": "265B",
@@ -56845,7 +56845,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "643D73028E9E8490",
-        "stop_name_tc": "大欖隧道轉車站 (B5) (YL232)"
+        "stop_name_tc": "大欖隧道轉車站 (YL232)"
     },
     {
         "route": "265M",
@@ -56853,7 +56853,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "E3B0A57678CFD140",
-        "stop_name_tc": "大欖隧道轉車站 (B4) (YL233)"
+        "stop_name_tc": "大欖隧道轉車站 (YL233)"
     },
     {
         "route": "265M",
@@ -56949,7 +56949,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "3ECEF3B735084236",
-        "stop_name_tc": "大欖隧道轉車站 (A5) (YL791)"
+        "stop_name_tc": "大欖隧道轉車站 (YL791)"
     },
     {
         "route": "265M",
@@ -56957,7 +56957,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "7E2E1F1269E520DE",
-        "stop_name_tc": "大欖隧道轉車站 (A4) (YL792)"
+        "stop_name_tc": "大欖隧道轉車站 (YL792)"
     },
     {
         "route": "265M",
@@ -57085,7 +57085,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "643D73028E9E8490",
-        "stop_name_tc": "大欖隧道轉車站 (B5) (YL232)"
+        "stop_name_tc": "大欖隧道轉車站 (YL232)"
     },
     {
         "route": "265P",
@@ -57093,7 +57093,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "E3B0A57678CFD140",
-        "stop_name_tc": "大欖隧道轉車站 (B4) (YL233)"
+        "stop_name_tc": "大欖隧道轉車站 (YL233)"
     },
     {
         "route": "265P",
@@ -57181,7 +57181,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "3ECEF3B735084236",
-        "stop_name_tc": "大欖隧道轉車站 (A5) (YL791)"
+        "stop_name_tc": "大欖隧道轉車站 (YL791)"
     },
     {
         "route": "265P",
@@ -57189,7 +57189,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "7E2E1F1269E520DE",
-        "stop_name_tc": "大欖隧道轉車站 (A4) (YL792)"
+        "stop_name_tc": "大欖隧道轉車站 (YL792)"
     },
     {
         "route": "265P",
@@ -58717,7 +58717,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "643D73028E9E8490",
-        "stop_name_tc": "大欖隧道轉車站 (B5) (YL232)"
+        "stop_name_tc": "大欖隧道轉車站 (YL232)"
     },
     {
         "route": "268A",
@@ -58725,7 +58725,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "E481F7170B1F6FC3",
-        "stop_name_tc": "大欖隧道轉車站 (B1) (YL236)"
+        "stop_name_tc": "大欖隧道轉車站 (YL236)"
     },
     {
         "route": "268A",
@@ -58829,7 +58829,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "3ECEF3B735084236",
-        "stop_name_tc": "大欖隧道轉車站 (A5) (YL791)"
+        "stop_name_tc": "大欖隧道轉車站 (YL791)"
     },
     {
         "route": "268A",
@@ -58837,7 +58837,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "211D93217331B040",
-        "stop_name_tc": "大欖隧道轉車站 (A3) (YL793)"
+        "stop_name_tc": "大欖隧道轉車站 (YL793)"
     },
     {
         "route": "268A",
@@ -59077,7 +59077,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "643D73028E9E8490",
-        "stop_name_tc": "大欖隧道轉車站 (B5) (YL232)"
+        "stop_name_tc": "大欖隧道轉車站 (YL232)"
     },
     {
         "route": "268B",
@@ -59085,7 +59085,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "E481F7170B1F6FC3",
-        "stop_name_tc": "大欖隧道轉車站 (B1) (YL236)"
+        "stop_name_tc": "大欖隧道轉車站 (YL236)"
     },
     {
         "route": "268B",
@@ -59245,7 +59245,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "3ECEF3B735084236",
-        "stop_name_tc": "大欖隧道轉車站 (A5) (YL791)"
+        "stop_name_tc": "大欖隧道轉車站 (YL791)"
     },
     {
         "route": "268B",
@@ -59253,7 +59253,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "447C1D79A10C83E2",
-        "stop_name_tc": "大欖隧道轉車站 (A2) (YL794)"
+        "stop_name_tc": "大欖隧道轉車站 (YL794)"
     },
     {
         "route": "268B",
@@ -59437,7 +59437,7 @@
         "service_type": "3",
         "seq": "15",
         "stop": "3ECEF3B735084236",
-        "stop_name_tc": "大欖隧道轉車站 (A5) (YL791)"
+        "stop_name_tc": "大欖隧道轉車站 (YL791)"
     },
     {
         "route": "268B",
@@ -59445,7 +59445,7 @@
         "service_type": "3",
         "seq": "16",
         "stop": "447C1D79A10C83E2",
-        "stop_name_tc": "大欖隧道轉車站 (A2) (YL794)"
+        "stop_name_tc": "大欖隧道轉車站 (YL794)"
     },
     {
         "route": "268B",
@@ -59653,7 +59653,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "643D73028E9E8490",
-        "stop_name_tc": "大欖隧道轉車站 (B5) (YL232)"
+        "stop_name_tc": "大欖隧道轉車站 (YL232)"
     },
     {
         "route": "268C",
@@ -59661,7 +59661,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "E481F7170B1F6FC3",
-        "stop_name_tc": "大欖隧道轉車站 (B1) (YL236)"
+        "stop_name_tc": "大欖隧道轉車站 (YL236)"
     },
     {
         "route": "268C",
@@ -59837,7 +59837,7 @@
         "service_type": "2",
         "seq": "13",
         "stop": "643D73028E9E8490",
-        "stop_name_tc": "大欖隧道轉車站 (B5) (YL232)"
+        "stop_name_tc": "大欖隧道轉車站 (YL232)"
     },
     {
         "route": "268C",
@@ -59845,7 +59845,7 @@
         "service_type": "2",
         "seq": "14",
         "stop": "E481F7170B1F6FC3",
-        "stop_name_tc": "大欖隧道轉車站 (B1) (YL236)"
+        "stop_name_tc": "大欖隧道轉車站 (YL236)"
     },
     {
         "route": "268C",
@@ -60053,7 +60053,7 @@
         "service_type": "4",
         "seq": "17",
         "stop": "643D73028E9E8490",
-        "stop_name_tc": "大欖隧道轉車站 (B5) (YL232)"
+        "stop_name_tc": "大欖隧道轉車站 (YL232)"
     },
     {
         "route": "268C",
@@ -60061,7 +60061,7 @@
         "service_type": "4",
         "seq": "18",
         "stop": "E481F7170B1F6FC3",
-        "stop_name_tc": "大欖隧道轉車站 (B1) (YL236)"
+        "stop_name_tc": "大欖隧道轉車站 (YL236)"
     },
     {
         "route": "268C",
@@ -60221,7 +60221,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "3ECEF3B735084236",
-        "stop_name_tc": "大欖隧道轉車站 (A5) (YL791)"
+        "stop_name_tc": "大欖隧道轉車站 (YL791)"
     },
     {
         "route": "268C",
@@ -60229,7 +60229,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "211D93217331B040",
-        "stop_name_tc": "大欖隧道轉車站 (A3) (YL793)"
+        "stop_name_tc": "大欖隧道轉車站 (YL793)"
     },
     {
         "route": "268C",
@@ -60429,7 +60429,7 @@
         "service_type": "2",
         "seq": "9",
         "stop": "3ECEF3B735084236",
-        "stop_name_tc": "大欖隧道轉車站 (A5) (YL791)"
+        "stop_name_tc": "大欖隧道轉車站 (YL791)"
     },
     {
         "route": "268C",
@@ -60437,7 +60437,7 @@
         "service_type": "2",
         "seq": "10",
         "stop": "211D93217331B040",
-        "stop_name_tc": "大欖隧道轉車站 (A3) (YL793)"
+        "stop_name_tc": "大欖隧道轉車站 (YL793)"
     },
     {
         "route": "268C",
@@ -60589,7 +60589,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "E55FA660A59AB64A",
-        "stop_name_tc": "大欖隧道轉車站 (B5) (YL232)"
+        "stop_name_tc": "大欖隧道轉車站 (YL232)"
     },
     {
         "route": "268M",
@@ -60597,7 +60597,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "E481F7170B1F6FC3",
-        "stop_name_tc": "大欖隧道轉車站 (B1) (YL236)"
+        "stop_name_tc": "大欖隧道轉車站 (YL236)"
     },
     {
         "route": "268M",
@@ -60685,7 +60685,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "189AC37A164008A6",
-        "stop_name_tc": "大欖隧道轉車站 (A5) (YL791)"
+        "stop_name_tc": "大欖隧道轉車站 (YL791)"
     },
     {
         "route": "268M",
@@ -60773,7 +60773,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "643D73028E9E8490",
-        "stop_name_tc": "大欖隧道轉車站 (B5) (YL232)"
+        "stop_name_tc": "大欖隧道轉車站 (YL232)"
     },
     {
         "route": "268P",
@@ -60781,7 +60781,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "E481F7170B1F6FC3",
-        "stop_name_tc": "大欖隧道轉車站 (B1) (YL236)"
+        "stop_name_tc": "大欖隧道轉車站 (YL236)"
     },
     {
         "route": "268P",
@@ -60909,7 +60909,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "3ECEF3B735084236",
-        "stop_name_tc": "大欖隧道轉車站 (A5) (YL791)"
+        "stop_name_tc": "大欖隧道轉車站 (YL791)"
     },
     {
         "route": "268P",
@@ -60917,7 +60917,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "211D93217331B040",
-        "stop_name_tc": "大欖隧道轉車站 (A3) (YL793)"
+        "stop_name_tc": "大欖隧道轉車站 (YL793)"
     },
     {
         "route": "268P",
@@ -61061,7 +61061,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "E55FA660A59AB64A",
-        "stop_name_tc": "大欖隧道轉車站 (B5) (YL232)"
+        "stop_name_tc": "大欖隧道轉車站 (YL232)"
     },
     {
         "route": "268X",
@@ -61069,7 +61069,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "E481F7170B1F6FC3",
-        "stop_name_tc": "大欖隧道轉車站 (B1) (YL236)"
+        "stop_name_tc": "大欖隧道轉車站 (YL236)"
     },
     {
         "route": "268X",
@@ -61269,7 +61269,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "3ECEF3B735084236",
-        "stop_name_tc": "大欖隧道轉車站 (A5) (YL791)"
+        "stop_name_tc": "大欖隧道轉車站 (YL791)"
     },
     {
         "route": "268X",
@@ -61277,7 +61277,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "447C1D79A10C83E2",
-        "stop_name_tc": "大欖隧道轉車站 (A2) (YL794)"
+        "stop_name_tc": "大欖隧道轉車站 (YL794)"
     },
     {
         "route": "268X",
@@ -61397,7 +61397,7 @@
         "service_type": "3",
         "seq": "8",
         "stop": "3ECEF3B735084236",
-        "stop_name_tc": "大欖隧道轉車站 (A5) (YL791)"
+        "stop_name_tc": "大欖隧道轉車站 (YL791)"
     },
     {
         "route": "268X",
@@ -61405,7 +61405,7 @@
         "service_type": "3",
         "seq": "9",
         "stop": "447C1D79A10C83E2",
-        "stop_name_tc": "大欖隧道轉車站 (A2) (YL794)"
+        "stop_name_tc": "大欖隧道轉車站 (YL794)"
     },
     {
         "route": "268X",
@@ -61565,7 +61565,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "643D73028E9E8490",
-        "stop_name_tc": "大欖隧道轉車站 (B5) (YL232)"
+        "stop_name_tc": "大欖隧道轉車站 (YL232)"
     },
     {
         "route": "269B",
@@ -61573,7 +61573,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "0D7A1D0AECA1D999",
-        "stop_name_tc": "大欖隧道轉車站 (B3) (YL234)"
+        "stop_name_tc": "大欖隧道轉車站 (YL234)"
     },
     {
         "route": "269B",
@@ -61741,7 +61741,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "3ECEF3B735084236",
-        "stop_name_tc": "大欖隧道轉車站 (A5) (YL791)"
+        "stop_name_tc": "大欖隧道轉車站 (YL791)"
     },
     {
         "route": "269B",
@@ -61749,7 +61749,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "447C1D79A10C83E2",
-        "stop_name_tc": "大欖隧道轉車站 (A2) (YL794)"
+        "stop_name_tc": "大欖隧道轉車站 (YL794)"
     },
     {
         "route": "269B",
@@ -61909,7 +61909,7 @@
         "service_type": "4",
         "seq": "12",
         "stop": "3ECEF3B735084236",
-        "stop_name_tc": "大欖隧道轉車站 (A5) (YL791)"
+        "stop_name_tc": "大欖隧道轉車站 (YL791)"
     },
     {
         "route": "269B",
@@ -61917,7 +61917,7 @@
         "service_type": "4",
         "seq": "13",
         "stop": "447C1D79A10C83E2",
-        "stop_name_tc": "大欖隧道轉車站 (A2) (YL794)"
+        "stop_name_tc": "大欖隧道轉車站 (YL794)"
     },
     {
         "route": "269B",
@@ -62125,7 +62125,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "643D73028E9E8490",
-        "stop_name_tc": "大欖隧道轉車站 (B5) (YL232)"
+        "stop_name_tc": "大欖隧道轉車站 (YL232)"
     },
     {
         "route": "269C",
@@ -62133,7 +62133,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "0D7A1D0AECA1D999",
-        "stop_name_tc": "大欖隧道轉車站 (B3) (YL234)"
+        "stop_name_tc": "大欖隧道轉車站 (YL234)"
     },
     {
         "route": "269C",
@@ -62301,7 +62301,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "3ECEF3B735084236",
-        "stop_name_tc": "大欖隧道轉車站 (A5) (YL791)"
+        "stop_name_tc": "大欖隧道轉車站 (YL791)"
     },
     {
         "route": "269C",
@@ -62309,7 +62309,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "211D93217331B040",
-        "stop_name_tc": "大欖隧道轉車站 (A3) (YL793)"
+        "stop_name_tc": "大欖隧道轉車站 (YL793)"
     },
     {
         "route": "269C",
@@ -62485,7 +62485,7 @@
         "service_type": "5",
         "seq": "6",
         "stop": "3ECEF3B735084236",
-        "stop_name_tc": "大欖隧道轉車站 (A5) (YL791)"
+        "stop_name_tc": "大欖隧道轉車站 (YL791)"
     },
     {
         "route": "269C",
@@ -62493,7 +62493,7 @@
         "service_type": "5",
         "seq": "7",
         "stop": "211D93217331B040",
-        "stop_name_tc": "大欖隧道轉車站 (A3) (YL793)"
+        "stop_name_tc": "大欖隧道轉車站 (YL793)"
     },
     {
         "route": "269C",
@@ -62669,7 +62669,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "E55FA660A59AB64A",
-        "stop_name_tc": "大欖隧道轉車站 (B5) (YL232)"
+        "stop_name_tc": "大欖隧道轉車站 (YL232)"
     },
     {
         "route": "269D",
@@ -62677,7 +62677,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "E481F7170B1F6FC3",
-        "stop_name_tc": "大欖隧道轉車站 (B1) (YL236)"
+        "stop_name_tc": "大欖隧道轉車站 (YL236)"
     },
     {
         "route": "269D",
@@ -62941,7 +62941,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "878E5C4AF6C4B0D4",
-        "stop_name_tc": "大欖隧道轉車站 (A6) (YL790)"
+        "stop_name_tc": "大欖隧道轉車站 (YL790)"
     },
     {
         "route": "269D",
@@ -63109,7 +63109,7 @@
         "service_type": "2",
         "seq": "16",
         "stop": "878E5C4AF6C4B0D4",
-        "stop_name_tc": "大欖隧道轉車站 (A6) (YL790)"
+        "stop_name_tc": "大欖隧道轉車站 (YL790)"
     },
     {
         "route": "269D",
@@ -63261,7 +63261,7 @@
         "service_type": "3",
         "seq": "14",
         "stop": "878E5C4AF6C4B0D4",
-        "stop_name_tc": "大欖隧道轉車站 (A6) (YL790)"
+        "stop_name_tc": "大欖隧道轉車站 (YL790)"
     },
     {
         "route": "269D",
@@ -63421,7 +63421,7 @@
         "service_type": "4",
         "seq": "15",
         "stop": "878E5C4AF6C4B0D4",
-        "stop_name_tc": "大欖隧道轉車站 (A6) (YL790)"
+        "stop_name_tc": "大欖隧道轉車站 (YL790)"
     },
     {
         "route": "269D",
@@ -63557,7 +63557,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "643D73028E9E8490",
-        "stop_name_tc": "大欖隧道轉車站 (B5) (YL232)"
+        "stop_name_tc": "大欖隧道轉車站 (YL232)"
     },
     {
         "route": "269M",
@@ -63565,7 +63565,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "0D7A1D0AECA1D999",
-        "stop_name_tc": "大欖隧道轉車站 (B3) (YL234)"
+        "stop_name_tc": "大欖隧道轉車站 (YL234)"
     },
     {
         "route": "269M",
@@ -63717,7 +63717,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "3ECEF3B735084236",
-        "stop_name_tc": "大欖隧道轉車站 (A5) (YL791)"
+        "stop_name_tc": "大欖隧道轉車站 (YL791)"
     },
     {
         "route": "269M",
@@ -63725,7 +63725,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "7E2E1F1269E520DE",
-        "stop_name_tc": "大欖隧道轉車站 (A4) (YL792)"
+        "stop_name_tc": "大欖隧道轉車站 (YL792)"
     },
     {
         "route": "269M",
@@ -63893,7 +63893,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "3ECEF3B735084236",
-        "stop_name_tc": "大欖隧道轉車站 (A5) (YL791)"
+        "stop_name_tc": "大欖隧道轉車站 (YL791)"
     },
     {
         "route": "269P",
@@ -63901,7 +63901,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "7E2E1F1269E520DE",
-        "stop_name_tc": "大欖隧道轉車站 (A4) (YL792)"
+        "stop_name_tc": "大欖隧道轉車站 (YL792)"
     },
     {
         "route": "269P",
@@ -64037,7 +64037,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "643D73028E9E8490",
-        "stop_name_tc": "大欖隧道轉車站 (B5) (YL232)"
+        "stop_name_tc": "大欖隧道轉車站 (YL232)"
     },
     {
         "route": "269P",
@@ -64045,7 +64045,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "0D7A1D0AECA1D999",
-        "stop_name_tc": "大欖隧道轉車站 (B3) (YL234)"
+        "stop_name_tc": "大欖隧道轉車站 (YL234)"
     },
     {
         "route": "269P",
@@ -64117,7 +64117,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "E55FA660A59AB64A",
-        "stop_name_tc": "大欖隧道轉車站 (B5) (YL232)"
+        "stop_name_tc": "大欖隧道轉車站 (YL232)"
     },
     {
         "route": "269R",
@@ -64309,7 +64309,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "643D73028E9E8490",
-        "stop_name_tc": "大欖隧道轉車站 (B5) (YL232)"
+        "stop_name_tc": "大欖隧道轉車站 (YL232)"
     },
     {
         "route": "269S",
@@ -64317,7 +64317,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "0D7A1D0AECA1D999",
-        "stop_name_tc": "大欖隧道轉車站 (B3) (YL234)"
+        "stop_name_tc": "大欖隧道轉車站 (YL234)"
     },
     {
         "route": "269S",
@@ -64461,7 +64461,7 @@
         "service_type": "2",
         "seq": "8",
         "stop": "643D73028E9E8490",
-        "stop_name_tc": "大欖隧道轉車站 (B5) (YL232)"
+        "stop_name_tc": "大欖隧道轉車站 (YL232)"
     },
     {
         "route": "269S",
@@ -64469,7 +64469,7 @@
         "service_type": "2",
         "seq": "9",
         "stop": "0D7A1D0AECA1D999",
-        "stop_name_tc": "大欖隧道轉車站 (B3) (YL234)"
+        "stop_name_tc": "大欖隧道轉車站 (YL234)"
     },
     {
         "route": "269S",
@@ -64629,7 +64629,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "3ECEF3B735084236",
-        "stop_name_tc": "大欖隧道轉車站 (A5) (YL791)"
+        "stop_name_tc": "大欖隧道轉車站 (YL791)"
     },
     {
         "route": "269S",
@@ -64637,7 +64637,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "211D93217331B040",
-        "stop_name_tc": "大欖隧道轉車站 (A3) (YL793)"
+        "stop_name_tc": "大欖隧道轉車站 (YL793)"
     },
     {
         "route": "269S",
@@ -64773,7 +64773,7 @@
         "service_type": "2",
         "seq": "10",
         "stop": "3ECEF3B735084236",
-        "stop_name_tc": "大欖隧道轉車站 (A5) (YL791)"
+        "stop_name_tc": "大欖隧道轉車站 (YL791)"
     },
     {
         "route": "269S",
@@ -64781,7 +64781,7 @@
         "service_type": "2",
         "seq": "11",
         "stop": "211D93217331B040",
-        "stop_name_tc": "大欖隧道轉車站 (A3) (YL793)"
+        "stop_name_tc": "大欖隧道轉車站 (YL793)"
     },
     {
         "route": "269S",
@@ -64949,7 +64949,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "E55FA660A59AB64A",
-        "stop_name_tc": "大欖隧道轉車站 (B5) (YL232)"
+        "stop_name_tc": "大欖隧道轉車站 (YL232)"
     },
     {
         "route": "269X",
@@ -64957,7 +64957,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "0D7A1D0AECA1D999",
-        "stop_name_tc": "大欖隧道轉車站 (B3) (YL234)"
+        "stop_name_tc": "大欖隧道轉車站 (YL234)"
     },
     {
         "route": "269X",
@@ -65117,7 +65117,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "3ECEF3B735084236",
-        "stop_name_tc": "大欖隧道轉車站 (A5) (YL791)"
+        "stop_name_tc": "大欖隧道轉車站 (YL791)"
     },
     {
         "route": "269X",
@@ -65125,7 +65125,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "447C1D79A10C83E2",
-        "stop_name_tc": "大欖隧道轉車站 (A2) (YL794)"
+        "stop_name_tc": "大欖隧道轉車站 (YL794)"
     },
     {
         "route": "269X",
@@ -68573,7 +68573,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "E3B0A57678CFD140",
-        "stop_name_tc": "大欖隧道轉車站 (B4) (YL233)"
+        "stop_name_tc": "大欖隧道轉車站 (YL233)"
     },
     {
         "route": "270R",
@@ -81757,7 +81757,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "3ECEF3B735084236",
-        "stop_name_tc": "大欖隧道轉車站 (A5) (YL791)"
+        "stop_name_tc": "大欖隧道轉車站 (YL791)"
     },
     {
         "route": "279A",
@@ -81765,7 +81765,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "D127A33746CCDB16",
-        "stop_name_tc": "大欖隧道轉車站 (A1) (YL795)"
+        "stop_name_tc": "大欖隧道轉車站 (YL795)"
     },
     {
         "route": "279A",
@@ -81853,7 +81853,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "189AC37A164008A6",
-        "stop_name_tc": "大欖隧道轉車站 (A5) (YL791)"
+        "stop_name_tc": "大欖隧道轉車站 (YL791)"
     },
     {
         "route": "279B",
@@ -82205,7 +82205,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "E55FA660A59AB64A",
-        "stop_name_tc": "大欖隧道轉車站 (B5) (YL232)"
+        "stop_name_tc": "大欖隧道轉車站 (YL232)"
     },
     {
         "route": "279X",
@@ -82213,7 +82213,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "E3B0A57678CFD140",
-        "stop_name_tc": "大欖隧道轉車站 (B4) (YL233)"
+        "stop_name_tc": "大欖隧道轉車站 (YL233)"
     },
     {
         "route": "279X",
@@ -82445,7 +82445,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "3ECEF3B735084236",
-        "stop_name_tc": "大欖隧道轉車站 (A5) (YL791)"
+        "stop_name_tc": "大欖隧道轉車站 (YL791)"
     },
     {
         "route": "279X",
@@ -82453,7 +82453,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "D127A33746CCDB16",
-        "stop_name_tc": "大欖隧道轉車站 (A1) (YL795)"
+        "stop_name_tc": "大欖隧道轉車站 (YL795)"
     },
     {
         "route": "279X",
@@ -124540,8 +124540,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "1",
-        "stop": "83D9B6BE39530EEF",
-        "stop_name_tc": "青衣站 (TY929)"
+        "stop": "68CD99B45DDE014B",
+        "stop_name_tc": "青衣站 (TY921)"
     },
     {
         "route": "44M",
@@ -129828,8 +129828,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "8",
-        "stop": "68CD99B45DDE014B",
-        "stop_name_tc": "青衣站 (TY921)"
+        "stop": "716E50EBD1CD72B4",
+        "stop_name_tc": "青衣站 (TY927)"
     },
     {
         "route": "49M",
@@ -158060,8 +158060,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "1",
-        "stop": "A39682B5A68D668F",
-        "stop_name_tc": "青衣站 (TY928)"
+        "stop": "83D9B6BE39530EEF",
+        "stop_name_tc": "青衣站 (TY929)"
     },
     {
         "route": "68A",
@@ -158540,8 +158540,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "1",
-        "stop": "83D9B6BE39530EEF",
-        "stop_name_tc": "青衣站 (TY929)"
+        "stop": "A39682B5A68D668F",
+        "stop_name_tc": "青衣站 (TY928)"
     },
     {
         "route": "68E",
@@ -158573,7 +158573,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "E55FA660A59AB64A",
-        "stop_name_tc": "大欖隧道轉車站 (B5) (YL232)"
+        "stop_name_tc": "大欖隧道轉車站 (YL232)"
     },
     {
         "route": "68E",
@@ -158581,7 +158581,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "E481F7170B1F6FC3",
-        "stop_name_tc": "大欖隧道轉車站 (B1) (YL236)"
+        "stop_name_tc": "大欖隧道轉車站 (YL236)"
     },
     {
         "route": "68E",
@@ -158821,7 +158821,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "3ECEF3B735084236",
-        "stop_name_tc": "大欖隧道轉車站 (A5) (YL791)"
+        "stop_name_tc": "大欖隧道轉車站 (YL791)"
     },
     {
         "route": "68E",
@@ -158829,7 +158829,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "D127A33746CCDB16",
-        "stop_name_tc": "大欖隧道轉車站 (A1) (YL795)"
+        "stop_name_tc": "大欖隧道轉車站 (YL795)"
     },
     {
         "route": "68E",
@@ -159125,7 +159125,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "3ECEF3B735084236",
-        "stop_name_tc": "大欖隧道轉車站 (A5) (YL791)"
+        "stop_name_tc": "大欖隧道轉車站 (YL791)"
     },
     {
         "route": "68M",
@@ -159133,7 +159133,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "7E2E1F1269E520DE",
-        "stop_name_tc": "大欖隧道轉車站 (A4) (YL792)"
+        "stop_name_tc": "大欖隧道轉車站 (YL792)"
     },
     {
         "route": "68M",
@@ -159189,7 +159189,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "E55FA660A59AB64A",
-        "stop_name_tc": "大欖隧道轉車站 (B5) (YL232)"
+        "stop_name_tc": "大欖隧道轉車站 (YL232)"
     },
     {
         "route": "68M",
@@ -159197,7 +159197,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "52241C2AEB38627B",
-        "stop_name_tc": "大欖隧道轉車站 (B2) (YL235)"
+        "stop_name_tc": "大欖隧道轉車站 (YL235)"
     },
     {
         "route": "68M",
@@ -159389,7 +159389,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "E55FA660A59AB64A",
-        "stop_name_tc": "大欖隧道轉車站 (B5) (YL232)"
+        "stop_name_tc": "大欖隧道轉車站 (YL232)"
     },
     {
         "route": "68X",
@@ -159397,7 +159397,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "E481F7170B1F6FC3",
-        "stop_name_tc": "大欖隧道轉車站 (B1) (YL236)"
+        "stop_name_tc": "大欖隧道轉車站 (YL236)"
     },
     {
         "route": "68X",
@@ -159661,7 +159661,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "3ECEF3B735084236",
-        "stop_name_tc": "大欖隧道轉車站 (A5) (YL791)"
+        "stop_name_tc": "大欖隧道轉車站 (YL791)"
     },
     {
         "route": "68X",
@@ -159669,7 +159669,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "447C1D79A10C83E2",
-        "stop_name_tc": "大欖隧道轉車站 (A2) (YL794)"
+        "stop_name_tc": "大欖隧道轉車站 (YL794)"
     },
     {
         "route": "68X",
@@ -159837,7 +159837,7 @@
         "service_type": "3",
         "seq": "7",
         "stop": "3ECEF3B735084236",
-        "stop_name_tc": "大欖隧道轉車站 (A5) (YL791)"
+        "stop_name_tc": "大欖隧道轉車站 (YL791)"
     },
     {
         "route": "68X",
@@ -159845,7 +159845,7 @@
         "service_type": "3",
         "seq": "8",
         "stop": "447C1D79A10C83E2",
-        "stop_name_tc": "大欖隧道轉車站 (A2) (YL794)"
+        "stop_name_tc": "大欖隧道轉車站 (YL794)"
     },
     {
         "route": "68X",
@@ -160021,7 +160021,7 @@
         "service_type": "4",
         "seq": "8",
         "stop": "3ECEF3B735084236",
-        "stop_name_tc": "大欖隧道轉車站 (A5) (YL791)"
+        "stop_name_tc": "大欖隧道轉車站 (YL791)"
     },
     {
         "route": "68X",
@@ -160029,7 +160029,7 @@
         "service_type": "4",
         "seq": "9",
         "stop": "447C1D79A10C83E2",
-        "stop_name_tc": "大欖隧道轉車站 (A2) (YL794)"
+        "stop_name_tc": "大欖隧道轉車站 (YL794)"
     },
     {
         "route": "68X",
@@ -161677,7 +161677,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "643D73028E9E8490",
-        "stop_name_tc": "大欖隧道轉車站 (B5) (YL232)"
+        "stop_name_tc": "大欖隧道轉車站 (YL232)"
     },
     {
         "route": "69C",
@@ -161685,7 +161685,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "0D7A1D0AECA1D999",
-        "stop_name_tc": "大欖隧道轉車站 (B3) (YL234)"
+        "stop_name_tc": "大欖隧道轉車站 (YL234)"
     },
     {
         "route": "69C",
@@ -161869,7 +161869,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "3ECEF3B735084236",
-        "stop_name_tc": "大欖隧道轉車站 (A5) (YL791)"
+        "stop_name_tc": "大欖隧道轉車站 (YL791)"
     },
     {
         "route": "69C",
@@ -161877,7 +161877,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "211D93217331B040",
-        "stop_name_tc": "大欖隧道轉車站 (A3) (YL793)"
+        "stop_name_tc": "大欖隧道轉車站 (YL793)"
     },
     {
         "route": "69C",
@@ -162061,7 +162061,7 @@
         "service_type": "2",
         "seq": "6",
         "stop": "3ECEF3B735084236",
-        "stop_name_tc": "大欖隧道轉車站 (A5) (YL791)"
+        "stop_name_tc": "大欖隧道轉車站 (YL791)"
     },
     {
         "route": "69C",
@@ -162069,7 +162069,7 @@
         "service_type": "2",
         "seq": "7",
         "stop": "211D93217331B040",
-        "stop_name_tc": "大欖隧道轉車站 (A3) (YL793)"
+        "stop_name_tc": "大欖隧道轉車站 (YL793)"
     },
     {
         "route": "69C",
@@ -162277,7 +162277,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "3ECEF3B735084236",
-        "stop_name_tc": "大欖隧道轉車站 (A5) (YL791)"
+        "stop_name_tc": "大欖隧道轉車站 (YL791)"
     },
     {
         "route": "69M",
@@ -162285,7 +162285,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "7E2E1F1269E520DE",
-        "stop_name_tc": "大欖隧道轉車站 (A4) (YL792)"
+        "stop_name_tc": "大欖隧道轉車站 (YL792)"
     },
     {
         "route": "69M",
@@ -162437,7 +162437,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "E55FA660A59AB64A",
-        "stop_name_tc": "大欖隧道轉車站 (B5) (YL232)"
+        "stop_name_tc": "大欖隧道轉車站 (YL232)"
     },
     {
         "route": "69M",
@@ -162445,7 +162445,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "0D7A1D0AECA1D999",
-        "stop_name_tc": "大欖隧道轉車站 (B3) (YL234)"
+        "stop_name_tc": "大欖隧道轉車站 (YL234)"
     },
     {
         "route": "69M",
@@ -162565,7 +162565,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "3ECEF3B735084236",
-        "stop_name_tc": "大欖隧道轉車站 (A5) (YL791)"
+        "stop_name_tc": "大欖隧道轉車站 (YL791)"
     },
     {
         "route": "69P",
@@ -162573,7 +162573,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "7E2E1F1269E520DE",
-        "stop_name_tc": "大欖隧道轉車站 (A4) (YL792)"
+        "stop_name_tc": "大欖隧道轉車站 (YL792)"
     },
     {
         "route": "69P",
@@ -162789,7 +162789,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "E55FA660A59AB64A",
-        "stop_name_tc": "大欖隧道轉車站 (B5) (YL232)"
+        "stop_name_tc": "大欖隧道轉車站 (YL232)"
     },
     {
         "route": "69X",
@@ -162797,7 +162797,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "0D7A1D0AECA1D999",
-        "stop_name_tc": "大欖隧道轉車站 (B3) (YL234)"
+        "stop_name_tc": "大欖隧道轉車站 (YL234)"
     },
     {
         "route": "69X",
@@ -162885,7 +162885,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "3ECEF3B735084236",
-        "stop_name_tc": "大欖隧道轉車站 (A5) (YL791)"
+        "stop_name_tc": "大欖隧道轉車站 (YL791)"
     },
     {
         "route": "69X",
@@ -162893,7 +162893,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "447C1D79A10C83E2",
-        "stop_name_tc": "大欖隧道轉車站 (A2) (YL794)"
+        "stop_name_tc": "大欖隧道轉車站 (YL794)"
     },
     {
         "route": "69X",
@@ -163037,7 +163037,7 @@
         "service_type": "2",
         "seq": "4",
         "stop": "3ECEF3B735084236",
-        "stop_name_tc": "大欖隧道轉車站 (A5) (YL791)"
+        "stop_name_tc": "大欖隧道轉車站 (YL791)"
     },
     {
         "route": "69X",
@@ -163045,7 +163045,7 @@
         "service_type": "2",
         "seq": "5",
         "stop": "447C1D79A10C83E2",
-        "stop_name_tc": "大欖隧道轉車站 (A2) (YL794)"
+        "stop_name_tc": "大欖隧道轉車站 (YL794)"
     },
     {
         "route": "69X",
@@ -184868,14 +184868,6 @@
         "bound": "I",
         "service_type": "1",
         "seq": "34",
-        "stop": "FC6CB9607D36FBD7",
-        "stop_name_tc": "石湖墟郵政局 (ND490)"
-    },
-    {
-        "route": "79K",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "35",
         "stop": "A4AA1D2CA4E92950",
         "stop_name_tc": "彩石邨 (ND433)"
     },
@@ -185092,14 +185084,6 @@
         "bound": "O",
         "service_type": "1",
         "seq": "2",
-        "stop": "89D8AA4F45165FB6",
-        "stop_name_tc": "石湖墟郵政局 (ND170)"
-    },
-    {
-        "route": "79K",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "3",
         "stop": "60AEF6D3AA7AAC41",
         "stop_name_tc": "上水轉車站 - 上水總站 (ND903)"
     },
@@ -185107,7 +185091,7 @@
         "route": "79K",
         "bound": "O",
         "service_type": "1",
-        "seq": "4",
+        "seq": "3",
         "stop": "FC6CB9607D36FBD7",
         "stop_name_tc": "石湖墟郵政局 (ND490)"
     },
@@ -185115,7 +185099,7 @@
         "route": "79K",
         "bound": "O",
         "service_type": "1",
-        "seq": "5",
+        "seq": "4",
         "stop": "A67D189D438E1534",
         "stop_name_tc": "上水圍 (ND102)"
     },
@@ -185123,7 +185107,7 @@
         "route": "79K",
         "bound": "O",
         "service_type": "1",
-        "seq": "6",
+        "seq": "5",
         "stop": "26AEBA11CA6347CC",
         "stop_name_tc": "翠麗花園 (ND241)"
     },
@@ -185131,7 +185115,7 @@
         "route": "79K",
         "bound": "O",
         "service_type": "1",
-        "seq": "7",
+        "seq": "6",
         "stop": "A7C1A969F48B62C0",
         "stop_name_tc": "北區運動場 (ND243)"
     },
@@ -185139,7 +185123,7 @@
         "route": "79K",
         "bound": "O",
         "service_type": "1",
-        "seq": "8",
+        "seq": "7",
         "stop": "D3E18D04B69DF388",
         "stop_name_tc": "天平邨天明樓 (ND244)"
     },
@@ -185147,7 +185131,7 @@
         "route": "79K",
         "bound": "O",
         "service_type": "1",
-        "seq": "9",
+        "seq": "8",
         "stop": "515ECE2791A22276",
         "stop_name_tc": "心誠中學 (ND245)"
     },
@@ -185155,7 +185139,7 @@
         "route": "79K",
         "bound": "O",
         "service_type": "1",
-        "seq": "10",
+        "seq": "9",
         "stop": "6B885F5529A285BB",
         "stop_name_tc": "璧峰路-粉嶺法院大樓 (ND246)"
     },
@@ -185163,7 +185147,7 @@
         "route": "79K",
         "bound": "O",
         "service_type": "1",
-        "seq": "11",
+        "seq": "10",
         "stop": "25721F85DC026ACA",
         "stop_name_tc": "粉嶺站轉車站 - 祥華邨 (ND182)"
     },
@@ -185171,7 +185155,7 @@
         "route": "79K",
         "bound": "O",
         "service_type": "1",
-        "seq": "12",
+        "seq": "11",
         "stop": "C89B16214AA7E56C",
         "stop_name_tc": "粉嶺站轉車站 - 粉嶺站 (ND495a)"
     },
@@ -185179,7 +185163,7 @@
         "route": "79K",
         "bound": "O",
         "service_type": "1",
-        "seq": "13",
+        "seq": "12",
         "stop": "53BB93AAB2D45F3B",
         "stop_name_tc": "聯和墟球場 (ND263)"
     },
@@ -185187,7 +185171,7 @@
         "route": "79K",
         "bound": "O",
         "service_type": "1",
-        "seq": "14",
+        "seq": "13",
         "stop": "12DC09C113E1C873",
         "stop_name_tc": "聯和墟總站 (ND966)"
     },
@@ -185195,7 +185179,7 @@
         "route": "79K",
         "bound": "O",
         "service_type": "1",
-        "seq": "15",
+        "seq": "14",
         "stop": "6C2DBC45160AA4BF",
         "stop_name_tc": "逸峯 (ND265)"
     },
@@ -185203,7 +185187,7 @@
         "route": "79K",
         "bound": "O",
         "service_type": "1",
-        "seq": "16",
+        "seq": "15",
         "stop": "E5F082F4C7300273",
         "stop_name_tc": "龍躍頭 (ND266)"
     },
@@ -185211,7 +185195,7 @@
         "route": "79K",
         "bound": "O",
         "service_type": "1",
-        "seq": "17",
+        "seq": "16",
         "stop": "18FB32A8BE19CB57",
         "stop_name_tc": "新圍軍營 (ND267)"
     },
@@ -185219,7 +185203,7 @@
         "route": "79K",
         "bound": "O",
         "service_type": "1",
-        "seq": "18",
+        "seq": "17",
         "stop": "753E63DCB2FFD3B2",
         "stop_name_tc": "軍地 (ND268)"
     },
@@ -185227,7 +185211,7 @@
         "route": "79K",
         "bound": "O",
         "service_type": "1",
-        "seq": "19",
+        "seq": "18",
         "stop": "0BB054192087F527",
         "stop_name_tc": "流水響 (ND269)"
     },
@@ -185235,7 +185219,7 @@
         "route": "79K",
         "bound": "O",
         "service_type": "1",
-        "seq": "20",
+        "seq": "19",
         "stop": "EAEA62781C49856C",
         "stop_name_tc": "高埔 (ND270)"
     },
@@ -185243,7 +185227,7 @@
         "route": "79K",
         "bound": "O",
         "service_type": "1",
-        "seq": "21",
+        "seq": "20",
         "stop": "4A85D10FF93639B1",
         "stop_name_tc": "孔嶺村 (ND300)"
     },
@@ -185251,7 +185235,7 @@
         "route": "79K",
         "bound": "O",
         "service_type": "1",
-        "seq": "22",
+        "seq": "21",
         "stop": "1A83561C79EB6EA8",
         "stop_name_tc": "坪輋中電站 (ND301)"
     },
@@ -185259,7 +185243,7 @@
         "route": "79K",
         "bound": "O",
         "service_type": "1",
-        "seq": "23",
+        "seq": "22",
         "stop": "A95FE3B4AB5DFF0A",
         "stop_name_tc": "香港浸會園 (ND302)"
     },
@@ -185267,7 +185251,7 @@
         "route": "79K",
         "bound": "O",
         "service_type": "1",
-        "seq": "24",
+        "seq": "23",
         "stop": "104F23B3D3BF195E",
         "stop_name_tc": "坪輋花園 (ND303)"
     },
@@ -185275,7 +185259,7 @@
         "route": "79K",
         "bound": "O",
         "service_type": "1",
-        "seq": "25",
+        "seq": "24",
         "stop": "2B6CFA0DA5F33352",
         "stop_name_tc": "坪輋元下村 (ND304)"
     },
@@ -185283,7 +185267,7 @@
         "route": "79K",
         "bound": "O",
         "service_type": "1",
-        "seq": "26",
+        "seq": "25",
         "stop": "497D02F258D3A30E",
         "stop_name_tc": "坪原路 (ND511)"
     },
@@ -185291,7 +185275,7 @@
         "route": "79K",
         "bound": "O",
         "service_type": "1",
-        "seq": "27",
+        "seq": "26",
         "stop": "B4D5698BCDA72702",
         "stop_name_tc": "雲泉仙館 (ND305)"
     },
@@ -185299,7 +185283,7 @@
         "route": "79K",
         "bound": "O",
         "service_type": "1",
-        "seq": "28",
+        "seq": "27",
         "stop": "56C8651A8E4D8B9C",
         "stop_name_tc": "昇平村 (ND306)"
     },
@@ -185307,7 +185291,7 @@
         "route": "79K",
         "bound": "O",
         "service_type": "1",
-        "seq": "29",
+        "seq": "28",
         "stop": "7E5AE4AB3F36BAEF",
         "stop_name_tc": "李屋村 (ND307)"
     },
@@ -185315,7 +185299,7 @@
         "route": "79K",
         "bound": "O",
         "service_type": "1",
-        "seq": "30",
+        "seq": "29",
         "stop": "2FB6E9437CDF3716",
         "stop_name_tc": "塘坊 (ND308)"
     },
@@ -185323,7 +185307,7 @@
         "route": "79K",
         "bound": "O",
         "service_type": "1",
-        "seq": "31",
+        "seq": "30",
         "stop": "6499E8B0408B298E",
         "stop_name_tc": "簡頭圍 (ND309)"
     },
@@ -185331,7 +185315,7 @@
         "route": "79K",
         "bound": "O",
         "service_type": "1",
-        "seq": "32",
+        "seq": "31",
         "stop": "1FDFAA33708D4FF2",
         "stop_name_tc": "打鼓嶺警署 (ND315)"
     },
@@ -185339,7 +185323,7 @@
         "route": "79K",
         "bound": "O",
         "service_type": "1",
-        "seq": "33",
+        "seq": "32",
         "stop": "63244A72D111510F",
         "stop_name_tc": "較寮 (ND316)"
     },
@@ -185347,7 +185331,7 @@
         "route": "79K",
         "bound": "O",
         "service_type": "1",
-        "seq": "34",
+        "seq": "33",
         "stop": "F47BC8784680F884",
         "stop_name_tc": "竹園 (ND317)"
     },
@@ -185355,7 +185339,7 @@
         "route": "79K",
         "bound": "O",
         "service_type": "1",
-        "seq": "35",
+        "seq": "34",
         "stop": "515928380B2DB2A3",
         "stop_name_tc": "蓮麻坑路 (ND318)"
     },
@@ -185363,7 +185347,7 @@
         "route": "79K",
         "bound": "O",
         "service_type": "1",
-        "seq": "36",
+        "seq": "35",
         "stop": "588FC84C44F8634E",
         "stop_name_tc": "打鼓嶺 (蓮塘口岸) (ND319)"
     },
@@ -217732,16 +217716,16 @@
         "bound": "I",
         "service_type": "1",
         "seq": "22",
-        "stop": "9E42D981C59B5762",
-        "stop_name_tc": "青衣站 (TY930)"
+        "stop": "E45E7DB1786B6324",
+        "stop_name_tc": "青衣站(落客站) (TY920)"
     },
     {
         "route": "948E",
         "bound": "O",
         "service_type": "1",
         "seq": "1",
-        "stop": "9E42D981C59B5762",
-        "stop_name_tc": "青衣站 (TY930)"
+        "stop": "716E50EBD1CD72B4",
+        "stop_name_tc": "青衣站 (TY927)"
     },
     {
         "route": "948E",
@@ -223381,7 +223365,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "643D73028E9E8490",
-        "stop_name_tc": "大欖隧道轉車站 (B5) (YL232)"
+        "stop_name_tc": "大欖隧道轉車站 (YL232)"
     },
     {
         "route": "968",
@@ -223389,7 +223373,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "52241C2AEB38627B",
-        "stop_name_tc": "大欖隧道轉車站 (B2) (YL235)"
+        "stop_name_tc": "大欖隧道轉車站 (YL235)"
     },
     {
         "route": "968",
@@ -223485,7 +223469,7 @@
         "service_type": "3",
         "seq": "8",
         "stop": "643D73028E9E8490",
-        "stop_name_tc": "大欖隧道轉車站 (B5) (YL232)"
+        "stop_name_tc": "大欖隧道轉車站 (YL232)"
     },
     {
         "route": "968",
@@ -223493,7 +223477,7 @@
         "service_type": "3",
         "seq": "9",
         "stop": "52241C2AEB38627B",
-        "stop_name_tc": "大欖隧道轉車站 (B2) (YL235)"
+        "stop_name_tc": "大欖隧道轉車站 (YL235)"
     },
     {
         "route": "968",
@@ -223573,7 +223557,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "3ECEF3B735084236",
-        "stop_name_tc": "大欖隧道轉車站 (A5) (YL791)"
+        "stop_name_tc": "大欖隧道轉車站 (YL791)"
     },
     {
         "route": "968",
@@ -223581,7 +223565,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "211D93217331B040",
-        "stop_name_tc": "大欖隧道轉車站 (A3) (YL793)"
+        "stop_name_tc": "大欖隧道轉車站 (YL793)"
     },
     {
         "route": "968",
@@ -223749,7 +223733,7 @@
         "service_type": "2",
         "seq": "8",
         "stop": "3ECEF3B735084236",
-        "stop_name_tc": "大欖隧道轉車站 (A5) (YL791)"
+        "stop_name_tc": "大欖隧道轉車站 (YL791)"
     },
     {
         "route": "968",
@@ -223757,7 +223741,7 @@
         "service_type": "2",
         "seq": "9",
         "stop": "211D93217331B040",
-        "stop_name_tc": "大欖隧道轉車站 (A3) (YL793)"
+        "stop_name_tc": "大欖隧道轉車站 (YL793)"
     },
     {
         "route": "968",
@@ -223925,7 +223909,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "3ECEF3B735084236",
-        "stop_name_tc": "大欖隧道轉車站 (A5) (YL791)"
+        "stop_name_tc": "大欖隧道轉車站 (YL791)"
     },
     {
         "route": "968A",
@@ -223933,7 +223917,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "211D93217331B040",
-        "stop_name_tc": "大欖隧道轉車站 (A3) (YL793)"
+        "stop_name_tc": "大欖隧道轉車站 (YL793)"
     },
     {
         "route": "968A",
@@ -224077,7 +224061,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "643D73028E9E8490",
-        "stop_name_tc": "大欖隧道轉車站 (B5) (YL232)"
+        "stop_name_tc": "大欖隧道轉車站 (YL232)"
     },
     {
         "route": "968X",
@@ -224085,7 +224069,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "52241C2AEB38627B",
-        "stop_name_tc": "大欖隧道轉車站 (B2) (YL235)"
+        "stop_name_tc": "大欖隧道轉車站 (YL235)"
     },
     {
         "route": "968X",
@@ -224229,7 +224213,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "3ECEF3B735084236",
-        "stop_name_tc": "大欖隧道轉車站 (A5) (YL791)"
+        "stop_name_tc": "大欖隧道轉車站 (YL791)"
     },
     {
         "route": "968X",
@@ -224237,7 +224221,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "211D93217331B040",
-        "stop_name_tc": "大欖隧道轉車站 (A3) (YL793)"
+        "stop_name_tc": "大欖隧道轉車站 (YL793)"
     },
     {
         "route": "968X",
@@ -225565,7 +225549,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "E55FA660A59AB64A",
-        "stop_name_tc": "大欖隧道轉車站 (B5) (YL232)"
+        "stop_name_tc": "大欖隧道轉車站 (YL232)"
     },
     {
         "route": "978",
@@ -225573,7 +225557,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "E3B0A57678CFD140",
-        "stop_name_tc": "大欖隧道轉車站 (B4) (YL233)"
+        "stop_name_tc": "大欖隧道轉車站 (YL233)"
     },
     {
         "route": "978",
@@ -225797,7 +225781,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "3ECEF3B735084236",
-        "stop_name_tc": "大欖隧道轉車站 (A5) (YL791)"
+        "stop_name_tc": "大欖隧道轉車站 (YL791)"
     },
     {
         "route": "978",
@@ -225805,7 +225789,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "211D93217331B040",
-        "stop_name_tc": "大欖隧道轉車站 (A3) (YL793)"
+        "stop_name_tc": "大欖隧道轉車站 (YL793)"
     },
     {
         "route": "978",
@@ -225973,7 +225957,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "E55FA660A59AB64A",
-        "stop_name_tc": "大欖隧道轉車站 (B5) (YL232)"
+        "stop_name_tc": "大欖隧道轉車站 (YL232)"
     },
     {
         "route": "978A",
@@ -225981,7 +225965,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "E3B0A57678CFD140",
-        "stop_name_tc": "大欖隧道轉車站 (B4) (YL233)"
+        "stop_name_tc": "大欖隧道轉車站 (YL233)"
     },
     {
         "route": "978A",
@@ -226109,7 +226093,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "3ECEF3B735084236",
-        "stop_name_tc": "大欖隧道轉車站 (A5) (YL791)"
+        "stop_name_tc": "大欖隧道轉車站 (YL791)"
     },
     {
         "route": "978A",
@@ -226117,7 +226101,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "211D93217331B040",
-        "stop_name_tc": "大欖隧道轉車站 (A3) (YL793)"
+        "stop_name_tc": "大欖隧道轉車站 (YL793)"
     },
     {
         "route": "978A",
@@ -226277,7 +226261,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "3ECEF3B735084236",
-        "stop_name_tc": "大欖隧道轉車站 (A5) (YL791)"
+        "stop_name_tc": "大欖隧道轉車站 (YL791)"
     },
     {
         "route": "978B",
@@ -226285,7 +226269,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "211D93217331B040",
-        "stop_name_tc": "大欖隧道轉車站 (A3) (YL793)"
+        "stop_name_tc": "大欖隧道轉車站 (YL793)"
     },
     {
         "route": "978B",
@@ -241541,7 +241525,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "7D72DDC29E02C14D",
-        "stop_name_tc": "大欖隧道轉車站 (B6) (YL231)"
+        "stop_name_tc": "大欖隧道轉車站 (YL231)"
     },
     {
         "route": "A43",
@@ -241805,7 +241789,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "564C0ECAAC09C371",
-        "stop_name_tc": "大欖隧道轉車站 (A6) (YL790)"
+        "stop_name_tc": "大欖隧道轉車站 (YL790)"
     },
     {
         "route": "A43",
@@ -241981,7 +241965,7 @@
         "service_type": "2",
         "seq": "17",
         "stop": "564C0ECAAC09C371",
-        "stop_name_tc": "大欖隧道轉車站 (A6) (YL790)"
+        "stop_name_tc": "大欖隧道轉車站 (YL790)"
     },
     {
         "route": "A43",
@@ -242061,7 +242045,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "7D72DDC29E02C14D",
-        "stop_name_tc": "大欖隧道轉車站 (B6) (YL231)"
+        "stop_name_tc": "大欖隧道轉車站 (YL231)"
     },
     {
         "route": "A43P",
@@ -242181,7 +242165,7 @@
         "service_type": "2",
         "seq": "6",
         "stop": "7D72DDC29E02C14D",
-        "stop_name_tc": "大欖隧道轉車站 (B6) (YL231)"
+        "stop_name_tc": "大欖隧道轉車站 (YL231)"
     },
     {
         "route": "A43P",
@@ -242301,7 +242285,7 @@
         "service_type": "3",
         "seq": "6",
         "stop": "7D72DDC29E02C14D",
-        "stop_name_tc": "大欖隧道轉車站 (B6) (YL231)"
+        "stop_name_tc": "大欖隧道轉車站 (YL231)"
     },
     {
         "route": "A43P",
@@ -242493,7 +242477,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "564C0ECAAC09C371",
-        "stop_name_tc": "大欖隧道轉車站 (A6) (YL790)"
+        "stop_name_tc": "大欖隧道轉車站 (YL790)"
     },
     {
         "route": "A43P",
@@ -242653,7 +242637,7 @@
         "service_type": "3",
         "seq": "14",
         "stop": "564C0ECAAC09C371",
-        "stop_name_tc": "大欖隧道轉車站 (A6) (YL790)"
+        "stop_name_tc": "大欖隧道轉車站 (YL790)"
     },
     {
         "route": "A43P",
@@ -249109,7 +249093,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "7D72DDC29E02C14D",
-        "stop_name_tc": "大欖隧道轉車站 (B6) (YL231)"
+        "stop_name_tc": "大欖隧道轉車站 (YL231)"
     },
     {
         "route": "E36P",
@@ -249533,7 +249517,7 @@
         "service_type": "1",
         "seq": "28",
         "stop": "564C0ECAAC09C371",
-        "stop_name_tc": "大欖隧道轉車站 (A6) (YL790)"
+        "stop_name_tc": "大欖隧道轉車站 (YL790)"
     },
     {
         "route": "E36P",
@@ -249717,7 +249701,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "7D72DDC29E02C14D",
-        "stop_name_tc": "大欖隧道轉車站 (B6) (YL231)"
+        "stop_name_tc": "大欖隧道轉車站 (YL231)"
     },
     {
         "route": "E36S",
@@ -249829,7 +249813,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "564C0ECAAC09C371",
-        "stop_name_tc": "大欖隧道轉車站 (A6) (YL790)"
+        "stop_name_tc": "大欖隧道轉車站 (YL790)"
     },
     {
         "route": "E36S",
@@ -260837,7 +260821,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "0D7A1D0AECA1D999",
-        "stop_name_tc": "大欖隧道轉車站 (B3) (YL234)"
+        "stop_name_tc": "大欖隧道轉車站 (YL234)"
     },
     {
         "route": "N269",
@@ -261253,7 +261237,7 @@
         "service_type": "1",
         "seq": "26",
         "stop": "447C1D79A10C83E2",
-        "stop_name_tc": "大欖隧道轉車站 (A2) (YL794)"
+        "stop_name_tc": "大欖隧道轉車站 (YL794)"
     },
     {
         "route": "N269",
@@ -266725,7 +266709,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "643D73028E9E8490",
-        "stop_name_tc": "大欖隧道轉車站 (B5) (YL232)"
+        "stop_name_tc": "大欖隧道轉車站 (YL232)"
     },
     {
         "route": "N368",
@@ -266733,7 +266717,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "52241C2AEB38627B",
-        "stop_name_tc": "大欖隧道轉車站 (B2) (YL235)"
+        "stop_name_tc": "大欖隧道轉車站 (YL235)"
     },
     {
         "route": "N368",
@@ -266885,7 +266869,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "3ECEF3B735084236",
-        "stop_name_tc": "大欖隧道轉車站 (A5) (YL791)"
+        "stop_name_tc": "大欖隧道轉車站 (YL791)"
     },
     {
         "route": "N368",
@@ -266893,7 +266877,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "211D93217331B040",
-        "stop_name_tc": "大欖隧道轉車站 (A3) (YL793)"
+        "stop_name_tc": "大欖隧道轉車站 (YL793)"
     },
     {
         "route": "N368",
@@ -276685,7 +276669,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "7D72DDC29E02C14D",
-        "stop_name_tc": "大欖隧道轉車站 (B6) (YL231)"
+        "stop_name_tc": "大欖隧道轉車站 (YL231)"
     },
     {
         "route": "NA43",
@@ -276965,7 +276949,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "564C0ECAAC09C371",
-        "stop_name_tc": "大欖隧道轉車站 (A6) (YL790)"
+        "stop_name_tc": "大欖隧道轉車站 (YL790)"
     },
     {
         "route": "NA43",
@@ -278365,7 +278349,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "643D73028E9E8490",
-        "stop_name_tc": "大欖隧道轉車站 (B5) (YL232)"
+        "stop_name_tc": "大欖隧道轉車站 (YL232)"
     },
     {
         "route": "P968",
@@ -278373,7 +278357,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "52241C2AEB38627B",
-        "stop_name_tc": "大欖隧道轉車站 (B2) (YL235)"
+        "stop_name_tc": "大欖隧道轉車站 (YL235)"
     },
     {
         "route": "P968",
@@ -278445,7 +278429,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "3ECEF3B735084236",
-        "stop_name_tc": "大欖隧道轉車站 (A5) (YL791)"
+        "stop_name_tc": "大欖隧道轉車站 (YL791)"
     },
     {
         "route": "P968",
@@ -278453,7 +278437,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "211D93217331B040",
-        "stop_name_tc": "大欖隧道轉車站 (A3) (YL793)"
+        "stop_name_tc": "大欖隧道轉車站 (YL793)"
     },
     {
         "route": "P968",
@@ -278581,7 +278565,7 @@
         "service_type": "2",
         "seq": "8",
         "stop": "3ECEF3B735084236",
-        "stop_name_tc": "大欖隧道轉車站 (A5) (YL791)"
+        "stop_name_tc": "大欖隧道轉車站 (YL791)"
     },
     {
         "route": "P968",
@@ -278589,7 +278573,7 @@
         "service_type": "2",
         "seq": "9",
         "stop": "211D93217331B040",
-        "stop_name_tc": "大欖隧道轉車站 (A3) (YL793)"
+        "stop_name_tc": "大欖隧道轉車站 (YL793)"
     },
     {
         "route": "P968",
@@ -284069,7 +284053,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "E55FA660A59AB64A",
-        "stop_name_tc": "大欖隧道轉車站 (B5) (YL232)"
+        "stop_name_tc": "大欖隧道轉車站 (YL232)"
     },
     {
         "route": "SP6",
@@ -284365,7 +284349,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "E3B0A57678CFD140",
-        "stop_name_tc": "大欖隧道轉車站 (B4) (YL233)"
+        "stop_name_tc": "大欖隧道轉車站 (YL233)"
     },
     {
         "route": "T270",
@@ -284549,7 +284533,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "447C1D79A10C83E2",
-        "stop_name_tc": "大欖隧道轉車站 (A2) (YL794)"
+        "stop_name_tc": "大欖隧道轉車站 (YL794)"
     },
     {
         "route": "T270",
@@ -288028,8 +288012,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "1",
-        "stop": "A39682B5A68D668F",
-        "stop_name_tc": "青衣站 (TY928)"
+        "stop": "716E50EBD1CD72B4",
+        "stop_name_tc": "青衣站 (TY927)"
     },
     {
         "route": "X42P",
@@ -288165,7 +288149,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "7D72DDC29E02C14D",
-        "stop_name_tc": "大欖隧道轉車站 (B6) (YL231)"
+        "stop_name_tc": "大欖隧道轉車站 (YL231)"
     },
     {
         "route": "X43",
