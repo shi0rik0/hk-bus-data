@@ -45373,7 +45373,7 @@
         "service_type": "2",
         "seq": "11",
         "stop": "3CEFE1F7CC598005",
-        "stop_name_tc": "大圍站總站 (G6) (TA945)"
+        "stop_name_tc": "大圍站總站 (TA945)"
     },
     {
         "route": "249X",
@@ -45437,7 +45437,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "9ADE07CC443E4ACE",
-        "stop_name_tc": "大圍轉車站 - 新翠邨新明樓"
+        "stop_name_tc": "大圍轉車站新翠邨新明樓 (TA538)"
     },
     {
         "route": "249X",
@@ -45445,7 +45445,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "3CEFE1F7CC598005",
-        "stop_name_tc": "大圍站總站 (G6) (TA945)"
+        "stop_name_tc": "大圍站總站 (TA945)"
     },
     {
         "route": "249X",
@@ -46653,7 +46653,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "F80DF64ABE690251",
-        "stop_name_tc": "屯門公路轉車站 (C2) (TM112)"
+        "stop_name_tc": "屯門公路轉車站 (TM112)"
     },
     {
         "route": "252",
@@ -46845,7 +46845,7 @@
         "service_type": "1",
         "seq": "25",
         "stop": "212BFF5737D0116C",
-        "stop_name_tc": "屯門公路轉車站 (A9) (TM741)"
+        "stop_name_tc": "屯門公路轉車站 (TM741)"
     },
     {
         "route": "252",
@@ -46861,7 +46861,7 @@
         "service_type": "1",
         "seq": "27",
         "stop": "F80DF64ABE690251",
-        "stop_name_tc": "屯門公路轉車站 (C2) (TM112)"
+        "stop_name_tc": "屯門公路轉車站 (TM112)"
     },
     {
         "route": "252",
@@ -46869,7 +46869,7 @@
         "service_type": "2",
         "seq": "1",
         "stop": "F80DF64ABE690251",
-        "stop_name_tc": "屯門公路轉車站 (C2) (TM112)"
+        "stop_name_tc": "屯門公路轉車站 (TM112)"
     },
     {
         "route": "252",
@@ -47101,7 +47101,7 @@
         "service_type": "3",
         "seq": "14",
         "stop": "212BFF5737D0116C",
-        "stop_name_tc": "屯門公路轉車站 (A9) (TM741)"
+        "stop_name_tc": "屯門公路轉車站 (TM741)"
     },
     {
         "route": "252",
@@ -47117,7 +47117,7 @@
         "service_type": "3",
         "seq": "16",
         "stop": "F80DF64ABE690251",
-        "stop_name_tc": "屯門公路轉車站 (C2) (TM112)"
+        "stop_name_tc": "屯門公路轉車站 (TM112)"
     },
     {
         "route": "252B",
@@ -47357,7 +47357,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "C1590716F6FABC50",
-        "stop_name_tc": "屯門公路轉車站 (C5) (TM110)"
+        "stop_name_tc": "屯門公路轉車站 (TM110)"
     },
     {
         "route": "252S",
@@ -47709,7 +47709,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "846872B8B3E76E7D",
-        "stop_name_tc": "屯門公路轉車站 (A10) (TM742)"
+        "stop_name_tc": "屯門公路轉車站 (TM742)"
     },
     {
         "route": "252S",
@@ -48797,7 +48797,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "0269A1F9D98C737E",
-        "stop_name_tc": "屯門公路轉車站 (B7) (TM101)"
+        "stop_name_tc": "屯門公路轉車站 (TM101)"
     },
     {
         "route": "258D",
@@ -48805,7 +48805,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "88229183EDC0B6E9",
-        "stop_name_tc": "屯門公路轉車站 (B2) (TM106)"
+        "stop_name_tc": "屯門公路轉車站 (TM106)"
     },
     {
         "route": "258D",
@@ -48989,7 +48989,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "6437BDE588337654",
-        "stop_name_tc": "屯門公路轉車站 (A2) (TM757)"
+        "stop_name_tc": "屯門公路轉車站 (TM757)"
     },
     {
         "route": "258D",
@@ -49861,7 +49861,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "0269A1F9D98C737E",
-        "stop_name_tc": "屯門公路轉車站 (B7) (TM101)"
+        "stop_name_tc": "屯門公路轉車站 (TM101)"
     },
     {
         "route": "258X",
@@ -49869,7 +49869,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "88229183EDC0B6E9",
-        "stop_name_tc": "屯門公路轉車站 (B2) (TM106)"
+        "stop_name_tc": "屯門公路轉車站 (TM106)"
     },
     {
         "route": "258X",
@@ -50045,7 +50045,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "846872B8B3E76E7D",
-        "stop_name_tc": "屯門公路轉車站 (A10) (TM742)"
+        "stop_name_tc": "屯門公路轉車站 (TM742)"
     },
     {
         "route": "258X",
@@ -50477,7 +50477,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "0269A1F9D98C737E",
-        "stop_name_tc": "屯門公路轉車站 (B7) (TM101)"
+        "stop_name_tc": "屯門公路轉車站 (TM101)"
     },
     {
         "route": "259D",
@@ -50485,7 +50485,7 @@
         "service_type": "1",
         "seq": "23",
         "stop": "A8B22902BD665766",
-        "stop_name_tc": "屯門公路轉車站 (B4) (TM104)"
+        "stop_name_tc": "屯門公路轉車站 (TM104)"
     },
     {
         "route": "259D",
@@ -50629,7 +50629,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "6437BDE588337654",
-        "stop_name_tc": "屯門公路轉車站 (A2) (TM757)"
+        "stop_name_tc": "屯門公路轉車站 (TM757)"
     },
     {
         "route": "259D",
@@ -50829,7 +50829,7 @@
         "service_type": "3",
         "seq": "8",
         "stop": "6437BDE588337654",
-        "stop_name_tc": "屯門公路轉車站 (A2) (TM757)"
+        "stop_name_tc": "屯門公路轉車站 (TM757)"
     },
     {
         "route": "259D",
@@ -50981,7 +50981,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "DB516EC0B8DAF046",
-        "stop_name_tc": "屯門公路轉車站 (B9) (TM100)"
+        "stop_name_tc": "屯門公路轉車站 (TM100)"
     },
     {
         "route": "259R",
@@ -51141,7 +51141,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "0269A1F9D98C737E",
-        "stop_name_tc": "屯門公路轉車站 (B7) (TM101)"
+        "stop_name_tc": "屯門公路轉車站 (TM101)"
     },
     {
         "route": "259S",
@@ -51149,7 +51149,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "88229183EDC0B6E9",
-        "stop_name_tc": "屯門公路轉車站 (B2) (TM106)"
+        "stop_name_tc": "屯門公路轉車站 (TM106)"
     },
     {
         "route": "259S",
@@ -51189,7 +51189,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "69EA07FBAB612E68",
-        "stop_name_tc": "屯門站總站 (V7) (TM952)"
+        "stop_name_tc": "屯門站總站 (TM952)"
     },
     {
         "route": "259S",
@@ -51293,7 +51293,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "846872B8B3E76E7D",
-        "stop_name_tc": "屯門公路轉車站 (A10) (TM742)"
+        "stop_name_tc": "屯門公路轉車站 (TM742)"
     },
     {
         "route": "259S",
@@ -51413,7 +51413,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "0269A1F9D98C737E",
-        "stop_name_tc": "屯門公路轉車站 (B7) (TM101)"
+        "stop_name_tc": "屯門公路轉車站 (TM101)"
     },
     {
         "route": "259X",
@@ -51421,7 +51421,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "A8B22902BD665766",
-        "stop_name_tc": "屯門公路轉車站 (B4) (TM104)"
+        "stop_name_tc": "屯門公路轉車站 (TM104)"
     },
     {
         "route": "259X",
@@ -51525,7 +51525,7 @@
         "service_type": "3",
         "seq": "6",
         "stop": "0269A1F9D98C737E",
-        "stop_name_tc": "屯門公路轉車站 (B7) (TM101)"
+        "stop_name_tc": "屯門公路轉車站 (TM101)"
     },
     {
         "route": "259X",
@@ -51533,7 +51533,7 @@
         "service_type": "3",
         "seq": "7",
         "stop": "A8B22902BD665766",
-        "stop_name_tc": "屯門公路轉車站 (B4) (TM104)"
+        "stop_name_tc": "屯門公路轉車站 (TM104)"
     },
     {
         "route": "259X",
@@ -51669,7 +51669,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "846872B8B3E76E7D",
-        "stop_name_tc": "屯門公路轉車站 (A10) (TM742)"
+        "stop_name_tc": "屯門公路轉車站 (TM742)"
     },
     {
         "route": "259X",
@@ -52501,7 +52501,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "DB516EC0B8DAF046",
-        "stop_name_tc": "屯門公路轉車站 (B9) (TM100)"
+        "stop_name_tc": "屯門公路轉車站 (TM100)"
     },
     {
         "route": "260R",
@@ -52701,7 +52701,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "DFE346B2C7332BC0",
-        "stop_name_tc": "屯門公路轉車站 (B6) (TM102)"
+        "stop_name_tc": "屯門公路轉車站 (TM102)"
     },
     {
         "route": "260X",
@@ -52709,7 +52709,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "2B3A6C000BB085CD",
-        "stop_name_tc": "屯門公路轉車站 (B3) (TM105)"
+        "stop_name_tc": "屯門公路轉車站 (TM105)"
     },
     {
         "route": "260X",
@@ -52885,7 +52885,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "21FC719DAF5F9D28",
-        "stop_name_tc": "屯門公路轉車站 (A3) (TM756)"
+        "stop_name_tc": "屯門公路轉車站 (TM756)"
     },
     {
         "route": "260X",
@@ -53021,7 +53021,7 @@
         "service_type": "3",
         "seq": "8",
         "stop": "21FC719DAF5F9D28",
-        "stop_name_tc": "屯門公路轉車站 (A3) (TM756)"
+        "stop_name_tc": "屯門公路轉車站 (TM756)"
     },
     {
         "route": "260X",
@@ -54877,7 +54877,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "620E14F31DA31490",
-        "stop_name_tc": "城門隧道轉車站 (B6) (TW300)"
+        "stop_name_tc": "城門隧道轉車站 (TW300)"
     },
     {
         "route": "263",
@@ -54885,7 +54885,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "5FDA47671B5557B3",
-        "stop_name_tc": "城門隧道轉車站 (B5) (TW301)"
+        "stop_name_tc": "城門隧道轉車站 (TW301)"
     },
     {
         "route": "263",
@@ -54893,7 +54893,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "0269A1F9D98C737E",
-        "stop_name_tc": "屯門公路轉車站 (B7) (TM101)"
+        "stop_name_tc": "屯門公路轉車站 (TM101)"
     },
     {
         "route": "263",
@@ -54901,7 +54901,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "47FF0EDCD6926932",
-        "stop_name_tc": "屯門公路轉車站 (B5) (TM103)"
+        "stop_name_tc": "屯門公路轉車站 (TM103)"
     },
     {
         "route": "263",
@@ -54941,7 +54941,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "79D68EE7C6CBAB9D",
-        "stop_name_tc": "屯門站總站 (V6) (TM954)"
+        "stop_name_tc": "屯門站總站 (TM954)"
     },
     {
         "route": "263",
@@ -54949,7 +54949,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "7A501670303C90F8",
-        "stop_name_tc": "屯門站總站 (V1) (TM960)"
+        "stop_name_tc": "屯門站總站 (TM960)"
     },
     {
         "route": "263",
@@ -54957,7 +54957,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "7A501670303C90F8",
-        "stop_name_tc": "屯門站總站 (V1) (TM960)"
+        "stop_name_tc": "屯門站總站 (TM960)"
     },
     {
         "route": "263",
@@ -55005,7 +55005,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "1D5D89F395EA4948",
-        "stop_name_tc": "屯門公路轉車站 (A1) (TM758)"
+        "stop_name_tc": "屯門公路轉車站 (TM758)"
     },
     {
         "route": "263",
@@ -55013,7 +55013,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "81B719F7DC3F0FAD",
-        "stop_name_tc": "城門隧道轉車站 (A5) (TW500)"
+        "stop_name_tc": "城門隧道轉車站 (TW500)"
     },
     {
         "route": "263",
@@ -55021,7 +55021,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "9E8E99C5BB698AC2",
-        "stop_name_tc": "城門隧道轉車站 (A4) (TW501)"
+        "stop_name_tc": "城門隧道轉車站 (TW501)"
     },
     {
         "route": "263",
@@ -55101,7 +55101,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "620E14F31DA31490",
-        "stop_name_tc": "城門隧道轉車站 (B6) (TW300)"
+        "stop_name_tc": "城門隧道轉車站 (TW300)"
     },
     {
         "route": "263A",
@@ -55109,7 +55109,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "5FDA47671B5557B3",
-        "stop_name_tc": "城門隧道轉車站 (B5) (TW301)"
+        "stop_name_tc": "城門隧道轉車站 (TW301)"
     },
     {
         "route": "263A",
@@ -55117,7 +55117,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "0269A1F9D98C737E",
-        "stop_name_tc": "屯門公路轉車站 (B7) (TM101)"
+        "stop_name_tc": "屯門公路轉車站 (TM101)"
     },
     {
         "route": "263A",
@@ -55125,7 +55125,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "47FF0EDCD6926932",
-        "stop_name_tc": "屯門公路轉車站 (B5) (TM103)"
+        "stop_name_tc": "屯門公路轉車站 (TM103)"
     },
     {
         "route": "263A",
@@ -55165,7 +55165,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "79D68EE7C6CBAB9D",
-        "stop_name_tc": "屯門站總站 (V6) (TM954)"
+        "stop_name_tc": "屯門站總站 (TM954)"
     },
     {
         "route": "263A",
@@ -55173,7 +55173,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "584E6744385F6463",
-        "stop_name_tc": "屯門站總站 (V5) (TM955)"
+        "stop_name_tc": "屯門站總站 (TM955)"
     },
     {
         "route": "263A",
@@ -55221,7 +55221,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "1D5D89F395EA4948",
-        "stop_name_tc": "屯門公路轉車站 (A1) (TM758)"
+        "stop_name_tc": "屯門公路轉車站 (TM758)"
     },
     {
         "route": "263A",
@@ -55309,7 +55309,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "620E14F31DA31490",
-        "stop_name_tc": "城門隧道轉車站 (B6) (TW300)"
+        "stop_name_tc": "城門隧道轉車站 (TW300)"
     },
     {
         "route": "263B",
@@ -55317,7 +55317,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "5FDA47671B5557B3",
-        "stop_name_tc": "城門隧道轉車站 (B5) (TW301)"
+        "stop_name_tc": "城門隧道轉車站 (TW301)"
     },
     {
         "route": "263B",
@@ -55325,7 +55325,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "0269A1F9D98C737E",
-        "stop_name_tc": "屯門公路轉車站 (B7) (TM101)"
+        "stop_name_tc": "屯門公路轉車站 (TM101)"
     },
     {
         "route": "263B",
@@ -55333,7 +55333,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "47FF0EDCD6926932",
-        "stop_name_tc": "屯門公路轉車站 (B5) (TM103)"
+        "stop_name_tc": "屯門公路轉車站 (TM103)"
     },
     {
         "route": "263B",
@@ -55373,7 +55373,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "79D68EE7C6CBAB9D",
-        "stop_name_tc": "屯門站總站 (V6) (TM954)"
+        "stop_name_tc": "屯門站總站 (TM954)"
     },
     {
         "route": "263B",
@@ -55381,7 +55381,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "584E6744385F6463",
-        "stop_name_tc": "屯門站總站 (V5) (TM955)"
+        "stop_name_tc": "屯門站總站 (TM955)"
     },
     {
         "route": "263B",
@@ -55429,7 +55429,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "1D5D89F395EA4948",
-        "stop_name_tc": "屯門公路轉車站 (A1) (TM758)"
+        "stop_name_tc": "屯門公路轉車站 (TM758)"
     },
     {
         "route": "263B",
@@ -55437,7 +55437,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "81B719F7DC3F0FAD",
-        "stop_name_tc": "城門隧道轉車站 (A5) (TW500)"
+        "stop_name_tc": "城門隧道轉車站 (TW500)"
     },
     {
         "route": "263B",
@@ -55445,7 +55445,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "9E8E99C5BB698AC2",
-        "stop_name_tc": "城門隧道轉車站 (A4) (TW501)"
+        "stop_name_tc": "城門隧道轉車站 (TW501)"
     },
     {
         "route": "263B",
@@ -55637,7 +55637,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "620E14F31DA31490",
-        "stop_name_tc": "城門隧道轉車站 (B6) (TW300)"
+        "stop_name_tc": "城門隧道轉車站 (TW300)"
     },
     {
         "route": "263C",
@@ -55645,7 +55645,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "5FDA47671B5557B3",
-        "stop_name_tc": "城門隧道轉車站 (B5) (TW301)"
+        "stop_name_tc": "城門隧道轉車站 (TW301)"
     },
     {
         "route": "263C",
@@ -55653,7 +55653,7 @@
         "service_type": "1",
         "seq": "23",
         "stop": "0269A1F9D98C737E",
-        "stop_name_tc": "屯門公路轉車站 (B7) (TM101)"
+        "stop_name_tc": "屯門公路轉車站 (TM101)"
     },
     {
         "route": "263C",
@@ -55661,7 +55661,7 @@
         "service_type": "1",
         "seq": "24",
         "stop": "47FF0EDCD6926932",
-        "stop_name_tc": "屯門公路轉車站 (B5) (TM103)"
+        "stop_name_tc": "屯門公路轉車站 (TM103)"
     },
     {
         "route": "263C",
@@ -55701,7 +55701,7 @@
         "service_type": "1",
         "seq": "29",
         "stop": "79D68EE7C6CBAB9D",
-        "stop_name_tc": "屯門站總站 (V6) (TM954)"
+        "stop_name_tc": "屯門站總站 (TM954)"
     },
     {
         "route": "263C",
@@ -55709,7 +55709,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "584E6744385F6463",
-        "stop_name_tc": "屯門站總站 (V5) (TM955)"
+        "stop_name_tc": "屯門站總站 (TM955)"
     },
     {
         "route": "263C",
@@ -55757,7 +55757,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "1D5D89F395EA4948",
-        "stop_name_tc": "屯門公路轉車站 (A1) (TM758)"
+        "stop_name_tc": "屯門公路轉車站 (TM758)"
     },
     {
         "route": "263C",
@@ -62653,7 +62653,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "620E14F31DA31490",
-        "stop_name_tc": "城門隧道轉車站 (B6) (TW300)"
+        "stop_name_tc": "城門隧道轉車站 (TW300)"
     },
     {
         "route": "269D",
@@ -62661,7 +62661,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "5FDA47671B5557B3",
-        "stop_name_tc": "城門隧道轉車站 (B5) (TW301)"
+        "stop_name_tc": "城門隧道轉車站 (TW301)"
     },
     {
         "route": "269D",
@@ -62949,7 +62949,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "81B719F7DC3F0FAD",
-        "stop_name_tc": "城門隧道轉車站 (A5) (TW500)"
+        "stop_name_tc": "城門隧道轉車站 (TW500)"
     },
     {
         "route": "269D",
@@ -62957,7 +62957,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "9E8E99C5BB698AC2",
-        "stop_name_tc": "城門隧道轉車站 (A4) (TW501)"
+        "stop_name_tc": "城門隧道轉車站 (TW501)"
     },
     {
         "route": "269D",
@@ -63117,7 +63117,7 @@
         "service_type": "2",
         "seq": "17",
         "stop": "81B719F7DC3F0FAD",
-        "stop_name_tc": "城門隧道轉車站 (A5) (TW500)"
+        "stop_name_tc": "城門隧道轉車站 (TW500)"
     },
     {
         "route": "269D",
@@ -63125,7 +63125,7 @@
         "service_type": "2",
         "seq": "18",
         "stop": "9E8E99C5BB698AC2",
-        "stop_name_tc": "城門隧道轉車站 (A4) (TW501)"
+        "stop_name_tc": "城門隧道轉車站 (TW501)"
     },
     {
         "route": "269D",
@@ -63269,7 +63269,7 @@
         "service_type": "3",
         "seq": "15",
         "stop": "81B719F7DC3F0FAD",
-        "stop_name_tc": "城門隧道轉車站 (A5) (TW500)"
+        "stop_name_tc": "城門隧道轉車站 (TW500)"
     },
     {
         "route": "269D",
@@ -63277,7 +63277,7 @@
         "service_type": "3",
         "seq": "16",
         "stop": "9E8E99C5BB698AC2",
-        "stop_name_tc": "城門隧道轉車站 (A4) (TW501)"
+        "stop_name_tc": "城門隧道轉車站 (TW501)"
     },
     {
         "route": "269D",
@@ -63429,7 +63429,7 @@
         "service_type": "4",
         "seq": "16",
         "stop": "81B719F7DC3F0FAD",
-        "stop_name_tc": "城門隧道轉車站 (A5) (TW500)"
+        "stop_name_tc": "城門隧道轉車站 (TW500)"
     },
     {
         "route": "269D",
@@ -63437,7 +63437,7 @@
         "service_type": "4",
         "seq": "17",
         "stop": "9E8E99C5BB698AC2",
-        "stop_name_tc": "城門隧道轉車站 (A4) (TW501)"
+        "stop_name_tc": "城門隧道轉車站 (TW501)"
     },
     {
         "route": "269D",
@@ -74517,7 +74517,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "620E14F31DA31490",
-        "stop_name_tc": "城門隧道轉車站 (B6) (TW300)"
+        "stop_name_tc": "城門隧道轉車站 (TW300)"
     },
     {
         "route": "273C",
@@ -74525,7 +74525,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "09B4297CB90AF3EC",
-        "stop_name_tc": "城門隧道轉車站 (B3) (TW303)"
+        "stop_name_tc": "城門隧道轉車站 (TW303)"
     },
     {
         "route": "273C",
@@ -74941,7 +74941,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "620E14F31DA31490",
-        "stop_name_tc": "城門隧道轉車站 (B6) (TW300)"
+        "stop_name_tc": "城門隧道轉車站 (TW300)"
     },
     {
         "route": "273P",
@@ -74949,7 +74949,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "09B4297CB90AF3EC",
-        "stop_name_tc": "城門隧道轉車站 (B3) (TW303)"
+        "stop_name_tc": "城門隧道轉車站 (TW303)"
     },
     {
         "route": "273P",
@@ -80653,7 +80653,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "81B719F7DC3F0FAD",
-        "stop_name_tc": "城門隧道轉車站 (A5) (TW500)"
+        "stop_name_tc": "城門隧道轉車站 (TW500)"
     },
     {
         "route": "278A",
@@ -80661,7 +80661,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "C8276DF869656712",
-        "stop_name_tc": "城門隧道轉車站 (A1) (TW504)"
+        "stop_name_tc": "城門隧道轉車站 (TW504)"
     },
     {
         "route": "278A",
@@ -80845,7 +80845,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "620E14F31DA31490",
-        "stop_name_tc": "城門隧道轉車站 (B6) (TW300)"
+        "stop_name_tc": "城門隧道轉車站 (TW300)"
     },
     {
         "route": "278A",
@@ -80853,7 +80853,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "09B4297CB90AF3EC",
-        "stop_name_tc": "城門隧道轉車站 (B3) (TW303)"
+        "stop_name_tc": "城門隧道轉車站 (TW303)"
     },
     {
         "route": "278A",
@@ -81261,7 +81261,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "620E14F31DA31490",
-        "stop_name_tc": "城門隧道轉車站 (B6) (TW300)"
+        "stop_name_tc": "城門隧道轉車站 (TW300)"
     },
     {
         "route": "278P",
@@ -81269,7 +81269,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "09B4297CB90AF3EC",
-        "stop_name_tc": "城門隧道轉車站 (B3) (TW303)"
+        "stop_name_tc": "城門隧道轉車站 (TW303)"
     },
     {
         "route": "278P",
@@ -81421,7 +81421,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "81B719F7DC3F0FAD",
-        "stop_name_tc": "城門隧道轉車站 (A5) (TW500)"
+        "stop_name_tc": "城門隧道轉車站 (TW500)"
     },
     {
         "route": "278X",
@@ -81429,7 +81429,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "C8276DF869656712",
-        "stop_name_tc": "城門隧道轉車站 (A1) (TW504)"
+        "stop_name_tc": "城門隧道轉車站 (TW504)"
     },
     {
         "route": "278X",
@@ -81621,7 +81621,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "620E14F31DA31490",
-        "stop_name_tc": "城門隧道轉車站 (B6) (TW300)"
+        "stop_name_tc": "城門隧道轉車站 (TW300)"
     },
     {
         "route": "278X",
@@ -81629,7 +81629,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "09B4297CB90AF3EC",
-        "stop_name_tc": "城門隧道轉車站 (B3) (TW303)"
+        "stop_name_tc": "城門隧道轉車站 (TW303)"
     },
     {
         "route": "278X",
@@ -81901,7 +81901,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "0E61C7B5C90B8CAF",
-        "stop_name_tc": "城門隧道轉車站 (B4) (TW302)"
+        "stop_name_tc": "城門隧道轉車站 (TW302)"
     },
     {
         "route": "279S",
@@ -82157,7 +82157,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "C8276DF869656712",
-        "stop_name_tc": "城門隧道轉車站 (A1) (TW504)"
+        "stop_name_tc": "城門隧道轉車站 (TW504)"
     },
     {
         "route": "279S",
@@ -83485,7 +83485,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "CEE44B3D4CC3E847",
-        "stop_name_tc": "大圍站總站 (G3) (TA942)"
+        "stop_name_tc": "大圍站總站 (TA942)"
     },
     {
         "route": "281",
@@ -83541,7 +83541,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "A004B076CFBD733C",
-        "stop_name_tc": "大圍轉車站 - 新翠邨新明樓"
+        "stop_name_tc": "大圍轉車站新翠邨新明樓 (TA540)"
     },
     {
         "route": "281",
@@ -83549,7 +83549,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "9D42555312E18AE9",
-        "stop_name_tc": "大圍站總站 (G1) (TA940)"
+        "stop_name_tc": "大圍站總站 (TA940)"
     },
     {
         "route": "281A",
@@ -85093,7 +85093,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "A004B076CFBD733C",
-        "stop_name_tc": "大圍轉車站 - 新翠邨新明樓"
+        "stop_name_tc": "大圍轉車站新翠邨新明樓 (TA540)"
     },
     {
         "route": "286A",
@@ -87117,7 +87117,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "A004B076CFBD733C",
-        "stop_name_tc": "大圍轉車站 - 新翠邨新明樓"
+        "stop_name_tc": "大圍轉車站新翠邨新明樓 (TA540)"
     },
     {
         "route": "287P",
@@ -87269,7 +87269,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "A004B076CFBD733C",
-        "stop_name_tc": "大圍轉車站 - 新翠邨新明樓"
+        "stop_name_tc": "大圍轉車站新翠邨新明樓 (TA540)"
     },
     {
         "route": "287X",
@@ -106925,7 +106925,7 @@
         "service_type": "1",
         "seq": "25",
         "stop": "620E14F31DA31490",
-        "stop_name_tc": "城門隧道轉車站 (B6) (TW300)"
+        "stop_name_tc": "城門隧道轉車站 (TW300)"
     },
     {
         "route": "33R",
@@ -106933,7 +106933,7 @@
         "service_type": "1",
         "seq": "26",
         "stop": "09B4297CB90AF3EC",
-        "stop_name_tc": "城門隧道轉車站 (B3) (TW303)"
+        "stop_name_tc": "城門隧道轉車站 (TW303)"
     },
     {
         "route": "33R",
@@ -107045,7 +107045,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "81B719F7DC3F0FAD",
-        "stop_name_tc": "城門隧道轉車站 (A5) (TW500)"
+        "stop_name_tc": "城門隧道轉車站 (TW500)"
     },
     {
         "route": "33R",
@@ -107053,7 +107053,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "C8276DF869656712",
-        "stop_name_tc": "城門隧道轉車站 (A1) (TW504)"
+        "stop_name_tc": "城門隧道轉車站 (TW504)"
     },
     {
         "route": "33R",
@@ -117621,7 +117621,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "81B719F7DC3F0FAD",
-        "stop_name_tc": "城門隧道轉車站 (A5) (TW500)"
+        "stop_name_tc": "城門隧道轉車站 (TW500)"
     },
     {
         "route": "40E",
@@ -117629,7 +117629,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "C8276DF869656712",
-        "stop_name_tc": "城門隧道轉車站 (A1) (TW504)"
+        "stop_name_tc": "城門隧道轉車站 (TW504)"
     },
     {
         "route": "40E",
@@ -117797,7 +117797,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "620E14F31DA31490",
-        "stop_name_tc": "城門隧道轉車站 (B6) (TW300)"
+        "stop_name_tc": "城門隧道轉車站 (TW300)"
     },
     {
         "route": "40E",
@@ -117805,7 +117805,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "32F5F33FA68B77D6",
-        "stop_name_tc": "城門隧道轉車站 (B1) (TW305)"
+        "stop_name_tc": "城門隧道轉車站 (TW305)"
     },
     {
         "route": "40E",
@@ -118669,7 +118669,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "81B719F7DC3F0FAD",
-        "stop_name_tc": "城門隧道轉車站 (A5) (TW500)"
+        "stop_name_tc": "城門隧道轉車站 (TW500)"
     },
     {
         "route": "40X",
@@ -118677,7 +118677,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "C8276DF869656712",
-        "stop_name_tc": "城門隧道轉車站 (A1) (TW504)"
+        "stop_name_tc": "城門隧道轉車站 (TW504)"
     },
     {
         "route": "40X",
@@ -118941,7 +118941,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "620E14F31DA31490",
-        "stop_name_tc": "城門隧道轉車站 (B6) (TW300)"
+        "stop_name_tc": "城門隧道轉車站 (TW300)"
     },
     {
         "route": "40X",
@@ -118949,7 +118949,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "26D2833891C00F40",
-        "stop_name_tc": "城門隧道轉車站 (B2) (TW304)"
+        "stop_name_tc": "城門隧道轉車站 (TW304)"
     },
     {
         "route": "40X",
@@ -119093,7 +119093,7 @@
         "service_type": "3",
         "seq": "9",
         "stop": "620E14F31DA31490",
-        "stop_name_tc": "城門隧道轉車站 (B6) (TW300)"
+        "stop_name_tc": "城門隧道轉車站 (TW300)"
     },
     {
         "route": "40X",
@@ -119101,7 +119101,7 @@
         "service_type": "3",
         "seq": "10",
         "stop": "26D2833891C00F40",
-        "stop_name_tc": "城門隧道轉車站 (B2) (TW304)"
+        "stop_name_tc": "城門隧道轉車站 (TW304)"
     },
     {
         "route": "40X",
@@ -123029,7 +123029,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "620E14F31DA31490",
-        "stop_name_tc": "城門隧道轉車站 (B6) (TW300)"
+        "stop_name_tc": "城門隧道轉車站 (TW300)"
     },
     {
         "route": "43P",
@@ -123037,7 +123037,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "09B4297CB90AF3EC",
-        "stop_name_tc": "城門隧道轉車站 (B3) (TW303)"
+        "stop_name_tc": "城門隧道轉車站 (TW303)"
     },
     {
         "route": "43P",
@@ -123173,7 +123173,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "81B719F7DC3F0FAD",
-        "stop_name_tc": "城門隧道轉車站 (A5) (TW500)"
+        "stop_name_tc": "城門隧道轉車站 (TW500)"
     },
     {
         "route": "43P",
@@ -123181,7 +123181,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "9E8E99C5BB698AC2",
-        "stop_name_tc": "城門隧道轉車站 (A4) (TW501)"
+        "stop_name_tc": "城門隧道轉車站 (TW501)"
     },
     {
         "route": "43P",
@@ -123293,7 +123293,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "620E14F31DA31490",
-        "stop_name_tc": "城門隧道轉車站 (B6) (TW300)"
+        "stop_name_tc": "城門隧道轉車站 (TW300)"
     },
     {
         "route": "43S",
@@ -123301,7 +123301,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "26D2833891C00F40",
-        "stop_name_tc": "城門隧道轉車站 (B2) (TW304)"
+        "stop_name_tc": "城門隧道轉車站 (TW304)"
     },
     {
         "route": "43S",
@@ -123509,7 +123509,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "81B719F7DC3F0FAD",
-        "stop_name_tc": "城門隧道轉車站 (A5) (TW500)"
+        "stop_name_tc": "城門隧道轉車站 (TW500)"
     },
     {
         "route": "43S",
@@ -123517,7 +123517,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "9E8E99C5BB698AC2",
-        "stop_name_tc": "城門隧道轉車站 (A4) (TW501)"
+        "stop_name_tc": "城門隧道轉車站 (TW501)"
     },
     {
         "route": "43S",
@@ -123645,7 +123645,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "81B719F7DC3F0FAD",
-        "stop_name_tc": "城門隧道轉車站 (A5) (TW500)"
+        "stop_name_tc": "城門隧道轉車站 (TW500)"
     },
     {
         "route": "43X",
@@ -123653,7 +123653,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "C8276DF869656712",
-        "stop_name_tc": "城門隧道轉車站 (A1) (TW504)"
+        "stop_name_tc": "城門隧道轉車站 (TW504)"
     },
     {
         "route": "43X",
@@ -123861,7 +123861,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "620E14F31DA31490",
-        "stop_name_tc": "城門隧道轉車站 (B6) (TW300)"
+        "stop_name_tc": "城門隧道轉車站 (TW300)"
     },
     {
         "route": "43X",
@@ -123869,7 +123869,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "09B4297CB90AF3EC",
-        "stop_name_tc": "城門隧道轉車站 (B3) (TW303)"
+        "stop_name_tc": "城門隧道轉車站 (TW303)"
     },
     {
         "route": "43X",
@@ -124005,7 +124005,7 @@
         "service_type": "2",
         "seq": "9",
         "stop": "620E14F31DA31490",
-        "stop_name_tc": "城門隧道轉車站 (B6) (TW300)"
+        "stop_name_tc": "城門隧道轉車站 (TW300)"
     },
     {
         "route": "43X",
@@ -124013,7 +124013,7 @@
         "service_type": "2",
         "seq": "10",
         "stop": "09B4297CB90AF3EC",
-        "stop_name_tc": "城門隧道轉車站 (B3) (TW303)"
+        "stop_name_tc": "城門隧道轉車站 (TW303)"
     },
     {
         "route": "43X",
@@ -125933,7 +125933,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "81B719F7DC3F0FAD",
-        "stop_name_tc": "城門隧道轉車站 (A5) (TW500)"
+        "stop_name_tc": "城門隧道轉車站 (TW500)"
     },
     {
         "route": "46P",
@@ -125941,7 +125941,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "9E8E99C5BB698AC2",
-        "stop_name_tc": "城門隧道轉車站 (A4) (TW501)"
+        "stop_name_tc": "城門隧道轉車站 (TW501)"
     },
     {
         "route": "46P",
@@ -126037,7 +126037,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "620E14F31DA31490",
-        "stop_name_tc": "城門隧道轉車站 (B6) (TW300)"
+        "stop_name_tc": "城門隧道轉車站 (TW300)"
     },
     {
         "route": "46P",
@@ -126045,7 +126045,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "32F5F33FA68B77D6",
-        "stop_name_tc": "城門隧道轉車站 (B1) (TW305)"
+        "stop_name_tc": "城門隧道轉車站 (TW305)"
     },
     {
         "route": "46P",
@@ -126141,7 +126141,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "14C3BF43DC0878D1",
-        "stop_name_tc": "大圍站總站 (G2) (TA941)"
+        "stop_name_tc": "大圍站總站 (TA941)"
     },
     {
         "route": "46R",
@@ -126149,7 +126149,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "14C3BF43DC0878D1",
-        "stop_name_tc": "大圍站總站 (G2) (TA941)"
+        "stop_name_tc": "大圍站總站 (TA941)"
     },
     {
         "route": "46R",
@@ -126205,7 +126205,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "81B719F7DC3F0FAD",
-        "stop_name_tc": "城門隧道轉車站 (A5) (TW500)"
+        "stop_name_tc": "城門隧道轉車站 (TW500)"
     },
     {
         "route": "46S",
@@ -126213,7 +126213,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "442D174C28C1A121",
-        "stop_name_tc": "城門隧道轉車站 (A3) (TW502)"
+        "stop_name_tc": "城門隧道轉車站 (TW502)"
     },
     {
         "route": "46S",
@@ -126237,7 +126237,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "14C3BF43DC0878D1",
-        "stop_name_tc": "大圍站總站 (G2) (TA941)"
+        "stop_name_tc": "大圍站總站 (TA941)"
     },
     {
         "route": "46S",
@@ -126341,7 +126341,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "620E14F31DA31490",
-        "stop_name_tc": "城門隧道轉車站 (B6) (TW300)"
+        "stop_name_tc": "城門隧道轉車站 (TW300)"
     },
     {
         "route": "46S",
@@ -126349,7 +126349,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "0E61C7B5C90B8CAF",
-        "stop_name_tc": "城門隧道轉車站 (B4) (TW302)"
+        "stop_name_tc": "城門隧道轉車站 (TW302)"
     },
     {
         "route": "46S",
@@ -126557,7 +126557,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "81B719F7DC3F0FAD",
-        "stop_name_tc": "城門隧道轉車站 (A5) (TW500)"
+        "stop_name_tc": "城門隧道轉車站 (TW500)"
     },
     {
         "route": "46X",
@@ -126565,7 +126565,7 @@
         "service_type": "1",
         "seq": "23",
         "stop": "442D174C28C1A121",
-        "stop_name_tc": "城門隧道轉車站 (A3) (TW502)"
+        "stop_name_tc": "城門隧道轉車站 (TW502)"
     },
     {
         "route": "46X",
@@ -126589,7 +126589,7 @@
         "service_type": "1",
         "seq": "26",
         "stop": "14C3BF43DC0878D1",
-        "stop_name_tc": "大圍站總站 (G2) (TA941)"
+        "stop_name_tc": "大圍站總站 (TA941)"
     },
     {
         "route": "46X",
@@ -126701,7 +126701,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "620E14F31DA31490",
-        "stop_name_tc": "城門隧道轉車站 (B6) (TW300)"
+        "stop_name_tc": "城門隧道轉車站 (TW300)"
     },
     {
         "route": "46X",
@@ -126709,7 +126709,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "32F5F33FA68B77D6",
-        "stop_name_tc": "城門隧道轉車站 (B1) (TW305)"
+        "stop_name_tc": "城門隧道轉車站 (TW305)"
     },
     {
         "route": "46X",
@@ -126949,7 +126949,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "81B719F7DC3F0FAD",
-        "stop_name_tc": "城門隧道轉車站 (A5) (TW500)"
+        "stop_name_tc": "城門隧道轉車站 (TW500)"
     },
     {
         "route": "47A",
@@ -126957,7 +126957,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "C27FCAD44F743B0B",
-        "stop_name_tc": "城門隧道轉車站 (A2) (TW503)"
+        "stop_name_tc": "城門隧道轉車站 (TW503)"
     },
     {
         "route": "47A",
@@ -127069,7 +127069,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "620E14F31DA31490",
-        "stop_name_tc": "城門隧道轉車站 (B6) (TW300)"
+        "stop_name_tc": "城門隧道轉車站 (TW300)"
     },
     {
         "route": "47A",
@@ -127077,7 +127077,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "32F5F33FA68B77D6",
-        "stop_name_tc": "城門隧道轉車站 (B1) (TW305)"
+        "stop_name_tc": "城門隧道轉車站 (TW305)"
     },
     {
         "route": "47A",
@@ -127205,7 +127205,7 @@
         "service_type": "3",
         "seq": "6",
         "stop": "620E14F31DA31490",
-        "stop_name_tc": "城門隧道轉車站 (B6) (TW300)"
+        "stop_name_tc": "城門隧道轉車站 (TW300)"
     },
     {
         "route": "47A",
@@ -127213,7 +127213,7 @@
         "service_type": "3",
         "seq": "7",
         "stop": "32F5F33FA68B77D6",
-        "stop_name_tc": "城門隧道轉車站 (B1) (TW305)"
+        "stop_name_tc": "城門隧道轉車站 (TW305)"
     },
     {
         "route": "47A",
@@ -127397,7 +127397,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "81B719F7DC3F0FAD",
-        "stop_name_tc": "城門隧道轉車站 (A5) (TW500)"
+        "stop_name_tc": "城門隧道轉車站 (TW500)"
     },
     {
         "route": "47X",
@@ -127405,7 +127405,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "C27FCAD44F743B0B",
-        "stop_name_tc": "城門隧道轉車站 (A2) (TW503)"
+        "stop_name_tc": "城門隧道轉車站 (TW503)"
     },
     {
         "route": "47X",
@@ -127533,7 +127533,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "620E14F31DA31490",
-        "stop_name_tc": "城門隧道轉車站 (B6) (TW300)"
+        "stop_name_tc": "城門隧道轉車站 (TW300)"
     },
     {
         "route": "47X",
@@ -127541,7 +127541,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "26D2833891C00F40",
-        "stop_name_tc": "城門隧道轉車站 (B2) (TW304)"
+        "stop_name_tc": "城門隧道轉車站 (TW304)"
     },
     {
         "route": "47X",
@@ -127741,7 +127741,7 @@
         "service_type": "2",
         "seq": "7",
         "stop": "620E14F31DA31490",
-        "stop_name_tc": "城門隧道轉車站 (B6) (TW300)"
+        "stop_name_tc": "城門隧道轉車站 (TW300)"
     },
     {
         "route": "47X",
@@ -127749,7 +127749,7 @@
         "service_type": "2",
         "seq": "8",
         "stop": "26D2833891C00F40",
-        "stop_name_tc": "城門隧道轉車站 (B2) (TW304)"
+        "stop_name_tc": "城門隧道轉車站 (TW304)"
     },
     {
         "route": "47X",
@@ -127965,7 +127965,7 @@
         "service_type": "4",
         "seq": "9",
         "stop": "620E14F31DA31490",
-        "stop_name_tc": "城門隧道轉車站 (B6) (TW300)"
+        "stop_name_tc": "城門隧道轉車站 (TW300)"
     },
     {
         "route": "47X",
@@ -127973,7 +127973,7 @@
         "service_type": "4",
         "seq": "10",
         "stop": "26D2833891C00F40",
-        "stop_name_tc": "城門隧道轉車站 (B2) (TW304)"
+        "stop_name_tc": "城門隧道轉車站 (TW304)"
     },
     {
         "route": "47X",
@@ -128309,7 +128309,7 @@
         "service_type": "1",
         "seq": "24",
         "stop": "81B719F7DC3F0FAD",
-        "stop_name_tc": "城門隧道轉車站 (A5) (TW500)"
+        "stop_name_tc": "城門隧道轉車站 (TW500)"
     },
     {
         "route": "48P",
@@ -128317,7 +128317,7 @@
         "service_type": "1",
         "seq": "25",
         "stop": "9E8E99C5BB698AC2",
-        "stop_name_tc": "城門隧道轉車站 (A4) (TW501)"
+        "stop_name_tc": "城門隧道轉車站 (TW501)"
     },
     {
         "route": "48P",
@@ -128421,7 +128421,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "620E14F31DA31490",
-        "stop_name_tc": "城門隧道轉車站 (B6) (TW300)"
+        "stop_name_tc": "城門隧道轉車站 (TW300)"
     },
     {
         "route": "48P",
@@ -128429,7 +128429,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "0E61C7B5C90B8CAF",
-        "stop_name_tc": "城門隧道轉車站 (B4) (TW302)"
+        "stop_name_tc": "城門隧道轉車站 (TW302)"
     },
     {
         "route": "48P",
@@ -128733,7 +128733,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "81B719F7DC3F0FAD",
-        "stop_name_tc": "城門隧道轉車站 (A5) (TW500)"
+        "stop_name_tc": "城門隧道轉車站 (TW500)"
     },
     {
         "route": "48X",
@@ -128741,7 +128741,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "9E8E99C5BB698AC2",
-        "stop_name_tc": "城門隧道轉車站 (A4) (TW501)"
+        "stop_name_tc": "城門隧道轉車站 (TW501)"
     },
     {
         "route": "48X",
@@ -128813,7 +128813,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "620E14F31DA31490",
-        "stop_name_tc": "城門隧道轉車站 (B6) (TW300)"
+        "stop_name_tc": "城門隧道轉車站 (TW300)"
     },
     {
         "route": "48X",
@@ -128821,7 +128821,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "09B4297CB90AF3EC",
-        "stop_name_tc": "城門隧道轉車站 (B3) (TW303)"
+        "stop_name_tc": "城門隧道轉車站 (TW303)"
     },
     {
         "route": "48X",
@@ -129893,7 +129893,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "620E14F31DA31490",
-        "stop_name_tc": "城門隧道轉車站 (B6) (TW300)"
+        "stop_name_tc": "城門隧道轉車站 (TW300)"
     },
     {
         "route": "49P",
@@ -129901,7 +129901,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "0E61C7B5C90B8CAF",
-        "stop_name_tc": "城門隧道轉車站 (B4) (TW302)"
+        "stop_name_tc": "城門隧道轉車站 (TW302)"
     },
     {
         "route": "49P",
@@ -130021,7 +130021,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "81B719F7DC3F0FAD",
-        "stop_name_tc": "城門隧道轉車站 (A5) (TW500)"
+        "stop_name_tc": "城門隧道轉車站 (TW500)"
     },
     {
         "route": "49X",
@@ -130029,7 +130029,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "C27FCAD44F743B0B",
-        "stop_name_tc": "城門隧道轉車站 (A2) (TW503)"
+        "stop_name_tc": "城門隧道轉車站 (TW503)"
     },
     {
         "route": "49X",
@@ -130213,7 +130213,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "620E14F31DA31490",
-        "stop_name_tc": "城門隧道轉車站 (B6) (TW300)"
+        "stop_name_tc": "城門隧道轉車站 (TW300)"
     },
     {
         "route": "49X",
@@ -130221,7 +130221,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "0E61C7B5C90B8CAF",
-        "stop_name_tc": "城門隧道轉車站 (B4) (TW302)"
+        "stop_name_tc": "城門隧道轉車站 (TW302)"
     },
     {
         "route": "49X",
@@ -130357,7 +130357,7 @@
         "service_type": "2",
         "seq": "7",
         "stop": "620E14F31DA31490",
-        "stop_name_tc": "城門隧道轉車站 (B6) (TW300)"
+        "stop_name_tc": "城門隧道轉車站 (TW300)"
     },
     {
         "route": "49X",
@@ -130365,7 +130365,7 @@
         "service_type": "2",
         "seq": "8",
         "stop": "0E61C7B5C90B8CAF",
-        "stop_name_tc": "城門隧道轉車站 (B4) (TW302)"
+        "stop_name_tc": "城門隧道轉車站 (TW302)"
     },
     {
         "route": "49X",
@@ -130525,7 +130525,7 @@
         "service_type": "3",
         "seq": "10",
         "stop": "620E14F31DA31490",
-        "stop_name_tc": "城門隧道轉車站 (B6) (TW300)"
+        "stop_name_tc": "城門隧道轉車站 (TW300)"
     },
     {
         "route": "49X",
@@ -130533,7 +130533,7 @@
         "service_type": "3",
         "seq": "11",
         "stop": "0E61C7B5C90B8CAF",
-        "stop_name_tc": "城門隧道轉車站 (B4) (TW302)"
+        "stop_name_tc": "城門隧道轉車站 (TW302)"
     },
     {
         "route": "49X",
@@ -131301,7 +131301,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "620557B9486BE4BF",
-        "stop_name_tc": "屯門公路轉車站 (A12) (TM744)"
+        "stop_name_tc": "屯門公路轉車站 (TM744)"
     },
     {
         "route": "52P",
@@ -131685,7 +131685,7 @@
         "service_type": "1",
         "seq": "25",
         "stop": "C1590716F6FABC50",
-        "stop_name_tc": "屯門公路轉車站 (C5) (TM110)"
+        "stop_name_tc": "屯門公路轉車站 (TM110)"
     },
     {
         "route": "52X",
@@ -131973,7 +131973,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "620557B9486BE4BF",
-        "stop_name_tc": "屯門公路轉車站 (A12) (TM744)"
+        "stop_name_tc": "屯門公路轉車站 (TM744)"
     },
     {
         "route": "52X",
@@ -132373,7 +132373,7 @@
         "service_type": "1",
         "seq": "26",
         "stop": "C1590716F6FABC50",
-        "stop_name_tc": "屯門公路轉車站 (C5) (TM110)"
+        "stop_name_tc": "屯門公路轉車站 (TM110)"
     },
     {
         "route": "53",
@@ -133141,7 +133141,7 @@
         "service_type": "1",
         "seq": "48",
         "stop": "620557B9486BE4BF",
-        "stop_name_tc": "屯門公路轉車站 (A12) (TM744)"
+        "stop_name_tc": "屯門公路轉車站 (TM744)"
     },
     {
         "route": "53",
@@ -133877,7 +133877,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "DFE346B2C7332BC0",
-        "stop_name_tc": "屯門公路轉車站 (B6) (TM102)"
+        "stop_name_tc": "屯門公路轉車站 (TM102)"
     },
     {
         "route": "57M",
@@ -133885,7 +133885,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "88229183EDC0B6E9",
-        "stop_name_tc": "屯門公路轉車站 (B2) (TM106)"
+        "stop_name_tc": "屯門公路轉車站 (TM106)"
     },
     {
         "route": "57M",
@@ -134005,7 +134005,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "CA6AB8446B694566",
-        "stop_name_tc": "屯門公路轉車站 (A5) (TM754)"
+        "stop_name_tc": "屯門公路轉車站 (TM754)"
     },
     {
         "route": "57M",
@@ -134157,7 +134157,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "DFE346B2C7332BC0",
-        "stop_name_tc": "屯門公路轉車站 (B6) (TM102)"
+        "stop_name_tc": "屯門公路轉車站 (TM102)"
     },
     {
         "route": "58M",
@@ -134165,7 +134165,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "2B3A6C000BB085CD",
-        "stop_name_tc": "屯門公路轉車站 (B3) (TM105)"
+        "stop_name_tc": "屯門公路轉車站 (TM105)"
     },
     {
         "route": "58M",
@@ -134309,7 +134309,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "CA6AB8446B694566",
-        "stop_name_tc": "屯門公路轉車站 (A5) (TM754)"
+        "stop_name_tc": "屯門公路轉車站 (TM754)"
     },
     {
         "route": "58M",
@@ -134453,7 +134453,7 @@
         "service_type": "2",
         "seq": "8",
         "stop": "CA6AB8446B694566",
-        "stop_name_tc": "屯門公路轉車站 (A5) (TM754)"
+        "stop_name_tc": "屯門公路轉車站 (TM754)"
     },
     {
         "route": "58M",
@@ -134597,7 +134597,7 @@
         "service_type": "3",
         "seq": "8",
         "stop": "CA6AB8446B694566",
-        "stop_name_tc": "屯門公路轉車站 (A5) (TM754)"
+        "stop_name_tc": "屯門公路轉車站 (TM754)"
     },
     {
         "route": "58M",
@@ -134749,7 +134749,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "DFE346B2C7332BC0",
-        "stop_name_tc": "屯門公路轉車站 (B6) (TM102)"
+        "stop_name_tc": "屯門公路轉車站 (TM102)"
     },
     {
         "route": "58P",
@@ -134757,7 +134757,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "2B3A6C000BB085CD",
-        "stop_name_tc": "屯門公路轉車站 (B3) (TM105)"
+        "stop_name_tc": "屯門公路轉車站 (TM105)"
     },
     {
         "route": "58P",
@@ -135509,7 +135509,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "0269A1F9D98C737E",
-        "stop_name_tc": "屯門公路轉車站 (B7) (TM101)"
+        "stop_name_tc": "屯門公路轉車站 (TM101)"
     },
     {
         "route": "59M",
@@ -135517,7 +135517,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "A8B22902BD665766",
-        "stop_name_tc": "屯門公路轉車站 (B4) (TM104)"
+        "stop_name_tc": "屯門公路轉車站 (TM104)"
     },
     {
         "route": "59M",
@@ -135637,7 +135637,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "2560149CE75EABA0",
-        "stop_name_tc": "屯門公路轉車站 (A6) (TM753)"
+        "stop_name_tc": "屯門公路轉車站 (TM753)"
     },
     {
         "route": "59M",
@@ -135709,7 +135709,7 @@
         "service_type": "2",
         "seq": "6",
         "stop": "2560149CE75EABA0",
-        "stop_name_tc": "屯門公路轉車站 (A6) (TM753)"
+        "stop_name_tc": "屯門公路轉車站 (TM753)"
     },
     {
         "route": "59M",
@@ -135773,7 +135773,7 @@
         "service_type": "3",
         "seq": "5",
         "stop": "2560149CE75EABA0",
-        "stop_name_tc": "屯門公路轉車站 (A6) (TM753)"
+        "stop_name_tc": "屯門公路轉車站 (TM753)"
     },
     {
         "route": "59M",
@@ -135901,7 +135901,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "0269A1F9D98C737E",
-        "stop_name_tc": "屯門公路轉車站 (B7) (TM101)"
+        "stop_name_tc": "屯門公路轉車站 (TM101)"
     },
     {
         "route": "59X",
@@ -135909,7 +135909,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "A8B22902BD665766",
-        "stop_name_tc": "屯門公路轉車站 (B4) (TM104)"
+        "stop_name_tc": "屯門公路轉車站 (TM104)"
     },
     {
         "route": "59X",
@@ -136037,7 +136037,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "21FC719DAF5F9D28",
-        "stop_name_tc": "屯門公路轉車站 (A3) (TM756)"
+        "stop_name_tc": "屯門公路轉車站 (TM756)"
     },
     {
         "route": "59X",
@@ -136165,7 +136165,7 @@
         "service_type": "2",
         "seq": "6",
         "stop": "21FC719DAF5F9D28",
-        "stop_name_tc": "屯門公路轉車站 (A3) (TM756)"
+        "stop_name_tc": "屯門公路轉車站 (TM756)"
     },
     {
         "route": "59X",
@@ -136277,7 +136277,7 @@
         "service_type": "3",
         "seq": "4",
         "stop": "21FC719DAF5F9D28",
-        "stop_name_tc": "屯門公路轉車站 (A3) (TM756)"
+        "stop_name_tc": "屯門公路轉車站 (TM756)"
     },
     {
         "route": "59X",
@@ -143933,7 +143933,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "0269A1F9D98C737E",
-        "stop_name_tc": "屯門公路轉車站 (B7) (TM101)"
+        "stop_name_tc": "屯門公路轉車站 (TM101)"
     },
     {
         "route": "60M",
@@ -143941,7 +143941,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "47FF0EDCD6926932",
-        "stop_name_tc": "屯門公路轉車站 (B5) (TM103)"
+        "stop_name_tc": "屯門公路轉車站 (TM103)"
     },
     {
         "route": "60M",
@@ -143981,7 +143981,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "79D68EE7C6CBAB9D",
-        "stop_name_tc": "屯門站總站 (V6) (TM954)"
+        "stop_name_tc": "屯門站總站 (TM954)"
     },
     {
         "route": "60M",
@@ -143989,7 +143989,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "A6A60ADA171EE7C8",
-        "stop_name_tc": "屯門站總站 (V8) (TM951)"
+        "stop_name_tc": "屯門站總站 (TM951)"
     },
     {
         "route": "60M",
@@ -143997,7 +143997,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "A6A60ADA171EE7C8",
-        "stop_name_tc": "屯門站總站 (V8) (TM951)"
+        "stop_name_tc": "屯門站總站 (TM951)"
     },
     {
         "route": "60M",
@@ -144045,7 +144045,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "2560149CE75EABA0",
-        "stop_name_tc": "屯門公路轉車站 (A6) (TM753)"
+        "stop_name_tc": "屯門公路轉車站 (TM753)"
     },
     {
         "route": "60M",
@@ -144213,7 +144213,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "0269A1F9D98C737E",
-        "stop_name_tc": "屯門公路轉車站 (B7) (TM101)"
+        "stop_name_tc": "屯門公路轉車站 (TM101)"
     },
     {
         "route": "60X",
@@ -144221,7 +144221,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "47FF0EDCD6926932",
-        "stop_name_tc": "屯門公路轉車站 (B5) (TM103)"
+        "stop_name_tc": "屯門公路轉車站 (TM103)"
     },
     {
         "route": "60X",
@@ -144309,7 +144309,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "21FC719DAF5F9D28",
-        "stop_name_tc": "屯門公路轉車站 (A3) (TM756)"
+        "stop_name_tc": "屯門公路轉車站 (TM756)"
     },
     {
         "route": "60X",
@@ -146765,7 +146765,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "C1590716F6FABC50",
-        "stop_name_tc": "屯門公路轉車站 (C5) (TM110)"
+        "stop_name_tc": "屯門公路轉車站 (TM110)"
     },
     {
         "route": "61M",
@@ -147125,7 +147125,7 @@
         "service_type": "1",
         "seq": "23",
         "stop": "0CF05B00D82FECB2",
-        "stop_name_tc": "屯門公路轉車站 (A11) (TM743)"
+        "stop_name_tc": "屯門公路轉車站 (TM743)"
     },
     {
         "route": "61M",
@@ -147269,7 +147269,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "C1590716F6FABC50",
-        "stop_name_tc": "屯門公路轉車站 (C5) (TM110)"
+        "stop_name_tc": "屯門公路轉車站 (TM110)"
     },
     {
         "route": "61P",
@@ -147501,7 +147501,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "0CF05B00D82FECB2",
-        "stop_name_tc": "屯門公路轉車站 (A11) (TM743)"
+        "stop_name_tc": "屯門公路轉車站 (TM743)"
     },
     {
         "route": "61P",
@@ -147669,7 +147669,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "0269A1F9D98C737E",
-        "stop_name_tc": "屯門公路轉車站 (B7) (TM101)"
+        "stop_name_tc": "屯門公路轉車站 (TM101)"
     },
     {
         "route": "61X",
@@ -147677,7 +147677,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "47FF0EDCD6926932",
-        "stop_name_tc": "屯門公路轉車站 (B5) (TM103)"
+        "stop_name_tc": "屯門公路轉車站 (TM103)"
     },
     {
         "route": "61X",
@@ -147765,7 +147765,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "6437BDE588337654",
-        "stop_name_tc": "屯門公路轉車站 (A2) (TM757)"
+        "stop_name_tc": "屯門公路轉車站 (TM757)"
     },
     {
         "route": "61X",
@@ -148485,7 +148485,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "0269A1F9D98C737E",
-        "stop_name_tc": "屯門公路轉車站 (B7) (TM101)"
+        "stop_name_tc": "屯門公路轉車站 (TM101)"
     },
     {
         "route": "62X",
@@ -148493,7 +148493,7 @@
         "service_type": "1",
         "seq": "23",
         "stop": "872110C8ADA14DA1",
-        "stop_name_tc": "屯門公路轉車站 (B1) (TM107)"
+        "stop_name_tc": "屯門公路轉車站 (TM107)"
     },
     {
         "route": "62X",
@@ -148645,7 +148645,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "6437BDE588337654",
-        "stop_name_tc": "屯門公路轉車站 (A2) (TM757)"
+        "stop_name_tc": "屯門公路轉車站 (TM757)"
     },
     {
         "route": "62X",
@@ -148789,7 +148789,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "BF8EAED2AF086669",
-        "stop_name_tc": "屯門公路轉車站 (C1) (TM112a)"
+        "stop_name_tc": "屯門公路轉車站 (TM112a)"
     },
     {
         "route": "63",
@@ -148829,7 +148829,7 @@
         "service_type": "2",
         "seq": "1",
         "stop": "BF8EAED2AF086669",
-        "stop_name_tc": "屯門公路轉車站 (C1) (TM112a)"
+        "stop_name_tc": "屯門公路轉車站 (TM112a)"
     },
     {
         "route": "63",
@@ -148965,7 +148965,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "212BFF5737D0116C",
-        "stop_name_tc": "屯門公路轉車站 (A9) (TM741)"
+        "stop_name_tc": "屯門公路轉車站 (TM741)"
     },
     {
         "route": "63",
@@ -148981,7 +148981,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "BF8EAED2AF086669",
-        "stop_name_tc": "屯門公路轉車站 (C1) (TM112a)"
+        "stop_name_tc": "屯門公路轉車站 (TM112a)"
     },
     {
         "route": "63",
@@ -149101,7 +149101,7 @@
         "service_type": "2",
         "seq": "15",
         "stop": "212BFF5737D0116C",
-        "stop_name_tc": "屯門公路轉車站 (A9) (TM741)"
+        "stop_name_tc": "屯門公路轉車站 (TM741)"
     },
     {
         "route": "63",
@@ -149117,7 +149117,7 @@
         "service_type": "2",
         "seq": "17",
         "stop": "BF8EAED2AF086669",
-        "stop_name_tc": "屯門公路轉車站 (C1) (TM112a)"
+        "stop_name_tc": "屯門公路轉車站 (TM112a)"
     },
     {
         "route": "63R",
@@ -149301,7 +149301,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "0269A1F9D98C737E",
-        "stop_name_tc": "屯門公路轉車站 (B7) (TM101)"
+        "stop_name_tc": "屯門公路轉車站 (TM101)"
     },
     {
         "route": "63X",
@@ -149309,7 +149309,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "872110C8ADA14DA1",
-        "stop_name_tc": "屯門公路轉車站 (B1) (TM107)"
+        "stop_name_tc": "屯門公路轉車站 (TM107)"
     },
     {
         "route": "63X",
@@ -149541,7 +149541,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "21FC719DAF5F9D28",
-        "stop_name_tc": "屯門公路轉車站 (A3) (TM756)"
+        "stop_name_tc": "屯門公路轉車站 (TM756)"
     },
     {
         "route": "63X",
@@ -152101,7 +152101,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "DFE346B2C7332BC0",
-        "stop_name_tc": "屯門公路轉車站 (B6) (TM102)"
+        "stop_name_tc": "屯門公路轉車站 (TM102)"
     },
     {
         "route": "66M",
@@ -152109,7 +152109,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "88229183EDC0B6E9",
-        "stop_name_tc": "屯門公路轉車站 (B2) (TM106)"
+        "stop_name_tc": "屯門公路轉車站 (TM106)"
     },
     {
         "route": "66M",
@@ -152213,7 +152213,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "2560149CE75EABA0",
-        "stop_name_tc": "屯門公路轉車站 (A6) (TM753)"
+        "stop_name_tc": "屯門公路轉車站 (TM753)"
     },
     {
         "route": "66M",
@@ -152373,7 +152373,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "DFE346B2C7332BC0",
-        "stop_name_tc": "屯門公路轉車站 (B6) (TM102)"
+        "stop_name_tc": "屯門公路轉車站 (TM102)"
     },
     {
         "route": "66X",
@@ -152381,7 +152381,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "88229183EDC0B6E9",
-        "stop_name_tc": "屯門公路轉車站 (B2) (TM106)"
+        "stop_name_tc": "屯門公路轉車站 (TM106)"
     },
     {
         "route": "66X",
@@ -152485,7 +152485,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "21FC719DAF5F9D28",
-        "stop_name_tc": "屯門公路轉車站 (A3) (TM756)"
+        "stop_name_tc": "屯門公路轉車站 (TM756)"
     },
     {
         "route": "66X",
@@ -155101,7 +155101,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "DFE346B2C7332BC0",
-        "stop_name_tc": "屯門公路轉車站 (B6) (TM102)"
+        "stop_name_tc": "屯門公路轉車站 (TM102)"
     },
     {
         "route": "67M",
@@ -155109,7 +155109,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "872110C8ADA14DA1",
-        "stop_name_tc": "屯門公路轉車站 (B1) (TM107)"
+        "stop_name_tc": "屯門公路轉車站 (TM107)"
     },
     {
         "route": "67M",
@@ -155357,7 +155357,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "CA6AB8446B694566",
-        "stop_name_tc": "屯門公路轉車站 (A5) (TM754)"
+        "stop_name_tc": "屯門公路轉車站 (TM754)"
     },
     {
         "route": "67M",
@@ -155533,7 +155533,7 @@
         "service_type": "2",
         "seq": "12",
         "stop": "CA6AB8446B694566",
-        "stop_name_tc": "屯門公路轉車站 (A5) (TM754)"
+        "stop_name_tc": "屯門公路轉車站 (TM754)"
     },
     {
         "route": "67M",
@@ -155717,7 +155717,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "0269A1F9D98C737E",
-        "stop_name_tc": "屯門公路轉車站 (B7) (TM101)"
+        "stop_name_tc": "屯門公路轉車站 (TM101)"
     },
     {
         "route": "67X",
@@ -155725,7 +155725,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "872110C8ADA14DA1",
-        "stop_name_tc": "屯門公路轉車站 (B1) (TM107)"
+        "stop_name_tc": "屯門公路轉車站 (TM107)"
     },
     {
         "route": "67X",
@@ -155917,7 +155917,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "21FC719DAF5F9D28",
-        "stop_name_tc": "屯門公路轉車站 (A3) (TM756)"
+        "stop_name_tc": "屯門公路轉車站 (TM756)"
     },
     {
         "route": "67X",
@@ -158109,7 +158109,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "DFE346B2C7332BC0",
-        "stop_name_tc": "屯門公路轉車站 (B6) (TM102)"
+        "stop_name_tc": "屯門公路轉車站 (TM102)"
     },
     {
         "route": "68A",
@@ -158117,7 +158117,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "872110C8ADA14DA1",
-        "stop_name_tc": "屯門公路轉車站 (B1) (TM107)"
+        "stop_name_tc": "屯門公路轉車站 (TM107)"
     },
     {
         "route": "68A",
@@ -158477,7 +158477,7 @@
         "service_type": "1",
         "seq": "24",
         "stop": "ACB5FEA2BF9FC5AD",
-        "stop_name_tc": "屯門公路轉車站 (A4) (TM755)"
+        "stop_name_tc": "屯門公路轉車站 (TM755)"
     },
     {
         "route": "68A",
@@ -168253,7 +168253,7 @@
         "service_type": "1",
         "seq": "38",
         "stop": "6C9B7DDF24725CA9",
-        "stop_name_tc": "大圍站總站 (G8) (TA947)"
+        "stop_name_tc": "大圍站總站 (TA947)"
     },
     {
         "route": "72A",
@@ -168261,7 +168261,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "6C9B7DDF24725CA9",
-        "stop_name_tc": "大圍站總站 (G8) (TA947)"
+        "stop_name_tc": "大圍站總站 (TA947)"
     },
     {
         "route": "72A",
@@ -171541,7 +171541,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "620E14F31DA31490",
-        "stop_name_tc": "城門隧道轉車站 (B6) (TW300)"
+        "stop_name_tc": "城門隧道轉車站 (TW300)"
     },
     {
         "route": "73D",
@@ -171549,7 +171549,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "09B4297CB90AF3EC",
-        "stop_name_tc": "城門隧道轉車站 (B3) (TW303)"
+        "stop_name_tc": "城門隧道轉車站 (TW303)"
     },
     {
         "route": "73D",
@@ -171709,7 +171709,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "81B719F7DC3F0FAD",
-        "stop_name_tc": "城門隧道轉車站 (A5) (TW500)"
+        "stop_name_tc": "城門隧道轉車站 (TW500)"
     },
     {
         "route": "73D",
@@ -171717,7 +171717,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "C8276DF869656712",
-        "stop_name_tc": "城門隧道轉車站 (A1) (TW504)"
+        "stop_name_tc": "城門隧道轉車站 (TW504)"
     },
     {
         "route": "73D",
@@ -171877,7 +171877,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "620E14F31DA31490",
-        "stop_name_tc": "城門隧道轉車站 (B6) (TW300)"
+        "stop_name_tc": "城門隧道轉車站 (TW300)"
     },
     {
         "route": "73F",
@@ -171885,7 +171885,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "09B4297CB90AF3EC",
-        "stop_name_tc": "城門隧道轉車站 (B3) (TW303)"
+        "stop_name_tc": "城門隧道轉車站 (TW303)"
     },
     {
         "route": "73F",
@@ -172045,7 +172045,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "81B719F7DC3F0FAD",
-        "stop_name_tc": "城門隧道轉車站 (A5) (TW500)"
+        "stop_name_tc": "城門隧道轉車站 (TW500)"
     },
     {
         "route": "73F",
@@ -172053,7 +172053,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "C8276DF869656712",
-        "stop_name_tc": "城門隧道轉車站 (A1) (TW504)"
+        "stop_name_tc": "城門隧道轉車站 (TW504)"
     },
     {
         "route": "73F",
@@ -172725,7 +172725,7 @@
         "service_type": "1",
         "seq": "26",
         "stop": "620E14F31DA31490",
-        "stop_name_tc": "城門隧道轉車站 (B6) (TW300)"
+        "stop_name_tc": "城門隧道轉車站 (TW300)"
     },
     {
         "route": "73P",
@@ -172733,7 +172733,7 @@
         "service_type": "1",
         "seq": "27",
         "stop": "32F5F33FA68B77D6",
-        "stop_name_tc": "城門隧道轉車站 (B1) (TW305)"
+        "stop_name_tc": "城門隧道轉車站 (TW305)"
     },
     {
         "route": "73P",
@@ -172949,7 +172949,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "81B719F7DC3F0FAD",
-        "stop_name_tc": "城門隧道轉車站 (A5) (TW500)"
+        "stop_name_tc": "城門隧道轉車站 (TW500)"
     },
     {
         "route": "73P",
@@ -172957,7 +172957,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "C8276DF869656712",
-        "stop_name_tc": "城門隧道轉車站 (A1) (TW504)"
+        "stop_name_tc": "城門隧道轉車站 (TW504)"
     },
     {
         "route": "73P",
@@ -173277,7 +173277,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "620E14F31DA31490",
-        "stop_name_tc": "城門隧道轉車站 (B6) (TW300)"
+        "stop_name_tc": "城門隧道轉車站 (TW300)"
     },
     {
         "route": "73X",
@@ -173285,7 +173285,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "09B4297CB90AF3EC",
-        "stop_name_tc": "城門隧道轉車站 (B3) (TW303)"
+        "stop_name_tc": "城門隧道轉車站 (TW303)"
     },
     {
         "route": "73X",
@@ -173445,7 +173445,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "81B719F7DC3F0FAD",
-        "stop_name_tc": "城門隧道轉車站 (A5) (TW500)"
+        "stop_name_tc": "城門隧道轉車站 (TW500)"
     },
     {
         "route": "73X",
@@ -173453,7 +173453,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "C8276DF869656712",
-        "stop_name_tc": "城門隧道轉車站 (A1) (TW504)"
+        "stop_name_tc": "城門隧道轉車站 (TW504)"
     },
     {
         "route": "73X",
@@ -173589,7 +173589,7 @@
         "service_type": "2",
         "seq": "11",
         "stop": "81B719F7DC3F0FAD",
-        "stop_name_tc": "城門隧道轉車站 (A5) (TW500)"
+        "stop_name_tc": "城門隧道轉車站 (TW500)"
     },
     {
         "route": "73X",
@@ -173597,7 +173597,7 @@
         "service_type": "2",
         "seq": "12",
         "stop": "C8276DF869656712",
-        "stop_name_tc": "城門隧道轉車站 (A1) (TW504)"
+        "stop_name_tc": "城門隧道轉車站 (TW504)"
     },
     {
         "route": "73X",
@@ -187261,7 +187261,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "9D42555312E18AE9",
-        "stop_name_tc": "大圍站總站 (G1) (TA940)"
+        "stop_name_tc": "大圍站總站 (TA940)"
     },
     {
         "route": "80K",
@@ -187309,7 +187309,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "14C3BF43DC0878D1",
-        "stop_name_tc": "大圍站總站 (G2) (TA941)"
+        "stop_name_tc": "大圍站總站 (TA941)"
     },
     {
         "route": "80K",
@@ -189437,7 +189437,7 @@
         "service_type": "3",
         "seq": "14",
         "stop": "A004B076CFBD733C",
-        "stop_name_tc": "大圍轉車站 - 新翠邨新明樓"
+        "stop_name_tc": "大圍轉車站新翠邨新明樓 (TA540)"
     },
     {
         "route": "81K",
@@ -189445,7 +189445,7 @@
         "service_type": "3",
         "seq": "15",
         "stop": "CEE44B3D4CC3E847",
-        "stop_name_tc": "大圍站總站 (G3) (TA942)"
+        "stop_name_tc": "大圍站總站 (TA942)"
     },
     {
         "route": "81K",
@@ -189613,7 +189613,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "9D42555312E18AE9",
-        "stop_name_tc": "大圍站總站 (G1) (TA940)"
+        "stop_name_tc": "大圍站總站 (TA940)"
     },
     {
         "route": "82C",
@@ -189885,7 +189885,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "6C9B7DDF24725CA9",
-        "stop_name_tc": "大圍站總站 (G8) (TA947)"
+        "stop_name_tc": "大圍站總站 (TA947)"
     },
     {
         "route": "82D",
@@ -190029,7 +190029,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "6C9B7DDF24725CA9",
-        "stop_name_tc": "大圍站總站 (G8) (TA947)"
+        "stop_name_tc": "大圍站總站 (TA947)"
     },
     {
         "route": "82K",
@@ -190141,7 +190141,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "A004B076CFBD733C",
-        "stop_name_tc": "大圍轉車站 - 新翠邨新明樓"
+        "stop_name_tc": "大圍轉車站新翠邨新明樓 (TA540)"
     },
     {
         "route": "82K",
@@ -191725,7 +191725,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "620E14F31DA31490",
-        "stop_name_tc": "城門隧道轉車站 (B6) (TW300)"
+        "stop_name_tc": "城門隧道轉車站 (TW300)"
     },
     {
         "route": "848",
@@ -191733,7 +191733,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "0E61C7B5C90B8CAF",
-        "stop_name_tc": "城門隧道轉車站 (B4) (TW302)"
+        "stop_name_tc": "城門隧道轉車站 (TW302)"
     },
     {
         "route": "848",
@@ -193357,7 +193357,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "9ADE07CC443E4ACE",
-        "stop_name_tc": "大圍轉車站 - 新翠邨新明樓"
+        "stop_name_tc": "大圍轉車站新翠邨新明樓 (TA538)"
     },
     {
         "route": "85B",
@@ -195557,7 +195557,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "620E14F31DA31490",
-        "stop_name_tc": "城門隧道轉車站 (B6) (TW300)"
+        "stop_name_tc": "城門隧道轉車站 (TW300)"
     },
     {
         "route": "868",
@@ -195565,7 +195565,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "5FDA47671B5557B3",
-        "stop_name_tc": "城門隧道轉車站 (B5) (TW301)"
+        "stop_name_tc": "城門隧道轉車站 (TW301)"
     },
     {
         "route": "868",
@@ -195653,7 +195653,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "81B719F7DC3F0FAD",
-        "stop_name_tc": "城門隧道轉車站 (A5) (TW500)"
+        "stop_name_tc": "城門隧道轉車站 (TW500)"
     },
     {
         "route": "868",
@@ -195661,7 +195661,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "9E8E99C5BB698AC2",
-        "stop_name_tc": "城門隧道轉車站 (A4) (TW501)"
+        "stop_name_tc": "城門隧道轉車站 (TW501)"
     },
     {
         "route": "868",
@@ -196077,7 +196077,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "A004B076CFBD733C",
-        "stop_name_tc": "大圍轉車站 - 新翠邨新明樓"
+        "stop_name_tc": "大圍轉車站新翠邨新明樓 (TA540)"
     },
     {
         "route": "86A",
@@ -197709,7 +197709,7 @@
         "service_type": "1",
         "seq": "24",
         "stop": "CEE44B3D4CC3E847",
-        "stop_name_tc": "大圍站總站 (G3) (TA942)"
+        "stop_name_tc": "大圍站總站 (TA942)"
     },
     {
         "route": "87B",
@@ -197773,7 +197773,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "A004B076CFBD733C",
-        "stop_name_tc": "大圍轉車站 - 新翠邨新明樓"
+        "stop_name_tc": "大圍轉車站新翠邨新明樓 (TA540)"
     },
     {
         "route": "87B",
@@ -200229,7 +200229,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "62E74F8E7357BC2D",
-        "stop_name_tc": "大圍站總站 (G4) (TA943)"
+        "stop_name_tc": "大圍站總站 (TA943)"
     },
     {
         "route": "88",
@@ -200565,7 +200565,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "62E74F8E7357BC2D",
-        "stop_name_tc": "大圍站總站 (G4) (TA943)"
+        "stop_name_tc": "大圍站總站 (TA943)"
     },
     {
         "route": "887",
@@ -200997,7 +200997,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "14C3BF43DC0878D1",
-        "stop_name_tc": "大圍站總站 (G2) (TA941)"
+        "stop_name_tc": "大圍站總站 (TA941)"
     },
     {
         "route": "88K",
@@ -219693,7 +219693,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "DFE346B2C7332BC0",
-        "stop_name_tc": "屯門公路轉車站 (B6) (TM102)"
+        "stop_name_tc": "屯門公路轉車站 (TM102)"
     },
     {
         "route": "960",
@@ -219701,7 +219701,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "2B3A6C000BB085CD",
-        "stop_name_tc": "屯門公路轉車站 (B3) (TM105)"
+        "stop_name_tc": "屯門公路轉車站 (TM105)"
     },
     {
         "route": "960",
@@ -219901,7 +219901,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "ACB5FEA2BF9FC5AD",
-        "stop_name_tc": "屯門公路轉車站 (A4) (TM755)"
+        "stop_name_tc": "屯門公路轉車站 (TM755)"
     },
     {
         "route": "960",
@@ -220005,7 +220005,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "DFE346B2C7332BC0",
-        "stop_name_tc": "屯門公路轉車站 (B6) (TM102)"
+        "stop_name_tc": "屯門公路轉車站 (TM102)"
     },
     {
         "route": "960A",
@@ -220013,7 +220013,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "872110C8ADA14DA1",
-        "stop_name_tc": "屯門公路轉車站 (B1) (TM107)"
+        "stop_name_tc": "屯門公路轉車站 (TM107)"
     },
     {
         "route": "960A",
@@ -220245,7 +220245,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "CA6AB8446B694566",
-        "stop_name_tc": "屯門公路轉車站 (A5) (TM754)"
+        "stop_name_tc": "屯門公路轉車站 (TM754)"
     },
     {
         "route": "960B",
@@ -220317,7 +220317,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "DFE346B2C7332BC0",
-        "stop_name_tc": "屯門公路轉車站 (B6) (TM102)"
+        "stop_name_tc": "屯門公路轉車站 (TM102)"
     },
     {
         "route": "960B",
@@ -220325,7 +220325,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "88229183EDC0B6E9",
-        "stop_name_tc": "屯門公路轉車站 (B2) (TM106)"
+        "stop_name_tc": "屯門公路轉車站 (TM106)"
     },
     {
         "route": "960B",
@@ -220365,7 +220365,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "69EA07FBAB612E68",
-        "stop_name_tc": "屯門站總站 (V7) (TM952)"
+        "stop_name_tc": "屯門站總站 (TM952)"
     },
     {
         "route": "960B",
@@ -220517,7 +220517,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "DFE346B2C7332BC0",
-        "stop_name_tc": "屯門公路轉車站 (B6) (TM102)"
+        "stop_name_tc": "屯門公路轉車站 (TM102)"
     },
     {
         "route": "960C",
@@ -220525,7 +220525,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "872110C8ADA14DA1",
-        "stop_name_tc": "屯門公路轉車站 (B1) (TM107)"
+        "stop_name_tc": "屯門公路轉車站 (TM107)"
     },
     {
         "route": "960C",
@@ -220757,7 +220757,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "ACB5FEA2BF9FC5AD",
-        "stop_name_tc": "屯門公路轉車站 (A4) (TM755)"
+        "stop_name_tc": "屯門公路轉車站 (TM755)"
     },
     {
         "route": "960C",
@@ -220941,7 +220941,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "DFE346B2C7332BC0",
-        "stop_name_tc": "屯門公路轉車站 (B6) (TM102)"
+        "stop_name_tc": "屯門公路轉車站 (TM102)"
     },
     {
         "route": "960P",
@@ -220949,7 +220949,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "872110C8ADA14DA1",
-        "stop_name_tc": "屯門公路轉車站 (B1) (TM107)"
+        "stop_name_tc": "屯門公路轉車站 (TM107)"
     },
     {
         "route": "960P",
@@ -221173,7 +221173,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "ACB5FEA2BF9FC5AD",
-        "stop_name_tc": "屯門公路轉車站 (A4) (TM755)"
+        "stop_name_tc": "屯門公路轉車站 (TM755)"
     },
     {
         "route": "960P",
@@ -221365,7 +221365,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "DFE346B2C7332BC0",
-        "stop_name_tc": "屯門公路轉車站 (B6) (TM102)"
+        "stop_name_tc": "屯門公路轉車站 (TM102)"
     },
     {
         "route": "960S",
@@ -221373,7 +221373,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "872110C8ADA14DA1",
-        "stop_name_tc": "屯門公路轉車站 (B1) (TM107)"
+        "stop_name_tc": "屯門公路轉車站 (TM107)"
     },
     {
         "route": "960S",
@@ -221557,7 +221557,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "ACB5FEA2BF9FC5AD",
-        "stop_name_tc": "屯門公路轉車站 (A4) (TM755)"
+        "stop_name_tc": "屯門公路轉車站 (TM755)"
     },
     {
         "route": "960S",
@@ -221685,7 +221685,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "DFE346B2C7332BC0",
-        "stop_name_tc": "屯門公路轉車站 (B6) (TM102)"
+        "stop_name_tc": "屯門公路轉車站 (TM102)"
     },
     {
         "route": "960X",
@@ -221693,7 +221693,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "872110C8ADA14DA1",
-        "stop_name_tc": "屯門公路轉車站 (B1) (TM107)"
+        "stop_name_tc": "屯門公路轉車站 (TM107)"
     },
     {
         "route": "960X",
@@ -222005,7 +222005,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "CA6AB8446B694566",
-        "stop_name_tc": "屯門公路轉車站 (A5) (TM754)"
+        "stop_name_tc": "屯門公路轉車站 (TM754)"
     },
     {
         "route": "960X",
@@ -222133,7 +222133,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "DFE346B2C7332BC0",
-        "stop_name_tc": "屯門公路轉車站 (B6) (TM102)"
+        "stop_name_tc": "屯門公路轉車站 (TM102)"
     },
     {
         "route": "961",
@@ -222141,7 +222141,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "88229183EDC0B6E9",
-        "stop_name_tc": "屯門公路轉車站 (B2) (TM106)"
+        "stop_name_tc": "屯門公路轉車站 (TM106)"
     },
     {
         "route": "961",
@@ -222181,7 +222181,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "69EA07FBAB612E68",
-        "stop_name_tc": "屯門站總站 (V7) (TM952)"
+        "stop_name_tc": "屯門站總站 (TM952)"
     },
     {
         "route": "961",
@@ -222341,7 +222341,7 @@
         "service_type": "3",
         "seq": "16",
         "stop": "DFE346B2C7332BC0",
-        "stop_name_tc": "屯門公路轉車站 (B6) (TM102)"
+        "stop_name_tc": "屯門公路轉車站 (TM102)"
     },
     {
         "route": "961",
@@ -222349,7 +222349,7 @@
         "service_type": "3",
         "seq": "17",
         "stop": "88229183EDC0B6E9",
-        "stop_name_tc": "屯門公路轉車站 (B2) (TM106)"
+        "stop_name_tc": "屯門公路轉車站 (TM106)"
     },
     {
         "route": "961",
@@ -222389,7 +222389,7 @@
         "service_type": "3",
         "seq": "22",
         "stop": "69EA07FBAB612E68",
-        "stop_name_tc": "屯門站總站 (V7) (TM952)"
+        "stop_name_tc": "屯門站總站 (TM952)"
     },
     {
         "route": "961",
@@ -222453,7 +222453,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "79D68EE7C6CBAB9D",
-        "stop_name_tc": "屯門站總站 (V6) (TM954)"
+        "stop_name_tc": "屯門站總站 (TM954)"
     },
     {
         "route": "961",
@@ -222501,7 +222501,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "ACB5FEA2BF9FC5AD",
-        "stop_name_tc": "屯門公路轉車站 (A4) (TM755)"
+        "stop_name_tc": "屯門公路轉車站 (TM755)"
     },
     {
         "route": "961",
@@ -222605,7 +222605,7 @@
         "service_type": "3",
         "seq": "4",
         "stop": "79D68EE7C6CBAB9D",
-        "stop_name_tc": "屯門站總站 (V6) (TM954)"
+        "stop_name_tc": "屯門站總站 (TM954)"
     },
     {
         "route": "961",
@@ -222653,7 +222653,7 @@
         "service_type": "3",
         "seq": "10",
         "stop": "ACB5FEA2BF9FC5AD",
-        "stop_name_tc": "屯門公路轉車站 (A4) (TM755)"
+        "stop_name_tc": "屯門公路轉車站 (TM755)"
     },
     {
         "route": "961",
@@ -222813,7 +222813,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "ACB5FEA2BF9FC5AD",
-        "stop_name_tc": "屯門公路轉車站 (A4) (TM755)"
+        "stop_name_tc": "屯門公路轉車站 (TM755)"
     },
     {
         "route": "961P",
@@ -222981,7 +222981,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "ACB5FEA2BF9FC5AD",
-        "stop_name_tc": "屯門公路轉車站 (A4) (TM755)"
+        "stop_name_tc": "屯門公路轉車站 (TM755)"
     },
     {
         "route": "961S",
@@ -223157,7 +223157,7 @@
         "service_type": "2",
         "seq": "9",
         "stop": "ACB5FEA2BF9FC5AD",
-        "stop_name_tc": "屯門公路轉車站 (A4) (TM755)"
+        "stop_name_tc": "屯門公路轉車站 (TM755)"
     },
     {
         "route": "961S",
@@ -227837,7 +227837,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "A004B076CFBD733C",
-        "stop_name_tc": "大圍轉車站 - 新翠邨新明樓"
+        "stop_name_tc": "大圍轉車站新翠邨新明樓 (TA540)"
     },
     {
         "route": "982X",
@@ -227957,7 +227957,7 @@
         "service_type": "2",
         "seq": "7",
         "stop": "A004B076CFBD733C",
-        "stop_name_tc": "大圍轉車站 - 新翠邨新明樓"
+        "stop_name_tc": "大圍轉車站新翠邨新明樓 (TA540)"
     },
     {
         "route": "982X",
@@ -232565,7 +232565,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "9F9D5E46754C52D4",
-        "stop_name_tc": "港珠澳大橋香港口岸 (E3)"
+        "stop_name_tc": "港珠澳大橋香港口岸 (CL942)"
     },
     {
         "route": "A30",
@@ -232757,7 +232757,7 @@
         "service_type": "2",
         "seq": "4",
         "stop": "9F9D5E46754C52D4",
-        "stop_name_tc": "港珠澳大橋香港口岸 (E3)"
+        "stop_name_tc": "港珠澳大橋香港口岸 (CL942)"
     },
     {
         "route": "A30",
@@ -233237,7 +233237,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "35178229BDA14084",
-        "stop_name_tc": "港珠澳大橋香港口岸 (E2)"
+        "stop_name_tc": "港珠澳大橋香港口岸 (CL941)"
     },
     {
         "route": "A31",
@@ -233373,7 +233373,7 @@
         "service_type": "2",
         "seq": "4",
         "stop": "35178229BDA14084",
-        "stop_name_tc": "港珠澳大橋香港口岸 (E2)"
+        "stop_name_tc": "港珠澳大橋香港口岸 (CL941)"
     },
     {
         "route": "A31",
@@ -233781,7 +233781,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "9F9D5E46754C52D4",
-        "stop_name_tc": "港珠澳大橋香港口岸 (E3)"
+        "stop_name_tc": "港珠澳大橋香港口岸 (CL942)"
     },
     {
         "route": "A32",
@@ -233949,7 +233949,7 @@
         "service_type": "2",
         "seq": "4",
         "stop": "9F9D5E46754C52D4",
-        "stop_name_tc": "港珠澳大橋香港口岸 (E3)"
+        "stop_name_tc": "港珠澳大橋香港口岸 (CL942)"
     },
     {
         "route": "A32",
@@ -234293,7 +234293,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "96CE5BB6CD5794BC",
-        "stop_name_tc": "港珠澳大橋香港口岸 (W2)"
+        "stop_name_tc": "港珠澳大橋香港口岸 (CL935)"
     },
     {
         "route": "A33",
@@ -234541,7 +234541,7 @@
         "service_type": "1",
         "seq": "33",
         "stop": "64FC3B939BC09903",
-        "stop_name_tc": "屯門公路轉車站 (A14) (TM746)"
+        "stop_name_tc": "屯門公路轉車站 (TM746)"
     },
     {
         "route": "A33",
@@ -234573,7 +234573,7 @@
         "service_type": "3",
         "seq": "4",
         "stop": "96CE5BB6CD5794BC",
-        "stop_name_tc": "港珠澳大橋香港口岸 (W2)"
+        "stop_name_tc": "港珠澳大橋香港口岸 (CL935)"
     },
     {
         "route": "A33",
@@ -234821,7 +234821,7 @@
         "service_type": "3",
         "seq": "35",
         "stop": "64FC3B939BC09903",
-        "stop_name_tc": "屯門公路轉車站 (A14) (TM746)"
+        "stop_name_tc": "屯門公路轉車站 (TM746)"
     },
     {
         "route": "A33",
@@ -234829,7 +234829,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "64FC3B939BC09903",
-        "stop_name_tc": "屯門公路轉車站 (A14) (TM746)"
+        "stop_name_tc": "屯門公路轉車站 (TM746)"
     },
     {
         "route": "A33",
@@ -235109,7 +235109,7 @@
         "service_type": "2",
         "seq": "1",
         "stop": "64FC3B939BC09903",
-        "stop_name_tc": "屯門公路轉車站 (A14) (TM746)"
+        "stop_name_tc": "屯門公路轉車站 (TM746)"
     },
     {
         "route": "A33",
@@ -235413,7 +235413,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "09C223E13435C61D",
-        "stop_name_tc": "港珠澳大橋香港口岸 (W1)"
+        "stop_name_tc": "港珠澳大橋香港口岸 (CL936)"
     },
     {
         "route": "A33X",
@@ -235541,7 +235541,7 @@
         "service_type": "2",
         "seq": "3",
         "stop": "09C223E13435C61D",
-        "stop_name_tc": "港珠澳大橋香港口岸 (W1)"
+        "stop_name_tc": "港珠澳大橋香港口岸 (CL936)"
     },
     {
         "route": "A33X",
@@ -235709,7 +235709,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "D74B67D55C63895F",
-        "stop_name_tc": "屯門站總站 (V6) (TM953)"
+        "stop_name_tc": "屯門站總站 (TM953)"
     },
     {
         "route": "A33X",
@@ -235845,7 +235845,7 @@
         "service_type": "2",
         "seq": "8",
         "stop": "D74B67D55C63895F",
-        "stop_name_tc": "屯門站總站 (V6) (TM953)"
+        "stop_name_tc": "屯門站總站 (TM953)"
     },
     {
         "route": "A33X",
@@ -235949,7 +235949,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "96CE5BB6CD5794BC",
-        "stop_name_tc": "港珠澳大橋香港口岸 (W2)"
+        "stop_name_tc": "港珠澳大橋香港口岸 (CL935)"
     },
     {
         "route": "A34",
@@ -236197,7 +236197,7 @@
         "service_type": "2",
         "seq": "4",
         "stop": "96CE5BB6CD5794BC",
-        "stop_name_tc": "港珠澳大橋香港口岸 (W2)"
+        "stop_name_tc": "港珠澳大橋香港口岸 (CL935)"
     },
     {
         "route": "A34",
@@ -237357,7 +237357,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "883451BFA586E00E",
-        "stop_name_tc": "港珠澳大橋香港口岸 (W3)"
+        "stop_name_tc": "港珠澳大橋香港口岸 (CL934)"
     },
     {
         "route": "A36",
@@ -237501,7 +237501,7 @@
         "service_type": "3",
         "seq": "3",
         "stop": "883451BFA586E00E",
-        "stop_name_tc": "港珠澳大橋香港口岸 (W3)"
+        "stop_name_tc": "港珠澳大橋香港口岸 (CL934)"
     },
     {
         "route": "A36",
@@ -238309,7 +238309,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "3250A722B6084CC8",
-        "stop_name_tc": "港珠澳大橋香港口岸 (W4)"
+        "stop_name_tc": "港珠澳大橋香港口岸 (CL933)"
     },
     {
         "route": "A37",
@@ -238461,7 +238461,7 @@
         "service_type": "2",
         "seq": "4",
         "stop": "3250A722B6084CC8",
-        "stop_name_tc": "港珠澳大橋香港口岸 (W4)"
+        "stop_name_tc": "港珠澳大橋香港口岸 (CL933)"
     },
     {
         "route": "A37",
@@ -238949,7 +238949,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "57B34182D2844A35",
-        "stop_name_tc": "港珠澳大橋香港口岸 (W7)"
+        "stop_name_tc": "港珠澳大橋香港口岸 (CL930)"
     },
     {
         "route": "A38",
@@ -239389,7 +239389,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "B0851FD6C20D738D",
-        "stop_name_tc": "港珠澳大橋香港口岸 (E6)"
+        "stop_name_tc": "港珠澳大橋香港口岸 (CL945)"
     },
     {
         "route": "A41",
@@ -239565,7 +239565,7 @@
         "service_type": "3",
         "seq": "3",
         "stop": "B0851FD6C20D738D",
-        "stop_name_tc": "港珠澳大橋香港口岸 (E6)"
+        "stop_name_tc": "港珠澳大橋香港口岸 (CL945)"
     },
     {
         "route": "A41",
@@ -239837,7 +239837,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "4F09976CA4CF80C9",
-        "stop_name_tc": "大圍轉車站 - 新翠邨新明樓"
+        "stop_name_tc": "大圍轉車站新翠邨新明樓 (TA539)"
     },
     {
         "route": "A41",
@@ -240021,7 +240021,7 @@
         "service_type": "3",
         "seq": "15",
         "stop": "4F09976CA4CF80C9",
-        "stop_name_tc": "大圍轉車站 - 新翠邨新明樓"
+        "stop_name_tc": "大圍轉車站新翠邨新明樓 (TA539)"
     },
     {
         "route": "A41",
@@ -240117,7 +240117,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "A7378EEEBFA0C76C",
-        "stop_name_tc": "港珠澳大橋香港口岸 (E7)"
+        "stop_name_tc": "港珠澳大橋香港口岸 (CL946)"
     },
     {
         "route": "A41P",
@@ -240309,7 +240309,7 @@
         "service_type": "2",
         "seq": "4",
         "stop": "A7378EEEBFA0C76C",
-        "stop_name_tc": "港珠澳大橋香港口岸 (E7)"
+        "stop_name_tc": "港珠澳大橋香港口岸 (CL946)"
     },
     {
         "route": "A41P",
@@ -240501,7 +240501,7 @@
         "service_type": "3",
         "seq": "4",
         "stop": "A7378EEEBFA0C76C",
-        "stop_name_tc": "港珠澳大橋香港口岸 (E7)"
+        "stop_name_tc": "港珠澳大橋香港口岸 (CL946)"
     },
     {
         "route": "A41P",
@@ -241149,7 +241149,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "38A38CABCA7969CF",
-        "stop_name_tc": "港珠澳大橋香港口岸 (E4)"
+        "stop_name_tc": "港珠澳大橋香港口岸 (CL943)"
     },
     {
         "route": "A42",
@@ -241509,7 +241509,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "192BF77E794E87E1",
-        "stop_name_tc": "港珠澳大橋香港口岸 (W5)"
+        "stop_name_tc": "港珠澳大橋香港口岸 (CL932)"
     },
     {
         "route": "A43",
@@ -242029,7 +242029,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "192BF77E794E87E1",
-        "stop_name_tc": "港珠澳大橋香港口岸 (W5)"
+        "stop_name_tc": "港珠澳大橋香港口岸 (CL932)"
     },
     {
         "route": "A43P",
@@ -242149,7 +242149,7 @@
         "service_type": "2",
         "seq": "4",
         "stop": "192BF77E794E87E1",
-        "stop_name_tc": "港珠澳大橋香港口岸 (W5)"
+        "stop_name_tc": "港珠澳大橋香港口岸 (CL932)"
     },
     {
         "route": "A43P",
@@ -242269,7 +242269,7 @@
         "service_type": "3",
         "seq": "4",
         "stop": "192BF77E794E87E1",
-        "stop_name_tc": "港珠澳大橋香港口岸 (W5)"
+        "stop_name_tc": "港珠澳大橋香港口岸 (CL932)"
     },
     {
         "route": "A43P",
@@ -242701,7 +242701,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "142122D77C7F92B3",
-        "stop_name_tc": "港珠澳大橋香港口岸 (E5)"
+        "stop_name_tc": "港珠澳大橋香港口岸 (CL944)"
     },
     {
         "route": "A46",
@@ -242981,7 +242981,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "09836E367F4BA3E2",
-        "stop_name_tc": "港珠澳大橋香港口岸 (W6)"
+        "stop_name_tc": "港珠澳大橋香港口岸 (CL931)"
     },
     {
         "route": "A47X",
@@ -243085,7 +243085,7 @@
         "service_type": "2",
         "seq": "2",
         "stop": "09836E367F4BA3E2",
-        "stop_name_tc": "港珠澳大橋香港口岸 (W6)"
+        "stop_name_tc": "港珠澳大橋香港口岸 (CL931)"
     },
     {
         "route": "A47X",
@@ -243261,7 +243261,7 @@
         "service_type": "3",
         "seq": "3",
         "stop": "09836E367F4BA3E2",
-        "stop_name_tc": "港珠澳大橋香港口岸 (W6)"
+        "stop_name_tc": "港珠澳大橋香港口岸 (CL931)"
     },
     {
         "route": "A47X",
@@ -243445,7 +243445,7 @@
         "service_type": "4",
         "seq": "4",
         "stop": "09836E367F4BA3E2",
-        "stop_name_tc": "港珠澳大橋香港口岸 (W6)"
+        "stop_name_tc": "港珠澳大橋香港口岸 (CL931)"
     },
     {
         "route": "A47X",
@@ -244781,7 +244781,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "DBD6820299653B4E",
-        "stop_name_tc": "屯門站總站 (V5) (TM956)"
+        "stop_name_tc": "屯門站總站 (TM956)"
     },
     {
         "route": "B9",
@@ -244813,7 +244813,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "DBD6820299653B4E",
-        "stop_name_tc": "屯門站總站 (V5) (TM956)"
+        "stop_name_tc": "屯門站總站 (TM956)"
     },
     {
         "route": "B9",
@@ -244877,7 +244877,7 @@
         "service_type": "3",
         "seq": "1",
         "stop": "DBD6820299653B4E",
-        "stop_name_tc": "屯門站總站 (V5) (TM956)"
+        "stop_name_tc": "屯門站總站 (TM956)"
     },
     {
         "route": "B9",
@@ -251789,7 +251789,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "4F09976CA4CF80C9",
-        "stop_name_tc": "大圍轉車站 - 新翠邨新明樓"
+        "stop_name_tc": "大圍轉車站新翠邨新明樓 (TA539)"
     },
     {
         "route": "E42",
@@ -252133,7 +252133,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "4F09976CA4CF80C9",
-        "stop_name_tc": "大圍轉車站 - 新翠邨新明樓"
+        "stop_name_tc": "大圍轉車站新翠邨新明樓 (TA539)"
     },
     {
         "route": "E42C",
@@ -252517,7 +252517,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "4F09976CA4CF80C9",
-        "stop_name_tc": "大圍轉車站 - 新翠邨新明樓"
+        "stop_name_tc": "大圍轉車站新翠邨新明樓 (TA539)"
     },
     {
         "route": "E42P",
@@ -259941,7 +259941,7 @@
         "service_type": "1",
         "seq": "34",
         "stop": "70E8546DD7753FEF",
-        "stop_name_tc": "屯門公路轉車站 (C3) (TM111)"
+        "stop_name_tc": "屯門公路轉車站 (TM111)"
     },
     {
         "route": "N252",
@@ -260229,7 +260229,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "DB516EC0B8DAF046",
-        "stop_name_tc": "屯門公路轉車站 (B9) (TM100)"
+        "stop_name_tc": "屯門公路轉車站 (TM100)"
     },
     {
         "route": "N260",
@@ -260621,7 +260621,7 @@
         "service_type": "1",
         "seq": "23",
         "stop": "18C9D0216996D75A",
-        "stop_name_tc": "屯門公路轉車站 (A8) (TM751)"
+        "stop_name_tc": "屯門公路轉車站 (TM751)"
     },
     {
         "route": "N260",
@@ -262773,7 +262773,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "9ADE07CC443E4ACE",
-        "stop_name_tc": "大圍轉車站 - 新翠邨新明樓"
+        "stop_name_tc": "大圍轉車站新翠邨新明樓 (TA538)"
     },
     {
         "route": "N281",
@@ -268885,7 +268885,7 @@
         "service_type": "1",
         "seq": "24",
         "stop": "4F09976CA4CF80C9",
-        "stop_name_tc": "大圍轉車站 - 新翠邨新明樓"
+        "stop_name_tc": "大圍轉車站新翠邨新明樓 (TA539)"
     },
     {
         "route": "N42",
@@ -269837,7 +269837,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "81B719F7DC3F0FAD",
-        "stop_name_tc": "城門隧道轉車站 (A5) (TW500)"
+        "stop_name_tc": "城門隧道轉車站 (TW500)"
     },
     {
         "route": "N48",
@@ -269957,7 +269957,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "620E14F31DA31490",
-        "stop_name_tc": "城門隧道轉車站 (B6) (TW300)"
+        "stop_name_tc": "城門隧道轉車站 (TW300)"
     },
     {
         "route": "N48",
@@ -273141,7 +273141,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "DB516EC0B8DAF046",
-        "stop_name_tc": "屯門公路轉車站 (B9) (TM100)"
+        "stop_name_tc": "屯門公路轉車站 (TM100)"
     },
     {
         "route": "N960",
@@ -273341,7 +273341,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "ACB5FEA2BF9FC5AD",
-        "stop_name_tc": "屯門公路轉車站 (A4) (TM755)"
+        "stop_name_tc": "屯門公路轉車站 (TM755)"
     },
     {
         "route": "N960",
@@ -273413,7 +273413,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "9F9D5E46754C52D4",
-        "stop_name_tc": "港珠澳大橋香港口岸 (E3)"
+        "stop_name_tc": "港珠澳大橋香港口岸 (CL942)"
     },
     {
         "route": "NA30",
@@ -273741,7 +273741,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "9F9D5E46754C52D4",
-        "stop_name_tc": "港珠澳大橋香港口岸 (E3)"
+        "stop_name_tc": "港珠澳大橋香港口岸 (CL942)"
     },
     {
         "route": "NA31",
@@ -273749,7 +273749,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "35178229BDA14084",
-        "stop_name_tc": "港珠澳大橋香港口岸 (E2)"
+        "stop_name_tc": "港珠澳大橋香港口岸 (CL941)"
     },
     {
         "route": "NA31",
@@ -274005,7 +274005,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "35178229BDA14084",
-        "stop_name_tc": "港珠澳大橋香港口岸 (E2)"
+        "stop_name_tc": "港珠澳大橋香港口岸 (CL941)"
     },
     {
         "route": "NA32",
@@ -274013,7 +274013,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "9F9D5E46754C52D4",
-        "stop_name_tc": "港珠澳大橋香港口岸 (E3)"
+        "stop_name_tc": "港珠澳大橋香港口岸 (CL942)"
     },
     {
         "route": "NA32",
@@ -274365,7 +274365,7 @@
         "service_type": "1",
         "seq": "25",
         "stop": "9F9D5E46754C52D4",
-        "stop_name_tc": "港珠澳大橋香港口岸 (E3)"
+        "stop_name_tc": "港珠澳大橋香港口岸 (CL942)"
     },
     {
         "route": "NA33",
@@ -274509,7 +274509,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "D74B67D55C63895F",
-        "stop_name_tc": "屯門站總站 (V6) (TM953)"
+        "stop_name_tc": "屯門站總站 (TM953)"
     },
     {
         "route": "NA33",
@@ -274645,7 +274645,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "09C223E13435C61D",
-        "stop_name_tc": "港珠澳大橋香港口岸 (W1)"
+        "stop_name_tc": "港珠澳大橋香港口岸 (CL936)"
     },
     {
         "route": "NA33",
@@ -274725,7 +274725,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "D74B67D55C63895F",
-        "stop_name_tc": "屯門站總站 (V6) (TM953)"
+        "stop_name_tc": "屯門站總站 (TM953)"
     },
     {
         "route": "NA33",
@@ -275061,7 +275061,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "883451BFA586E00E",
-        "stop_name_tc": "港珠澳大橋香港口岸 (W3)"
+        "stop_name_tc": "港珠澳大橋香港口岸 (CL934)"
     },
     {
         "route": "NA36",
@@ -275221,7 +275221,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "3250A722B6084CC8",
-        "stop_name_tc": "港珠澳大橋香港口岸 (W4)"
+        "stop_name_tc": "港珠澳大橋香港口岸 (CL933)"
     },
     {
         "route": "NA37",
@@ -275677,7 +275677,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "A7378EEEBFA0C76C",
-        "stop_name_tc": "港珠澳大橋香港口岸 (E7)"
+        "stop_name_tc": "港珠澳大橋香港口岸 (CL946)"
     },
     {
         "route": "NA40",
@@ -276109,7 +276109,7 @@
         "service_type": "1",
         "seq": "29",
         "stop": "A7378EEEBFA0C76C",
-        "stop_name_tc": "港珠澳大橋香港口岸 (E7)"
+        "stop_name_tc": "港珠澳大橋香港口岸 (CL946)"
     },
     {
         "route": "NA41",
@@ -276117,7 +276117,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "38A38CABCA7969CF",
-        "stop_name_tc": "港珠澳大橋香港口岸 (E4)"
+        "stop_name_tc": "港珠澳大橋香港口岸 (CL943)"
     },
     {
         "route": "NA41",
@@ -276501,7 +276501,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "4F09976CA4CF80C9",
-        "stop_name_tc": "大圍轉車站 - 新翠邨新明樓"
+        "stop_name_tc": "大圍轉車站新翠邨新明樓 (TA539)"
     },
     {
         "route": "NA41",
@@ -276629,7 +276629,7 @@
         "service_type": "1",
         "seq": "35",
         "stop": "38A38CABCA7969CF",
-        "stop_name_tc": "港珠澳大橋香港口岸 (E4)"
+        "stop_name_tc": "港珠澳大橋香港口岸 (CL943)"
     },
     {
         "route": "NA43",
@@ -276637,7 +276637,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "192BF77E794E87E1",
-        "stop_name_tc": "港珠澳大橋香港口岸 (W5)"
+        "stop_name_tc": "港珠澳大橋香港口岸 (CL932)"
     },
     {
         "route": "NA43",
@@ -276997,7 +276997,7 @@
         "service_type": "1",
         "seq": "24",
         "stop": "192BF77E794E87E1",
-        "stop_name_tc": "港珠澳大橋香港口岸 (W5)"
+        "stop_name_tc": "港珠澳大橋香港口岸 (CL932)"
     },
     {
         "route": "NA47",
@@ -277005,7 +277005,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "09836E367F4BA3E2",
-        "stop_name_tc": "港珠澳大橋香港口岸 (W6)"
+        "stop_name_tc": "港珠澳大橋香港口岸 (CL931)"
     },
     {
         "route": "NA47",
@@ -277397,7 +277397,7 @@
         "service_type": "1",
         "seq": "28",
         "stop": "09836E367F4BA3E2",
-        "stop_name_tc": "港珠澳大橋香港口岸 (W6)"
+        "stop_name_tc": "港珠澳大橋香港口岸 (CL931)"
     },
     {
         "route": "NA52",
@@ -277405,7 +277405,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "64FC3B939BC09903",
-        "stop_name_tc": "屯門公路轉車站 (A14) (TM746)"
+        "stop_name_tc": "屯門公路轉車站 (TM746)"
     },
     {
         "route": "NA52",
@@ -277701,7 +277701,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "96CE5BB6CD5794BC",
-        "stop_name_tc": "港珠澳大橋香港口岸 (W2)"
+        "stop_name_tc": "港珠澳大橋香港口岸 (CL935)"
     },
     {
         "route": "NA52",
@@ -277949,7 +277949,7 @@
         "service_type": "1",
         "seq": "34",
         "stop": "64FC3B939BC09903",
-        "stop_name_tc": "屯門公路轉車站 (A14) (TM746)"
+        "stop_name_tc": "屯門公路轉車站 (TM746)"
     },
     {
         "route": "P960",
@@ -278021,7 +278021,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "DB516EC0B8DAF046",
-        "stop_name_tc": "屯門公路轉車站 (B9) (TM100)"
+        "stop_name_tc": "屯門公路轉車站 (TM100)"
     },
     {
         "route": "P960",
@@ -278205,7 +278205,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "CA6AB8446B694566",
-        "stop_name_tc": "屯門公路轉車站 (A5) (TM754)"
+        "stop_name_tc": "屯門公路轉車站 (TM754)"
     },
     {
         "route": "P960",
@@ -280381,7 +280381,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "D74B67D55C63895F",
-        "stop_name_tc": "屯門站總站 (V6) (TM953)"
+        "stop_name_tc": "屯門站總站 (TM953)"
     },
     {
         "route": "R33",
@@ -280477,7 +280477,7 @@
         "service_type": "2",
         "seq": "1",
         "stop": "D74B67D55C63895F",
-        "stop_name_tc": "屯門站總站 (V6) (TM953)"
+        "stop_name_tc": "屯門站總站 (TM953)"
     },
     {
         "route": "R33",
@@ -280661,7 +280661,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "D74B67D55C63895F",
-        "stop_name_tc": "屯門站總站 (V6) (TM953)"
+        "stop_name_tc": "屯門站總站 (TM953)"
     },
     {
         "route": "R33",
@@ -280757,7 +280757,7 @@
         "service_type": "2",
         "seq": "12",
         "stop": "D74B67D55C63895F",
-        "stop_name_tc": "屯門站總站 (V6) (TM953)"
+        "stop_name_tc": "屯門站總站 (TM953)"
     },
     {
         "route": "R42",
@@ -280765,7 +280765,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "B49F719CC4A8BD7E",
-        "stop_name_tc": "大圍站總站 (G8) (TA948)"
+        "stop_name_tc": "大圍站總站 (TA948)"
     },
     {
         "route": "R42",
@@ -280949,7 +280949,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "4F09976CA4CF80C9",
-        "stop_name_tc": "大圍轉車站 - 新翠邨新明樓"
+        "stop_name_tc": "大圍轉車站新翠邨新明樓 (TA539)"
     },
     {
         "route": "R42",
@@ -280957,7 +280957,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "B49F719CC4A8BD7E",
-        "stop_name_tc": "大圍站總站 (G8) (TA948)"
+        "stop_name_tc": "大圍站總站 (TA948)"
     },
     {
         "route": "R603",
@@ -283829,7 +283829,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "DB516EC0B8DAF046",
-        "stop_name_tc": "屯門公路轉車站 (B9) (TM100)"
+        "stop_name_tc": "屯門公路轉車站 (TM100)"
     },
     {
         "route": "SP5A",
@@ -286421,7 +286421,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "D74B67D55C63895F",
-        "stop_name_tc": "屯門站總站 (V6) (TM953)"
+        "stop_name_tc": "屯門站總站 (TM953)"
     },
     {
         "route": "X33",
