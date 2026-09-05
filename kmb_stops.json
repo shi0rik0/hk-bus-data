@@ -22448,14 +22448,6 @@
         "long": "114.077945"
     },
     {
-        "stop": "68CD99B45DDE014B",
-        "name_en": "TSING YI STATION (TY921)",
-        "name_tc": "青衣站 (TY921)",
-        "name_sc": "青衣站 (TY921)",
-        "lat": "22.360335",
-        "long": "114.107545"
-    },
-    {
         "stop": "68D0BC0C7164F763",
         "name_en": "MONG KOK STATION, ARGYLE CENTRE (MK511)",
         "name_tc": "旺角站,旺角中心 (MK511)",
@@ -33176,14 +33168,6 @@
         "long": "114.193290"
     },
     {
-        "stop": "9E42D981C59B5762",
-        "name_en": "TSING YI STATION (TY930)",
-        "name_tc": "青衣站 (TY930)",
-        "name_sc": "青衣站 (TY930)",
-        "lat": "22.360348",
-        "long": "114.107636"
-    },
-    {
         "stop": "9E4653BA0F25F731",
         "name_en": "SEA CREST VILLA PHASE 4 (TW196)",
         "name_tc": "浪翠園第四期 (TW196)",
@@ -34081,9 +34065,9 @@
     },
     {
         "stop": "A2882A0EE6B8AF9B",
-        "name_en": "TSING YI STATION(Alighting) (TY921)",
-        "name_tc": "青衣站(落客站) (TY921)",
-        "name_sc": "青衣站(落客站) (TY921)",
+        "name_en": "TSING YI STATION(Alighting) (TY920)",
+        "name_tc": "青衣站(落客站) (TY920)",
+        "name_sc": "青衣站(落客站) (TY920)",
         "lat": "22.360074",
         "long": "114.107029"
     },
@@ -47857,9 +47841,9 @@
     },
     {
         "stop": "E45E7DB1786B6324",
-        "name_en": "TSING YI STATION(Alighting) (TY920)",
-        "name_tc": "青衣站(落客站) (TY920)",
-        "name_sc": "青衣站(落客站) (TY920)",
+        "name_en": "TSING YI STATION(Alighting) (TY921)",
+        "name_tc": "青衣站 (TY921)",
+        "name_sc": "青衣站 (TY921)",
         "lat": "22.359924",
         "long": "114.107953"
     },

@@ -34577,6 +34577,38 @@
     },
     {
         "route": "213E",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "18",
+        "stop": "0BACBE7BF15833EC",
+        "stop_name_tc": "安麗苑 (AN604)"
+    },
+    {
+        "route": "213E",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "19",
+        "stop": "CABB1AAE412C6049",
+        "stop_name_tc": "安柏苑 (AN610)"
+    },
+    {
+        "route": "213E",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "20",
+        "stop": "3F64427262A691C1",
+        "stop_name_tc": "安楹苑 (AN620)"
+    },
+    {
+        "route": "213E",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "21",
+        "stop": "7B0BAF8C626CDF2D",
+        "stop_name_tc": "安達臣總站 (AN914)"
+    },
+    {
+        "route": "213E",
         "bound": "O",
         "service_type": "1",
         "seq": "1",
@@ -34686,6 +34718,30 @@
         "seq": "14",
         "stop": "6265ADC5B1D37D6C",
         "stop_name_tc": "九龍公園徑 (YT640)"
+    },
+    {
+        "route": "213E",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "15",
+        "stop": "2EEB9CB69FB6A58D",
+        "stop_name_tc": "中港城 戲曲中心 (YT645)"
+    },
+    {
+        "route": "213E",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "16",
+        "stop": "0CC0B21EFF42EE19",
+        "stop_name_tc": "柯士甸道西 (YT262)"
+    },
+    {
+        "route": "213E",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "17",
+        "stop": "FF46CB6182028AC6",
+        "stop_name_tc": "九龍站,高鐵站 (YT942)"
     },
     {
         "route": "213M",
@@ -44964,7 +45020,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "8",
-        "stop": "E45E7DB1786B6324",
+        "stop": "A2882A0EE6B8AF9B",
         "stop_name_tc": "青衣站(落客站) (TY920)"
     },
     {
@@ -45140,7 +45196,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "22",
-        "stop": "E45E7DB1786B6324",
+        "stop": "A2882A0EE6B8AF9B",
         "stop_name_tc": "青衣站(落客站) (TY920)"
     },
     {
@@ -45533,7 +45589,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "A2882A0EE6B8AF9B",
-        "stop_name_tc": "青衣站(落客站) (TY921)"
+        "stop_name_tc": "青衣站(落客站) (TY920)"
     },
     {
         "route": "251A",
@@ -81797,7 +81853,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "A2882A0EE6B8AF9B",
-        "stop_name_tc": "青衣站(落客站) (TY921)"
+        "stop_name_tc": "青衣站(落客站) (TY920)"
     },
     {
         "route": "279B",
@@ -82493,7 +82549,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "A2882A0EE6B8AF9B",
-        "stop_name_tc": "青衣站(落客站) (TY921)"
+        "stop_name_tc": "青衣站(落客站) (TY920)"
     },
     {
         "route": "27X",
@@ -124532,7 +124588,7 @@
         "bound": "I",
         "service_type": "1",
         "seq": "16",
-        "stop": "E45E7DB1786B6324",
+        "stop": "A2882A0EE6B8AF9B",
         "stop_name_tc": "青衣站(落客站) (TY920)"
     },
     {
@@ -124540,7 +124596,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "1",
-        "stop": "68CD99B45DDE014B",
+        "stop": "E45E7DB1786B6324",
         "stop_name_tc": "青衣站 (TY921)"
     },
     {
@@ -134540,8 +134596,8 @@
         "bound": "O",
         "service_type": "3",
         "seq": "1",
-        "stop": "9F5B57C2FE7E786D",
-        "stop_name_tc": "寶田轉車站 - 寶田總站 (TM921)"
+        "stop": "315BE0CA231DCD4F",
+        "stop_name_tc": "寶田轉車站 - 寶田 (TM190)"
     },
     {
         "route": "58M",
@@ -158532,7 +158588,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "31",
-        "stop": "E45E7DB1786B6324",
+        "stop": "A2882A0EE6B8AF9B",
         "stop_name_tc": "青衣站(落客站) (TY920)"
     },
     {
@@ -158860,7 +158916,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "21",
-        "stop": "E45E7DB1786B6324",
+        "stop": "A2882A0EE6B8AF9B",
         "stop_name_tc": "青衣站(落客站) (TY920)"
     },
     {
@@ -159092,8 +159148,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "2",
-        "stop": "2FB355A2C89B7922",
-        "stop_name_tc": "元朗同樂街 (YL368)"
+        "stop": "D54B0CA58FE5559D",
+        "stop_name_tc": "元朗同樂街 (YL372)"
     },
     {
         "route": "68M",
@@ -217716,7 +217772,7 @@
         "bound": "I",
         "service_type": "1",
         "seq": "22",
-        "stop": "E45E7DB1786B6324",
+        "stop": "A2882A0EE6B8AF9B",
         "stop_name_tc": "青衣站(落客站) (TY920)"
     },
     {
