@@ -1860,8 +1860,30 @@
     },
     {
         "route": "213E",
+        "bound": "I",
+        "service_type": "2",
+        "orig_en": "KOWLOON STATION",
+        "orig_tc": "九龍站",
+        "orig_sc": "九龙站",
+        "dest_en": "ANDERSON",
+        "dest_tc": "安達臣",
+        "dest_sc": "安达臣"
+    },
+    {
+        "route": "213E",
         "bound": "O",
         "service_type": "1",
+        "orig_en": "ANDERSON",
+        "orig_tc": "安達臣",
+        "orig_sc": "安达臣",
+        "dest_en": "KOWLOON STATION",
+        "dest_tc": "九龍站",
+        "dest_sc": "九龙站"
+    },
+    {
+        "route": "213E",
+        "bound": "O",
+        "service_type": "2",
         "orig_en": "ANDERSON",
         "orig_tc": "安達臣",
         "orig_sc": "安达臣",
@@ -8209,9 +8231,9 @@
         "route": "58M",
         "bound": "O",
         "service_type": "3",
-        "orig_en": "TUEN MUN (PO TIN ESTATE)",
-        "orig_tc": "屯門(寶田邨)",
-        "orig_sc": "屯门(宝田邨)",
+        "orig_en": "PO TIN BBI",
+        "orig_tc": "寶田轉車站",
+        "orig_sc": "宝田转车站",
         "dest_en": "KWAI FONG STATION",
         "dest_tc": "葵芳站",
         "dest_sc": "葵芳站"

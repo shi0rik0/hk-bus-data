@@ -34609,6 +34609,150 @@
     },
     {
         "route": "213E",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "1",
+        "stop": "FF46CB6182028AC6",
+        "stop_name_tc": "九龍站,高鐵站 (YT942)"
+    },
+    {
+        "route": "213E",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "2",
+        "stop": "31072508CEF942C6",
+        "stop_name_tc": "西隧轉車站 - 雅翔道 (YT301)"
+    },
+    {
+        "route": "213E",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "3",
+        "stop": "83EB94899B6BBB4B",
+        "stop_name_tc": "柯士甸道 戲曲中心 (YT202)"
+    },
+    {
+        "route": "213E",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "4",
+        "stop": "B7A8F179CD71B22E",
+        "stop_name_tc": "廣東道,新港中心 (YT206)"
+    },
+    {
+        "route": "213E",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "5",
+        "stop": "F57E1173086C7A51",
+        "stop_name_tc": "廣東道,北京道 (YT207)"
+    },
+    {
+        "route": "213E",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "6",
+        "stop": "0840B3F75A7B00BD",
+        "stop_name_tc": "尖東站 K11 MUSEA (YT217)"
+    },
+    {
+        "route": "213E",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "7",
+        "stop": "FE4E099AEA040C89",
+        "stop_name_tc": "尖沙咀麼地道 (YT220)"
+    },
+    {
+        "route": "213E",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "8",
+        "stop": "E46A9F0C0CB609F5",
+        "stop_name_tc": "加連威老道 (YT222)"
+    },
+    {
+        "route": "213E",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "9",
+        "stop": "E45CFAB2E6E4C8FE",
+        "stop_name_tc": "香港理工大學 (YT230)"
+    },
+    {
+        "route": "213E",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "10",
+        "stop": "AA97FFC49AE957A5",
+        "stop_name_tc": "紅磡山谷道 (HH175)"
+    },
+    {
+        "route": "213E",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "11",
+        "stop": "BE27F066CF40DF7D",
+        "stop_name_tc": "啟隧轉車站-啟福道 (KT100)"
+    },
+    {
+        "route": "213E",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "12",
+        "stop": "1FBAAE29AF1CA50E",
+        "stop_name_tc": "秀暉樓 (KT501)"
+    },
+    {
+        "route": "213E",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "13",
+        "stop": "466BC4C1908A1A06",
+        "stop_name_tc": "寶達邨轉車站 (KT191)"
+    },
+    {
+        "route": "213E",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "14",
+        "stop": "5996115DCAE8C603",
+        "stop_name_tc": "安愉徑 (AN600)"
+    },
+    {
+        "route": "213E",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "15",
+        "stop": "0BACBE7BF15833EC",
+        "stop_name_tc": "安麗苑 (AN604)"
+    },
+    {
+        "route": "213E",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "16",
+        "stop": "CABB1AAE412C6049",
+        "stop_name_tc": "安柏苑 (AN610)"
+    },
+    {
+        "route": "213E",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "17",
+        "stop": "3F64427262A691C1",
+        "stop_name_tc": "安楹苑 (AN620)"
+    },
+    {
+        "route": "213E",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "18",
+        "stop": "7B0BAF8C626CDF2D",
+        "stop_name_tc": "安達臣總站 (AN914)"
+    },
+    {
+        "route": "213E",
         "bound": "O",
         "service_type": "1",
         "seq": "1",
@@ -34740,6 +34884,126 @@
         "bound": "O",
         "service_type": "1",
         "seq": "17",
+        "stop": "FF46CB6182028AC6",
+        "stop_name_tc": "九龍站,高鐵站 (YT942)"
+    },
+    {
+        "route": "213E",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "1",
+        "stop": "7B0BAF8C626CDF2D",
+        "stop_name_tc": "安達臣總站 (AN914)"
+    },
+    {
+        "route": "213E",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "2",
+        "stop": "D456864A2E0933B2",
+        "stop_name_tc": "安楹苑 (AN400)"
+    },
+    {
+        "route": "213E",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "3",
+        "stop": "FA9F1DB955870000",
+        "stop_name_tc": "安柏苑 (AN410)"
+    },
+    {
+        "route": "213E",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "4",
+        "stop": "1DB8D58C023AFD4D",
+        "stop_name_tc": "安秀苑 (AN415)"
+    },
+    {
+        "route": "213E",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "5",
+        "stop": "21F97AD41821FC73",
+        "stop_name_tc": "安愉徑 (AN420)"
+    },
+    {
+        "route": "213E",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "6",
+        "stop": "EA2CFF27310EAEC3",
+        "stop_name_tc": "寶達邨轉車站 (KT459)"
+    },
+    {
+        "route": "213E",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "7",
+        "stop": "25863CD2A364E72F",
+        "stop_name_tc": "秀暉樓 (KT300)"
+    },
+    {
+        "route": "213E",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "8",
+        "stop": "B568727F49CD11A3",
+        "stop_name_tc": "啟隧轉車站-啟福道 (KT590)"
+    },
+    {
+        "route": "213E",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "9",
+        "stop": "558599642E78BB9B",
+        "stop_name_tc": "香港理工大學 (YT620)"
+    },
+    {
+        "route": "213E",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "10",
+        "stop": "BEEBDDB542A7E709",
+        "stop_name_tc": "香港科學館 (YT622)"
+    },
+    {
+        "route": "213E",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "11",
+        "stop": "48184733EFE9D3E3",
+        "stop_name_tc": "尖沙咀麼地道 (YT624)"
+    },
+    {
+        "route": "213E",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "12",
+        "stop": "6265ADC5B1D37D6C",
+        "stop_name_tc": "九龍公園徑 (YT640)"
+    },
+    {
+        "route": "213E",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "13",
+        "stop": "2EEB9CB69FB6A58D",
+        "stop_name_tc": "中港城 戲曲中心 (YT645)"
+    },
+    {
+        "route": "213E",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "14",
+        "stop": "0CC0B21EFF42EE19",
+        "stop_name_tc": "柯士甸道西 (YT262)"
+    },
+    {
+        "route": "213E",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "15",
         "stop": "FF46CB6182028AC6",
         "stop_name_tc": "九龍站,高鐵站 (YT942)"
     },
