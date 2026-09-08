@@ -989,7 +989,7 @@
         "service_type": "1",
         "seq": "26",
         "stop": "E99D3F96A9F7B5EB",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC284)"
     },
     {
         "route": "101",
@@ -1189,7 +1189,7 @@
         "service_type": "2",
         "seq": "16",
         "stop": "E99D3F96A9F7B5EB",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC284)"
     },
     {
         "route": "101",
@@ -1341,7 +1341,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "D64C1350EE61A2AD",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC713)"
     },
     {
         "route": "101",
@@ -1621,7 +1621,7 @@
         "service_type": "2",
         "seq": "10",
         "stop": "D64C1350EE61A2AD",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC713)"
     },
     {
         "route": "101",
@@ -1797,7 +1797,7 @@
         "service_type": "3",
         "seq": "10",
         "stop": "D64C1350EE61A2AD",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC713)"
     },
     {
         "route": "101",
@@ -2253,7 +2253,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "E99D3F96A9F7B5EB",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC284)"
     },
     {
         "route": "101R",
@@ -5437,7 +5437,7 @@
         "service_type": "1",
         "seq": "43",
         "stop": "BB172B3A5DAC85A4",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC282)"
     },
     {
         "route": "106",
@@ -5501,7 +5501,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "8BB1DE68DB8316D3",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC712)"
     },
     {
         "route": "106",
@@ -5885,7 +5885,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "8BB1DE68DB8316D3",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC712)"
     },
     {
         "route": "106A",
@@ -6269,7 +6269,7 @@
         "service_type": "1",
         "seq": "31",
         "stop": "BB172B3A5DAC85A4",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC282)"
     },
     {
         "route": "106P",
@@ -6589,7 +6589,7 @@
         "service_type": "2",
         "seq": "36",
         "stop": "BB172B3A5DAC85A4",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC282)"
     },
     {
         "route": "106P",
@@ -6653,7 +6653,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "8BB1DE68DB8316D3",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC712)"
     },
     {
         "route": "106P",
@@ -7101,7 +7101,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "BB172B3A5DAC85A4",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC282)"
     },
     {
         "route": "107",
@@ -7365,7 +7365,7 @@
         "service_type": "2",
         "seq": "21",
         "stop": "BB172B3A5DAC85A4",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC282)"
     },
     {
         "route": "107",
@@ -7549,7 +7549,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "8BB1DE68DB8316D3",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC712)"
     },
     {
         "route": "107",
@@ -7813,7 +7813,7 @@
         "service_type": "2",
         "seq": "11",
         "stop": "8BB1DE68DB8316D3",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC712)"
     },
     {
         "route": "107",
@@ -8517,7 +8517,7 @@
         "service_type": "1",
         "seq": "24",
         "stop": "BB172B3A5DAC85A4",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC282)"
     },
     {
         "route": "108",
@@ -8661,7 +8661,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "8BB1DE68DB8316D3",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC712)"
     },
     {
         "route": "108",
@@ -9341,7 +9341,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "BB172B3A5DAC85A4",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC282)"
     },
     {
         "route": "11",
@@ -9565,7 +9565,7 @@
         "service_type": "2",
         "seq": "12",
         "stop": "BB172B3A5DAC85A4",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC282)"
     },
     {
         "route": "11",
@@ -11301,7 +11301,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "BB172B3A5DAC85A4",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC282)"
     },
     {
         "route": "111",
@@ -11405,7 +11405,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "D64C1350EE61A2AD",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC713)"
     },
     {
         "route": "111",
@@ -11757,7 +11757,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "D64C1350EE61A2AD",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC713)"
     },
     {
         "route": "111P",
@@ -13477,7 +13477,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "7F25B423230F5BEE",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC281)"
     },
     {
         "route": "116",
@@ -13677,7 +13677,7 @@
         "service_type": "2",
         "seq": "13",
         "stop": "7F25B423230F5BEE",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC281)"
     },
     {
         "route": "116",
@@ -13861,7 +13861,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "8BB1DE68DB8316D3",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC712)"
     },
     {
         "route": "116",
@@ -15885,7 +15885,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "EBE826ABDCE44F0C",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC286)"
     },
     {
         "route": "11B",
@@ -16717,7 +16717,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "C5F7AF8D65B268E4",
-        "stop_name_tc": "九龍城轉車站- 富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC707)"
     },
     {
         "route": "11D",
@@ -16821,7 +16821,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "EBE826ABDCE44F0C",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC286)"
     },
     {
         "route": "11D",
@@ -17389,7 +17389,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "0AB522DFFCD4CD4F",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC285)"
     },
     {
         "route": "11X",
@@ -18549,7 +18549,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "E99D3F96A9F7B5EB",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC284)"
     },
     {
         "route": "13",
@@ -18901,7 +18901,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "E9468D2AE13C3F39",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC706)"
     },
     {
         "route": "13",
@@ -19149,7 +19149,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "E99D3F96A9F7B5EB",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC284)"
     },
     {
         "route": "13D",
@@ -19469,7 +19469,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "E9468D2AE13C3F39",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC706)"
     },
     {
         "route": "13D",
@@ -19717,7 +19717,7 @@
         "service_type": "2",
         "seq": "20",
         "stop": "E9468D2AE13C3F39",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC706)"
     },
     {
         "route": "13D",
@@ -21613,7 +21613,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "EBE826ABDCE44F0C",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC286)"
     },
     {
         "route": "14",
@@ -23573,7 +23573,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "EBE826ABDCE44F0C",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC286)"
     },
     {
         "route": "15",
@@ -24909,7 +24909,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "EBE826ABDCE44F0C",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC286)"
     },
     {
         "route": "16",
@@ -25189,7 +25189,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "E9468D2AE13C3F39",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC706)"
     },
     {
         "route": "16",
@@ -25405,7 +25405,7 @@
         "service_type": "2",
         "seq": "15",
         "stop": "E9468D2AE13C3F39",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC706)"
     },
     {
         "route": "16",
@@ -25725,7 +25725,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "EBE826ABDCE44F0C",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC286)"
     },
     {
         "route": "16P",
@@ -26053,7 +26053,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "EBE826ABDCE44F0C",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC286)"
     },
     {
         "route": "16X",
@@ -26357,7 +26357,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "EBE826ABDCE44F0C",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC286)"
     },
     {
         "route": "17",
@@ -26517,7 +26517,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "C5F7AF8D65B268E4",
-        "stop_name_tc": "九龍城轉車站- 富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC707)"
     },
     {
         "route": "17",
@@ -26645,7 +26645,7 @@
         "service_type": "2",
         "seq": "6",
         "stop": "C5F7AF8D65B268E4",
-        "stop_name_tc": "九龍城轉車站- 富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC707)"
     },
     {
         "route": "17",
@@ -26757,7 +26757,7 @@
         "service_type": "3",
         "seq": "4",
         "stop": "C5F7AF8D65B268E4",
-        "stop_name_tc": "九龍城轉車站- 富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC707)"
     },
     {
         "route": "17",
@@ -29853,7 +29853,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "C5F7AF8D65B268E4",
-        "stop_name_tc": "九龍城轉車站- 富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC707)"
     },
     {
         "route": "17P",
@@ -31197,7 +31197,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "0AB522DFFCD4CD4F",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC285)"
     },
     {
         "route": "1A",
@@ -31485,7 +31485,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "904DEAF7441E3BB8",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC709)"
     },
     {
         "route": "1A",
@@ -32605,7 +32605,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "7F25B423230F5BEE",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC281)"
     },
     {
         "route": "203E",
@@ -32789,7 +32789,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "E9468D2AE13C3F39",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC706)"
     },
     {
         "route": "203E",
@@ -33557,7 +33557,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "448C1B8AECA89A6E",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC288)"
     },
     {
         "route": "21",
@@ -34221,7 +34221,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "67727D444E2EC42B",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC710)"
     },
     {
         "route": "213D",
@@ -34333,7 +34333,7 @@
         "service_type": "1",
         "seq": "28",
         "stop": "0AB522DFFCD4CD4F",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC285)"
     },
     {
         "route": "213D",
@@ -42845,7 +42845,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "67727D444E2EC42B",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC710)"
     },
     {
         "route": "24",
@@ -42965,7 +42965,7 @@
         "service_type": "1",
         "seq": "25",
         "stop": "BB172B3A5DAC85A4",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC282)"
     },
     {
         "route": "24",
@@ -43109,7 +43109,7 @@
         "service_type": "2",
         "seq": "10",
         "stop": "67727D444E2EC42B",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC710)"
     },
     {
         "route": "24",
@@ -43229,7 +43229,7 @@
         "service_type": "2",
         "seq": "25",
         "stop": "BB172B3A5DAC85A4",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC282)"
     },
     {
         "route": "24",
@@ -43429,7 +43429,7 @@
         "service_type": "3",
         "seq": "12",
         "stop": "67727D444E2EC42B",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC710)"
     },
     {
         "route": "24",
@@ -43549,7 +43549,7 @@
         "service_type": "3",
         "seq": "27",
         "stop": "BB172B3A5DAC85A4",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC282)"
     },
     {
         "route": "24",
@@ -52181,7 +52181,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "448C1B8AECA89A6E",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC288)"
     },
     {
         "route": "26",
@@ -52341,7 +52341,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "C5F7AF8D65B268E4",
-        "stop_name_tc": "九龍城轉車站- 富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC707)"
     },
     {
         "route": "26",
@@ -66069,7 +66069,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "67727D444E2EC42B",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC710)"
     },
     {
         "route": "27",
@@ -66189,7 +66189,7 @@
         "service_type": "1",
         "seq": "25",
         "stop": "448C1B8AECA89A6E",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC288)"
     },
     {
         "route": "27",
@@ -76781,7 +76781,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "A46B6AC99CE8722E",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC280)"
     },
     {
         "route": "275X",
@@ -82893,7 +82893,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "448C1B8AECA89A6E",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC288)"
     },
     {
         "route": "27X",
@@ -83213,7 +83213,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "E99D3F96A9F7B5EB",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC284)"
     },
     {
         "route": "28",
@@ -93293,7 +93293,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "E99D3F96A9F7B5EB",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC284)"
     },
     {
         "route": "293S",
@@ -93541,7 +93541,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "67727D444E2EC42B",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC710)"
     },
     {
         "route": "293S",
@@ -93853,7 +93853,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "448C1B8AECA89A6E",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC288)"
     },
     {
         "route": "296C",
@@ -94941,7 +94941,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "448C1B8AECA89A6E",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC288)"
     },
     {
         "route": "296P",
@@ -95221,7 +95221,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "20A7DAD5A8294964",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC287)"
     },
     {
         "route": "297",
@@ -96301,7 +96301,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "20A7DAD5A8294964",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC287)"
     },
     {
         "route": "298X",
@@ -96517,7 +96517,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "E9468D2AE13C3F39",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC706)"
     },
     {
         "route": "298X",
@@ -97573,7 +97573,7 @@
         "service_type": "1",
         "seq": "23",
         "stop": "E99D3F96A9F7B5EB",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC284)"
     },
     {
         "route": "2A",
@@ -97709,7 +97709,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "E9468D2AE13C3F39",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC706)"
     },
     {
         "route": "2A",
@@ -98245,7 +98245,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "0BB21609A0E86B96",
-        "stop_name_tc": "富豪東方酒店 (KC415)"
+        "stop_name_tc": "九龍城沙浦道 (KC415)"
     },
     {
         "route": "2D",
@@ -114349,7 +114349,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "7F25B423230F5BEE",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC281)"
     },
     {
         "route": "3B",
@@ -120181,7 +120181,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "B5BAED26BD56AC16",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC705)"
     },
     {
         "route": "42",
@@ -120733,7 +120733,7 @@
         "service_type": "1",
         "seq": "37",
         "stop": "448C1B8AECA89A6E",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC288)"
     },
     {
         "route": "42",
@@ -131037,7 +131037,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "7F25B423230F5BEE",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC281)"
     },
     {
         "route": "5",
@@ -136757,7 +136757,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "BB172B3A5DAC85A4",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC282)"
     },
     {
         "route": "5A",
@@ -137061,7 +137061,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "7F25B423230F5BEE",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC281)"
     },
     {
         "route": "5C",
@@ -137293,7 +137293,7 @@
         "service_type": "2",
         "seq": "18",
         "stop": "7F25B423230F5BEE",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC281)"
     },
     {
         "route": "5C",
@@ -147909,7 +147909,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "A46B6AC99CE8722E",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC280)"
     },
     {
         "route": "61X",
@@ -164005,7 +164005,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "E99D3F96A9F7B5EB",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC284)"
     },
     {
         "route": "6D",
@@ -164141,7 +164141,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "B5BAED26BD56AC16",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC705)"
     },
     {
         "route": "6D",
@@ -164621,7 +164621,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "E99D3F96A9F7B5EB",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC284)"
     },
     {
         "route": "6E",
@@ -165469,7 +165469,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "E99D3F96A9F7B5EB",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC284)"
     },
     {
         "route": "6P",
@@ -194461,7 +194461,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "A46B6AC99CE8722E",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC280)"
     },
     {
         "route": "85P",
@@ -195037,7 +195037,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "A46B6AC99CE8722E",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC280)"
     },
     {
         "route": "85X",
@@ -205845,7 +205845,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "BB172B3A5DAC85A4",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC282)"
     },
     {
         "route": "9",
@@ -206037,7 +206037,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "E9468D2AE13C3F39",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC706)"
     },
     {
         "route": "9",
@@ -212805,7 +212805,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "20A7DAD5A8294964",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC287)"
     },
     {
         "route": "92R",
@@ -212941,7 +212941,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "67727D444E2EC42B",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC710)"
     },
     {
         "route": "92R",
@@ -215301,7 +215301,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "20A7DAD5A8294964",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC287)"
     },
     {
         "route": "93K",
@@ -218613,7 +218613,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "20A7DAD5A8294964",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC287)"
     },
     {
         "route": "95",
@@ -218941,7 +218941,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "904DEAF7441E3BB8",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC709)"
     },
     {
         "route": "95",
@@ -229525,7 +229525,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "20A7DAD5A8294964",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC287)"
     },
     {
         "route": "98C",
@@ -229789,7 +229789,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "E9468D2AE13C3F39",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC706)"
     },
     {
         "route": "98C",
@@ -230853,7 +230853,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "20A7DAD5A8294964",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC287)"
     },
     {
         "route": "98E",
@@ -231861,7 +231861,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "20A7DAD5A8294964",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC287)"
     },
     {
         "route": "98S",
@@ -253453,7 +253453,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "D477F40E64BFF7D8",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC708)"
     },
     {
         "route": "HK1",
@@ -253693,7 +253693,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "7F25B423230F5BEE",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC281)"
     },
     {
         "route": "N116",
@@ -254429,7 +254429,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "D64C1350EE61A2AD",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC713)"
     },
     {
         "route": "N121",
@@ -254773,7 +254773,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "BB172B3A5DAC85A4",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC282)"
     },
     {
         "route": "N121",
@@ -257389,7 +257389,7 @@
         "service_type": "1",
         "seq": "24",
         "stop": "BB172B3A5DAC85A4",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC282)"
     },
     {
         "route": "N213",
@@ -258085,7 +258085,7 @@
         "service_type": "1",
         "seq": "27",
         "stop": "BB172B3A5DAC85A4",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC282)"
     },
     {
         "route": "N216",
@@ -258525,7 +258525,7 @@
         "service_type": "1",
         "seq": "27",
         "stop": "D64C1350EE61A2AD",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC713)"
     },
     {
         "route": "N216",
@@ -264645,7 +264645,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "BB172B3A5DAC85A4",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC282)"
     },
     {
         "route": "N293",
@@ -265205,7 +265205,7 @@
         "service_type": "1",
         "seq": "34",
         "stop": "67727D444E2EC42B",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC710)"
     },
     {
         "route": "N293",
@@ -279981,7 +279981,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "8BB1DE68DB8316D3",
-        "stop_name_tc": "九龍城轉車站-富豪東方酒店"
+        "stop_name_tc": "九龍城轉車站 (KC712)"
     },
     {
         "route": "R108",
