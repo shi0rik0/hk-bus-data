@@ -8580,6 +8580,28 @@
         "dest_sc": "中环(林士街)"
     },
     {
+        "route": "600X",
+        "bound": "I",
+        "service_type": "1",
+        "orig_en": "CENTRAL (RUMSEY STREET)",
+        "orig_tc": "中環(林士街)",
+        "orig_sc": "中环(林士街)",
+        "dest_en": "ANDERSON",
+        "dest_tc": "安達臣",
+        "dest_sc": "安达臣"
+    },
+    {
+        "route": "600X",
+        "bound": "O",
+        "service_type": "1",
+        "orig_en": "ANDERSON",
+        "orig_tc": "安達臣",
+        "orig_sc": "安达臣",
+        "dest_en": "CENTRAL (RUMSEY STREET)",
+        "dest_tc": "中環(林士街)",
+        "dest_sc": "中环(林士街)"
+    },
+    {
         "route": "601",
         "bound": "I",
         "service_type": "1",
@@ -16699,30 +16721,8 @@
     },
     {
         "route": "PB1",
-        "bound": "I",
-        "service_type": "2",
-        "orig_en": "Sheung Shui",
-        "orig_tc": "上水",
-        "orig_sc": "上水",
-        "dest_en": "GO PARK",
-        "dest_tc": "西沙 GO PARK",
-        "dest_sc": "西沙 GO PARK"
-    },
-    {
-        "route": "PB1",
         "bound": "O",
         "service_type": "1",
-        "orig_en": "GO PARK",
-        "orig_tc": "西沙 GO PARK",
-        "orig_sc": "西沙 GO PARK",
-        "dest_en": "Sheung Shui",
-        "dest_tc": "上水",
-        "dest_sc": "上水"
-    },
-    {
-        "route": "PB1",
-        "bound": "O",
-        "service_type": "2",
         "orig_en": "GO PARK",
         "orig_tc": "西沙 GO PARK",
         "orig_sc": "西沙 GO PARK",
@@ -16743,17 +16743,6 @@
     },
     {
         "route": "PB2",
-        "bound": "I",
-        "service_type": "2",
-        "orig_en": "KAI TAK (MUK YUEN STREET)",
-        "orig_tc": "啟德(沐元街)",
-        "orig_sc": "启德(沐元街)",
-        "dest_en": "GO PARK",
-        "dest_tc": "西沙 GO PARK",
-        "dest_sc": "西沙 GO PARK"
-    },
-    {
-        "route": "PB2",
         "bound": "O",
         "service_type": "1",
         "orig_en": "GO PARK",
@@ -16762,17 +16751,6 @@
         "dest_en": "Hong Kong Palace Museum",
         "dest_tc": "香港故宮文化博物館",
         "dest_sc": "香港故宫文化博物馆"
-    },
-    {
-        "route": "PB2",
-        "bound": "O",
-        "service_type": "2",
-        "orig_en": "GO PARK",
-        "orig_tc": "西沙 GO PARK",
-        "orig_sc": "西沙 GO PARK",
-        "dest_en": "KAI TAK (MUK YUEN STREET)",
-        "dest_tc": "啟德(沐元街)",
-        "dest_sc": "启德(沐元街)"
     },
     {
         "route": "PB3",
@@ -16787,30 +16765,8 @@
     },
     {
         "route": "PB3",
-        "bound": "I",
-        "service_type": "2",
-        "orig_en": "Kornhill Plaza",
-        "orig_tc": "康怡廣場",
-        "orig_sc": "康怡广场",
-        "dest_en": "Hong Kong Palace Museum",
-        "dest_tc": "香港故宮文化博物館",
-        "dest_sc": "香港故宫文化博物馆"
-    },
-    {
-        "route": "PB3",
         "bound": "O",
         "service_type": "1",
-        "orig_en": "Hong Kong Palace Museum",
-        "orig_tc": "香港故宮文化博物館",
-        "orig_sc": "香港故宫文化博物馆",
-        "dest_en": "Kornhill Plaza",
-        "dest_tc": "康怡廣場",
-        "dest_sc": "康怡广场"
-    },
-    {
-        "route": "PB3",
-        "bound": "O",
-        "service_type": "2",
         "orig_en": "Hong Kong Palace Museum",
         "orig_tc": "香港故宮文化博物館",
         "orig_sc": "香港故宫文化博物馆",
@@ -16831,30 +16787,8 @@
     },
     {
         "route": "PB4",
-        "bound": "I",
-        "service_type": "2",
-        "orig_en": "YOHO MALL (YUEN LONG)",
-        "orig_tc": "元朗 形點",
-        "orig_sc": "元朗 形点",
-        "dest_en": "HONG KONG PALACE MUSEUM",
-        "dest_tc": "香港故宮文化博物館",
-        "dest_sc": "香港故宫文化博物馆"
-    },
-    {
-        "route": "PB4",
         "bound": "O",
         "service_type": "1",
-        "orig_en": "HONG KONG PALACE MUSEUM",
-        "orig_tc": "香港故宮文化博物館",
-        "orig_sc": "香港故宫文化博物馆",
-        "dest_en": "YOHO MALL (YUEN LONG)",
-        "dest_tc": "元朗 形點",
-        "dest_sc": "元朗 形点"
-    },
-    {
-        "route": "PB4",
-        "bound": "O",
-        "service_type": "2",
         "orig_en": "HONG KONG PALACE MUSEUM",
         "orig_tc": "香港故宮文化博物館",
         "orig_sc": "香港故宫文化博物馆",
@@ -16875,30 +16809,8 @@
     },
     {
         "route": "PB5",
-        "bound": "I",
-        "service_type": "2",
-        "orig_en": "DISCOVERY BAY PLAZA",
-        "orig_tc": "愉景廣場",
-        "orig_sc": "愉景广场",
-        "dest_en": "HONG KONG PALACE MUSEUM",
-        "dest_tc": "香港故宮文化博物館",
-        "dest_sc": "香港故宫文化博物馆"
-    },
-    {
-        "route": "PB5",
         "bound": "O",
         "service_type": "1",
-        "orig_en": "HONG KONG PALACE MUSEUM",
-        "orig_tc": "香港故宮文化博物館",
-        "orig_sc": "香港故宫文化博物馆",
-        "dest_en": "DISCOVERY BAY PLAZA",
-        "dest_tc": "愉景廣場",
-        "dest_sc": "愉景广场"
-    },
-    {
-        "route": "PB5",
-        "bound": "O",
-        "service_type": "2",
         "orig_en": "HONG KONG PALACE MUSEUM",
         "orig_tc": "香港故宮文化博物館",
         "orig_sc": "香港故宫文化博物馆",

@@ -139672,6 +139672,382 @@
         "stop_name_tc": "中環(林士街)總站 (CW900)"
     },
     {
+        "route": "600X",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "1",
+        "stop": "E959938F3B4FF318",
+        "stop_name_tc": "中環(林士街)總站 (CW901)"
+    },
+    {
+        "route": "600X",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "2",
+        "stop": "8379C4B1265C27F7",
+        "stop_name_tc": "怡和大廈 (CW112)"
+    },
+    {
+        "route": "600X",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "3",
+        "stop": "EFFD42714E298795",
+        "stop_name_tc": "大會堂 (CW114)"
+    },
+    {
+        "route": "600X",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "4",
+        "stop": "3FCC00D1D01ACD28",
+        "stop_name_tc": "金鐘站 (CW166)"
+    },
+    {
+        "route": "600X",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "5",
+        "stop": "A056B01075AF64CD",
+        "stop_name_tc": "盧押道 (WC211)"
+    },
+    {
+        "route": "600X",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "6",
+        "stop": "2641DD1F88AF7A01",
+        "stop_name_tc": "菲林明道 (WC212)"
+    },
+    {
+        "route": "600X",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "7",
+        "stop": "B241331CC87A36D4",
+        "stop_name_tc": "史釗域道 (WC215)"
+    },
+    {
+        "route": "600X",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "8",
+        "stop": "B4F3F0D547580CE2",
+        "stop_name_tc": "杜老誌道 (WC218)"
+    },
+    {
+        "route": "600X",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "9",
+        "stop": "A0E544B7B849C7CC",
+        "stop_name_tc": "灣仔消防局 (WC221)"
+    },
+    {
+        "route": "600X",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "10",
+        "stop": "AAD91FB98A0825DF",
+        "stop_name_tc": "百德新街 (WC230)"
+    },
+    {
+        "route": "600X",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "11",
+        "stop": "0B8392BEB388E9E7",
+        "stop_name_tc": "維多利亞公園 (ED311)"
+    },
+    {
+        "route": "600X",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "12",
+        "stop": "42E86F97FAC8F719",
+        "stop_name_tc": "興發街 (ED320)"
+    },
+    {
+        "route": "600X",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "13",
+        "stop": "D678B3364437D16B",
+        "stop_name_tc": "東隧轉車站 (LT101)"
+    },
+    {
+        "route": "600X",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "14",
+        "stop": "2EF9764BE18FC290",
+        "stop_name_tc": "藍田站 (LT607)"
+    },
+    {
+        "route": "600X",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "15",
+        "stop": "ED8812E232F6958A",
+        "stop_name_tc": "觀塘警署 (LT190)"
+    },
+    {
+        "route": "600X",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "16",
+        "stop": "1FBAAE29AF1CA50E",
+        "stop_name_tc": "秀暉樓 (KT501)"
+    },
+    {
+        "route": "600X",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "17",
+        "stop": "466BC4C1908A1A06",
+        "stop_name_tc": "寶達邨轉車站 (KT191)"
+    },
+    {
+        "route": "600X",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "18",
+        "stop": "AA52228890817D12",
+        "stop_name_tc": "善達樓 (AN100)"
+    },
+    {
+        "route": "600X",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "19",
+        "stop": "389B25932AD10BA3",
+        "stop_name_tc": "愛達樓 (AN202)"
+    },
+    {
+        "route": "600X",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "20",
+        "stop": "FF68304E8C1FF0B1",
+        "stop_name_tc": "錦泰樓 (AN204)"
+    },
+    {
+        "route": "600X",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "21",
+        "stop": "1FE4FBC2DB90CF80",
+        "stop_name_tc": "安健道 (AN630)"
+    },
+    {
+        "route": "600X",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "22",
+        "stop": "1FA045AFCD07D796",
+        "stop_name_tc": "安秀苑 (AN414)"
+    },
+    {
+        "route": "600X",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "23",
+        "stop": "0BACBE7BF15833EC",
+        "stop_name_tc": "安麗苑 (AN604)"
+    },
+    {
+        "route": "600X",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "24",
+        "stop": "CABB1AAE412C6049",
+        "stop_name_tc": "安柏苑 (AN610)"
+    },
+    {
+        "route": "600X",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "25",
+        "stop": "3F64427262A691C1",
+        "stop_name_tc": "安楹苑 (AN620)"
+    },
+    {
+        "route": "600X",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "26",
+        "stop": "10D72CAA8930BA36",
+        "stop_name_tc": "安達臣總站 (AN913)"
+    },
+    {
+        "route": "600X",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "1",
+        "stop": "10D72CAA8930BA36",
+        "stop_name_tc": "安達臣總站 (AN913)"
+    },
+    {
+        "route": "600X",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "2",
+        "stop": "D456864A2E0933B2",
+        "stop_name_tc": "安楹苑 (AN400)"
+    },
+    {
+        "route": "600X",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "3",
+        "stop": "FA9F1DB955870000",
+        "stop_name_tc": "安柏苑 (AN410)"
+    },
+    {
+        "route": "600X",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "4",
+        "stop": "1DB8D58C023AFD4D",
+        "stop_name_tc": "安秀苑 (AN415)"
+    },
+    {
+        "route": "600X",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "5",
+        "stop": "DFAA70BC93BC9108",
+        "stop_name_tc": "安麗苑 (AN605)"
+    },
+    {
+        "route": "600X",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "6",
+        "stop": "8DA8A378C47A1371",
+        "stop_name_tc": "安健道 (AN301)"
+    },
+    {
+        "route": "600X",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "7",
+        "stop": "9CC30C6EE35D0CE8",
+        "stop_name_tc": "錦泰樓 (AN642)"
+    },
+    {
+        "route": "600X",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "8",
+        "stop": "057B2DCE8BE58FFA",
+        "stop_name_tc": "愛達樓 (AN644)"
+    },
+    {
+        "route": "600X",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "9",
+        "stop": "4A91A327C9FC745E",
+        "stop_name_tc": "安達邨 (AN646)"
+    },
+    {
+        "route": "600X",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "10",
+        "stop": "39AB774DC35311C0",
+        "stop_name_tc": "寶達邨轉車站 (KT458)"
+    },
+    {
+        "route": "600X",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "11",
+        "stop": "25863CD2A364E72F",
+        "stop_name_tc": "秀暉樓 (KT300)"
+    },
+    {
+        "route": "600X",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "12",
+        "stop": "5BDD5F9F4C89D3E1",
+        "stop_name_tc": "藍田站 (LT909)"
+    },
+    {
+        "route": "600X",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "13",
+        "stop": "DBF0C952CAA654B5",
+        "stop_name_tc": "東隧轉車站 (LT410)"
+    },
+    {
+        "route": "600X",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "14",
+        "stop": "F948129B464BB963",
+        "stop_name_tc": "景隆街 (WC712)"
+    },
+    {
+        "route": "600X",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "15",
+        "stop": "B7F8CCEBD9365739",
+        "stop_name_tc": "國際調解院 (WC721)"
+    },
+    {
+        "route": "600X",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "16",
+        "stop": "B500B9F38691F5AB",
+        "stop_name_tc": "分域街 (WC722)"
+    },
+    {
+        "route": "600X",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "17",
+        "stop": "55371F963B58DC5B",
+        "stop_name_tc": "海富中心 (CW750)"
+    },
+    {
+        "route": "600X",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "18",
+        "stop": "11CE1FD8440A89D3",
+        "stop_name_tc": "皇后像廣場 (CW775)"
+    },
+    {
+        "route": "600X",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "19",
+        "stop": "4AA350AD8FFF4786",
+        "stop_name_tc": "砵典乍街 (CW776)"
+    },
+    {
+        "route": "600X",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "20",
+        "stop": "B8FBAC0A201E0F2C",
+        "stop_name_tc": "機利文街 (CW778)"
+    },
+    {
+        "route": "600X",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "21",
+        "stop": "6A0B2E48433AE858",
+        "stop_name_tc": "中環(林士街)總站 (CW900)"
+    },
+    {
         "route": "601",
         "bound": "I",
         "service_type": "1",
@@ -279017,46 +279393,6 @@
     },
     {
         "route": "PB1",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "1",
-        "stop": "F02A1646BD4FC0E2",
-        "stop_name_tc": "彩蒲苑彩碧閣 (ND105a)"
-    },
-    {
-        "route": "PB1",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "2",
-        "stop": "2B011CC82C51D518",
-        "stop_name_tc": "運頭塘邨"
-    },
-    {
-        "route": "PB1",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "3",
-        "stop": "B1882202E2B36620",
-        "stop_name_tc": "白石角(科研路)"
-    },
-    {
-        "route": "PB1",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "4",
-        "stop": "8C90768E30E981C6",
-        "stop_name_tc": "沙田大會堂"
-    },
-    {
-        "route": "PB1",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "5",
-        "stop": "8B9E121BB71771F4",
-        "stop_name_tc": "西沙 GO PARK"
-    },
-    {
-        "route": "PB1",
         "bound": "O",
         "service_type": "1",
         "seq": "1",
@@ -279112,46 +279448,6 @@
         "stop_name_tc": "彩蒲苑彩碧閣 (ND105a)"
     },
     {
-        "route": "PB1",
-        "bound": "O",
-        "service_type": "2",
-        "seq": "1",
-        "stop": "8B9E121BB71771F4",
-        "stop_name_tc": "西沙 GO PARK"
-    },
-    {
-        "route": "PB1",
-        "bound": "O",
-        "service_type": "2",
-        "seq": "2",
-        "stop": "8C90768E30E981C6",
-        "stop_name_tc": "沙田大會堂"
-    },
-    {
-        "route": "PB1",
-        "bound": "O",
-        "service_type": "2",
-        "seq": "3",
-        "stop": "B1882202E2B36620",
-        "stop_name_tc": "白石角(科研路)"
-    },
-    {
-        "route": "PB1",
-        "bound": "O",
-        "service_type": "2",
-        "seq": "4",
-        "stop": "2B011CC82C51D518",
-        "stop_name_tc": "運頭塘邨"
-    },
-    {
-        "route": "PB1",
-        "bound": "O",
-        "service_type": "2",
-        "seq": "5",
-        "stop": "F02A1646BD4FC0E2",
-        "stop_name_tc": "彩蒲苑彩碧閣 (ND105a)"
-    },
-    {
         "route": "PB2",
         "bound": "I",
         "service_type": "1",
@@ -279172,70 +279468,38 @@
         "bound": "I",
         "service_type": "1",
         "seq": "3",
-        "stop": "9252A494500A05C9",
-        "stop_name_tc": "觀塘碼頭 (基業街)"
+        "stop": "E7E757D7EF91AEC6",
+        "stop_name_tc": "觀塘The ANGLE"
     },
     {
         "route": "PB2",
         "bound": "I",
         "service_type": "1",
         "seq": "4",
-        "stop": "06CC6423AA236B72",
-        "stop_name_tc": "將軍澳(唐俊街)"
+        "stop": "8C26363C85EF7405",
+        "stop_name_tc": "九龍東帝苑酒店"
     },
     {
         "route": "PB2",
         "bound": "I",
         "service_type": "1",
         "seq": "5",
-        "stop": "064B06C60E5EE126",
-        "stop_name_tc": "美裕街"
+        "stop": "06CC6423AA236B72",
+        "stop_name_tc": "將軍澳(唐俊街)"
     },
     {
         "route": "PB2",
         "bound": "I",
         "service_type": "1",
         "seq": "6",
-        "stop": "8B9E121BB71771F4",
-        "stop_name_tc": "西沙 GO PARK"
-    },
-    {
-        "route": "PB2",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "1",
-        "stop": "029C4172D953DAF5",
-        "stop_name_tc": "啟德(沐元街)"
-    },
-    {
-        "route": "PB2",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "2",
-        "stop": "9252A494500A05C9",
-        "stop_name_tc": "觀塘碼頭 (基業街)"
-    },
-    {
-        "route": "PB2",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "3",
-        "stop": "06CC6423AA236B72",
-        "stop_name_tc": "將軍澳(唐俊街)"
-    },
-    {
-        "route": "PB2",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "4",
         "stop": "064B06C60E5EE126",
         "stop_name_tc": "美裕街"
     },
     {
         "route": "PB2",
         "bound": "I",
-        "service_type": "2",
-        "seq": "5",
+        "service_type": "1",
+        "seq": "7",
         "stop": "8B9E121BB71771F4",
         "stop_name_tc": "西沙 GO PARK"
     },
@@ -279268,116 +279532,28 @@
         "bound": "O",
         "service_type": "1",
         "seq": "4",
-        "stop": "9252A494500A05C9",
-        "stop_name_tc": "觀塘碼頭 (基業街)"
+        "stop": "8C26363C85EF7405",
+        "stop_name_tc": "九龍東帝苑酒店"
     },
     {
         "route": "PB2",
         "bound": "O",
         "service_type": "1",
         "seq": "5",
-        "stop": "029C4172D953DAF5",
-        "stop_name_tc": "啟德(沐元街)"
+        "stop": "E7E757D7EF91AEC6",
+        "stop_name_tc": "觀塘The ANGLE"
     },
     {
         "route": "PB2",
         "bound": "O",
         "service_type": "1",
         "seq": "6",
-        "stop": "F050648C108571ED",
-        "stop_name_tc": "香港故宮文化博物館"
-    },
-    {
-        "route": "PB2",
-        "bound": "O",
-        "service_type": "2",
-        "seq": "1",
-        "stop": "8B9E121BB71771F4",
-        "stop_name_tc": "西沙 GO PARK"
-    },
-    {
-        "route": "PB2",
-        "bound": "O",
-        "service_type": "2",
-        "seq": "2",
-        "stop": "064B06C60E5EE126",
-        "stop_name_tc": "美裕街"
-    },
-    {
-        "route": "PB2",
-        "bound": "O",
-        "service_type": "2",
-        "seq": "3",
-        "stop": "06CC6423AA236B72",
-        "stop_name_tc": "將軍澳(唐俊街)"
-    },
-    {
-        "route": "PB2",
-        "bound": "O",
-        "service_type": "2",
-        "seq": "4",
-        "stop": "9252A494500A05C9",
-        "stop_name_tc": "觀塘碼頭 (基業街)"
-    },
-    {
-        "route": "PB2",
-        "bound": "O",
-        "service_type": "2",
-        "seq": "5",
         "stop": "029C4172D953DAF5",
         "stop_name_tc": "啟德(沐元街)"
     },
     {
-        "route": "PB3",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "1",
-        "stop": "788EE9A16DCF784E",
-        "stop_name_tc": "太古城(康怡廣埸)"
-    },
-    {
-        "route": "PB3",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "2",
-        "stop": "910D55DA18BCCE2E",
-        "stop_name_tc": "民新街"
-    },
-    {
-        "route": "PB3",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "3",
-        "stop": "90C2A33012A6F44E",
-        "stop_name_tc": "渣華道"
-    },
-    {
-        "route": "PB3",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "4",
-        "stop": "E33098F43CF205B8",
-        "stop_name_tc": "中環龍和道"
-    },
-    {
-        "route": "PB3",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "5",
-        "stop": "232DC1B2BE92C86F",
-        "stop_name_tc": "灣仔海濱"
-    },
-    {
-        "route": "PB3",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "6",
-        "stop": "D3BE07119A817573",
-        "stop_name_tc": "正街(西行)"
-    },
-    {
-        "route": "PB3",
-        "bound": "I",
+        "route": "PB2",
+        "bound": "O",
         "service_type": "1",
         "seq": "7",
         "stop": "F050648C108571ED",
@@ -279386,7 +279562,7 @@
     {
         "route": "PB3",
         "bound": "I",
-        "service_type": "2",
+        "service_type": "1",
         "seq": "1",
         "stop": "788EE9A16DCF784E",
         "stop_name_tc": "太古城(康怡廣埸)"
@@ -279394,7 +279570,7 @@
     {
         "route": "PB3",
         "bound": "I",
-        "service_type": "2",
+        "service_type": "1",
         "seq": "2",
         "stop": "910D55DA18BCCE2E",
         "stop_name_tc": "民新街"
@@ -279402,15 +279578,15 @@
     {
         "route": "PB3",
         "bound": "I",
-        "service_type": "2",
+        "service_type": "1",
         "seq": "3",
         "stop": "90C2A33012A6F44E",
-        "stop_name_tc": "渣華道"
+        "stop_name_tc": "香港維港凱悅尚萃酒店"
     },
     {
         "route": "PB3",
         "bound": "I",
-        "service_type": "2",
+        "service_type": "1",
         "seq": "4",
         "stop": "E33098F43CF205B8",
         "stop_name_tc": "中環龍和道"
@@ -279418,7 +279594,7 @@
     {
         "route": "PB3",
         "bound": "I",
-        "service_type": "2",
+        "service_type": "1",
         "seq": "5",
         "stop": "232DC1B2BE92C86F",
         "stop_name_tc": "灣仔海濱"
@@ -279426,7 +279602,7 @@
     {
         "route": "PB3",
         "bound": "I",
-        "service_type": "2",
+        "service_type": "1",
         "seq": "6",
         "stop": "D3BE07119A817573",
         "stop_name_tc": "正街(西行)"
@@ -279434,7 +279610,7 @@
     {
         "route": "PB3",
         "bound": "I",
-        "service_type": "2",
+        "service_type": "1",
         "seq": "7",
         "stop": "F050648C108571ED",
         "stop_name_tc": "香港故宮文化博物館"
@@ -279477,7 +279653,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "90C2A33012A6F44E",
-        "stop_name_tc": "渣華道"
+        "stop_name_tc": "香港維港凱悅尚萃酒店"
     },
     {
         "route": "PB3",
@@ -279491,62 +279667,6 @@
         "route": "PB3",
         "bound": "O",
         "service_type": "1",
-        "seq": "7",
-        "stop": "788EE9A16DCF784E",
-        "stop_name_tc": "太古城(康怡廣埸)"
-    },
-    {
-        "route": "PB3",
-        "bound": "O",
-        "service_type": "2",
-        "seq": "1",
-        "stop": "F050648C108571ED",
-        "stop_name_tc": "香港故宮文化博物館"
-    },
-    {
-        "route": "PB3",
-        "bound": "O",
-        "service_type": "2",
-        "seq": "2",
-        "stop": "A96AF6278C46DB54",
-        "stop_name_tc": "正街"
-    },
-    {
-        "route": "PB3",
-        "bound": "O",
-        "service_type": "2",
-        "seq": "3",
-        "stop": "E33098F43CF205B8",
-        "stop_name_tc": "中環龍和道"
-    },
-    {
-        "route": "PB3",
-        "bound": "O",
-        "service_type": "2",
-        "seq": "4",
-        "stop": "232DC1B2BE92C86F",
-        "stop_name_tc": "灣仔海濱"
-    },
-    {
-        "route": "PB3",
-        "bound": "O",
-        "service_type": "2",
-        "seq": "5",
-        "stop": "90C2A33012A6F44E",
-        "stop_name_tc": "渣華道"
-    },
-    {
-        "route": "PB3",
-        "bound": "O",
-        "service_type": "2",
-        "seq": "6",
-        "stop": "9397AF37FDBD2908",
-        "stop_name_tc": "北角官立小學"
-    },
-    {
-        "route": "PB3",
-        "bound": "O",
-        "service_type": "2",
         "seq": "7",
         "stop": "788EE9A16DCF784E",
         "stop_name_tc": "太古城(康怡廣埸)"
@@ -279601,38 +279721,6 @@
     },
     {
         "route": "PB4",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "1",
-        "stop": "F493236404A4FABF",
-        "stop_name_tc": "元朗 形點"
-    },
-    {
-        "route": "PB4",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "2",
-        "stop": "0678C85600B1A019",
-        "stop_name_tc": "屯門站(V City)"
-    },
-    {
-        "route": "PB4",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "3",
-        "stop": "321060BAE1447BEE",
-        "stop_name_tc": "荃灣站"
-    },
-    {
-        "route": "PB4",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "4",
-        "stop": "F050648C108571ED",
-        "stop_name_tc": "香港故宮文化博物館"
-    },
-    {
-        "route": "PB4",
         "bound": "O",
         "service_type": "1",
         "seq": "1",
@@ -279680,38 +279768,6 @@
         "stop_name_tc": "元朗 形點"
     },
     {
-        "route": "PB4",
-        "bound": "O",
-        "service_type": "2",
-        "seq": "1",
-        "stop": "F050648C108571ED",
-        "stop_name_tc": "香港故宮文化博物館"
-    },
-    {
-        "route": "PB4",
-        "bound": "O",
-        "service_type": "2",
-        "seq": "2",
-        "stop": "321060BAE1447BEE",
-        "stop_name_tc": "荃灣站"
-    },
-    {
-        "route": "PB4",
-        "bound": "O",
-        "service_type": "2",
-        "seq": "3",
-        "stop": "0678C85600B1A019",
-        "stop_name_tc": "屯門站(V City)"
-    },
-    {
-        "route": "PB4",
-        "bound": "O",
-        "service_type": "2",
-        "seq": "4",
-        "stop": "F493236404A4FABF",
-        "stop_name_tc": "元朗 形點"
-    },
-    {
         "route": "PB5",
         "bound": "I",
         "service_type": "1",
@@ -279761,54 +279817,6 @@
     },
     {
         "route": "PB5",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "1",
-        "stop": "E4415E645A9914EF",
-        "stop_name_tc": "愉景廣場"
-    },
-    {
-        "route": "PB5",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "2",
-        "stop": "98C945957285E149",
-        "stop_name_tc": "愉景北商場"
-    },
-    {
-        "route": "PB5",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "3",
-        "stop": "9774D8AAAD859409",
-        "stop_name_tc": "馬灣(珀欣路)"
-    },
-    {
-        "route": "PB5",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "4",
-        "stop": "A31DD8C4FD6740D4",
-        "stop_name_tc": "青衣SPCA"
-    },
-    {
-        "route": "PB5",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "5",
-        "stop": "045FB4EAE4FE52D6",
-        "stop_name_tc": "南昌站 (V WALK)"
-    },
-    {
-        "route": "PB5",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "6",
-        "stop": "F050648C108571ED",
-        "stop_name_tc": "香港故宮文化博物館"
-    },
-    {
-        "route": "PB5",
         "bound": "O",
         "service_type": "1",
         "seq": "1",
@@ -279851,54 +279859,6 @@
         "route": "PB5",
         "bound": "O",
         "service_type": "1",
-        "seq": "6",
-        "stop": "E4415E645A9914EF",
-        "stop_name_tc": "愉景廣場"
-    },
-    {
-        "route": "PB5",
-        "bound": "O",
-        "service_type": "2",
-        "seq": "1",
-        "stop": "F050648C108571ED",
-        "stop_name_tc": "香港故宮文化博物館"
-    },
-    {
-        "route": "PB5",
-        "bound": "O",
-        "service_type": "2",
-        "seq": "2",
-        "stop": "045FB4EAE4FE52D6",
-        "stop_name_tc": "南昌站 (V WALK)"
-    },
-    {
-        "route": "PB5",
-        "bound": "O",
-        "service_type": "2",
-        "seq": "3",
-        "stop": "A31DD8C4FD6740D4",
-        "stop_name_tc": "青衣SPCA"
-    },
-    {
-        "route": "PB5",
-        "bound": "O",
-        "service_type": "2",
-        "seq": "4",
-        "stop": "9774D8AAAD859409",
-        "stop_name_tc": "馬灣(珀欣路)"
-    },
-    {
-        "route": "PB5",
-        "bound": "O",
-        "service_type": "2",
-        "seq": "5",
-        "stop": "B26B63709D8A7DFA",
-        "stop_name_tc": "愉景北商場"
-    },
-    {
-        "route": "PB5",
-        "bound": "O",
-        "service_type": "2",
         "seq": "6",
         "stop": "E4415E645A9914EF",
         "stop_name_tc": "愉景廣場"
