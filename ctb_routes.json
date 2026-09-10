@@ -552,11 +552,11 @@
     {
         "co": "CTB",
         "route": "22D",
-        "orig_tc": "啟德站",
-        "orig_en": "Kai Tak Station",
+        "orig_tc": "啟德站 (A 出口)",
+        "orig_en": "Kai Tak Station (Exit A)",
         "dest_tc": "啟德跑道區",
         "dest_en": "Kai Tak Runway Area",
-        "orig_sc": "启德站",
+        "orig_sc": "启德站 (A 出口)",
         "dest_sc": "启德跑道区"
     },
     {
@@ -584,10 +584,10 @@
         "route": "22X",
         "orig_tc": "維港1號",
         "orig_en": "One Victoria",
-        "dest_tc": "啟德站",
-        "dest_en": "Kai Tak Station",
+        "dest_tc": "啟德站 (A 出口)",
+        "dest_en": "Kai Tak Station (Exit A)",
         "orig_sc": "维港1号",
-        "dest_sc": "启德站"
+        "dest_sc": "启德站 (A 出口)"
     },
     {
         "co": "CTB",
