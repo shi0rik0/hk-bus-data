@@ -17517,7 +17517,7 @@
         "service_type": "1",
         "seq": "30",
         "stop": "D9563FD5B8CB0CEF",
-        "stop_name_tc": "愛達樓 (AN203)"
+        "stop_name_tc": "安達邨愛達樓 (AN203)"
     },
     {
         "route": "11X",
@@ -17525,7 +17525,7 @@
         "service_type": "1",
         "seq": "31",
         "stop": "FF68304E8C1FF0B1",
-        "stop_name_tc": "錦泰樓 (AN204)"
+        "stop_name_tc": "安泰邨錦泰樓 (AN204)"
     },
     {
         "route": "11X",
@@ -17557,7 +17557,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "51657C54B75A5304",
-        "stop_name_tc": "愛達樓 (AN643)"
+        "stop_name_tc": "安達邨愛達樓 (AN643)"
     },
     {
         "route": "11X",
@@ -22357,7 +22357,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "BF4620B0CD0B9D45",
-        "stop_name_tc": "利恒樓 (KT421)"
+        "stop_name_tc": "順利邨利恒樓 (KT421)"
     },
     {
         "route": "14D",
@@ -22365,7 +22365,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "484F835517494767",
-        "stop_name_tc": "安逸樓 (KT422)"
+        "stop_name_tc": "順安邨安逸樓 (KT422)"
     },
     {
         "route": "14D",
@@ -22381,7 +22381,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "E308599CF719FE37",
-        "stop_name_tc": "天韻樓 (KT430)"
+        "stop_name_tc": "順天邨天韻樓 (KT430)"
     },
     {
         "route": "14D",
@@ -22621,7 +22621,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "CEFFBCE5203D152B",
-        "stop_name_tc": "利業樓 (KT179)"
+        "stop_name_tc": "順利邨利業樓 (KT179)"
     },
     {
         "route": "14D",
@@ -22629,7 +22629,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "8571BCC3A3E4006E",
-        "stop_name_tc": "利恒樓 (KT182)"
+        "stop_name_tc": "順利邨利恒樓 (KT182)"
     },
     {
         "route": "14D",
@@ -22677,7 +22677,7 @@
         "service_type": "2",
         "seq": "2",
         "stop": "ECBD286CC9ED9549",
-        "stop_name_tc": "龍栢閣 (LT121)"
+        "stop_name_tc": "康栢苑龍栢閣 (LT121)"
     },
     {
         "route": "14D",
@@ -22693,7 +22693,7 @@
         "service_type": "2",
         "seq": "4",
         "stop": "FA246A7F26F12EDD",
-        "stop_name_tc": "德康樓 (LT125)"
+        "stop_name_tc": "德田邨德康樓 (LT125)"
     },
     {
         "route": "14D",
@@ -22701,7 +22701,7 @@
         "service_type": "2",
         "seq": "5",
         "stop": "5ACB622335DF5AE7",
-        "stop_name_tc": "德敬樓 (LT127)"
+        "stop_name_tc": "德田邨德敬樓 (LT127)"
     },
     {
         "route": "14D",
@@ -22781,7 +22781,7 @@
         "service_type": "2",
         "seq": "15",
         "stop": "CEFFBCE5203D152B",
-        "stop_name_tc": "利業樓 (KT179)"
+        "stop_name_tc": "順利邨利業樓 (KT179)"
     },
     {
         "route": "14D",
@@ -22789,7 +22789,7 @@
         "service_type": "2",
         "seq": "16",
         "stop": "8571BCC3A3E4006E",
-        "stop_name_tc": "利恒樓 (KT182)"
+        "stop_name_tc": "順利邨利恒樓 (KT182)"
     },
     {
         "route": "14D",
@@ -22853,7 +22853,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "CF18D17DE7B40350",
-        "stop_name_tc": "金栢閣 (LT120)"
+        "stop_name_tc": "康栢苑金栢閣 (LT120)"
     },
     {
         "route": "14H",
@@ -22861,7 +22861,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "ECBD286CC9ED9549",
-        "stop_name_tc": "龍栢閣 (LT121)"
+        "stop_name_tc": "康栢苑龍栢閣 (LT121)"
     },
     {
         "route": "14H",
@@ -22877,7 +22877,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "FA246A7F26F12EDD",
-        "stop_name_tc": "德康樓 (LT125)"
+        "stop_name_tc": "德田邨德康樓 (LT125)"
     },
     {
         "route": "14H",
@@ -22885,7 +22885,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "5ACB622335DF5AE7",
-        "stop_name_tc": "德敬樓 (LT127)"
+        "stop_name_tc": "德田邨德敬樓 (LT127)"
     },
     {
         "route": "14H",
@@ -22989,7 +22989,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "10A6BEC26CE598E8",
-        "stop_name_tc": "利業樓 (KT181)"
+        "stop_name_tc": "順利邨利業樓 (KT181)"
     },
     {
         "route": "14H",
@@ -22997,7 +22997,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "8571BCC3A3E4006E",
-        "stop_name_tc": "利恒樓 (KT182)"
+        "stop_name_tc": "順利邨利恒樓 (KT182)"
     },
     {
         "route": "14H",
@@ -23117,7 +23117,7 @@
         "service_type": "1",
         "seq": "37",
         "stop": "543FD8B6C65D1C4C",
-        "stop_name_tc": "德樂樓 (LT511)"
+        "stop_name_tc": "德田邨德樂樓 (LT511)"
     },
     {
         "route": "14H",
@@ -23125,7 +23125,7 @@
         "service_type": "1",
         "seq": "38",
         "stop": "316BB2C947568585",
-        "stop_name_tc": "德隆樓 (LT512)"
+        "stop_name_tc": "德田邨德隆樓 (LT512)"
     },
     {
         "route": "14H",
@@ -23133,7 +23133,7 @@
         "service_type": "1",
         "seq": "39",
         "stop": "3E862B92873F5811",
-        "stop_name_tc": "廣靖樓 (LT513)"
+        "stop_name_tc": "德田邨廣靖樓 (LT513)"
     },
     {
         "route": "14H",
@@ -23709,7 +23709,7 @@
         "service_type": "1",
         "seq": "28",
         "stop": "EF17FDCDDF170D38",
-        "stop_name_tc": "平真樓 (LT150)"
+        "stop_name_tc": "平田邨平真樓 (LT150)"
     },
     {
         "route": "15",
@@ -24197,7 +24197,7 @@
         "service_type": "1",
         "seq": "32",
         "stop": "EF17FDCDDF170D38",
-        "stop_name_tc": "平真樓 (LT150)"
+        "stop_name_tc": "平田邨平真樓 (LT150)"
     },
     {
         "route": "15A",
@@ -24597,7 +24597,7 @@
         "service_type": "1",
         "seq": "23",
         "stop": "543FD8B6C65D1C4C",
-        "stop_name_tc": "德樂樓 (LT511)"
+        "stop_name_tc": "德田邨德樂樓 (LT511)"
     },
     {
         "route": "15X",
@@ -24605,7 +24605,7 @@
         "service_type": "1",
         "seq": "24",
         "stop": "316BB2C947568585",
-        "stop_name_tc": "德隆樓 (LT512)"
+        "stop_name_tc": "德田邨德隆樓 (LT512)"
     },
     {
         "route": "15X",
@@ -24613,7 +24613,7 @@
         "service_type": "1",
         "seq": "25",
         "stop": "3E862B92873F5811",
-        "stop_name_tc": "廣靖樓 (LT513)"
+        "stop_name_tc": "德田邨廣靖樓 (LT513)"
     },
     {
         "route": "15X",
@@ -24645,7 +24645,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "736E84A8060D2AB9",
-        "stop_name_tc": "龍栢閣 (LT122)"
+        "stop_name_tc": "康栢苑龍栢閣 (LT122)"
     },
     {
         "route": "15X",
@@ -24661,7 +24661,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "6B9496267BEFF02A",
-        "stop_name_tc": "德康樓 (LT126)"
+        "stop_name_tc": "德田邨德康樓 (LT126)"
     },
     {
         "route": "15X",
@@ -24669,7 +24669,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "5ACB622335DF5AE7",
-        "stop_name_tc": "德敬樓 (LT127)"
+        "stop_name_tc": "德田邨德敬樓 (LT127)"
     },
     {
         "route": "15X",
@@ -25021,7 +25021,7 @@
         "service_type": "1",
         "seq": "28",
         "stop": "543FD8B6C65D1C4C",
-        "stop_name_tc": "德樂樓 (LT511)"
+        "stop_name_tc": "德田邨德樂樓 (LT511)"
     },
     {
         "route": "16",
@@ -25029,7 +25029,7 @@
         "service_type": "1",
         "seq": "29",
         "stop": "316BB2C947568585",
-        "stop_name_tc": "德隆樓 (LT512)"
+        "stop_name_tc": "德田邨德隆樓 (LT512)"
     },
     {
         "route": "16",
@@ -25037,7 +25037,7 @@
         "service_type": "1",
         "seq": "30",
         "stop": "3E862B92873F5811",
-        "stop_name_tc": "廣靖樓 (LT513)"
+        "stop_name_tc": "德田邨廣靖樓 (LT513)"
     },
     {
         "route": "16",
@@ -25069,7 +25069,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "ECBD286CC9ED9549",
-        "stop_name_tc": "龍栢閣 (LT121)"
+        "stop_name_tc": "康栢苑龍栢閣 (LT121)"
     },
     {
         "route": "16",
@@ -25085,7 +25085,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "FA246A7F26F12EDD",
-        "stop_name_tc": "德康樓 (LT125)"
+        "stop_name_tc": "德田邨德康樓 (LT125)"
     },
     {
         "route": "16",
@@ -25093,7 +25093,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "5ACB622335DF5AE7",
-        "stop_name_tc": "德敬樓 (LT127)"
+        "stop_name_tc": "德田邨德敬樓 (LT127)"
     },
     {
         "route": "16",
@@ -26085,7 +26085,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "543FD8B6C65D1C4C",
-        "stop_name_tc": "德樂樓 (LT511)"
+        "stop_name_tc": "德田邨德樂樓 (LT511)"
     },
     {
         "route": "16X",
@@ -26093,7 +26093,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "316BB2C947568585",
-        "stop_name_tc": "德隆樓 (LT512)"
+        "stop_name_tc": "德田邨德隆樓 (LT512)"
     },
     {
         "route": "16X",
@@ -26101,7 +26101,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "3E862B92873F5811",
-        "stop_name_tc": "廣靖樓 (LT513)"
+        "stop_name_tc": "德田邨廣靖樓 (LT513)"
     },
     {
         "route": "16X",
@@ -26133,7 +26133,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "ECBD286CC9ED9549",
-        "stop_name_tc": "龍栢閣 (LT121)"
+        "stop_name_tc": "康栢苑龍栢閣 (LT121)"
     },
     {
         "route": "16X",
@@ -26149,7 +26149,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "FA246A7F26F12EDD",
-        "stop_name_tc": "德康樓 (LT125)"
+        "stop_name_tc": "德田邨德康樓 (LT125)"
     },
     {
         "route": "16X",
@@ -26157,7 +26157,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "5ACB622335DF5AE7",
-        "stop_name_tc": "德敬樓 (LT127)"
+        "stop_name_tc": "德田邨德敬樓 (LT127)"
     },
     {
         "route": "16X",
@@ -29797,7 +29797,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "C21FA8D54031D7FF",
-        "stop_name_tc": "利業樓 (KT180)"
+        "stop_name_tc": "順利邨利業樓 (KT180)"
     },
     {
         "route": "17P",
@@ -29805,7 +29805,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "8571BCC3A3E4006E",
-        "stop_name_tc": "利恒樓 (KT182)"
+        "stop_name_tc": "順利邨利恒樓 (KT182)"
     },
     {
         "route": "17P",
@@ -34029,7 +34029,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "389B25932AD10BA3",
-        "stop_name_tc": "愛達樓 (AN202)"
+        "stop_name_tc": "安達邨愛達樓 (AN202)"
     },
     {
         "route": "213A",
@@ -34037,7 +34037,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "FF68304E8C1FF0B1",
-        "stop_name_tc": "錦泰樓 (AN204)"
+        "stop_name_tc": "安泰邨錦泰樓 (AN204)"
     },
     {
         "route": "213A",
@@ -34077,7 +34077,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "51657C54B75A5304",
-        "stop_name_tc": "愛達樓 (AN643)"
+        "stop_name_tc": "安達邨愛達樓 (AN643)"
     },
     {
         "route": "213B",
@@ -34157,7 +34157,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "97BEC62C0E27AB8A",
-        "stop_name_tc": "仁達樓 (AN200)"
+        "stop_name_tc": "安達邨仁達樓 (AN200)"
     },
     {
         "route": "213D",
@@ -34165,7 +34165,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "389B25932AD10BA3",
-        "stop_name_tc": "愛達樓 (AN202)"
+        "stop_name_tc": "安達邨愛達樓 (AN202)"
     },
     {
         "route": "213D",
@@ -34173,7 +34173,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "FF68304E8C1FF0B1",
-        "stop_name_tc": "錦泰樓 (AN204)"
+        "stop_name_tc": "安泰邨錦泰樓 (AN204)"
     },
     {
         "route": "213D",
@@ -34389,7 +34389,7 @@
         "service_type": "1",
         "seq": "35",
         "stop": "51657C54B75A5304",
-        "stop_name_tc": "愛達樓 (AN643)"
+        "stop_name_tc": "安達邨愛達樓 (AN643)"
     },
     {
         "route": "213D",
@@ -35021,7 +35021,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "057B2DCE8BE58FFA",
-        "stop_name_tc": "愛達樓 (AN644)"
+        "stop_name_tc": "安達邨愛達樓 (AN644)"
     },
     {
         "route": "213M",
@@ -35093,7 +35093,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "389B25932AD10BA3",
-        "stop_name_tc": "愛達樓 (AN202)"
+        "stop_name_tc": "安達邨愛達樓 (AN202)"
     },
     {
         "route": "213M",
@@ -35101,7 +35101,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "FF68304E8C1FF0B1",
-        "stop_name_tc": "錦泰樓 (AN204)"
+        "stop_name_tc": "安泰邨錦泰樓 (AN204)"
     },
     {
         "route": "213M",
@@ -35205,7 +35205,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "057B2DCE8BE58FFA",
-        "stop_name_tc": "愛達樓 (AN644)"
+        "stop_name_tc": "安達邨愛達樓 (AN644)"
     },
     {
         "route": "213X",
@@ -35485,7 +35485,7 @@
         "service_type": "1",
         "seq": "38",
         "stop": "D9563FD5B8CB0CEF",
-        "stop_name_tc": "愛達樓 (AN203)"
+        "stop_name_tc": "安達邨愛達樓 (AN203)"
     },
     {
         "route": "213X",
@@ -35493,7 +35493,7 @@
         "service_type": "1",
         "seq": "39",
         "stop": "FF68304E8C1FF0B1",
-        "stop_name_tc": "錦泰樓 (AN204)"
+        "stop_name_tc": "安泰邨錦泰樓 (AN204)"
     },
     {
         "route": "213X",
@@ -35525,7 +35525,7 @@
         "service_type": "2",
         "seq": "3",
         "stop": "057B2DCE8BE58FFA",
-        "stop_name_tc": "愛達樓 (AN644)"
+        "stop_name_tc": "安達邨愛達樓 (AN644)"
     },
     {
         "route": "213X",
@@ -35725,7 +35725,7 @@
         "service_type": "2",
         "seq": "28",
         "stop": "D9563FD5B8CB0CEF",
-        "stop_name_tc": "愛達樓 (AN203)"
+        "stop_name_tc": "安達邨愛達樓 (AN203)"
     },
     {
         "route": "213X",
@@ -35733,7 +35733,7 @@
         "service_type": "2",
         "seq": "29",
         "stop": "FF68304E8C1FF0B1",
-        "stop_name_tc": "錦泰樓 (AN204)"
+        "stop_name_tc": "安泰邨錦泰樓 (AN204)"
     },
     {
         "route": "213X",
@@ -35933,7 +35933,7 @@
         "service_type": "1",
         "seq": "24",
         "stop": "057B2DCE8BE58FFA",
-        "stop_name_tc": "愛達樓 (AN644)"
+        "stop_name_tc": "安達邨愛達樓 (AN644)"
     },
     {
         "route": "214",
@@ -35981,7 +35981,7 @@
         "service_type": "1",
         "seq": "30",
         "stop": "543FD8B6C65D1C4C",
-        "stop_name_tc": "德樂樓 (LT511)"
+        "stop_name_tc": "德田邨德樂樓 (LT511)"
     },
     {
         "route": "214",
@@ -35989,7 +35989,7 @@
         "service_type": "1",
         "seq": "31",
         "stop": "316BB2C947568585",
-        "stop_name_tc": "德隆樓 (LT512)"
+        "stop_name_tc": "德田邨德隆樓 (LT512)"
     },
     {
         "route": "214",
@@ -35997,7 +35997,7 @@
         "service_type": "1",
         "seq": "32",
         "stop": "3E862B92873F5811",
-        "stop_name_tc": "廣靖樓 (LT513)"
+        "stop_name_tc": "德田邨廣靖樓 (LT513)"
     },
     {
         "route": "214",
@@ -36061,7 +36061,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "CF18D17DE7B40350",
-        "stop_name_tc": "金栢閣 (LT120)"
+        "stop_name_tc": "康栢苑金栢閣 (LT120)"
     },
     {
         "route": "214",
@@ -36069,7 +36069,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "736E84A8060D2AB9",
-        "stop_name_tc": "龍栢閣 (LT122)"
+        "stop_name_tc": "康栢苑龍栢閣 (LT122)"
     },
     {
         "route": "214",
@@ -36085,7 +36085,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "6B9496267BEFF02A",
-        "stop_name_tc": "德康樓 (LT126)"
+        "stop_name_tc": "德田邨德康樓 (LT126)"
     },
     {
         "route": "214",
@@ -36093,7 +36093,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "B9D7AE7CB0C56556",
-        "stop_name_tc": "德敬樓 (LT128)"
+        "stop_name_tc": "德田邨德敬樓 (LT128)"
     },
     {
         "route": "214",
@@ -36125,7 +36125,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "81783E042C83CEC3",
-        "stop_name_tc": "仁達樓 (AN201)"
+        "stop_name_tc": "安達邨仁達樓 (AN201)"
     },
     {
         "route": "214",
@@ -36133,7 +36133,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "D9563FD5B8CB0CEF",
-        "stop_name_tc": "愛達樓 (AN203)"
+        "stop_name_tc": "安達邨愛達樓 (AN203)"
     },
     {
         "route": "214",
@@ -36141,7 +36141,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "6410DDEFBBD17426",
-        "stop_name_tc": "錦泰樓 (AN205)"
+        "stop_name_tc": "安泰邨錦泰樓 (AN205)"
     },
     {
         "route": "214",
@@ -36325,7 +36325,7 @@
         "service_type": "2",
         "seq": "2",
         "stop": "81783E042C83CEC3",
-        "stop_name_tc": "仁達樓 (AN201)"
+        "stop_name_tc": "安達邨仁達樓 (AN201)"
     },
     {
         "route": "214",
@@ -36333,7 +36333,7 @@
         "service_type": "2",
         "seq": "3",
         "stop": "D9563FD5B8CB0CEF",
-        "stop_name_tc": "愛達樓 (AN203)"
+        "stop_name_tc": "安達邨愛達樓 (AN203)"
     },
     {
         "route": "214",
@@ -36341,7 +36341,7 @@
         "service_type": "2",
         "seq": "4",
         "stop": "6410DDEFBBD17426",
-        "stop_name_tc": "錦泰樓 (AN205)"
+        "stop_name_tc": "安泰邨錦泰樓 (AN205)"
     },
     {
         "route": "214",
@@ -36509,7 +36509,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "81783E042C83CEC3",
-        "stop_name_tc": "仁達樓 (AN201)"
+        "stop_name_tc": "安達邨仁達樓 (AN201)"
     },
     {
         "route": "214P",
@@ -36517,7 +36517,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "D9563FD5B8CB0CEF",
-        "stop_name_tc": "愛達樓 (AN203)"
+        "stop_name_tc": "安達邨愛達樓 (AN203)"
     },
     {
         "route": "214P",
@@ -36525,7 +36525,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "6410DDEFBBD17426",
-        "stop_name_tc": "錦泰樓 (AN205)"
+        "stop_name_tc": "安泰邨錦泰樓 (AN205)"
     },
     {
         "route": "214P",
@@ -36917,7 +36917,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "CF18D17DE7B40350",
-        "stop_name_tc": "金栢閣 (LT120)"
+        "stop_name_tc": "康栢苑金栢閣 (LT120)"
     },
     {
         "route": "215R",
@@ -36925,7 +36925,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "736E84A8060D2AB9",
-        "stop_name_tc": "龍栢閣 (LT122)"
+        "stop_name_tc": "康栢苑龍栢閣 (LT122)"
     },
     {
         "route": "215R",
@@ -36941,7 +36941,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "6B9496267BEFF02A",
-        "stop_name_tc": "德康樓 (LT126)"
+        "stop_name_tc": "德田邨德康樓 (LT126)"
     },
     {
         "route": "215R",
@@ -36949,7 +36949,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "5ACB622335DF5AE7",
-        "stop_name_tc": "德敬樓 (LT127)"
+        "stop_name_tc": "德田邨德敬樓 (LT127)"
     },
     {
         "route": "215R",
@@ -36973,7 +36973,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "D9563FD5B8CB0CEF",
-        "stop_name_tc": "愛達樓 (AN203)"
+        "stop_name_tc": "安達邨愛達樓 (AN203)"
     },
     {
         "route": "215R",
@@ -36981,7 +36981,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "6410DDEFBBD17426",
-        "stop_name_tc": "錦泰樓 (AN205)"
+        "stop_name_tc": "安泰邨錦泰樓 (AN205)"
     },
     {
         "route": "215R",
@@ -37005,7 +37005,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "BF4620B0CD0B9D45",
-        "stop_name_tc": "利恒樓 (KT421)"
+        "stop_name_tc": "順利邨利恒樓 (KT421)"
     },
     {
         "route": "215R",
@@ -37013,7 +37013,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "A0AB9A2B2D648FF5",
-        "stop_name_tc": "利康樓 (KT161)"
+        "stop_name_tc": "順利邨利康樓 (KT161)"
     },
     {
         "route": "215R",
@@ -37021,7 +37021,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "484F835517494767",
-        "stop_name_tc": "安逸樓 (KT422)"
+        "stop_name_tc": "順安邨安逸樓 (KT422)"
     },
     {
         "route": "215R",
@@ -37221,7 +37221,7 @@
         "service_type": "1",
         "seq": "24",
         "stop": "543FD8B6C65D1C4C",
-        "stop_name_tc": "德樂樓 (LT511)"
+        "stop_name_tc": "德田邨德樂樓 (LT511)"
     },
     {
         "route": "215X",
@@ -37229,7 +37229,7 @@
         "service_type": "1",
         "seq": "25",
         "stop": "316BB2C947568585",
-        "stop_name_tc": "德隆樓 (LT512)"
+        "stop_name_tc": "德田邨德隆樓 (LT512)"
     },
     {
         "route": "215X",
@@ -37237,7 +37237,7 @@
         "service_type": "1",
         "seq": "26",
         "stop": "3E862B92873F5811",
-        "stop_name_tc": "廣靖樓 (LT513)"
+        "stop_name_tc": "德田邨廣靖樓 (LT513)"
     },
     {
         "route": "215X",
@@ -37269,7 +37269,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "736E84A8060D2AB9",
-        "stop_name_tc": "龍栢閣 (LT122)"
+        "stop_name_tc": "康栢苑龍栢閣 (LT122)"
     },
     {
         "route": "215X",
@@ -37285,7 +37285,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "6B9496267BEFF02A",
-        "stop_name_tc": "德康樓 (LT126)"
+        "stop_name_tc": "德田邨德康樓 (LT126)"
     },
     {
         "route": "215X",
@@ -37293,7 +37293,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "5ACB622335DF5AE7",
-        "stop_name_tc": "德敬樓 (LT127)"
+        "stop_name_tc": "德田邨德敬樓 (LT127)"
     },
     {
         "route": "215X",
@@ -37437,7 +37437,7 @@
         "service_type": "2",
         "seq": "2",
         "stop": "736E84A8060D2AB9",
-        "stop_name_tc": "龍栢閣 (LT122)"
+        "stop_name_tc": "康栢苑龍栢閣 (LT122)"
     },
     {
         "route": "215X",
@@ -37453,7 +37453,7 @@
         "service_type": "2",
         "seq": "4",
         "stop": "6B9496267BEFF02A",
-        "stop_name_tc": "德康樓 (LT126)"
+        "stop_name_tc": "德田邨德康樓 (LT126)"
     },
     {
         "route": "215X",
@@ -37461,7 +37461,7 @@
         "service_type": "2",
         "seq": "5",
         "stop": "5ACB622335DF5AE7",
-        "stop_name_tc": "德敬樓 (LT127)"
+        "stop_name_tc": "德田邨德敬樓 (LT127)"
     },
     {
         "route": "215X",
@@ -37637,7 +37637,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "543FD8B6C65D1C4C",
-        "stop_name_tc": "德樂樓 (LT511)"
+        "stop_name_tc": "德田邨德樂樓 (LT511)"
     },
     {
         "route": "216M",
@@ -37645,7 +37645,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "316BB2C947568585",
-        "stop_name_tc": "德隆樓 (LT512)"
+        "stop_name_tc": "德田邨德隆樓 (LT512)"
     },
     {
         "route": "216M",
@@ -37653,7 +37653,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "3E862B92873F5811",
-        "stop_name_tc": "廣靖樓 (LT513)"
+        "stop_name_tc": "德田邨廣靖樓 (LT513)"
     },
     {
         "route": "216M",
@@ -37717,7 +37717,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "CF18D17DE7B40350",
-        "stop_name_tc": "金栢閣 (LT120)"
+        "stop_name_tc": "康栢苑金栢閣 (LT120)"
     },
     {
         "route": "216M",
@@ -37725,7 +37725,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "736E84A8060D2AB9",
-        "stop_name_tc": "龍栢閣 (LT122)"
+        "stop_name_tc": "康栢苑龍栢閣 (LT122)"
     },
     {
         "route": "216M",
@@ -37741,7 +37741,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "6B9496267BEFF02A",
-        "stop_name_tc": "德康樓 (LT126)"
+        "stop_name_tc": "德田邨德康樓 (LT126)"
     },
     {
         "route": "216M",
@@ -37749,7 +37749,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "B9D7AE7CB0C56556",
-        "stop_name_tc": "德敬樓 (LT128)"
+        "stop_name_tc": "德田邨德敬樓 (LT128)"
     },
     {
         "route": "216M",
@@ -38853,7 +38853,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "10A6BEC26CE598E8",
-        "stop_name_tc": "利業樓 (KT181)"
+        "stop_name_tc": "順利邨利業樓 (KT181)"
     },
     {
         "route": "23",
@@ -38861,7 +38861,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "8571BCC3A3E4006E",
-        "stop_name_tc": "利恒樓 (KT182)"
+        "stop_name_tc": "順利邨利恒樓 (KT182)"
     },
     {
         "route": "23",
@@ -38949,7 +38949,7 @@
         "service_type": "2",
         "seq": "3",
         "stop": "10A6BEC26CE598E8",
-        "stop_name_tc": "利業樓 (KT181)"
+        "stop_name_tc": "順利邨利業樓 (KT181)"
     },
     {
         "route": "23",
@@ -38957,7 +38957,7 @@
         "service_type": "2",
         "seq": "4",
         "stop": "8571BCC3A3E4006E",
-        "stop_name_tc": "利恒樓 (KT182)"
+        "stop_name_tc": "順利邨利恒樓 (KT182)"
     },
     {
         "route": "23",
@@ -42445,7 +42445,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "10A6BEC26CE598E8",
-        "stop_name_tc": "利業樓 (KT181)"
+        "stop_name_tc": "順利邨利業樓 (KT181)"
     },
     {
         "route": "23M",
@@ -42453,7 +42453,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "8571BCC3A3E4006E",
-        "stop_name_tc": "利恒樓 (KT182)"
+        "stop_name_tc": "順利邨利恒樓 (KT182)"
     },
     {
         "route": "23M",
@@ -42653,7 +42653,7 @@
         "service_type": "2",
         "seq": "13",
         "stop": "10A6BEC26CE598E8",
-        "stop_name_tc": "利業樓 (KT181)"
+        "stop_name_tc": "順利邨利業樓 (KT181)"
     },
     {
         "route": "23M",
@@ -42661,7 +42661,7 @@
         "service_type": "2",
         "seq": "14",
         "stop": "8571BCC3A3E4006E",
-        "stop_name_tc": "利恒樓 (KT182)"
+        "stop_name_tc": "順利邨利恒樓 (KT182)"
     },
     {
         "route": "23M",
@@ -52237,7 +52237,7 @@
         "service_type": "1",
         "seq": "24",
         "stop": "BF4620B0CD0B9D45",
-        "stop_name_tc": "利恒樓 (KT421)"
+        "stop_name_tc": "順利邨利恒樓 (KT421)"
     },
     {
         "route": "26",
@@ -52245,7 +52245,7 @@
         "service_type": "1",
         "seq": "25",
         "stop": "A0AB9A2B2D648FF5",
-        "stop_name_tc": "利康樓 (KT161)"
+        "stop_name_tc": "順利邨利康樓 (KT161)"
     },
     {
         "route": "26",
@@ -52253,7 +52253,7 @@
         "service_type": "1",
         "seq": "26",
         "stop": "484F835517494767",
-        "stop_name_tc": "安逸樓 (KT422)"
+        "stop_name_tc": "順安邨安逸樓 (KT422)"
     },
     {
         "route": "26",
@@ -52285,7 +52285,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "C21FA8D54031D7FF",
-        "stop_name_tc": "利業樓 (KT180)"
+        "stop_name_tc": "順利邨利業樓 (KT180)"
     },
     {
         "route": "26",
@@ -52293,7 +52293,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "8571BCC3A3E4006E",
-        "stop_name_tc": "利恒樓 (KT182)"
+        "stop_name_tc": "順利邨利恒樓 (KT182)"
     },
     {
         "route": "26",
@@ -65549,7 +65549,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "A0AB9A2B2D648FF5",
-        "stop_name_tc": "利康樓 (KT161)"
+        "stop_name_tc": "順利邨利康樓 (KT161)"
     },
     {
         "route": "26M",
@@ -65557,7 +65557,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "484F835517494767",
-        "stop_name_tc": "安逸樓 (KT422)"
+        "stop_name_tc": "順安邨安逸樓 (KT422)"
     },
     {
         "route": "26M",
@@ -65573,7 +65573,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "E308599CF719FE37",
-        "stop_name_tc": "天韻樓 (KT430)"
+        "stop_name_tc": "順天邨天韻樓 (KT430)"
     },
     {
         "route": "26M",
@@ -65661,7 +65661,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "CEFFBCE5203D152B",
-        "stop_name_tc": "利業樓 (KT179)"
+        "stop_name_tc": "順利邨利業樓 (KT179)"
     },
     {
         "route": "26M",
@@ -65669,7 +65669,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "8571BCC3A3E4006E",
-        "stop_name_tc": "利恒樓 (KT182)"
+        "stop_name_tc": "順利邨利恒樓 (KT182)"
     },
     {
         "route": "26M",
@@ -65837,7 +65837,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "BF4620B0CD0B9D45",
-        "stop_name_tc": "利恒樓 (KT421)"
+        "stop_name_tc": "順利邨利恒樓 (KT421)"
     },
     {
         "route": "26X",
@@ -65845,7 +65845,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "A0AB9A2B2D648FF5",
-        "stop_name_tc": "利康樓 (KT161)"
+        "stop_name_tc": "順利邨利康樓 (KT161)"
     },
     {
         "route": "26X",
@@ -65853,7 +65853,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "484F835517494767",
-        "stop_name_tc": "安逸樓 (KT422)"
+        "stop_name_tc": "順安邨安逸樓 (KT422)"
     },
     {
         "route": "26X",
@@ -65885,7 +65885,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "C21FA8D54031D7FF",
-        "stop_name_tc": "利業樓 (KT180)"
+        "stop_name_tc": "順利邨利業樓 (KT180)"
     },
     {
         "route": "26X",
@@ -65893,7 +65893,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "8571BCC3A3E4006E",
-        "stop_name_tc": "利恒樓 (KT182)"
+        "stop_name_tc": "順利邨利恒樓 (KT182)"
     },
     {
         "route": "26X",
@@ -66013,7 +66013,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "CEFFBCE5203D152B",
-        "stop_name_tc": "利業樓 (KT179)"
+        "stop_name_tc": "順利邨利業樓 (KT179)"
     },
     {
         "route": "27",
@@ -66021,7 +66021,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "8571BCC3A3E4006E",
-        "stop_name_tc": "利恒樓 (KT182)"
+        "stop_name_tc": "順利邨利恒樓 (KT182)"
     },
     {
         "route": "27",
@@ -66245,7 +66245,7 @@
         "service_type": "1",
         "seq": "32",
         "stop": "BF4620B0CD0B9D45",
-        "stop_name_tc": "利恒樓 (KT421)"
+        "stop_name_tc": "順利邨利恒樓 (KT421)"
     },
     {
         "route": "27",
@@ -66253,7 +66253,7 @@
         "service_type": "1",
         "seq": "33",
         "stop": "A0AB9A2B2D648FF5",
-        "stop_name_tc": "利康樓 (KT161)"
+        "stop_name_tc": "順利邨利康樓 (KT161)"
     },
     {
         "route": "27",
@@ -66261,7 +66261,7 @@
         "service_type": "1",
         "seq": "34",
         "stop": "484F835517494767",
-        "stop_name_tc": "安逸樓 (KT422)"
+        "stop_name_tc": "順安邨安逸樓 (KT422)"
     },
     {
         "route": "27",
@@ -82941,7 +82941,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "BF4620B0CD0B9D45",
-        "stop_name_tc": "利恒樓 (KT421)"
+        "stop_name_tc": "順利邨利恒樓 (KT421)"
     },
     {
         "route": "27X",
@@ -82949,7 +82949,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "A0AB9A2B2D648FF5",
-        "stop_name_tc": "利康樓 (KT161)"
+        "stop_name_tc": "順利邨利康樓 (KT161)"
     },
     {
         "route": "27X",
@@ -82957,7 +82957,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "484F835517494767",
-        "stop_name_tc": "安逸樓 (KT422)"
+        "stop_name_tc": "順安邨安逸樓 (KT422)"
     },
     {
         "route": "27X",
@@ -82989,7 +82989,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "CEFFBCE5203D152B",
-        "stop_name_tc": "利業樓 (KT179)"
+        "stop_name_tc": "順利邨利業樓 (KT179)"
     },
     {
         "route": "27X",
@@ -82997,7 +82997,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "8571BCC3A3E4006E",
-        "stop_name_tc": "利恒樓 (KT182)"
+        "stop_name_tc": "順利邨利恒樓 (KT182)"
     },
     {
         "route": "27X",
@@ -90269,7 +90269,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "A0AB9A2B2D648FF5",
-        "stop_name_tc": "利康樓 (KT161)"
+        "stop_name_tc": "順利邨利康樓 (KT161)"
     },
     {
         "route": "290A",
@@ -90277,7 +90277,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "484F835517494767",
-        "stop_name_tc": "安逸樓 (KT422)"
+        "stop_name_tc": "順安邨安逸樓 (KT422)"
     },
     {
         "route": "290A",
@@ -90285,7 +90285,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "E308599CF719FE37",
-        "stop_name_tc": "天韻樓 (KT430)"
+        "stop_name_tc": "順天邨天韻樓 (KT430)"
     },
     {
         "route": "290A",
@@ -90637,7 +90637,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "CEFFBCE5203D152B",
-        "stop_name_tc": "利業樓 (KT179)"
+        "stop_name_tc": "順利邨利業樓 (KT179)"
     },
     {
         "route": "290A",
@@ -90645,7 +90645,7 @@
         "service_type": "1",
         "seq": "23",
         "stop": "8571BCC3A3E4006E",
-        "stop_name_tc": "利恒樓 (KT182)"
+        "stop_name_tc": "順利邨利恒樓 (KT182)"
     },
     {
         "route": "290A",
@@ -90837,7 +90837,7 @@
         "service_type": "2",
         "seq": "8",
         "stop": "CEFFBCE5203D152B",
-        "stop_name_tc": "利業樓 (KT179)"
+        "stop_name_tc": "順利邨利業樓 (KT179)"
     },
     {
         "route": "290A",
@@ -90845,7 +90845,7 @@
         "service_type": "2",
         "seq": "9",
         "stop": "8571BCC3A3E4006E",
-        "stop_name_tc": "利恒樓 (KT182)"
+        "stop_name_tc": "順利邨利恒樓 (KT182)"
     },
     {
         "route": "290A",
@@ -91565,7 +91565,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "057B2DCE8BE58FFA",
-        "stop_name_tc": "愛達樓 (AN644)"
+        "stop_name_tc": "安達邨愛達樓 (AN644)"
     },
     {
         "route": "290X",
@@ -91869,7 +91869,7 @@
         "service_type": "2",
         "seq": "16",
         "stop": "057B2DCE8BE58FFA",
-        "stop_name_tc": "愛達樓 (AN644)"
+        "stop_name_tc": "安達邨愛達樓 (AN644)"
     },
     {
         "route": "290X",
@@ -92205,7 +92205,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "97BEC62C0E27AB8A",
-        "stop_name_tc": "仁達樓 (AN200)"
+        "stop_name_tc": "安達邨仁達樓 (AN200)"
     },
     {
         "route": "290X",
@@ -92213,7 +92213,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "389B25932AD10BA3",
-        "stop_name_tc": "愛達樓 (AN202)"
+        "stop_name_tc": "安達邨愛達樓 (AN202)"
     },
     {
         "route": "290X",
@@ -92405,7 +92405,7 @@
         "service_type": "2",
         "seq": "9",
         "stop": "97BEC62C0E27AB8A",
-        "stop_name_tc": "仁達樓 (AN200)"
+        "stop_name_tc": "安達邨仁達樓 (AN200)"
     },
     {
         "route": "290X",
@@ -92413,7 +92413,7 @@
         "service_type": "2",
         "seq": "10",
         "stop": "389B25932AD10BA3",
-        "stop_name_tc": "愛達樓 (AN202)"
+        "stop_name_tc": "安達邨愛達樓 (AN202)"
     },
     {
         "route": "290X",
@@ -92693,7 +92693,7 @@
         "service_type": "3",
         "seq": "20",
         "stop": "97BEC62C0E27AB8A",
-        "stop_name_tc": "仁達樓 (AN200)"
+        "stop_name_tc": "安達邨仁達樓 (AN200)"
     },
     {
         "route": "290X",
@@ -92701,7 +92701,7 @@
         "service_type": "3",
         "seq": "21",
         "stop": "389B25932AD10BA3",
-        "stop_name_tc": "愛達樓 (AN202)"
+        "stop_name_tc": "安達邨愛達樓 (AN202)"
     },
     {
         "route": "290X",
@@ -97253,7 +97253,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "8571BCC3A3E4006E",
-        "stop_name_tc": "利恒樓 (KT182)"
+        "stop_name_tc": "順利邨利恒樓 (KT182)"
     },
     {
         "route": "29M",
@@ -97365,7 +97365,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "BF4620B0CD0B9D45",
-        "stop_name_tc": "利恒樓 (KT421)"
+        "stop_name_tc": "順利邨利恒樓 (KT421)"
     },
     {
         "route": "29M",
@@ -97373,7 +97373,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "A0AB9A2B2D648FF5",
-        "stop_name_tc": "利康樓 (KT161)"
+        "stop_name_tc": "順利邨利康樓 (KT161)"
     },
     {
         "route": "29M",
@@ -97381,7 +97381,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "51ABC48DD7AFB11F",
-        "stop_name_tc": "利富樓 (KT178)"
+        "stop_name_tc": "順利邨利富樓 (KT178)"
     },
     {
         "route": "29M",
@@ -112773,7 +112773,7 @@
         "service_type": "1",
         "seq": "38",
         "stop": "EF17FDCDDF170D38",
-        "stop_name_tc": "平真樓 (LT150)"
+        "stop_name_tc": "平田邨平真樓 (LT150)"
     },
     {
         "route": "38",
@@ -113869,7 +113869,7 @@
         "service_type": "1",
         "seq": "37",
         "stop": "EF17FDCDDF170D38",
-        "stop_name_tc": "平真樓 (LT150)"
+        "stop_name_tc": "平田邨平真樓 (LT150)"
     },
     {
         "route": "38P",
@@ -117525,7 +117525,7 @@
         "service_type": "1",
         "seq": "27",
         "stop": "EF17FDCDDF170D38",
-        "stop_name_tc": "平真樓 (LT150)"
+        "stop_name_tc": "平田邨平真樓 (LT150)"
     },
     {
         "route": "40A",
@@ -117853,7 +117853,7 @@
         "service_type": "1",
         "seq": "40",
         "stop": "EF17FDCDDF170D38",
-        "stop_name_tc": "平真樓 (LT150)"
+        "stop_name_tc": "平田邨平真樓 (LT150)"
     },
     {
         "route": "40B",
@@ -120133,7 +120133,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "8571BCC3A3E4006E",
-        "stop_name_tc": "利恒樓 (KT182)"
+        "stop_name_tc": "順利邨利恒樓 (KT182)"
     },
     {
         "route": "42",
@@ -120781,7 +120781,7 @@
         "service_type": "1",
         "seq": "43",
         "stop": "A0AB9A2B2D648FF5",
-        "stop_name_tc": "利康樓 (KT161)"
+        "stop_name_tc": "順利邨利康樓 (KT161)"
     },
     {
         "route": "42",
@@ -120789,7 +120789,7 @@
         "service_type": "1",
         "seq": "44",
         "stop": "51ABC48DD7AFB11F",
-        "stop_name_tc": "利富樓 (KT178)"
+        "stop_name_tc": "順利邨利富樓 (KT178)"
     },
     {
         "route": "42",
@@ -139365,7 +139365,7 @@
         "service_type": "1",
         "seq": "24",
         "stop": "389B25932AD10BA3",
-        "stop_name_tc": "愛達樓 (AN202)"
+        "stop_name_tc": "安達邨愛達樓 (AN202)"
     },
     {
         "route": "600",
@@ -139373,7 +139373,7 @@
         "service_type": "1",
         "seq": "25",
         "stop": "FF68304E8C1FF0B1",
-        "stop_name_tc": "錦泰樓 (AN204)"
+        "stop_name_tc": "安泰邨錦泰樓 (AN204)"
     },
     {
         "route": "600",
@@ -139477,7 +139477,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "9CC30C6EE35D0CE8",
-        "stop_name_tc": "錦泰樓 (AN642)"
+        "stop_name_tc": "安泰邨錦泰樓 (AN642)"
     },
     {
         "route": "600",
@@ -139485,7 +139485,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "057B2DCE8BE58FFA",
-        "stop_name_tc": "愛達樓 (AN644)"
+        "stop_name_tc": "安達邨愛達樓 (AN644)"
     },
     {
         "route": "600",
@@ -139821,7 +139821,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "389B25932AD10BA3",
-        "stop_name_tc": "愛達樓 (AN202)"
+        "stop_name_tc": "安達邨愛達樓 (AN202)"
     },
     {
         "route": "600X",
@@ -139829,7 +139829,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "FF68304E8C1FF0B1",
-        "stop_name_tc": "錦泰樓 (AN204)"
+        "stop_name_tc": "安泰邨錦泰樓 (AN204)"
     },
     {
         "route": "600X",
@@ -139933,7 +139933,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "9CC30C6EE35D0CE8",
-        "stop_name_tc": "錦泰樓 (AN642)"
+        "stop_name_tc": "安泰邨錦泰樓 (AN642)"
     },
     {
         "route": "600X",
@@ -139941,7 +139941,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "057B2DCE8BE58FFA",
-        "stop_name_tc": "愛達樓 (AN644)"
+        "stop_name_tc": "安達邨愛達樓 (AN644)"
     },
     {
         "route": "600X",
@@ -141165,7 +141165,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "CF18D17DE7B40350",
-        "stop_name_tc": "金栢閣 (LT120)"
+        "stop_name_tc": "康栢苑金栢閣 (LT120)"
     },
     {
         "route": "603",
@@ -141173,7 +141173,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "736E84A8060D2AB9",
-        "stop_name_tc": "龍栢閣 (LT122)"
+        "stop_name_tc": "康栢苑龍栢閣 (LT122)"
     },
     {
         "route": "603",
@@ -141189,7 +141189,7 @@
         "service_type": "1",
         "seq": "23",
         "stop": "6B9496267BEFF02A",
-        "stop_name_tc": "德康樓 (LT126)"
+        "stop_name_tc": "德田邨德康樓 (LT126)"
     },
     {
         "route": "603",
@@ -141197,7 +141197,7 @@
         "service_type": "1",
         "seq": "24",
         "stop": "B9D7AE7CB0C56556",
-        "stop_name_tc": "德敬樓 (LT128)"
+        "stop_name_tc": "德田邨德敬樓 (LT128)"
     },
     {
         "route": "603",
@@ -141221,7 +141221,7 @@
         "service_type": "1",
         "seq": "27",
         "stop": "EF17FDCDDF170D38",
-        "stop_name_tc": "平真樓 (LT150)"
+        "stop_name_tc": "平田邨平真樓 (LT150)"
     },
     {
         "route": "603",
@@ -141269,7 +141269,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "543FD8B6C65D1C4C",
-        "stop_name_tc": "德樂樓 (LT511)"
+        "stop_name_tc": "德田邨德樂樓 (LT511)"
     },
     {
         "route": "603",
@@ -141277,7 +141277,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "316BB2C947568585",
-        "stop_name_tc": "德隆樓 (LT512)"
+        "stop_name_tc": "德田邨德隆樓 (LT512)"
     },
     {
         "route": "603",
@@ -141285,7 +141285,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "3E862B92873F5811",
-        "stop_name_tc": "廣靖樓 (LT513)"
+        "stop_name_tc": "德田邨廣靖樓 (LT513)"
     },
     {
         "route": "603",
@@ -141437,7 +141437,7 @@
         "service_type": "2",
         "seq": "5",
         "stop": "543FD8B6C65D1C4C",
-        "stop_name_tc": "德樂樓 (LT511)"
+        "stop_name_tc": "德田邨德樂樓 (LT511)"
     },
     {
         "route": "603",
@@ -141445,7 +141445,7 @@
         "service_type": "2",
         "seq": "6",
         "stop": "316BB2C947568585",
-        "stop_name_tc": "德隆樓 (LT512)"
+        "stop_name_tc": "德田邨德隆樓 (LT512)"
     },
     {
         "route": "603",
@@ -141453,7 +141453,7 @@
         "service_type": "2",
         "seq": "7",
         "stop": "3E862B92873F5811",
-        "stop_name_tc": "廣靖樓 (LT513)"
+        "stop_name_tc": "德田邨廣靖樓 (LT513)"
     },
     {
         "route": "603",
@@ -141717,7 +141717,7 @@
         "service_type": "1",
         "seq": "23",
         "stop": "CF18D17DE7B40350",
-        "stop_name_tc": "金栢閣 (LT120)"
+        "stop_name_tc": "康栢苑金栢閣 (LT120)"
     },
     {
         "route": "603A",
@@ -141725,7 +141725,7 @@
         "service_type": "1",
         "seq": "24",
         "stop": "736E84A8060D2AB9",
-        "stop_name_tc": "龍栢閣 (LT122)"
+        "stop_name_tc": "康栢苑龍栢閣 (LT122)"
     },
     {
         "route": "603A",
@@ -141741,7 +141741,7 @@
         "service_type": "1",
         "seq": "26",
         "stop": "6B9496267BEFF02A",
-        "stop_name_tc": "德康樓 (LT126)"
+        "stop_name_tc": "德田邨德康樓 (LT126)"
     },
     {
         "route": "603A",
@@ -141749,7 +141749,7 @@
         "service_type": "1",
         "seq": "27",
         "stop": "B9D7AE7CB0C56556",
-        "stop_name_tc": "德敬樓 (LT128)"
+        "stop_name_tc": "德田邨德敬樓 (LT128)"
     },
     {
         "route": "603A",
@@ -141773,7 +141773,7 @@
         "service_type": "1",
         "seq": "30",
         "stop": "EF17FDCDDF170D38",
-        "stop_name_tc": "平真樓 (LT150)"
+        "stop_name_tc": "平田邨平真樓 (LT150)"
     },
     {
         "route": "603A",
@@ -141821,7 +141821,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "543FD8B6C65D1C4C",
-        "stop_name_tc": "德樂樓 (LT511)"
+        "stop_name_tc": "德田邨德樂樓 (LT511)"
     },
     {
         "route": "603A",
@@ -141829,7 +141829,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "316BB2C947568585",
-        "stop_name_tc": "德隆樓 (LT512)"
+        "stop_name_tc": "德田邨德隆樓 (LT512)"
     },
     {
         "route": "603A",
@@ -141837,7 +141837,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "3E862B92873F5811",
-        "stop_name_tc": "廣靖樓 (LT513)"
+        "stop_name_tc": "德田邨廣靖樓 (LT513)"
     },
     {
         "route": "603A",
@@ -142141,7 +142141,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "CF18D17DE7B40350",
-        "stop_name_tc": "金栢閣 (LT120)"
+        "stop_name_tc": "康栢苑金栢閣 (LT120)"
     },
     {
         "route": "603P",
@@ -142149,7 +142149,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "736E84A8060D2AB9",
-        "stop_name_tc": "龍栢閣 (LT122)"
+        "stop_name_tc": "康栢苑龍栢閣 (LT122)"
     },
     {
         "route": "603P",
@@ -142165,7 +142165,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "6B9496267BEFF02A",
-        "stop_name_tc": "德康樓 (LT126)"
+        "stop_name_tc": "德田邨德康樓 (LT126)"
     },
     {
         "route": "603P",
@@ -142173,7 +142173,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "B9D7AE7CB0C56556",
-        "stop_name_tc": "德敬樓 (LT128)"
+        "stop_name_tc": "德田邨德敬樓 (LT128)"
     },
     {
         "route": "603P",
@@ -142197,7 +142197,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "EF17FDCDDF170D38",
-        "stop_name_tc": "平真樓 (LT150)"
+        "stop_name_tc": "平田邨平真樓 (LT150)"
     },
     {
         "route": "603P",
@@ -142245,7 +142245,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "543FD8B6C65D1C4C",
-        "stop_name_tc": "德樂樓 (LT511)"
+        "stop_name_tc": "德田邨德樂樓 (LT511)"
     },
     {
         "route": "603S",
@@ -142253,7 +142253,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "316BB2C947568585",
-        "stop_name_tc": "德隆樓 (LT512)"
+        "stop_name_tc": "德田邨德隆樓 (LT512)"
     },
     {
         "route": "603S",
@@ -142261,7 +142261,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "3E862B92873F5811",
-        "stop_name_tc": "廣靖樓 (LT513)"
+        "stop_name_tc": "德田邨廣靖樓 (LT513)"
     },
     {
         "route": "603S",
@@ -145261,7 +145261,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "CF18D17DE7B40350",
-        "stop_name_tc": "金栢閣 (LT120)"
+        "stop_name_tc": "康栢苑金栢閣 (LT120)"
     },
     {
         "route": "613",
@@ -145269,7 +145269,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "736E84A8060D2AB9",
-        "stop_name_tc": "龍栢閣 (LT122)"
+        "stop_name_tc": "康栢苑龍栢閣 (LT122)"
     },
     {
         "route": "613",
@@ -145285,7 +145285,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "6B9496267BEFF02A",
-        "stop_name_tc": "德康樓 (LT126)"
+        "stop_name_tc": "德田邨德康樓 (LT126)"
     },
     {
         "route": "613",
@@ -145293,7 +145293,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "5ACB622335DF5AE7",
-        "stop_name_tc": "德敬樓 (LT127)"
+        "stop_name_tc": "德田邨德敬樓 (LT127)"
     },
     {
         "route": "613",
@@ -145333,7 +145333,7 @@
         "service_type": "1",
         "seq": "26",
         "stop": "D9563FD5B8CB0CEF",
-        "stop_name_tc": "愛達樓 (AN203)"
+        "stop_name_tc": "安達邨愛達樓 (AN203)"
     },
     {
         "route": "613",
@@ -145341,7 +145341,7 @@
         "service_type": "1",
         "seq": "27",
         "stop": "FF68304E8C1FF0B1",
-        "stop_name_tc": "錦泰樓 (AN204)"
+        "stop_name_tc": "安泰邨錦泰樓 (AN204)"
     },
     {
         "route": "613",
@@ -145373,7 +145373,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "057B2DCE8BE58FFA",
-        "stop_name_tc": "愛達樓 (AN644)"
+        "stop_name_tc": "安達邨愛達樓 (AN644)"
     },
     {
         "route": "613",
@@ -145469,7 +145469,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "543FD8B6C65D1C4C",
-        "stop_name_tc": "德樂樓 (LT511)"
+        "stop_name_tc": "德田邨德樂樓 (LT511)"
     },
     {
         "route": "613",
@@ -145477,7 +145477,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "316BB2C947568585",
-        "stop_name_tc": "德隆樓 (LT512)"
+        "stop_name_tc": "德田邨德隆樓 (LT512)"
     },
     {
         "route": "613",
@@ -145485,7 +145485,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "3E862B92873F5811",
-        "stop_name_tc": "廣靖樓 (LT513)"
+        "stop_name_tc": "德田邨廣靖樓 (LT513)"
     },
     {
         "route": "613",
@@ -145957,7 +145957,7 @@
         "service_type": "1",
         "seq": "41",
         "stop": "D9563FD5B8CB0CEF",
-        "stop_name_tc": "愛達樓 (AN203)"
+        "stop_name_tc": "安達邨愛達樓 (AN203)"
     },
     {
         "route": "613A",
@@ -145965,7 +145965,7 @@
         "service_type": "1",
         "seq": "42",
         "stop": "FF68304E8C1FF0B1",
-        "stop_name_tc": "錦泰樓 (AN204)"
+        "stop_name_tc": "安泰邨錦泰樓 (AN204)"
     },
     {
         "route": "613A",
@@ -145997,7 +145997,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "057B2DCE8BE58FFA",
-        "stop_name_tc": "愛達樓 (AN644)"
+        "stop_name_tc": "安達邨愛達樓 (AN644)"
     },
     {
         "route": "613A",
@@ -146565,7 +146565,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "A28048B524056C9D",
-        "stop_name_tc": "利明樓 (KT160)"
+        "stop_name_tc": "順利邨利明樓 (KT160)"
     },
     {
         "route": "619",
@@ -146573,7 +146573,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "484F835517494767",
-        "stop_name_tc": "安逸樓 (KT422)"
+        "stop_name_tc": "順安邨安逸樓 (KT422)"
     },
     {
         "route": "619",
@@ -146589,7 +146589,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "E308599CF719FE37",
-        "stop_name_tc": "天韻樓 (KT430)"
+        "stop_name_tc": "順天邨天韻樓 (KT430)"
     },
     {
         "route": "619",
@@ -146821,7 +146821,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "A28048B524056C9D",
-        "stop_name_tc": "利明樓 (KT160)"
+        "stop_name_tc": "順利邨利明樓 (KT160)"
     },
     {
         "route": "619P",
@@ -146829,7 +146829,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "484F835517494767",
-        "stop_name_tc": "安逸樓 (KT422)"
+        "stop_name_tc": "順安邨安逸樓 (KT422)"
     },
     {
         "route": "619P",
@@ -146845,7 +146845,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "E308599CF719FE37",
-        "stop_name_tc": "天韻樓 (KT430)"
+        "stop_name_tc": "順天邨天韻樓 (KT430)"
     },
     {
         "route": "619P",
@@ -147237,7 +147237,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "A28048B524056C9D",
-        "stop_name_tc": "利明樓 (KT160)"
+        "stop_name_tc": "順利邨利明樓 (KT160)"
     },
     {
         "route": "619X",
@@ -147245,7 +147245,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "484F835517494767",
-        "stop_name_tc": "安逸樓 (KT422)"
+        "stop_name_tc": "順安邨安逸樓 (KT422)"
     },
     {
         "route": "619X",
@@ -147261,7 +147261,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "E308599CF719FE37",
-        "stop_name_tc": "天韻樓 (KT430)"
+        "stop_name_tc": "順天邨天韻樓 (KT430)"
     },
     {
         "route": "619X",
@@ -165469,7 +165469,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "CF18D17DE7B40350",
-        "stop_name_tc": "金栢閣 (LT120)"
+        "stop_name_tc": "康栢苑金栢閣 (LT120)"
     },
     {
         "route": "6P",
@@ -165477,7 +165477,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "736E84A8060D2AB9",
-        "stop_name_tc": "龍栢閣 (LT122)"
+        "stop_name_tc": "康栢苑龍栢閣 (LT122)"
     },
     {
         "route": "6P",
@@ -165493,7 +165493,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "6B9496267BEFF02A",
-        "stop_name_tc": "德康樓 (LT126)"
+        "stop_name_tc": "德田邨德康樓 (LT126)"
     },
     {
         "route": "6P",
@@ -165501,7 +165501,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "B9D7AE7CB0C56556",
-        "stop_name_tc": "德敬樓 (LT128)"
+        "stop_name_tc": "德田邨德敬樓 (LT128)"
     },
     {
         "route": "6P",
@@ -165981,7 +165981,7 @@
         "service_type": "1",
         "seq": "33",
         "stop": "543FD8B6C65D1C4C",
-        "stop_name_tc": "德樂樓 (LT511)"
+        "stop_name_tc": "德田邨德樂樓 (LT511)"
     },
     {
         "route": "6P",
@@ -165989,7 +165989,7 @@
         "service_type": "1",
         "seq": "34",
         "stop": "316BB2C947568585",
-        "stop_name_tc": "德隆樓 (LT512)"
+        "stop_name_tc": "德田邨德隆樓 (LT512)"
     },
     {
         "route": "6P",
@@ -165997,7 +165997,7 @@
         "service_type": "1",
         "seq": "35",
         "stop": "3E862B92873F5811",
-        "stop_name_tc": "廣靖樓 (LT513)"
+        "stop_name_tc": "德田邨廣靖樓 (LT513)"
     },
     {
         "route": "6P",
@@ -178813,7 +178813,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "EF17FDCDDF170D38",
-        "stop_name_tc": "平真樓 (LT150)"
+        "stop_name_tc": "平田邨平真樓 (LT150)"
     },
     {
         "route": "74S",
@@ -201197,7 +201197,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "51657C54B75A5304",
-        "stop_name_tc": "愛達樓 (AN643)"
+        "stop_name_tc": "安達邨愛達樓 (AN643)"
     },
     {
         "route": "88",
@@ -201293,7 +201293,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "81783E042C83CEC3",
-        "stop_name_tc": "仁達樓 (AN201)"
+        "stop_name_tc": "安達邨仁達樓 (AN201)"
     },
     {
         "route": "88",
@@ -201301,7 +201301,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "D9563FD5B8CB0CEF",
-        "stop_name_tc": "愛達樓 (AN203)"
+        "stop_name_tc": "安達邨愛達樓 (AN203)"
     },
     {
         "route": "88",
@@ -201309,7 +201309,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "6410DDEFBBD17426",
-        "stop_name_tc": "錦泰樓 (AN205)"
+        "stop_name_tc": "安泰邨錦泰樓 (AN205)"
     },
     {
         "route": "88",
@@ -201701,7 +201701,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "CF18D17DE7B40350",
-        "stop_name_tc": "金栢閣 (LT120)"
+        "stop_name_tc": "康栢苑金栢閣 (LT120)"
     },
     {
         "route": "889",
@@ -201709,7 +201709,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "736E84A8060D2AB9",
-        "stop_name_tc": "龍栢閣 (LT122)"
+        "stop_name_tc": "康栢苑龍栢閣 (LT122)"
     },
     {
         "route": "889",
@@ -201725,7 +201725,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "6B9496267BEFF02A",
-        "stop_name_tc": "德康樓 (LT126)"
+        "stop_name_tc": "德田邨德康樓 (LT126)"
     },
     {
         "route": "889",
@@ -201733,7 +201733,7 @@
         "service_type": "1",
         "seq": "23",
         "stop": "B9D7AE7CB0C56556",
-        "stop_name_tc": "德敬樓 (LT128)"
+        "stop_name_tc": "德田邨德敬樓 (LT128)"
     },
     {
         "route": "889",
@@ -201757,7 +201757,7 @@
         "service_type": "1",
         "seq": "26",
         "stop": "EF17FDCDDF170D38",
-        "stop_name_tc": "平真樓 (LT150)"
+        "stop_name_tc": "平田邨平真樓 (LT150)"
     },
     {
         "route": "889",
@@ -202077,7 +202077,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "543FD8B6C65D1C4C",
-        "stop_name_tc": "德樂樓 (LT511)"
+        "stop_name_tc": "德田邨德樂樓 (LT511)"
     },
     {
         "route": "88X",
@@ -202085,7 +202085,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "316BB2C947568585",
-        "stop_name_tc": "德隆樓 (LT512)"
+        "stop_name_tc": "德田邨德隆樓 (LT512)"
     },
     {
         "route": "88X",
@@ -202093,7 +202093,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "3E862B92873F5811",
-        "stop_name_tc": "廣靖樓 (LT513)"
+        "stop_name_tc": "德田邨廣靖樓 (LT513)"
     },
     {
         "route": "88X",
@@ -202309,7 +202309,7 @@
         "service_type": "2",
         "seq": "5",
         "stop": "543FD8B6C65D1C4C",
-        "stop_name_tc": "德樂樓 (LT511)"
+        "stop_name_tc": "德田邨德樂樓 (LT511)"
     },
     {
         "route": "88X",
@@ -202317,7 +202317,7 @@
         "service_type": "2",
         "seq": "6",
         "stop": "316BB2C947568585",
-        "stop_name_tc": "德隆樓 (LT512)"
+        "stop_name_tc": "德田邨德隆樓 (LT512)"
     },
     {
         "route": "88X",
@@ -202325,7 +202325,7 @@
         "service_type": "2",
         "seq": "7",
         "stop": "3E862B92873F5811",
-        "stop_name_tc": "廣靖樓 (LT513)"
+        "stop_name_tc": "德田邨廣靖樓 (LT513)"
     },
     {
         "route": "88X",
@@ -202597,7 +202597,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "CF18D17DE7B40350",
-        "stop_name_tc": "金栢閣 (LT120)"
+        "stop_name_tc": "康栢苑金栢閣 (LT120)"
     },
     {
         "route": "88X",
@@ -202605,7 +202605,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "736E84A8060D2AB9",
-        "stop_name_tc": "龍栢閣 (LT122)"
+        "stop_name_tc": "康栢苑龍栢閣 (LT122)"
     },
     {
         "route": "88X",
@@ -202621,7 +202621,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "6B9496267BEFF02A",
-        "stop_name_tc": "德康樓 (LT126)"
+        "stop_name_tc": "德田邨德康樓 (LT126)"
     },
     {
         "route": "88X",
@@ -202629,7 +202629,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "B9D7AE7CB0C56556",
-        "stop_name_tc": "德敬樓 (LT128)"
+        "stop_name_tc": "德田邨德敬樓 (LT128)"
     },
     {
         "route": "88X",
@@ -202653,7 +202653,7 @@
         "service_type": "1",
         "seq": "23",
         "stop": "EF17FDCDDF170D38",
-        "stop_name_tc": "平真樓 (LT150)"
+        "stop_name_tc": "平田邨平真樓 (LT150)"
     },
     {
         "route": "88X",
@@ -202821,7 +202821,7 @@
         "service_type": "2",
         "seq": "20",
         "stop": "CF18D17DE7B40350",
-        "stop_name_tc": "金栢閣 (LT120)"
+        "stop_name_tc": "康栢苑金栢閣 (LT120)"
     },
     {
         "route": "88X",
@@ -202829,7 +202829,7 @@
         "service_type": "2",
         "seq": "21",
         "stop": "736E84A8060D2AB9",
-        "stop_name_tc": "龍栢閣 (LT122)"
+        "stop_name_tc": "康栢苑龍栢閣 (LT122)"
     },
     {
         "route": "88X",
@@ -202845,7 +202845,7 @@
         "service_type": "2",
         "seq": "23",
         "stop": "6B9496267BEFF02A",
-        "stop_name_tc": "德康樓 (LT126)"
+        "stop_name_tc": "德田邨德康樓 (LT126)"
     },
     {
         "route": "88X",
@@ -202853,7 +202853,7 @@
         "service_type": "2",
         "seq": "24",
         "stop": "B9D7AE7CB0C56556",
-        "stop_name_tc": "德敬樓 (LT128)"
+        "stop_name_tc": "德田邨德敬樓 (LT128)"
     },
     {
         "route": "88X",
@@ -202877,7 +202877,7 @@
         "service_type": "2",
         "seq": "27",
         "stop": "EF17FDCDDF170D38",
-        "stop_name_tc": "平真樓 (LT150)"
+        "stop_name_tc": "平田邨平真樓 (LT150)"
     },
     {
         "route": "88X",
@@ -219197,7 +219197,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "A0AB9A2B2D648FF5",
-        "stop_name_tc": "利康樓 (KT161)"
+        "stop_name_tc": "順利邨利康樓 (KT161)"
     },
     {
         "route": "95",
@@ -258101,7 +258101,7 @@
         "service_type": "1",
         "seq": "47",
         "stop": "D9563FD5B8CB0CEF",
-        "stop_name_tc": "愛達樓 (AN203)"
+        "stop_name_tc": "安達邨愛達樓 (AN203)"
     },
     {
         "route": "N213",
@@ -258109,7 +258109,7 @@
         "service_type": "1",
         "seq": "48",
         "stop": "6410DDEFBBD17426",
-        "stop_name_tc": "錦泰樓 (AN205)"
+        "stop_name_tc": "安泰邨錦泰樓 (AN205)"
     },
     {
         "route": "N213",
@@ -258149,7 +258149,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "CF18D17DE7B40350",
-        "stop_name_tc": "金栢閣 (LT120)"
+        "stop_name_tc": "康栢苑金栢閣 (LT120)"
     },
     {
         "route": "N214",
@@ -258157,7 +258157,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "736E84A8060D2AB9",
-        "stop_name_tc": "龍栢閣 (LT122)"
+        "stop_name_tc": "康栢苑龍栢閣 (LT122)"
     },
     {
         "route": "N214",
@@ -258173,7 +258173,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "6B9496267BEFF02A",
-        "stop_name_tc": "德康樓 (LT126)"
+        "stop_name_tc": "德田邨德康樓 (LT126)"
     },
     {
         "route": "N214",
@@ -258181,7 +258181,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "B9D7AE7CB0C56556",
-        "stop_name_tc": "德敬樓 (LT128)"
+        "stop_name_tc": "德田邨德敬樓 (LT128)"
     },
     {
         "route": "N214",
@@ -258213,7 +258213,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "81783E042C83CEC3",
-        "stop_name_tc": "仁達樓 (AN201)"
+        "stop_name_tc": "安達邨仁達樓 (AN201)"
     },
     {
         "route": "N214",
@@ -258221,7 +258221,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "D9563FD5B8CB0CEF",
-        "stop_name_tc": "愛達樓 (AN203)"
+        "stop_name_tc": "安達邨愛達樓 (AN203)"
     },
     {
         "route": "N214",
@@ -258229,7 +258229,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "6410DDEFBBD17426",
-        "stop_name_tc": "錦泰樓 (AN205)"
+        "stop_name_tc": "安泰邨錦泰樓 (AN205)"
     },
     {
         "route": "N214",
@@ -258693,7 +258693,7 @@
         "service_type": "1",
         "seq": "37",
         "stop": "A0AB9A2B2D648FF5",
-        "stop_name_tc": "利康樓 (KT161)"
+        "stop_name_tc": "順利邨利康樓 (KT161)"
     },
     {
         "route": "N216",
@@ -258701,7 +258701,7 @@
         "service_type": "1",
         "seq": "38",
         "stop": "484F835517494767",
-        "stop_name_tc": "安逸樓 (KT422)"
+        "stop_name_tc": "順安邨安逸樓 (KT422)"
     },
     {
         "route": "N216",
@@ -258709,7 +258709,7 @@
         "service_type": "1",
         "seq": "39",
         "stop": "E308599CF719FE37",
-        "stop_name_tc": "天韻樓 (KT430)"
+        "stop_name_tc": "順天邨天韻樓 (KT430)"
     },
     {
         "route": "N216",
@@ -258773,7 +258773,7 @@
         "service_type": "1",
         "seq": "47",
         "stop": "543FD8B6C65D1C4C",
-        "stop_name_tc": "德樂樓 (LT511)"
+        "stop_name_tc": "德田邨德樂樓 (LT511)"
     },
     {
         "route": "N216",
@@ -258781,7 +258781,7 @@
         "service_type": "1",
         "seq": "48",
         "stop": "316BB2C947568585",
-        "stop_name_tc": "德隆樓 (LT512)"
+        "stop_name_tc": "德田邨德隆樓 (LT512)"
     },
     {
         "route": "N216",
@@ -258789,7 +258789,7 @@
         "service_type": "1",
         "seq": "49",
         "stop": "3E862B92873F5811",
-        "stop_name_tc": "廣靖樓 (LT513)"
+        "stop_name_tc": "德田邨廣靖樓 (LT513)"
     },
     {
         "route": "N216",
@@ -258869,7 +258869,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "CF18D17DE7B40350",
-        "stop_name_tc": "金栢閣 (LT120)"
+        "stop_name_tc": "康栢苑金栢閣 (LT120)"
     },
     {
         "route": "N216",
@@ -258877,7 +258877,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "ECBD286CC9ED9549",
-        "stop_name_tc": "龍栢閣 (LT121)"
+        "stop_name_tc": "康栢苑龍栢閣 (LT121)"
     },
     {
         "route": "N216",
@@ -258893,7 +258893,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "FA246A7F26F12EDD",
-        "stop_name_tc": "德康樓 (LT125)"
+        "stop_name_tc": "德田邨德康樓 (LT125)"
     },
     {
         "route": "N216",
@@ -258901,7 +258901,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "B9D7AE7CB0C56556",
-        "stop_name_tc": "德敬樓 (LT128)"
+        "stop_name_tc": "德田邨德敬樓 (LT128)"
     },
     {
         "route": "N216",
@@ -258973,7 +258973,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "C21FA8D54031D7FF",
-        "stop_name_tc": "利業樓 (KT180)"
+        "stop_name_tc": "順利邨利業樓 (KT180)"
     },
     {
         "route": "N216",
@@ -258981,7 +258981,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "8571BCC3A3E4006E",
-        "stop_name_tc": "利恒樓 (KT182)"
+        "stop_name_tc": "順利邨利恒樓 (KT182)"
     },
     {
         "route": "N216",
@@ -264557,7 +264557,7 @@
         "service_type": "1",
         "seq": "32",
         "stop": "CEFFBCE5203D152B",
-        "stop_name_tc": "利業樓 (KT179)"
+        "stop_name_tc": "順利邨利業樓 (KT179)"
     },
     {
         "route": "N290",
@@ -264565,7 +264565,7 @@
         "service_type": "1",
         "seq": "33",
         "stop": "8571BCC3A3E4006E",
-        "stop_name_tc": "利恒樓 (KT182)"
+        "stop_name_tc": "順利邨利恒樓 (KT182)"
     },
     {
         "route": "N290",
@@ -264837,7 +264837,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "A0AB9A2B2D648FF5",
-        "stop_name_tc": "利康樓 (KT161)"
+        "stop_name_tc": "順利邨利康樓 (KT161)"
     },
     {
         "route": "N290",
@@ -264845,7 +264845,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "484F835517494767",
-        "stop_name_tc": "安逸樓 (KT422)"
+        "stop_name_tc": "順安邨安逸樓 (KT422)"
     },
     {
         "route": "N290",
@@ -264853,7 +264853,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "E308599CF719FE37",
-        "stop_name_tc": "天韻樓 (KT430)"
+        "stop_name_tc": "順天邨天韻樓 (KT430)"
     },
     {
         "route": "N290",
@@ -271189,7 +271189,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "A28048B524056C9D",
-        "stop_name_tc": "利明樓 (KT160)"
+        "stop_name_tc": "順利邨利明樓 (KT160)"
     },
     {
         "route": "N619",
@@ -271197,7 +271197,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "484F835517494767",
-        "stop_name_tc": "安逸樓 (KT422)"
+        "stop_name_tc": "順安邨安逸樓 (KT422)"
     },
     {
         "route": "N619",
@@ -280181,7 +280181,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "736E84A8060D2AB9",
-        "stop_name_tc": "龍栢閣 (LT122)"
+        "stop_name_tc": "康栢苑龍栢閣 (LT122)"
     },
     {
         "route": "R215",
@@ -280197,7 +280197,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "6B9496267BEFF02A",
-        "stop_name_tc": "德康樓 (LT126)"
+        "stop_name_tc": "德田邨德康樓 (LT126)"
     },
     {
         "route": "R215",
@@ -280205,7 +280205,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "5ACB622335DF5AE7",
-        "stop_name_tc": "德敬樓 (LT127)"
+        "stop_name_tc": "德田邨德敬樓 (LT127)"
     },
     {
         "route": "R215",
@@ -280237,7 +280237,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "6410DDEFBBD17426",
-        "stop_name_tc": "錦泰樓 (AN205)"
+        "stop_name_tc": "安泰邨錦泰樓 (AN205)"
     },
     {
         "route": "R215",
@@ -280261,7 +280261,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "057B2DCE8BE58FFA",
-        "stop_name_tc": "愛達樓 (AN644)"
+        "stop_name_tc": "安達邨愛達樓 (AN644)"
     },
     {
         "route": "R215",
@@ -281413,7 +281413,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "057B2DCE8BE58FFA",
-        "stop_name_tc": "愛達樓 (AN644)"
+        "stop_name_tc": "安達邨愛達樓 (AN644)"
     },
     {
         "route": "R603",
@@ -281501,7 +281501,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "EF17FDCDDF170D38",
-        "stop_name_tc": "平真樓 (LT150)"
+        "stop_name_tc": "平田邨平真樓 (LT150)"
     },
     {
         "route": "R603",
@@ -281541,7 +281541,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "543FD8B6C65D1C4C",
-        "stop_name_tc": "德樂樓 (LT511)"
+        "stop_name_tc": "德田邨德樂樓 (LT511)"
     },
     {
         "route": "R603",
@@ -281549,7 +281549,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "316BB2C947568585",
-        "stop_name_tc": "德隆樓 (LT512)"
+        "stop_name_tc": "德田邨德隆樓 (LT512)"
     },
     {
         "route": "R603",
@@ -281557,7 +281557,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "3E862B92873F5811",
-        "stop_name_tc": "廣靖樓 (LT513)"
+        "stop_name_tc": "德田邨廣靖樓 (LT513)"
     },
     {
         "route": "R603",
