@@ -23133,7 +23133,7 @@
         "service_type": "1",
         "seq": "39",
         "stop": "3E862B92873F5811",
-        "stop_name_tc": "德田邨廣靖樓 (LT513)"
+        "stop_name_tc": "廣田邨廣靖樓 (LT513)"
     },
     {
         "route": "14H",
@@ -24613,7 +24613,7 @@
         "service_type": "1",
         "seq": "25",
         "stop": "3E862B92873F5811",
-        "stop_name_tc": "德田邨廣靖樓 (LT513)"
+        "stop_name_tc": "廣田邨廣靖樓 (LT513)"
     },
     {
         "route": "15X",
@@ -25037,7 +25037,7 @@
         "service_type": "1",
         "seq": "30",
         "stop": "3E862B92873F5811",
-        "stop_name_tc": "德田邨廣靖樓 (LT513)"
+        "stop_name_tc": "廣田邨廣靖樓 (LT513)"
     },
     {
         "route": "16",
@@ -26101,7 +26101,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "3E862B92873F5811",
-        "stop_name_tc": "德田邨廣靖樓 (LT513)"
+        "stop_name_tc": "廣田邨廣靖樓 (LT513)"
     },
     {
         "route": "16X",
@@ -35997,7 +35997,7 @@
         "service_type": "1",
         "seq": "32",
         "stop": "3E862B92873F5811",
-        "stop_name_tc": "德田邨廣靖樓 (LT513)"
+        "stop_name_tc": "廣田邨廣靖樓 (LT513)"
     },
     {
         "route": "214",
@@ -37237,7 +37237,7 @@
         "service_type": "1",
         "seq": "26",
         "stop": "3E862B92873F5811",
-        "stop_name_tc": "德田邨廣靖樓 (LT513)"
+        "stop_name_tc": "廣田邨廣靖樓 (LT513)"
     },
     {
         "route": "215X",
@@ -37653,7 +37653,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "3E862B92873F5811",
-        "stop_name_tc": "德田邨廣靖樓 (LT513)"
+        "stop_name_tc": "廣田邨廣靖樓 (LT513)"
     },
     {
         "route": "216M",
@@ -141285,7 +141285,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "3E862B92873F5811",
-        "stop_name_tc": "德田邨廣靖樓 (LT513)"
+        "stop_name_tc": "廣田邨廣靖樓 (LT513)"
     },
     {
         "route": "603",
@@ -141453,7 +141453,7 @@
         "service_type": "2",
         "seq": "7",
         "stop": "3E862B92873F5811",
-        "stop_name_tc": "德田邨廣靖樓 (LT513)"
+        "stop_name_tc": "廣田邨廣靖樓 (LT513)"
     },
     {
         "route": "603",
@@ -141837,7 +141837,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "3E862B92873F5811",
-        "stop_name_tc": "德田邨廣靖樓 (LT513)"
+        "stop_name_tc": "廣田邨廣靖樓 (LT513)"
     },
     {
         "route": "603A",
@@ -142261,7 +142261,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "3E862B92873F5811",
-        "stop_name_tc": "德田邨廣靖樓 (LT513)"
+        "stop_name_tc": "廣田邨廣靖樓 (LT513)"
     },
     {
         "route": "603S",
@@ -145485,7 +145485,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "3E862B92873F5811",
-        "stop_name_tc": "德田邨廣靖樓 (LT513)"
+        "stop_name_tc": "廣田邨廣靖樓 (LT513)"
     },
     {
         "route": "613",
@@ -165997,7 +165997,7 @@
         "service_type": "1",
         "seq": "35",
         "stop": "3E862B92873F5811",
-        "stop_name_tc": "德田邨廣靖樓 (LT513)"
+        "stop_name_tc": "廣田邨廣靖樓 (LT513)"
     },
     {
         "route": "6P",
@@ -181252,6 +181252,134 @@
         "bound": "I",
         "service_type": "1",
         "seq": "39",
+        "stop": "B32FA6CD250F0F6B",
+        "stop_name_tc": "清河邨總站 (ND936)"
+    },
+    {
+        "route": "76K",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "1",
+        "stop": "103661C9BABD79FD",
+        "stop_name_tc": "新田運輸交匯處 (YL437)"
+    },
+    {
+        "route": "76K",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "2",
+        "stop": "11D6E70354E28F88",
+        "stop_name_tc": "洲頭 (YL575)"
+    },
+    {
+        "route": "76K",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "3",
+        "stop": "BD1949B34937A7C6",
+        "stop_name_tc": "白石凹交匯處 (ND576)"
+    },
+    {
+        "route": "76K",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "4",
+        "stop": "99F59D7A7A5260CB",
+        "stop_name_tc": "白石凹-古洞北綜合大樓 (ND577)"
+    },
+    {
+        "route": "76K",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "5",
+        "stop": "77164E6DC3A2EBE1",
+        "stop_name_tc": "河上鄉 (ND578)"
+    },
+    {
+        "route": "76K",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "6",
+        "stop": "F2F54463FF00568C",
+        "stop_name_tc": "古洞 (ND579)"
+    },
+    {
+        "route": "76K",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "7",
+        "stop": "C86D1451F0C108D7",
+        "stop_name_tc": "何東橋 (ND580)"
+    },
+    {
+        "route": "76K",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "8",
+        "stop": "BA7CB63D61CF127B",
+        "stop_name_tc": "金錢 (ND581)"
+    },
+    {
+        "route": "76K",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "9",
+        "stop": "92E4DADD37500B0F",
+        "stop_name_tc": "粉嶺別墅 (ND582)"
+    },
+    {
+        "route": "76K",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "10",
+        "stop": "4AF915B7D3A005F8",
+        "stop_name_tc": "松柏朗 (ND583)"
+    },
+    {
+        "route": "76K",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "11",
+        "stop": "F7A51A70730660CB",
+        "stop_name_tc": "粉錦公路 (ND584)"
+    },
+    {
+        "route": "76K",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "12",
+        "stop": "8717C0140C940AE3",
+        "stop_name_tc": "大頭嶺 (ND100)"
+    },
+    {
+        "route": "76K",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "13",
+        "stop": "093289C2E4F6F408",
+        "stop_name_tc": "彩蒲苑彩碧閣 (ND105a)"
+    },
+    {
+        "route": "76K",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "14",
+        "stop": "3FAC6C2592812331",
+        "stop_name_tc": "上水轉車站 - 上水站 (ND107)"
+    },
+    {
+        "route": "76K",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "15",
+        "stop": "396DD38F2E41E117",
+        "stop_name_tc": "上水官立中學 (ND125)"
+    },
+    {
+        "route": "76K",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "16",
         "stop": "B32FA6CD250F0F6B",
         "stop_name_tc": "清河邨總站 (ND936)"
     },
@@ -202093,7 +202221,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "3E862B92873F5811",
-        "stop_name_tc": "德田邨廣靖樓 (LT513)"
+        "stop_name_tc": "廣田邨廣靖樓 (LT513)"
     },
     {
         "route": "88X",
@@ -202325,7 +202453,7 @@
         "service_type": "2",
         "seq": "7",
         "stop": "3E862B92873F5811",
-        "stop_name_tc": "德田邨廣靖樓 (LT513)"
+        "stop_name_tc": "廣田邨廣靖樓 (LT513)"
     },
     {
         "route": "88X",
@@ -258789,7 +258917,7 @@
         "service_type": "1",
         "seq": "49",
         "stop": "3E862B92873F5811",
-        "stop_name_tc": "德田邨廣靖樓 (LT513)"
+        "stop_name_tc": "廣田邨廣靖樓 (LT513)"
     },
     {
         "route": "N216",
@@ -281557,7 +281685,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "3E862B92873F5811",
-        "stop_name_tc": "德田邨廣靖樓 (LT513)"
+        "stop_name_tc": "廣田邨廣靖樓 (LT513)"
     },
     {
         "route": "R603",

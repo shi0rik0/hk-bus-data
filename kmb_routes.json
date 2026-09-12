@@ -11012,6 +11012,17 @@
     },
     {
         "route": "76K",
+        "bound": "I",
+        "service_type": "2",
+        "orig_en": "SAN TIN PTI",
+        "orig_tc": "新田運輸交匯處",
+        "orig_sc": "新田运输交汇处",
+        "dest_en": "SHEUNG SHUI (CHING HO)",
+        "dest_tc": "上水(清河)",
+        "dest_sc": "上水(清河)"
+    },
+    {
+        "route": "76K",
         "bound": "O",
         "service_type": "1",
         "orig_en": "SHEUNG SHUI (CHING HO)",

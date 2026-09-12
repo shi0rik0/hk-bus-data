@@ -158600,6 +158600,118 @@
     },
     {
         "route": "76K",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "1",
+        "stop": "103661C9BABD79FD"
+    },
+    {
+        "route": "76K",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "2",
+        "stop": "11D6E70354E28F88"
+    },
+    {
+        "route": "76K",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "3",
+        "stop": "BD1949B34937A7C6"
+    },
+    {
+        "route": "76K",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "4",
+        "stop": "99F59D7A7A5260CB"
+    },
+    {
+        "route": "76K",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "5",
+        "stop": "77164E6DC3A2EBE1"
+    },
+    {
+        "route": "76K",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "6",
+        "stop": "F2F54463FF00568C"
+    },
+    {
+        "route": "76K",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "7",
+        "stop": "C86D1451F0C108D7"
+    },
+    {
+        "route": "76K",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "8",
+        "stop": "BA7CB63D61CF127B"
+    },
+    {
+        "route": "76K",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "9",
+        "stop": "92E4DADD37500B0F"
+    },
+    {
+        "route": "76K",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "10",
+        "stop": "4AF915B7D3A005F8"
+    },
+    {
+        "route": "76K",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "11",
+        "stop": "F7A51A70730660CB"
+    },
+    {
+        "route": "76K",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "12",
+        "stop": "8717C0140C940AE3"
+    },
+    {
+        "route": "76K",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "13",
+        "stop": "093289C2E4F6F408"
+    },
+    {
+        "route": "76K",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "14",
+        "stop": "3FAC6C2592812331"
+    },
+    {
+        "route": "76K",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "15",
+        "stop": "396DD38F2E41E117"
+    },
+    {
+        "route": "76K",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "16",
+        "stop": "B32FA6CD250F0F6B"
+    },
+    {
+        "route": "76K",
         "bound": "O",
         "service_type": "1",
         "seq": "1",
