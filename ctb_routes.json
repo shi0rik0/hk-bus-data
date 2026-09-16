@@ -541,6 +541,16 @@
     },
     {
         "co": "CTB",
+        "route": "20X",
+        "orig_tc": "啟德郵輪碼頭",
+        "orig_en": "Kai Tak Cruise Terminal",
+        "dest_tc": "佐敦及尖沙咀",
+        "dest_en": "Jordan & Tsim Sha Tsui",
+        "orig_sc": "启德邮轮码头",
+        "dest_sc": "佐敦及尖沙咀"
+    },
+    {
+        "co": "CTB",
         "route": "22",
         "orig_tc": "啟德郵輪碼頭",
         "orig_en": "Kai Tak Cruise Terminal",
