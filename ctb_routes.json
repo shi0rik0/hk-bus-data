@@ -541,16 +541,6 @@
     },
     {
         "co": "CTB",
-        "route": "20X",
-        "orig_tc": "啟德郵輪碼頭",
-        "orig_en": "Kai Tak Cruise Terminal",
-        "dest_tc": "佐敦及尖沙咀",
-        "dest_en": "Jordan & Tsim Sha Tsui",
-        "orig_sc": "启德邮轮码头",
-        "dest_sc": "佐敦及尖沙咀"
-    },
-    {
-        "co": "CTB",
         "route": "22",
         "orig_tc": "啟德郵輪碼頭",
         "orig_en": "Kai Tak Cruise Terminal",
@@ -3826,6 +3816,26 @@
         "dest_en": "Octopus Night Pass",
         "orig_sc": "八达通夜游票",
         "dest_sc": "八达通夜游票"
+    },
+    {
+        "co": "CTB",
+        "route": "PTKO",
+        "orig_tc": "城巴創富道車廠",
+        "orig_en": "Citybus Chong Fu Road Garage",
+        "dest_tc": "將軍澳站",
+        "dest_en": "Tseung Kwan O Station",
+        "orig_sc": "城巴创富道车厂",
+        "dest_sc": "将军澳站"
+    },
+    {
+        "co": "CTB",
+        "route": "PTSW",
+        "orig_tc": "城巴創富道車廠",
+        "orig_en": "Citybus Chong Fu Road Garage",
+        "dest_tc": "荃灣(眾安街)",
+        "dest_en": "Tsuen Wan (Chung On Street)",
+        "orig_sc": "城巴创富道车厂",
+        "dest_sc": "荃湾(众安街)"
     },
     {
         "co": "CTB",
