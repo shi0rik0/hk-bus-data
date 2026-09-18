@@ -3819,26 +3819,6 @@
     },
     {
         "co": "CTB",
-        "route": "PTKO",
-        "orig_tc": "城巴創富道車廠",
-        "orig_en": "Citybus Chong Fu Road Garage",
-        "dest_tc": "將軍澳站",
-        "dest_en": "Tseung Kwan O Station",
-        "orig_sc": "城巴创富道车厂",
-        "dest_sc": "将军澳站"
-    },
-    {
-        "co": "CTB",
-        "route": "PTSW",
-        "orig_tc": "城巴創富道車廠",
-        "orig_en": "Citybus Chong Fu Road Garage",
-        "dest_tc": "荃灣(眾安街)",
-        "dest_en": "Tsuen Wan (Chung On Street)",
-        "orig_sc": "城巴创富道车厂",
-        "dest_sc": "荃湾(众安街)"
-    },
-    {
-        "co": "CTB",
         "route": "R11",
         "orig_tc": "迪士尼樂園",
         "orig_en": "Disneyland",
