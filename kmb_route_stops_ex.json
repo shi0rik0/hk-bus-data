@@ -173,7 +173,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "F2794804DD8799B4",
-        "stop_name_tc": "宏業樓 (WT432)"
+        "stop_name_tc": "橫頭磡邨宏業樓 (WT432)"
     },
     {
         "route": "1",
@@ -245,7 +245,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "7C4E16F4A138B142",
-        "stop_name_tc": "偉東樓 (WT572)"
+        "stop_name_tc": "東頭邨偉東樓 (WT572)"
     },
     {
         "route": "1",
@@ -253,7 +253,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "A47333D8B495F77D",
-        "stop_name_tc": "盈東樓 (WT573)"
+        "stop_name_tc": "東頭邨盈東樓 (WT573)"
     },
     {
         "route": "1",
@@ -453,7 +453,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "7BDF3895E0BCE33B",
-        "stop_name_tc": "龍逸樓 (WT585)"
+        "stop_name_tc": "黃大仙下邨龍逸樓 (WT585)"
     },
     {
         "route": "10",
@@ -461,7 +461,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "168487E2C681CB0D",
-        "stop_name_tc": "龍榮樓 (WT570)"
+        "stop_name_tc": "黃大仙下邨龍榮樓 (WT570)"
     },
     {
         "route": "10",
@@ -477,7 +477,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "7C4E16F4A138B142",
-        "stop_name_tc": "偉東樓 (WT572)"
+        "stop_name_tc": "東頭邨偉東樓 (WT572)"
     },
     {
         "route": "10",
@@ -485,7 +485,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "A47333D8B495F77D",
-        "stop_name_tc": "盈東樓 (WT573)"
+        "stop_name_tc": "東頭邨盈東樓 (WT573)"
     },
     {
         "route": "10",
@@ -765,7 +765,7 @@
         "service_type": "1",
         "seq": "46",
         "stop": "942E95B4336BDFA7",
-        "stop_name_tc": "白虹樓 (WT230)"
+        "stop_name_tc": "彩雲邨白虹樓 (WT230)"
     },
     {
         "route": "10",
@@ -773,7 +773,7 @@
         "service_type": "1",
         "seq": "47",
         "stop": "33BA3785390F1457",
-        "stop_name_tc": "觀日樓 (WT241)"
+        "stop_name_tc": "彩雲邨觀日樓 (WT241)"
     },
     {
         "route": "10",
@@ -2269,7 +2269,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "D446D1EA79502BF2",
-        "stop_name_tc": "泰東樓 (WT323)"
+        "stop_name_tc": "東頭邨泰東樓 (WT323)"
     },
     {
         "route": "101R",
@@ -2461,7 +2461,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "A21BEB6F4E6D43E6",
-        "stop_name_tc": "九龍灣常悅道 (KT475)"
+        "stop_name_tc": "九龍灣常悅道 MEGABOX (KT475)"
     },
     {
         "route": "101X",
@@ -2693,7 +2693,7 @@
         "service_type": "2",
         "seq": "7",
         "stop": "94358F5481BAE505",
-        "stop_name_tc": "常悅道 (KT130)"
+        "stop_name_tc": "常悅道 企業廣場 (KT130)"
     },
     {
         "route": "101X",
@@ -4277,7 +4277,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "FBAA9F0F9B1893F7",
-        "stop_name_tc": "宏業樓 (WT441)"
+        "stop_name_tc": "橫頭磡邨宏業樓 (WT441)"
     },
     {
         "route": "103",
@@ -5461,7 +5461,7 @@
         "service_type": "1",
         "seq": "46",
         "stop": "20915DF05723C615",
-        "stop_name_tc": "龍慧樓 (WT119)"
+        "stop_name_tc": "黃大仙下邨龍慧樓 (WT119)"
     },
     {
         "route": "106",
@@ -6293,7 +6293,7 @@
         "service_type": "1",
         "seq": "34",
         "stop": "20915DF05723C615",
-        "stop_name_tc": "龍慧樓 (WT119)"
+        "stop_name_tc": "黃大仙下邨龍慧樓 (WT119)"
     },
     {
         "route": "106P",
@@ -6613,7 +6613,7 @@
         "service_type": "2",
         "seq": "39",
         "stop": "20915DF05723C615",
-        "stop_name_tc": "龍慧樓 (WT119)"
+        "stop_name_tc": "黃大仙下邨龍慧樓 (WT119)"
     },
     {
         "route": "106P",
@@ -9365,7 +9365,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "20915DF05723C615",
-        "stop_name_tc": "龍慧樓 (WT119)"
+        "stop_name_tc": "黃大仙下邨龍慧樓 (WT119)"
     },
     {
         "route": "11",
@@ -9461,7 +9461,7 @@
         "service_type": "1",
         "seq": "27",
         "stop": "EE3B5ABCB87027E7",
-        "stop_name_tc": "正暉樓 (WT383)"
+        "stop_name_tc": "慈正邨正暉樓 (WT383)"
     },
     {
         "route": "11",
@@ -9589,7 +9589,7 @@
         "service_type": "2",
         "seq": "15",
         "stop": "20915DF05723C615",
-        "stop_name_tc": "龍慧樓 (WT119)"
+        "stop_name_tc": "黃大仙下邨龍慧樓 (WT119)"
     },
     {
         "route": "11",
@@ -9701,7 +9701,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "31317843D8BA833F",
-        "stop_name_tc": "正暉樓 (WT381)"
+        "stop_name_tc": "慈正邨正暉樓 (WT381)"
     },
     {
         "route": "11",
@@ -9709,7 +9709,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "FDFC87BC94515900",
-        "stop_name_tc": "正康樓 (WT384)"
+        "stop_name_tc": "慈正邨正康樓 (WT384)"
     },
     {
         "route": "11",
@@ -9773,7 +9773,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "7BDF3895E0BCE33B",
-        "stop_name_tc": "龍逸樓 (WT585)"
+        "stop_name_tc": "黃大仙下邨龍逸樓 (WT585)"
     },
     {
         "route": "11",
@@ -9901,7 +9901,7 @@
         "service_type": "2",
         "seq": "1",
         "stop": "6F817E994CAF7928",
-        "stop_name_tc": "鑽石山站巴士總站 (WT967)"
+        "stop_name_tc": "鑽石山站 荷里活廣場 (WT967)"
     },
     {
         "route": "11",
@@ -9917,7 +9917,7 @@
         "service_type": "2",
         "seq": "3",
         "stop": "7BDF3895E0BCE33B",
-        "stop_name_tc": "龍逸樓 (WT585)"
+        "stop_name_tc": "黃大仙下邨龍逸樓 (WT585)"
     },
     {
         "route": "11",
@@ -11317,7 +11317,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "D446D1EA79502BF2",
-        "stop_name_tc": "泰東樓 (WT323)"
+        "stop_name_tc": "東頭邨泰東樓 (WT323)"
     },
     {
         "route": "111",
@@ -11661,7 +11661,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "D446D1EA79502BF2",
-        "stop_name_tc": "泰東樓 (WT323)"
+        "stop_name_tc": "東頭邨泰東樓 (WT323)"
     },
     {
         "route": "111P",
@@ -11717,7 +11717,7 @@
         "service_type": "1",
         "seq": "25",
         "stop": "90ED381AD3BAE4F9",
-        "stop_name_tc": "彩亮樓 (KT151)"
+        "stop_name_tc": "彩德邨彩亮樓 (KT151)"
     },
     {
         "route": "111P",
@@ -11725,7 +11725,7 @@
         "service_type": "1",
         "seq": "26",
         "stop": "534DB02642325617",
-        "stop_name_tc": "彩福 (KT400)"
+        "stop_name_tc": "彩福邨 (KT400)"
     },
     {
         "route": "111P",
@@ -11733,7 +11733,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "534DB02642325617",
-        "stop_name_tc": "彩福 (KT400)"
+        "stop_name_tc": "彩福邨 (KT400)"
     },
     {
         "route": "111P",
@@ -11741,7 +11741,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "79E1F84E966F6113",
-        "stop_name_tc": "彩賢樓 (KT403)"
+        "stop_name_tc": "彩福邨街市 (KT403)"
     },
     {
         "route": "111P",
@@ -12517,7 +12517,7 @@
         "service_type": "1",
         "seq": "34",
         "stop": "A811A4AAF18AFAFF",
-        "stop_name_tc": "龍滿樓 (WT118)"
+        "stop_name_tc": "黃大仙下邨龍滿樓 (WT118)"
     },
     {
         "route": "113",
@@ -12525,7 +12525,7 @@
         "service_type": "1",
         "seq": "35",
         "stop": "20915DF05723C615",
-        "stop_name_tc": "龍慧樓 (WT119)"
+        "stop_name_tc": "黃大仙下邨龍慧樓 (WT119)"
     },
     {
         "route": "113",
@@ -12613,7 +12613,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "7C4E16F4A138B142",
-        "stop_name_tc": "偉東樓 (WT572)"
+        "stop_name_tc": "東頭邨偉東樓 (WT572)"
     },
     {
         "route": "113",
@@ -12621,7 +12621,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "029519563009717D",
-        "stop_name_tc": "盈東樓 (WT574)"
+        "stop_name_tc": "東頭邨盈東樓 (WT574)"
     },
     {
         "route": "113",
@@ -13493,7 +13493,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "D446D1EA79502BF2",
-        "stop_name_tc": "泰東樓 (WT323)"
+        "stop_name_tc": "東頭邨泰東樓 (WT323)"
     },
     {
         "route": "116",
@@ -13565,7 +13565,7 @@
         "service_type": "1",
         "seq": "31",
         "stop": "EE3B5ABCB87027E7",
-        "stop_name_tc": "正暉樓 (WT383)"
+        "stop_name_tc": "慈正邨正暉樓 (WT383)"
     },
     {
         "route": "116",
@@ -13693,7 +13693,7 @@
         "service_type": "2",
         "seq": "15",
         "stop": "D446D1EA79502BF2",
-        "stop_name_tc": "泰東樓 (WT323)"
+        "stop_name_tc": "東頭邨泰東樓 (WT323)"
     },
     {
         "route": "116",
@@ -13765,7 +13765,7 @@
         "service_type": "2",
         "seq": "24",
         "stop": "EE3B5ABCB87027E7",
-        "stop_name_tc": "正暉樓 (WT383)"
+        "stop_name_tc": "慈正邨正暉樓 (WT383)"
     },
     {
         "route": "116",
@@ -13789,7 +13789,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "119ADA59BD2708D2",
-        "stop_name_tc": "正暉樓 (WT382)"
+        "stop_name_tc": "慈正邨正暉樓 (WT382)"
     },
     {
         "route": "116",
@@ -13797,7 +13797,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "C185612B431B197A",
-        "stop_name_tc": "正康樓 (WT385)"
+        "stop_name_tc": "慈正邨正康樓 (WT385)"
     },
     {
         "route": "116",
@@ -15973,7 +15973,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "F9210821429F55B6",
-        "stop_name_tc": "翠桉樓 (KT272)"
+        "stop_name_tc": "翠屏北邨翠桉樓 (KT272)"
     },
     {
         "route": "11B",
@@ -15997,7 +15997,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "3673A01280621EC2",
-        "stop_name_tc": "翠梓樓 (KT562)"
+        "stop_name_tc": "翠屏北邨翠梓樓 (KT562)"
     },
     {
         "route": "11B",
@@ -16165,7 +16165,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "D17050E8964504BB",
-        "stop_name_tc": "秀明樓 (KT519)"
+        "stop_name_tc": "秀茂坪邨秀明樓 (KT519)"
     },
     {
         "route": "11C",
@@ -16173,7 +16173,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "04DDF4F7F1C74876",
-        "stop_name_tc": "秀富樓 (KT520)"
+        "stop_name_tc": "秀茂坪邨秀富樓 (KT520)"
     },
     {
         "route": "11C",
@@ -16189,7 +16189,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "5FF5FCFD1121F033",
-        "stop_name_tc": "秀樂樓 (KT525)"
+        "stop_name_tc": "秀茂坪邨秀樂樓 (KT525)"
     },
     {
         "route": "11C",
@@ -16229,7 +16229,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "3673A01280621EC2",
-        "stop_name_tc": "翠梓樓 (KT562)"
+        "stop_name_tc": "翠屏北邨翠梓樓 (KT562)"
     },
     {
         "route": "11C",
@@ -16525,7 +16525,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "F9210821429F55B6",
-        "stop_name_tc": "翠桉樓 (KT272)"
+        "stop_name_tc": "翠屏北邨翠桉樓 (KT272)"
     },
     {
         "route": "11C",
@@ -16565,7 +16565,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "4A14A012710E80B1",
-        "stop_name_tc": "秀樂樓 (KT385)"
+        "stop_name_tc": "秀茂坪邨秀樂樓 (KT385)"
     },
     {
         "route": "11C",
@@ -16573,7 +16573,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "25D24692B2A312FB",
-        "stop_name_tc": "秀逸樓 (KT388)"
+        "stop_name_tc": "秀茂坪邨秀逸樓 (KT388)"
     },
     {
         "route": "11C",
@@ -16581,7 +16581,7 @@
         "service_type": "1",
         "seq": "23",
         "stop": "6F106FD26B684372",
-        "stop_name_tc": "秀安樓 (KT390)"
+        "stop_name_tc": "秀茂坪邨秀安樓 (KT390)"
     },
     {
         "route": "11C",
@@ -16589,7 +16589,7 @@
         "service_type": "1",
         "seq": "24",
         "stop": "A078E2CAF27A699C",
-        "stop_name_tc": "秀明樓 (KT392)"
+        "stop_name_tc": "秀茂坪邨秀明樓 (KT392)"
     },
     {
         "route": "11C",
@@ -16757,7 +16757,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "EB471522ACF7B803",
-        "stop_name_tc": "樂謙樓 (WT221)"
+        "stop_name_tc": "樂富邨樂謙樓 (WT221)"
     },
     {
         "route": "11D",
@@ -17069,7 +17069,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "F2794804DD8799B4",
-        "stop_name_tc": "宏業樓 (WT432)"
+        "stop_name_tc": "橫頭磡邨宏業樓 (WT432)"
     },
     {
         "route": "11K",
@@ -17141,7 +17141,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "7C4E16F4A138B142",
-        "stop_name_tc": "偉東樓 (WT572)"
+        "stop_name_tc": "東頭邨偉東樓 (WT572)"
     },
     {
         "route": "11K",
@@ -17149,7 +17149,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "029519563009717D",
-        "stop_name_tc": "盈東樓 (WT574)"
+        "stop_name_tc": "東頭邨盈東樓 (WT574)"
     },
     {
         "route": "11K",
@@ -17453,7 +17453,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "4A14A012710E80B1",
-        "stop_name_tc": "秀樂樓 (KT385)"
+        "stop_name_tc": "秀茂坪邨秀樂樓 (KT385)"
     },
     {
         "route": "11X",
@@ -17461,7 +17461,7 @@
         "service_type": "1",
         "seq": "23",
         "stop": "25D24692B2A312FB",
-        "stop_name_tc": "秀逸樓 (KT388)"
+        "stop_name_tc": "秀茂坪邨秀逸樓 (KT388)"
     },
     {
         "route": "11X",
@@ -17469,7 +17469,7 @@
         "service_type": "1",
         "seq": "24",
         "stop": "6F106FD26B684372",
-        "stop_name_tc": "秀安樓 (KT390)"
+        "stop_name_tc": "秀茂坪邨秀安樓 (KT390)"
     },
     {
         "route": "11X",
@@ -17477,7 +17477,7 @@
         "service_type": "1",
         "seq": "25",
         "stop": "A078E2CAF27A699C",
-        "stop_name_tc": "秀明樓 (KT392)"
+        "stop_name_tc": "秀茂坪邨秀明樓 (KT392)"
     },
     {
         "route": "11X",
@@ -17493,7 +17493,7 @@
         "service_type": "1",
         "seq": "27",
         "stop": "1FBAAE29AF1CA50E",
-        "stop_name_tc": "秀暉樓 (KT501)"
+        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT501)"
     },
     {
         "route": "11X",
@@ -17589,7 +17589,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "D17050E8964504BB",
-        "stop_name_tc": "秀明樓 (KT519)"
+        "stop_name_tc": "秀茂坪邨秀明樓 (KT519)"
     },
     {
         "route": "11X",
@@ -17597,7 +17597,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "04DDF4F7F1C74876",
-        "stop_name_tc": "秀富樓 (KT520)"
+        "stop_name_tc": "秀茂坪邨秀富樓 (KT520)"
     },
     {
         "route": "11X",
@@ -17613,7 +17613,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "5FF5FCFD1121F033",
-        "stop_name_tc": "秀樂樓 (KT525)"
+        "stop_name_tc": "秀茂坪邨秀樂樓 (KT525)"
     },
     {
         "route": "11X",
@@ -18685,7 +18685,7 @@
         "service_type": "1",
         "seq": "38",
         "stop": "1FBAAE29AF1CA50E",
-        "stop_name_tc": "秀暉樓 (KT501)"
+        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT501)"
     },
     {
         "route": "13",
@@ -19261,7 +19261,7 @@
         "service_type": "1",
         "seq": "29",
         "stop": "4A14A012710E80B1",
-        "stop_name_tc": "秀樂樓 (KT385)"
+        "stop_name_tc": "秀茂坪邨秀樂樓 (KT385)"
     },
     {
         "route": "13D",
@@ -19269,7 +19269,7 @@
         "service_type": "1",
         "seq": "30",
         "stop": "25D24692B2A312FB",
-        "stop_name_tc": "秀逸樓 (KT388)"
+        "stop_name_tc": "秀茂坪邨秀逸樓 (KT388)"
     },
     {
         "route": "13D",
@@ -19277,7 +19277,7 @@
         "service_type": "1",
         "seq": "31",
         "stop": "6F106FD26B684372",
-        "stop_name_tc": "秀安樓 (KT390)"
+        "stop_name_tc": "秀茂坪邨秀安樓 (KT390)"
     },
     {
         "route": "13D",
@@ -19285,7 +19285,7 @@
         "service_type": "1",
         "seq": "32",
         "stop": "A078E2CAF27A699C",
-        "stop_name_tc": "秀明樓 (KT392)"
+        "stop_name_tc": "秀茂坪邨秀明樓 (KT392)"
     },
     {
         "route": "13D",
@@ -19301,7 +19301,7 @@
         "service_type": "1",
         "seq": "34",
         "stop": "1FBAAE29AF1CA50E",
-        "stop_name_tc": "秀暉樓 (KT501)"
+        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT501)"
     },
     {
         "route": "13D",
@@ -19333,7 +19333,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "D17050E8964504BB",
-        "stop_name_tc": "秀明樓 (KT519)"
+        "stop_name_tc": "秀茂坪邨秀明樓 (KT519)"
     },
     {
         "route": "13D",
@@ -19341,7 +19341,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "04DDF4F7F1C74876",
-        "stop_name_tc": "秀富樓 (KT520)"
+        "stop_name_tc": "秀茂坪邨秀富樓 (KT520)"
     },
     {
         "route": "13D",
@@ -19357,7 +19357,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "2BB6115BF9346B34",
-        "stop_name_tc": "秀樂樓 (KT524)"
+        "stop_name_tc": "秀茂坪邨秀樂樓 (KT524)"
     },
     {
         "route": "13D",
@@ -19581,7 +19581,7 @@
         "service_type": "2",
         "seq": "3",
         "stop": "D17050E8964504BB",
-        "stop_name_tc": "秀明樓 (KT519)"
+        "stop_name_tc": "秀茂坪邨秀明樓 (KT519)"
     },
     {
         "route": "13D",
@@ -19589,7 +19589,7 @@
         "service_type": "2",
         "seq": "4",
         "stop": "04DDF4F7F1C74876",
-        "stop_name_tc": "秀富樓 (KT520)"
+        "stop_name_tc": "秀茂坪邨秀富樓 (KT520)"
     },
     {
         "route": "13D",
@@ -19605,7 +19605,7 @@
         "service_type": "2",
         "seq": "6",
         "stop": "2BB6115BF9346B34",
-        "stop_name_tc": "秀樂樓 (KT524)"
+        "stop_name_tc": "秀茂坪邨秀樂樓 (KT524)"
     },
     {
         "route": "13D",
@@ -19861,7 +19861,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "F9210821429F55B6",
-        "stop_name_tc": "翠桉樓 (KT272)"
+        "stop_name_tc": "翠屏北邨翠桉樓 (KT272)"
     },
     {
         "route": "13M",
@@ -19917,7 +19917,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "1FBAAE29AF1CA50E",
-        "stop_name_tc": "秀暉樓 (KT501)"
+        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT501)"
     },
     {
         "route": "13M",
@@ -19933,7 +19933,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "3C0AF6BA82588E2F",
-        "stop_name_tc": "秀程樓 (KT502)"
+        "stop_name_tc": "秀茂坪邨秀程樓 (KT502)"
     },
     {
         "route": "13M",
@@ -19941,7 +19941,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "F8DEE1D5F9A349AD",
-        "stop_name_tc": "秀康樓 (KT503)"
+        "stop_name_tc": "秀茂坪邨秀康樓 (KT503)"
     },
     {
         "route": "13M",
@@ -19949,7 +19949,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "4A14A012710E80B1",
-        "stop_name_tc": "秀樂樓 (KT385)"
+        "stop_name_tc": "秀茂坪邨秀樂樓 (KT385)"
     },
     {
         "route": "13M",
@@ -19957,7 +19957,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "25D24692B2A312FB",
-        "stop_name_tc": "秀逸樓 (KT388)"
+        "stop_name_tc": "秀茂坪邨秀逸樓 (KT388)"
     },
     {
         "route": "13M",
@@ -19965,7 +19965,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "6F106FD26B684372",
-        "stop_name_tc": "秀安樓 (KT390)"
+        "stop_name_tc": "秀茂坪邨秀安樓 (KT390)"
     },
     {
         "route": "13M",
@@ -19973,7 +19973,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "26305AF62FBEE2BC",
-        "stop_name_tc": "秀明樓 (KT393)"
+        "stop_name_tc": "秀茂坪邨秀明樓 (KT393)"
     },
     {
         "route": "13M",
@@ -20045,7 +20045,7 @@
         "service_type": "2",
         "seq": "2",
         "stop": "25863CD2A364E72F",
-        "stop_name_tc": "秀暉樓 (KT300)"
+        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT300)"
     },
     {
         "route": "13M",
@@ -20077,7 +20077,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "D17050E8964504BB",
-        "stop_name_tc": "秀明樓 (KT519)"
+        "stop_name_tc": "秀茂坪邨秀明樓 (KT519)"
     },
     {
         "route": "13P",
@@ -20085,7 +20085,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "04DDF4F7F1C74876",
-        "stop_name_tc": "秀富樓 (KT520)"
+        "stop_name_tc": "秀茂坪邨秀富樓 (KT520)"
     },
     {
         "route": "13P",
@@ -20101,7 +20101,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "2BB6115BF9346B34",
-        "stop_name_tc": "秀樂樓 (KT524)"
+        "stop_name_tc": "秀茂坪邨秀樂樓 (KT524)"
     },
     {
         "route": "13P",
@@ -20469,7 +20469,7 @@
         "service_type": "1",
         "seq": "29",
         "stop": "D17050E8964504BB",
-        "stop_name_tc": "秀明樓 (KT519)"
+        "stop_name_tc": "秀茂坪邨秀明樓 (KT519)"
     },
     {
         "route": "13X",
@@ -20477,7 +20477,7 @@
         "service_type": "1",
         "seq": "30",
         "stop": "04DDF4F7F1C74876",
-        "stop_name_tc": "秀富樓 (KT520)"
+        "stop_name_tc": "秀茂坪邨秀富樓 (KT520)"
     },
     {
         "route": "13X",
@@ -20493,7 +20493,7 @@
         "service_type": "1",
         "seq": "32",
         "stop": "5FF5FCFD1121F033",
-        "stop_name_tc": "秀樂樓 (KT525)"
+        "stop_name_tc": "秀茂坪邨秀樂樓 (KT525)"
     },
     {
         "route": "13X",
@@ -20501,7 +20501,7 @@
         "service_type": "1",
         "seq": "33",
         "stop": "B809C24DC8C87767",
-        "stop_name_tc": "秀康樓 (KT297)"
+        "stop_name_tc": "秀茂坪邨秀康樓 (KT297)"
     },
     {
         "route": "13X",
@@ -20509,7 +20509,7 @@
         "service_type": "1",
         "seq": "34",
         "stop": "3BA4DBB4520188DF",
-        "stop_name_tc": "秀程樓 (KT298)"
+        "stop_name_tc": "秀茂坪邨秀程樓 (KT298)"
     },
     {
         "route": "13X",
@@ -20701,7 +20701,7 @@
         "service_type": "2",
         "seq": "23",
         "stop": "D17050E8964504BB",
-        "stop_name_tc": "秀明樓 (KT519)"
+        "stop_name_tc": "秀茂坪邨秀明樓 (KT519)"
     },
     {
         "route": "13X",
@@ -20709,7 +20709,7 @@
         "service_type": "2",
         "seq": "24",
         "stop": "04DDF4F7F1C74876",
-        "stop_name_tc": "秀富樓 (KT520)"
+        "stop_name_tc": "秀茂坪邨秀富樓 (KT520)"
     },
     {
         "route": "13X",
@@ -20725,7 +20725,7 @@
         "service_type": "2",
         "seq": "26",
         "stop": "5FF5FCFD1121F033",
-        "stop_name_tc": "秀樂樓 (KT525)"
+        "stop_name_tc": "秀茂坪邨秀樂樓 (KT525)"
     },
     {
         "route": "13X",
@@ -20733,7 +20733,7 @@
         "service_type": "2",
         "seq": "27",
         "stop": "B809C24DC8C87767",
-        "stop_name_tc": "秀康樓 (KT297)"
+        "stop_name_tc": "秀茂坪邨秀康樓 (KT297)"
     },
     {
         "route": "13X",
@@ -20741,7 +20741,7 @@
         "service_type": "2",
         "seq": "28",
         "stop": "3BA4DBB4520188DF",
-        "stop_name_tc": "秀程樓 (KT298)"
+        "stop_name_tc": "秀茂坪邨秀程樓 (KT298)"
     },
     {
         "route": "13X",
@@ -20765,7 +20765,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "3C0AF6BA82588E2F",
-        "stop_name_tc": "秀程樓 (KT502)"
+        "stop_name_tc": "秀茂坪邨秀程樓 (KT502)"
     },
     {
         "route": "13X",
@@ -20773,7 +20773,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "F8DEE1D5F9A349AD",
-        "stop_name_tc": "秀康樓 (KT503)"
+        "stop_name_tc": "秀茂坪邨秀康樓 (KT503)"
     },
     {
         "route": "13X",
@@ -20781,7 +20781,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "4A14A012710E80B1",
-        "stop_name_tc": "秀樂樓 (KT385)"
+        "stop_name_tc": "秀茂坪邨秀樂樓 (KT385)"
     },
     {
         "route": "13X",
@@ -20797,7 +20797,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "6F106FD26B684372",
-        "stop_name_tc": "秀安樓 (KT390)"
+        "stop_name_tc": "秀茂坪邨秀安樓 (KT390)"
     },
     {
         "route": "13X",
@@ -20805,7 +20805,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "26305AF62FBEE2BC",
-        "stop_name_tc": "秀明樓 (KT393)"
+        "stop_name_tc": "秀茂坪邨秀明樓 (KT393)"
     },
     {
         "route": "13X",
@@ -20997,7 +20997,7 @@
         "service_type": "2",
         "seq": "2",
         "stop": "3C0AF6BA82588E2F",
-        "stop_name_tc": "秀程樓 (KT502)"
+        "stop_name_tc": "秀茂坪邨秀程樓 (KT502)"
     },
     {
         "route": "13X",
@@ -21005,7 +21005,7 @@
         "service_type": "2",
         "seq": "3",
         "stop": "F8DEE1D5F9A349AD",
-        "stop_name_tc": "秀康樓 (KT503)"
+        "stop_name_tc": "秀茂坪邨秀康樓 (KT503)"
     },
     {
         "route": "13X",
@@ -21013,7 +21013,7 @@
         "service_type": "2",
         "seq": "4",
         "stop": "4A14A012710E80B1",
-        "stop_name_tc": "秀樂樓 (KT385)"
+        "stop_name_tc": "秀茂坪邨秀樂樓 (KT385)"
     },
     {
         "route": "13X",
@@ -21029,7 +21029,7 @@
         "service_type": "2",
         "seq": "6",
         "stop": "6F106FD26B684372",
-        "stop_name_tc": "秀安樓 (KT390)"
+        "stop_name_tc": "秀茂坪邨秀安樓 (KT390)"
     },
     {
         "route": "13X",
@@ -21037,7 +21037,7 @@
         "service_type": "2",
         "seq": "7",
         "stop": "26305AF62FBEE2BC",
-        "stop_name_tc": "秀明樓 (KT393)"
+        "stop_name_tc": "秀茂坪邨秀明樓 (KT393)"
     },
     {
         "route": "13X",
@@ -21197,7 +21197,7 @@
         "service_type": "3",
         "seq": "1",
         "stop": "534DB02642325617",
-        "stop_name_tc": "彩福 (KT400)"
+        "stop_name_tc": "彩福邨 (KT400)"
     },
     {
         "route": "13X",
@@ -21205,7 +21205,7 @@
         "service_type": "3",
         "seq": "2",
         "stop": "79E1F84E966F6113",
-        "stop_name_tc": "彩賢樓 (KT403)"
+        "stop_name_tc": "彩福邨街市 (KT403)"
     },
     {
         "route": "13X",
@@ -21213,7 +21213,7 @@
         "service_type": "3",
         "seq": "3",
         "stop": "E905F8E518AE17B6",
-        "stop_name_tc": "盈安樓 (KT406)"
+        "stop_name_tc": "彩盈邨盈安樓 (KT406)"
     },
     {
         "route": "13X",
@@ -21221,7 +21221,7 @@
         "service_type": "3",
         "seq": "4",
         "stop": "24AD2532770CF399",
-        "stop_name_tc": "盈順樓 (KT407)"
+        "stop_name_tc": "彩盈邨盈順樓 (KT407)"
     },
     {
         "route": "13X",
@@ -21333,7 +21333,7 @@
         "service_type": "5",
         "seq": "2",
         "stop": "3C0AF6BA82588E2F",
-        "stop_name_tc": "秀程樓 (KT502)"
+        "stop_name_tc": "秀茂坪邨秀程樓 (KT502)"
     },
     {
         "route": "13X",
@@ -21341,7 +21341,7 @@
         "service_type": "5",
         "seq": "3",
         "stop": "F8DEE1D5F9A349AD",
-        "stop_name_tc": "秀康樓 (KT503)"
+        "stop_name_tc": "秀茂坪邨秀康樓 (KT503)"
     },
     {
         "route": "13X",
@@ -21349,7 +21349,7 @@
         "service_type": "5",
         "seq": "4",
         "stop": "4A14A012710E80B1",
-        "stop_name_tc": "秀樂樓 (KT385)"
+        "stop_name_tc": "秀茂坪邨秀樂樓 (KT385)"
     },
     {
         "route": "13X",
@@ -21365,7 +21365,7 @@
         "service_type": "5",
         "seq": "6",
         "stop": "6F106FD26B684372",
-        "stop_name_tc": "秀安樓 (KT390)"
+        "stop_name_tc": "秀茂坪邨秀安樓 (KT390)"
     },
     {
         "route": "13X",
@@ -21373,7 +21373,7 @@
         "service_type": "5",
         "seq": "7",
         "stop": "26305AF62FBEE2BC",
-        "stop_name_tc": "秀明樓 (KT393)"
+        "stop_name_tc": "秀茂坪邨秀明樓 (KT393)"
     },
     {
         "route": "13X",
@@ -22341,7 +22341,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "9A16E73DC0B9AF6C",
-        "stop_name_tc": "白虹樓 (WT232)"
+        "stop_name_tc": "彩雲邨白虹樓 (WT232)"
     },
     {
         "route": "14D",
@@ -22389,7 +22389,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "4A14A012710E80B1",
-        "stop_name_tc": "秀樂樓 (KT385)"
+        "stop_name_tc": "秀茂坪邨秀樂樓 (KT385)"
     },
     {
         "route": "14D",
@@ -22397,7 +22397,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "25D24692B2A312FB",
-        "stop_name_tc": "秀逸樓 (KT388)"
+        "stop_name_tc": "秀茂坪邨秀逸樓 (KT388)"
     },
     {
         "route": "14D",
@@ -22405,7 +22405,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "6F106FD26B684372",
-        "stop_name_tc": "秀安樓 (KT390)"
+        "stop_name_tc": "秀茂坪邨秀安樓 (KT390)"
     },
     {
         "route": "14D",
@@ -22565,7 +22565,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "D17050E8964504BB",
-        "stop_name_tc": "秀明樓 (KT519)"
+        "stop_name_tc": "秀茂坪邨秀明樓 (KT519)"
     },
     {
         "route": "14D",
@@ -22573,7 +22573,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "04DDF4F7F1C74876",
-        "stop_name_tc": "秀富樓 (KT520)"
+        "stop_name_tc": "秀茂坪邨秀富樓 (KT520)"
     },
     {
         "route": "14D",
@@ -22589,7 +22589,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "3ABDE54448D1E059",
-        "stop_name_tc": "秀樂樓 (KT523)"
+        "stop_name_tc": "秀茂坪邨秀樂樓 (KT523)"
     },
     {
         "route": "14D",
@@ -22645,7 +22645,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "3BA9C90738A8600D",
-        "stop_name_tc": "白虹樓 (WT615)"
+        "stop_name_tc": "彩雲邨白虹樓 聖言中學 (WT615)"
     },
     {
         "route": "14D",
@@ -22725,7 +22725,7 @@
         "service_type": "2",
         "seq": "8",
         "stop": "D17050E8964504BB",
-        "stop_name_tc": "秀明樓 (KT519)"
+        "stop_name_tc": "秀茂坪邨秀明樓 (KT519)"
     },
     {
         "route": "14D",
@@ -22733,7 +22733,7 @@
         "service_type": "2",
         "seq": "9",
         "stop": "04DDF4F7F1C74876",
-        "stop_name_tc": "秀富樓 (KT520)"
+        "stop_name_tc": "秀茂坪邨秀富樓 (KT520)"
     },
     {
         "route": "14D",
@@ -22749,7 +22749,7 @@
         "service_type": "2",
         "seq": "11",
         "stop": "3ABDE54448D1E059",
-        "stop_name_tc": "秀樂樓 (KT523)"
+        "stop_name_tc": "秀茂坪邨秀樂樓 (KT523)"
     },
     {
         "route": "14D",
@@ -22805,7 +22805,7 @@
         "service_type": "2",
         "seq": "18",
         "stop": "3BA9C90738A8600D",
-        "stop_name_tc": "白虹樓 (WT615)"
+        "stop_name_tc": "彩雲邨白虹樓 聖言中學 (WT615)"
     },
     {
         "route": "14D",
@@ -23045,7 +23045,7 @@
         "service_type": "1",
         "seq": "28",
         "stop": "3673A01280621EC2",
-        "stop_name_tc": "翠梓樓 (KT562)"
+        "stop_name_tc": "翠屏北邨翠梓樓 (KT562)"
     },
     {
         "route": "14H",
@@ -23965,7 +23965,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "C185612B431B197A",
-        "stop_name_tc": "正康樓 (WT385)"
+        "stop_name_tc": "慈正邨正康樓 (WT385)"
     },
     {
         "route": "15A",
@@ -23981,7 +23981,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "2FBEE4E1965D7EF5",
-        "stop_name_tc": "樂滿樓 (WT393)"
+        "stop_name_tc": "慈樂邨樂滿樓 (WT393)"
     },
     {
         "route": "15A",
@@ -24005,7 +24005,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "E81E4649EB1D5B02",
-        "stop_name_tc": "美德樓 (WT406)"
+        "stop_name_tc": "美德樓 鳳德公園 (WT406)"
     },
     {
         "route": "15A",
@@ -24085,7 +24085,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "94358F5481BAE505",
-        "stop_name_tc": "常悅道 (KT130)"
+        "stop_name_tc": "常悅道 企業廣場 (KT130)"
     },
     {
         "route": "15A",
@@ -24309,7 +24309,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "A1C35E976ACF46FD",
-        "stop_name_tc": "九龍灣常悅道 (KT476)"
+        "stop_name_tc": "九龍灣常悅道 MEGABOX (KT476)"
     },
     {
         "route": "15A",
@@ -24397,7 +24397,7 @@
         "service_type": "1",
         "seq": "24",
         "stop": "652AA124E97768EF",
-        "stop_name_tc": "樂祥樓 (WT531)"
+        "stop_name_tc": "慈樂邨樂祥樓 (WT531)"
     },
     {
         "route": "15A",
@@ -25773,7 +25773,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "91449853378E9F8F",
-        "stop_name_tc": "常悅道 (KT131)"
+        "stop_name_tc": "常悅道 企業廣場 (KT131)"
     },
     {
         "route": "16P",
@@ -25845,7 +25845,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "A1C35E976ACF46FD",
-        "stop_name_tc": "九龍灣常悅道 (KT476)"
+        "stop_name_tc": "九龍灣常悅道 MEGABOX (KT476)"
     },
     {
         "route": "16P",
@@ -29821,7 +29821,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "3BA9C90738A8600D",
-        "stop_name_tc": "白虹樓 (WT615)"
+        "stop_name_tc": "彩雲邨白虹樓 聖言中學 (WT615)"
     },
     {
         "route": "17P",
@@ -30917,7 +30917,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "29740CCBBD82FC33",
-        "stop_name_tc": "白虹樓 (WT231)"
+        "stop_name_tc": "彩雲邨白虹樓 (WT231)"
     },
     {
         "route": "19",
@@ -31037,7 +31037,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "3BA9C90738A8600D",
-        "stop_name_tc": "白虹樓 (WT615)"
+        "stop_name_tc": "彩雲邨白虹樓 聖言中學 (WT615)"
     },
     {
         "route": "19",
@@ -31317,7 +31317,7 @@
         "service_type": "1",
         "seq": "32",
         "stop": "D17050E8964504BB",
-        "stop_name_tc": "秀明樓 (KT519)"
+        "stop_name_tc": "秀茂坪邨秀明樓 (KT519)"
     },
     {
         "route": "1A",
@@ -31325,7 +31325,7 @@
         "service_type": "1",
         "seq": "33",
         "stop": "04DDF4F7F1C74876",
-        "stop_name_tc": "秀富樓 (KT520)"
+        "stop_name_tc": "秀茂坪邨秀富樓 (KT520)"
     },
     {
         "route": "1A",
@@ -31349,7 +31349,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "6F106FD26B684372",
-        "stop_name_tc": "秀安樓 (KT390)"
+        "stop_name_tc": "秀茂坪邨秀安樓 (KT390)"
     },
     {
         "route": "1A",
@@ -31357,7 +31357,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "26305AF62FBEE2BC",
-        "stop_name_tc": "秀明樓 (KT393)"
+        "stop_name_tc": "秀茂坪邨秀明樓 (KT393)"
     },
     {
         "route": "1A",
@@ -32621,7 +32621,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "D446D1EA79502BF2",
-        "stop_name_tc": "泰東樓 (WT323)"
+        "stop_name_tc": "東頭邨泰東樓 (WT323)"
     },
     {
         "route": "203E",
@@ -32749,7 +32749,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "0D39977C225DD2D5",
-        "stop_name_tc": "硃鳳樓 (WT509)"
+        "stop_name_tc": "鳳德邨硃鳳樓 (WT509)"
     },
     {
         "route": "203E",
@@ -33613,7 +33613,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "942E95B4336BDFA7",
-        "stop_name_tc": "白虹樓 (WT230)"
+        "stop_name_tc": "彩雲邨白虹樓 (WT230)"
     },
     {
         "route": "21",
@@ -33621,7 +33621,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "33BA3785390F1457",
-        "stop_name_tc": "觀日樓 (WT241)"
+        "stop_name_tc": "彩雲邨觀日樓 (WT241)"
     },
     {
         "route": "21",
@@ -34053,7 +34053,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "3BA9C90738A8600D",
-        "stop_name_tc": "白虹樓 (WT615)"
+        "stop_name_tc": "彩雲邨白虹樓 聖言中學 (WT615)"
     },
     {
         "route": "213A",
@@ -34125,7 +34125,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "6F106FD26B684372",
-        "stop_name_tc": "秀安樓 (KT390)"
+        "stop_name_tc": "秀茂坪邨秀安樓 (KT390)"
     },
     {
         "route": "213D",
@@ -34141,7 +34141,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "1FBAAE29AF1CA50E",
-        "stop_name_tc": "秀暉樓 (KT501)"
+        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT501)"
     },
     {
         "route": "213D",
@@ -34189,7 +34189,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "3BA9C90738A8600D",
-        "stop_name_tc": "白虹樓 (WT615)"
+        "stop_name_tc": "彩雲邨白虹樓 聖言中學 (WT615)"
     },
     {
         "route": "213D",
@@ -34365,7 +34365,7 @@
         "service_type": "1",
         "seq": "32",
         "stop": "29740CCBBD82FC33",
-        "stop_name_tc": "白虹樓 (WT231)"
+        "stop_name_tc": "彩雲邨白虹樓 (WT231)"
     },
     {
         "route": "213D",
@@ -34421,7 +34421,7 @@
         "service_type": "1",
         "seq": "39",
         "stop": "D17050E8964504BB",
-        "stop_name_tc": "秀明樓 (KT519)"
+        "stop_name_tc": "秀茂坪邨秀明樓 (KT519)"
     },
     {
         "route": "213D",
@@ -34429,7 +34429,7 @@
         "service_type": "1",
         "seq": "40",
         "stop": "04DDF4F7F1C74876",
-        "stop_name_tc": "秀富樓 (KT520)"
+        "stop_name_tc": "秀茂坪邨秀富樓 (KT520)"
     },
     {
         "route": "213D",
@@ -34557,7 +34557,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "1FBAAE29AF1CA50E",
-        "stop_name_tc": "秀暉樓 (KT501)"
+        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT501)"
     },
     {
         "route": "213E",
@@ -34701,7 +34701,7 @@
         "service_type": "2",
         "seq": "12",
         "stop": "1FBAAE29AF1CA50E",
-        "stop_name_tc": "秀暉樓 (KT501)"
+        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT501)"
     },
     {
         "route": "213E",
@@ -34805,7 +34805,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "25863CD2A364E72F",
-        "stop_name_tc": "秀暉樓 (KT300)"
+        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT300)"
     },
     {
         "route": "213E",
@@ -34941,7 +34941,7 @@
         "service_type": "2",
         "seq": "7",
         "stop": "25863CD2A364E72F",
-        "stop_name_tc": "秀暉樓 (KT300)"
+        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT300)"
     },
     {
         "route": "213E",
@@ -35045,7 +35045,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "25863CD2A364E72F",
-        "stop_name_tc": "秀暉樓 (KT300)"
+        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT300)"
     },
     {
         "route": "213M",
@@ -35069,7 +35069,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "1FBAAE29AF1CA50E",
-        "stop_name_tc": "秀暉樓 (KT501)"
+        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT501)"
     },
     {
         "route": "213M",
@@ -35133,7 +35133,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "25863CD2A364E72F",
-        "stop_name_tc": "秀暉樓 (KT300)"
+        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT300)"
     },
     {
         "route": "213S",
@@ -35157,7 +35157,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "1FBAAE29AF1CA50E",
-        "stop_name_tc": "秀暉樓 (KT501)"
+        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT501)"
     },
     {
         "route": "213S",
@@ -35229,7 +35229,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "3C0AF6BA82588E2F",
-        "stop_name_tc": "秀程樓 (KT502)"
+        "stop_name_tc": "秀茂坪邨秀程樓 (KT502)"
     },
     {
         "route": "213X",
@@ -35237,7 +35237,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "F8DEE1D5F9A349AD",
-        "stop_name_tc": "秀康樓 (KT503)"
+        "stop_name_tc": "秀茂坪邨秀康樓 (KT503)"
     },
     {
         "route": "213X",
@@ -35453,7 +35453,7 @@
         "service_type": "1",
         "seq": "34",
         "stop": "B809C24DC8C87767",
-        "stop_name_tc": "秀康樓 (KT297)"
+        "stop_name_tc": "秀茂坪邨秀康樓 (KT297)"
     },
     {
         "route": "213X",
@@ -35461,7 +35461,7 @@
         "service_type": "1",
         "seq": "35",
         "stop": "3BA4DBB4520188DF",
-        "stop_name_tc": "秀程樓 (KT298)"
+        "stop_name_tc": "秀茂坪邨秀程樓 (KT298)"
     },
     {
         "route": "213X",
@@ -35693,7 +35693,7 @@
         "service_type": "2",
         "seq": "24",
         "stop": "B809C24DC8C87767",
-        "stop_name_tc": "秀康樓 (KT297)"
+        "stop_name_tc": "秀茂坪邨秀康樓 (KT297)"
     },
     {
         "route": "213X",
@@ -35701,7 +35701,7 @@
         "service_type": "2",
         "seq": "25",
         "stop": "3BA4DBB4520188DF",
-        "stop_name_tc": "秀程樓 (KT298)"
+        "stop_name_tc": "秀茂坪邨秀程樓 (KT298)"
     },
     {
         "route": "213X",
@@ -35909,7 +35909,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "29740CCBBD82FC33",
-        "stop_name_tc": "白虹樓 (WT231)"
+        "stop_name_tc": "彩雲邨白虹樓 (WT231)"
     },
     {
         "route": "214",
@@ -35957,7 +35957,7 @@
         "service_type": "1",
         "seq": "27",
         "stop": "824D0847BAAD9128",
-        "stop_name_tc": "秀暉樓 (KT299)"
+        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT299)"
     },
     {
         "route": "214",
@@ -36109,7 +36109,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "1FBAAE29AF1CA50E",
-        "stop_name_tc": "秀暉樓 (KT501)"
+        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT501)"
     },
     {
         "route": "214",
@@ -36165,7 +36165,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "58611212645F0AB1",
-        "stop_name_tc": "白虹樓 (WT614)"
+        "stop_name_tc": "彩雲邨白虹樓 聖言中學 (WT614)"
     },
     {
         "route": "214",
@@ -36365,7 +36365,7 @@
         "service_type": "2",
         "seq": "7",
         "stop": "58611212645F0AB1",
-        "stop_name_tc": "白虹樓 (WT614)"
+        "stop_name_tc": "彩雲邨白虹樓 聖言中學 (WT614)"
     },
     {
         "route": "214",
@@ -36549,7 +36549,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "58611212645F0AB1",
-        "stop_name_tc": "白虹樓 (WT614)"
+        "stop_name_tc": "彩雲邨白虹樓 聖言中學 (WT614)"
     },
     {
         "route": "214P",
@@ -38173,7 +38173,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "DE60928B8CFD9E7C",
-        "stop_name_tc": "盈安樓 (KT146)"
+        "stop_name_tc": "彩盈邨盈安樓 (KT146)"
     },
     {
         "route": "224R",
@@ -40549,7 +40549,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "A21BEB6F4E6D43E6",
-        "stop_name_tc": "九龍灣常悅道 (KT475)"
+        "stop_name_tc": "九龍灣常悅道 MEGABOX (KT475)"
     },
     {
         "route": "234D",
@@ -40941,7 +40941,7 @@
         "service_type": "1",
         "seq": "27",
         "stop": "94358F5481BAE505",
-        "stop_name_tc": "常悅道 (KT130)"
+        "stop_name_tc": "常悅道 企業廣場 (KT130)"
     },
     {
         "route": "234D",
@@ -42733,7 +42733,7 @@
         "service_type": "2",
         "seq": "23",
         "stop": "CDF0D5A4E1023C8E",
-        "stop_name_tc": "九龍灣常悅道 (KT477)"
+        "stop_name_tc": "九龍灣常悅道 MEGABOX (KT477)"
     },
     {
         "route": "23M",
@@ -43309,7 +43309,7 @@
         "service_type": "2",
         "seq": "35",
         "stop": "B0EE4F50D82034E0",
-        "stop_name_tc": "常悅道 (KT470)"
+        "stop_name_tc": "常悅道 企業廣場 (KT470)"
     },
     {
         "route": "24",
@@ -43365,7 +43365,7 @@
         "service_type": "3",
         "seq": "4",
         "stop": "91449853378E9F8F",
-        "stop_name_tc": "常悅道 (KT131)"
+        "stop_name_tc": "常悅道 企業廣場 (KT131)"
     },
     {
         "route": "24",
@@ -47645,7 +47645,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "A21BEB6F4E6D43E6",
-        "stop_name_tc": "九龍灣常悅道 (KT475)"
+        "stop_name_tc": "九龍灣常悅道 MEGABOX (KT475)"
     },
     {
         "route": "252S",
@@ -48053,7 +48053,7 @@
         "service_type": "1",
         "seq": "25",
         "stop": "81C6D8E74259157E",
-        "stop_name_tc": "常怡道 (KT135)"
+        "stop_name_tc": "常怡道 MEGABOX (KT135)"
     },
     {
         "route": "252S",
@@ -50149,7 +50149,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "A21BEB6F4E6D43E6",
-        "stop_name_tc": "九龍灣常悅道 (KT475)"
+        "stop_name_tc": "九龍灣常悅道 MEGABOX (KT475)"
     },
     {
         "route": "258X",
@@ -50389,7 +50389,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "81C6D8E74259157E",
-        "stop_name_tc": "常怡道 (KT135)"
+        "stop_name_tc": "常怡道 MEGABOX (KT135)"
     },
     {
         "route": "258X",
@@ -51429,7 +51429,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "A21BEB6F4E6D43E6",
-        "stop_name_tc": "九龍灣常悅道 (KT475)"
+        "stop_name_tc": "九龍灣常悅道 MEGABOX (KT475)"
     },
     {
         "route": "259S",
@@ -51637,7 +51637,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "81C6D8E74259157E",
-        "stop_name_tc": "常怡道 (KT135)"
+        "stop_name_tc": "常怡道 MEGABOX (KT135)"
     },
     {
         "route": "259S",
@@ -51701,7 +51701,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "A21BEB6F4E6D43E6",
-        "stop_name_tc": "九龍灣常悅道 (KT475)"
+        "stop_name_tc": "九龍灣常悅道 MEGABOX (KT475)"
     },
     {
         "route": "259X",
@@ -51813,7 +51813,7 @@
         "service_type": "3",
         "seq": "2",
         "stop": "A21BEB6F4E6D43E6",
-        "stop_name_tc": "九龍灣常悅道 (KT475)"
+        "stop_name_tc": "九龍灣常悅道 MEGABOX (KT475)"
     },
     {
         "route": "259X",
@@ -52013,7 +52013,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "81C6D8E74259157E",
-        "stop_name_tc": "常怡道 (KT135)"
+        "stop_name_tc": "常怡道 MEGABOX (KT135)"
     },
     {
         "route": "259X",
@@ -52221,7 +52221,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "9A16E73DC0B9AF6C",
-        "stop_name_tc": "白虹樓 (WT232)"
+        "stop_name_tc": "彩雲邨白虹樓 (WT232)"
     },
     {
         "route": "26",
@@ -52309,7 +52309,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "3BA9C90738A8600D",
-        "stop_name_tc": "白虹樓 (WT615)"
+        "stop_name_tc": "彩雲邨白虹樓 聖言中學 (WT615)"
     },
     {
         "route": "26",
@@ -61061,7 +61061,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "A21BEB6F4E6D43E6",
-        "stop_name_tc": "九龍灣常悅道 (KT475)"
+        "stop_name_tc": "九龍灣常悅道 MEGABOX (KT475)"
     },
     {
         "route": "268P",
@@ -61261,7 +61261,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "81C6D8E74259157E",
-        "stop_name_tc": "常怡道 (KT135)"
+        "stop_name_tc": "常怡道 MEGABOX (KT135)"
     },
     {
         "route": "268P",
@@ -62180,8 +62180,8 @@
         "bound": "O",
         "service_type": "4",
         "seq": "6",
-        "stop": "A264255E81F51111",
-        "stop_name_tc": "天澤邨 (TN229)"
+        "stop": "50C1510101650C40",
+        "stop_name_tc": null
     },
     {
         "route": "269B",
@@ -64597,7 +64597,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "A21BEB6F4E6D43E6",
-        "stop_name_tc": "九龍灣常悅道 (KT475)"
+        "stop_name_tc": "九龍灣常悅道 MEGABOX (KT475)"
     },
     {
         "route": "269S",
@@ -64749,7 +64749,7 @@
         "service_type": "2",
         "seq": "4",
         "stop": "A21BEB6F4E6D43E6",
-        "stop_name_tc": "九龍灣常悅道 (KT475)"
+        "stop_name_tc": "九龍灣常悅道 MEGABOX (KT475)"
     },
     {
         "route": "269S",
@@ -64981,7 +64981,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "81C6D8E74259157E",
-        "stop_name_tc": "常怡道 (KT135)"
+        "stop_name_tc": "常怡道 MEGABOX (KT135)"
     },
     {
         "route": "269S",
@@ -65125,7 +65125,7 @@
         "service_type": "2",
         "seq": "14",
         "stop": "81C6D8E74259157E",
-        "stop_name_tc": "常怡道 (KT135)"
+        "stop_name_tc": "常怡道 MEGABOX (KT135)"
     },
     {
         "route": "269S",
@@ -65388,8 +65388,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "5",
-        "stop": "A264255E81F51111",
-        "stop_name_tc": "天澤邨 (TN229)"
+        "stop": "50C1510101650C40",
+        "stop_name_tc": null
     },
     {
         "route": "269X",
@@ -65533,7 +65533,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "9A16E73DC0B9AF6C",
-        "stop_name_tc": "白虹樓 (WT232)"
+        "stop_name_tc": "彩雲邨白虹樓 (WT232)"
     },
     {
         "route": "26M",
@@ -65685,7 +65685,7 @@
         "service_type": "1",
         "seq": "23",
         "stop": "3BA9C90738A8600D",
-        "stop_name_tc": "白虹樓 (WT615)"
+        "stop_name_tc": "彩雲邨白虹樓 聖言中學 (WT615)"
     },
     {
         "route": "26M",
@@ -65821,7 +65821,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "9A16E73DC0B9AF6C",
-        "stop_name_tc": "白虹樓 (WT232)"
+        "stop_name_tc": "彩雲邨白虹樓 (WT232)"
     },
     {
         "route": "26X",
@@ -65909,7 +65909,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "3BA9C90738A8600D",
-        "stop_name_tc": "白虹樓 (WT615)"
+        "stop_name_tc": "彩雲邨白虹樓 聖言中學 (WT615)"
     },
     {
         "route": "26X",
@@ -66037,7 +66037,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "3BA9C90738A8600D",
-        "stop_name_tc": "白虹樓 (WT615)"
+        "stop_name_tc": "彩雲邨白虹樓 聖言中學 (WT615)"
     },
     {
         "route": "27",
@@ -66229,7 +66229,7 @@
         "service_type": "1",
         "seq": "30",
         "stop": "9A16E73DC0B9AF6C",
-        "stop_name_tc": "白虹樓 (WT232)"
+        "stop_name_tc": "彩雲邨白虹樓 (WT232)"
     },
     {
         "route": "27",
@@ -73261,7 +73261,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "D7132C4D6287B688",
-        "stop_name_tc": "鑽石山站巴士總站 (WT961)"
+        "stop_name_tc": "鑽石山站 荷里活廣場 (WT961)"
     },
     {
         "route": "272S",
@@ -73269,7 +73269,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "D7132C4D6287B688",
-        "stop_name_tc": "鑽石山站巴士總站 (WT961)"
+        "stop_name_tc": "鑽石山站 荷里活廣場 (WT961)"
     },
     {
         "route": "272S",
@@ -82925,7 +82925,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "9A16E73DC0B9AF6C",
-        "stop_name_tc": "白虹樓 (WT232)"
+        "stop_name_tc": "彩雲邨白虹樓 (WT232)"
     },
     {
         "route": "27X",
@@ -83013,7 +83013,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "3BA9C90738A8600D",
-        "stop_name_tc": "白虹樓 (WT615)"
+        "stop_name_tc": "彩雲邨白虹樓 聖言中學 (WT615)"
     },
     {
         "route": "27X",
@@ -89157,7 +89157,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "94358F5481BAE505",
-        "stop_name_tc": "常悅道 (KT130)"
+        "stop_name_tc": "常悅道 企業廣場 (KT130)"
     },
     {
         "route": "28B",
@@ -89245,7 +89245,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "DE60928B8CFD9E7C",
-        "stop_name_tc": "盈安樓 (KT146)"
+        "stop_name_tc": "彩盈邨盈安樓 (KT146)"
     },
     {
         "route": "28B",
@@ -89261,7 +89261,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "90ED381AD3BAE4F9",
-        "stop_name_tc": "彩亮樓 (KT151)"
+        "stop_name_tc": "彩德邨彩亮樓 (KT151)"
     },
     {
         "route": "28B",
@@ -89269,7 +89269,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "147E43B06313402E",
-        "stop_name_tc": "彩福 (KT401)"
+        "stop_name_tc": "彩福邨 (KT401)"
     },
     {
         "route": "28B",
@@ -89325,7 +89325,7 @@
         "service_type": "2",
         "seq": "7",
         "stop": "94358F5481BAE505",
-        "stop_name_tc": "常悅道 (KT130)"
+        "stop_name_tc": "常悅道 企業廣場 (KT130)"
     },
     {
         "route": "28B",
@@ -89421,7 +89421,7 @@
         "service_type": "2",
         "seq": "19",
         "stop": "DE60928B8CFD9E7C",
-        "stop_name_tc": "盈安樓 (KT146)"
+        "stop_name_tc": "彩盈邨盈安樓 (KT146)"
     },
     {
         "route": "28B",
@@ -89437,7 +89437,7 @@
         "service_type": "2",
         "seq": "21",
         "stop": "90ED381AD3BAE4F9",
-        "stop_name_tc": "彩亮樓 (KT151)"
+        "stop_name_tc": "彩德邨彩亮樓 (KT151)"
     },
     {
         "route": "28B",
@@ -89445,7 +89445,7 @@
         "service_type": "2",
         "seq": "22",
         "stop": "147E43B06313402E",
-        "stop_name_tc": "彩福 (KT401)"
+        "stop_name_tc": "彩福邨 (KT401)"
     },
     {
         "route": "28B",
@@ -89453,7 +89453,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "147E43B06313402E",
-        "stop_name_tc": "彩福 (KT401)"
+        "stop_name_tc": "彩福邨 (KT401)"
     },
     {
         "route": "28B",
@@ -89461,7 +89461,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "79E1F84E966F6113",
-        "stop_name_tc": "彩賢樓 (KT403)"
+        "stop_name_tc": "彩福邨街市 (KT403)"
     },
     {
         "route": "28B",
@@ -89469,7 +89469,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "E905F8E518AE17B6",
-        "stop_name_tc": "盈安樓 (KT406)"
+        "stop_name_tc": "彩盈邨盈安樓 (KT406)"
     },
     {
         "route": "28B",
@@ -89477,7 +89477,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "24AD2532770CF399",
-        "stop_name_tc": "盈順樓 (KT407)"
+        "stop_name_tc": "彩盈邨盈順樓 (KT407)"
     },
     {
         "route": "28B",
@@ -89573,7 +89573,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "CDF0D5A4E1023C8E",
-        "stop_name_tc": "九龍灣常悅道 (KT477)"
+        "stop_name_tc": "九龍灣常悅道 MEGABOX (KT477)"
     },
     {
         "route": "28B",
@@ -89805,7 +89805,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "29740CCBBD82FC33",
-        "stop_name_tc": "白虹樓 (WT231)"
+        "stop_name_tc": "彩雲邨白虹樓 (WT231)"
     },
     {
         "route": "290",
@@ -90029,7 +90029,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "58611212645F0AB1",
-        "stop_name_tc": "白虹樓 (WT614)"
+        "stop_name_tc": "彩雲邨白虹樓 聖言中學 (WT614)"
     },
     {
         "route": "290",
@@ -90253,7 +90253,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "29740CCBBD82FC33",
-        "stop_name_tc": "白虹樓 (WT231)"
+        "stop_name_tc": "彩雲邨白虹樓 (WT231)"
     },
     {
         "route": "290A",
@@ -90293,7 +90293,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "4A14A012710E80B1",
-        "stop_name_tc": "秀樂樓 (KT385)"
+        "stop_name_tc": "秀茂坪邨秀樂樓 (KT385)"
     },
     {
         "route": "290A",
@@ -90301,7 +90301,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "25D24692B2A312FB",
-        "stop_name_tc": "秀逸樓 (KT388)"
+        "stop_name_tc": "秀茂坪邨秀逸樓 (KT388)"
     },
     {
         "route": "290A",
@@ -90309,7 +90309,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "6F106FD26B684372",
-        "stop_name_tc": "秀安樓 (KT390)"
+        "stop_name_tc": "秀茂坪邨秀安樓 (KT390)"
     },
     {
         "route": "290A",
@@ -90589,7 +90589,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "D17050E8964504BB",
-        "stop_name_tc": "秀明樓 (KT519)"
+        "stop_name_tc": "秀茂坪邨秀明樓 (KT519)"
     },
     {
         "route": "290A",
@@ -90597,7 +90597,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "04DDF4F7F1C74876",
-        "stop_name_tc": "秀富樓 (KT520)"
+        "stop_name_tc": "秀茂坪邨秀富樓 (KT520)"
     },
     {
         "route": "290A",
@@ -90613,7 +90613,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "3ABDE54448D1E059",
-        "stop_name_tc": "秀樂樓 (KT523)"
+        "stop_name_tc": "秀茂坪邨秀樂樓 (KT523)"
     },
     {
         "route": "290A",
@@ -90661,7 +90661,7 @@
         "service_type": "1",
         "seq": "25",
         "stop": "58611212645F0AB1",
-        "stop_name_tc": "白虹樓 (WT614)"
+        "stop_name_tc": "彩雲邨白虹樓 聖言中學 (WT614)"
     },
     {
         "route": "290A",
@@ -90789,7 +90789,7 @@
         "service_type": "2",
         "seq": "2",
         "stop": "D17050E8964504BB",
-        "stop_name_tc": "秀明樓 (KT519)"
+        "stop_name_tc": "秀茂坪邨秀明樓 (KT519)"
     },
     {
         "route": "290A",
@@ -90797,7 +90797,7 @@
         "service_type": "2",
         "seq": "3",
         "stop": "04DDF4F7F1C74876",
-        "stop_name_tc": "秀富樓 (KT520)"
+        "stop_name_tc": "秀茂坪邨秀富樓 (KT520)"
     },
     {
         "route": "290A",
@@ -90813,7 +90813,7 @@
         "service_type": "2",
         "seq": "5",
         "stop": "3ABDE54448D1E059",
-        "stop_name_tc": "秀樂樓 (KT523)"
+        "stop_name_tc": "秀茂坪邨秀樂樓 (KT523)"
     },
     {
         "route": "290A",
@@ -90861,7 +90861,7 @@
         "service_type": "2",
         "seq": "11",
         "stop": "58611212645F0AB1",
-        "stop_name_tc": "白虹樓 (WT614)"
+        "stop_name_tc": "彩雲邨白虹樓 聖言中學 (WT614)"
     },
     {
         "route": "290A",
@@ -91549,7 +91549,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "29740CCBBD82FC33",
-        "stop_name_tc": "白虹樓 (WT231)"
+        "stop_name_tc": "彩雲邨白虹樓 (WT231)"
     },
     {
         "route": "290X",
@@ -91853,7 +91853,7 @@
         "service_type": "2",
         "seq": "14",
         "stop": "29740CCBBD82FC33",
-        "stop_name_tc": "白虹樓 (WT231)"
+        "stop_name_tc": "彩雲邨白虹樓 (WT231)"
     },
     {
         "route": "290X",
@@ -92229,7 +92229,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "58611212645F0AB1",
-        "stop_name_tc": "白虹樓 (WT614)"
+        "stop_name_tc": "彩雲邨白虹樓 聖言中學 (WT614)"
     },
     {
         "route": "290X",
@@ -92429,7 +92429,7 @@
         "service_type": "2",
         "seq": "12",
         "stop": "58611212645F0AB1",
-        "stop_name_tc": "白虹樓 (WT614)"
+        "stop_name_tc": "彩雲邨白虹樓 聖言中學 (WT614)"
     },
     {
         "route": "290X",
@@ -92717,7 +92717,7 @@
         "service_type": "3",
         "seq": "23",
         "stop": "58611212645F0AB1",
-        "stop_name_tc": "白虹樓 (WT614)"
+        "stop_name_tc": "彩雲邨白虹樓 聖言中學 (WT614)"
     },
     {
         "route": "290X",
@@ -92901,7 +92901,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "3BA9C90738A8600D",
-        "stop_name_tc": "白虹樓 (WT615)"
+        "stop_name_tc": "彩雲邨白虹樓 聖言中學 (WT615)"
     },
     {
         "route": "291P",
@@ -93165,7 +93165,7 @@
         "service_type": "1",
         "seq": "30",
         "stop": "94358F5481BAE505",
-        "stop_name_tc": "常悅道 (KT130)"
+        "stop_name_tc": "常悅道 企業廣場 (KT130)"
     },
     {
         "route": "292P",
@@ -93309,7 +93309,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "1FBAAE29AF1CA50E",
-        "stop_name_tc": "秀暉樓 (KT501)"
+        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT501)"
     },
     {
         "route": "293S",
@@ -93517,7 +93517,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "824D0847BAAD9128",
-        "stop_name_tc": "秀暉樓 (KT299)"
+        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT299)"
     },
     {
         "route": "293S",
@@ -94981,7 +94981,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "91449853378E9F8F",
-        "stop_name_tc": "常悅道 (KT131)"
+        "stop_name_tc": "常悅道 企業廣場 (KT131)"
     },
     {
         "route": "296P",
@@ -95037,7 +95037,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "A1C35E976ACF46FD",
-        "stop_name_tc": "九龍灣常悅道 (KT476)"
+        "stop_name_tc": "九龍灣常悅道 MEGABOX (KT476)"
     },
     {
         "route": "296P",
@@ -95269,7 +95269,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "94358F5481BAE505",
-        "stop_name_tc": "常悅道 (KT130)"
+        "stop_name_tc": "常悅道 企業廣場 (KT130)"
     },
     {
         "route": "297",
@@ -95437,7 +95437,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "A1C35E976ACF46FD",
-        "stop_name_tc": "九龍灣常悅道 (KT476)"
+        "stop_name_tc": "九龍灣常悅道 MEGABOX (KT476)"
     },
     {
         "route": "297",
@@ -97269,7 +97269,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "3BA9C90738A8600D",
-        "stop_name_tc": "白虹樓 (WT615)"
+        "stop_name_tc": "彩雲邨白虹樓 聖言中學 (WT615)"
     },
     {
         "route": "29M",
@@ -97349,7 +97349,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "9A16E73DC0B9AF6C",
-        "stop_name_tc": "白虹樓 (WT232)"
+        "stop_name_tc": "彩雲邨白虹樓 (WT232)"
     },
     {
         "route": "29M",
@@ -98005,7 +98005,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "B1293E41AE9CB55F",
-        "stop_name_tc": "宏照樓 (WT101)"
+        "stop_name_tc": "橫頭磡邨宏照樓 (WT101)"
     },
     {
         "route": "2B",
@@ -98061,7 +98061,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "74C71F2AE4947E5D",
-        "stop_name_tc": "宏業樓 (WT440)"
+        "stop_name_tc": "橫頭磡邨宏業樓 (WT440)"
     },
     {
         "route": "2B",
@@ -98069,7 +98069,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "968575D69434DBB8",
-        "stop_name_tc": "宏富樓 (WT442)"
+        "stop_name_tc": "橫頭磡邨宏富樓 (WT442)"
     },
     {
         "route": "2B",
@@ -98205,7 +98205,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "168487E2C681CB0D",
-        "stop_name_tc": "龍榮樓 (WT570)"
+        "stop_name_tc": "黃大仙下邨龍榮樓 (WT570)"
     },
     {
         "route": "2D",
@@ -98221,7 +98221,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "7C4E16F4A138B142",
-        "stop_name_tc": "偉東樓 (WT572)"
+        "stop_name_tc": "東頭邨偉東樓 (WT572)"
     },
     {
         "route": "2D",
@@ -98229,7 +98229,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "A47333D8B495F77D",
-        "stop_name_tc": "盈東樓 (WT573)"
+        "stop_name_tc": "東頭邨盈東樓 (WT573)"
     },
     {
         "route": "2D",
@@ -98565,7 +98565,7 @@
         "service_type": "1",
         "seq": "23",
         "stop": "A811A4AAF18AFAFF",
-        "stop_name_tc": "龍滿樓 (WT118)"
+        "stop_name_tc": "黃大仙下邨龍滿樓 (WT118)"
     },
     {
         "route": "2D",
@@ -98573,7 +98573,7 @@
         "service_type": "1",
         "seq": "24",
         "stop": "20915DF05723C615",
-        "stop_name_tc": "龍慧樓 (WT119)"
+        "stop_name_tc": "黃大仙下邨龍慧樓 (WT119)"
     },
     {
         "route": "2D",
@@ -99101,7 +99101,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "B1293E41AE9CB55F",
-        "stop_name_tc": "宏照樓 (WT101)"
+        "stop_name_tc": "橫頭磡邨宏照樓 (WT101)"
     },
     {
         "route": "2F",
@@ -99213,7 +99213,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "FDFC87BC94515900",
-        "stop_name_tc": "正康樓 (WT384)"
+        "stop_name_tc": "慈正邨正康樓 (WT384)"
     },
     {
         "route": "2F",
@@ -99237,7 +99237,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "2FBEE4E1965D7EF5",
-        "stop_name_tc": "樂滿樓 (WT393)"
+        "stop_name_tc": "慈樂邨樂滿樓 (WT393)"
     },
     {
         "route": "2F",
@@ -99261,7 +99261,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "E81E4649EB1D5B02",
-        "stop_name_tc": "美德樓 (WT406)"
+        "stop_name_tc": "美德樓 鳳德公園 (WT406)"
     },
     {
         "route": "2F",
@@ -99285,7 +99285,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "74C71F2AE4947E5D",
-        "stop_name_tc": "宏業樓 (WT440)"
+        "stop_name_tc": "橫頭磡邨宏業樓 (WT440)"
     },
     {
         "route": "2F",
@@ -99293,7 +99293,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "968575D69434DBB8",
-        "stop_name_tc": "宏富樓 (WT442)"
+        "stop_name_tc": "橫頭磡邨宏富樓 (WT442)"
     },
     {
         "route": "2F",
@@ -99437,7 +99437,7 @@
         "service_type": "2",
         "seq": "3",
         "stop": "FDFC87BC94515900",
-        "stop_name_tc": "正康樓 (WT384)"
+        "stop_name_tc": "慈正邨正康樓 (WT384)"
     },
     {
         "route": "2F",
@@ -99941,7 +99941,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "DE60928B8CFD9E7C",
-        "stop_name_tc": "盈安樓 (KT146)"
+        "stop_name_tc": "彩盈邨盈安樓 (KT146)"
     },
     {
         "route": "2X",
@@ -99957,7 +99957,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "90ED381AD3BAE4F9",
-        "stop_name_tc": "彩亮樓 (KT151)"
+        "stop_name_tc": "彩德邨彩亮樓 (KT151)"
     },
     {
         "route": "2X",
@@ -99965,7 +99965,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "534DB02642325617",
-        "stop_name_tc": "彩福 (KT400)"
+        "stop_name_tc": "彩福邨 (KT400)"
     },
     {
         "route": "2X",
@@ -99973,7 +99973,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "534DB02642325617",
-        "stop_name_tc": "彩福 (KT400)"
+        "stop_name_tc": "彩福邨 (KT400)"
     },
     {
         "route": "2X",
@@ -99981,7 +99981,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "79E1F84E966F6113",
-        "stop_name_tc": "彩賢樓 (KT403)"
+        "stop_name_tc": "彩福邨街市 (KT403)"
     },
     {
         "route": "2X",
@@ -99989,7 +99989,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "E905F8E518AE17B6",
-        "stop_name_tc": "盈安樓 (KT406)"
+        "stop_name_tc": "彩盈邨盈安樓 (KT406)"
     },
     {
         "route": "2X",
@@ -99997,7 +99997,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "24AD2532770CF399",
-        "stop_name_tc": "盈順樓 (KT407)"
+        "stop_name_tc": "彩盈邨盈順樓 (KT407)"
     },
     {
         "route": "2X",
@@ -100893,7 +100893,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "C185612B431B197A",
-        "stop_name_tc": "正康樓 (WT385)"
+        "stop_name_tc": "慈正邨正康樓 (WT385)"
     },
     {
         "route": "302",
@@ -100909,7 +100909,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "0D39977C225DD2D5",
-        "stop_name_tc": "硃鳳樓 (WT509)"
+        "stop_name_tc": "鳳德邨硃鳳樓 (WT509)"
     },
     {
         "route": "302",
@@ -101045,7 +101045,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "C185612B431B197A",
-        "stop_name_tc": "正康樓 (WT385)"
+        "stop_name_tc": "慈正邨正康樓 (WT385)"
     },
     {
         "route": "302A",
@@ -105893,7 +105893,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "A21BEB6F4E6D43E6",
-        "stop_name_tc": "九龍灣常悅道 (KT475)"
+        "stop_name_tc": "九龍灣常悅道 MEGABOX (KT475)"
     },
     {
         "route": "33",
@@ -106061,7 +106061,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "91449853378E9F8F",
-        "stop_name_tc": "常悅道 (KT131)"
+        "stop_name_tc": "常悅道 企業廣場 (KT131)"
     },
     {
         "route": "33",
@@ -107637,7 +107637,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "A21BEB6F4E6D43E6",
-        "stop_name_tc": "九龍灣常悅道 (KT475)"
+        "stop_name_tc": "九龍灣常悅道 MEGABOX (KT475)"
     },
     {
         "route": "33X",
@@ -107773,7 +107773,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "81C6D8E74259157E",
-        "stop_name_tc": "常怡道 (KT135)"
+        "stop_name_tc": "常怡道 MEGABOX (KT135)"
     },
     {
         "route": "33X",
@@ -113397,7 +113397,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "A21BEB6F4E6D43E6",
-        "stop_name_tc": "九龍灣常悅道 (KT475)"
+        "stop_name_tc": "九龍灣常悅道 MEGABOX (KT475)"
     },
     {
         "route": "38P",
@@ -114365,7 +114365,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "D446D1EA79502BF2",
-        "stop_name_tc": "泰東樓 (WT323)"
+        "stop_name_tc": "東頭邨泰東樓 (WT323)"
     },
     {
         "route": "3B",
@@ -114445,7 +114445,7 @@
         "service_type": "1",
         "seq": "25",
         "stop": "EE3B5ABCB87027E7",
-        "stop_name_tc": "正暉樓 (WT383)"
+        "stop_name_tc": "慈正邨正暉樓 (WT383)"
     },
     {
         "route": "3B",
@@ -114469,7 +114469,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "31317843D8BA833F",
-        "stop_name_tc": "正暉樓 (WT381)"
+        "stop_name_tc": "慈正邨正暉樓 (WT381)"
     },
     {
         "route": "3B",
@@ -114477,7 +114477,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "FDFC87BC94515900",
-        "stop_name_tc": "正康樓 (WT384)"
+        "stop_name_tc": "慈正邨正康樓 (WT384)"
     },
     {
         "route": "3B",
@@ -114797,7 +114797,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "B1293E41AE9CB55F",
-        "stop_name_tc": "宏照樓 (WT101)"
+        "stop_name_tc": "橫頭磡邨宏照樓 (WT101)"
     },
     {
         "route": "3C",
@@ -114917,7 +114917,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "FDFC87BC94515900",
-        "stop_name_tc": "正康樓 (WT384)"
+        "stop_name_tc": "慈正邨正康樓 (WT384)"
     },
     {
         "route": "3C",
@@ -114941,7 +114941,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "0D39977C225DD2D5",
-        "stop_name_tc": "硃鳳樓 (WT509)"
+        "stop_name_tc": "鳳德邨硃鳳樓 (WT509)"
     },
     {
         "route": "3C",
@@ -114973,7 +114973,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "74C71F2AE4947E5D",
-        "stop_name_tc": "宏業樓 (WT440)"
+        "stop_name_tc": "橫頭磡邨宏業樓 (WT440)"
     },
     {
         "route": "3C",
@@ -114981,7 +114981,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "968575D69434DBB8",
-        "stop_name_tc": "宏富樓 (WT442)"
+        "stop_name_tc": "橫頭磡邨宏富樓 (WT442)"
     },
     {
         "route": "3C",
@@ -115237,7 +115237,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "EE3B5ABCB87027E7",
-        "stop_name_tc": "正暉樓 (WT383)"
+        "stop_name_tc": "慈正邨正暉樓 (WT383)"
     },
     {
         "route": "3D",
@@ -115365,7 +115365,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "119ADA59BD2708D2",
-        "stop_name_tc": "正暉樓 (WT382)"
+        "stop_name_tc": "慈正邨正暉樓 (WT382)"
     },
     {
         "route": "3D",
@@ -115373,7 +115373,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "C185612B431B197A",
-        "stop_name_tc": "正康樓 (WT385)"
+        "stop_name_tc": "慈正邨正康樓 (WT385)"
     },
     {
         "route": "3D",
@@ -115573,7 +115573,7 @@
         "service_type": "3",
         "seq": "1",
         "stop": "C185612B431B197A",
-        "stop_name_tc": "正康樓 (WT385)"
+        "stop_name_tc": "慈正邨正康樓 (WT385)"
     },
     {
         "route": "3D",
@@ -115845,7 +115845,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "31317843D8BA833F",
-        "stop_name_tc": "正暉樓 (WT381)"
+        "stop_name_tc": "慈正邨正暉樓 (WT381)"
     },
     {
         "route": "3M",
@@ -115853,7 +115853,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "C185612B431B197A",
-        "stop_name_tc": "正康樓 (WT385)"
+        "stop_name_tc": "慈正邨正康樓 (WT385)"
     },
     {
         "route": "3M",
@@ -115917,7 +115917,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "942E95B4336BDFA7",
-        "stop_name_tc": "白虹樓 (WT230)"
+        "stop_name_tc": "彩雲邨白虹樓 (WT230)"
     },
     {
         "route": "3M",
@@ -115925,7 +115925,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "33BA3785390F1457",
-        "stop_name_tc": "觀日樓 (WT241)"
+        "stop_name_tc": "彩雲邨觀日樓 (WT241)"
     },
     {
         "route": "3M",
@@ -116061,7 +116061,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "D446D1EA79502BF2",
-        "stop_name_tc": "泰東樓 (WT323)"
+        "stop_name_tc": "東頭邨泰東樓 (WT323)"
     },
     {
         "route": "3X",
@@ -116165,7 +116165,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "FDFC87BC94515900",
-        "stop_name_tc": "正康樓 (WT384)"
+        "stop_name_tc": "慈正邨正康樓 (WT384)"
     },
     {
         "route": "3X",
@@ -116189,7 +116189,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "0D39977C225DD2D5",
-        "stop_name_tc": "硃鳳樓 (WT509)"
+        "stop_name_tc": "鳳德邨硃鳳樓 (WT509)"
     },
     {
         "route": "3X",
@@ -116325,7 +116325,7 @@
         "service_type": "2",
         "seq": "4",
         "stop": "FDFC87BC94515900",
-        "stop_name_tc": "正康樓 (WT384)"
+        "stop_name_tc": "慈正邨正康樓 (WT384)"
     },
     {
         "route": "3X",
@@ -120149,7 +120149,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "3BA9C90738A8600D",
-        "stop_name_tc": "白虹樓 (WT615)"
+        "stop_name_tc": "彩雲邨白虹樓 聖言中學 (WT615)"
     },
     {
         "route": "42",
@@ -120765,7 +120765,7 @@
         "service_type": "1",
         "seq": "41",
         "stop": "9A16E73DC0B9AF6C",
-        "stop_name_tc": "白虹樓 (WT232)"
+        "stop_name_tc": "彩雲邨白虹樓 (WT232)"
     },
     {
         "route": "42",
@@ -137077,7 +137077,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "D446D1EA79502BF2",
-        "stop_name_tc": "泰東樓 (WT323)"
+        "stop_name_tc": "東頭邨泰東樓 (WT323)"
     },
     {
         "route": "5C",
@@ -137141,7 +137141,7 @@
         "service_type": "1",
         "seq": "28",
         "stop": "EE3B5ABCB87027E7",
-        "stop_name_tc": "正暉樓 (WT383)"
+        "stop_name_tc": "慈正邨正暉樓 (WT383)"
     },
     {
         "route": "5C",
@@ -137309,7 +137309,7 @@
         "service_type": "2",
         "seq": "20",
         "stop": "D446D1EA79502BF2",
-        "stop_name_tc": "泰東樓 (WT323)"
+        "stop_name_tc": "東頭邨泰東樓 (WT323)"
     },
     {
         "route": "5C",
@@ -137389,7 +137389,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "31317843D8BA833F",
-        "stop_name_tc": "正暉樓 (WT381)"
+        "stop_name_tc": "慈正邨正暉樓 (WT381)"
     },
     {
         "route": "5C",
@@ -137397,7 +137397,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "FDFC87BC94515900",
-        "stop_name_tc": "正康樓 (WT384)"
+        "stop_name_tc": "慈正邨正康樓 (WT384)"
     },
     {
         "route": "5C",
@@ -137421,7 +137421,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "1FEA0FF1E4CB57E8",
-        "stop_name_tc": "樂滿樓 (WT394)"
+        "stop_name_tc": "慈樂邨樂滿樓 (WT394)"
     },
     {
         "route": "5C",
@@ -137445,7 +137445,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "E81E4649EB1D5B02",
-        "stop_name_tc": "美德樓 (WT406)"
+        "stop_name_tc": "美德樓 鳳德公園 (WT406)"
     },
     {
         "route": "5C",
@@ -137629,7 +137629,7 @@
         "service_type": "2",
         "seq": "2",
         "stop": "1FEA0FF1E4CB57E8",
-        "stop_name_tc": "樂滿樓 (WT394)"
+        "stop_name_tc": "慈樂邨樂滿樓 (WT394)"
     },
     {
         "route": "5C",
@@ -137653,7 +137653,7 @@
         "service_type": "2",
         "seq": "5",
         "stop": "E81E4649EB1D5B02",
-        "stop_name_tc": "美德樓 (WT406)"
+        "stop_name_tc": "美德樓 鳳德公園 (WT406)"
     },
     {
         "route": "5C",
@@ -138277,7 +138277,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "D446D1EA79502BF2",
-        "stop_name_tc": "泰東樓 (WT323)"
+        "stop_name_tc": "東頭邨泰東樓 (WT323)"
     },
     {
         "route": "5P",
@@ -138341,7 +138341,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "EE3B5ABCB87027E7",
-        "stop_name_tc": "正暉樓 (WT383)"
+        "stop_name_tc": "慈正邨正暉樓 (WT383)"
     },
     {
         "route": "5P",
@@ -138365,7 +138365,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "31317843D8BA833F",
-        "stop_name_tc": "正暉樓 (WT381)"
+        "stop_name_tc": "慈正邨正暉樓 (WT381)"
     },
     {
         "route": "5P",
@@ -138373,7 +138373,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "FDFC87BC94515900",
-        "stop_name_tc": "正康樓 (WT384)"
+        "stop_name_tc": "慈正邨正康樓 (WT384)"
     },
     {
         "route": "5P",
@@ -138397,7 +138397,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "1FEA0FF1E4CB57E8",
-        "stop_name_tc": "樂滿樓 (WT394)"
+        "stop_name_tc": "慈樂邨樂滿樓 (WT394)"
     },
     {
         "route": "5P",
@@ -138421,7 +138421,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "E81E4649EB1D5B02",
-        "stop_name_tc": "美德樓 (WT406)"
+        "stop_name_tc": "美德樓 鳳德公園 (WT406)"
     },
     {
         "route": "5P",
@@ -138565,7 +138565,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "F573BDBB62023031",
-        "stop_name_tc": "承豐道 (KA101)"
+        "stop_name_tc": "承豐道 天璽．海 (KA101)"
     },
     {
         "route": "5R",
@@ -138653,7 +138653,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "1094B993AA8409D0",
-        "stop_name_tc": "承豐道 (KA560)"
+        "stop_name_tc": "承豐道 天璽．海 (KA560)"
     },
     {
         "route": "5R",
@@ -138693,7 +138693,7 @@
         "service_type": "2",
         "seq": "3",
         "stop": "F573BDBB62023031",
-        "stop_name_tc": "承豐道 (KA101)"
+        "stop_name_tc": "承豐道 天璽．海 (KA101)"
     },
     {
         "route": "5R",
@@ -138797,7 +138797,7 @@
         "service_type": "3",
         "seq": "8",
         "stop": "1094B993AA8409D0",
-        "stop_name_tc": "承豐道 (KA560)"
+        "stop_name_tc": "承豐道 天璽．海 (KA560)"
     },
     {
         "route": "5R",
@@ -139341,7 +139341,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "1FBAAE29AF1CA50E",
-        "stop_name_tc": "秀暉樓 (KT501)"
+        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT501)"
     },
     {
         "route": "600",
@@ -139509,7 +139509,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "25863CD2A364E72F",
-        "stop_name_tc": "秀暉樓 (KT300)"
+        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT300)"
     },
     {
         "route": "600",
@@ -139797,7 +139797,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "1FBAAE29AF1CA50E",
-        "stop_name_tc": "秀暉樓 (KT501)"
+        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT501)"
     },
     {
         "route": "600X",
@@ -139965,7 +139965,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "25863CD2A364E72F",
-        "stop_name_tc": "秀暉樓 (KT300)"
+        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT300)"
     },
     {
         "route": "600X",
@@ -140221,7 +140221,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "D17050E8964504BB",
-        "stop_name_tc": "秀明樓 (KT519)"
+        "stop_name_tc": "秀茂坪邨秀明樓 (KT519)"
     },
     {
         "route": "601",
@@ -140229,7 +140229,7 @@
         "service_type": "1",
         "seq": "23",
         "stop": "04DDF4F7F1C74876",
-        "stop_name_tc": "秀富樓 (KT520)"
+        "stop_name_tc": "秀茂坪邨秀富樓 (KT520)"
     },
     {
         "route": "601",
@@ -140245,7 +140245,7 @@
         "service_type": "1",
         "seq": "25",
         "stop": "5FF5FCFD1121F033",
-        "stop_name_tc": "秀樂樓 (KT525)"
+        "stop_name_tc": "秀茂坪邨秀樂樓 (KT525)"
     },
     {
         "route": "601",
@@ -140253,7 +140253,7 @@
         "service_type": "1",
         "seq": "26",
         "stop": "B809C24DC8C87767",
-        "stop_name_tc": "秀康樓 (KT297)"
+        "stop_name_tc": "秀茂坪邨秀康樓 (KT297)"
     },
     {
         "route": "601",
@@ -140261,7 +140261,7 @@
         "service_type": "1",
         "seq": "27",
         "stop": "3BA4DBB4520188DF",
-        "stop_name_tc": "秀程樓 (KT298)"
+        "stop_name_tc": "秀茂坪邨秀程樓 (KT298)"
     },
     {
         "route": "601",
@@ -140285,7 +140285,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "3C0AF6BA82588E2F",
-        "stop_name_tc": "秀程樓 (KT502)"
+        "stop_name_tc": "秀茂坪邨秀程樓 (KT502)"
     },
     {
         "route": "601",
@@ -140293,7 +140293,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "F8DEE1D5F9A349AD",
-        "stop_name_tc": "秀康樓 (KT503)"
+        "stop_name_tc": "秀茂坪邨秀康樓 (KT503)"
     },
     {
         "route": "601",
@@ -140301,7 +140301,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "4A14A012710E80B1",
-        "stop_name_tc": "秀樂樓 (KT385)"
+        "stop_name_tc": "秀茂坪邨秀樂樓 (KT385)"
     },
     {
         "route": "601",
@@ -140317,7 +140317,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "1C111CE3CE325C6A",
-        "stop_name_tc": "秀安樓 (KT389)"
+        "stop_name_tc": "秀茂坪邨秀安樓 (KT389)"
     },
     {
         "route": "601",
@@ -140325,7 +140325,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "A971B9FF20627145",
-        "stop_name_tc": "秀明樓 (KT391)"
+        "stop_name_tc": "秀茂坪邨秀明樓 (KT391)"
     },
     {
         "route": "601",
@@ -140677,7 +140677,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "D17050E8964504BB",
-        "stop_name_tc": "秀明樓 (KT519)"
+        "stop_name_tc": "秀茂坪邨秀明樓 (KT519)"
     },
     {
         "route": "601P",
@@ -140685,7 +140685,7 @@
         "service_type": "1",
         "seq": "23",
         "stop": "04DDF4F7F1C74876",
-        "stop_name_tc": "秀富樓 (KT520)"
+        "stop_name_tc": "秀茂坪邨秀富樓 (KT520)"
     },
     {
         "route": "601P",
@@ -140701,7 +140701,7 @@
         "service_type": "1",
         "seq": "25",
         "stop": "5FF5FCFD1121F033",
-        "stop_name_tc": "秀樂樓 (KT525)"
+        "stop_name_tc": "秀茂坪邨秀樂樓 (KT525)"
     },
     {
         "route": "601P",
@@ -140709,7 +140709,7 @@
         "service_type": "1",
         "seq": "26",
         "stop": "B809C24DC8C87767",
-        "stop_name_tc": "秀康樓 (KT297)"
+        "stop_name_tc": "秀茂坪邨秀康樓 (KT297)"
     },
     {
         "route": "601P",
@@ -140717,7 +140717,7 @@
         "service_type": "1",
         "seq": "27",
         "stop": "3BA4DBB4520188DF",
-        "stop_name_tc": "秀程樓 (KT298)"
+        "stop_name_tc": "秀茂坪邨秀程樓 (KT298)"
     },
     {
         "route": "601P",
@@ -140741,7 +140741,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "3C0AF6BA82588E2F",
-        "stop_name_tc": "秀程樓 (KT502)"
+        "stop_name_tc": "秀茂坪邨秀程樓 (KT502)"
     },
     {
         "route": "601P",
@@ -140749,7 +140749,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "F8DEE1D5F9A349AD",
-        "stop_name_tc": "秀康樓 (KT503)"
+        "stop_name_tc": "秀茂坪邨秀康樓 (KT503)"
     },
     {
         "route": "601P",
@@ -140757,7 +140757,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "4A14A012710E80B1",
-        "stop_name_tc": "秀樂樓 (KT385)"
+        "stop_name_tc": "秀茂坪邨秀樂樓 (KT385)"
     },
     {
         "route": "601P",
@@ -140773,7 +140773,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "1C111CE3CE325C6A",
-        "stop_name_tc": "秀安樓 (KT389)"
+        "stop_name_tc": "秀茂坪邨秀安樓 (KT389)"
     },
     {
         "route": "601P",
@@ -140781,7 +140781,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "A971B9FF20627145",
-        "stop_name_tc": "秀明樓 (KT391)"
+        "stop_name_tc": "秀茂坪邨秀明樓 (KT391)"
     },
     {
         "route": "601P",
@@ -142653,7 +142653,7 @@
         "service_type": "1",
         "seq": "37",
         "stop": "CDF0D5A4E1023C8E",
-        "stop_name_tc": "九龍灣常悅道 (KT477)"
+        "stop_name_tc": "九龍灣常悅道 MEGABOX (KT477)"
     },
     {
         "route": "606",
@@ -142677,7 +142677,7 @@
         "service_type": "1",
         "seq": "40",
         "stop": "942E95B4336BDFA7",
-        "stop_name_tc": "白虹樓 (WT230)"
+        "stop_name_tc": "彩雲邨白虹樓 (WT230)"
     },
     {
         "route": "606",
@@ -142733,7 +142733,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "94358F5481BAE505",
-        "stop_name_tc": "常悅道 (KT130)"
+        "stop_name_tc": "常悅道 企業廣場 (KT130)"
     },
     {
         "route": "606",
@@ -142741,7 +142741,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "017A10A009B4A409",
-        "stop_name_tc": "常怡道 (KT136)"
+        "stop_name_tc": "常怡道 MEGABOX (KT136)"
     },
     {
         "route": "606",
@@ -143101,7 +143101,7 @@
         "service_type": "4",
         "seq": "7",
         "stop": "E905F8E518AE17B6",
-        "stop_name_tc": "盈安樓 (KT406)"
+        "stop_name_tc": "彩盈邨盈安樓 (KT406)"
     },
     {
         "route": "606",
@@ -143109,7 +143109,7 @@
         "service_type": "4",
         "seq": "8",
         "stop": "24AD2532770CF399",
-        "stop_name_tc": "盈順樓 (KT407)"
+        "stop_name_tc": "彩盈邨盈順樓 (KT407)"
     },
     {
         "route": "606",
@@ -143581,7 +143581,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "CDF0D5A4E1023C8E",
-        "stop_name_tc": "九龍灣常悅道 (KT477)"
+        "stop_name_tc": "九龍灣常悅道 MEGABOX (KT477)"
     },
     {
         "route": "606A",
@@ -143605,7 +143605,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "942E95B4336BDFA7",
-        "stop_name_tc": "白虹樓 (WT230)"
+        "stop_name_tc": "彩雲邨白虹樓 (WT230)"
     },
     {
         "route": "606A",
@@ -143669,7 +143669,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "E905F8E518AE17B6",
-        "stop_name_tc": "盈安樓 (KT406)"
+        "stop_name_tc": "彩盈邨盈安樓 (KT406)"
     },
     {
         "route": "606A",
@@ -143677,7 +143677,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "24AD2532770CF399",
-        "stop_name_tc": "盈順樓 (KT407)"
+        "stop_name_tc": "彩盈邨盈順樓 (KT407)"
     },
     {
         "route": "606A",
@@ -144037,7 +144037,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "CDF0D5A4E1023C8E",
-        "stop_name_tc": "九龍灣常悅道 (KT477)"
+        "stop_name_tc": "九龍灣常悅道 MEGABOX (KT477)"
     },
     {
         "route": "606X",
@@ -144429,7 +144429,7 @@
         "service_type": "3",
         "seq": "3",
         "stop": "94358F5481BAE505",
-        "stop_name_tc": "常悅道 (KT130)"
+        "stop_name_tc": "常悅道 企業廣場 (KT130)"
     },
     {
         "route": "606X",
@@ -144437,7 +144437,7 @@
         "service_type": "3",
         "seq": "4",
         "stop": "017A10A009B4A409",
-        "stop_name_tc": "常怡道 (KT136)"
+        "stop_name_tc": "常怡道 MEGABOX (KT136)"
     },
     {
         "route": "606X",
@@ -145309,7 +145309,7 @@
         "service_type": "1",
         "seq": "23",
         "stop": "1FBAAE29AF1CA50E",
-        "stop_name_tc": "秀暉樓 (KT501)"
+        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT501)"
     },
     {
         "route": "613",
@@ -145397,7 +145397,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "3C0AF6BA82588E2F",
-        "stop_name_tc": "秀程樓 (KT502)"
+        "stop_name_tc": "秀茂坪邨秀程樓 (KT502)"
     },
     {
         "route": "613",
@@ -145405,7 +145405,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "F8DEE1D5F9A349AD",
-        "stop_name_tc": "秀康樓 (KT503)"
+        "stop_name_tc": "秀茂坪邨秀康樓 (KT503)"
     },
     {
         "route": "613",
@@ -145413,7 +145413,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "4A14A012710E80B1",
-        "stop_name_tc": "秀樂樓 (KT385)"
+        "stop_name_tc": "秀茂坪邨秀樂樓 (KT385)"
     },
     {
         "route": "613",
@@ -145429,7 +145429,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "6F106FD26B684372",
-        "stop_name_tc": "秀安樓 (KT390)"
+        "stop_name_tc": "秀茂坪邨秀安樓 (KT390)"
     },
     {
         "route": "613",
@@ -145437,7 +145437,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "26305AF62FBEE2BC",
-        "stop_name_tc": "秀明樓 (KT393)"
+        "stop_name_tc": "秀茂坪邨秀明樓 (KT393)"
     },
     {
         "route": "613",
@@ -145893,7 +145893,7 @@
         "service_type": "1",
         "seq": "33",
         "stop": "D17050E8964504BB",
-        "stop_name_tc": "秀明樓 (KT519)"
+        "stop_name_tc": "秀茂坪邨秀明樓 (KT519)"
     },
     {
         "route": "613A",
@@ -145901,7 +145901,7 @@
         "service_type": "1",
         "seq": "34",
         "stop": "04DDF4F7F1C74876",
-        "stop_name_tc": "秀富樓 (KT520)"
+        "stop_name_tc": "秀茂坪邨秀富樓 (KT520)"
     },
     {
         "route": "613A",
@@ -145917,7 +145917,7 @@
         "service_type": "1",
         "seq": "36",
         "stop": "5FF5FCFD1121F033",
-        "stop_name_tc": "秀樂樓 (KT525)"
+        "stop_name_tc": "秀茂坪邨秀樂樓 (KT525)"
     },
     {
         "route": "613A",
@@ -145925,7 +145925,7 @@
         "service_type": "1",
         "seq": "37",
         "stop": "B809C24DC8C87767",
-        "stop_name_tc": "秀康樓 (KT297)"
+        "stop_name_tc": "秀茂坪邨秀康樓 (KT297)"
     },
     {
         "route": "613A",
@@ -145933,7 +145933,7 @@
         "service_type": "1",
         "seq": "38",
         "stop": "3BA4DBB4520188DF",
-        "stop_name_tc": "秀程樓 (KT298)"
+        "stop_name_tc": "秀茂坪邨秀程樓 (KT298)"
     },
     {
         "route": "613A",
@@ -146021,7 +146021,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "3C0AF6BA82588E2F",
-        "stop_name_tc": "秀程樓 (KT502)"
+        "stop_name_tc": "秀茂坪邨秀程樓 (KT502)"
     },
     {
         "route": "613A",
@@ -146029,7 +146029,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "F8DEE1D5F9A349AD",
-        "stop_name_tc": "秀康樓 (KT503)"
+        "stop_name_tc": "秀茂坪邨秀康樓 (KT503)"
     },
     {
         "route": "613A",
@@ -146037,7 +146037,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "4A14A012710E80B1",
-        "stop_name_tc": "秀樂樓 (KT385)"
+        "stop_name_tc": "秀茂坪邨秀樂樓 (KT385)"
     },
     {
         "route": "613A",
@@ -146053,7 +146053,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "6F106FD26B684372",
-        "stop_name_tc": "秀安樓 (KT390)"
+        "stop_name_tc": "秀茂坪邨秀安樓 (KT390)"
     },
     {
         "route": "613A",
@@ -146061,7 +146061,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "26305AF62FBEE2BC",
-        "stop_name_tc": "秀明樓 (KT393)"
+        "stop_name_tc": "秀茂坪邨秀明樓 (KT393)"
     },
     {
         "route": "613A",
@@ -147173,7 +147173,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "1FBAAE29AF1CA50E",
-        "stop_name_tc": "秀暉樓 (KT501)"
+        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT501)"
     },
     {
         "route": "619X",
@@ -147181,7 +147181,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "3C0AF6BA82588E2F",
-        "stop_name_tc": "秀程樓 (KT502)"
+        "stop_name_tc": "秀茂坪邨秀程樓 (KT502)"
     },
     {
         "route": "619X",
@@ -147189,7 +147189,7 @@
         "service_type": "1",
         "seq": "23",
         "stop": "F8DEE1D5F9A349AD",
-        "stop_name_tc": "秀康樓 (KT503)"
+        "stop_name_tc": "秀茂坪邨秀康樓 (KT503)"
     },
     {
         "route": "619X",
@@ -149816,86 +149816,6 @@
         "stop_name_tc": "屯門公路轉車站 (TM112a)"
     },
     {
-        "route": "63R",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "1",
-        "stop": "74A3A3037E047C81",
-        "stop_name_tc": "林村許願樹 (TP860)"
-    },
-    {
-        "route": "63R",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "2",
-        "stop": "BCC83D8C953DC504",
-        "stop_name_tc": "坑下甫 (TP195)"
-    },
-    {
-        "route": "63R",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "3",
-        "stop": "399EF919E10C7F33",
-        "stop_name_tc": "太和站 (TP981)"
-    },
-    {
-        "route": "63R",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "4",
-        "stop": "512C07C3D131AB5A",
-        "stop_name_tc": "大埔超級城 (TP317)"
-    },
-    {
-        "route": "63R",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "5",
-        "stop": "46604706EE6CC765",
-        "stop_name_tc": "大埔墟站巴士總站 (TP935)"
-    },
-    {
-        "route": "63R",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "6",
-        "stop": "8581908CE476D2CF",
-        "stop_name_tc": "大埔墟站巴士總站 (TP940)"
-    },
-    {
-        "route": "63R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "1",
-        "stop": "8581908CE476D2CF",
-        "stop_name_tc": "大埔墟站巴士總站 (TP940)"
-    },
-    {
-        "route": "63R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "2",
-        "stop": "0A8E2BA2F75E472E",
-        "stop_name_tc": "大埔超級城 (TP390)"
-    },
-    {
-        "route": "63R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "3",
-        "stop": "CCC4773031BC0FD8",
-        "stop_name_tc": "太和廣場 (TP336)"
-    },
-    {
-        "route": "63R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "4",
-        "stop": "74A3A3037E047C81",
-        "stop_name_tc": "林村許願樹 (TP860)"
-    },
-    {
         "route": "63X",
         "bound": "I",
         "service_type": "1",
@@ -150429,7 +150349,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "91449853378E9F8F",
-        "stop_name_tc": "常悅道 (KT131)"
+        "stop_name_tc": "常悅道 企業廣場 (KT131)"
     },
     {
         "route": "641",
@@ -150541,7 +150461,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "017A10A009B4A409",
-        "stop_name_tc": "常怡道 (KT136)"
+        "stop_name_tc": "常怡道 MEGABOX (KT136)"
     },
     {
         "route": "641",
@@ -153597,7 +153517,7 @@
         "service_type": "1",
         "seq": "39",
         "stop": "CC0EA05EEADFA481",
-        "stop_name_tc": "鑽石山站巴士總站 (WT965)"
+        "stop_name_tc": "鑽石山站 荷里活廣場 (WT965)"
     },
     {
         "route": "671",
@@ -153605,7 +153525,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "CC0EA05EEADFA481",
-        "stop_name_tc": "鑽石山站巴士總站 (WT965)"
+        "stop_name_tc": "鑽石山站 荷里活廣場 (WT965)"
     },
     {
         "route": "671",
@@ -154133,7 +154053,7 @@
         "service_type": "1",
         "seq": "30",
         "stop": "CC0EA05EEADFA481",
-        "stop_name_tc": "鑽石山站巴士總站 (WT965)"
+        "stop_name_tc": "鑽石山站 荷里活廣場 (WT965)"
     },
     {
         "route": "673",
@@ -166109,7 +166029,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "692CEF512B0D029B",
-        "stop_name_tc": "樂謙樓 (WT222)"
+        "stop_name_tc": "樂富邨樂謙樓 (WT222)"
     },
     {
         "route": "7",
@@ -174757,7 +174677,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "94358F5481BAE505",
-        "stop_name_tc": "常悅道 (KT130)"
+        "stop_name_tc": "常悅道 企業廣場 (KT130)"
     },
     {
         "route": "74A",
@@ -175365,7 +175285,7 @@
         "service_type": "1",
         "seq": "39",
         "stop": "B0EE4F50D82034E0",
-        "stop_name_tc": "常悅道 (KT470)"
+        "stop_name_tc": "常悅道 企業廣場 (KT470)"
     },
     {
         "route": "74A",
@@ -175453,7 +175373,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "81C6D8E74259157E",
-        "stop_name_tc": "常怡道 (KT135)"
+        "stop_name_tc": "常怡道 MEGABOX (KT135)"
     },
     {
         "route": "74B",
@@ -175533,7 +175453,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "F48CA8BC4044E42A",
-        "stop_name_tc": "鑽石山站巴士總站 (WT966)"
+        "stop_name_tc": "鑽石山站 荷里活廣場 (WT966)"
     },
     {
         "route": "74B",
@@ -179101,7 +179021,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "F48CA8BC4044E42A",
-        "stop_name_tc": "鑽石山站巴士總站 (WT966)"
+        "stop_name_tc": "鑽石山站 荷里活廣場 (WT966)"
     },
     {
         "route": "74X",
@@ -179213,7 +179133,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "A7274154A935CF21",
-        "stop_name_tc": "黃石樓 (KT310)"
+        "stop_name_tc": "坪石邨黃石樓 (KT310)"
     },
     {
         "route": "74X",
@@ -179317,7 +179237,7 @@
         "service_type": "2",
         "seq": "5",
         "stop": "A7274154A935CF21",
-        "stop_name_tc": "黃石樓 (KT310)"
+        "stop_name_tc": "坪石邨黃石樓 (KT310)"
     },
     {
         "route": "74X",
@@ -179413,7 +179333,7 @@
         "service_type": "3",
         "seq": "4",
         "stop": "A7274154A935CF21",
-        "stop_name_tc": "黃石樓 (KT310)"
+        "stop_name_tc": "坪石邨黃石樓 (KT310)"
     },
     {
         "route": "74X",
@@ -180309,7 +180229,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "692CEF512B0D029B",
-        "stop_name_tc": "樂謙樓 (WT222)"
+        "stop_name_tc": "樂富邨樂謙樓 (WT222)"
     },
     {
         "route": "75X",
@@ -180325,7 +180245,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "B1293E41AE9CB55F",
-        "stop_name_tc": "宏照樓 (WT101)"
+        "stop_name_tc": "橫頭磡邨宏照樓 (WT101)"
     },
     {
         "route": "75X",
@@ -180365,7 +180285,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "F48CA8BC4044E42A",
-        "stop_name_tc": "鑽石山站巴士總站 (WT966)"
+        "stop_name_tc": "鑽石山站 荷里活廣場 (WT966)"
     },
     {
         "route": "75X",
@@ -180517,7 +180437,7 @@
         "service_type": "2",
         "seq": "12",
         "stop": "692CEF512B0D029B",
-        "stop_name_tc": "樂謙樓 (WT222)"
+        "stop_name_tc": "樂富邨樂謙樓 (WT222)"
     },
     {
         "route": "75X",
@@ -180533,7 +180453,7 @@
         "service_type": "2",
         "seq": "14",
         "stop": "B1293E41AE9CB55F",
-        "stop_name_tc": "宏照樓 (WT101)"
+        "stop_name_tc": "橫頭磡邨宏照樓 (WT101)"
     },
     {
         "route": "75X",
@@ -180573,7 +180493,7 @@
         "service_type": "2",
         "seq": "19",
         "stop": "F48CA8BC4044E42A",
-        "stop_name_tc": "鑽石山站巴士總站 (WT966)"
+        "stop_name_tc": "鑽石山站 荷里活廣場 (WT966)"
     },
     {
         "route": "75X",
@@ -180709,7 +180629,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "74C71F2AE4947E5D",
-        "stop_name_tc": "宏業樓 (WT440)"
+        "stop_name_tc": "橫頭磡邨宏業樓 (WT440)"
     },
     {
         "route": "75X",
@@ -180717,7 +180637,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "968575D69434DBB8",
-        "stop_name_tc": "宏富樓 (WT442)"
+        "stop_name_tc": "橫頭磡邨宏富樓 (WT442)"
     },
     {
         "route": "75X",
@@ -186981,7 +186901,7 @@
         "service_type": "1",
         "seq": "23",
         "stop": "EB471522ACF7B803",
-        "stop_name_tc": "樂謙樓 (WT221)"
+        "stop_name_tc": "樂富邨樂謙樓 (WT221)"
     },
     {
         "route": "7B",
@@ -187045,7 +186965,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "FBAA9F0F9B1893F7",
-        "stop_name_tc": "宏業樓 (WT441)"
+        "stop_name_tc": "橫頭磡邨宏業樓 (WT441)"
     },
     {
         "route": "7M",
@@ -188205,7 +188125,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "81C6D8E74259157E",
-        "stop_name_tc": "常怡道 (KT135)"
+        "stop_name_tc": "常怡道 MEGABOX (KT135)"
     },
     {
         "route": "80A",
@@ -191557,7 +191477,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "7BDF3895E0BCE33B",
-        "stop_name_tc": "龍逸樓 (WT585)"
+        "stop_name_tc": "黃大仙下邨龍逸樓 (WT585)"
     },
     {
         "route": "82X",
@@ -191597,7 +191517,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "7BE7C25016F9651E",
-        "stop_name_tc": "鑽石山站巴士總站 (WT960)"
+        "stop_name_tc": "鑽石山站 荷里活廣場 (WT960)"
     },
     {
         "route": "82X",
@@ -193013,7 +192933,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "FBAA9F0F9B1893F7",
-        "stop_name_tc": "宏業樓 (WT441)"
+        "stop_name_tc": "橫頭磡邨宏業樓 (WT441)"
     },
     {
         "route": "84M",
@@ -193157,7 +193077,7 @@
         "service_type": "2",
         "seq": "18",
         "stop": "7BD4817D61C47157",
-        "stop_name_tc": "宏業樓"
+        "stop_name_tc": "橫頭磡邨宏業樓"
     },
     {
         "route": "84M",
@@ -193189,7 +193109,7 @@
         "service_type": "2",
         "seq": "22",
         "stop": "A811A4AAF18AFAFF",
-        "stop_name_tc": "龍滿樓 (WT118)"
+        "stop_name_tc": "黃大仙下邨龍滿樓 (WT118)"
     },
     {
         "route": "84M",
@@ -193197,7 +193117,7 @@
         "service_type": "2",
         "seq": "23",
         "stop": "20915DF05723C615",
-        "stop_name_tc": "龍慧樓 (WT119)"
+        "stop_name_tc": "黃大仙下邨龍慧樓 (WT119)"
     },
     {
         "route": "84M",
@@ -193229,7 +193149,7 @@
         "service_type": "2",
         "seq": "27",
         "stop": "7BE7C25016F9651E",
-        "stop_name_tc": "鑽石山站巴士總站 (WT960)"
+        "stop_name_tc": "鑽石山站 荷里活廣場 (WT960)"
     },
     {
         "route": "84M",
@@ -193397,7 +193317,7 @@
         "service_type": "3",
         "seq": "6",
         "stop": "7BE7C25016F9651E",
-        "stop_name_tc": "鑽石山站巴士總站 (WT960)"
+        "stop_name_tc": "鑽石山站 荷里活廣場 (WT960)"
     },
     {
         "route": "84M",
@@ -193605,7 +193525,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "692CEF512B0D029B",
-        "stop_name_tc": "樂謙樓 (WT222)"
+        "stop_name_tc": "樂富邨樂謙樓 (WT222)"
     },
     {
         "route": "85",
@@ -194013,7 +193933,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "692CEF512B0D029B",
-        "stop_name_tc": "樂謙樓 (WT222)"
+        "stop_name_tc": "樂富邨樂謙樓 (WT222)"
     },
     {
         "route": "85A",
@@ -194981,7 +194901,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "7BDF3895E0BCE33B",
-        "stop_name_tc": "龍逸樓 (WT585)"
+        "stop_name_tc": "黃大仙下邨龍逸樓 (WT585)"
     },
     {
         "route": "85M",
@@ -195021,7 +194941,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "0A22872F65392B48",
-        "stop_name_tc": "鑽石山站巴士總站 (WT959)"
+        "stop_name_tc": "鑽石山站 荷里活廣場 (WT959)"
     },
     {
         "route": "85M",
@@ -201389,7 +201309,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "29740CCBBD82FC33",
-        "stop_name_tc": "白虹樓 (WT231)"
+        "stop_name_tc": "彩雲邨白虹樓 (WT231)"
     },
     {
         "route": "88",
@@ -201453,7 +201373,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "D17050E8964504BB",
-        "stop_name_tc": "秀明樓 (KT519)"
+        "stop_name_tc": "秀茂坪邨秀明樓 (KT519)"
     },
     {
         "route": "88",
@@ -201461,7 +201381,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "04DDF4F7F1C74876",
-        "stop_name_tc": "秀富樓 (KT520)"
+        "stop_name_tc": "秀茂坪邨秀富樓 (KT520)"
     },
     {
         "route": "88",
@@ -201485,7 +201405,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "6F106FD26B684372",
-        "stop_name_tc": "秀安樓 (KT390)"
+        "stop_name_tc": "秀茂坪邨秀安樓 (KT390)"
     },
     {
         "route": "88",
@@ -201501,7 +201421,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "1FBAAE29AF1CA50E",
-        "stop_name_tc": "秀暉樓 (KT501)"
+        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT501)"
     },
     {
         "route": "88",
@@ -201557,7 +201477,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "58611212645F0AB1",
-        "stop_name_tc": "白虹樓 (WT614)"
+        "stop_name_tc": "彩雲邨白虹樓 聖言中學 (WT614)"
     },
     {
         "route": "88",
@@ -203917,7 +203837,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "3673A01280621EC2",
-        "stop_name_tc": "翠梓樓 (KT562)"
+        "stop_name_tc": "翠屏北邨翠梓樓 (KT562)"
     },
     {
         "route": "89C",
@@ -204325,7 +204245,7 @@
         "service_type": "1",
         "seq": "25",
         "stop": "F9210821429F55B6",
-        "stop_name_tc": "翠桉樓 (KT272)"
+        "stop_name_tc": "翠屏北邨翠桉樓 (KT272)"
     },
     {
         "route": "89C",
@@ -204485,7 +204405,7 @@
         "service_type": "2",
         "seq": "19",
         "stop": "F9210821429F55B6",
-        "stop_name_tc": "翠桉樓 (KT272)"
+        "stop_name_tc": "翠屏北邨翠桉樓 (KT272)"
     },
     {
         "route": "89C",
@@ -205909,7 +205829,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "F9210821429F55B6",
-        "stop_name_tc": "翠桉樓 (KT272)"
+        "stop_name_tc": "翠屏北邨翠桉樓 (KT272)"
     },
     {
         "route": "89X",
@@ -206613,7 +206533,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "D446D1EA79502BF2",
-        "stop_name_tc": "泰東樓 (WT323)"
+        "stop_name_tc": "東頭邨泰東樓 (WT323)"
     },
     {
         "route": "9",
@@ -206629,7 +206549,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "20915DF05723C615",
-        "stop_name_tc": "龍慧樓 (WT119)"
+        "stop_name_tc": "黃大仙下邨龍慧樓 (WT119)"
     },
     {
         "route": "9",
@@ -206693,7 +206613,7 @@
         "service_type": "1",
         "seq": "29",
         "stop": "90ED381AD3BAE4F9",
-        "stop_name_tc": "彩亮樓 (KT151)"
+        "stop_name_tc": "彩德邨彩亮樓 (KT151)"
     },
     {
         "route": "9",
@@ -206701,7 +206621,7 @@
         "service_type": "1",
         "seq": "30",
         "stop": "C6795D3E5B50AD5A",
-        "stop_name_tc": "彩福 (KT402)"
+        "stop_name_tc": "彩福邨 (KT402)"
     },
     {
         "route": "9",
@@ -206709,7 +206629,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "C6795D3E5B50AD5A",
-        "stop_name_tc": "彩福 (KT402)"
+        "stop_name_tc": "彩福邨 (KT402)"
     },
     {
         "route": "9",
@@ -206717,7 +206637,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "79E1F84E966F6113",
-        "stop_name_tc": "彩賢樓 (KT403)"
+        "stop_name_tc": "彩福邨街市 (KT403)"
     },
     {
         "route": "9",
@@ -206765,7 +206685,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "7BDF3895E0BCE33B",
-        "stop_name_tc": "龍逸樓 (WT585)"
+        "stop_name_tc": "黃大仙下邨龍逸樓 (WT585)"
     },
     {
         "route": "9",
@@ -209293,7 +209213,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "0B41334D66E94275",
-        "stop_name_tc": "鑽石山站巴士總站 (WT963)"
+        "stop_name_tc": "鑽石山站 荷里活廣場 (WT963)"
     },
     {
         "route": "91",
@@ -209325,7 +209245,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "29740CCBBD82FC33",
-        "stop_name_tc": "白虹樓 (WT231)"
+        "stop_name_tc": "彩雲邨白虹樓 (WT231)"
     },
     {
         "route": "91",
@@ -209581,7 +209501,7 @@
         "service_type": "2",
         "seq": "3",
         "stop": "29740CCBBD82FC33",
-        "stop_name_tc": "白虹樓 (WT231)"
+        "stop_name_tc": "彩雲邨白虹樓 (WT231)"
     },
     {
         "route": "91",
@@ -210061,7 +209981,7 @@
         "service_type": "1",
         "seq": "31",
         "stop": "0B41334D66E94275",
-        "stop_name_tc": "鑽石山站巴士總站 (WT963)"
+        "stop_name_tc": "鑽石山站 荷里活廣場 (WT963)"
     },
     {
         "route": "914",
@@ -211837,7 +211757,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "29740CCBBD82FC33",
-        "stop_name_tc": "白虹樓 (WT231)"
+        "stop_name_tc": "彩雲邨白虹樓 (WT231)"
     },
     {
         "route": "91M",
@@ -212421,7 +212341,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "3BA9C90738A8600D",
-        "stop_name_tc": "白虹樓 (WT615)"
+        "stop_name_tc": "彩雲邨白虹樓 聖言中學 (WT615)"
     },
     {
         "route": "91P",
@@ -212453,7 +212373,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "29740CCBBD82FC33",
-        "stop_name_tc": "白虹樓 (WT231)"
+        "stop_name_tc": "彩雲邨白虹樓 (WT231)"
     },
     {
         "route": "91P",
@@ -212925,7 +212845,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "10B8C166D8E60F65",
-        "stop_name_tc": "鑽石山站巴士總站 (WT962)"
+        "stop_name_tc": "鑽石山站 荷里活廣場 (WT962)"
     },
     {
         "route": "92",
@@ -212957,7 +212877,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "942E95B4336BDFA7",
-        "stop_name_tc": "白虹樓 (WT230)"
+        "stop_name_tc": "彩雲邨白虹樓 (WT230)"
     },
     {
         "route": "92",
@@ -213157,7 +213077,7 @@
         "service_type": "2",
         "seq": "1",
         "stop": "10B8C166D8E60F65",
-        "stop_name_tc": "鑽石山站巴士總站 (WT962)"
+        "stop_name_tc": "鑽石山站 荷里活廣場 (WT962)"
     },
     {
         "route": "92",
@@ -213453,7 +213373,7 @@
         "service_type": "1",
         "seq": "29",
         "stop": "10B8C166D8E60F65",
-        "stop_name_tc": "鑽石山站巴士總站 (WT962)"
+        "stop_name_tc": "鑽石山站 荷里活廣場 (WT962)"
     },
     {
         "route": "92",
@@ -213509,7 +213429,7 @@
         "service_type": "2",
         "seq": "7",
         "stop": "10B8C166D8E60F65",
-        "stop_name_tc": "鑽石山站巴士總站 (WT962)"
+        "stop_name_tc": "鑽石山站 荷里活廣場 (WT962)"
     },
     {
         "route": "92R",
@@ -215693,7 +215613,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "1FBAAE29AF1CA50E",
-        "stop_name_tc": "秀暉樓 (KT501)"
+        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT501)"
     },
     {
         "route": "93A",
@@ -216157,7 +216077,7 @@
         "service_type": "1",
         "seq": "29",
         "stop": "B809C24DC8C87767",
-        "stop_name_tc": "秀康樓 (KT297)"
+        "stop_name_tc": "秀茂坪邨秀康樓 (KT297)"
     },
     {
         "route": "93K",
@@ -216165,7 +216085,7 @@
         "service_type": "1",
         "seq": "30",
         "stop": "3BA4DBB4520188DF",
-        "stop_name_tc": "秀程樓 (KT298)"
+        "stop_name_tc": "秀茂坪邨秀程樓 (KT298)"
     },
     {
         "route": "93K",
@@ -216269,7 +216189,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "3C0AF6BA82588E2F",
-        "stop_name_tc": "秀程樓 (KT502)"
+        "stop_name_tc": "秀茂坪邨秀程樓 (KT502)"
     },
     {
         "route": "93K",
@@ -216277,7 +216197,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "F8DEE1D5F9A349AD",
-        "stop_name_tc": "秀康樓 (KT503)"
+        "stop_name_tc": "秀茂坪邨秀康樓 (KT503)"
     },
     {
         "route": "93K",
@@ -216605,7 +216525,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "25863CD2A364E72F",
-        "stop_name_tc": "秀暉樓 (KT300)"
+        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT300)"
     },
     {
         "route": "93M",
@@ -216669,7 +216589,7 @@
         "service_type": "1",
         "seq": "23",
         "stop": "1FBAAE29AF1CA50E",
-        "stop_name_tc": "秀暉樓 (KT501)"
+        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT501)"
     },
     {
         "route": "93M",
@@ -216901,7 +216821,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "B809C24DC8C87767",
-        "stop_name_tc": "秀康樓 (KT297)"
+        "stop_name_tc": "秀茂坪邨秀康樓 (KT297)"
     },
     {
         "route": "93P",
@@ -216909,7 +216829,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "3BA4DBB4520188DF",
-        "stop_name_tc": "秀程樓 (KT298)"
+        "stop_name_tc": "秀茂坪邨秀程樓 (KT298)"
     },
     {
         "route": "93P",
@@ -217077,7 +216997,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "3C0AF6BA82588E2F",
-        "stop_name_tc": "秀程樓 (KT502)"
+        "stop_name_tc": "秀茂坪邨秀程樓 (KT502)"
     },
     {
         "route": "93P",
@@ -217085,7 +217005,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "F8DEE1D5F9A349AD",
-        "stop_name_tc": "秀康樓 (KT503)"
+        "stop_name_tc": "秀茂坪邨秀康樓 (KT503)"
     },
     {
         "route": "93P",
@@ -219405,7 +219325,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "29740CCBBD82FC33",
-        "stop_name_tc": "白虹樓 (WT231)"
+        "stop_name_tc": "彩雲邨白虹樓 (WT231)"
     },
     {
         "route": "95",
@@ -219445,7 +219365,7 @@
         "service_type": "1",
         "seq": "25",
         "stop": "4A14A012710E80B1",
-        "stop_name_tc": "秀樂樓 (KT385)"
+        "stop_name_tc": "秀茂坪邨秀樂樓 (KT385)"
     },
     {
         "route": "95",
@@ -219453,7 +219373,7 @@
         "service_type": "1",
         "seq": "26",
         "stop": "25D24692B2A312FB",
-        "stop_name_tc": "秀逸樓 (KT388)"
+        "stop_name_tc": "秀茂坪邨秀逸樓 (KT388)"
     },
     {
         "route": "95",
@@ -219461,7 +219381,7 @@
         "service_type": "1",
         "seq": "27",
         "stop": "6F106FD26B684372",
-        "stop_name_tc": "秀安樓 (KT390)"
+        "stop_name_tc": "秀茂坪邨秀安樓 (KT390)"
     },
     {
         "route": "95",
@@ -219477,7 +219397,7 @@
         "service_type": "1",
         "seq": "29",
         "stop": "1FBAAE29AF1CA50E",
-        "stop_name_tc": "秀暉樓 (KT501)"
+        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT501)"
     },
     {
         "route": "95",
@@ -219581,7 +219501,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "D17050E8964504BB",
-        "stop_name_tc": "秀明樓 (KT519)"
+        "stop_name_tc": "秀茂坪邨秀明樓 (KT519)"
     },
     {
         "route": "95",
@@ -219589,7 +219509,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "04DDF4F7F1C74876",
-        "stop_name_tc": "秀富樓 (KT520)"
+        "stop_name_tc": "秀茂坪邨秀富樓 (KT520)"
     },
     {
         "route": "95",
@@ -219605,7 +219525,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "2BB6115BF9346B34",
-        "stop_name_tc": "秀樂樓 (KT524)"
+        "stop_name_tc": "秀茂坪邨秀樂樓 (KT524)"
     },
     {
         "route": "95",
@@ -219629,7 +219549,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "3BA9C90738A8600D",
-        "stop_name_tc": "白虹樓 (WT615)"
+        "stop_name_tc": "彩雲邨白虹樓 聖言中學 (WT615)"
     },
     {
         "route": "95",
@@ -225701,7 +225621,7 @@
         "service_type": "1",
         "seq": "47",
         "stop": "3BA9C90738A8600D",
-        "stop_name_tc": "白虹樓 (WT615)"
+        "stop_name_tc": "彩雲邨白虹樓 聖言中學 (WT615)"
     },
     {
         "route": "96R",
@@ -225741,7 +225661,7 @@
         "service_type": "1",
         "seq": "52",
         "stop": "D7132C4D6287B688",
-        "stop_name_tc": "鑽石山站巴士總站 (WT961)"
+        "stop_name_tc": "鑽石山站 荷里活廣場 (WT961)"
     },
     {
         "route": "96R",
@@ -225749,7 +225669,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "D7132C4D6287B688",
-        "stop_name_tc": "鑽石山站巴士總站 (WT961)"
+        "stop_name_tc": "鑽石山站 荷里活廣場 (WT961)"
     },
     {
         "route": "96R",
@@ -225781,7 +225701,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "942E95B4336BDFA7",
-        "stop_name_tc": "白虹樓 (WT230)"
+        "stop_name_tc": "彩雲邨白虹樓 (WT230)"
     },
     {
         "route": "96R",
@@ -229781,7 +229701,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "25863CD2A364E72F",
-        "stop_name_tc": "秀暉樓 (KT300)"
+        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT300)"
     },
     {
         "route": "98A",
@@ -229845,7 +229765,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "1FBAAE29AF1CA50E",
-        "stop_name_tc": "秀暉樓 (KT501)"
+        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT501)"
     },
     {
         "route": "98A",
@@ -230013,7 +229933,7 @@
         "service_type": "3",
         "seq": "6",
         "stop": "1FBAAE29AF1CA50E",
-        "stop_name_tc": "秀暉樓 (KT501)"
+        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT501)"
     },
     {
         "route": "98A",
@@ -230293,7 +230213,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "1FBAAE29AF1CA50E",
-        "stop_name_tc": "秀暉樓 (KT501)"
+        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT501)"
     },
     {
         "route": "98C",
@@ -230517,7 +230437,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "824D0847BAAD9128",
-        "stop_name_tc": "秀暉樓 (KT299)"
+        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT299)"
     },
     {
         "route": "98C",
@@ -231621,7 +231541,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "1FBAAE29AF1CA50E",
-        "stop_name_tc": "秀暉樓 (KT501)"
+        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT501)"
     },
     {
         "route": "98E",
@@ -231845,7 +231765,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "824D0847BAAD9128",
-        "stop_name_tc": "秀暉樓 (KT299)"
+        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT299)"
     },
     {
         "route": "98E",
@@ -232037,7 +231957,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "1FBAAE29AF1CA50E",
-        "stop_name_tc": "秀暉樓 (KT501)"
+        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT501)"
     },
     {
         "route": "98P",
@@ -232365,7 +232285,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "1FBAAE29AF1CA50E",
-        "stop_name_tc": "秀暉樓 (KT501)"
+        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT501)"
     },
     {
         "route": "98R",
@@ -254461,7 +254381,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "D446D1EA79502BF2",
-        "stop_name_tc": "泰東樓 (WT323)"
+        "stop_name_tc": "東頭邨泰東樓 (WT323)"
     },
     {
         "route": "N116",
@@ -254533,7 +254453,7 @@
         "service_type": "1",
         "seq": "27",
         "stop": "EE3B5ABCB87027E7",
-        "stop_name_tc": "正暉樓 (WT383)"
+        "stop_name_tc": "慈正邨正暉樓 (WT383)"
     },
     {
         "route": "N116",
@@ -255541,7 +255461,7 @@
         "service_type": "1",
         "seq": "24",
         "stop": "D446D1EA79502BF2",
-        "stop_name_tc": "泰東樓 (WT323)"
+        "stop_name_tc": "東頭邨泰東樓 (WT323)"
     },
     {
         "route": "N121",
@@ -258261,7 +258181,7 @@
         "service_type": "1",
         "seq": "39",
         "stop": "4A14A012710E80B1",
-        "stop_name_tc": "秀樂樓 (KT385)"
+        "stop_name_tc": "秀茂坪邨秀樂樓 (KT385)"
     },
     {
         "route": "N213",
@@ -258269,7 +258189,7 @@
         "service_type": "1",
         "seq": "40",
         "stop": "25D24692B2A312FB",
-        "stop_name_tc": "秀逸樓 (KT388)"
+        "stop_name_tc": "秀茂坪邨秀逸樓 (KT388)"
     },
     {
         "route": "N213",
@@ -258277,7 +258197,7 @@
         "service_type": "1",
         "seq": "41",
         "stop": "6F106FD26B684372",
-        "stop_name_tc": "秀安樓 (KT390)"
+        "stop_name_tc": "秀茂坪邨秀安樓 (KT390)"
     },
     {
         "route": "N213",
@@ -258285,7 +258205,7 @@
         "service_type": "1",
         "seq": "42",
         "stop": "26305AF62FBEE2BC",
-        "stop_name_tc": "秀明樓 (KT393)"
+        "stop_name_tc": "秀茂坪邨秀明樓 (KT393)"
     },
     {
         "route": "N213",
@@ -258301,7 +258221,7 @@
         "service_type": "1",
         "seq": "44",
         "stop": "1FBAAE29AF1CA50E",
-        "stop_name_tc": "秀暉樓 (KT501)"
+        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT501)"
     },
     {
         "route": "N213",
@@ -258421,7 +258341,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "1FBAAE29AF1CA50E",
-        "stop_name_tc": "秀暉樓 (KT501)"
+        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT501)"
     },
     {
         "route": "N214",
@@ -258477,7 +258397,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "58611212645F0AB1",
-        "stop_name_tc": "白虹樓 (WT614)"
+        "stop_name_tc": "彩雲邨白虹樓 聖言中學 (WT614)"
     },
     {
         "route": "N214",
@@ -258853,7 +258773,7 @@
         "service_type": "1",
         "seq": "29",
         "stop": "D446D1EA79502BF2",
-        "stop_name_tc": "泰東樓 (WT323)"
+        "stop_name_tc": "東頭邨泰東樓 (WT323)"
     },
     {
         "route": "N216",
@@ -258901,7 +258821,7 @@
         "service_type": "1",
         "seq": "35",
         "stop": "942E95B4336BDFA7",
-        "stop_name_tc": "白虹樓 (WT230)"
+        "stop_name_tc": "彩雲邨白虹樓 (WT230)"
     },
     {
         "route": "N216",
@@ -258941,7 +258861,7 @@
         "service_type": "1",
         "seq": "40",
         "stop": "4A14A012710E80B1",
-        "stop_name_tc": "秀樂樓 (KT385)"
+        "stop_name_tc": "秀茂坪邨秀樂樓 (KT385)"
     },
     {
         "route": "N216",
@@ -258949,7 +258869,7 @@
         "service_type": "1",
         "seq": "41",
         "stop": "25D24692B2A312FB",
-        "stop_name_tc": "秀逸樓 (KT388)"
+        "stop_name_tc": "秀茂坪邨秀逸樓 (KT388)"
     },
     {
         "route": "N216",
@@ -258957,7 +258877,7 @@
         "service_type": "1",
         "seq": "42",
         "stop": "6F106FD26B684372",
-        "stop_name_tc": "秀安樓 (KT390)"
+        "stop_name_tc": "秀茂坪邨秀安樓 (KT390)"
     },
     {
         "route": "N216",
@@ -258965,7 +258885,7 @@
         "service_type": "1",
         "seq": "43",
         "stop": "26305AF62FBEE2BC",
-        "stop_name_tc": "秀明樓 (KT393)"
+        "stop_name_tc": "秀茂坪邨秀明樓 (KT393)"
     },
     {
         "route": "N216",
@@ -259149,7 +259069,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "D17050E8964504BB",
-        "stop_name_tc": "秀明樓 (KT519)"
+        "stop_name_tc": "秀茂坪邨秀明樓 (KT519)"
     },
     {
         "route": "N216",
@@ -259157,7 +259077,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "04DDF4F7F1C74876",
-        "stop_name_tc": "秀富樓 (KT520)"
+        "stop_name_tc": "秀茂坪邨秀富樓 (KT520)"
     },
     {
         "route": "N216",
@@ -259173,7 +259093,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "2BB6115BF9346B34",
-        "stop_name_tc": "秀樂樓 (KT524)"
+        "stop_name_tc": "秀茂坪邨秀樂樓 (KT524)"
     },
     {
         "route": "N216",
@@ -259221,7 +259141,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "3BA9C90738A8600D",
-        "stop_name_tc": "白虹樓 (WT615)"
+        "stop_name_tc": "彩雲邨白虹樓 聖言中學 (WT615)"
     },
     {
         "route": "N216",
@@ -264733,7 +264653,7 @@
         "service_type": "1",
         "seq": "26",
         "stop": "D17050E8964504BB",
-        "stop_name_tc": "秀明樓 (KT519)"
+        "stop_name_tc": "秀茂坪邨秀明樓 (KT519)"
     },
     {
         "route": "N290",
@@ -264741,7 +264661,7 @@
         "service_type": "1",
         "seq": "27",
         "stop": "04DDF4F7F1C74876",
-        "stop_name_tc": "秀富樓 (KT520)"
+        "stop_name_tc": "秀茂坪邨秀富樓 (KT520)"
     },
     {
         "route": "N290",
@@ -264757,7 +264677,7 @@
         "service_type": "1",
         "seq": "29",
         "stop": "3ABDE54448D1E059",
-        "stop_name_tc": "秀樂樓 (KT523)"
+        "stop_name_tc": "秀茂坪邨秀樂樓 (KT523)"
     },
     {
         "route": "N290",
@@ -264805,7 +264725,7 @@
         "service_type": "1",
         "seq": "35",
         "stop": "58611212645F0AB1",
-        "stop_name_tc": "白虹樓 (WT614)"
+        "stop_name_tc": "彩雲邨白虹樓 聖言中學 (WT614)"
     },
     {
         "route": "N290",
@@ -265045,7 +264965,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "29740CCBBD82FC33",
-        "stop_name_tc": "白虹樓 (WT231)"
+        "stop_name_tc": "彩雲邨白虹樓 (WT231)"
     },
     {
         "route": "N290",
@@ -265085,7 +265005,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "4A14A012710E80B1",
-        "stop_name_tc": "秀樂樓 (KT385)"
+        "stop_name_tc": "秀茂坪邨秀樂樓 (KT385)"
     },
     {
         "route": "N290",
@@ -265093,7 +265013,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "25D24692B2A312FB",
-        "stop_name_tc": "秀逸樓 (KT388)"
+        "stop_name_tc": "秀茂坪邨秀逸樓 (KT388)"
     },
     {
         "route": "N290",
@@ -265101,7 +265021,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "6F106FD26B684372",
-        "stop_name_tc": "秀安樓 (KT390)"
+        "stop_name_tc": "秀茂坪邨秀安樓 (KT390)"
     },
     {
         "route": "N290",
@@ -265533,7 +265453,7 @@
         "service_type": "1",
         "seq": "25",
         "stop": "1FBAAE29AF1CA50E",
-        "stop_name_tc": "秀暉樓 (KT501)"
+        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT501)"
     },
     {
         "route": "N293",
@@ -267865,6 +267785,286 @@
     },
     {
         "route": "N368",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "1",
+        "stop": "28B264A688848238",
+        "stop_name_tc": "港澳碼頭 (CW110)"
+    },
+    {
+        "route": "N368",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "2",
+        "stop": "25D811895B82ABCA",
+        "stop_name_tc": "港澳碼頭 (CW111)"
+    },
+    {
+        "route": "N368",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "3",
+        "stop": "5FEC91F62EE33DA1",
+        "stop_name_tc": "永和街 (CW141)"
+    },
+    {
+        "route": "N368",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "4",
+        "stop": "4328371AE3AD16B9",
+        "stop_name_tc": "恒生銀行總行 (CW143)"
+    },
+    {
+        "route": "N368",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "5",
+        "stop": "46CB01C7F12428A3",
+        "stop_name_tc": "德忌利士街 (CW144)"
+    },
+    {
+        "route": "N368",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "6",
+        "stop": "D5FEF340EE98A7E8",
+        "stop_name_tc": "皇后像廣場 (CW145)"
+    },
+    {
+        "route": "N368",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "7",
+        "stop": "3FCC00D1D01ACD28",
+        "stop_name_tc": "金鐘站 (CW166)"
+    },
+    {
+        "route": "N368",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "8",
+        "stop": "AD1B202B678A3B56",
+        "stop_name_tc": "軍器廠街 (WC210)"
+    },
+    {
+        "route": "N368",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "9",
+        "stop": "C88DEC0AF0D1102B",
+        "stop_name_tc": "菲林明道 (WC213)"
+    },
+    {
+        "route": "N368",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "10",
+        "stop": "4C333C4D4E80902B",
+        "stop_name_tc": "史釗域道 (WC217)"
+    },
+    {
+        "route": "N368",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "11",
+        "stop": "F1A22B170518051B",
+        "stop_name_tc": "灣仔消防局 (WC220)"
+    },
+    {
+        "route": "N368",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "12",
+        "stop": "3DB9E473F29FCDEE",
+        "stop_name_tc": "百德新街 (WC231)"
+    },
+    {
+        "route": "N368",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "13",
+        "stop": "17B98BD1165A7B92",
+        "stop_name_tc": "維多利亞公園 (ED310)"
+    },
+    {
+        "route": "N368",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "14",
+        "stop": "42E86F97FAC8F719",
+        "stop_name_tc": "興發街 (ED320)"
+    },
+    {
+        "route": "N368",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "15",
+        "stop": "F948129B464BB963",
+        "stop_name_tc": "景隆街 (WC712)"
+    },
+    {
+        "route": "N368",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "16",
+        "stop": "79AFB35F9DBD485A",
+        "stop_name_tc": "紅隧轉車站 (HH600)"
+    },
+    {
+        "route": "N368",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "17",
+        "stop": "893BBB901005C3E6",
+        "stop_name_tc": "拔萃女書院 (YT665)"
+    },
+    {
+        "route": "N368",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "18",
+        "stop": "B046BFB6CCD3E7CE",
+        "stop_name_tc": "九龍中央郵政局 (YT133)"
+    },
+    {
+        "route": "N368",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "19",
+        "stop": "FC46B100B69573B7",
+        "stop_name_tc": "油麻地碧街 (YT145)"
+    },
+    {
+        "route": "N368",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "20",
+        "stop": "4A1CFF0BEA83DE78",
+        "stop_name_tc": "旺角豉油街 (MK163)"
+    },
+    {
+        "route": "N368",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "21",
+        "stop": "221A18C37331E6FD",
+        "stop_name_tc": "旺角奶路臣街 (MK174)"
+    },
+    {
+        "route": "N368",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "22",
+        "stop": "7ADC6D521E6BECE6",
+        "stop_name_tc": "旺角街市, 地區康健中心 (MK626)"
+    },
+    {
+        "route": "N368",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "23",
+        "stop": "6E764374E3F36BBB",
+        "stop_name_tc": "銘基書院 (MK630)"
+    },
+    {
+        "route": "N368",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "24",
+        "stop": "0CC9C5E5DBB3FF89",
+        "stop_name_tc": "美孚轉車站 (SS322)"
+    },
+    {
+        "route": "N368",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "25",
+        "stop": "643D73028E9E8490",
+        "stop_name_tc": "大欖隧道轉車站 (YL232)"
+    },
+    {
+        "route": "N368",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "26",
+        "stop": "52241C2AEB38627B",
+        "stop_name_tc": "大欖隧道轉車站 (YL235)"
+    },
+    {
+        "route": "N368",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "27",
+        "stop": "BFCFEBF6F5C35402",
+        "stop_name_tc": "高埔村 (YL734)"
+    },
+    {
+        "route": "N368",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "28",
+        "stop": "F8B3A5C8D0D3CED7",
+        "stop_name_tc": "下高埔村 (YL736)"
+    },
+    {
+        "route": "N368",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "29",
+        "stop": "3D5F826FD00C0529",
+        "stop_name_tc": "凹頭 (YL738)"
+    },
+    {
+        "route": "N368",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "30",
+        "stop": "876CF2E8C375F78B",
+        "stop_name_tc": "東成里 (YL566)"
+    },
+    {
+        "route": "N368",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "31",
+        "stop": "6386333EDAC64C96",
+        "stop_name_tc": "楊屋村 (YL568)"
+    },
+    {
+        "route": "N368",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "32",
+        "stop": "6A4B371546D489BF",
+        "stop_name_tc": "形點 I (YL242)"
+    },
+    {
+        "route": "N368",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "33",
+        "stop": "AC935792C88AF135",
+        "stop_name_tc": "元朗又新街 (YL249)"
+    },
+    {
+        "route": "N368",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "34",
+        "stop": "43E5D3A445382F82",
+        "stop_name_tc": "元朗大棠路 (YL252)"
+    },
+    {
+        "route": "N368",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "35",
+        "stop": "41D1C16D44F410F1",
+        "stop_name_tc": "元朗（西）總站 (YL942)"
+    },
+    {
+        "route": "N368",
         "bound": "O",
         "service_type": "1",
         "seq": "1",
@@ -268933,7 +269133,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "119ADA59BD2708D2",
-        "stop_name_tc": "正暉樓 (WT382)"
+        "stop_name_tc": "慈正邨正暉樓 (WT382)"
     },
     {
         "route": "N3D",
@@ -268941,7 +269141,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "C185612B431B197A",
-        "stop_name_tc": "正康樓 (WT385)"
+        "stop_name_tc": "慈正邨正康樓 (WT385)"
     },
     {
         "route": "N3D",
@@ -269165,7 +269365,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "EE3B5ABCB87027E7",
-        "stop_name_tc": "正暉樓 (WT383)"
+        "stop_name_tc": "慈正邨正暉樓 (WT383)"
     },
     {
         "route": "N3D",
@@ -272557,7 +272757,7 @@
         "service_type": "1",
         "seq": "23",
         "stop": "1FBAAE29AF1CA50E",
-        "stop_name_tc": "秀暉樓 (KT501)"
+        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT501)"
     },
     {
         "route": "N691",
@@ -272877,7 +273077,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "824D0847BAAD9128",
-        "stop_name_tc": "秀暉樓 (KT299)"
+        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT299)"
     },
     {
         "route": "N691",
@@ -280445,7 +280645,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "1FBAAE29AF1CA50E",
-        "stop_name_tc": "秀暉樓 (KT501)"
+        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT501)"
     },
     {
         "route": "R215",
@@ -280517,7 +280717,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "D17050E8964504BB",
-        "stop_name_tc": "秀明樓 (KT519)"
+        "stop_name_tc": "秀茂坪邨秀明樓 (KT519)"
     },
     {
         "route": "R215",
@@ -280525,7 +280725,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "04DDF4F7F1C74876",
-        "stop_name_tc": "秀富樓 (KT520)"
+        "stop_name_tc": "秀茂坪邨秀富樓 (KT520)"
     },
     {
         "route": "R215",
@@ -280541,7 +280741,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "2BB6115BF9346B34",
-        "stop_name_tc": "秀樂樓 (KT524)"
+        "stop_name_tc": "秀茂坪邨秀樂樓 (KT524)"
     },
     {
         "route": "R215",
@@ -281661,7 +281861,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "3C0AF6BA82588E2F",
-        "stop_name_tc": "秀程樓 (KT502)"
+        "stop_name_tc": "秀茂坪邨秀程樓 (KT502)"
     },
     {
         "route": "R603",
@@ -281669,7 +281869,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "F8DEE1D5F9A349AD",
-        "stop_name_tc": "秀康樓 (KT503)"
+        "stop_name_tc": "秀茂坪邨秀康樓 (KT503)"
     },
     {
         "route": "R603",
@@ -281677,7 +281877,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "4A14A012710E80B1",
-        "stop_name_tc": "秀樂樓 (KT385)"
+        "stop_name_tc": "秀茂坪邨秀樂樓 (KT385)"
     },
     {
         "route": "R603",
@@ -281693,7 +281893,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "6F106FD26B684372",
-        "stop_name_tc": "秀安樓 (KT390)"
+        "stop_name_tc": "秀茂坪邨秀安樓 (KT390)"
     },
     {
         "route": "R603",
@@ -281701,7 +281901,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "26305AF62FBEE2BC",
-        "stop_name_tc": "秀明樓 (KT393)"
+        "stop_name_tc": "秀茂坪邨秀明樓 (KT393)"
     },
     {
         "route": "R603",
@@ -283901,7 +284101,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "B809C24DC8C87767",
-        "stop_name_tc": "秀康樓 (KT297)"
+        "stop_name_tc": "秀茂坪邨秀康樓 (KT297)"
     },
     {
         "route": "SP1",
@@ -283909,7 +284109,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "3BA4DBB4520188DF",
-        "stop_name_tc": "秀程樓 (KT298)"
+        "stop_name_tc": "秀茂坪邨秀程樓 (KT298)"
     },
     {
         "route": "SP1",
@@ -285269,7 +285469,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "03F7818C0E176C55",
-        "stop_name_tc": "九龍灣常悅道 (KT478)"
+        "stop_name_tc": "九龍灣常悅道 MEGABOX (KT478)"
     },
     {
         "route": "T277",
@@ -285421,7 +285621,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "94358F5481BAE505",
-        "stop_name_tc": "常悅道 (KT130)"
+        "stop_name_tc": "常悅道 企業廣場 (KT130)"
     },
     {
         "route": "T277",
@@ -285869,7 +286069,7 @@
         "service_type": "1",
         "seq": "24",
         "stop": "81C6D8E74259157E",
-        "stop_name_tc": "常怡道 (KT135)"
+        "stop_name_tc": "常怡道 MEGABOX (KT135)"
     },
     {
         "route": "T74",
@@ -286876,8 +287076,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "6",
-        "stop": "5F60283656DF3016",
-        "stop_name_tc": "廣東道,新港中心 (YT205)"
+        "stop": "B7A8F179CD71B22E",
+        "stop_name_tc": "廣東道,新港中心 (YT206)"
     },
     {
         "route": "W4",
@@ -289109,7 +289309,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "A1C35E976ACF46FD",
-        "stop_name_tc": "九龍灣常悅道 (KT476)"
+        "stop_name_tc": "九龍灣常悅道 MEGABOX (KT476)"
     },
     {
         "route": "X6C",
@@ -289445,7 +289645,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "81C6D8E74259157E",
-        "stop_name_tc": "常怡道 (KT135)"
+        "stop_name_tc": "常怡道 MEGABOX (KT135)"
     },
     {
         "route": "X6C",
@@ -289493,7 +289693,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "03F7818C0E176C55",
-        "stop_name_tc": "九龍灣常悅道 (KT478)"
+        "stop_name_tc": "九龍灣常悅道 MEGABOX (KT478)"
     },
     {
         "route": "X89D",
@@ -289645,7 +289845,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "81C6D8E74259157E",
-        "stop_name_tc": "常怡道 (KT135)"
+        "stop_name_tc": "常怡道 MEGABOX (KT135)"
     },
     {
         "route": "X89D",
@@ -289773,7 +289973,7 @@
         "service_type": "2",
         "seq": "12",
         "stop": "81C6D8E74259157E",
-        "stop_name_tc": "常怡道 (KT135)"
+        "stop_name_tc": "常怡道 MEGABOX (KT135)"
     },
     {
         "route": "X89D",
