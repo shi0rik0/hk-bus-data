@@ -6625,9 +6625,9 @@
     },
     {
         "stop": "1FBAAE29AF1CA50E",
-        "name_en": "SAU FAI HOUSE, SAU MAU PING SOUTH ESTATE (KT501)",
-        "name_tc": "秀茂坪南邨秀暉樓 (KT501)",
-        "name_sc": "秀茂坪南邨秀晖楼 (KT501)",
+        "name_en": "SAU FAI HOUSE, SAU MAU PING ESTATE (KT501)",
+        "name_tc": "秀茂坪邨秀暉樓 (KT501)",
+        "name_sc": "秀茂坪邨秀晖楼 (KT501)",
         "lat": "22.316851",
         "long": "114.235856"
     },
@@ -7913,9 +7913,9 @@
     },
     {
         "stop": "25863CD2A364E72F",
-        "name_en": "SAU FAI HOUSE, SAU MAU PING SOUTH ESTATE (KT300)",
-        "name_tc": "秀茂坪南邨秀暉樓 (KT300)",
-        "name_sc": "秀茂坪南邨秀晖楼 (KT300)",
+        "name_en": "SAU FAI HOUSE, SAU MAU PING ESTATE (KT300)",
+        "name_tc": "秀茂坪邨秀暉樓 (KT300)",
+        "name_sc": "秀茂坪邨秀晖楼 (KT300)",
         "lat": "22.316195",
         "long": "114.236431"
     },
@@ -20625,9 +20625,9 @@
     },
     {
         "stop": "60D0B9706B352D1C",
-        "name_en": "HONG KONG INSTITUTE OF CONSTRUCTION-KOWLOON BAY",
-        "name_tc": "香港建造學院-九龍灣院校",
-        "name_sc": "香港建造学院-九龙湾院校",
+        "name_en": "HK INSTITUTE OF CONSTRUCTION-KOWLOON BAY (KT653)",
+        "name_tc": "香港建造學院九龍灣院校 (KT653)",
+        "name_sc": "香港建造学院九龙湾院校 (KT653)",
         "lat": "22.319024",
         "long": "114.214661"
     },
@@ -27545,9 +27545,9 @@
     },
     {
         "stop": "824D0847BAAD9128",
-        "name_en": "SAU FAI HOUSE, SAU MAU PING SOUTH ESTATE (KT299)",
-        "name_tc": "秀茂坪南邨秀暉樓 (KT299)",
-        "name_sc": "秀茂坪南邨秀晖楼 (KT299)",
+        "name_en": "SAU FAI HOUSE, SAU MAU PING ESTATE (KT299)",
+        "name_tc": "秀茂坪邨秀暉樓 (KT299)",
+        "name_sc": "秀茂坪邨秀晖楼 (KT299)",
         "lat": "22.316879",
         "long": "114.235972"
     },

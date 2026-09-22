@@ -16045,7 +16045,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "60D0B9706B352D1C",
-        "stop_name_tc": "香港建造學院-九龍灣院校"
+        "stop_name_tc": "香港建造學院九龍灣院校 (KT653)"
     },
     {
         "route": "11B",
@@ -16285,7 +16285,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "60D0B9706B352D1C",
-        "stop_name_tc": "香港建造學院-九龍灣院校"
+        "stop_name_tc": "香港建造學院九龍灣院校 (KT653)"
     },
     {
         "route": "11C",
@@ -16661,7 +16661,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "60D0B9706B352D1C",
-        "stop_name_tc": "香港建造學院-九龍灣院校"
+        "stop_name_tc": "香港建造學院九龍灣院校 (KT653)"
     },
     {
         "route": "11D",
@@ -17493,7 +17493,7 @@
         "service_type": "1",
         "seq": "27",
         "stop": "1FBAAE29AF1CA50E",
-        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT501)"
+        "stop_name_tc": "秀茂坪邨秀暉樓 (KT501)"
     },
     {
         "route": "11X",
@@ -18685,7 +18685,7 @@
         "service_type": "1",
         "seq": "38",
         "stop": "1FBAAE29AF1CA50E",
-        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT501)"
+        "stop_name_tc": "秀茂坪邨秀暉樓 (KT501)"
     },
     {
         "route": "13",
@@ -19301,7 +19301,7 @@
         "service_type": "1",
         "seq": "34",
         "stop": "1FBAAE29AF1CA50E",
-        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT501)"
+        "stop_name_tc": "秀茂坪邨秀暉樓 (KT501)"
     },
     {
         "route": "13D",
@@ -19917,7 +19917,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "1FBAAE29AF1CA50E",
-        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT501)"
+        "stop_name_tc": "秀茂坪邨秀暉樓 (KT501)"
     },
     {
         "route": "13M",
@@ -20045,7 +20045,7 @@
         "service_type": "2",
         "seq": "2",
         "stop": "25863CD2A364E72F",
-        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT300)"
+        "stop_name_tc": "秀茂坪邨秀暉樓 (KT300)"
     },
     {
         "route": "13M",
@@ -21829,7 +21829,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "60D0B9706B352D1C",
-        "stop_name_tc": "香港建造學院-九龍灣院校"
+        "stop_name_tc": "香港建造學院九龍灣院校 (KT653)"
     },
     {
         "route": "14",
@@ -23797,7 +23797,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "60D0B9706B352D1C",
-        "stop_name_tc": "香港建造學院-九龍灣院校"
+        "stop_name_tc": "香港建造學院九龍灣院校 (KT653)"
     },
     {
         "route": "15",
@@ -26461,7 +26461,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "60D0B9706B352D1C",
-        "stop_name_tc": "香港建造學院-九龍灣院校"
+        "stop_name_tc": "香港建造學院九龍灣院校 (KT653)"
     },
     {
         "route": "17",
@@ -34141,7 +34141,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "1FBAAE29AF1CA50E",
-        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT501)"
+        "stop_name_tc": "秀茂坪邨秀暉樓 (KT501)"
     },
     {
         "route": "213D",
@@ -34557,7 +34557,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "1FBAAE29AF1CA50E",
-        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT501)"
+        "stop_name_tc": "秀茂坪邨秀暉樓 (KT501)"
     },
     {
         "route": "213E",
@@ -34701,7 +34701,7 @@
         "service_type": "2",
         "seq": "12",
         "stop": "1FBAAE29AF1CA50E",
-        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT501)"
+        "stop_name_tc": "秀茂坪邨秀暉樓 (KT501)"
     },
     {
         "route": "213E",
@@ -34805,7 +34805,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "25863CD2A364E72F",
-        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT300)"
+        "stop_name_tc": "秀茂坪邨秀暉樓 (KT300)"
     },
     {
         "route": "213E",
@@ -34941,7 +34941,7 @@
         "service_type": "2",
         "seq": "7",
         "stop": "25863CD2A364E72F",
-        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT300)"
+        "stop_name_tc": "秀茂坪邨秀暉樓 (KT300)"
     },
     {
         "route": "213E",
@@ -35045,7 +35045,7 @@
         "service_type": "1",
         "seq": "5",
         "stop": "25863CD2A364E72F",
-        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT300)"
+        "stop_name_tc": "秀茂坪邨秀暉樓 (KT300)"
     },
     {
         "route": "213M",
@@ -35069,7 +35069,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "1FBAAE29AF1CA50E",
-        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT501)"
+        "stop_name_tc": "秀茂坪邨秀暉樓 (KT501)"
     },
     {
         "route": "213M",
@@ -35133,7 +35133,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "25863CD2A364E72F",
-        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT300)"
+        "stop_name_tc": "秀茂坪邨秀暉樓 (KT300)"
     },
     {
         "route": "213S",
@@ -35157,7 +35157,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "1FBAAE29AF1CA50E",
-        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT501)"
+        "stop_name_tc": "秀茂坪邨秀暉樓 (KT501)"
     },
     {
         "route": "213S",
@@ -35957,7 +35957,7 @@
         "service_type": "1",
         "seq": "27",
         "stop": "824D0847BAAD9128",
-        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT299)"
+        "stop_name_tc": "秀茂坪邨秀暉樓 (KT299)"
     },
     {
         "route": "214",
@@ -36109,7 +36109,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "1FBAAE29AF1CA50E",
-        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT501)"
+        "stop_name_tc": "秀茂坪邨秀暉樓 (KT501)"
     },
     {
         "route": "214",
@@ -93309,7 +93309,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "1FBAAE29AF1CA50E",
-        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT501)"
+        "stop_name_tc": "秀茂坪邨秀暉樓 (KT501)"
     },
     {
         "route": "293S",
@@ -93517,7 +93517,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "824D0847BAAD9128",
-        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT299)"
+        "stop_name_tc": "秀茂坪邨秀暉樓 (KT299)"
     },
     {
         "route": "293S",
@@ -139341,7 +139341,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "1FBAAE29AF1CA50E",
-        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT501)"
+        "stop_name_tc": "秀茂坪邨秀暉樓 (KT501)"
     },
     {
         "route": "600",
@@ -139509,7 +139509,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "25863CD2A364E72F",
-        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT300)"
+        "stop_name_tc": "秀茂坪邨秀暉樓 (KT300)"
     },
     {
         "route": "600",
@@ -139797,7 +139797,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "1FBAAE29AF1CA50E",
-        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT501)"
+        "stop_name_tc": "秀茂坪邨秀暉樓 (KT501)"
     },
     {
         "route": "600X",
@@ -139965,7 +139965,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "25863CD2A364E72F",
-        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT300)"
+        "stop_name_tc": "秀茂坪邨秀暉樓 (KT300)"
     },
     {
         "route": "600X",
@@ -145309,7 +145309,7 @@
         "service_type": "1",
         "seq": "23",
         "stop": "1FBAAE29AF1CA50E",
-        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT501)"
+        "stop_name_tc": "秀茂坪邨秀暉樓 (KT501)"
     },
     {
         "route": "613",
@@ -147173,7 +147173,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "1FBAAE29AF1CA50E",
-        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT501)"
+        "stop_name_tc": "秀茂坪邨秀暉樓 (KT501)"
     },
     {
         "route": "619X",
@@ -153461,7 +153461,7 @@
         "service_type": "1",
         "seq": "32",
         "stop": "60D0B9706B352D1C",
-        "stop_name_tc": "香港建造學院-九龍灣院校"
+        "stop_name_tc": "香港建造學院九龍灣院校 (KT653)"
     },
     {
         "route": "671",
@@ -153997,7 +153997,7 @@
         "service_type": "1",
         "seq": "23",
         "stop": "60D0B9706B352D1C",
-        "stop_name_tc": "香港建造學院-九龍灣院校"
+        "stop_name_tc": "香港建造學院九龍灣院校 (KT653)"
     },
     {
         "route": "671X",
@@ -201509,7 +201509,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "1FBAAE29AF1CA50E",
-        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT501)"
+        "stop_name_tc": "秀茂坪邨秀暉樓 (KT501)"
     },
     {
         "route": "88",
@@ -215701,7 +215701,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "1FBAAE29AF1CA50E",
-        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT501)"
+        "stop_name_tc": "秀茂坪邨秀暉樓 (KT501)"
     },
     {
         "route": "93A",
@@ -216349,7 +216349,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "60D0B9706B352D1C",
-        "stop_name_tc": "香港建造學院-九龍灣院校"
+        "stop_name_tc": "香港建造學院九龍灣院校 (KT653)"
     },
     {
         "route": "93K",
@@ -216613,7 +216613,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "25863CD2A364E72F",
-        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT300)"
+        "stop_name_tc": "秀茂坪邨秀暉樓 (KT300)"
     },
     {
         "route": "93M",
@@ -216677,7 +216677,7 @@
         "service_type": "1",
         "seq": "23",
         "stop": "1FBAAE29AF1CA50E",
-        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT501)"
+        "stop_name_tc": "秀茂坪邨秀暉樓 (KT501)"
     },
     {
         "route": "93M",
@@ -219485,7 +219485,7 @@
         "service_type": "1",
         "seq": "29",
         "stop": "1FBAAE29AF1CA50E",
-        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT501)"
+        "stop_name_tc": "秀茂坪邨秀暉樓 (KT501)"
     },
     {
         "route": "95",
@@ -229789,7 +229789,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "25863CD2A364E72F",
-        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT300)"
+        "stop_name_tc": "秀茂坪邨秀暉樓 (KT300)"
     },
     {
         "route": "98A",
@@ -229853,7 +229853,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "1FBAAE29AF1CA50E",
-        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT501)"
+        "stop_name_tc": "秀茂坪邨秀暉樓 (KT501)"
     },
     {
         "route": "98A",
@@ -230021,7 +230021,7 @@
         "service_type": "3",
         "seq": "6",
         "stop": "1FBAAE29AF1CA50E",
-        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT501)"
+        "stop_name_tc": "秀茂坪邨秀暉樓 (KT501)"
     },
     {
         "route": "98A",
@@ -230301,7 +230301,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "1FBAAE29AF1CA50E",
-        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT501)"
+        "stop_name_tc": "秀茂坪邨秀暉樓 (KT501)"
     },
     {
         "route": "98C",
@@ -230525,7 +230525,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "824D0847BAAD9128",
-        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT299)"
+        "stop_name_tc": "秀茂坪邨秀暉樓 (KT299)"
     },
     {
         "route": "98C",
@@ -231629,7 +231629,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "1FBAAE29AF1CA50E",
-        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT501)"
+        "stop_name_tc": "秀茂坪邨秀暉樓 (KT501)"
     },
     {
         "route": "98E",
@@ -231853,7 +231853,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "824D0847BAAD9128",
-        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT299)"
+        "stop_name_tc": "秀茂坪邨秀暉樓 (KT299)"
     },
     {
         "route": "98E",
@@ -232045,7 +232045,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "1FBAAE29AF1CA50E",
-        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT501)"
+        "stop_name_tc": "秀茂坪邨秀暉樓 (KT501)"
     },
     {
         "route": "98P",
@@ -232373,7 +232373,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "1FBAAE29AF1CA50E",
-        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT501)"
+        "stop_name_tc": "秀茂坪邨秀暉樓 (KT501)"
     },
     {
         "route": "98R",
@@ -258309,7 +258309,7 @@
         "service_type": "1",
         "seq": "44",
         "stop": "1FBAAE29AF1CA50E",
-        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT501)"
+        "stop_name_tc": "秀茂坪邨秀暉樓 (KT501)"
     },
     {
         "route": "N213",
@@ -258429,7 +258429,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "1FBAAE29AF1CA50E",
-        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT501)"
+        "stop_name_tc": "秀茂坪邨秀暉樓 (KT501)"
     },
     {
         "route": "N214",
@@ -265541,7 +265541,7 @@
         "service_type": "1",
         "seq": "25",
         "stop": "1FBAAE29AF1CA50E",
-        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT501)"
+        "stop_name_tc": "秀茂坪邨秀暉樓 (KT501)"
     },
     {
         "route": "N293",
@@ -272845,7 +272845,7 @@
         "service_type": "1",
         "seq": "23",
         "stop": "1FBAAE29AF1CA50E",
-        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT501)"
+        "stop_name_tc": "秀茂坪邨秀暉樓 (KT501)"
     },
     {
         "route": "N691",
@@ -273165,7 +273165,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "824D0847BAAD9128",
-        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT299)"
+        "stop_name_tc": "秀茂坪邨秀暉樓 (KT299)"
     },
     {
         "route": "N691",
@@ -280733,7 +280733,7 @@
         "service_type": "1",
         "seq": "7",
         "stop": "1FBAAE29AF1CA50E",
-        "stop_name_tc": "秀茂坪南邨秀暉樓 (KT501)"
+        "stop_name_tc": "秀茂坪邨秀暉樓 (KT501)"
     },
     {
         "route": "R215",
