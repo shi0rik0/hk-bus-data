@@ -46580,7 +46580,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "17",
-        "stop": "6E85D42922E5A10C",
+        "stop": "F87A56BD0A2640ED",
         "stop_name_tc": "元朗廣場 (YL359)"
     },
     {
@@ -56364,7 +56364,7 @@
         "bound": "I",
         "service_type": "1",
         "seq": "15",
-        "stop": "6E85D42922E5A10C",
+        "stop": "F87A56BD0A2640ED",
         "stop_name_tc": "元朗廣場 (YL359)"
     },
     {
@@ -58100,7 +58100,7 @@
         "bound": "O",
         "service_type": "2",
         "seq": "17",
-        "stop": "6E85D42922E5A10C",
+        "stop": "F87A56BD0A2640ED",
         "stop_name_tc": "元朗廣場 (YL359)"
     },
     {
@@ -77196,7 +77196,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "10",
-        "stop": "F87A56BD0A2640ED",
+        "stop": "6E85D42922E5A10C",
         "stop_name_tc": "元朗廣場 (YL360)"
     },
     {
@@ -77980,7 +77980,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "5",
-        "stop": "F87A56BD0A2640ED",
+        "stop": "6E85D42922E5A10C",
         "stop_name_tc": "元朗廣場 (YL360)"
     },
     {
@@ -78404,7 +78404,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "14",
-        "stop": "F87A56BD0A2640ED",
+        "stop": "6E85D42922E5A10C",
         "stop_name_tc": "元朗廣場 (YL360)"
     },
     {
@@ -152188,7 +152188,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "11",
-        "stop": "F87A56BD0A2640ED",
+        "stop": "6E85D42922E5A10C",
         "stop_name_tc": "元朗廣場 (YL360)"
     },
     {
@@ -158868,7 +158868,7 @@
         "bound": "I",
         "service_type": "1",
         "seq": "25",
-        "stop": "6E85D42922E5A10C",
+        "stop": "F87A56BD0A2640ED",
         "stop_name_tc": "元朗廣場 (YL359)"
     },
     {
@@ -160980,7 +160980,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "9",
-        "stop": "6E85D42922E5A10C",
+        "stop": "F87A56BD0A2640ED",
         "stop_name_tc": "元朗廣場 (YL359)"
     },
     {
@@ -238388,7 +238388,7 @@
         "bound": "I",
         "service_type": "1",
         "seq": "7",
-        "stop": "F87A56BD0A2640ED",
+        "stop": "6E85D42922E5A10C",
         "stop_name_tc": "元朗廣場 (YL360)"
     },
     {
@@ -238532,7 +238532,7 @@
         "bound": "I",
         "service_type": "3",
         "seq": "8",
-        "stop": "F87A56BD0A2640ED",
+        "stop": "6E85D42922E5A10C",
         "stop_name_tc": "元朗廣場 (YL360)"
     },
     {
@@ -245941,7 +245941,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "6E85D42922E5A10C",
-        "stop_name_tc": "元朗廣場 (YL359)"
+        "stop_name_tc": "元朗廣場 (YL360)"
     },
     {
         "route": "B9A",
@@ -248652,7 +248652,7 @@
         "bound": "I",
         "service_type": "1",
         "seq": "15",
-        "stop": "F87A56BD0A2640ED",
+        "stop": "6E85D42922E5A10C",
         "stop_name_tc": "元朗廣場 (YL360)"
     },
     {
@@ -249612,7 +249612,7 @@
         "bound": "I",
         "service_type": "1",
         "seq": "33",
-        "stop": "F87A56BD0A2640ED",
+        "stop": "6E85D42922E5A10C",
         "stop_name_tc": "元朗廣場 (YL360)"
     },
     {
@@ -250764,7 +250764,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "3",
-        "stop": "F87A56BD0A2640ED",
+        "stop": "6E85D42922E5A10C",
         "stop_name_tc": "元朗廣場 (YL360)"
     },
     {
@@ -263156,7 +263156,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "14",
-        "stop": "F87A56BD0A2640ED",
+        "stop": "6E85D42922E5A10C",
         "stop_name_tc": "元朗廣場 (YL360)"
     },
     {
@@ -266180,7 +266180,7 @@
         "bound": "I",
         "service_type": "1",
         "seq": "31",
-        "stop": "F87A56BD0A2640ED",
+        "stop": "6E85D42922E5A10C",
         "stop_name_tc": "元朗廣場 (YL360)"
     },
     {
@@ -276388,7 +276388,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "10",
-        "stop": "F87A56BD0A2640ED",
+        "stop": "6E85D42922E5A10C",
         "stop_name_tc": "元朗廣場 (YL360)"
     },
     {
@@ -279797,7 +279797,7 @@
         "service_type": "2",
         "seq": "3",
         "stop": "6E85D42922E5A10C",
-        "stop_name_tc": "元朗廣場 (YL359)"
+        "stop_name_tc": "元朗廣場 (YL360)"
     },
     {
         "route": "P968",
@@ -287588,7 +287588,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "18",
-        "stop": "F87A56BD0A2640ED",
+        "stop": "6E85D42922E5A10C",
         "stop_name_tc": "元朗廣場 (YL360)"
     },
     {

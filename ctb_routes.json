@@ -541,6 +541,16 @@
     },
     {
         "co": "CTB",
+        "route": "20X",
+        "orig_tc": "啟德郵輪碼頭",
+        "orig_en": "Kai Tak Cruise Terminal",
+        "dest_tc": "佐敦及尖沙咀",
+        "dest_en": "Jordan & Tsim Sha Tsui",
+        "orig_sc": "启德邮轮码头",
+        "dest_sc": "佐敦及尖沙咀"
+    },
+    {
+        "co": "CTB",
         "route": "22",
         "orig_tc": "啟德郵輪碼頭",
         "orig_en": "Kai Tak Cruise Terminal",
@@ -578,6 +588,16 @@
         "dest_en": "Kai Tak Cruise Terminal",
         "orig_sc": "启德站",
         "dest_sc": "启德邮轮码头"
+    },
+    {
+        "co": "CTB",
+        "route": "22S",
+        "orig_tc": "啟德-AIRSIDE (經宋皇臺站)",
+        "orig_en": "Kai Tak -AIRSIDE (via Sung Wong Toi Station)",
+        "dest_tc": "啟德醫院 / 郵輪碼頭",
+        "dest_en": "Kai Tak Hospital / Cruise Terminal",
+        "orig_sc": "启德-AIRSIDE (经宋皇台站)",
+        "dest_sc": "启德医院 / 邮轮码头"
     },
     {
         "co": "CTB",

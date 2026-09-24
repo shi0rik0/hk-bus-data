@@ -23601,9 +23601,9 @@
     },
     {
         "stop": "6E85D42922E5A10C",
-        "name_en": "YUEN LONG PLAZA (YL359)",
-        "name_tc": "元朗廣場 (YL359)",
-        "name_sc": "元朗广场 (YL359)",
+        "name_en": "YUEN LONG PLAZA (YL360)",
+        "name_tc": "元朗廣場 (YL360)",
+        "name_sc": "元朗广场 (YL360)",
         "lat": "22.444678",
         "long": "114.023992"
     },
@@ -52321,9 +52321,9 @@
     },
     {
         "stop": "F87A56BD0A2640ED",
-        "name_en": "YUEN LONG PLAZA (YL360)",
-        "name_tc": "元朗廣場 (YL360)",
-        "name_sc": "元朗广场 (YL360)",
+        "name_en": "YUEN LONG PLAZA (YL359)",
+        "name_tc": "元朗廣場 (YL359)",
+        "name_sc": "元朗广场 (YL359)",
         "lat": "22.444681",
         "long": "114.023872"
     },
