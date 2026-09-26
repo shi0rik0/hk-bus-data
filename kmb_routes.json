@@ -2228,17 +2228,17 @@
         "orig_en": "KWUN TONG (TSUI PING NORTH ESTATE)",
         "orig_tc": "觀塘(翠屏北邨",
         "orig_sc": "观塘(翠屏北邨",
-        "dest_en": "SHAM TSENG",
-        "dest_tc": "深井",
-        "dest_sc": "深井"
+        "dest_en": "TSING LUNG TAU",
+        "dest_tc": "青龍頭",
+        "dest_sc": "青龙头"
     },
     {
         "route": "234C",
         "bound": "O",
         "service_type": "1",
-        "orig_en": "SHAM TSENG",
-        "orig_tc": "深井",
-        "orig_sc": "深井",
+        "orig_en": "TSING LUNG TAU",
+        "orig_tc": "青龍頭",
+        "orig_sc": "青龙头",
         "dest_en": "KWUN TONG (TSUI PING NORTH ESTATE)",
         "dest_tc": "觀塘(翠屏北邨)",
         "dest_sc": "观塘(翠屏北邨)"
@@ -2750,6 +2750,17 @@
         "dest_sc": "蓝田站"
     },
     {
+        "route": "253",
+        "bound": "O",
+        "service_type": "1",
+        "orig_en": "TSING FAT STREET LIGHT PUBLIC HOUSING",
+        "orig_tc": "青發街簡約公屋",
+        "orig_sc": "青发街简约公屋",
+        "dest_en": "TUEN MUN ROAD BBI (CIRCULAR)",
+        "dest_tc": "屯門公路轉車站(循環線)",
+        "dest_sc": "屯门公路转车站(循环线)"
+    },
+    {
         "route": "258A",
         "bound": "O",
         "service_type": "1",
@@ -3141,17 +3152,17 @@
         "orig_en": "FANLING (CHEUNG WAH)",
         "orig_tc": "粉嶺(祥華)",
         "orig_sc": "粉岭(祥华)",
-        "dest_en": "SO KWUN WAT",
-        "dest_tc": "掃管笏",
-        "dest_sc": "扫管笏"
+        "dest_en": "TSING FAT STREET LIGHT PUBLIC HOUSING",
+        "dest_tc": "青發街簡約公屋",
+        "dest_sc": "青发街简约公屋"
     },
     {
         "route": "261X",
         "bound": "O",
         "service_type": "1",
-        "orig_en": "SO KWUN WAT",
-        "orig_tc": "掃管笏",
-        "orig_sc": "扫管笏",
+        "orig_en": "TSING FAT STREET LIGHT PUBLIC HOUSING",
+        "orig_tc": "青發街簡約公屋",
+        "orig_sc": "青发街简约公屋",
         "dest_en": "FANLING (CHEUNG WAH)",
         "dest_tc": "粉嶺(祥華)",
         "dest_sc": "粉岭(祥华)"
@@ -14663,17 +14674,6 @@
         "dest_sc": "机场(地面运输中心)"
     },
     {
-        "route": "A36",
-        "bound": "O",
-        "service_type": "5",
-        "orig_en": "KAM SHEUNG ROAD STATION",
-        "orig_tc": "錦上路站",
-        "orig_sc": "锦上路站",
-        "dest_en": "AIRPORT (GROUND TRANSPORTATION CENTRE)",
-        "dest_tc": "機場(地面運輸中心)",
-        "dest_sc": "机场(地面运输中心)"
-    },
-    {
         "route": "A37",
         "bound": "I",
         "service_type": "1",
@@ -17551,9 +17551,9 @@
         "orig_en": "MEI FOO",
         "orig_tc": "美孚",
         "orig_sc": "美孚",
-        "dest_en": "HK CHILDREN'S HOSPITAL",
-        "dest_tc": "香港兒童醫院",
-        "dest_sc": "香港儿童医院"
+        "dest_en": "KAI TAK HOSPITAL",
+        "dest_tc": "啟德醫院",
+        "dest_sc": "启德医院"
     },
     {
         "route": "X89D",

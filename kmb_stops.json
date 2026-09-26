@@ -11689,9 +11689,9 @@
     },
     {
         "stop": "36A5F6842C55126E",
-        "name_en": "HONG KONG CHILDREN'S HOSPITAL (ALIGHTING STOP)",
-        "name_tc": "香港兒童醫院(落客站) (KA530)",
-        "name_sc": "香港儿童医院(落客站) (KA530)",
+        "name_en": "HONG KONG CHILDREN'S HOSPITAL (ALIGHTING ONLY)",
+        "name_tc": "香港兒童醫院 (落客站) (KA530)",
+        "name_sc": "香港儿童医院 (落客站) (KA530)",
         "lat": "22.315686",
         "long": "114.209626"
     },
@@ -41390,6 +41390,14 @@
         "name_sc": "香港故宫文化博物馆 (YT271)",
         "lat": "22.301502",
         "long": "114.156253"
+    },
+    {
+        "stop": "C51FDD82B9A3576E",
+        "name_en": "TSING FAT STREET LIGHT PUBLIC HOUSING TERMINUS",
+        "name_tc": "青發街簡約公屋總站 (TM870)",
+        "name_sc": "青发街简约公屋总站 (TM870)",
+        "lat": "22.363594",
+        "long": "113.999759"
     },
     {
         "stop": "C5294C92C5C6E334",

@@ -781,16 +781,6 @@
     },
     {
         "co": "CTB",
-        "route": "314",
-        "orig_tc": "小西灣 (藍灣半島)",
-        "orig_en": "Siu Sai Wan (Island Resort)",
-        "dest_tc": "赤柱 (海灘／市場)",
-        "dest_en": "Stanley (Beach / Market)",
-        "orig_sc": "小西湾 (蓝湾半岛)",
-        "dest_sc": "赤柱 (海滩／市场)"
-    },
-    {
-        "co": "CTB",
         "route": "33X",
         "orig_tc": "數碼港",
         "orig_en": "Cyberport",
@@ -1786,16 +1776,6 @@
         "dest_en": "Ocean Park",
         "orig_sc": "赤柱市场",
         "dest_sc": "海洋公园"
-    },
-    {
-        "co": "CTB",
-        "route": "73X",
-        "orig_tc": "數碼港",
-        "orig_en": "Cyberport",
-        "dest_tc": "黃竹坑站",
-        "dest_en": "Wong Chuk Hang Station",
-        "orig_sc": "数码港",
-        "dest_sc": "黄竹坑站"
     },
     {
         "co": "CTB",
