@@ -9152,6 +9152,14 @@
         "long": "114.054374"
     },
     {
+        "stop": "2BC21AC371639FC3",
+        "name_en": "KAI TAK HOSPITAL (KA532)",
+        "name_tc": "啟德醫院 (KA532)",
+        "name_sc": "启德医院 (KA532)",
+        "lat": "22.317594",
+        "long": "114.207422"
+    },
+    {
         "stop": "2BD0ACE05ADB9AD1",
         "name_en": "TSING SIN PLAYGROUND (TM238)",
         "name_tc": "青善遊樂場 (TM238)",
@@ -11689,9 +11697,9 @@
     },
     {
         "stop": "36A5F6842C55126E",
-        "name_en": "HONG KONG CHILDREN'S HOSPITAL (ALIGHTING ONLY)",
-        "name_tc": "香港兒童醫院 (落客站) (KA530)",
-        "name_sc": "香港儿童医院 (落客站) (KA530)",
+        "name_en": "HONG KONG CHILDREN'S HOSPITAL (KA530)",
+        "name_tc": "香港兒童醫院 (KA530)",
+        "name_sc": "香港儿童医院 (KA530)",
         "lat": "22.315686",
         "long": "114.209626"
     },
@@ -16368,14 +16376,6 @@
         "long": "114.203044"
     },
     {
-        "stop": "4C7927148D79A446",
-        "name_en": "CHEUNG WING ROAD GYRATORY (KW240)",
-        "name_tc": "昌榮路迴旋處 (KW240)",
-        "name_sc": "昌荣路回旋处 (KW240)",
-        "lat": "22.370199",
-        "long": "114.133106"
-    },
-    {
         "stop": "4C82D99D0721ADE9",
         "name_en": "PARC VERSAILLES (TP227)",
         "name_tc": "帝欣苑 (TP227)",
@@ -18382,6 +18382,14 @@
         "name_sc": "拔萃男书院,太子道西 (KC744)",
         "lat": "22.324934",
         "long": "114.174398"
+    },
+    {
+        "stop": "562DC5FB6008797C",
+        "name_en": "TSING FAT STREET LIGHT PUBLIC HOUSING TERMINUS",
+        "name_tc": "青發街簡約公屋總站 (TM871)",
+        "name_sc": "青发街简约公屋总站 (TM871)",
+        "lat": "22.363594",
+        "long": "113.999759"
     },
     {
         "stop": "564C0ECAAC09C371",
@@ -29726,6 +29734,14 @@
         "name_sc": "尖沙咀码头,海港城 (YT915)",
         "lat": "22.294321",
         "long": "114.169189"
+    },
+    {
+        "stop": "8D82E683FA753CC8",
+        "name_en": "KAI TAK HOSPITAL (KA533)",
+        "name_tc": "啟德醫院 (KA533)",
+        "name_sc": "启德医院 (KA533)",
+        "lat": "22.318376",
+        "long": "114.206559"
     },
     {
         "stop": "8D845BED93F1CDD3",
@@ -44168,6 +44184,14 @@
         "long": "114.053360"
     },
     {
+        "stop": "D3071E4C5434ADE7",
+        "name_en": "TSING FAT STREET LIGHT PUBLIC HOUSING TERMINUS",
+        "name_tc": "青發街簡約公屋總站 (TM874)",
+        "name_sc": "青发街简约公屋总站 (TM874)",
+        "lat": "22.363594",
+        "long": "113.999759"
+    },
+    {
         "stop": "D3139CF35C894BC8",
         "name_en": "HUNG HOM ESTATE (HH351)",
         "name_tc": "紅磡邨 (HH351)",
@@ -46177,11 +46201,11 @@
     },
     {
         "stop": "DBB2582C87F91983",
-        "name_en": "HONG KONG CHILDREN'S HOSPITAL (KA531)",
-        "name_tc": "香港兒童醫院 (KA531)",
-        "name_sc": "香港儿童医院 (KA531)",
-        "lat": "22.315786",
-        "long": "114.209517"
+        "name_en": "KAI TAK HOSPITAL (ALIGHTING STOP) (KA531)",
+        "name_tc": "啟德醫院(落客站) (KA531)",
+        "name_sc": "启德医院(落客站) (KA531)",
+        "lat": "22.317594",
+        "long": "114.207422"
     },
     {
         "stop": "DBB6D5D26FF3D909",
