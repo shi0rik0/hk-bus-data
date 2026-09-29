@@ -791,6 +791,16 @@
     },
     {
         "co": "CTB",
+        "route": "347",
+        "orig_tc": "金鐘 (西)",
+        "orig_en": "Admiralty (West)",
+        "dest_tc": "香港仔 (經域多利道)",
+        "dest_en": "Aberdeen (via Victoria Road)",
+        "orig_sc": "金钟 (西)",
+        "dest_sc": "香港仔 (经域多利道)"
+    },
+    {
+        "co": "CTB",
         "route": "37A",
         "orig_tc": "置富花園",
         "orig_en": "Chi Fu Fa Yuen",
