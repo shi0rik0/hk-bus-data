@@ -5745,9 +5745,9 @@
     },
     {
         "stop": "1BD82E4312536F0C",
-        "name_en": "FAT TSEUNG STREET WEST (SS289)",
-        "name_tc": "發祥街西 (SS289)",
-        "name_sc": "发祥街西 (SS289)",
+        "name_en": "FAT TSEUNG STREET WEST, HOI TAT COURT (SS289)",
+        "name_tc": "發祥街西, 凱德苑 (SS289)",
+        "name_sc": "发祥街西, 凯德苑 (SS289)",
         "lat": "22.330184",
         "long": "114.151263"
     },
@@ -8633,9 +8633,9 @@
     },
     {
         "stop": "28D4FD61902C9392",
-        "name_en": "KAR MAN HOUSE (KC518)",
-        "name_tc": "嘉民樓 (KC518)",
-        "name_sc": "嘉民楼 (KC518)",
+        "name_en": "OI MAN ESTATE, KAR MAN HOUSE (KC518)",
+        "name_tc": "愛民邨, 嘉民樓 (KC518)",
+        "name_sc": "爱民邨, 嘉民楼 (KC518)",
         "lat": "22.312191",
         "long": "114.179890"
     },
@@ -9441,9 +9441,9 @@
     },
     {
         "stop": "2D30B4FAF44D2398",
-        "name_en": "TONKIN STREET WEST (SS664)",
-        "name_tc": "東京街西 (SS664)",
-        "name_sc": "东京街西 (SS664)",
+        "name_en": "HOI TAT ESTATE (SS664)",
+        "name_tc": "海達邨 (SS664)",
+        "name_sc": "海达邨 (SS664)",
         "lat": "22.329224",
         "long": "114.152032"
     },
@@ -9865,9 +9865,9 @@
     },
     {
         "stop": "2F3C9727D9186DAB",
-        "name_en": "THE ASTRID (KC609)",
-        "name_tc": "雅麗居 (KC609)",
-        "name_sc": "雅丽居 (KC609)",
+        "name_en": "ARGYLE STREET, THE ASTRID (KC609)",
+        "name_tc": "亞皆老街,雅麗居 (KC609)",
+        "name_sc": "亚皆老街,雅丽居 (KC609)",
         "lat": "22.323194",
         "long": "114.182168"
     },
@@ -15593,9 +15593,9 @@
     },
     {
         "stop": "48AA5A2907C1833D",
-        "name_en": "CLP POWER ARGYLE STREET (KC378)",
-        "name_tc": "亞皆老街中電 (KC378)",
-        "name_sc": "亚皆老街中电 (KC378)",
+        "name_en": "CLP PULSE (KC378)",
+        "name_tc": "中電鐘樓文化館 (KC378)",
+        "name_sc": "中电钟楼文化馆 (KC378)",
         "lat": "22.320703",
         "long": "114.176086"
     },
@@ -22417,9 +22417,9 @@
     },
     {
         "stop": "68A3AF80BADFDE9F",
-        "name_en": "CLP POWER ARGYLE STREET (KC376)",
-        "name_tc": "亞皆老街中電 (KC376)",
-        "name_sc": "亚皆老街中电 (KC376)",
+        "name_en": "CLP PULSE (KC376)",
+        "name_tc": "中電鐘樓文化館 (KC376)",
+        "name_sc": "中电钟楼文化馆 (KC376)",
         "lat": "22.320775",
         "long": "114.176203"
     },
@@ -27689,9 +27689,9 @@
     },
     {
         "stop": "831F928D7F101526",
-        "name_en": "POK MAN STREET (MK240)",
-        "name_tc": "博文街 (MK240)",
-        "name_sc": "博文街 (MK240)",
+        "name_en": "POK MAN STREET, OLYMPIC STATION (MK240)",
+        "name_tc": "博文街, 奧運站 (MK240)",
+        "name_sc": "博文街, 奥运站 (MK240)",
         "lat": "22.319356",
         "long": "114.160769"
     },
@@ -30929,9 +30929,9 @@
     },
     {
         "stop": "93CCED3B2F2BE08F",
-        "name_en": "VEGETABLE MARKETING ORGANIZATION (SS314)",
-        "name_tc": "蔬菜統營處 (SS314)",
-        "name_sc": "蔬菜统营处 (SS314)",
+        "name_en": "VEGETABLE MARKETING ORGANIZATION, LAI TSUI COURT",
+        "name_tc": "蔬菜統營處, 麗翠苑 (SS314)",
+        "name_sc": "蔬菜统营处, 丽翠苑 (SS314)",
         "lat": "22.333055",
         "long": "114.154386"
     },
@@ -35121,9 +35121,9 @@
     },
     {
         "stop": "A72D15160CC3AF31",
-        "name_en": "CLP POWER ARGYLE STREET (KC377)",
-        "name_tc": "亞皆老街中電 (KC377)",
-        "name_sc": "亚皆老街中电 (KC377)",
+        "name_en": "CLP PULSE (KC377)",
+        "name_tc": "中電鐘樓文化館 (KC377)",
+        "name_sc": "中电钟楼文化馆 (KC377)",
         "lat": "22.320532",
         "long": "114.175816"
     },
@@ -35305,9 +35305,9 @@
     },
     {
         "stop": "A7F679945ED1DB31",
-        "name_en": "THE ASTRID (KC608)",
-        "name_tc": "雅麗居 (KC608)",
-        "name_sc": "雅丽居 (KC608)",
+        "name_en": "ARGYLE STREET, THE ASTRID (KC608)",
+        "name_tc": "亞皆老街,雅麗居 (KC608)",
+        "name_sc": "亚皆老街,雅丽居 (KC608)",
         "lat": "22.323148",
         "long": "114.182050"
     },
@@ -35457,9 +35457,9 @@
     },
     {
         "stop": "A8762A74241E8027",
-        "name_en": "LAI KOK ESTATE (SS680)",
-        "name_tc": "麗閣邨 (SS680)",
-        "name_sc": "丽阁邨 (SS680)",
+        "name_en": "LAI KOK ESTATE, LAI TSUI COURT (SS680)",
+        "name_tc": "麗閣邨,麗翠苑 (SS680)",
+        "name_sc": "丽阁邨,丽翠苑 (SS680)",
         "lat": "22.333118",
         "long": "114.155983"
     },
@@ -44273,9 +44273,9 @@
     },
     {
         "stop": "D35570D44FA8773C",
-        "name_en": "MAN HING HOUSE (SS567)",
-        "name_tc": "民興樓 (SS567)",
-        "name_sc": "民兴楼 (SS567)",
+        "name_en": "TAI HANG SAI ESTATE MAN HING HOUSE (SS567)",
+        "name_tc": "大坑西邨,民興樓 (SS567)",
+        "name_sc": "大坑西邨,民兴楼 (SS567)",
         "lat": "22.331968",
         "long": "114.170332"
     },
@@ -49673,9 +49673,9 @@
     },
     {
         "stop": "ED244F7BBACAB14D",
-        "name_en": "CLP POWER (KC335)",
-        "name_tc": "中華電力 (KC335)",
-        "name_sc": "中华电力 (KC335)",
+        "name_en": "MAN KEE MANSION (KC335)",
+        "name_tc": "萬基大廈 (KC335)",
+        "name_sc": "万基大厦 (KC335)",
         "lat": "22.320178",
         "long": "114.176516"
     },

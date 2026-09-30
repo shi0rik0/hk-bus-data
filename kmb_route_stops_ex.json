@@ -629,7 +629,7 @@
         "service_type": "1",
         "seq": "29",
         "stop": "48AA5A2907C1833D",
-        "stop_name_tc": "亞皆老街中電 (KC378)"
+        "stop_name_tc": "中電鐘樓文化館 (KC378)"
     },
     {
         "route": "10",
@@ -14573,7 +14573,7 @@
         "service_type": "1",
         "seq": "29",
         "stop": "2D30B4FAF44D2398",
-        "stop_name_tc": "東京街西 (SS664)"
+        "stop_name_tc": "海達邨 (SS664)"
     },
     {
         "route": "118",
@@ -14749,7 +14749,7 @@
         "service_type": "3",
         "seq": "21",
         "stop": "2D30B4FAF44D2398",
-        "stop_name_tc": "東京街西 (SS664)"
+        "stop_name_tc": "海達邨 (SS664)"
     },
     {
         "route": "118",
@@ -14781,7 +14781,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "A8762A74241E8027",
-        "stop_name_tc": "麗閣邨 (SS680)"
+        "stop_name_tc": "麗閣邨,麗翠苑 (SS680)"
     },
     {
         "route": "118",
@@ -15325,7 +15325,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "A8762A74241E8027",
-        "stop_name_tc": "麗閣邨 (SS680)"
+        "stop_name_tc": "麗閣邨,麗翠苑 (SS680)"
     },
     {
         "route": "118P",
@@ -15661,7 +15661,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "2D30B4FAF44D2398",
-        "stop_name_tc": "東京街西 (SS664)"
+        "stop_name_tc": "海達邨 (SS664)"
     },
     {
         "route": "118P",
@@ -17813,7 +17813,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "831F928D7F101526",
-        "stop_name_tc": "博文街 (MK240)"
+        "stop_name_tc": "博文街, 奧運站 (MK240)"
     },
     {
         "route": "12",
@@ -17853,7 +17853,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "2D30B4FAF44D2398",
-        "stop_name_tc": "東京街西 (SS664)"
+        "stop_name_tc": "海達邨 (SS664)"
     },
     {
         "route": "12",
@@ -17893,7 +17893,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "1BD82E4312536F0C",
-        "stop_name_tc": "發祥街西 (SS289)"
+        "stop_name_tc": "發祥街西, 凱德苑 (SS289)"
     },
     {
         "route": "12",
@@ -18501,7 +18501,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "A72D15160CC3AF31",
-        "stop_name_tc": "亞皆老街中電 (KC377)"
+        "stop_name_tc": "中電鐘樓文化館 (KC377)"
     },
     {
         "route": "13",
@@ -18925,7 +18925,7 @@
         "service_type": "1",
         "seq": "24",
         "stop": "A7F679945ED1DB31",
-        "stop_name_tc": "雅麗居 (KC608)"
+        "stop_name_tc": "亞皆老街,雅麗居 (KC608)"
     },
     {
         "route": "13",
@@ -19101,7 +19101,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "A72D15160CC3AF31",
-        "stop_name_tc": "亞皆老街中電 (KC377)"
+        "stop_name_tc": "中電鐘樓文化館 (KC377)"
     },
     {
         "route": "13D",
@@ -19493,7 +19493,7 @@
         "service_type": "1",
         "seq": "23",
         "stop": "2F3C9727D9186DAB",
-        "stop_name_tc": "雅麗居 (KC609)"
+        "stop_name_tc": "亞皆老街,雅麗居 (KC609)"
     },
     {
         "route": "13D",
@@ -19741,7 +19741,7 @@
         "service_type": "2",
         "seq": "23",
         "stop": "2F3C9727D9186DAB",
-        "stop_name_tc": "雅麗居 (KC609)"
+        "stop_name_tc": "亞皆老街,雅麗居 (KC609)"
     },
     {
         "route": "13D",
@@ -24901,7 +24901,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "A72D15160CC3AF31",
-        "stop_name_tc": "亞皆老街中電 (KC377)"
+        "stop_name_tc": "中電鐘樓文化館 (KC377)"
     },
     {
         "route": "16",
@@ -25253,7 +25253,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "2F3C9727D9186DAB",
-        "stop_name_tc": "雅麗居 (KC609)"
+        "stop_name_tc": "亞皆老街,雅麗居 (KC609)"
     },
     {
         "route": "16",
@@ -25469,7 +25469,7 @@
         "service_type": "2",
         "seq": "18",
         "stop": "2F3C9727D9186DAB",
-        "stop_name_tc": "雅麗居 (KC609)"
+        "stop_name_tc": "亞皆老街,雅麗居 (KC609)"
     },
     {
         "route": "16",
@@ -25725,7 +25725,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "A72D15160CC3AF31",
-        "stop_name_tc": "亞皆老街中電 (KC377)"
+        "stop_name_tc": "中電鐘樓文化館 (KC377)"
     },
     {
         "route": "16P",
@@ -25933,7 +25933,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "2F3C9727D9186DAB",
-        "stop_name_tc": "雅麗居 (KC609)"
+        "stop_name_tc": "亞皆老街,雅麗居 (KC609)"
     },
     {
         "route": "16P",
@@ -26237,7 +26237,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "2F3C9727D9186DAB",
-        "stop_name_tc": "雅麗居 (KC609)"
+        "stop_name_tc": "亞皆老街,雅麗居 (KC609)"
     },
     {
         "route": "16X",
@@ -26629,7 +26629,7 @@
         "service_type": "1",
         "seq": "20",
         "stop": "28D4FD61902C9392",
-        "stop_name_tc": "嘉民樓 (KC518)"
+        "stop_name_tc": "愛民邨, 嘉民樓 (KC518)"
     },
     {
         "route": "17",
@@ -26757,7 +26757,7 @@
         "service_type": "2",
         "seq": "15",
         "stop": "28D4FD61902C9392",
-        "stop_name_tc": "嘉民樓 (KC518)"
+        "stop_name_tc": "愛民邨, 嘉民樓 (KC518)"
     },
     {
         "route": "17",
@@ -26869,7 +26869,7 @@
         "service_type": "3",
         "seq": "13",
         "stop": "28D4FD61902C9392",
-        "stop_name_tc": "嘉民樓 (KC518)"
+        "stop_name_tc": "愛民邨, 嘉民樓 (KC518)"
     },
     {
         "route": "17",
@@ -29965,7 +29965,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "28D4FD61902C9392",
-        "stop_name_tc": "嘉民樓 (KC518)"
+        "stop_name_tc": "愛民邨, 嘉民樓 (KC518)"
     },
     {
         "route": "17P",
@@ -30077,7 +30077,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "68A3AF80BADFDE9F",
-        "stop_name_tc": "亞皆老街中電 (KC376)"
+        "stop_name_tc": "中電鐘樓文化館 (KC376)"
     },
     {
         "route": "18",
@@ -31925,7 +31925,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "A8762A74241E8027",
-        "stop_name_tc": "麗閣邨 (SS680)"
+        "stop_name_tc": "麗閣邨,麗翠苑 (SS680)"
     },
     {
         "route": "2",
@@ -32357,7 +32357,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "D35570D44FA8773C",
-        "stop_name_tc": "民興樓 (SS567)"
+        "stop_name_tc": "大坑西邨,民興樓 (SS567)"
     },
     {
         "route": "203C",
@@ -32597,7 +32597,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "48AA5A2907C1833D",
-        "stop_name_tc": "亞皆老街中電 (KC378)"
+        "stop_name_tc": "中電鐘樓文化館 (KC378)"
     },
     {
         "route": "203E",
@@ -32853,7 +32853,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "2F3C9727D9186DAB",
-        "stop_name_tc": "雅麗居 (KC609)"
+        "stop_name_tc": "亞皆老街,雅麗居 (KC609)"
     },
     {
         "route": "203E",
@@ -34333,7 +34333,7 @@
         "service_type": "1",
         "seq": "23",
         "stop": "A72D15160CC3AF31",
-        "stop_name_tc": "亞皆老街中電 (KC377)"
+        "stop_name_tc": "中電鐘樓文化館 (KC377)"
     },
     {
         "route": "213D",
@@ -36725,7 +36725,7 @@
         "service_type": "1",
         "seq": "23",
         "stop": "2D30B4FAF44D2398",
-        "stop_name_tc": "東京街西 (SS664)"
+        "stop_name_tc": "海達邨 (SS664)"
     },
     {
         "route": "214P",
@@ -43037,7 +43037,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "A72D15160CC3AF31",
-        "stop_name_tc": "亞皆老街中電 (KC377)"
+        "stop_name_tc": "中電鐘樓文化館 (KC377)"
     },
     {
         "route": "24",
@@ -43301,7 +43301,7 @@
         "service_type": "2",
         "seq": "19",
         "stop": "A72D15160CC3AF31",
-        "stop_name_tc": "亞皆老街中電 (KC377)"
+        "stop_name_tc": "中電鐘樓文化館 (KC377)"
     },
     {
         "route": "24",
@@ -43621,7 +43621,7 @@
         "service_type": "3",
         "seq": "21",
         "stop": "A72D15160CC3AF31",
-        "stop_name_tc": "亞皆老街中電 (KC377)"
+        "stop_name_tc": "中電鐘樓文化館 (KC377)"
     },
     {
         "route": "24",
@@ -44221,7 +44221,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "ED244F7BBACAB14D",
-        "stop_name_tc": "中華電力 (KC335)"
+        "stop_name_tc": "萬基大廈 (KC335)"
     },
     {
         "route": "241X",
@@ -44533,7 +44533,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "68A3AF80BADFDE9F",
-        "stop_name_tc": "亞皆老街中電 (KC376)"
+        "stop_name_tc": "中電鐘樓文化館 (KC376)"
     },
     {
         "route": "241X",
@@ -66421,7 +66421,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "A72D15160CC3AF31",
-        "stop_name_tc": "亞皆老街中電 (KC377)"
+        "stop_name_tc": "中電鐘樓文化館 (KC377)"
     },
     {
         "route": "27",
@@ -69405,7 +69405,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "68A3AF80BADFDE9F",
-        "stop_name_tc": "亞皆老街中電 (KC376)"
+        "stop_name_tc": "中電鐘樓文化館 (KC376)"
     },
     {
         "route": "270S",
@@ -83341,7 +83341,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "2F3C9727D9186DAB",
-        "stop_name_tc": "雅麗居 (KC609)"
+        "stop_name_tc": "亞皆老街,雅麗居 (KC609)"
     },
     {
         "route": "27X",
@@ -94037,7 +94037,7 @@
         "service_type": "1",
         "seq": "4",
         "stop": "1BD82E4312536F0C",
-        "stop_name_tc": "發祥街西 (SS289)"
+        "stop_name_tc": "發祥街西, 凱德苑 (SS289)"
     },
     {
         "route": "296C",
@@ -94349,7 +94349,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "A7F679945ED1DB31",
-        "stop_name_tc": "雅麗居 (KC608)"
+        "stop_name_tc": "亞皆老街,雅麗居 (KC608)"
     },
     {
         "route": "296C",
@@ -94429,7 +94429,7 @@
         "service_type": "1",
         "seq": "23",
         "stop": "2D30B4FAF44D2398",
-        "stop_name_tc": "東京街西 (SS664)"
+        "stop_name_tc": "海達邨 (SS664)"
     },
     {
         "route": "296C",
@@ -96541,7 +96541,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "A72D15160CC3AF31",
-        "stop_name_tc": "亞皆老街中電 (KC377)"
+        "stop_name_tc": "中電鐘樓文化館 (KC377)"
     },
     {
         "route": "298X",
@@ -96821,7 +96821,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "A7F679945ED1DB31",
-        "stop_name_tc": "雅麗居 (KC608)"
+        "stop_name_tc": "亞皆老街,雅麗居 (KC608)"
     },
     {
         "route": "298X",
@@ -97805,7 +97805,7 @@
         "service_type": "1",
         "seq": "17",
         "stop": "A72D15160CC3AF31",
-        "stop_name_tc": "亞皆老街中電 (KC377)"
+        "stop_name_tc": "中電鐘樓文化館 (KC377)"
     },
     {
         "route": "2A",
@@ -98013,7 +98013,7 @@
         "service_type": "1",
         "seq": "12",
         "stop": "A7F679945ED1DB31",
-        "stop_name_tc": "雅麗居 (KC608)"
+        "stop_name_tc": "亞皆老街,雅麗居 (KC608)"
     },
     {
         "route": "2A",
@@ -98093,7 +98093,7 @@
         "service_type": "1",
         "seq": "22",
         "stop": "A8762A74241E8027",
-        "stop_name_tc": "麗閣邨 (SS680)"
+        "stop_name_tc": "麗閣邨,麗翠苑 (SS680)"
     },
     {
         "route": "2A",
@@ -104845,7 +104845,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "93CCED3B2F2BE08F",
-        "stop_name_tc": "蔬菜統營處 (SS314)"
+        "stop_name_tc": "蔬菜統營處, 麗翠苑 (SS314)"
     },
     {
         "route": "32",
@@ -115021,7 +115021,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "48AA5A2907C1833D",
-        "stop_name_tc": "亞皆老街中電 (KC378)"
+        "stop_name_tc": "中電鐘樓文化館 (KC378)"
     },
     {
         "route": "3C",
@@ -125517,7 +125517,7 @@
         "service_type": "1",
         "seq": "26",
         "stop": "68A3AF80BADFDE9F",
-        "stop_name_tc": "亞皆老街中電 (KC376)"
+        "stop_name_tc": "中電鐘樓文化館 (KC376)"
     },
     {
         "route": "45",
@@ -125757,7 +125757,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "ED244F7BBACAB14D",
-        "stop_name_tc": "中華電力 (KC335)"
+        "stop_name_tc": "萬基大廈 (KC335)"
     },
     {
         "route": "45",
@@ -166565,7 +166565,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "ED244F7BBACAB14D",
-        "stop_name_tc": "中華電力 (KC335)"
+        "stop_name_tc": "萬基大廈 (KC335)"
     },
     {
         "route": "7",
@@ -169893,7 +169893,7 @@
         "service_type": "1",
         "seq": "8",
         "stop": "68A3AF80BADFDE9F",
-        "stop_name_tc": "亞皆老街中電 (KC376)"
+        "stop_name_tc": "中電鐘樓文化館 (KC376)"
     },
     {
         "route": "72X",
@@ -206789,7 +206789,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "48AA5A2907C1833D",
-        "stop_name_tc": "亞皆老街中電 (KC378)"
+        "stop_name_tc": "中電鐘樓文化館 (KC378)"
     },
     {
         "route": "9",
@@ -207053,7 +207053,7 @@
         "service_type": "1",
         "seq": "14",
         "stop": "2F3C9727D9186DAB",
-        "stop_name_tc": "雅麗居 (KC609)"
+        "stop_name_tc": "亞皆老街,雅麗居 (KC609)"
     },
     {
         "route": "9",
@@ -208973,7 +208973,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "A8762A74241E8027",
-        "stop_name_tc": "麗閣邨 (SS680)"
+        "stop_name_tc": "麗閣邨,麗翠苑 (SS680)"
     },
     {
         "route": "905A",
@@ -209077,7 +209077,7 @@
         "service_type": "1",
         "seq": "6",
         "stop": "1BD82E4312536F0C",
-        "stop_name_tc": "發祥街西 (SS289)"
+        "stop_name_tc": "發祥街西, 凱德苑 (SS289)"
     },
     {
         "route": "905P",
@@ -210533,7 +210533,7 @@
         "service_type": "1",
         "seq": "29",
         "stop": "2D30B4FAF44D2398",
-        "stop_name_tc": "東京街西 (SS664)"
+        "stop_name_tc": "海達邨 (SS664)"
     },
     {
         "route": "914",
@@ -210557,7 +210557,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "1BD82E4312536F0C",
-        "stop_name_tc": "發祥街西 (SS289)"
+        "stop_name_tc": "發祥街西, 凱德苑 (SS289)"
     },
     {
         "route": "914",
@@ -210765,7 +210765,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "1BD82E4312536F0C",
-        "stop_name_tc": "發祥街西 (SS289)"
+        "stop_name_tc": "發祥街西, 凱德苑 (SS289)"
     },
     {
         "route": "914P",
@@ -210901,7 +210901,7 @@
         "service_type": "1",
         "seq": "2",
         "stop": "1BD82E4312536F0C",
-        "stop_name_tc": "發祥街西 (SS289)"
+        "stop_name_tc": "發祥街西, 凱德苑 (SS289)"
     },
     {
         "route": "914X",
@@ -213388,78 +213388,6 @@
         "bound": "I",
         "service_type": "1",
         "seq": "29",
-        "stop": "F4CE5E8FCC1B2F59",
-        "stop_name_tc": "西貢巴士總站 (SK902)"
-    },
-    {
-        "route": "92",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "1",
-        "stop": "10B8C166D8E60F65",
-        "stop_name_tc": "鑽石山站 荷里活廣場 (WT962)"
-    },
-    {
-        "route": "92",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "2",
-        "stop": "38021D9E2840F8CC",
-        "stop_name_tc": "牛池灣轉車站-牛池灣村 (WT215)"
-    },
-    {
-        "route": "92",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "3",
-        "stop": "4568080E28FB1E56",
-        "stop_name_tc": "打鼓嶺新村 (SK105)"
-    },
-    {
-        "route": "92",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "4",
-        "stop": "03134CEBBD692D21",
-        "stop_name_tc": "窩美 (SK141)"
-    },
-    {
-        "route": "92",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "5",
-        "stop": "A780214C3EB5640A",
-        "stop_name_tc": "蠔涌 (SK143)"
-    },
-    {
-        "route": "92",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "6",
-        "stop": "90AC6FE5BBD1428A",
-        "stop_name_tc": "白沙灣 (SK146)"
-    },
-    {
-        "route": "92",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "7",
-        "stop": "745DA7ECAF6C9247",
-        "stop_name_tc": "西貢大會堂 (SK152)"
-    },
-    {
-        "route": "92",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "8",
-        "stop": "23B5C67999C778E0",
-        "stop_name_tc": "西貢警署 (SK160)"
-    },
-    {
-        "route": "92",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "9",
         "stop": "F4CE5E8FCC1B2F59",
         "stop_name_tc": "西貢巴士總站 (SK902)"
     },
@@ -219565,7 +219493,7 @@
         "service_type": "1",
         "seq": "10",
         "stop": "A72D15160CC3AF31",
-        "stop_name_tc": "亞皆老街中電 (KC377)"
+        "stop_name_tc": "中電鐘樓文化館 (KC377)"
     },
     {
         "route": "95",
@@ -230477,7 +230405,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "A72D15160CC3AF31",
-        "stop_name_tc": "亞皆老街中電 (KC377)"
+        "stop_name_tc": "中電鐘樓文化館 (KC377)"
     },
     {
         "route": "98C",
@@ -230805,7 +230733,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "A7F679945ED1DB31",
-        "stop_name_tc": "雅麗居 (KC608)"
+        "stop_name_tc": "亞皆老街,雅麗居 (KC608)"
     },
     {
         "route": "98C",
@@ -232821,7 +232749,7 @@
         "service_type": "1",
         "seq": "13",
         "stop": "A72D15160CC3AF31",
-        "stop_name_tc": "亞皆老街中電 (KC377)"
+        "stop_name_tc": "中電鐘樓文化館 (KC377)"
     },
     {
         "route": "98S",
@@ -233061,7 +232989,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "A7F679945ED1DB31",
-        "stop_name_tc": "雅麗居 (KC608)"
+        "stop_name_tc": "亞皆老街,雅麗居 (KC608)"
     },
     {
         "route": "98S",
@@ -254853,7 +254781,7 @@
         "service_type": "1",
         "seq": "30",
         "stop": "2D30B4FAF44D2398",
-        "stop_name_tc": "東京街西 (SS664)"
+        "stop_name_tc": "海達邨 (SS664)"
     },
     {
         "route": "N118",
@@ -254885,7 +254813,7 @@
         "service_type": "1",
         "seq": "3",
         "stop": "A8762A74241E8027",
-        "stop_name_tc": "麗閣邨 (SS680)"
+        "stop_name_tc": "麗閣邨,麗翠苑 (SS680)"
     },
     {
         "route": "N118",
@@ -258165,7 +258093,7 @@
         "service_type": "1",
         "seq": "18",
         "stop": "A72D15160CC3AF31",
-        "stop_name_tc": "亞皆老街中電 (KC377)"
+        "stop_name_tc": "中電鐘樓文化館 (KC377)"
     },
     {
         "route": "N213",
@@ -258861,7 +258789,7 @@
         "service_type": "1",
         "seq": "21",
         "stop": "A72D15160CC3AF31",
-        "stop_name_tc": "亞皆老街中電 (KC377)"
+        "stop_name_tc": "中電鐘樓文化館 (KC377)"
     },
     {
         "route": "N216",
@@ -262605,7 +262533,7 @@
         "service_type": "1",
         "seq": "15",
         "stop": "68A3AF80BADFDE9F",
-        "stop_name_tc": "亞皆老街中電 (KC376)"
+        "stop_name_tc": "中電鐘樓文化館 (KC376)"
     },
     {
         "route": "N271",
@@ -263621,7 +263549,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "68A3AF80BADFDE9F",
-        "stop_name_tc": "亞皆老街中電 (KC376)"
+        "stop_name_tc": "中電鐘樓文化館 (KC376)"
     },
     {
         "route": "N281",
@@ -268076,6 +268004,286 @@
         "bound": "I",
         "service_type": "1",
         "seq": "28",
+        "stop": "41D1C16D44F410F1",
+        "stop_name_tc": "元朗（西）總站 (YL942)"
+    },
+    {
+        "route": "N368",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "1",
+        "stop": "28B264A688848238",
+        "stop_name_tc": "港澳碼頭 (CW110)"
+    },
+    {
+        "route": "N368",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "2",
+        "stop": "25D811895B82ABCA",
+        "stop_name_tc": "港澳碼頭 (CW111)"
+    },
+    {
+        "route": "N368",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "3",
+        "stop": "5FEC91F62EE33DA1",
+        "stop_name_tc": "永和街 (CW141)"
+    },
+    {
+        "route": "N368",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "4",
+        "stop": "4328371AE3AD16B9",
+        "stop_name_tc": "恒生銀行總行 (CW143)"
+    },
+    {
+        "route": "N368",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "5",
+        "stop": "46CB01C7F12428A3",
+        "stop_name_tc": "德忌利士街 (CW144)"
+    },
+    {
+        "route": "N368",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "6",
+        "stop": "D5FEF340EE98A7E8",
+        "stop_name_tc": "皇后像廣場 (CW145)"
+    },
+    {
+        "route": "N368",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "7",
+        "stop": "3FCC00D1D01ACD28",
+        "stop_name_tc": "金鐘站 (CW166)"
+    },
+    {
+        "route": "N368",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "8",
+        "stop": "AD1B202B678A3B56",
+        "stop_name_tc": "軍器廠街 (WC210)"
+    },
+    {
+        "route": "N368",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "9",
+        "stop": "C88DEC0AF0D1102B",
+        "stop_name_tc": "菲林明道 (WC213)"
+    },
+    {
+        "route": "N368",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "10",
+        "stop": "4C333C4D4E80902B",
+        "stop_name_tc": "史釗域道 (WC217)"
+    },
+    {
+        "route": "N368",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "11",
+        "stop": "F1A22B170518051B",
+        "stop_name_tc": "灣仔消防局 (WC220)"
+    },
+    {
+        "route": "N368",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "12",
+        "stop": "3DB9E473F29FCDEE",
+        "stop_name_tc": "百德新街 (WC231)"
+    },
+    {
+        "route": "N368",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "13",
+        "stop": "17B98BD1165A7B92",
+        "stop_name_tc": "維多利亞公園 (ED310)"
+    },
+    {
+        "route": "N368",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "14",
+        "stop": "42E86F97FAC8F719",
+        "stop_name_tc": "興發街 (ED320)"
+    },
+    {
+        "route": "N368",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "15",
+        "stop": "F948129B464BB963",
+        "stop_name_tc": "景隆街 (WC712)"
+    },
+    {
+        "route": "N368",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "16",
+        "stop": "79AFB35F9DBD485A",
+        "stop_name_tc": "紅隧轉車站 (HH600)"
+    },
+    {
+        "route": "N368",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "17",
+        "stop": "893BBB901005C3E6",
+        "stop_name_tc": "拔萃女書院 (YT665)"
+    },
+    {
+        "route": "N368",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "18",
+        "stop": "B046BFB6CCD3E7CE",
+        "stop_name_tc": "九龍中央郵政局 (YT133)"
+    },
+    {
+        "route": "N368",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "19",
+        "stop": "FC46B100B69573B7",
+        "stop_name_tc": "油麻地碧街 (YT145)"
+    },
+    {
+        "route": "N368",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "20",
+        "stop": "4A1CFF0BEA83DE78",
+        "stop_name_tc": "旺角豉油街 (MK163)"
+    },
+    {
+        "route": "N368",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "21",
+        "stop": "221A18C37331E6FD",
+        "stop_name_tc": "旺角奶路臣街 (MK174)"
+    },
+    {
+        "route": "N368",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "22",
+        "stop": "7ADC6D521E6BECE6",
+        "stop_name_tc": "旺角街市, 地區康健中心 (MK626)"
+    },
+    {
+        "route": "N368",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "23",
+        "stop": "6E764374E3F36BBB",
+        "stop_name_tc": "銘基書院 (MK630)"
+    },
+    {
+        "route": "N368",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "24",
+        "stop": "0CC9C5E5DBB3FF89",
+        "stop_name_tc": "美孚轉車站 (SS322)"
+    },
+    {
+        "route": "N368",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "25",
+        "stop": "643D73028E9E8490",
+        "stop_name_tc": "大欖隧道轉車站 (YL232)"
+    },
+    {
+        "route": "N368",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "26",
+        "stop": "52241C2AEB38627B",
+        "stop_name_tc": "大欖隧道轉車站 (YL235)"
+    },
+    {
+        "route": "N368",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "27",
+        "stop": "BFCFEBF6F5C35402",
+        "stop_name_tc": "高埔村 (YL734)"
+    },
+    {
+        "route": "N368",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "28",
+        "stop": "F8B3A5C8D0D3CED7",
+        "stop_name_tc": "下高埔村 (YL736)"
+    },
+    {
+        "route": "N368",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "29",
+        "stop": "3D5F826FD00C0529",
+        "stop_name_tc": "凹頭 (YL738)"
+    },
+    {
+        "route": "N368",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "30",
+        "stop": "876CF2E8C375F78B",
+        "stop_name_tc": "東成里 (YL566)"
+    },
+    {
+        "route": "N368",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "31",
+        "stop": "6386333EDAC64C96",
+        "stop_name_tc": "楊屋村 (YL568)"
+    },
+    {
+        "route": "N368",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "32",
+        "stop": "6A4B371546D489BF",
+        "stop_name_tc": "形點 I (YL242)"
+    },
+    {
+        "route": "N368",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "33",
+        "stop": "AC935792C88AF135",
+        "stop_name_tc": "元朗又新街 (YL249)"
+    },
+    {
+        "route": "N368",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "34",
+        "stop": "43E5D3A445382F82",
+        "stop_name_tc": "元朗大棠路 (YL252)"
+    },
+    {
+        "route": "N368",
+        "bound": "I",
+        "service_type": "2",
+        "seq": "35",
         "stop": "41D1C16D44F410F1",
         "stop_name_tc": "元朗（西）總站 (YL942)"
     },
