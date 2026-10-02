@@ -803,6 +803,17 @@
         "dest_sc": "旺角"
     },
     {
+        "route": "11A",
+        "bound": "O",
+        "service_type": "1",
+        "orig_en": "CHUK YUEN ESTATE",
+        "orig_tc": "竹園邨",
+        "orig_sc": "竹园邨",
+        "dest_en": "KAI TAK HOSPITAL",
+        "dest_tc": "啟德醫院",
+        "dest_sc": "启德医院"
+    },
+    {
         "route": "11B",
         "bound": "I",
         "service_type": "1",
@@ -1560,6 +1571,17 @@
         "dest_en": "LAI CHI KOK",
         "dest_tc": "荔枝角",
         "dest_sc": "荔枝角"
+    },
+    {
+        "route": "17A",
+        "bound": "O",
+        "service_type": "1",
+        "orig_en": "HO MAN TIN (OI MAN ESTATE)",
+        "orig_tc": "何文田(愛民邨)",
+        "orig_sc": "何文田(爱民邨)",
+        "dest_en": "KAI TAK HOSPITAL",
+        "dest_tc": "啟德醫院",
+        "dest_sc": "启德医院"
     },
     {
         "route": "17P",
@@ -11031,6 +11053,17 @@
         "dest_en": "SHEUNG SHUI STATION (CHOI YUEN ROAD) (CIRCULAR)",
         "dest_tc": "上水站 (彩園路) (循環線)",
         "dest_sc": "上水站 (彩园路) (循环线)"
+    },
+    {
+        "route": "76A",
+        "bound": "O",
+        "service_type": "1",
+        "orig_en": "Sheung Shui Station",
+        "orig_tc": "上水站",
+        "orig_sc": "上水站",
+        "dest_en": "Sheung Shui Station",
+        "dest_tc": "上水站",
+        "dest_sc": "上水站"
     },
     {
         "route": "76K",

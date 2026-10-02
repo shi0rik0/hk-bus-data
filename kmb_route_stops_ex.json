@@ -15840,6 +15840,118 @@
         "stop_name_tc": "弼街,始創中心 (MK182)"
     },
     {
+        "route": "11A",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "1",
+        "stop": "272546A2E2F4FCEF",
+        "stop_name_tc": "竹園邨總站 (WT915)"
+    },
+    {
+        "route": "11A",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "2",
+        "stop": "2C1366DA10099003",
+        "stop_name_tc": "竹園南邨榮園樓 (WT419)"
+    },
+    {
+        "route": "11A",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "3",
+        "stop": "1F189CEB915C191D",
+        "stop_name_tc": "馬仔坑遊樂場 (WT425)"
+    },
+    {
+        "route": "11A",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "4",
+        "stop": "9FD865B00B2D54A1",
+        "stop_name_tc": "黃大仙轉車站-黃大仙廟 (WT204)"
+    },
+    {
+        "route": "11A",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "5",
+        "stop": "A15FFC3149FB92A0",
+        "stop_name_tc": "黃大仙轉車站-沙田坳道 (WT209)"
+    },
+    {
+        "route": "11A",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "6",
+        "stop": "A0FDF34B2D278750",
+        "stop_name_tc": "鳳德商場 (WT408)"
+    },
+    {
+        "route": "11A",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "7",
+        "stop": "951CE3B3EB98BA3A",
+        "stop_name_tc": "志蓮淨苑 (WT410)"
+    },
+    {
+        "route": "11A",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "8",
+        "stop": "3BB1407BA61E0A9B",
+        "stop_name_tc": "彩虹轉車站 - 金碧樓 (WT345)"
+    },
+    {
+        "route": "11A",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "9",
+        "stop": "75957EA713E84A37",
+        "stop_name_tc": "坪石邨 (WT306)"
+    },
+    {
+        "route": "11A",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "10",
+        "stop": "9A0959AB68FA5E1F",
+        "stop_name_tc": "九龍灣臨華街 (KT123)"
+    },
+    {
+        "route": "11A",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "11",
+        "stop": "94358F5481BAE505",
+        "stop_name_tc": "常悅道 企業廣場 (KT130)"
+    },
+    {
+        "route": "11A",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "12",
+        "stop": "07521BB848913F74",
+        "stop_name_tc": "九龍灣宏通街 (KT101)"
+    },
+    {
+        "route": "11A",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "13",
+        "stop": "36A5F6842C55126E",
+        "stop_name_tc": "香港兒童醫院 (KA530)"
+    },
+    {
+        "route": "11A",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "14",
+        "stop": "DBB2582C87F91983",
+        "stop_name_tc": "啟德醫院(落客站) (KA531)"
+    },
+    {
         "route": "11B",
         "bound": "I",
         "service_type": "1",
@@ -29814,6 +29926,174 @@
         "seq": "25",
         "stop": "636F6AAF3B891E82",
         "stop_name_tc": "荔枝角巴士總站 (SS980)"
+    },
+    {
+        "route": "17A",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "1",
+        "stop": "F78B61532972282D",
+        "stop_name_tc": "何文田(愛民邨)巴士總站 (KC902)"
+    },
+    {
+        "route": "17A",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "2",
+        "stop": "FACE6E102E2171B3",
+        "stop_name_tc": "聖三一堂中學 (KC513)"
+    },
+    {
+        "route": "17A",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "3",
+        "stop": "A0F2A2C5182526AA",
+        "stop_name_tc": "忠孝街 (KC514)"
+    },
+    {
+        "route": "17A",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "4",
+        "stop": "75E163C6EB446CF2",
+        "stop_name_tc": "佛光街 (KC296)"
+    },
+    {
+        "route": "17A",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "5",
+        "stop": "32C7B8C7F75D2A47",
+        "stop_name_tc": "常樂街冠暉苑 (KC297)"
+    },
+    {
+        "route": "17A",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "6",
+        "stop": "7E4F1063E27B47E9",
+        "stop_name_tc": "何文田廣場 (KC320)"
+    },
+    {
+        "route": "17A",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "7",
+        "stop": "1924C09B20B8787A",
+        "stop_name_tc": "何文田巴士總站 (KC912)"
+    },
+    {
+        "route": "17A",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "8",
+        "stop": "2C1D3DD666AA001F",
+        "stop_name_tc": "常樂邨 (KC350)"
+    },
+    {
+        "route": "17A",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "9",
+        "stop": "72387FDE57DCCED4",
+        "stop_name_tc": "常康街 (KC351)"
+    },
+    {
+        "route": "17A",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "10",
+        "stop": "D28AA79AF38D1601",
+        "stop_name_tc": "農圃道 (KC188)"
+    },
+    {
+        "route": "17A",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "11",
+        "stop": "6F357BC5B6EF7647",
+        "stop_name_tc": "香港家庭計劃指導會 (KC199)"
+    },
+    {
+        "route": "17A",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "12",
+        "stop": "47B6BE5FC95C2042",
+        "stop_name_tc": "亞皆老街球場 (KC205)"
+    },
+    {
+        "route": "17A",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "13",
+        "stop": "EBE826ABDCE44F0C",
+        "stop_name_tc": "九龍城轉車站 (KC286)"
+    },
+    {
+        "route": "17A",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "14",
+        "stop": "7210357910C44570",
+        "stop_name_tc": "新蒲崗譽．港灣 (WT297)"
+    },
+    {
+        "route": "17A",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "15",
+        "stop": "A1C65E46464147A0",
+        "stop_name_tc": "采頤花園 (WT302)"
+    },
+    {
+        "route": "17A",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "16",
+        "stop": "100E6F60BAC1BDEB",
+        "stop_name_tc": "坪石邨 (WT307)"
+    },
+    {
+        "route": "17A",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "17",
+        "stop": "9A0959AB68FA5E1F",
+        "stop_name_tc": "九龍灣臨華街 (KT123)"
+    },
+    {
+        "route": "17A",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "18",
+        "stop": "94358F5481BAE505",
+        "stop_name_tc": "常悅道 企業廣場 (KT130)"
+    },
+    {
+        "route": "17A",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "19",
+        "stop": "07521BB848913F74",
+        "stop_name_tc": "九龍灣宏通街 (KT101)"
+    },
+    {
+        "route": "17A",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "20",
+        "stop": "36A5F6842C55126E",
+        "stop_name_tc": "香港兒童醫院 (KA530)"
+    },
+    {
+        "route": "17A",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "21",
+        "stop": "DBB2582C87F91983",
+        "stop_name_tc": "啟德醫院(落客站) (KA531)"
     },
     {
         "route": "17P",
@@ -181294,6 +181574,54 @@
         "seq": "15",
         "stop": "924FE4A6F2501116",
         "stop_name_tc": "攸壆路簡約公屋 (南) 總站"
+    },
+    {
+        "route": "76A",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "1",
+        "stop": "D876A83244ECB838",
+        "stop_name_tc": "上水轉車站 - 上水站 (ND479)"
+    },
+    {
+        "route": "76A",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "2",
+        "stop": "F19EA5A24A38C94C",
+        "stop_name_tc": "掃管埔村 (ND176)"
+    },
+    {
+        "route": "76A",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "3",
+        "stop": "82949C393C421088",
+        "stop_name_tc": "柏壽路(古洞北綜合大樓) (ND620)"
+    },
+    {
+        "route": "76A",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "4",
+        "stop": "55E8DA01E30C4C44",
+        "stop_name_tc": "鄉梓路 (ND630)"
+    },
+    {
+        "route": "76A",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "5",
+        "stop": "A5CCD492A487E458",
+        "stop_name_tc": "古洞北 (ND700)"
+    },
+    {
+        "route": "76A",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "6",
+        "stop": "D876A83244ECB838",
+        "stop_name_tc": "上水轉車站 - 上水站 (ND479)"
     },
     {
         "route": "76K",

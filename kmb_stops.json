@@ -18384,6 +18384,14 @@
         "long": "113.998677"
     },
     {
+        "stop": "55E8DA01E30C4C44",
+        "name_en": "HEUNG TSZ ROAD (ND630)",
+        "name_tc": "鄉梓路 (ND630)",
+        "name_sc": "乡梓路 (ND630)",
+        "lat": "22.505990",
+        "long": "114.095166"
+    },
+    {
         "stop": "55EE74AF2D1A7DAA",
         "name_en": "DIOCESAN BOYS' SCHOOL, PRINCE EDWARD ROAD WEST",
         "name_tc": "拔萃男書院,太子道西 (KC744)",
@@ -27608,6 +27616,14 @@
         "long": "114.161257"
     },
     {
+        "stop": "82949C393C421088",
+        "name_en": "PAK SAU ROAD (KWU TUNG NORTH COMPLEX) (ND620)",
+        "name_tc": "柏壽路(古洞北綜合大樓) (ND620)",
+        "name_sc": "柏寿路(古洞北综合大楼) (ND620)",
+        "lat": "22.504378",
+        "long": "114.096273"
+    },
+    {
         "stop": "829C1171F750F675",
         "name_en": "CARADO GARDEN (TA546)",
         "name_tc": "雲叠花園 (TA546)",
@@ -34806,6 +34822,14 @@
         "name_sc": "旺角站 (MK622)",
         "lat": "22.319436",
         "long": "114.170734"
+    },
+    {
+        "stop": "A5CCD492A487E458",
+        "name_en": "KWU TUNG NORTH (ND700)",
+        "name_tc": "古洞北 (ND700)",
+        "name_sc": "古洞北 (ND700)",
+        "lat": "22.505689",
+        "long": "114.098421"
     },
     {
         "stop": "A5DE9A3DBEC7127C",
