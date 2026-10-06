@@ -198660,8 +198660,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "4",
-        "stop": "7E2611CD03F9450A",
-        "stop_name_tc": "馬鞍山市中心 (MA307)"
+        "stop": "CA7CE166F4E6677F",
+        "stop_name_tc": "馬鞍山市中心 (MA308)"
     },
     {
         "route": "86S",
@@ -198748,8 +198748,8 @@
         "bound": "O",
         "service_type": "2",
         "seq": "1",
-        "stop": "7E2611CD03F9450A",
-        "stop_name_tc": "馬鞍山市中心 (MA307)"
+        "stop": "CA7CE166F4E6677F",
+        "stop_name_tc": "馬鞍山市中心 (MA308)"
     },
     {
         "route": "86S",
