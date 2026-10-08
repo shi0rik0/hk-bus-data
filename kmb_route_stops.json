@@ -55717,7 +55717,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "1",
-        "stop": "D834EE67780F47CD"
+        "stop": "430C6E88A93B42DE"
     },
     {
         "route": "269D",
@@ -56165,7 +56165,7 @@
         "bound": "O",
         "service_type": "4",
         "seq": "1",
-        "stop": "D834EE67780F47CD"
+        "stop": "430C6E88A93B42DE"
     },
     {
         "route": "269D",
@@ -68443,14 +68443,14 @@
         "bound": "I",
         "service_type": "1",
         "seq": "14",
-        "stop": "430C6E88A93B42DE"
+        "stop": "744409C92DEBB74D"
     },
     {
         "route": "276B",
         "bound": "O",
         "service_type": "1",
         "seq": "1",
-        "stop": "430C6E88A93B42DE"
+        "stop": "744409C92DEBB74D"
     },
     {
         "route": "276B",

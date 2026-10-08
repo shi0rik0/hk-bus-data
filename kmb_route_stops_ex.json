@@ -63676,8 +63676,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "1",
-        "stop": "D834EE67780F47CD",
-        "stop_name_tc": "天富總站 (TN960)"
+        "stop": "430C6E88A93B42DE",
+        "stop_name_tc": "天富總站 (TN961)"
     },
     {
         "route": "269D",
@@ -64188,8 +64188,8 @@
         "bound": "O",
         "service_type": "4",
         "seq": "1",
-        "stop": "D834EE67780F47CD",
-        "stop_name_tc": "天富總站 (TN960)"
+        "stop": "430C6E88A93B42DE",
+        "stop_name_tc": "天富總站 (TN961)"
     },
     {
         "route": "269D",
@@ -78220,16 +78220,16 @@
         "bound": "I",
         "service_type": "1",
         "seq": "14",
-        "stop": "430C6E88A93B42DE",
-        "stop_name_tc": "天富總站 (TN961)"
+        "stop": "744409C92DEBB74D",
+        "stop_name_tc": null
     },
     {
         "route": "276B",
         "bound": "O",
         "service_type": "1",
         "seq": "1",
-        "stop": "430C6E88A93B42DE",
-        "stop_name_tc": "天富總站 (TN961)"
+        "stop": "744409C92DEBB74D",
+        "stop_name_tc": null
     },
     {
         "route": "276B",
