@@ -17024,14 +17024,6 @@
         "long": "114.296965"
     },
     {
-        "stop": "500EB63FD4A41F66",
-        "name_en": "KA WING STREET (LT392)",
-        "name_tc": "嘉榮街 (LT392)",
-        "name_sc": "嘉荣街 (LT392)",
-        "lat": "22.293859",
-        "long": "114.238561"
-    },
-    {
         "stop": "5016E25156D72ADA",
         "name_en": "MING TAK ESTATE (TK426)",
         "name_tc": "明德邨 (TK426)",
@@ -47937,7 +47929,7 @@
     },
     {
         "stop": "E45E7DB1786B6324",
-        "name_en": "TSING YI STATION(Alighting) (TY921)",
+        "name_en": "TSING YI STATION (TY921)",
         "name_tc": "青衣站 (TY921)",
         "name_sc": "青衣站 (TY921)",
         "lat": "22.359924",
