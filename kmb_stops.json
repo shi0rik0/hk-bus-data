@@ -1560,6 +1560,14 @@
         "long": "114.160717"
     },
     {
+        "stop": "08594543968C22E3",
+        "name_en": "YUEN LONG STATION BUS TERMINUS (YL962)",
+        "name_tc": "元朗站總站 (YL962)",
+        "name_sc": "元朗站总站 (YL962)",
+        "lat": "22.446096",
+        "long": "114.034273"
+    },
+    {
         "stop": "085E45F8000A7EFE",
         "name_en": "YIM TSO HA (ND535)",
         "name_tc": "鹽灶下 (ND535)",
@@ -2718,6 +2726,14 @@
         "name_sc": "元朗警署 (YL256)",
         "lat": "22.444429",
         "long": "114.023959"
+    },
+    {
+        "stop": "0E38C53383FCAC6C",
+        "name_en": "HUANGGANG PORT (HU904)",
+        "name_tc": "皇崗口岸 (HU904)",
+        "name_sc": "皇岗口岸 (HU904)",
+        "lat": "22.523177",
+        "long": "114.067432"
     },
     {
         "stop": "0E39F8C81264C50C",
@@ -4840,6 +4856,14 @@
         "long": "113.975636"
     },
     {
+        "stop": "176E8545D9036753",
+        "name_en": "YOHO MALL I (YL401a)",
+        "name_tc": "形點 I (YL401a)",
+        "name_sc": "形点 I (YL401a)",
+        "lat": "22.445065",
+        "long": "114.036445"
+    },
+    {
         "stop": "1772336D72B10178",
         "name_en": "FO TAN CHUN YEUNG ESTATE (FT931)",
         "name_tc": "火炭駿洋邨 (FT931)",
@@ -5326,6 +5350,14 @@
         "name_sc": "君汇港 (MK657)",
         "lat": "22.322229",
         "long": "114.159642"
+    },
+    {
+        "stop": "195C77D59929A348",
+        "name_en": "MAYWOOD COURT (TN534a)",
+        "name_tc": "美湖居 (TN534a)",
+        "name_sc": "美湖居 (TN534a)",
+        "lat": "22.461038",
+        "long": "114.004351"
     },
     {
         "stop": "196A1E44C305C174",
@@ -11856,6 +11888,14 @@
         "long": "114.136715"
     },
     {
+        "stop": "376B94FDBA371A25",
+        "name_en": "KWAI FONG (KWAI TSUI ESTATE) BUS TERMINUS (KW914)",
+        "name_tc": "葵芳(葵翠邨)總站 (KW914)",
+        "name_sc": "葵芳(葵翠邨)总站 (KW914)",
+        "lat": "22.356476",
+        "long": "114.128697"
+    },
+    {
         "stop": "376C02CE16F597C9",
         "name_en": "SEYMOUR ROAD",
         "name_tc": "西摩道",
@@ -12638,6 +12678,14 @@
         "name_sc": "秀茂坪邨秀程楼 (KT298)",
         "lat": "22.320010",
         "long": "114.233479"
+    },
+    {
+        "stop": "3BA8C0F8CA5D4DB0",
+        "name_en": "FUNG CHI TSUEN LONG PING ROAD (YL274)",
+        "name_tc": "朗屏路鳳池村 (YL274)",
+        "name_sc": "朗屏路凤池村 (YL274)",
+        "lat": "22.448379",
+        "long": "114.018552"
     },
     {
         "stop": "3BA9C90738A8600D",
@@ -17734,6 +17782,14 @@
         "name_sc": "耀兴楼",
         "lat": "22.276444",
         "long": "114.224227"
+    },
+    {
+        "stop": "53009E652261F274",
+        "name_en": "VIANNI COVE (TN529)",
+        "name_tc": "慧景軒 (TN529)",
+        "name_sc": "慧景轩 (TN529)",
+        "lat": "22.465728",
+        "long": "114.005017"
     },
     {
         "stop": "5309D748976029CB",
@@ -24776,6 +24832,14 @@
         "long": "114.160603"
     },
     {
+        "stop": "744409C92DEBB74D",
+        "name_en": "TIN FU BUS TERMINUS (TN959)",
+        "name_tc": "天富總站 (TN959)",
+        "name_sc": "天富总站 (TN959)",
+        "lat": "22.462304",
+        "long": "113.998496"
+    },
+    {
         "stop": "74492CF16A8578B1",
         "name_en": "TAI PO ROAD LOOKOUT (TA738)",
         "name_tc": "大埔道眺望處 (TA738)",
@@ -28424,6 +28488,14 @@
         "long": "114.180678"
     },
     {
+        "stop": "86994D888EA44362",
+        "name_en": "HONG KONG WETLAND PARK (TN301a)",
+        "name_tc": "香港濕地公園 (TN301a)",
+        "name_sc": "香港湿地公园 (TN301a)",
+        "lat": "22.469846",
+        "long": "114.002807"
+    },
+    {
         "stop": "86A5437DDF01EDE1",
         "name_en": "ABERDEEN PROMENADE",
         "name_tc": "香港仔海濱公園",
@@ -29318,6 +29390,14 @@
         "name_sc": "马湾码头 (TW339)",
         "lat": "22.365504",
         "long": "114.056578"
+    },
+    {
+        "stop": "8B1F380BC39C296A",
+        "name_en": "TIN CHAK ESTATE (TN227a)",
+        "name_tc": "天澤邨 (TN227a)",
+        "name_sc": "天泽邨 (TN227a)",
+        "lat": "22.468122",
+        "long": "113.999172"
     },
     {
         "stop": "8B2FD4BDD627C211",
@@ -30350,6 +30430,14 @@
         "name_sc": "义德道 (KC118)",
         "lat": "22.340149",
         "long": "114.178327"
+    },
+    {
+        "stop": "90EB316DB1182D86",
+        "name_en": "SAN TIN PUBLIC TRANSPORT INTERCHANGE (YL993)",
+        "name_tc": "新田運輸交匯處 (YL993)",
+        "name_sc": "新田运输交汇处 (YL993)",
+        "lat": "22.503140",
+        "long": "114.082376"
     },
     {
         "stop": "90ED381AD3BAE4F9",
@@ -31414,6 +31502,14 @@
         "name_sc": "红磡(红鸾道) 嘉里酒店 (HH909)",
         "lat": "22.301743",
         "long": "114.188848"
+    },
+    {
+        "stop": "95BF1D17F9384903",
+        "name_en": "TIN YAN ESTATE (TN225a)",
+        "name_tc": "天恩邨 (TN225a)",
+        "name_sc": "天恩邨 (TN225a)",
+        "lat": "22.464231",
+        "long": "113.997238"
     },
     {
         "stop": "95C43FF4684FCADA",
@@ -33208,6 +33304,14 @@
         "long": "114.193290"
     },
     {
+        "stop": "9E42D981C59B5762",
+        "name_en": "TSING YI STATION (TY930)",
+        "name_tc": "青衣站 (TY930)",
+        "name_sc": "青衣站 (TY930)",
+        "lat": "22.360348",
+        "long": "114.107636"
+    },
+    {
         "stop": "9E4653BA0F25F731",
         "name_en": "SEA CREST VILLA PHASE 4 (TW196)",
         "name_tc": "浪翠園第四期 (TW196)",
@@ -33878,6 +33982,14 @@
         "name_sc": "葵盛邨六座 (KW375)",
         "lat": "22.361881",
         "long": "114.121471"
+    },
+    {
+        "stop": "A17734ECA4DFAC93",
+        "name_en": "KENSWOOD COURT (TN602a)",
+        "name_tc": "景湖居 (TN602a)",
+        "name_sc": "景湖居 (TN602a)",
+        "lat": "22.457409",
+        "long": "114.005641"
     },
     {
         "stop": "A19AA44836C6FA32",
@@ -39528,6 +39640,14 @@
         "long": "114.315891"
     },
     {
+        "stop": "BBDE4A93A0A5D7D3",
+        "name_en": "SAN TIN PUBLIC TRANSPORT INTERCHANGE (YL994)",
+        "name_tc": "新田運輸交匯處 (YL994)",
+        "name_sc": "新田运输交汇处 (YL994)",
+        "lat": "22.503140",
+        "long": "114.082376"
+    },
+    {
         "stop": "BBDFF2D05E37EE61",
         "name_en": "TING FU STREET, KWUN TONG (KT652)",
         "name_tc": "觀塘定富街 (KT652)",
@@ -41576,6 +41696,14 @@
         "long": "114.188214"
     },
     {
+        "stop": "C5C4CC54C2C0A086",
+        "name_en": "HKFYG LEE SHAU KEE COLLEGE (TN533a)",
+        "name_tc": "香港青年協會李兆基書院 (TN533a",
+        "name_sc": "香港青年协会李兆基书院 (TN533a",
+        "lat": "22.463244",
+        "long": "114.004080"
+    },
+    {
         "stop": "C5C940CF1281B923",
         "name_en": "MEI WAN STREET (TW449)",
         "name_tc": "美環街 (TW449)",
@@ -42358,6 +42486,14 @@
         "name_sc": "观塘转车站 - 创纪之城 (KT643)",
         "lat": "22.314351",
         "long": "114.220671"
+    },
+    {
+        "stop": "C9A6689E84F83D1A",
+        "name_en": "HUANGGANG PORT (HU900)",
+        "name_tc": "皇崗口岸 (HU900)",
+        "name_sc": "皇岗口岸 (HU900)",
+        "lat": "22.523177",
+        "long": "114.068333"
     },
     {
         "stop": "C9B1C3B9D0BA0D14",
@@ -45360,6 +45496,14 @@
         "long": "114.168797"
     },
     {
+        "stop": "D7E9208A2B3A457A",
+        "name_en": "HUANGGANG PORT (HU905)",
+        "name_tc": "皇崗口岸 (HU905)",
+        "name_sc": "皇岗口岸 (HU905)",
+        "lat": "22.523177",
+        "long": "114.067432"
+    },
+    {
         "stop": "D7EDDEA5A942843B",
         "name_en": "KOWLOON CITY POLICE STATION (KC607)",
         "name_tc": "九龍城警署 (KC607)",
@@ -47008,6 +47152,14 @@
         "long": "114.192239"
     },
     {
+        "stop": "E01BA1321937DA5A",
+        "name_en": "TIN TSZ ESTATE (TN604a)",
+        "name_tc": "天慈邨 (TN604a)",
+        "name_sc": "天慈邨 (TN604a)",
+        "lat": "22.453091",
+        "long": "114.006201"
+    },
+    {
         "stop": "E01BD8E1BEC29EA6",
         "name_en": "NG LAU ROAD (TM526)",
         "name_tc": "五柳路 (TM526)",
@@ -47230,6 +47382,14 @@
         "name_sc": "翠林总站 (TK910)",
         "lat": "22.322908",
         "long": "114.249183"
+    },
+    {
+        "stop": "E16B85415973C1A2",
+        "name_en": "TAI LAM TUNNEL BBI (YL230)",
+        "name_tc": "大欖隧道轉車站 (YL230)",
+        "name_sc": "大榄隧道转车站 (YL230)",
+        "lat": "22.420344",
+        "long": "114.063524"
     },
     {
         "stop": "E16D49ECA536ECC6",

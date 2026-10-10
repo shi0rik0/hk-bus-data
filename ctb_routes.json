@@ -2779,26 +2779,6 @@
     },
     {
         "co": "CTB",
-        "route": "976",
-        "orig_tc": "落馬洲 (新田)",
-        "orig_en": "Lok Ma Chau (San Tin)",
-        "dest_tc": "西灣河",
-        "dest_en": "Sai Wan Ho",
-        "orig_sc": "落马洲 (新田)",
-        "dest_sc": "西湾河"
-    },
-    {
-        "co": "CTB",
-        "route": "976A",
-        "orig_tc": "落馬洲 (新田)",
-        "orig_en": "Lok Ma Chau (San Tin)",
-        "dest_tc": "小西灣 (藍灣半島)",
-        "dest_en": "Siu Sai Wan (Island Resort)",
-        "orig_sc": "落马洲 (新田)",
-        "dest_sc": "小西湾 (蓝湾半岛)"
-    },
-    {
-        "co": "CTB",
         "route": "976S",
         "orig_tc": "銅鑼灣 (摩頓台)",
         "orig_en": "Causeway Bay (Moreton Terrace)",
@@ -3106,6 +3086,36 @@
         "dest_en": "Airport (via HZMB Hong Kong Port)",
         "orig_sc": "将军澳 (宝琳)",
         "dest_sc": "机场 (经港珠澳大桥香港口岸)"
+    },
+    {
+        "co": "CTB",
+        "route": "B13",
+        "orig_tc": "皇崗口岸",
+        "orig_en": "Huanggang Port",
+        "dest_tc": "小西灣 (藍灣半島)",
+        "dest_en": "Siu Sai Wan (Island Resort)",
+        "orig_sc": "皇岗口岸",
+        "dest_sc": "小西湾 (蓝湾半岛)"
+    },
+    {
+        "co": "CTB",
+        "route": "B14",
+        "orig_tc": "皇崗口岸",
+        "orig_en": "Huanggang Port",
+        "dest_tc": "啟德世運道 (經 宋皇臺站)",
+        "dest_en": "Kai Tak Olympic Avenue (via Sung Wong Toi Station)",
+        "orig_sc": "皇岗口岸",
+        "dest_sc": "启德世运道 (经 宋皇台站)"
+    },
+    {
+        "co": "CTB",
+        "route": "B15",
+        "orig_tc": "皇崗口岸",
+        "orig_en": "Huanggang Port",
+        "dest_tc": "屯門青山灣 (經洪水橋)",
+        "dest_en": "Tuen Mun Castle Peak Bay (via Hung Shui Kiu)",
+        "orig_sc": "皇岗口岸",
+        "dest_sc": "屯门青山湾 (经洪水桥)"
     },
     {
         "co": "CTB",
