@@ -27376,6 +27376,14 @@
         "long": "114.194335"
     },
     {
+        "stop": "81546F0FC36C9A02",
+        "name_en": "HUANGGANG PORT (HU903)",
+        "name_tc": "皇崗口岸 (HU903)",
+        "name_sc": "皇岗口岸 (HU903)",
+        "lat": "114.067432",
+        "long": "114.067432"
+    },
+    {
         "stop": "81567ACCCF40DD4B",
         "name_en": "LOK MA CHAU STATION ‧ FUTIAN PORT (YL991)",
         "name_tc": "落馬洲站 ‧ 福田口岸 (YL991)",
@@ -30436,8 +30444,8 @@
         "name_en": "SAN TIN PUBLIC TRANSPORT INTERCHANGE (YL993)",
         "name_tc": "新田運輸交匯處 (YL993)",
         "name_sc": "新田运输交汇处 (YL993)",
-        "lat": "22.503140",
-        "long": "114.082376"
+        "lat": "22.502927",
+        "long": "114.081800"
     },
     {
         "stop": "90ED381AD3BAE4F9",
@@ -39644,8 +39652,8 @@
         "name_en": "SAN TIN PUBLIC TRANSPORT INTERCHANGE (YL994)",
         "name_tc": "新田運輸交匯處 (YL994)",
         "name_sc": "新田运输交汇处 (YL994)",
-        "lat": "22.503140",
-        "long": "114.082376"
+        "lat": "22.503082",
+        "long": "114.082108"
     },
     {
         "stop": "BBDFF2D05E37EE61",
