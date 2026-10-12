@@ -54933,7 +54933,7 @@
         "service_type": "1",
         "seq": "1",
         "stop": "E7DB3542B4676A88",
-        "stop_name_tc": null
+        "stop_name_tc": "業旺邨 (TM692)"
     },
     {
         "route": "261S",
@@ -172640,6 +172640,94 @@
         "stop_name_tc": "上水轉車站 - 上水站 (ND479)"
     },
     {
+        "route": "73B",
+        "bound": "O",
+        "service_type": "4",
+        "seq": "1",
+        "stop": "A1A1CE1BACE1973D",
+        "stop_name_tc": "香港教育大學 (TP891)"
+    },
+    {
+        "route": "73B",
+        "bound": "O",
+        "service_type": "4",
+        "seq": "2",
+        "stop": "43531EDD45A4B0C1",
+        "stop_name_tc": "大埔中心總站 (TP913)"
+    },
+    {
+        "route": "73B",
+        "bound": "O",
+        "service_type": "4",
+        "seq": "3",
+        "stop": "1A0BF02F827F6A20",
+        "stop_name_tc": "大埔安慈路 (TP742)"
+    },
+    {
+        "route": "73B",
+        "bound": "O",
+        "service_type": "4",
+        "seq": "4",
+        "stop": "9FDEEC09AD1B601B",
+        "stop_name_tc": "太和廣場 (TP335)"
+    },
+    {
+        "route": "73B",
+        "bound": "O",
+        "service_type": "4",
+        "seq": "5",
+        "stop": "0F3FA9B7D07A91F3",
+        "stop_name_tc": "塘坑 (ND450)"
+    },
+    {
+        "route": "73B",
+        "bound": "O",
+        "service_type": "4",
+        "seq": "6",
+        "stop": "C837C3C549793472",
+        "stop_name_tc": "粉嶺中心 (ND470)"
+    },
+    {
+        "route": "73B",
+        "bound": "O",
+        "service_type": "4",
+        "seq": "7",
+        "stop": "9BE3D659E4C144D2",
+        "stop_name_tc": "粉嶺站轉車站-粉嶺名都 (ND472)"
+    },
+    {
+        "route": "73B",
+        "bound": "O",
+        "service_type": "4",
+        "seq": "8",
+        "stop": "650809D260BC7C6E",
+        "stop_name_tc": "北區公園北門 (ND453)"
+    },
+    {
+        "route": "73B",
+        "bound": "O",
+        "service_type": "4",
+        "seq": "9",
+        "stop": "F81DACC5F39E6D53",
+        "stop_name_tc": "順欣花園 (ND454)"
+    },
+    {
+        "route": "73B",
+        "bound": "O",
+        "service_type": "4",
+        "seq": "10",
+        "stop": "D417A444017171C6",
+        "stop_name_tc": "龍豐花園 (ND336)"
+    },
+    {
+        "route": "73B",
+        "bound": "O",
+        "service_type": "4",
+        "seq": "11",
+        "stop": "D876A83244ECB838",
+        "stop_name_tc": "上水轉車站 - 上水站 (ND479)"
+    },
+    {
         "route": "73D",
         "bound": "I",
         "service_type": "1",
@@ -200894,6 +200982,46 @@
         "seq": "16",
         "stop": "14F176D358D65A8B",
         "stop_name_tc": "旺角奶路臣街 (MK514)"
+    },
+    {
+        "route": "87E",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "17",
+        "stop": "8E3A5C15E42020BB",
+        "stop_name_tc": "旺角豉油街 (MK522)"
+    },
+    {
+        "route": "87E",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "18",
+        "stop": "96442B84082D4DF5",
+        "stop_name_tc": "油麻地永星里 (YT544)"
+    },
+    {
+        "route": "87E",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "19",
+        "stop": "508D99EBC9AB3A9B",
+        "stop_name_tc": "油麻地長樂街 (YT551)"
+    },
+    {
+        "route": "87E",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "20",
+        "stop": "FE56DD70DEDE0395",
+        "stop_name_tc": "聖安德烈堂 (YT557)"
+    },
+    {
+        "route": "87E",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "21",
+        "stop": "D2217D7746597D10",
+        "stop_name_tc": "尖沙咀轉車站 - 中間道 (YT563)"
     },
     {
         "route": "87K",

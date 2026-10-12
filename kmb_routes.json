@@ -3149,9 +3149,9 @@
         "route": "261S",
         "bound": "O",
         "service_type": "1",
-        "orig_en": "TUEN MUN (PO TIN ESTATE)",
-        "orig_tc": "屯門(寶田邨)",
-        "orig_sc": "屯门(宝田邨)",
+        "orig_en": "YIP WONG ESTATE",
+        "orig_tc": "業旺邨",
+        "orig_sc": "业旺邨",
         "dest_en": "SHEUNG SHUI (TIN PING)",
         "dest_tc": "上水(天平)",
         "dest_sc": "上水(天平)"
@@ -10467,6 +10467,17 @@
         "orig_en": "CHUEN ON ROAD (NETHERSOLE HOSPITAL)",
         "orig_tc": "全安路(那打素醫院)",
         "orig_sc": "全安路(那打素医院)",
+        "dest_en": "SHEUNG SHUI STATION",
+        "dest_tc": "上水站",
+        "dest_sc": "上水站"
+    },
+    {
+        "route": "73B",
+        "bound": "O",
+        "service_type": "4",
+        "orig_en": "EDUCATION UNIVERSITY OF HONG KONG",
+        "orig_tc": "香港教育大學",
+        "orig_sc": "香港教育大学",
         "dest_en": "SHEUNG SHUI STATION",
         "dest_tc": "上水站",
         "dest_sc": "上水站"

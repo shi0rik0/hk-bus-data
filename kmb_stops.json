@@ -4720,14 +4720,6 @@
         "long": "114.153154"
     },
     {
-        "stop": "16F5EB4168069F73",
-        "name_en": "LEUNG KING ESTATE BUS TERMINUS (TM539)",
-        "name_tc": "良景邨總站 (TM539)",
-        "name_sc": "良景邨总站 (TM539)",
-        "lat": "22.407079",
-        "long": "113.964291"
-    },
-    {
         "stop": "16F732FAF7057965",
         "name_en": "MEI FOO BUS TERMINUS (SS997)",
         "name_tc": "美孚巴士總站 (SS997)",
@@ -27380,7 +27372,7 @@
         "name_en": "HUANGGANG PORT (HU903)",
         "name_tc": "皇崗口岸 (HU903)",
         "name_sc": "皇岗口岸 (HU903)",
-        "lat": "114.067432",
+        "lat": "22.523167",
         "long": "114.067432"
     },
     {
@@ -48822,6 +48814,14 @@
         "name_sc": "美城苑 (TA331)",
         "lat": "22.379285",
         "long": "114.173721"
+    },
+    {
+        "stop": "E7DB3542B4676A88",
+        "name_en": "YIP WONG ESTATE (TM692)",
+        "name_tc": "業旺邨 (TM692)",
+        "name_sc": "业旺邨 (TM692)",
+        "lat": "22.388162",
+        "long": "113.969994"
     },
     {
         "stop": "E7E5E3C1F761966F",
