@@ -2769,6 +2769,16 @@
     },
     {
         "co": "CTB",
+        "route": "971R",
+        "orig_tc": "數碼港 (經域多利道)",
+        "orig_en": "Cyberport  (via Victoria Road)",
+        "dest_tc": "旺角",
+        "dest_en": "Mong Kok",
+        "orig_sc": "数码港 (经域多利道)",
+        "dest_sc": "旺角"
+    },
+    {
+        "co": "CTB",
         "route": "973",
         "orig_tc": "尖沙咀 (麼地道)",
         "orig_en": "Tsim Sha Tsui (Mody Road)",

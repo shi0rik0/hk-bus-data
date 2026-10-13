@@ -1282,8 +1282,8 @@
     {
         "stop": "06CC6423AA236B72",
         "name_en": "PopWalk",
-        "name_tc": "天晉滙",
-        "name_sc": "天晋滙",
+        "name_tc": "PopWalk 天晉滙",
+        "name_sc": "PopWalk 天晋滙",
         "lat": "22.303002",
         "long": "114.261429"
     },
@@ -11158,6 +11158,14 @@
         "name_sc": "彩云邨观日楼 (WT241)",
         "lat": "22.333521",
         "long": "114.216390"
+    },
+    {
+        "stop": "33C03E27FEC4342F",
+        "name_en": "LAI CHI KOK STATION (SS467a)",
+        "name_tc": "荔枝角站 (SS467a)",
+        "name_sc": "荔枝角站 (SS467a)",
+        "lat": "22.338005",
+        "long": "114.149930"
     },
     {
         "stop": "33D2B3AB9D2CCDF3",
