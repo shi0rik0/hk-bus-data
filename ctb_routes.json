@@ -3952,10 +3952,10 @@
         "route": "SP12",
         "orig_tc": "啟德體育園",
         "orig_en": "Kai Tak Sports Park",
-        "dest_tc": "落馬洲 (新田)",
-        "dest_en": "Lok Ma Chau (San Tin)",
+        "dest_tc": "皇崗口岸",
+        "dest_en": "Huanggang Port",
         "orig_sc": "启德体育园",
-        "dest_sc": "落马洲 (新田)"
+        "dest_sc": "皇岗口岸"
     },
     {
         "co": "CTB",

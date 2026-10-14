@@ -9086,6 +9086,28 @@
         "dest_sc": "荃湾站"
     },
     {
+        "route": "61S",
+        "bound": "I",
+        "service_type": "1",
+        "orig_en": "WO HOP SHEK",
+        "orig_tc": "和合石",
+        "orig_sc": "和合石",
+        "dest_en": "TUEN MUN CENTRAL",
+        "dest_tc": "屯門巿中心",
+        "dest_sc": "屯门巿中心"
+    },
+    {
+        "route": "61S",
+        "bound": "O",
+        "service_type": "1",
+        "orig_en": "TUEN MUN CENTRAL",
+        "orig_tc": "屯門巿中心",
+        "orig_sc": "屯门巿中心",
+        "dest_en": "WO HOP SHEK",
+        "dest_tc": "和合石",
+        "dest_sc": "和合石"
+    },
+    {
         "route": "61X",
         "bound": "I",
         "service_type": "1",
@@ -13206,9 +13228,9 @@
         "orig_en": "SAI KUNG",
         "orig_tc": "西貢",
         "orig_sc": "西贡",
-        "dest_en": "STAR FERRY",
-        "dest_tc": "尖沙咀碼頭",
-        "dest_sc": "尖沙咀码头"
+        "dest_en": "YAU MA TEI (KOWLOON CENTRAL POST OFFICE)",
+        "dest_tc": "油麻地(九龍中央郵政局)",
+        "dest_sc": "油麻地(九龙中央邮政局)"
     },
     {
         "route": "934",
