@@ -3959,6 +3959,16 @@
     },
     {
         "co": "CTB",
+        "route": "SP2",
+        "orig_tc": "啟德體育園",
+        "orig_en": "Kai Tak Sports Park",
+        "dest_tc": "旺角",
+        "dest_en": "Mong Kok",
+        "orig_sc": "启德体育园",
+        "dest_sc": "旺角"
+    },
+    {
+        "co": "CTB",
         "route": "SP2A",
         "orig_tc": "啟德體育園",
         "orig_en": "Kai Tak Sports Park",

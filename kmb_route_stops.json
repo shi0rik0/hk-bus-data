@@ -58475,48 +58475,27 @@
         "bound": "O",
         "service_type": "2",
         "seq": "2",
-        "stop": "EE775A73D626A46E"
-    },
-    {
-        "route": "270",
-        "bound": "O",
-        "service_type": "2",
-        "seq": "3",
-        "stop": "D417A444017171C6"
-    },
-    {
-        "route": "270",
-        "bound": "O",
-        "service_type": "2",
-        "seq": "4",
         "stop": "D876A83244ECB838"
     },
     {
         "route": "270",
         "bound": "O",
         "service_type": "2",
-        "seq": "5",
-        "stop": "9170FC8FFFD12204"
+        "seq": "3",
+        "stop": "F118B7D39DA9A9C3"
     },
     {
         "route": "270",
         "bound": "O",
         "service_type": "2",
-        "seq": "6",
-        "stop": "D2C1DACCC74B69C5"
-    },
-    {
-        "route": "270",
-        "bound": "O",
-        "service_type": "2",
-        "seq": "7",
+        "seq": "4",
         "stop": "11B894BF379B1BFC"
     },
     {
         "route": "270",
         "bound": "O",
         "service_type": "2",
-        "seq": "8",
+        "seq": "5",
         "stop": "DE9F24A5FF5A89E9"
     },
     {

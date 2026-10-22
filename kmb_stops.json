@@ -15024,6 +15024,14 @@
         "long": "114.241791"
     },
     {
+        "stop": "4594DE819A18CA80",
+        "name_en": "TIN YEE HOUSE TIN PING ESTATE (ND335)",
+        "name_tc": "天平邨天怡樓 (ND335)",
+        "name_sc": "天平邨天怡楼 (ND335)",
+        "lat": "22.054778",
+        "long": "114.131439"
+    },
+    {
         "stop": "459BE083B86A8337",
         "name_en": "CHI LOK FA YUEN (TM240)",
         "name_tc": "置樂花園 (TM240)",
@@ -21606,6 +21614,14 @@
         "name_sc": "劳资审裁处 (YT330)",
         "lat": "22.308172",
         "long": "114.172572"
+    },
+    {
+        "stop": "64ECC536B1725CBE",
+        "name_en": "LUNG FUNG GARDEN (ND336)",
+        "name_tc": "龍豐花園 (ND336)",
+        "name_sc": "龙丰花园 (ND336)",
+        "lat": "22.503073",
+        "long": "114.129594"
     },
     {
         "stop": "64FBF17E3209D217",
@@ -31206,6 +31222,14 @@
         "name_sc": "彩园总站 (ND920)",
         "lat": "22.500849",
         "long": "114.125625"
+    },
+    {
+        "stop": "945D74B7F76C0FAD",
+        "name_en": "LUNG SUM AVENUE SPORTS CENTRE (ND231)",
+        "name_tc": "龍琛路體育館 (ND231)",
+        "name_sc": "龙琛路体育馆 (ND231)",
+        "lat": "22.505047",
+        "long": "114.131189"
     },
     {
         "stop": "94612276CB142F93",
@@ -50742,6 +50766,14 @@
         "name_sc": "祠堂村 (YL655)",
         "lat": "22.438117",
         "long": "114.065458"
+    },
+    {
+        "stop": "F118B7D39DA9A9C3",
+        "name_en": "SAN SHING AVENUE SHEUNG SHUI (ND230)",
+        "name_tc": "上水新成路 (ND230)",
+        "name_sc": "上水新成路 (ND230)",
+        "lat": "22.503620",
+        "long": "114.129768"
     },
     {
         "stop": "F11DEDBBCD090BCC",

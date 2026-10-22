@@ -66828,22 +66828,6 @@
         "bound": "O",
         "service_type": "2",
         "seq": "2",
-        "stop": "EE775A73D626A46E",
-        "stop_name_tc": "天平邨天怡樓 (ND335)"
-    },
-    {
-        "route": "270",
-        "bound": "O",
-        "service_type": "2",
-        "seq": "3",
-        "stop": "D417A444017171C6",
-        "stop_name_tc": "龍豐花園 (ND336)"
-    },
-    {
-        "route": "270",
-        "bound": "O",
-        "service_type": "2",
-        "seq": "4",
         "stop": "D876A83244ECB838",
         "stop_name_tc": "上水轉車站 - 上水站 (ND479)"
     },
@@ -66851,23 +66835,15 @@
         "route": "270",
         "bound": "O",
         "service_type": "2",
-        "seq": "5",
-        "stop": "9170FC8FFFD12204",
+        "seq": "3",
+        "stop": "F118B7D39DA9A9C3",
         "stop_name_tc": "上水新成路 (ND230)"
     },
     {
         "route": "270",
         "bound": "O",
         "service_type": "2",
-        "seq": "6",
-        "stop": "D2C1DACCC74B69C5",
-        "stop_name_tc": "龍琛路體育館 (ND231)"
-    },
-    {
-        "route": "270",
-        "bound": "O",
-        "service_type": "2",
-        "seq": "7",
+        "seq": "4",
         "stop": "11B894BF379B1BFC",
         "stop_name_tc": "鳳南路 (ND235)"
     },
@@ -66875,7 +66851,7 @@
         "route": "270",
         "bound": "O",
         "service_type": "2",
-        "seq": "8",
+        "seq": "5",
         "stop": "DE9F24A5FF5A89E9",
         "stop_name_tc": "翠麗花園 (ND945)"
     },
