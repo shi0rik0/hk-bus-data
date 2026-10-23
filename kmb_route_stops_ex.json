@@ -285208,22 +285208,6 @@
         "stop_name_tc": "中環(港澳碼頭)"
     },
     {
-        "route": "SP12",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "1",
-        "stop": "414AD39F5040C30F",
-        "stop_name_tc": "啟德體育園"
-    },
-    {
-        "route": "SP12",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "2",
-        "stop": "3106E04BB81D74A8",
-        "stop_name_tc": "新田運輸交匯處 (YL995)"
-    },
-    {
         "route": "SP3",
         "bound": "O",
         "service_type": "1",

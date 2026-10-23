@@ -249557,20 +249557,6 @@
         "stop": "633A3F4B4A5637C2"
     },
     {
-        "route": "SP12",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "1",
-        "stop": "414AD39F5040C30F"
-    },
-    {
-        "route": "SP12",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "2",
-        "stop": "3106E04BB81D74A8"
-    },
-    {
         "route": "SP3",
         "bound": "O",
         "service_type": "1",

@@ -17281,17 +17281,6 @@
         "dest_sc": "中环(港澳码头)"
     },
     {
-        "route": "SP12",
-        "bound": "O",
-        "service_type": "1",
-        "orig_en": "KAI TAK SPORTS PARK",
-        "orig_tc": "啟德體育園",
-        "orig_sc": "启德体育园",
-        "dest_en": "LOK MA CHAU",
-        "dest_tc": "落馬洲",
-        "dest_sc": "落马洲"
-    },
-    {
         "route": "SP3",
         "bound": "O",
         "service_type": "1",
