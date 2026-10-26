@@ -234589,7 +234589,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "FF0A15A39562BA92",
-        "stop_name_tc": null
+        "stop_name_tc": "昌榮路"
     },
     {
         "route": "A30",
@@ -234646,6 +234646,14 @@
         "seq": "18",
         "stop": "9A43D6FA1AC3D2EA",
         "stop_name_tc": "二號客運大樓 (落客站)"
+    },
+    {
+        "route": "A30",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "19",
+        "stop": "21466046C6868AA7",
+        "stop_name_tc": "機場地面運輸中心 (落客站)"
     },
     {
         "route": "A30",
@@ -234733,7 +234741,7 @@
         "service_type": "2",
         "seq": "11",
         "stop": "FF0A15A39562BA92",
-        "stop_name_tc": null
+        "stop_name_tc": "昌榮路"
     },
     {
         "route": "A30",
@@ -234806,6 +234814,14 @@
         "seq": "20",
         "stop": "E48E4C46F64FFB0E",
         "stop_name_tc": "航天城交匯處 (CL326)"
+    },
+    {
+        "route": "A30",
+        "bound": "O",
+        "service_type": "2",
+        "seq": "21",
+        "stop": "21466046C6868AA7",
+        "stop_name_tc": "機場地面運輸中心 (落客站)"
     },
     {
         "route": "A31",
@@ -242677,7 +242693,7 @@
         "service_type": "1",
         "seq": "16",
         "stop": "6B839DE7402D725F",
-        "stop_name_tc": null
+        "stop_name_tc": "水泉澳廣場"
     },
     {
         "route": "A42",
@@ -242718,6 +242734,14 @@
         "seq": "21",
         "stop": "3A28F5D362EB2111",
         "stop_name_tc": "帝堡城 (ST537)"
+    },
+    {
+        "route": "A42",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "22",
+        "stop": "9DB1F8ED716CD77E",
+        "stop_name_tc": "黃泥頭巴士總站 (ST893)"
     },
     {
         "route": "A42",

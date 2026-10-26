@@ -23064,6 +23064,14 @@
         "long": "114.147159"
     },
     {
+        "stop": "6B839DE7402D725F",
+        "name_en": "SHUI CHUEN O PLAZA",
+        "name_tc": "水泉澳廣場",
+        "name_sc": "水泉澳广场",
+        "lat": "22.374065",
+        "long": "114.197735"
+    },
+    {
         "stop": "6B885F5529A285BB",
         "name_en": "PIK FUNG ROAD-FANLING, LAW COURTS BUILDING (ND246)",
         "name_tc": "璧峰路-粉嶺法院大樓 (ND246)",
@@ -53990,6 +53998,14 @@
         "name_sc": "红磡佛光街 (HH244)",
         "lat": "22.309482",
         "long": "114.187523"
+    },
+    {
+        "stop": "FF0A15A39562BA92",
+        "name_en": "CHEUNG WING ROAD",
+        "name_tc": "昌榮路",
+        "name_sc": "昌荣路",
+        "lat": "22.370428",
+        "long": "114.134654"
     },
     {
         "stop": "FF115E5D48CCEDD3",
