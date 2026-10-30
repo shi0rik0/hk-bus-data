@@ -3109,6 +3109,16 @@
     },
     {
         "co": "CTB",
+        "route": "B13S",
+        "orig_tc": "中環(皇后像廣場)",
+        "orig_en": "Central (Statue Square)",
+        "dest_tc": "皇崗口岸",
+        "dest_en": "Huanggang Port",
+        "orig_sc": "中环(皇后像广场)",
+        "dest_sc": "皇岗口岸"
+    },
+    {
+        "co": "CTB",
         "route": "B14",
         "orig_tc": "皇崗口岸",
         "orig_en": "Huanggang Port",
