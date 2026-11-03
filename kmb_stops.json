@@ -22048,14 +22048,6 @@
         "long": "114.216227"
     },
     {
-        "stop": "667E322246C6F7FA",
-        "name_en": "WU BOON HOUSE WU KING ESTATE (TM453)",
-        "name_tc": "湖景邨湖畔樓 (TM453)",
-        "name_sc": "湖景邨湖畔楼 (TM453)",
-        "lat": "22.373906",
-        "long": "113.965736"
-    },
-    {
         "stop": "667FDF4DEF4D2BAE",
         "name_en": "CHEUNG SHA WAN STATION (SS681)",
         "name_tc": "長沙灣站 (SS681)",
@@ -40808,14 +40800,6 @@
         "long": "113.967871"
     },
     {
-        "stop": "C1A148BD237E4438",
-        "name_en": "CITYGATE (TC416)",
-        "name_tc": "東薈城 (TC416)",
-        "name_sc": "东荟城 (TC416)",
-        "lat": "22.289943",
-        "long": "113.941790"
-    },
-    {
         "stop": "C1A67D37CF256C9E",
         "name_en": "SHA TIN WAI BUS TERMINUS (ST958)",
         "name_tc": "沙田圍巴士總站 (ST958)",
@@ -43118,14 +43102,6 @@
         "name_sc": "沙田市中心总站 (ST929)",
         "lat": "22.381772",
         "long": "114.188072"
-    },
-    {
-        "stop": "CCA79246B85CE408",
-        "name_en": "CITYGATE (TC415)",
-        "name_tc": "東薈城 (TC415)",
-        "name_sc": "东荟城 (TC415)",
-        "lat": "22.290018",
-        "long": "113.941692"
     },
     {
         "stop": "CCAC1239A80FFE6B",
