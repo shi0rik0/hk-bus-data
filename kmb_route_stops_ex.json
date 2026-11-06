@@ -4044,6 +4044,14 @@
         "bound": "I",
         "service_type": "1",
         "seq": "16",
+        "stop": "45DD5738BA406D61",
+        "stop_name_tc": null
+    },
+    {
+        "route": "103",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "17",
         "stop": "048A87496B30B946",
         "stop_name_tc": "柯布連道"
     },
@@ -4051,7 +4059,7 @@
         "route": "103",
         "bound": "I",
         "service_type": "1",
-        "seq": "17",
+        "seq": "18",
         "stop": "A71457854D13E9DE",
         "stop_name_tc": "史釗域道"
     },
@@ -4059,7 +4067,7 @@
         "route": "103",
         "bound": "I",
         "service_type": "1",
-        "seq": "18",
+        "seq": "19",
         "stop": "AC1E2BBDC663717F",
         "stop_name_tc": "杜老誌道"
     },
@@ -4067,7 +4075,7 @@
         "route": "103",
         "bound": "I",
         "service_type": "1",
-        "seq": "19",
+        "seq": "20",
         "stop": "A07CC0A6D462A579",
         "stop_name_tc": "灣仔消防局"
     },
@@ -4075,7 +4083,7 @@
         "route": "103",
         "bound": "I",
         "service_type": "1",
-        "seq": "20",
+        "seq": "21",
         "stop": "9E25CF3DAA0BA0C4",
         "stop_name_tc": "百德新街"
     },
@@ -4083,7 +4091,7 @@
         "route": "103",
         "bound": "I",
         "service_type": "1",
-        "seq": "21",
+        "seq": "22",
         "stop": "9541036143D6CCF1",
         "stop_name_tc": "維多利亞公園"
     },
@@ -4091,7 +4099,7 @@
         "route": "103",
         "bound": "I",
         "service_type": "1",
-        "seq": "22",
+        "seq": "23",
         "stop": "13C75FFFA2BB060D",
         "stop_name_tc": "興發街"
     },
@@ -4099,7 +4107,7 @@
         "route": "103",
         "bound": "I",
         "service_type": "1",
-        "seq": "23",
+        "seq": "24",
         "stop": "D1D807234805DBF4",
         "stop_name_tc": "景隆街"
     },
@@ -4107,7 +4115,7 @@
         "route": "103",
         "bound": "I",
         "service_type": "1",
-        "seq": "24",
+        "seq": "25",
         "stop": "79AFB35F9DBD485A",
         "stop_name_tc": "紅隧轉車站 (HH600)"
     },
@@ -4115,7 +4123,7 @@
         "route": "103",
         "bound": "I",
         "service_type": "1",
-        "seq": "25",
+        "seq": "26",
         "stop": "6F755DD7C8AEB1B4",
         "stop_name_tc": "伊利沙伯醫院 (YT340)"
     },
@@ -4123,7 +4131,7 @@
         "route": "103",
         "bound": "I",
         "service_type": "1",
-        "seq": "26",
+        "seq": "27",
         "stop": "D5DB45916FCE114A",
         "stop_name_tc": "嘉輝台 (KC315)"
     },
@@ -4131,7 +4139,7 @@
         "route": "103",
         "bound": "I",
         "service_type": "1",
-        "seq": "27",
+        "seq": "28",
         "stop": "5D94D3084F0C3831",
         "stop_name_tc": "醫療輔助總部 (KC316)"
     },
@@ -4139,7 +4147,7 @@
         "route": "103",
         "bound": "I",
         "service_type": "1",
-        "seq": "28",
+        "seq": "29",
         "stop": "E907FA24426A9FD6",
         "stop_name_tc": "九龍維景酒店 (KC334)"
     },
@@ -4147,7 +4155,7 @@
         "route": "103",
         "bound": "I",
         "service_type": "1",
-        "seq": "29",
+        "seq": "30",
         "stop": "89A4D25AC31A8388",
         "stop_name_tc": "聖佐治大廈 (KC336)"
     },
@@ -4155,7 +4163,7 @@
         "route": "103",
         "bound": "I",
         "service_type": "1",
-        "seq": "30",
+        "seq": "31",
         "stop": "6465986EF7824816",
         "stop_name_tc": "九龍塘會 (KC339)"
     },
@@ -4163,7 +4171,7 @@
         "route": "103",
         "bound": "I",
         "service_type": "1",
-        "seq": "31",
+        "seq": "32",
         "stop": "F21DC659FA565E2F",
         "stop_name_tc": "基督中心堂 (KC340)"
     },
@@ -4171,7 +4179,7 @@
         "route": "103",
         "bound": "I",
         "service_type": "1",
-        "seq": "32",
+        "seq": "33",
         "stop": "E3EEF07674DE3B98",
         "stop_name_tc": "禧福道 (KC536)"
     },
@@ -4179,7 +4187,7 @@
         "route": "103",
         "bound": "I",
         "service_type": "1",
-        "seq": "33",
+        "seq": "34",
         "stop": "A96BE8855D16BCE0",
         "stop_name_tc": "天保民學校 (KC410)"
     },
@@ -4187,7 +4195,7 @@
         "route": "103",
         "bound": "I",
         "service_type": "1",
-        "seq": "34",
+        "seq": "35",
         "stop": "F3753E60F86B0068",
         "stop_name_tc": "香港浸會大學 (KC411)"
     },
@@ -4195,7 +4203,7 @@
         "route": "103",
         "bound": "I",
         "service_type": "1",
-        "seq": "35",
+        "seq": "36",
         "stop": "67C00FA00C878C1A",
         "stop_name_tc": "富強苑 (WT623)"
     },
@@ -4203,7 +4211,7 @@
         "route": "103",
         "bound": "I",
         "service_type": "1",
-        "seq": "36",
+        "seq": "37",
         "stop": "7A899F3009A31F68",
         "stop_name_tc": "樂富廣場 (WT624)"
     },
@@ -4211,7 +4219,7 @@
         "route": "103",
         "bound": "I",
         "service_type": "1",
-        "seq": "37",
+        "seq": "38",
         "stop": "550A2C52049679A0",
         "stop_name_tc": "樂富總站 (WT907)"
     },
@@ -4219,7 +4227,7 @@
         "route": "103",
         "bound": "I",
         "service_type": "1",
-        "seq": "38",
+        "seq": "39",
         "stop": "CEACD1DF9F00EF44",
         "stop_name_tc": "天宏苑 (WT145)"
     },
@@ -4227,17 +4235,9 @@
         "route": "103",
         "bound": "I",
         "service_type": "1",
-        "seq": "39",
+        "seq": "40",
         "stop": "6E410E80F8C9915B",
         "stop_name_tc": "竹園南邨榮園樓 (WT150)"
-    },
-    {
-        "route": "103",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "40",
-        "stop": "2BF46D2A46F5451D",
-        "stop_name_tc": "竹園邨總站 (WT914)"
     },
     {
         "route": "103",
@@ -11196,7 +11196,7 @@
         "bound": "I",
         "service_type": "1",
         "seq": "6",
-        "stop": "FA0F3FFF968619F2",
+        "stop": "60012869923EEE68",
         "stop_name_tc": "軍器廠街"
     },
     {
@@ -11556,7 +11556,7 @@
         "bound": "I",
         "service_type": "1",
         "seq": "6",
-        "stop": "FA0F3FFF968619F2",
+        "stop": "60012869923EEE68",
         "stop_name_tc": "軍器廠街"
     },
     {
@@ -12916,7 +12916,7 @@
         "bound": "I",
         "service_type": "1",
         "seq": "6",
-        "stop": "FA0F3FFF968619F2",
+        "stop": "60012869923EEE68",
         "stop_name_tc": "軍器廠街"
     },
     {
@@ -30604,6 +30604,14 @@
         "bound": "I",
         "service_type": "1",
         "seq": "6",
+        "stop": "45DD5738BA406D61",
+        "stop_name_tc": null
+    },
+    {
+        "route": "182",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "7",
         "stop": "048A87496B30B946",
         "stop_name_tc": "柯布連道"
     },
@@ -30611,7 +30619,7 @@
         "route": "182",
         "bound": "I",
         "service_type": "1",
-        "seq": "7",
+        "seq": "8",
         "stop": "FD9F24DFA3090351",
         "stop_name_tc": "莊士敦道"
     },
@@ -30619,7 +30627,7 @@
         "route": "182",
         "bound": "I",
         "service_type": "1",
-        "seq": "8",
+        "seq": "9",
         "stop": "64FBF17E3209D217",
         "stop_name_tc": "克街"
     },
@@ -30627,7 +30635,7 @@
         "route": "182",
         "bound": "I",
         "service_type": "1",
-        "seq": "9",
+        "seq": "10",
         "stop": "4A626ACD36F8ED7A",
         "stop_name_tc": "堅拿道西"
     },
@@ -30635,7 +30643,7 @@
         "route": "182",
         "bound": "I",
         "service_type": "1",
-        "seq": "10",
+        "seq": "11",
         "stop": "79AFB35F9DBD485A",
         "stop_name_tc": "紅隧轉車站 (HH600)"
     },
@@ -30643,7 +30651,7 @@
         "route": "182",
         "bound": "I",
         "service_type": "1",
-        "seq": "11",
+        "seq": "12",
         "stop": "D5DB45916FCE114A",
         "stop_name_tc": "嘉輝台 (KC315)"
     },
@@ -30651,7 +30659,7 @@
         "route": "182",
         "bound": "I",
         "service_type": "1",
-        "seq": "12",
+        "seq": "13",
         "stop": "5D94D3084F0C3831",
         "stop_name_tc": "醫療輔助總部 (KC316)"
     },
@@ -30659,7 +30667,7 @@
         "route": "182",
         "bound": "I",
         "service_type": "1",
-        "seq": "13",
+        "seq": "14",
         "stop": "89A4D25AC31A8388",
         "stop_name_tc": "聖佐治大廈 (KC336)"
     },
@@ -30667,7 +30675,7 @@
         "route": "182",
         "bound": "I",
         "service_type": "1",
-        "seq": "14",
+        "seq": "15",
         "stop": "6465986EF7824816",
         "stop_name_tc": "九龍塘會 (KC339)"
     },
@@ -30675,7 +30683,7 @@
         "route": "182",
         "bound": "I",
         "service_type": "1",
-        "seq": "15",
+        "seq": "16",
         "stop": "C53A00F15DC2DB20",
         "stop_name_tc": "基督中心堂 (KC341)"
     },
@@ -30683,7 +30691,7 @@
         "route": "182",
         "bound": "I",
         "service_type": "1",
-        "seq": "16",
+        "seq": "17",
         "stop": "48E5A1EED91712EE",
         "stop_name_tc": "九龍塘站 (KC342)"
     },
@@ -30691,7 +30699,7 @@
         "route": "182",
         "bound": "I",
         "service_type": "1",
-        "seq": "17",
+        "seq": "18",
         "stop": "8FE9357F36300CD7",
         "stop_name_tc": "映月台 (KC343)"
     },
@@ -30699,7 +30707,7 @@
         "route": "182",
         "bound": "I",
         "service_type": "1",
-        "seq": "18",
+        "seq": "19",
         "stop": "B8E2647E9C5019C9",
         "stop_name_tc": "世界花園 (TA102)"
     },
@@ -30707,7 +30715,7 @@
         "route": "182",
         "bound": "I",
         "service_type": "1",
-        "seq": "19",
+        "seq": "20",
         "stop": "AAECA769A84E2372",
         "stop_name_tc": "大圍轉車站 - 新翠邨 (TA104)"
     },
@@ -30715,7 +30723,7 @@
         "route": "182",
         "bound": "I",
         "service_type": "1",
-        "seq": "20",
+        "seq": "21",
         "stop": "A66159E033DDEA04",
         "stop_name_tc": "大圍轉車站 - 大圍站 (TA125)"
     },
@@ -30723,7 +30731,7 @@
         "route": "182",
         "bound": "I",
         "service_type": "1",
-        "seq": "21",
+        "seq": "22",
         "stop": "C92E80A5D7E0E8EC",
         "stop_name_tc": "車公廟 (TA127)"
     },
@@ -30731,7 +30739,7 @@
         "route": "182",
         "bound": "I",
         "service_type": "1",
-        "seq": "22",
+        "seq": "23",
         "stop": "07ADFF84F3502690",
         "stop_name_tc": "秦石邨 (TA130)"
     },
@@ -30739,7 +30747,7 @@
         "route": "182",
         "bound": "I",
         "service_type": "1",
-        "seq": "23",
+        "seq": "24",
         "stop": "B9EE83CA8ABB578B",
         "stop_name_tc": "乙明邨街 (ST200)"
     },
@@ -30747,7 +30755,7 @@
         "route": "182",
         "bound": "I",
         "service_type": "1",
-        "seq": "24",
+        "seq": "25",
         "stop": "50F2B96452F78F19",
         "stop_name_tc": "沙角邨 (ST210)"
     },
@@ -30755,7 +30763,7 @@
         "route": "182",
         "bound": "I",
         "service_type": "1",
-        "seq": "25",
+        "seq": "26",
         "stop": "1AE43A670EACECB1",
         "stop_name_tc": "麗豪酒店 (ST138)"
     },
@@ -30763,7 +30771,7 @@
         "route": "182",
         "bound": "I",
         "service_type": "1",
-        "seq": "26",
+        "seq": "27",
         "stop": "C0D515CA78A56B65",
         "stop_name_tc": "富豪花園 (ST141)"
     },
@@ -30771,7 +30779,7 @@
         "route": "182",
         "bound": "I",
         "service_type": "1",
-        "seq": "27",
+        "seq": "28",
         "stop": "3C624F6CB2D5BBEA",
         "stop_name_tc": "置富第一城 (ST302)"
     },
@@ -30779,7 +30787,7 @@
         "route": "182",
         "bound": "I",
         "service_type": "1",
-        "seq": "28",
+        "seq": "29",
         "stop": "C1E9F8237EDBBAD2",
         "stop_name_tc": "愉田苑 (ST304)"
     },
@@ -30787,17 +30795,9 @@
         "route": "182",
         "bound": "I",
         "service_type": "1",
-        "seq": "29",
+        "seq": "30",
         "stop": "4BFB5F2D496CDA56",
         "stop_name_tc": "第一城站 (ST312)"
-    },
-    {
-        "route": "182",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "30",
-        "stop": "EF15FBC5E8A02ADA",
-        "stop_name_tc": "愉翠苑巴士總站 (ST871)"
     },
     {
         "route": "182",
@@ -31068,6 +31068,14 @@
         "bound": "O",
         "service_type": "1",
         "seq": "6",
+        "stop": "45DD5738BA406D61",
+        "stop_name_tc": null
+    },
+    {
+        "route": "182X",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "7",
         "stop": "048A87496B30B946",
         "stop_name_tc": "柯布連道"
     },
@@ -31075,7 +31083,7 @@
         "route": "182X",
         "bound": "O",
         "service_type": "1",
-        "seq": "7",
+        "seq": "8",
         "stop": "FD9F24DFA3090351",
         "stop_name_tc": "莊士敦道"
     },
@@ -31083,7 +31091,7 @@
         "route": "182X",
         "bound": "O",
         "service_type": "1",
-        "seq": "8",
+        "seq": "9",
         "stop": "64FBF17E3209D217",
         "stop_name_tc": "克街"
     },
@@ -31091,7 +31099,7 @@
         "route": "182X",
         "bound": "O",
         "service_type": "1",
-        "seq": "9",
+        "seq": "10",
         "stop": "4A626ACD36F8ED7A",
         "stop_name_tc": "堅拿道西"
     },
@@ -31099,7 +31107,7 @@
         "route": "182X",
         "bound": "O",
         "service_type": "1",
-        "seq": "10",
+        "seq": "11",
         "stop": "B8E2647E9C5019C9",
         "stop_name_tc": "世界花園 (TA102)"
     },
@@ -31107,7 +31115,7 @@
         "route": "182X",
         "bound": "O",
         "service_type": "1",
-        "seq": "11",
+        "seq": "12",
         "stop": "AAECA769A84E2372",
         "stop_name_tc": "大圍轉車站 - 新翠邨 (TA104)"
     },
@@ -31115,7 +31123,7 @@
         "route": "182X",
         "bound": "O",
         "service_type": "1",
-        "seq": "12",
+        "seq": "13",
         "stop": "A66159E033DDEA04",
         "stop_name_tc": "大圍轉車站 - 大圍站 (TA125)"
     },
@@ -31123,7 +31131,7 @@
         "route": "182X",
         "bound": "O",
         "service_type": "1",
-        "seq": "13",
+        "seq": "14",
         "stop": "C92E80A5D7E0E8EC",
         "stop_name_tc": "車公廟 (TA127)"
     },
@@ -31131,7 +31139,7 @@
         "route": "182X",
         "bound": "O",
         "service_type": "1",
-        "seq": "14",
+        "seq": "15",
         "stop": "07ADFF84F3502690",
         "stop_name_tc": "秦石邨 (TA130)"
     },
@@ -31139,7 +31147,7 @@
         "route": "182X",
         "bound": "O",
         "service_type": "1",
-        "seq": "15",
+        "seq": "16",
         "stop": "B9EE83CA8ABB578B",
         "stop_name_tc": "乙明邨街 (ST200)"
     },
@@ -31147,7 +31155,7 @@
         "route": "182X",
         "bound": "O",
         "service_type": "1",
-        "seq": "16",
+        "seq": "17",
         "stop": "B3E11B99D4E4F4AE",
         "stop_name_tc": "博康巴士總站 (ST962)"
     },
@@ -31155,7 +31163,7 @@
         "route": "182X",
         "bound": "O",
         "service_type": "1",
-        "seq": "17",
+        "seq": "18",
         "stop": "8EE5AC5D519C140E",
         "stop_name_tc": "水泉澳邨城泉樓 (ST240)"
     },
@@ -31163,7 +31171,7 @@
         "route": "182X",
         "bound": "O",
         "service_type": "1",
-        "seq": "18",
+        "seq": "19",
         "stop": "944A9ADFCA286511",
         "stop_name_tc": "水泉澳總站 (ST970)"
     },
@@ -31171,17 +31179,9 @@
         "route": "182X",
         "bound": "O",
         "service_type": "1",
-        "seq": "19",
+        "seq": "20",
         "stop": "808CA5FECCC6646D",
         "stop_name_tc": "多石街 (ST660)"
-    },
-    {
-        "route": "182X",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "20",
-        "stop": "EF15FBC5E8A02ADA",
-        "stop_name_tc": "愉翠苑巴士總站 (ST871)"
     },
     {
         "route": "19",
@@ -146724,7 +146724,7 @@
         "bound": "I",
         "service_type": "1",
         "seq": "6",
-        "stop": "255401DABB64289D",
+        "stop": "E74202351AF7F37D",
         "stop_name_tc": "盧押道"
     },
     {
@@ -147436,7 +147436,7 @@
         "bound": "I",
         "service_type": "1",
         "seq": "6",
-        "stop": "255401DABB64289D",
+        "stop": "E74202351AF7F37D",
         "stop_name_tc": "盧押道"
     },
     {
@@ -149028,7 +149028,7 @@
         "bound": "I",
         "service_type": "1",
         "seq": "6",
-        "stop": "1AB934EFE0E1470A",
+        "stop": "60012869923EEE68",
         "stop_name_tc": "軍器廠街"
     },
     {
@@ -157100,7 +157100,7 @@
         "bound": "I",
         "service_type": "1",
         "seq": "2",
-        "stop": "60012869923EEE68",
+        "stop": "FA0F3FFF968619F2",
         "stop_name_tc": "軍器廠街"
     },
     {
@@ -158164,7 +158164,7 @@
         "bound": "I",
         "service_type": "1",
         "seq": "6",
-        "stop": "60012869923EEE68",
+        "stop": "FA0F3FFF968619F2",
         "stop_name_tc": "軍器廠街"
     },
     {
@@ -158588,7 +158588,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "6",
-        "stop": "1AB934EFE0E1470A",
+        "stop": "FA0F3FFF968619F2",
         "stop_name_tc": "軍器廠街"
     },
     {
@@ -158748,7 +158748,7 @@
         "bound": "I",
         "service_type": "1",
         "seq": "6",
-        "stop": "1AB934EFE0E1470A",
+        "stop": "FA0F3FFF968619F2",
         "stop_name_tc": "軍器廠街"
     },
     {
@@ -161420,7 +161420,7 @@
         "bound": "I",
         "service_type": "1",
         "seq": "6",
-        "stop": "255401DABB64289D",
+        "stop": "E74202351AF7F37D",
         "stop_name_tc": "盧押道"
     },
     {
@@ -162260,7 +162260,7 @@
         "bound": "I",
         "service_type": "1",
         "seq": "6",
-        "stop": "255401DABB64289D",
+        "stop": "E74202351AF7F37D",
         "stop_name_tc": "盧押道"
     },
     {
@@ -210756,8 +210756,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "20",
-        "stop": "E74202351AF7F37D",
-        "stop_name_tc": "盧押道"
+        "stop": "D28CA51749C67A3D",
+        "stop_name_tc": null
     },
     {
         "route": "914",
@@ -218476,8 +218476,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "23",
-        "stop": "E74202351AF7F37D",
-        "stop_name_tc": "盧押道"
+        "stop": "D28CA51749C67A3D",
+        "stop_name_tc": null
     },
     {
         "route": "948",
@@ -218684,8 +218684,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "20",
-        "stop": "E74202351AF7F37D",
-        "stop_name_tc": "盧押道"
+        "stop": "D28CA51749C67A3D",
+        "stop_name_tc": null
     },
     {
         "route": "948A",
@@ -218868,8 +218868,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "17",
-        "stop": "E74202351AF7F37D",
-        "stop_name_tc": "盧押道"
+        "stop": "D28CA51749C67A3D",
+        "stop_name_tc": null
     },
     {
         "route": "948B",
@@ -219356,8 +219356,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "12",
-        "stop": "E74202351AF7F37D",
-        "stop_name_tc": "盧押道"
+        "stop": "D28CA51749C67A3D",
+        "stop_name_tc": null
     },
     {
         "route": "948P",
@@ -219500,8 +219500,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "12",
-        "stop": "E74202351AF7F37D",
-        "stop_name_tc": "盧押道"
+        "stop": "D28CA51749C67A3D",
+        "stop_name_tc": null
     },
     {
         "route": "948X",
@@ -228164,7 +228164,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "20",
-        "stop": "60012869923EEE68",
+        "stop": "1AB934EFE0E1470A",
         "stop_name_tc": "軍器廠街"
     },
     {
@@ -229692,7 +229692,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "19",
-        "stop": "60012869923EEE68",
+        "stop": "1AB934EFE0E1470A",
         "stop_name_tc": "軍器廠街"
     },
     {
@@ -229820,7 +229820,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "13",
-        "stop": "60012869923EEE68",
+        "stop": "1AB934EFE0E1470A",
         "stop_name_tc": "軍器廠街"
     },
     {
@@ -229948,7 +229948,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "13",
-        "stop": "60012869923EEE68",
+        "stop": "1AB934EFE0E1470A",
         "stop_name_tc": "軍器廠街"
     },
     {
@@ -258036,6 +258036,14 @@
         "bound": "I",
         "service_type": "1",
         "seq": "8",
+        "stop": "45DD5738BA406D61",
+        "stop_name_tc": null
+    },
+    {
+        "route": "N182",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "9",
         "stop": "048A87496B30B946",
         "stop_name_tc": "柯布連道"
     },
@@ -258043,7 +258051,7 @@
         "route": "N182",
         "bound": "I",
         "service_type": "1",
-        "seq": "9",
+        "seq": "10",
         "stop": "A71457854D13E9DE",
         "stop_name_tc": "史釗域道"
     },
@@ -258051,7 +258059,7 @@
         "route": "N182",
         "bound": "I",
         "service_type": "1",
-        "seq": "10",
+        "seq": "11",
         "stop": "AC1E2BBDC663717F",
         "stop_name_tc": "杜老誌道"
     },
@@ -258059,7 +258067,7 @@
         "route": "N182",
         "bound": "I",
         "service_type": "1",
-        "seq": "11",
+        "seq": "12",
         "stop": "A07CC0A6D462A579",
         "stop_name_tc": "灣仔消防局"
     },
@@ -258067,7 +258075,7 @@
         "route": "N182",
         "bound": "I",
         "service_type": "1",
-        "seq": "12",
+        "seq": "13",
         "stop": "9E25CF3DAA0BA0C4",
         "stop_name_tc": "百德新街"
     },
@@ -258075,7 +258083,7 @@
         "route": "N182",
         "bound": "I",
         "service_type": "1",
-        "seq": "13",
+        "seq": "14",
         "stop": "5BD1D1453F3EFA85",
         "stop_name_tc": "聖保祿醫院"
     },
@@ -258083,7 +258091,7 @@
         "route": "N182",
         "bound": "I",
         "service_type": "1",
-        "seq": "14",
+        "seq": "15",
         "stop": "D1D807234805DBF4",
         "stop_name_tc": "景隆街"
     },
@@ -258091,7 +258099,7 @@
         "route": "N182",
         "bound": "I",
         "service_type": "1",
-        "seq": "15",
+        "seq": "16",
         "stop": "79AFB35F9DBD485A",
         "stop_name_tc": "紅隧轉車站 (HH600)"
     },
@@ -258099,7 +258107,7 @@
         "route": "N182",
         "bound": "I",
         "service_type": "1",
-        "seq": "16",
+        "seq": "17",
         "stop": "D5DB45916FCE114A",
         "stop_name_tc": "嘉輝台 (KC315)"
     },
@@ -258107,7 +258115,7 @@
         "route": "N182",
         "bound": "I",
         "service_type": "1",
-        "seq": "17",
+        "seq": "18",
         "stop": "5D94D3084F0C3831",
         "stop_name_tc": "醫療輔助總部 (KC316)"
     },
@@ -258115,7 +258123,7 @@
         "route": "N182",
         "bound": "I",
         "service_type": "1",
-        "seq": "18",
+        "seq": "19",
         "stop": "89A4D25AC31A8388",
         "stop_name_tc": "聖佐治大廈 (KC336)"
     },
@@ -258123,7 +258131,7 @@
         "route": "N182",
         "bound": "I",
         "service_type": "1",
-        "seq": "19",
+        "seq": "20",
         "stop": "6465986EF7824816",
         "stop_name_tc": "九龍塘會 (KC339)"
     },
@@ -258131,7 +258139,7 @@
         "route": "N182",
         "bound": "I",
         "service_type": "1",
-        "seq": "20",
+        "seq": "21",
         "stop": "C53A00F15DC2DB20",
         "stop_name_tc": "基督中心堂 (KC341)"
     },
@@ -258139,7 +258147,7 @@
         "route": "N182",
         "bound": "I",
         "service_type": "1",
-        "seq": "21",
+        "seq": "22",
         "stop": "48E5A1EED91712EE",
         "stop_name_tc": "九龍塘站 (KC342)"
     },
@@ -258147,7 +258155,7 @@
         "route": "N182",
         "bound": "I",
         "service_type": "1",
-        "seq": "22",
+        "seq": "23",
         "stop": "8FE9357F36300CD7",
         "stop_name_tc": "映月台 (KC343)"
     },
@@ -258155,7 +258163,7 @@
         "route": "N182",
         "bound": "I",
         "service_type": "1",
-        "seq": "23",
+        "seq": "24",
         "stop": "45D0CFA28B3FEFE5",
         "stop_name_tc": "獅子山隧道 (ST100)"
     },
@@ -258163,7 +258171,7 @@
         "route": "N182",
         "bound": "I",
         "service_type": "1",
-        "seq": "24",
+        "seq": "25",
         "stop": "B8E2647E9C5019C9",
         "stop_name_tc": "世界花園 (TA102)"
     },
@@ -258171,7 +258179,7 @@
         "route": "N182",
         "bound": "I",
         "service_type": "1",
-        "seq": "25",
+        "seq": "26",
         "stop": "AAECA769A84E2372",
         "stop_name_tc": "大圍轉車站 - 新翠邨 (TA104)"
     },
@@ -258179,7 +258187,7 @@
         "route": "N182",
         "bound": "I",
         "service_type": "1",
-        "seq": "26",
+        "seq": "27",
         "stop": "A66159E033DDEA04",
         "stop_name_tc": "大圍轉車站 - 大圍站 (TA125)"
     },
@@ -258187,7 +258195,7 @@
         "route": "N182",
         "bound": "I",
         "service_type": "1",
-        "seq": "27",
+        "seq": "28",
         "stop": "C92E80A5D7E0E8EC",
         "stop_name_tc": "車公廟 (TA127)"
     },
@@ -258195,7 +258203,7 @@
         "route": "N182",
         "bound": "I",
         "service_type": "1",
-        "seq": "28",
+        "seq": "29",
         "stop": "07ADFF84F3502690",
         "stop_name_tc": "秦石邨 (TA130)"
     },
@@ -258203,7 +258211,7 @@
         "route": "N182",
         "bound": "I",
         "service_type": "1",
-        "seq": "29",
+        "seq": "30",
         "stop": "B9EE83CA8ABB578B",
         "stop_name_tc": "乙明邨街 (ST200)"
     },
@@ -258211,7 +258219,7 @@
         "route": "N182",
         "bound": "I",
         "service_type": "1",
-        "seq": "30",
+        "seq": "31",
         "stop": "50F2B96452F78F19",
         "stop_name_tc": "沙角邨 (ST210)"
     },
@@ -258219,7 +258227,7 @@
         "route": "N182",
         "bound": "I",
         "service_type": "1",
-        "seq": "31",
+        "seq": "32",
         "stop": "1AE43A670EACECB1",
         "stop_name_tc": "麗豪酒店 (ST138)"
     },
@@ -258227,7 +258235,7 @@
         "route": "N182",
         "bound": "I",
         "service_type": "1",
-        "seq": "32",
+        "seq": "33",
         "stop": "C0D515CA78A56B65",
         "stop_name_tc": "富豪花園 (ST141)"
     },
@@ -258235,7 +258243,7 @@
         "route": "N182",
         "bound": "I",
         "service_type": "1",
-        "seq": "33",
+        "seq": "34",
         "stop": "3C624F6CB2D5BBEA",
         "stop_name_tc": "置富第一城 (ST302)"
     },
@@ -258243,7 +258251,7 @@
         "route": "N182",
         "bound": "I",
         "service_type": "1",
-        "seq": "34",
+        "seq": "35",
         "stop": "C1E9F8237EDBBAD2",
         "stop_name_tc": "愉田苑 (ST304)"
     },
@@ -258251,7 +258259,7 @@
         "route": "N182",
         "bound": "I",
         "service_type": "1",
-        "seq": "35",
+        "seq": "36",
         "stop": "4BFB5F2D496CDA56",
         "stop_name_tc": "第一城站 (ST312)"
     },
@@ -258259,7 +258267,7 @@
         "route": "N182",
         "bound": "I",
         "service_type": "1",
-        "seq": "36",
+        "seq": "37",
         "stop": "51FCE282462E418B",
         "stop_name_tc": "愉翠苑 (ST320)"
     },
@@ -258267,7 +258275,7 @@
         "route": "N182",
         "bound": "I",
         "service_type": "1",
-        "seq": "37",
+        "seq": "38",
         "stop": "F8BB84BC801E4C85",
         "stop_name_tc": "牛皮沙新村 (ST325)"
     },
@@ -258275,7 +258283,7 @@
         "route": "N182",
         "bound": "I",
         "service_type": "1",
-        "seq": "38",
+        "seq": "39",
         "stop": "BC39BFC3C7BC3009",
         "stop_name_tc": "香港恒生大學 (ST330)"
     },
@@ -258283,7 +258291,7 @@
         "route": "N182",
         "bound": "I",
         "service_type": "1",
-        "seq": "39",
+        "seq": "40",
         "stop": "2FABE52A66DF7482",
         "stop_name_tc": "廣柏樓 (ST332)"
     },
@@ -258291,17 +258299,9 @@
         "route": "N182",
         "bound": "I",
         "service_type": "1",
-        "seq": "40",
+        "seq": "41",
         "stop": "C1E1199805BCC92D",
         "stop_name_tc": "帝堡城 (ST538)"
-    },
-    {
-        "route": "N182",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "41",
-        "stop": "EAA44CDBC231DB8C",
-        "stop_name_tc": "廣源巴士總站 (ST884)"
     },
     {
         "route": "N182",
@@ -267092,6 +267092,14 @@
         "bound": "I",
         "service_type": "1",
         "seq": "7",
+        "stop": "45DD5738BA406D61",
+        "stop_name_tc": null
+    },
+    {
+        "route": "N307",
+        "bound": "I",
+        "service_type": "1",
+        "seq": "8",
         "stop": "E74202351AF7F37D",
         "stop_name_tc": "盧押道"
     },
@@ -267099,7 +267107,7 @@
         "route": "N307",
         "bound": "I",
         "service_type": "1",
-        "seq": "8",
+        "seq": "9",
         "stop": "9DA98A5E3914E2E3",
         "stop_name_tc": "菲林明道"
     },
@@ -267107,7 +267115,7 @@
         "route": "N307",
         "bound": "I",
         "service_type": "1",
-        "seq": "9",
+        "seq": "10",
         "stop": "36904A9AD2C13B32",
         "stop_name_tc": "史釗域道"
     },
@@ -267115,7 +267123,7 @@
         "route": "N307",
         "bound": "I",
         "service_type": "1",
-        "seq": "10",
+        "seq": "11",
         "stop": "CCBCD7F613287BC8",
         "stop_name_tc": "灣仔消防局"
     },
@@ -267123,7 +267131,7 @@
         "route": "N307",
         "bound": "I",
         "service_type": "1",
-        "seq": "11",
+        "seq": "12",
         "stop": "B4372FB3544677BB",
         "stop_name_tc": "百德新街"
     },
@@ -267131,7 +267139,7 @@
         "route": "N307",
         "bound": "I",
         "service_type": "1",
-        "seq": "12",
+        "seq": "13",
         "stop": "913E96996F3B7E3A",
         "stop_name_tc": "維多利亞公園"
     },
@@ -267139,7 +267147,7 @@
         "route": "N307",
         "bound": "I",
         "service_type": "1",
-        "seq": "13",
+        "seq": "14",
         "stop": "328C9939240A94CA",
         "stop_name_tc": "銀幕街"
     },
@@ -267147,7 +267155,7 @@
         "route": "N307",
         "bound": "I",
         "service_type": "1",
-        "seq": "14",
+        "seq": "15",
         "stop": "58C47FBFFF12E65F",
         "stop_name_tc": "七海商業中心"
     },
@@ -267155,7 +267163,7 @@
         "route": "N307",
         "bound": "I",
         "service_type": "1",
-        "seq": "15",
+        "seq": "16",
         "stop": "4AEB8A22E18AB111",
         "stop_name_tc": "電廠街"
     },
@@ -267163,7 +267171,7 @@
         "route": "N307",
         "bound": "I",
         "service_type": "1",
-        "seq": "16",
+        "seq": "17",
         "stop": "AE4423E551C360BF",
         "stop_name_tc": "書局街"
     },
@@ -267171,7 +267179,7 @@
         "route": "N307",
         "bound": "I",
         "service_type": "1",
-        "seq": "17",
+        "seq": "18",
         "stop": "9DE043DB23CEDAA8",
         "stop_name_tc": "港運城"
     },
@@ -267179,7 +267187,7 @@
         "route": "N307",
         "bound": "I",
         "service_type": "1",
-        "seq": "18",
+        "seq": "19",
         "stop": "991E47DBD416B908",
         "stop_name_tc": "東隧轉車站 (LT100)"
     },
@@ -267187,7 +267195,7 @@
         "route": "N307",
         "bound": "I",
         "service_type": "1",
-        "seq": "19",
+        "seq": "20",
         "stop": "9274EF6791CA3ED8",
         "stop_name_tc": "大老山隧道 (ST113)"
     },
@@ -267195,7 +267203,7 @@
         "route": "N307",
         "bound": "I",
         "service_type": "1",
-        "seq": "20",
+        "seq": "21",
         "stop": "CDB292D507E4302D",
         "stop_name_tc": "廣福邨　 (TP267)"
     },
@@ -267203,7 +267211,7 @@
         "route": "N307",
         "bound": "I",
         "service_type": "1",
-        "seq": "21",
+        "seq": "22",
         "stop": "05485C36CA334A81",
         "stop_name_tc": "廣福道轉車站 (TP276)"
     },
@@ -267211,7 +267219,7 @@
         "route": "N307",
         "bound": "I",
         "service_type": "1",
-        "seq": "22",
+        "seq": "23",
         "stop": "530F970BB56D778D",
         "stop_name_tc": "廣福道轉車站 - 寶鄉橋 (TP302)"
     },
@@ -267219,7 +267227,7 @@
         "route": "N307",
         "bound": "I",
         "service_type": "1",
-        "seq": "23",
+        "seq": "24",
         "stop": "6716018C3EE42733",
         "stop_name_tc": "大埔安祥路 (TP311)"
     },
@@ -267227,7 +267235,7 @@
         "route": "N307",
         "bound": "I",
         "service_type": "1",
-        "seq": "24",
+        "seq": "25",
         "stop": "09DFD305F09C558E",
         "stop_name_tc": "大埔中心總站 (TP903)"
     },
@@ -267235,17 +267243,9 @@
         "route": "N307",
         "bound": "I",
         "service_type": "1",
-        "seq": "25",
+        "seq": "26",
         "stop": "1A0BF02F827F6A20",
         "stop_name_tc": "大埔安慈路 (TP742)"
-    },
-    {
-        "route": "N307",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "26",
-        "stop": "9FDEEC09AD1B601B",
-        "stop_name_tc": "太和廣場 (TP335)"
     },
     {
         "route": "N307",
@@ -271652,7 +271652,7 @@
         "bound": "I",
         "service_type": "1",
         "seq": "7",
-        "stop": "255401DABB64289D",
+        "stop": "E74202351AF7F37D",
         "stop_name_tc": "盧押道"
     },
     {
@@ -272500,7 +272500,7 @@
         "bound": "I",
         "service_type": "1",
         "seq": "8",
-        "stop": "60012869923EEE68",
+        "stop": "FA0F3FFF968619F2",
         "stop_name_tc": "軍器廠街"
     },
     {
