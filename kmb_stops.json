@@ -7872,14 +7872,6 @@
         "long": "114.189914"
     },
     {
-        "stop": "255401DABB64289D",
-        "name_en": "LUARD ROAD",
-        "name_tc": "盧押道",
-        "name_sc": "卢押道",
-        "lat": "22.277721",
-        "long": "114.171104"
-    },
-    {
         "stop": "255CE76A95FC1A80",
         "name_en": "CENTRAL FERRY PIER NO.5 (CW127)",
         "name_tc": "中環五號碼頭 (CW127)",
@@ -15118,6 +15110,14 @@
         "name_sc": "积德里 (TA745)",
         "lat": "22.375471",
         "long": "114.177601"
+    },
+    {
+        "stop": "45DD5738BA406D61",
+        "name_en": "ARSENAL STREET",
+        "name_tc": "軍器廠街",
+        "name_sc": "军器厂街",
+        "lat": "22.277826",
+        "long": "114.169465"
     },
     {
         "stop": "45E245505155AFF3",
@@ -44230,6 +44230,14 @@
         "name_sc": "农圃道 (KC188)",
         "lat": "22.320757",
         "long": "114.187457"
+    },
+    {
+        "stop": "D28CA51749C67A3D",
+        "name_en": "LUARD ROAD",
+        "name_tc": "盧押道",
+        "name_sc": "卢押道",
+        "lat": "22.277680",
+        "long": "114.171070"
     },
     {
         "stop": "D28FBFA4FB62E93C",

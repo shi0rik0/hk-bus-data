@@ -12716,17 +12716,6 @@
         "dest_sc": "观塘(翠屏道)"
     },
     {
-        "route": "8A",
-        "bound": "O",
-        "service_type": "1",
-        "orig_en": "WHAMPOA GARDEN",
-        "orig_tc": "黃埔花園",
-        "orig_sc": "黄埔花园",
-        "dest_en": "TSIM SHA TSUI (CIRCULAR)",
-        "dest_tc": "尖沙咀(循環線)",
-        "dest_sc": "尖沙咀(循环线)"
-    },
-    {
         "route": "8P",
         "bound": "O",
         "service_type": "1",
