@@ -137060,6 +137060,104 @@
         "stop": "716A72D0EAAC8738"
     },
     {
+        "route": "67M",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "1",
+        "stop": "92DFA68888DB615D"
+    },
+    {
+        "route": "67M",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "2",
+        "stop": "B491EC8833D9928B"
+    },
+    {
+        "route": "67M",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "3",
+        "stop": "90CFA838B3C95AE0"
+    },
+    {
+        "route": "67M",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "4",
+        "stop": "C2B20556AB5A2C1C"
+    },
+    {
+        "route": "67M",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "5",
+        "stop": "580D52F4D93CAD9B"
+    },
+    {
+        "route": "67M",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "6",
+        "stop": "3199543D3AE70527"
+    },
+    {
+        "route": "67M",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "7",
+        "stop": "F1D1F84A466543BE"
+    },
+    {
+        "route": "67M",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "8",
+        "stop": "AA5DA45828958EAE"
+    },
+    {
+        "route": "67M",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "9",
+        "stop": "876057D899CE09C9"
+    },
+    {
+        "route": "67M",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "10",
+        "stop": "FA553D19AD960A9B"
+    },
+    {
+        "route": "67M",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "11",
+        "stop": "642F7D358D36F715"
+    },
+    {
+        "route": "67M",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "12",
+        "stop": "F269ACD809D1B43E"
+    },
+    {
+        "route": "67M",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "13",
+        "stop": "68354B780EDFC52B"
+    },
+    {
+        "route": "67M",
+        "bound": "O",
+        "service_type": "3",
+        "seq": "14",
+        "stop": "665CE110A84542E9"
+    },
+    {
         "route": "67X",
         "bound": "I",
         "service_type": "1",
