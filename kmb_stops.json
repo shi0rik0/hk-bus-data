@@ -3104,14 +3104,6 @@
         "long": "114.107910"
     },
     {
-        "stop": "0FD15BC4172B0293",
-        "name_en": "WING KEI ROAD",
-        "name_tc": "永基路",
-        "name_sc": "永基路",
-        "lat": "22.359698",
-        "long": "114.118508"
-    },
-    {
         "stop": "0FD6C16477F1F0E8",
         "name_en": "POK OI HOSPITAL",
         "name_tc": "博愛醫院",
@@ -10288,14 +10280,6 @@
         "long": "114.155385"
     },
     {
-        "stop": "30F65FADFFF443A0",
-        "name_en": "WING SHUN STREET",
-        "name_tc": "永順街",
-        "name_sc": "永顺街",
-        "lat": "22.355797",
-        "long": "114.115915"
-    },
-    {
         "stop": "30FEA8A7071EDE48",
         "name_en": "BUTE STREET, PIONEER CENTRE",
         "name_tc": "弼街,始創中心",
@@ -16448,14 +16432,6 @@
         "long": "114.002807"
     },
     {
-        "stop": "4C8FC1FC10581C16",
-        "name_en": "WING SHUN STREET",
-        "name_tc": "永順街",
-        "name_sc": "永顺街",
-        "lat": "22.355761",
-        "long": "114.115834"
-    },
-    {
         "stop": "4C923274E731F539",
         "name_en": "SHAU KEI WAN BUS TERMINUS",
         "name_tc": "筲箕灣巴士總站",
@@ -17014,14 +16990,6 @@
         "name_sc": "荃湾众安街",
         "lat": "22.372327",
         "long": "114.118505"
-    },
-    {
-        "stop": "4FA0B29923179E81",
-        "name_en": "WING KEI ROAD",
-        "name_tc": "永基路",
-        "name_sc": "永基路",
-        "lat": "22.358569",
-        "long": "114.118431"
     },
     {
         "stop": "4FC7150518C5234A",
@@ -23134,14 +23102,6 @@
         "name_sc": "锦龙苑",
         "lat": "22.425830",
         "long": "114.239819"
-    },
-    {
-        "stop": "6BE57F75FCD84DBB",
-        "name_en": "TUNG PO TOR BUS TERMINUS",
-        "name_tc": "東普陀總站",
-        "name_sc": "东普陀总站",
-        "lat": "22.380192",
-        "long": "114.127350"
     },
     {
         "stop": "6BF47953BB775A15",
@@ -37840,14 +37800,6 @@
         "long": "114.228332"
     },
     {
-        "stop": "B32791B3E5EF4287",
-        "name_en": "YUEN YUEN INSTITUTE",
-        "name_tc": "圓玄學院總站",
-        "name_sc": "圆玄学院总站",
-        "lat": "22.383027",
-        "long": "114.122685"
-    },
-    {
         "stop": "B32FA6CD250F0F6B",
         "name_en": "CHING HO ESTATE BUS TERMINUS",
         "name_tc": "清河邨總站",
@@ -40910,14 +40862,6 @@
         "name_sc": "中环渡轮码头",
         "lat": "22.286203",
         "long": "114.159814"
-    },
-    {
-        "stop": "C1FDED1F704DF778",
-        "name_en": "TSUEN WAN CHINESE CEMETERY",
-        "name_tc": "荃灣華人永遠墳場",
-        "name_sc": "荃湾华人永远坟场",
-        "lat": "22.359916",
-        "long": "114.114816"
     },
     {
         "stop": "C20316E552E64387",
@@ -44824,14 +44768,6 @@
         "long": "114.141503"
     },
     {
-        "stop": "D4C5C8BD5FC05C2E",
-        "name_en": "TUNG PO TOR BUS TERMINUS",
-        "name_tc": "東普陀總站",
-        "name_sc": "东普陀总站",
-        "lat": "22.380607",
-        "long": "114.127809"
-    },
-    {
         "stop": "D4CE0ED4DF009B66",
         "name_en": "THE AEGEAN",
         "name_tc": "愛琴灣",
@@ -46550,14 +46486,6 @@
         "name_sc": "亦园村",
         "lat": "22.426912",
         "long": "113.989881"
-    },
-    {
-        "stop": "DC81D1176824125F",
-        "name_en": "TAI TONG",
-        "name_tc": "大棠",
-        "name_sc": "大棠",
-        "lat": "22.413548",
-        "long": "114.027760"
     },
     {
         "stop": "DC825DF01C49316F",
@@ -48760,14 +48688,6 @@
         "long": "114.197038"
     },
     {
-        "stop": "E7A87FB9C7108D6B",
-        "name_en": "WO HOP SHEK",
-        "name_tc": "和合石",
-        "name_sc": "和合石",
-        "lat": "22.482439",
-        "long": "114.143218"
-    },
-    {
         "stop": "E7A8D18CC7046843",
         "name_en": "NGAU CHI WAN BBI-HUNG NGOK HOUSE",
         "name_tc": "牛池灣轉車站-紅萼樓",
@@ -49158,14 +49078,6 @@
         "name_sc": "穗禾苑巴士总站",
         "lat": "22.392830",
         "long": "114.194478"
-    },
-    {
-        "stop": "E9BD263C719AFEC6",
-        "name_en": "WESTERN MONASTERY",
-        "name_tc": "西方寺",
-        "name_sc": "西方寺",
-        "lat": "22.381418",
-        "long": "114.124217"
     },
     {
         "stop": "E9CA5B9AFBBDADBA",
@@ -50230,14 +50142,6 @@
         "name_sc": "长沙湾径",
         "lat": "22.338147",
         "long": "114.151104"
-    },
-    {
-        "stop": "EEBC9C001FC420B8",
-        "name_en": "SHEUNG KOK SHAN ROAD",
-        "name_tc": "上角山路",
-        "name_sc": "上角山路",
-        "lat": "22.381173",
-        "long": "114.124546"
     },
     {
         "stop": "EEBF538FE7455434",
@@ -51816,14 +51720,6 @@
         "long": "114.171600"
     },
     {
-        "stop": "F5C42400BB24BA5B",
-        "name_en": "TSUEN WAN (CASTLE PEAK ROAD)",
-        "name_tc": "荃灣（青山公路）",
-        "name_sc": "荃湾（青山公路）",
-        "lat": "22.372596",
-        "long": "114.117875"
-    },
-    {
         "stop": "F5D2D669376286F9",
         "name_en": "NORTH POINT GOVERNMENT PRIMARY SCHOOL",
         "name_tc": "北角官立小學",
@@ -52238,14 +52134,6 @@
         "name_sc": "平田",
         "lat": "22.308256",
         "long": "114.235432"
-    },
-    {
-        "stop": "F7400DD4FDA0A1A2",
-        "name_en": "TSUEN WAN CHINESE CEMETERY",
-        "name_tc": "荃灣華人永遠墳場",
-        "name_sc": "荃湾华人永远坟场",
-        "lat": "22.360147",
-        "long": "114.114661"
     },
     {
         "stop": "F754AED08F0B6B97",
