@@ -20321,27 +20321,6 @@
         "stop": "D024B008AB77435B"
     },
     {
-        "route": "14S",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "1",
-        "stop": "74CBD919F18ACF61"
-    },
-    {
-        "route": "14S",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "2",
-        "stop": "2F7B146C55B013F8"
-    },
-    {
-        "route": "14S",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "3",
-        "stop": "E0EEA7891A0FCD50"
-    },
-    {
         "route": "14X",
         "bound": "O",
         "service_type": "1",
@@ -72226,251 +72205,6 @@
         "stop": "4E12586C551A48D3"
     },
     {
-        "route": "279S",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "1",
-        "stop": "777B5D8A34B8F690"
-    },
-    {
-        "route": "279S",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "2",
-        "stop": "0E61C7B5C90B8CAF"
-    },
-    {
-        "route": "279S",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "3",
-        "stop": "CE2E93A0D850F21F"
-    },
-    {
-        "route": "279S",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "4",
-        "stop": "8F3D9EAD0B849330"
-    },
-    {
-        "route": "279S",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "5",
-        "stop": "7F8529494720703C"
-    },
-    {
-        "route": "279S",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "6",
-        "stop": "6E22023A7DF1B381"
-    },
-    {
-        "route": "279S",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "7",
-        "stop": "68DE9CB8E6AE046C"
-    },
-    {
-        "route": "279S",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "8",
-        "stop": "D6E7412666B1175B"
-    },
-    {
-        "route": "279S",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "9",
-        "stop": "AB87BD2749FFEACA"
-    },
-    {
-        "route": "279S",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "10",
-        "stop": "43398296F1D1BD48"
-    },
-    {
-        "route": "279S",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "11",
-        "stop": "65D1B50CC2E45985"
-    },
-    {
-        "route": "279S",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "12",
-        "stop": "67F3E54FF145BA65"
-    },
-    {
-        "route": "279S",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "13",
-        "stop": "F93448A5F1168FB1"
-    },
-    {
-        "route": "279S",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "14",
-        "stop": "DFB7FD5832A4BA4E"
-    },
-    {
-        "route": "279S",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "15",
-        "stop": "5C0F112F92069F2B"
-    },
-    {
-        "route": "279S",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "1",
-        "stop": "5C0F112F92069F2B"
-    },
-    {
-        "route": "279S",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "2",
-        "stop": "1A37A52F97A04C81"
-    },
-    {
-        "route": "279S",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "3",
-        "stop": "196A1E44C305C174"
-    },
-    {
-        "route": "279S",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "4",
-        "stop": "13458794A52910B0"
-    },
-    {
-        "route": "279S",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "5",
-        "stop": "67DFAB691BECE339"
-    },
-    {
-        "route": "279S",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "6",
-        "stop": "6D016EBFA090D535"
-    },
-    {
-        "route": "279S",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "7",
-        "stop": "04D3244DD2B38746"
-    },
-    {
-        "route": "279S",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "8",
-        "stop": "59B81980AC8F7878"
-    },
-    {
-        "route": "279S",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "9",
-        "stop": "1FEDF7B1A82A432A"
-    },
-    {
-        "route": "279S",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "10",
-        "stop": "143D7489C808BD46"
-    },
-    {
-        "route": "279S",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "11",
-        "stop": "F4FC91D18962C4D0"
-    },
-    {
-        "route": "279S",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "12",
-        "stop": "624D05A1E7A5A045"
-    },
-    {
-        "route": "279S",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "13",
-        "stop": "716E50EBD1CD72B4"
-    },
-    {
-        "route": "279S",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "14",
-        "stop": "40339B0E8404A2B9"
-    },
-    {
-        "route": "279S",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "15",
-        "stop": "A7E87E8D797D1A52"
-    },
-    {
-        "route": "279S",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "16",
-        "stop": "132584D5CB2235BC"
-    },
-    {
-        "route": "279S",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "17",
-        "stop": "A60AE774B09A5E44"
-    },
-    {
-        "route": "279S",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "18",
-        "stop": "03D5CB9EBB6602B2"
-    },
-    {
-        "route": "279S",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "19",
-        "stop": "C8276DF869656712"
-    },
-    {
-        "route": "279S",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "20",
-        "stop": "777B5D8A34B8F690"
-    },
-    {
         "route": "279X",
         "bound": "I",
         "service_type": "1",
@@ -101640,48 +101374,6 @@
         "stop": "6D1FFB57C26F1108"
     },
     {
-        "route": "3S",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "1",
-        "stop": "046E0C931956561B"
-    },
-    {
-        "route": "3S",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "2",
-        "stop": "88E23CD2F1AB7AF9"
-    },
-    {
-        "route": "3S",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "3",
-        "stop": "63E6DD5119A301AD"
-    },
-    {
-        "route": "3S",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "4",
-        "stop": "0E418F17EB45AC02"
-    },
-    {
-        "route": "3S",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "5",
-        "stop": "AFB03B10416E2199"
-    },
-    {
-        "route": "3S",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "6",
-        "stop": "046E0C931956561B"
-    },
-    {
         "route": "3X",
         "bound": "I",
         "service_type": "1",
@@ -122770,7 +122462,7 @@
         "bound": "I",
         "service_type": "1",
         "seq": "3",
-        "stop": "9DA98A5E3914E2E3"
+        "stop": "16CE9E8D17681839"
     },
     {
         "route": "601",
@@ -123197,7 +122889,7 @@
         "bound": "I",
         "service_type": "1",
         "seq": "7",
-        "stop": "9DA98A5E3914E2E3"
+        "stop": "16CE9E8D17681839"
     },
     {
         "route": "601P",
@@ -130281,7 +129973,7 @@
         "bound": "I",
         "service_type": "1",
         "seq": "7",
-        "stop": "16CE9E8D17681839"
+        "stop": "9DA98A5E3914E2E3"
     },
     {
         "route": "621",
@@ -141194,7 +140886,7 @@
         "bound": "I",
         "service_type": "1",
         "seq": "7",
-        "stop": "16CE9E8D17681839"
+        "stop": "9DA98A5E3914E2E3"
     },
     {
         "route": "690",
@@ -141929,7 +141621,7 @@
         "bound": "I",
         "service_type": "1",
         "seq": "7",
-        "stop": "16CE9E8D17681839"
+        "stop": "9DA98A5E3914E2E3"
     },
     {
         "route": "690S",
@@ -156294,293 +155986,6 @@
         "service_type": "1",
         "seq": "26",
         "stop": "03A082D6B4C517D9"
-    },
-    {
-        "route": "74S",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "1",
-        "stop": "AA5CBDB0758443A9"
-    },
-    {
-        "route": "74S",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "2",
-        "stop": "326199D24220A42B"
-    },
-    {
-        "route": "74S",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "3",
-        "stop": "C847B9021C407731"
-    },
-    {
-        "route": "74S",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "4",
-        "stop": "5536C9E3A0CE1228"
-    },
-    {
-        "route": "74S",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "5",
-        "stop": "96A6FE5F07BDF203"
-    },
-    {
-        "route": "74S",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "6",
-        "stop": "5D1E6432755E4F5F"
-    },
-    {
-        "route": "74S",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "7",
-        "stop": "4A8AAC7402C3F60F"
-    },
-    {
-        "route": "74S",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "8",
-        "stop": "BA03816A38B9DA7F"
-    },
-    {
-        "route": "74S",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "9",
-        "stop": "4BD5CE5106BB0697"
-    },
-    {
-        "route": "74S",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "10",
-        "stop": "6465DE9EE57F6C94"
-    },
-    {
-        "route": "74S",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "11",
-        "stop": "3E73B73B12E25DCF"
-    },
-    {
-        "route": "74S",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "12",
-        "stop": "CF579AAA2A4E506C"
-    },
-    {
-        "route": "74S",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "13",
-        "stop": "0B8C52E4C34E3B64"
-    },
-    {
-        "route": "74S",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "14",
-        "stop": "144E9479168069DD"
-    },
-    {
-        "route": "74S",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "15",
-        "stop": "7459D3AB11AFD6B5"
-    },
-    {
-        "route": "74S",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "16",
-        "stop": "3CB982FBC9E50AAA"
-    },
-    {
-        "route": "74S",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "17",
-        "stop": "F49FA120DE5E6582"
-    },
-    {
-        "route": "74S",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "18",
-        "stop": "23727783D2D3E994"
-    },
-    {
-        "route": "74S",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "19",
-        "stop": "EF17FDCDDF170D38"
-    },
-    {
-        "route": "74S",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "20",
-        "stop": "657899B3C4E4F4A5"
-    },
-    {
-        "route": "74S",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "1",
-        "stop": "657899B3C4E4F4A5"
-    },
-    {
-        "route": "74S",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "2",
-        "stop": "9D676B8892807F9D"
-    },
-    {
-        "route": "74S",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "3",
-        "stop": "6491C7B3E4DAD76D"
-    },
-    {
-        "route": "74S",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "4",
-        "stop": "1107CC28F2631CCB"
-    },
-    {
-        "route": "74S",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "5",
-        "stop": "3EF537320681EE89"
-    },
-    {
-        "route": "74S",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "6",
-        "stop": "2EF9764BE18FC290"
-    },
-    {
-        "route": "74S",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "7",
-        "stop": "5B04604E989BBDF0"
-    },
-    {
-        "route": "74S",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "8",
-        "stop": "F36DEB05146E271D"
-    },
-    {
-        "route": "74S",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "9",
-        "stop": "3CA81FA2944B754D"
-    },
-    {
-        "route": "74S",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "10",
-        "stop": "C9A46DDC082BAEE0"
-    },
-    {
-        "route": "74S",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "11",
-        "stop": "ABF9301D1E5B52ED"
-    },
-    {
-        "route": "74S",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "12",
-        "stop": "266A4CDA19461A42"
-    },
-    {
-        "route": "74S",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "13",
-        "stop": "8C79BE154468AE21"
-    },
-    {
-        "route": "74S",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "14",
-        "stop": "26A996F589C84844"
-    },
-    {
-        "route": "74S",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "15",
-        "stop": "F374B56E275194D8"
-    },
-    {
-        "route": "74S",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "16",
-        "stop": "AD0B5EFA2471962C"
-    },
-    {
-        "route": "74S",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "17",
-        "stop": "E47CD422B33E5BE7"
-    },
-    {
-        "route": "74S",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "18",
-        "stop": "7917BB962CCB11C0"
-    },
-    {
-        "route": "74S",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "19",
-        "stop": "BE4DB8D578A94BEF"
-    },
-    {
-        "route": "74S",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "20",
-        "stop": "EFED59E880B693F5"
-    },
-    {
-        "route": "74S",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "21",
-        "stop": "AA5CBDB0758443A9"
     },
     {
         "route": "74X",
@@ -182886,7 +182291,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "18",
-        "stop": "16CE9E8D17681839"
+        "stop": "85D7313CCE53D396"
     },
     {
         "route": "907C",
@@ -183929,7 +183334,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "21",
-        "stop": "85D7313CCE53D396"
+        "stop": "963B3D16A641736E"
     },
     {
         "route": "914",
@@ -185736,174 +185141,6 @@
         "service_type": "1",
         "seq": "13",
         "stop": "68DF1DA183CDFCF2"
-    },
-    {
-        "route": "91R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "1",
-        "stop": "440AEE375A242B6D"
-    },
-    {
-        "route": "91R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "2",
-        "stop": "55950D2113A80E72"
-    },
-    {
-        "route": "91R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "3",
-        "stop": "31C7E8E4A4626178"
-    },
-    {
-        "route": "91R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "4",
-        "stop": "F7EE3594526686DB"
-    },
-    {
-        "route": "91R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "5",
-        "stop": "80D6E715DA51CA02"
-    },
-    {
-        "route": "91R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "6",
-        "stop": "225FBE9D52AD0ED2"
-    },
-    {
-        "route": "91R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "7",
-        "stop": "2A62A6244F598604"
-    },
-    {
-        "route": "91R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "8",
-        "stop": "0CF0429A4BEE8F4C"
-    },
-    {
-        "route": "91R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "9",
-        "stop": "F937BECF8C53EEF3"
-    },
-    {
-        "route": "91R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "10",
-        "stop": "EA5AF653CB5975F8"
-    },
-    {
-        "route": "91R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "11",
-        "stop": "7BFE214AF3036D86"
-    },
-    {
-        "route": "91R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "12",
-        "stop": "5B4EE863B18FED7D"
-    },
-    {
-        "route": "91R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "13",
-        "stop": "8353D95EF9733231"
-    },
-    {
-        "route": "91R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "14",
-        "stop": "511D1F0A4F2B25C0"
-    },
-    {
-        "route": "91R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "15",
-        "stop": "C9E33E7E7EDAA459"
-    },
-    {
-        "route": "91R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "16",
-        "stop": "5016E25156D72ADA"
-    },
-    {
-        "route": "91R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "17",
-        "stop": "10590D40479607E8"
-    },
-    {
-        "route": "91R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "18",
-        "stop": "54FCA9F5D8F3587E"
-    },
-    {
-        "route": "91R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "19",
-        "stop": "711927A9FAEF1158"
-    },
-    {
-        "route": "91R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "20",
-        "stop": "F09FF6C6349030C6"
-    },
-    {
-        "route": "91R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "21",
-        "stop": "D13C7436B13B4A4B"
-    },
-    {
-        "route": "91R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "22",
-        "stop": "C37E7CF06680272D"
-    },
-    {
-        "route": "91R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "23",
-        "stop": "26F23B1B4A5AB703"
-    },
-    {
-        "route": "91R",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "24",
-        "stop": "938667F4F953DFCA"
     },
     {
         "route": "91S",
@@ -190698,7 +189935,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "24",
-        "stop": "85D7313CCE53D396"
+        "stop": "963B3D16A641736E"
     },
     {
         "route": "948",
@@ -190880,7 +190117,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "21",
-        "stop": "85D7313CCE53D396"
+        "stop": "963B3D16A641736E"
     },
     {
         "route": "948A",
@@ -191041,7 +190278,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "18",
-        "stop": "85D7313CCE53D396"
+        "stop": "963B3D16A641736E"
     },
     {
         "route": "948B",
@@ -191468,7 +190705,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "13",
-        "stop": "85D7313CCE53D396"
+        "stop": "963B3D16A641736E"
     },
     {
         "route": "948P",
@@ -191594,7 +190831,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "13",
-        "stop": "85D7313CCE53D396"
+        "stop": "963B3D16A641736E"
     },
     {
         "route": "948X",
@@ -199546,7 +198783,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "15",
-        "stop": "16CE9E8D17681839"
+        "stop": "85D7313CCE53D396"
     },
     {
         "route": "980X",
@@ -199686,7 +198923,7 @@
         "bound": "O",
         "service_type": "2",
         "seq": "20",
-        "stop": "16CE9E8D17681839"
+        "stop": "85D7313CCE53D396"
     },
     {
         "route": "981P",
@@ -199938,7 +199175,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "18",
-        "stop": "16CE9E8D17681839"
+        "stop": "85D7313CCE53D396"
     },
     {
         "route": "982X",
@@ -200141,7 +199378,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "15",
-        "stop": "16CE9E8D17681839"
+        "stop": "85D7313CCE53D396"
     },
     {
         "route": "982X",
@@ -200246,7 +199483,7 @@
         "bound": "O",
         "service_type": "2",
         "seq": "15",
-        "stop": "16CE9E8D17681839"
+        "stop": "85D7313CCE53D396"
     },
     {
         "route": "985",
@@ -200512,7 +199749,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "20",
-        "stop": "85D7313CCE53D396"
+        "stop": "963B3D16A641736E"
     },
     {
         "route": "985",
@@ -200624,7 +199861,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "14",
-        "stop": "85D7313CCE53D396"
+        "stop": "963B3D16A641736E"
     },
     {
         "route": "985A",
@@ -200736,7 +199973,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "14",
-        "stop": "85D7313CCE53D396"
+        "stop": "963B3D16A641736E"
     },
     {
         "route": "985B",
@@ -206935,118 +206172,6 @@
     },
     {
         "route": "A33X",
-        "bound": "I",
-        "service_type": "4",
-        "seq": "1",
-        "stop": "86218AD69549D7B2"
-    },
-    {
-        "route": "A33X",
-        "bound": "I",
-        "service_type": "4",
-        "seq": "2",
-        "stop": "9C9F817064169CE7"
-    },
-    {
-        "route": "A33X",
-        "bound": "I",
-        "service_type": "4",
-        "seq": "3",
-        "stop": "09C223E13435C61D"
-    },
-    {
-        "route": "A33X",
-        "bound": "I",
-        "service_type": "4",
-        "seq": "4",
-        "stop": "4B5144408E60BF11"
-    },
-    {
-        "route": "A33X",
-        "bound": "I",
-        "service_type": "4",
-        "seq": "5",
-        "stop": "4566E35B3D2C20B5"
-    },
-    {
-        "route": "A33X",
-        "bound": "I",
-        "service_type": "4",
-        "seq": "6",
-        "stop": "5055F6D68F0DD49D"
-    },
-    {
-        "route": "A33X",
-        "bound": "I",
-        "service_type": "4",
-        "seq": "7",
-        "stop": "4D02E857ADDE8AAF"
-    },
-    {
-        "route": "A33X",
-        "bound": "I",
-        "service_type": "4",
-        "seq": "8",
-        "stop": "818F12340BA8CA4B"
-    },
-    {
-        "route": "A33X",
-        "bound": "I",
-        "service_type": "4",
-        "seq": "9",
-        "stop": "571FE1F0FBB26545"
-    },
-    {
-        "route": "A33X",
-        "bound": "I",
-        "service_type": "4",
-        "seq": "10",
-        "stop": "C18A68BBD21DC5A6"
-    },
-    {
-        "route": "A33X",
-        "bound": "I",
-        "service_type": "4",
-        "seq": "11",
-        "stop": "EE1D84187D47C96C"
-    },
-    {
-        "route": "A33X",
-        "bound": "I",
-        "service_type": "4",
-        "seq": "12",
-        "stop": "A8B141D2ED68F7E1"
-    },
-    {
-        "route": "A33X",
-        "bound": "I",
-        "service_type": "4",
-        "seq": "13",
-        "stop": "5A781879E83B56A6"
-    },
-    {
-        "route": "A33X",
-        "bound": "I",
-        "service_type": "4",
-        "seq": "14",
-        "stop": "6B3EF5D982B399E6"
-    },
-    {
-        "route": "A33X",
-        "bound": "I",
-        "service_type": "4",
-        "seq": "15",
-        "stop": "CDE9BBBDE0226995"
-    },
-    {
-        "route": "A33X",
-        "bound": "I",
-        "service_type": "4",
-        "seq": "16",
-        "stop": "CBCE32D56C5263A9"
-    },
-    {
-        "route": "A33X",
         "bound": "O",
         "service_type": "1",
         "seq": "1",
@@ -208776,132 +207901,6 @@
     },
     {
         "route": "A36",
-        "bound": "I",
-        "service_type": "5",
-        "seq": "1",
-        "stop": "B8BAF95E90D6E16E"
-    },
-    {
-        "route": "A36",
-        "bound": "I",
-        "service_type": "5",
-        "seq": "2",
-        "stop": "9C9F817064169CE7"
-    },
-    {
-        "route": "A36",
-        "bound": "I",
-        "service_type": "5",
-        "seq": "3",
-        "stop": "883451BFA586E00E"
-    },
-    {
-        "route": "A36",
-        "bound": "I",
-        "service_type": "5",
-        "seq": "4",
-        "stop": "80818BFC3FE76A5B"
-    },
-    {
-        "route": "A36",
-        "bound": "I",
-        "service_type": "5",
-        "seq": "5",
-        "stop": "D9B82EE66AFF2975"
-    },
-    {
-        "route": "A36",
-        "bound": "I",
-        "service_type": "5",
-        "seq": "6",
-        "stop": "ADD19B88AA8E99DC"
-    },
-    {
-        "route": "A36",
-        "bound": "I",
-        "service_type": "5",
-        "seq": "7",
-        "stop": "00115688D89603F9"
-    },
-    {
-        "route": "A36",
-        "bound": "I",
-        "service_type": "5",
-        "seq": "8",
-        "stop": "6E85D42922E5A10C"
-    },
-    {
-        "route": "A36",
-        "bound": "I",
-        "service_type": "5",
-        "seq": "9",
-        "stop": "D54B0CA58FE5559D"
-    },
-    {
-        "route": "A36",
-        "bound": "I",
-        "service_type": "5",
-        "seq": "10",
-        "stop": "3D566753F149907F"
-    },
-    {
-        "route": "A36",
-        "bound": "I",
-        "service_type": "5",
-        "seq": "11",
-        "stop": "9FB710B737A32C3A"
-    },
-    {
-        "route": "A36",
-        "bound": "I",
-        "service_type": "5",
-        "seq": "12",
-        "stop": "591FA32FB4B53682"
-    },
-    {
-        "route": "A36",
-        "bound": "I",
-        "service_type": "5",
-        "seq": "13",
-        "stop": "C59B16415222709D"
-    },
-    {
-        "route": "A36",
-        "bound": "I",
-        "service_type": "5",
-        "seq": "14",
-        "stop": "88B9BE4ED93A3292"
-    },
-    {
-        "route": "A36",
-        "bound": "I",
-        "service_type": "5",
-        "seq": "15",
-        "stop": "7469F3B24F889F1B"
-    },
-    {
-        "route": "A36",
-        "bound": "I",
-        "service_type": "5",
-        "seq": "16",
-        "stop": "8DBA8FDF35CE7CC0"
-    },
-    {
-        "route": "A36",
-        "bound": "I",
-        "service_type": "5",
-        "seq": "17",
-        "stop": "A4F1BEF1EEAD0910"
-    },
-    {
-        "route": "A36",
-        "bound": "I",
-        "service_type": "5",
-        "seq": "18",
-        "stop": "A7156FD2BD44D128"
-    },
-    {
-        "route": "A36",
         "bound": "O",
         "service_type": "1",
         "seq": "1",
@@ -210584,160 +209583,6 @@
         "route": "A41",
         "bound": "I",
         "service_type": "3",
-        "seq": "22",
-        "stop": "24F7097D1D913EC5"
-    },
-    {
-        "route": "A41",
-        "bound": "I",
-        "service_type": "5",
-        "seq": "1",
-        "stop": "5E1FA939586B3FD1"
-    },
-    {
-        "route": "A41",
-        "bound": "I",
-        "service_type": "5",
-        "seq": "2",
-        "stop": "9C9F817064169CE7"
-    },
-    {
-        "route": "A41",
-        "bound": "I",
-        "service_type": "5",
-        "seq": "3",
-        "stop": "B0851FD6C20D738D"
-    },
-    {
-        "route": "A41",
-        "bound": "I",
-        "service_type": "5",
-        "seq": "4",
-        "stop": "0879D399E5B5FE0C"
-    },
-    {
-        "route": "A41",
-        "bound": "I",
-        "service_type": "5",
-        "seq": "5",
-        "stop": "897B26110ECE76B3"
-    },
-    {
-        "route": "A41",
-        "bound": "I",
-        "service_type": "5",
-        "seq": "6",
-        "stop": "AB52CEC256B299BE"
-    },
-    {
-        "route": "A41",
-        "bound": "I",
-        "service_type": "5",
-        "seq": "7",
-        "stop": "156FFE36D7D42EFE"
-    },
-    {
-        "route": "A41",
-        "bound": "I",
-        "service_type": "5",
-        "seq": "8",
-        "stop": "65F5585B72A99D7F"
-    },
-    {
-        "route": "A41",
-        "bound": "I",
-        "service_type": "5",
-        "seq": "9",
-        "stop": "94BA372E9FDC87C4"
-    },
-    {
-        "route": "A41",
-        "bound": "I",
-        "service_type": "5",
-        "seq": "10",
-        "stop": "A6631CAD2E2DE2A6"
-    },
-    {
-        "route": "A41",
-        "bound": "I",
-        "service_type": "5",
-        "seq": "11",
-        "stop": "84FC122EC64D8885"
-    },
-    {
-        "route": "A41",
-        "bound": "I",
-        "service_type": "5",
-        "seq": "12",
-        "stop": "04EA3349BDD260C8"
-    },
-    {
-        "route": "A41",
-        "bound": "I",
-        "service_type": "5",
-        "seq": "13",
-        "stop": "225D34B4D891AFB1"
-    },
-    {
-        "route": "A41",
-        "bound": "I",
-        "service_type": "5",
-        "seq": "14",
-        "stop": "5F80607D7F73A18B"
-    },
-    {
-        "route": "A41",
-        "bound": "I",
-        "service_type": "5",
-        "seq": "15",
-        "stop": "179D40F1BB78ACDC"
-    },
-    {
-        "route": "A41",
-        "bound": "I",
-        "service_type": "5",
-        "seq": "16",
-        "stop": "467BDDF7A510D52D"
-    },
-    {
-        "route": "A41",
-        "bound": "I",
-        "service_type": "5",
-        "seq": "17",
-        "stop": "1319087BC40F4003"
-    },
-    {
-        "route": "A41",
-        "bound": "I",
-        "service_type": "5",
-        "seq": "18",
-        "stop": "A76720B899F88D03"
-    },
-    {
-        "route": "A41",
-        "bound": "I",
-        "service_type": "5",
-        "seq": "19",
-        "stop": "73F1F8AA0F9077D2"
-    },
-    {
-        "route": "A41",
-        "bound": "I",
-        "service_type": "5",
-        "seq": "20",
-        "stop": "CB0585244877B9B9"
-    },
-    {
-        "route": "A41",
-        "bound": "I",
-        "service_type": "5",
-        "seq": "21",
-        "stop": "02CF8D1FE31E9A09"
-    },
-    {
-        "route": "A41",
-        "bound": "I",
-        "service_type": "5",
         "seq": "22",
         "stop": "24F7097D1D913EC5"
     },
@@ -215209,34 +214054,6 @@
     },
     {
         "route": "B10",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "4",
-        "stop": "C9A6689E84F83D1A"
-    },
-    {
-        "route": "B10S",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "1",
-        "stop": "376B94FDBA371A25"
-    },
-    {
-        "route": "B10S",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "2",
-        "stop": "9E42D981C59B5762"
-    },
-    {
-        "route": "B10S",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "3",
-        "stop": "E16B85415973C1A2"
-    },
-    {
-        "route": "B10S",
         "bound": "O",
         "service_type": "1",
         "seq": "4",
@@ -223004,202 +221821,6 @@
         "service_type": "2",
         "seq": "12",
         "stop": "E2BFABFEB23808BD"
-    },
-    {
-        "route": "N116",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "1",
-        "stop": "616738F21326814A"
-    },
-    {
-        "route": "N116",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "2",
-        "stop": "38D2BF58A38ADCA0"
-    },
-    {
-        "route": "N116",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "3",
-        "stop": "F8365ACAC0B85C65"
-    },
-    {
-        "route": "N116",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "4",
-        "stop": "A3B9F3D6B2668DE3"
-    },
-    {
-        "route": "N116",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "5",
-        "stop": "6CAA11E0FD871B20"
-    },
-    {
-        "route": "N116",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "6",
-        "stop": "3E29AD52CE8C9255"
-    },
-    {
-        "route": "N116",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "7",
-        "stop": "184C33F0F1EF7379"
-    },
-    {
-        "route": "N116",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "8",
-        "stop": "469644E45027A992"
-    },
-    {
-        "route": "N116",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "9",
-        "stop": "11B2034DDF30617A"
-    },
-    {
-        "route": "N116",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "10",
-        "stop": "33033960343A57A8"
-    },
-    {
-        "route": "N116",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "11",
-        "stop": "F6A446C66F7F805E"
-    },
-    {
-        "route": "N116",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "12",
-        "stop": "35CD2E3911AEA038"
-    },
-    {
-        "route": "N116",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "13",
-        "stop": "C847FC07707BC068"
-    },
-    {
-        "route": "N116",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "14",
-        "stop": "AA62C03711F778F2"
-    },
-    {
-        "route": "N116",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "15",
-        "stop": "2F7C67769B9FB896"
-    },
-    {
-        "route": "N116",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "16",
-        "stop": "7F25B423230F5BEE"
-    },
-    {
-        "route": "N116",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "17",
-        "stop": "CFCA63CAF4C25D2B"
-    },
-    {
-        "route": "N116",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "18",
-        "stop": "D446D1EA79502BF2"
-    },
-    {
-        "route": "N116",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "19",
-        "stop": "E7A17EFD6E7435AF"
-    },
-    {
-        "route": "N116",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "20",
-        "stop": "138A71694F5A3451"
-    },
-    {
-        "route": "N116",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "21",
-        "stop": "DB6981B82045B45C"
-    },
-    {
-        "route": "N116",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "22",
-        "stop": "ACE23D880D07ABB1"
-    },
-    {
-        "route": "N116",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "23",
-        "stop": "1DA57A1376E99AC6"
-    },
-    {
-        "route": "N116",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "24",
-        "stop": "964AA1DCAAD06512"
-    },
-    {
-        "route": "N116",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "25",
-        "stop": "D237B30F94B6065D"
-    },
-    {
-        "route": "N116",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "26",
-        "stop": "7D025E77F4B35266"
-    },
-    {
-        "route": "N116",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "27",
-        "stop": "EE3B5ABCB87027E7"
-    },
-    {
-        "route": "N116",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "28",
-        "stop": "57C138647A7F8CEF"
     },
     {
         "route": "N118",
@@ -236831,153 +235452,6 @@
         "stop": "E2BB3825832556CA"
     },
     {
-        "route": "N43",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "1",
-        "stop": "520D0D5DB7FAB41C"
-    },
-    {
-        "route": "N43",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "2",
-        "stop": "92A8281D80524F78"
-    },
-    {
-        "route": "N43",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "3",
-        "stop": "CDEB07C7C0841D5B"
-    },
-    {
-        "route": "N43",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "4",
-        "stop": "F9F75324B8F1D7E3"
-    },
-    {
-        "route": "N43",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "5",
-        "stop": "FE90421D0B82E691"
-    },
-    {
-        "route": "N43",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "6",
-        "stop": "F9F4E00007242BED"
-    },
-    {
-        "route": "N43",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "7",
-        "stop": "4E870B220826BEE0"
-    },
-    {
-        "route": "N43",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "8",
-        "stop": "5AD2A4D21C226335"
-    },
-    {
-        "route": "N43",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "9",
-        "stop": "A454170B2B59B587"
-    },
-    {
-        "route": "N43",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "10",
-        "stop": "D6E7412666B1175B"
-    },
-    {
-        "route": "N43",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "11",
-        "stop": "21A1859E80CD542A"
-    },
-    {
-        "route": "N43",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "12",
-        "stop": "6DF1AF2871D4B7D9"
-    },
-    {
-        "route": "N43",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "13",
-        "stop": "5B5107DB7CE969DE"
-    },
-    {
-        "route": "N43",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "14",
-        "stop": "333E9F98EEB84849"
-    },
-    {
-        "route": "N43",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "15",
-        "stop": "196A1E44C305C174"
-    },
-    {
-        "route": "N43",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "16",
-        "stop": "BDE0F1679E1C8ABF"
-    },
-    {
-        "route": "N43",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "17",
-        "stop": "13458794A52910B0"
-    },
-    {
-        "route": "N43",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "18",
-        "stop": "3F13933D0157CFCF"
-    },
-    {
-        "route": "N43",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "19",
-        "stop": "A2BE47AFF20CD4F6"
-    },
-    {
-        "route": "N43",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "20",
-        "stop": "CC6B75E6D60B4C57"
-    },
-    {
-        "route": "N43",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "21",
-        "stop": "79842A7E2FC0844F"
-    },
-    {
         "route": "N48",
         "bound": "I",
         "service_type": "1",
@@ -245399,377 +243873,6 @@
         "stop": "E4415E645A9914EF"
     },
     {
-        "route": "R108",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "1",
-        "stop": "0718DE53C1C84496"
-    },
-    {
-        "route": "R108",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "2",
-        "stop": "AC4EEE801BB9133C"
-    },
-    {
-        "route": "R108",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "3",
-        "stop": "5CD6A0A0CE6B53B6"
-    },
-    {
-        "route": "R108",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "4",
-        "stop": "32A2D05A195364DC"
-    },
-    {
-        "route": "R108",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "5",
-        "stop": "C1C31D615DAA97F4"
-    },
-    {
-        "route": "R108",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "6",
-        "stop": "A4601C77EB896E30"
-    },
-    {
-        "route": "R108",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "7",
-        "stop": "E207DBF95EA7DE26"
-    },
-    {
-        "route": "R108",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "8",
-        "stop": "C71093B5185DF735"
-    },
-    {
-        "route": "R108",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "9",
-        "stop": "C80FB453C9F53569"
-    },
-    {
-        "route": "R108",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "10",
-        "stop": "8BB1DE68DB8316D3"
-    },
-    {
-        "route": "R108",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "11",
-        "stop": "AE4D7869B643DAA2"
-    },
-    {
-        "route": "R108",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "12",
-        "stop": "AE2A53D953B640BE"
-    },
-    {
-        "route": "R108",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "13",
-        "stop": "E798CB4E2C777782"
-    },
-    {
-        "route": "R108",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "14",
-        "stop": "6E8CB58283AF3CB1"
-    },
-    {
-        "route": "R108",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "15",
-        "stop": "9CFB5F7232818FFA"
-    },
-    {
-        "route": "R108",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "16",
-        "stop": "A06590AD808DC9A9"
-    },
-    {
-        "route": "R108",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "17",
-        "stop": "06C9926B2E2B304F"
-    },
-    {
-        "route": "R108",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "18",
-        "stop": "76B4054F2E1F00B0"
-    },
-    {
-        "route": "R108",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "19",
-        "stop": "DF901EF2F9A46F7B"
-    },
-    {
-        "route": "R215",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "1",
-        "stop": "215D99B3E2A5F8DD"
-    },
-    {
-        "route": "R215",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "2",
-        "stop": "736E84A8060D2AB9"
-    },
-    {
-        "route": "R215",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "3",
-        "stop": "CB4B52222877C32F"
-    },
-    {
-        "route": "R215",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "4",
-        "stop": "6B9496267BEFF02A"
-    },
-    {
-        "route": "R215",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "5",
-        "stop": "5ACB622335DF5AE7"
-    },
-    {
-        "route": "R215",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "6",
-        "stop": "B7082198F517B1E8"
-    },
-    {
-        "route": "R215",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "7",
-        "stop": "1FBAAE29AF1CA50E"
-    },
-    {
-        "route": "R215",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "8",
-        "stop": "AA52228890817D12"
-    },
-    {
-        "route": "R215",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "9",
-        "stop": "6410DDEFBBD17426"
-    },
-    {
-        "route": "R215",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "10",
-        "stop": "A6A1C99BF11EE56C"
-    },
-    {
-        "route": "R215",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "11",
-        "stop": "EC1E1868D370F3D9"
-    },
-    {
-        "route": "R215",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "12",
-        "stop": "057B2DCE8BE58FFA"
-    },
-    {
-        "route": "R215",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "13",
-        "stop": "8CA39D263F36C070"
-    },
-    {
-        "route": "R215",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "14",
-        "stop": "EA2CFF27310EAEC3"
-    },
-    {
-        "route": "R215",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "15",
-        "stop": "93084A14AE624C6F"
-    },
-    {
-        "route": "R215",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "16",
-        "stop": "D17050E8964504BB"
-    },
-    {
-        "route": "R215",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "17",
-        "stop": "04DDF4F7F1C74876"
-    },
-    {
-        "route": "R215",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "18",
-        "stop": "D6F16850DA906373"
-    },
-    {
-        "route": "R215",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "19",
-        "stop": "2BB6115BF9346B34"
-    },
-    {
-        "route": "R215",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "20",
-        "stop": "6765DD696FA8BF8D"
-    },
-    {
-        "route": "R215",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "21",
-        "stop": "0CA3C6C38D2F3F75"
-    },
-    {
-        "route": "R215",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "22",
-        "stop": "FAF9EF8853A3B65E"
-    },
-    {
-        "route": "R215",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "23",
-        "stop": "EDFC39232C98E301"
-    },
-    {
-        "route": "R215",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "24",
-        "stop": "9D431DF484149B75"
-    },
-    {
-        "route": "R215",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "25",
-        "stop": "3E54E8AF4083B065"
-    },
-    {
-        "route": "R215",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "26",
-        "stop": "3F4B54625D1F9E48"
-    },
-    {
-        "route": "R215",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "27",
-        "stop": "F663E12DC37F3C5A"
-    },
-    {
-        "route": "R215",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "28",
-        "stop": "D2B43459063F53DB"
-    },
-    {
-        "route": "R215",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "29",
-        "stop": "7995F69FE44D0DB3"
-    },
-    {
-        "route": "R215",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "30",
-        "stop": "F90ED764C7A95649"
-    },
-    {
-        "route": "R215",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "31",
-        "stop": "041DFA7A1729D20C"
-    },
-    {
-        "route": "R215",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "32",
-        "stop": "558599642E78BB9B"
-    },
-    {
-        "route": "R215",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "33",
-        "stop": "BEEBDDB542A7E709"
-    },
-    {
-        "route": "R215",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "34",
-        "stop": "48184733EFE9D3E3"
-    },
-    {
         "route": "R298",
         "bound": "O",
         "service_type": "1",
@@ -246370,230 +244473,6 @@
         "service_type": "1",
         "seq": "13",
         "stop": "B49F719CC4A8BD7E"
-    },
-    {
-        "route": "R603",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "1",
-        "stop": "FBE07247C3FDB904"
-    },
-    {
-        "route": "R603",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "2",
-        "stop": "EC1E1868D370F3D9"
-    },
-    {
-        "route": "R603",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "3",
-        "stop": "057B2DCE8BE58FFA"
-    },
-    {
-        "route": "R603",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "4",
-        "stop": "4A91A327C9FC745E"
-    },
-    {
-        "route": "R603",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "5",
-        "stop": "EA2CFF27310EAEC3"
-    },
-    {
-        "route": "R603",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "6",
-        "stop": "3C0AF6BA82588E2F"
-    },
-    {
-        "route": "R603",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "7",
-        "stop": "F8DEE1D5F9A349AD"
-    },
-    {
-        "route": "R603",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "8",
-        "stop": "4A14A012710E80B1"
-    },
-    {
-        "route": "R603",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "9",
-        "stop": "3216F11DA45B80D7"
-    },
-    {
-        "route": "R603",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "10",
-        "stop": "6F106FD26B684372"
-    },
-    {
-        "route": "R603",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "11",
-        "stop": "26305AF62FBEE2BC"
-    },
-    {
-        "route": "R603",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "12",
-        "stop": "D83C4CC1305E35E9"
-    },
-    {
-        "route": "R603",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "13",
-        "stop": "13A8D09F9E444BF3"
-    },
-    {
-        "route": "R603",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "14",
-        "stop": "EF17FDCDDF170D38"
-    },
-    {
-        "route": "R603",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "15",
-        "stop": "FDB7C76323B22686"
-    },
-    {
-        "route": "R603",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "16",
-        "stop": "9D676B8892807F9D"
-    },
-    {
-        "route": "R603",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "17",
-        "stop": "1472CA699A47EE46"
-    },
-    {
-        "route": "R603",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "18",
-        "stop": "3144CE950CE29C80"
-    },
-    {
-        "route": "R603",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "19",
-        "stop": "543FD8B6C65D1C4C"
-    },
-    {
-        "route": "R603",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "20",
-        "stop": "316BB2C947568585"
-    },
-    {
-        "route": "R603",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "21",
-        "stop": "3E862B92873F5811"
-    },
-    {
-        "route": "R603",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "22",
-        "stop": "57A0D4D6D4D57497"
-    },
-    {
-        "route": "R603",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "23",
-        "stop": "0F9D050D4229C0F7"
-    },
-    {
-        "route": "R603",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "24",
-        "stop": "19171A194D7507D5"
-    },
-    {
-        "route": "R603",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "25",
-        "stop": "F60CC440E22B0BD9"
-    },
-    {
-        "route": "R603",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "26",
-        "stop": "3C6DAB7267F9E54F"
-    },
-    {
-        "route": "R603",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "27",
-        "stop": "73E85E88E124EF2C"
-    },
-    {
-        "route": "R603",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "28",
-        "stop": "6C6B36F7550907CE"
-    },
-    {
-        "route": "R603",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "29",
-        "stop": "FF6E49051D6D9A8C"
-    },
-    {
-        "route": "R603",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "30",
-        "stop": "06C9926B2E2B304F"
-    },
-    {
-        "route": "R603",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "31",
-        "stop": "76B4054F2E1F00B0"
-    },
-    {
-        "route": "R603",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "32",
-        "stop": "DF901EF2F9A46F7B"
     },
     {
         "route": "R8",
@@ -253181,82 +251060,5 @@
         "service_type": "2",
         "seq": "15",
         "stop": "BF8E440F5584D39D"
-    },
-    {
-        "route": "X90",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "1",
-        "stop": "5536C9E3A0CE1228"
-    },
-    {
-        "route": "X90",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "2",
-        "stop": "D0F8772D043C207E"
-    },
-    {
-        "route": "X90",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "3",
-        "stop": "C057639478BE0168"
-    },
-    {
-        "route": "X90",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "4",
-        "stop": "14CF94DF66FCD0C8"
-    },
-    {
-        "route": "X90",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "5",
-        "stop": "97D1981DE7ECBCE7"
-    },
-    {
-        "route": "X90",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "6",
-        "stop": "CC2353289CD0EE66"
-    },
-    {
-        "route": "X90",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "1",
-        "stop": "CC2353289CD0EE66"
-    },
-    {
-        "route": "X90",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "2",
-        "stop": "E0BAA3364D0CE860"
-    },
-    {
-        "route": "X90",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "3",
-        "stop": "179C182ADEF1070D"
-    },
-    {
-        "route": "X90",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "4",
-        "stop": "D45CEDE6A9DFA30B"
-    },
-    {
-        "route": "X90",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "5",
-        "stop": "58584BC1AC41723C"
     }
 ]

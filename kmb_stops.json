@@ -840,14 +840,6 @@
         "long": "114.163177"
     },
     {
-        "stop": "046E0C931956561B",
-        "name_en": "DIAMOND HILL STATION (LUNG POON STREET)",
-        "name_tc": "鑽石山站(龍蟠街)",
-        "name_sc": "钻石山站(龙蟠街)",
-        "lat": "22.341459",
-        "long": "114.201054"
-    },
-    {
         "stop": "048A87496B30B946",
         "name_en": "O'BRIEN ROAD",
         "name_tc": "柯布連道",
@@ -2734,14 +2726,6 @@
         "name_sc": "光板田村一段",
         "lat": "22.379484",
         "long": "114.112715"
-    },
-    {
-        "stop": "0E418F17EB45AC02",
-        "name_en": "FU SHAN ESTATE BUS TERMINUS",
-        "name_tc": "富山邨總站",
-        "name_sc": "富山邨总站",
-        "lat": "22.343649",
-        "long": "114.207982"
     },
     {
         "stop": "0E41E02CD9055626",
@@ -9894,14 +9878,6 @@
         "name_sc": "宝田转车站 - 宝田",
         "lat": "22.409510",
         "long": "113.967056"
-    },
-    {
-        "stop": "2F7B146C55B013F8",
-        "name_en": "TSEUNG KWAN O CHINESE PERMANENT CEMETERY",
-        "name_tc": "將軍澳華人永遠墳場",
-        "name_sc": "将军澳华人永远坟场",
-        "lat": "22.292200",
-        "long": "114.245333"
     },
     {
         "stop": "2F7C67769B9FB896",
@@ -24952,14 +24928,6 @@
         "long": "114.211197"
     },
     {
-        "stop": "74CBD919F18ACF61",
-        "name_en": "YAU TONG (LEI YUE MUN ROAD)",
-        "name_tc": "油塘(鯉魚門道)",
-        "name_sc": "油塘(鲤鱼门道)",
-        "lat": "22.299800",
-        "long": "114.238709"
-    },
-    {
         "stop": "74EE2ECB1A3773E9",
         "name_en": "LI YUEN STREET EAST",
         "name_tc": "利源東街",
@@ -25462,14 +25430,6 @@
         "name_sc": "菁田邨",
         "lat": "22.413165",
         "long": "113.972357"
-    },
-    {
-        "stop": "777B5D8A34B8F690",
-        "name_en": "WO HOP SHEK",
-        "name_tc": "和合石",
-        "name_sc": "和合石",
-        "lat": "22.482439",
-        "long": "114.143218"
     },
     {
         "stop": "777ED0B1F3CF10DD",
@@ -31608,6 +31568,14 @@
         "long": "114.169112"
     },
     {
+        "stop": "963B3D16A641736E",
+        "name_en": "FLEMING ROAD",
+        "name_tc": "菲林明道",
+        "name_sc": "菲林明道",
+        "lat": "22.277777",
+        "long": "114.173578"
+    },
+    {
         "stop": "96442B84082D4DF5",
         "name_en": "WING SING LANE YAU MA TEI",
         "name_tc": "油麻地永星里",
@@ -36054,14 +36022,6 @@
         "name_sc": "显发邨",
         "lat": "22.388879",
         "long": "113.980485"
-    },
-    {
-        "stop": "AA5CBDB0758443A9",
-        "name_en": "WO HOP SHEK",
-        "name_tc": "和合石",
-        "name_sc": "和合石",
-        "lat": "22.482439",
-        "long": "114.143218"
     },
     {
         "stop": "AA5DA45828958EAE",
@@ -41214,14 +41174,6 @@
         "name_sc": "跑马地马场",
         "lat": "22.275225",
         "long": "114.180385"
-    },
-    {
-        "stop": "C37E7CF06680272D",
-        "name_en": "CHUI LING ROAD",
-        "name_tc": "翠嶺路",
-        "name_sc": "翠岭路",
-        "lat": "22.304726",
-        "long": "114.253849"
     },
     {
         "stop": "C39037A588387F32",
@@ -47222,14 +47174,6 @@
         "name_sc": "豪园",
         "lat": "22.278129",
         "long": "114.190444"
-    },
-    {
-        "stop": "E0EEA7891A0FCD50",
-        "name_en": "YAU TONG (KO CHIU ROAD)",
-        "name_tc": "油塘(高超道)",
-        "name_sc": "油塘(高超道)",
-        "lat": "22.295250",
-        "long": "114.240333"
     },
     {
         "stop": "E105131B41FBAF33",

@@ -1210,17 +1210,6 @@
         "dest_sc": "顺利(循环线)"
     },
     {
-        "route": "14S",
-        "bound": "O",
-        "service_type": "1",
-        "orig_en": "YAU TONG (LEI YUE MUN ROAD)",
-        "orig_tc": "油塘(鯉魚門道)",
-        "orig_sc": "油塘(鲤鱼门道)",
-        "dest_en": "TSEUNG KWAN O CHINESE PERMANENT CEMETERY(CIRCULAR)",
-        "dest_tc": "將軍澳墳場(循環線)",
-        "dest_sc": "将军澳坟场(循环线)"
-    },
-    {
         "route": "14X",
         "bound": "O",
         "service_type": "1",
@@ -4972,28 +4961,6 @@
         "dest_sc": "葵兴站"
     },
     {
-        "route": "279S",
-        "bound": "I",
-        "service_type": "1",
-        "orig_en": "WO HOP SHEK",
-        "orig_tc": "和合石",
-        "orig_sc": "和合石",
-        "dest_en": "TSING YI (CHEUNG CHING ESTATE)",
-        "dest_tc": "青衣(長青邨)",
-        "dest_sc": "青衣(长青邨)"
-    },
-    {
-        "route": "279S",
-        "bound": "O",
-        "service_type": "1",
-        "orig_en": "TSING YI (CHEUNG CHING ESTATE)",
-        "orig_tc": "青衣(長青邨)",
-        "orig_sc": "青衣(长青邨)",
-        "dest_en": "WO HOP SHEK",
-        "dest_tc": "和合石",
-        "dest_sc": "和合石"
-    },
-    {
         "route": "279X",
         "bound": "I",
         "service_type": "1",
@@ -7104,17 +7071,6 @@
         "dest_en": "CHOI WAN",
         "dest_tc": "彩雲",
         "dest_sc": "彩云"
-    },
-    {
-        "route": "3S",
-        "bound": "O",
-        "service_type": "1",
-        "orig_en": "DIAMOND HILL STATION",
-        "orig_tc": "鑽石山站",
-        "orig_sc": "钻石山站",
-        "dest_en": "DIAMOND HILL CEMETERY (CIRCULAR)",
-        "dest_tc": "鑽石山墳場(循環線)",
-        "dest_sc": "钻石山坟场(循环线)"
     },
     {
         "route": "3X",
@@ -10747,28 +10703,6 @@
         "dest_sc": "北潭涌"
     },
     {
-        "route": "74S",
-        "bound": "I",
-        "service_type": "1",
-        "orig_en": "WO HOP SHEK",
-        "orig_tc": "和合石",
-        "orig_sc": "和合石",
-        "dest_en": "PING TIN",
-        "dest_tc": "平田",
-        "dest_sc": "平田"
-    },
-    {
-        "route": "74S",
-        "bound": "O",
-        "service_type": "1",
-        "orig_en": "PING TIN",
-        "orig_tc": "平田",
-        "orig_sc": "平田",
-        "dest_en": "WO HOP SHEK",
-        "dest_tc": "和合石",
-        "dest_sc": "和合石"
-    },
-    {
         "route": "74X",
         "bound": "I",
         "service_type": "1",
@@ -12991,17 +12925,6 @@
         "dest_sc": "香港科技大学"
     },
     {
-        "route": "91R",
-        "bound": "O",
-        "service_type": "1",
-        "orig_en": "CLEAR WATER BAY",
-        "orig_tc": "清水灣",
-        "orig_sc": "清水湾",
-        "dest_en": "TSEUNG KWAN O (CHOI MING)",
-        "dest_tc": "將軍澳(彩明)",
-        "dest_sc": "将军澳(彩明)"
-    },
-    {
         "route": "91S",
         "bound": "O",
         "service_type": "1",
@@ -14433,17 +14356,6 @@
     },
     {
         "route": "A33X",
-        "bound": "I",
-        "service_type": "4",
-        "orig_en": "AIRPORT (GROUND TRANSPORTATION CENTRE)",
-        "orig_tc": "機場(地面運輸中心)",
-        "orig_sc": "机场(地面运输中心)",
-        "dest_en": "TUEN MUN (FU TAI ESTATE)",
-        "dest_tc": "屯門(富泰邨)",
-        "dest_sc": "屯门(富泰邨)"
-    },
-    {
-        "route": "A33X",
         "bound": "O",
         "service_type": "1",
         "orig_en": "TUEN MUN (FU TAI ESTATE)",
@@ -14545,17 +14457,6 @@
         "route": "A36",
         "bound": "I",
         "service_type": "3",
-        "orig_en": "AIRPORT (GROUND TRANSPORTATION CENTRE)",
-        "orig_tc": "機場(地面運輸中心)",
-        "orig_sc": "机场(地面运输中心)",
-        "dest_en": "KAM SHEUNG ROAD STATION",
-        "dest_tc": "錦上路站",
-        "dest_sc": "锦上路站"
-    },
-    {
-        "route": "A36",
-        "bound": "I",
-        "service_type": "5",
         "orig_en": "AIRPORT (GROUND TRANSPORTATION CENTRE)",
         "orig_tc": "機場(地面運輸中心)",
         "orig_sc": "机场(地面运输中心)",
@@ -14677,17 +14578,6 @@
         "route": "A41",
         "bound": "I",
         "service_type": "3",
-        "orig_en": "AIRPORT (GROUND TRANSPORTATION CENTRE)",
-        "orig_tc": "機場(地面運輸中心)",
-        "orig_sc": "机场(地面运输中心)",
-        "dest_en": "SHEK MUN ESTATE",
-        "dest_tc": "碩門邨",
-        "dest_sc": "硕门邨"
-    },
-    {
-        "route": "A41",
-        "bound": "I",
-        "service_type": "5",
         "orig_en": "AIRPORT (GROUND TRANSPORTATION CENTRE)",
         "orig_tc": "機場(地面運輸中心)",
         "orig_sc": "机场(地面运输中心)",
@@ -15049,17 +14939,6 @@
     },
     {
         "route": "B10",
-        "bound": "O",
-        "service_type": "1",
-        "orig_en": "KWAI FONG (KWAI TSUI ESTATE)",
-        "orig_tc": "葵芳(葵翠邨)",
-        "orig_sc": "葵芳(葵翠邨)",
-        "dest_en": "HUANGGANG PORT",
-        "dest_tc": "皇崗口岸",
-        "dest_sc": "皇岗口岸"
-    },
-    {
-        "route": "B10S",
         "bound": "O",
         "service_type": "1",
         "orig_en": "KWAI FONG (KWAI TSUI ESTATE)",
@@ -15653,17 +15532,6 @@
         "dest_sc": "[九巴游香港] 尖沙咀及旺角"
     },
     {
-        "route": "N116",
-        "bound": "O",
-        "service_type": "1",
-        "orig_en": "NORTH POINT",
-        "orig_tc": "北角",
-        "orig_sc": "北角",
-        "dest_en": "TSZ WAN SHAN (CENTRAL)",
-        "dest_tc": "慈雲山(中)",
-        "dest_sc": "慈云山(中)"
-    },
-    {
         "route": "N118",
         "bound": "I",
         "service_type": "1",
@@ -16245,17 +16113,6 @@
         "dest_en": "TUNG CHUNG STATION",
         "dest_tc": "東涌站",
         "dest_sc": "东涌站"
-    },
-    {
-        "route": "N43",
-        "bound": "O",
-        "service_type": "1",
-        "orig_en": "TSUEN WAN STATION",
-        "orig_tc": "荃灣站",
-        "orig_sc": "荃湾站",
-        "dest_en": "TSING YI (CHEUNG WANG ESTATE)",
-        "dest_tc": "青衣(長宏邨)",
-        "dest_sc": "青衣(长宏邨)"
     },
     {
         "route": "N48",
@@ -16841,28 +16698,6 @@
         "dest_sc": "愉景广场"
     },
     {
-        "route": "R108",
-        "bound": "O",
-        "service_type": "1",
-        "orig_en": "KAI YIP",
-        "orig_tc": "啟業",
-        "orig_sc": "启业",
-        "dest_en": "CAUSEWAY BAY (VICTORIA PARK)",
-        "dest_tc": "銅鑼灣(維多利亞公園)",
-        "dest_sc": "铜锣湾(维多利亚公园)"
-    },
-    {
-        "route": "R215",
-        "bound": "O",
-        "service_type": "1",
-        "orig_en": "LAM TIN (KWONG TIN ESTATE)",
-        "orig_tc": "藍田(廣田邨)",
-        "orig_sc": "蓝田(广田邨)",
-        "dest_en": "TSIM SHA TSUI EAST (MODY ROAD)",
-        "dest_tc": "尖東麼地道",
-        "dest_sc": "尖东么地道"
-    },
-    {
         "route": "R298",
         "bound": "O",
         "service_type": "1",
@@ -16938,17 +16773,6 @@
         "dest_en": "TAI WAI STATION",
         "dest_tc": "大圍站",
         "dest_sc": "大围站"
-    },
-    {
-        "route": "R603",
-        "bound": "O",
-        "service_type": "1",
-        "orig_en": "ON TAI (WEST)",
-        "orig_tc": "安泰(西)",
-        "orig_sc": "安泰(西)",
-        "dest_en": "CAUSEWAY BAY (VICTORIA PARK)",
-        "dest_tc": "銅鑼灣(維多利亞公園)",
-        "dest_sc": "铜锣湾(维多利亚公园)"
     },
     {
         "route": "R8",
@@ -17477,27 +17301,5 @@
         "dest_en": "KWUN TONG FERRY",
         "dest_tc": "觀塘碼頭",
         "dest_sc": "观塘码头"
-    },
-    {
-        "route": "X90",
-        "bound": "I",
-        "service_type": "1",
-        "orig_en": "WONG TAI SIN STATION",
-        "orig_tc": "黃大仙站",
-        "orig_sc": "黄大仙站",
-        "dest_en": "FIRE AND AMBULANCE SERVICES ACADEMY",
-        "dest_tc": "消防及救護學院",
-        "dest_sc": "消防及救护学院"
-    },
-    {
-        "route": "X90",
-        "bound": "O",
-        "service_type": "1",
-        "orig_en": "FIRE AND AMBULANCE SERVICES ACADEMY",
-        "orig_tc": "消防及救護學院",
-        "orig_sc": "消防及救护学院",
-        "dest_en": "HUNG NGOK HOUSE",
-        "dest_tc": "紅萼樓",
-        "dest_sc": "红萼楼"
     }
 ]
