@@ -17880,14 +17880,6 @@
         "long": "114.143070"
     },
     {
-        "stop": "53C49B85EBFF8AAE",
-        "name_en": "WANG FUK COURT",
-        "name_tc": "宏福苑",
-        "name_sc": "宏福苑",
-        "lat": "22.447412",
-        "long": "114.174860"
-    },
-    {
         "stop": "53CB550BC9E1B80C",
         "name_en": "CHAK ON ESTATE BUS TERMINUS",
         "name_tc": "澤安邨巴士總站",
@@ -20374,14 +20366,6 @@
         "name_sc": "富怡花园",
         "lat": "22.262500",
         "long": "114.250280"
-    },
-    {
-        "stop": "5FA8B50329B85F1A",
-        "name_en": "KWONG FUK MARKET",
-        "name_tc": "廣福街市",
-        "name_sc": "广福街市",
-        "lat": "22.448725",
-        "long": "114.174689"
     },
     {
         "stop": "5FB1FCAF80F3D97D",
@@ -38000,14 +37984,6 @@
         "long": "114.159234"
     },
     {
-        "stop": "B4721B39CC29C634",
-        "name_en": "TAI PO MARKET STATION BUS TERMINUS",
-        "name_tc": "大埔墟站巴士總站",
-        "name_sc": "大埔墟站巴士总站",
-        "lat": "22.443832",
-        "long": "114.169137"
-    },
-    {
         "stop": "B473A39CEDD5069D",
         "name_en": "CHUNG UK TSUEN",
         "name_tc": "鍾屋村",
@@ -38350,14 +38326,6 @@
         "name_sc": "崇光百货",
         "lat": "22.280249",
         "long": "114.183934"
-    },
-    {
-        "stop": "B631B9B1C61F6DAA",
-        "name_en": "WANG FUK COURT",
-        "name_tc": "宏福苑",
-        "name_sc": "宏福苑",
-        "lat": "22.447504",
-        "long": "114.174799"
     },
     {
         "stop": "B63202433AD89E92",
@@ -43632,14 +43600,6 @@
         "long": "113.938641"
     },
     {
-        "stop": "D055CA5BAD9EEF5E",
-        "name_en": "KWONG FUK ESTATE",
-        "name_tc": "廣福邨",
-        "name_sc": "广福邨",
-        "lat": "22.446299",
-        "long": "114.173076"
-    },
-    {
         "stop": "D05C7D74301D47C5",
         "name_en": "HA KO PO TSUEN",
         "name_tc": "下高埔村",
@@ -45326,14 +45286,6 @@
         "name_sc": "九龙中央邮政局",
         "lat": "22.309345",
         "long": "114.171133"
-    },
-    {
-        "stop": "D7D25DCF873DAE7A",
-        "name_en": "KWONG FUK MARKET",
-        "name_tc": "廣福街市",
-        "name_sc": "广福街市",
-        "lat": "22.448743",
-        "long": "114.174700"
     },
     {
         "stop": "D7D5103D53D4ED90",

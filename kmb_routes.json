@@ -16115,28 +16115,6 @@
         "dest_sc": "东涌站"
     },
     {
-        "route": "N48",
-        "bound": "I",
-        "service_type": "1",
-        "orig_en": "TSUEN WAN (BAYVIEW GARDEN)",
-        "orig_tc": "荃灣(灣景花園)",
-        "orig_sc": "荃湾(湾景花园)",
-        "dest_en": "YU CHUI COURT",
-        "dest_tc": "愉翠苑",
-        "dest_sc": "愉翠苑"
-    },
-    {
-        "route": "N48",
-        "bound": "O",
-        "service_type": "1",
-        "orig_en": "YU CHUI COURT",
-        "orig_tc": "愉翠苑",
-        "orig_sc": "愉翠苑",
-        "dest_en": "TSUEN WAN (BAYVIEW GARDEN)",
-        "dest_tc": "荃灣(灣景花園)",
-        "dest_sc": "荃湾(湾景花园)"
-    },
-    {
         "route": "N619",
         "bound": "I",
         "service_type": "1",
@@ -16696,17 +16674,6 @@
         "dest_en": "DISCOVERY BAY PLAZA",
         "dest_tc": "愉景廣場",
         "dest_sc": "愉景广场"
-    },
-    {
-        "route": "R298",
-        "bound": "O",
-        "service_type": "1",
-        "orig_en": "HONG SING GARDEN",
-        "orig_tc": "康盛花園",
-        "orig_sc": "康盛花园",
-        "dest_en": "TSIM SHA TSUI EAST (MODY ROAD)",
-        "dest_tc": "尖沙咀東(麼地道)",
-        "dest_sc": "尖沙咀东(么地道)"
     },
     {
         "route": "R33",
