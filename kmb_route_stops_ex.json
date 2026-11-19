@@ -10132,7 +10132,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "12",
-        "stop": "E293EF47A90B818D",
+        "stop": "78419C6BD5AB7C34",
         "stop_name_tc": "太古城中心"
     },
     {
@@ -10308,7 +10308,7 @@
         "bound": "O",
         "service_type": "1",
         "seq": "34",
-        "stop": "78419C6BD5AB7C34",
+        "stop": "E293EF47A90B818D",
         "stop_name_tc": "太古城中心"
     },
     {
@@ -10508,7 +10508,7 @@
         "bound": "O",
         "service_type": "2",
         "seq": "12",
-        "stop": "E293EF47A90B818D",
+        "stop": "78419C6BD5AB7C34",
         "stop_name_tc": "太古城中心"
     },
     {
@@ -10684,7 +10684,7 @@
         "bound": "O",
         "service_type": "5",
         "seq": "12",
-        "stop": "E293EF47A90B818D",
+        "stop": "78419C6BD5AB7C34",
         "stop_name_tc": "太古城中心"
     },
     {
@@ -10868,7 +10868,7 @@
         "bound": "O",
         "service_type": "5",
         "seq": "35",
-        "stop": "78419C6BD5AB7C34",
+        "stop": "E293EF47A90B818D",
         "stop_name_tc": "太古城中心"
     },
     {
@@ -11068,7 +11068,7 @@
         "bound": "O",
         "service_type": "6",
         "seq": "12",
-        "stop": "E293EF47A90B818D",
+        "stop": "78419C6BD5AB7C34",
         "stop_name_tc": "太古城中心"
     },
     {
@@ -34740,14 +34740,6 @@
         "bound": "I",
         "service_type": "1",
         "seq": "8",
-        "stop": "C175ACB534E8C15C",
-        "stop_name_tc": "尖沙咀麼地道"
-    },
-    {
-        "route": "213E",
-        "bound": "I",
-        "service_type": "1",
-        "seq": "9",
         "stop": "E46A9F0C0CB609F5",
         "stop_name_tc": "加連威老道"
     },
@@ -34755,7 +34747,7 @@
         "route": "213E",
         "bound": "I",
         "service_type": "1",
-        "seq": "10",
+        "seq": "9",
         "stop": "E45CFAB2E6E4C8FE",
         "stop_name_tc": "香港理工大學"
     },
@@ -34763,7 +34755,7 @@
         "route": "213E",
         "bound": "I",
         "service_type": "1",
-        "seq": "11",
+        "seq": "10",
         "stop": "AA97FFC49AE957A5",
         "stop_name_tc": "紅磡山谷道"
     },
@@ -34771,7 +34763,7 @@
         "route": "213E",
         "bound": "I",
         "service_type": "1",
-        "seq": "12",
+        "seq": "11",
         "stop": "BE27F066CF40DF7D",
         "stop_name_tc": "啟隧轉車站-啟福道"
     },
@@ -34779,7 +34771,7 @@
         "route": "213E",
         "bound": "I",
         "service_type": "1",
-        "seq": "13",
+        "seq": "12",
         "stop": "5FD7848A339751B6",
         "stop_name_tc": "觀塘轉車站-觀塘市中心"
     },
@@ -34787,7 +34779,7 @@
         "route": "213E",
         "bound": "I",
         "service_type": "1",
-        "seq": "14",
+        "seq": "13",
         "stop": "2A5B424322D35B0A",
         "stop_name_tc": "觀塘游泳池"
     },
@@ -34795,7 +34787,7 @@
         "route": "213E",
         "bound": "I",
         "service_type": "1",
-        "seq": "15",
+        "seq": "14",
         "stop": "ED8812E232F6958A",
         "stop_name_tc": "觀塘警署"
     },
@@ -34803,7 +34795,7 @@
         "route": "213E",
         "bound": "I",
         "service_type": "1",
-        "seq": "16",
+        "seq": "15",
         "stop": "1FBAAE29AF1CA50E",
         "stop_name_tc": "秀茂坪邨秀暉樓"
     },
@@ -34811,7 +34803,7 @@
         "route": "213E",
         "bound": "I",
         "service_type": "1",
-        "seq": "17",
+        "seq": "16",
         "stop": "466BC4C1908A1A06",
         "stop_name_tc": "寶達邨轉車站"
     },
@@ -34819,7 +34811,7 @@
         "route": "213E",
         "bound": "I",
         "service_type": "1",
-        "seq": "18",
+        "seq": "17",
         "stop": "5996115DCAE8C603",
         "stop_name_tc": "安愉徑"
     },
@@ -34827,7 +34819,7 @@
         "route": "213E",
         "bound": "I",
         "service_type": "1",
-        "seq": "19",
+        "seq": "18",
         "stop": "0BACBE7BF15833EC",
         "stop_name_tc": "安麗苑"
     },
@@ -34835,7 +34827,7 @@
         "route": "213E",
         "bound": "I",
         "service_type": "1",
-        "seq": "20",
+        "seq": "19",
         "stop": "CABB1AAE412C6049",
         "stop_name_tc": "安柏苑"
     },
@@ -34843,7 +34835,7 @@
         "route": "213E",
         "bound": "I",
         "service_type": "1",
-        "seq": "21",
+        "seq": "20",
         "stop": "3F64427262A691C1",
         "stop_name_tc": "安楹苑"
     },
@@ -34851,7 +34843,7 @@
         "route": "213E",
         "bound": "I",
         "service_type": "1",
-        "seq": "22",
+        "seq": "21",
         "stop": "7B0BAF8C626CDF2D",
         "stop_name_tc": "安達臣總站"
     },
@@ -34916,14 +34908,6 @@
         "bound": "I",
         "service_type": "2",
         "seq": "8",
-        "stop": "C175ACB534E8C15C",
-        "stop_name_tc": "尖沙咀麼地道"
-    },
-    {
-        "route": "213E",
-        "bound": "I",
-        "service_type": "2",
-        "seq": "9",
         "stop": "E46A9F0C0CB609F5",
         "stop_name_tc": "加連威老道"
     },
@@ -34931,7 +34915,7 @@
         "route": "213E",
         "bound": "I",
         "service_type": "2",
-        "seq": "10",
+        "seq": "9",
         "stop": "E45CFAB2E6E4C8FE",
         "stop_name_tc": "香港理工大學"
     },
@@ -34939,7 +34923,7 @@
         "route": "213E",
         "bound": "I",
         "service_type": "2",
-        "seq": "11",
+        "seq": "10",
         "stop": "AA97FFC49AE957A5",
         "stop_name_tc": "紅磡山谷道"
     },
@@ -34947,7 +34931,7 @@
         "route": "213E",
         "bound": "I",
         "service_type": "2",
-        "seq": "12",
+        "seq": "11",
         "stop": "BE27F066CF40DF7D",
         "stop_name_tc": "啟隧轉車站-啟福道"
     },
@@ -34955,7 +34939,7 @@
         "route": "213E",
         "bound": "I",
         "service_type": "2",
-        "seq": "13",
+        "seq": "12",
         "stop": "1FBAAE29AF1CA50E",
         "stop_name_tc": "秀茂坪邨秀暉樓"
     },
@@ -34963,7 +34947,7 @@
         "route": "213E",
         "bound": "I",
         "service_type": "2",
-        "seq": "14",
+        "seq": "13",
         "stop": "466BC4C1908A1A06",
         "stop_name_tc": "寶達邨轉車站"
     },
@@ -34971,7 +34955,7 @@
         "route": "213E",
         "bound": "I",
         "service_type": "2",
-        "seq": "15",
+        "seq": "14",
         "stop": "5996115DCAE8C603",
         "stop_name_tc": "安愉徑"
     },
@@ -34979,7 +34963,7 @@
         "route": "213E",
         "bound": "I",
         "service_type": "2",
-        "seq": "16",
+        "seq": "15",
         "stop": "0BACBE7BF15833EC",
         "stop_name_tc": "安麗苑"
     },
@@ -34987,7 +34971,7 @@
         "route": "213E",
         "bound": "I",
         "service_type": "2",
-        "seq": "17",
+        "seq": "16",
         "stop": "CABB1AAE412C6049",
         "stop_name_tc": "安柏苑"
     },
@@ -34995,7 +34979,7 @@
         "route": "213E",
         "bound": "I",
         "service_type": "2",
-        "seq": "18",
+        "seq": "17",
         "stop": "3F64427262A691C1",
         "stop_name_tc": "安楹苑"
     },
@@ -35003,7 +34987,7 @@
         "route": "213E",
         "bound": "I",
         "service_type": "2",
-        "seq": "19",
+        "seq": "18",
         "stop": "7B0BAF8C626CDF2D",
         "stop_name_tc": "安達臣總站"
     },
@@ -269670,166 +269654,6 @@
         "seq": "19",
         "stop": "FA265A8238AD5E8D",
         "stop_name_tc": "逸東邨巴士總站"
-    },
-    {
-        "route": "N64P",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "1",
-        "stop": "7910B0EBDD33B71B",
-        "stop_name_tc": "大埔墟站巴士總站"
-    },
-    {
-        "route": "N64P",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "2",
-        "stop": "56C003E99C21984A",
-        "stop_name_tc": "大埔墟街市"
-    },
-    {
-        "route": "N64P",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "3",
-        "stop": "6219234626AC9DD5",
-        "stop_name_tc": "大埔寶鄉街"
-    },
-    {
-        "route": "N64P",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "4",
-        "stop": "DA30F5393480B81D",
-        "stop_name_tc": "廣福道轉車站 - 寶鄉橋"
-    },
-    {
-        "route": "N64P",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "5",
-        "stop": "6716018C3EE42733",
-        "stop_name_tc": "大埔安祥路"
-    },
-    {
-        "route": "N64P",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "6",
-        "stop": "1A0BF02F827F6A20",
-        "stop_name_tc": "大埔安慈路"
-    },
-    {
-        "route": "N64P",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "7",
-        "stop": "CCC4773031BC0FD8",
-        "stop_name_tc": "太和廣場"
-    },
-    {
-        "route": "N64P",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "8",
-        "stop": "2A86FE3FCDB9760B",
-        "stop_name_tc": "帝欣苑"
-    },
-    {
-        "route": "N64P",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "9",
-        "stop": "5FCD0D727920EC65",
-        "stop_name_tc": "康樂園"
-    },
-    {
-        "route": "N64P",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "10",
-        "stop": "0B786699889F0AEB",
-        "stop_name_tc": "較寮下"
-    },
-    {
-        "route": "N64P",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "11",
-        "stop": "A53F6592C4173B4E",
-        "stop_name_tc": "坑下甫"
-    },
-    {
-        "route": "N64P",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "12",
-        "stop": "A61CDC435D1C6C37",
-        "stop_name_tc": "放馬莆(林村許願樹)"
-    },
-    {
-        "route": "N64P",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "13",
-        "stop": "B473A39CEDD5069D",
-        "stop_name_tc": "鍾屋村"
-    },
-    {
-        "route": "N64P",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "14",
-        "stop": "2A092A3FB143443A",
-        "stop_name_tc": "新村"
-    },
-    {
-        "route": "N64P",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "15",
-        "stop": "BEEF3ECF24FF4F1A",
-        "stop_name_tc": "新塘"
-    },
-    {
-        "route": "N64P",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "16",
-        "stop": "A26AAC44AD49B9DB",
-        "stop_name_tc": "坪朗"
-    },
-    {
-        "route": "N64P",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "17",
-        "stop": "51AFF58670A6BE9B",
-        "stop_name_tc": "大庵"
-    },
-    {
-        "route": "N64P",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "18",
-        "stop": "C97D9654FC4427C9",
-        "stop_name_tc": "麻布尾"
-    },
-    {
-        "route": "N64P",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "19",
-        "stop": "42B5697C975C3953",
-        "stop_name_tc": "寨乪"
-    },
-    {
-        "route": "N64P",
-        "bound": "O",
-        "service_type": "1",
-        "seq": "20",
-        "stop": "B4C010DBFBD55834",
-        "stop_name_tc": "梧桐寨 (白牛石)"
     },
     {
         "route": "N680",
