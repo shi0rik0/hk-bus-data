@@ -929,9 +929,9 @@
     },
     {
         "stop": "04EA3349BDD260C8",
-        "name_en": "SHA TIN CENTRAL BUS TERMINUS",
-        "name_tc": "沙田市中心巴士總站",
-        "name_sc": "沙田市中心巴士总站",
+        "name_en": "SHATIN CENTRAL BUS TERMINUS",
+        "name_tc": "沙田市中心總站",
+        "name_sc": "沙田市中心总站",
         "lat": "22.382420",
         "long": "114.188533"
     },
