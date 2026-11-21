@@ -3412,10 +3412,8 @@
         "route": "H0",
         "orig_tc": "中環 (天星碼頭)",
         "orig_en": "Central (Star Ferry)",
-        "dest_tc": "中環 (天星碼頭)",
-        "dest_en": "Central (Star Ferry)",
-        "orig_sc": "中环 (天星码头)",
-        "dest_sc": "中环 (天星码头)"
+        "dest_tc": "星光維港",
+        "dest_en": "Victoria Star"
     },
     {
         "co": "CTB",

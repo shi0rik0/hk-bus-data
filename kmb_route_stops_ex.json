@@ -139948,7 +139948,7 @@
         "bound": "I",
         "service_type": "1",
         "seq": "5",
-        "stop": "1FFFFBAE28F48D03",
+        "stop": "2B9DA1FE14596F2E",
         "stop_name_tc": "杜老誌道"
     },
     {
@@ -140436,7 +140436,7 @@
         "bound": "I",
         "service_type": "1",
         "seq": "9",
-        "stop": "1FFFFBAE28F48D03",
+        "stop": "2B9DA1FE14596F2E",
         "stop_name_tc": "杜老誌道"
     },
     {
@@ -161004,7 +161004,7 @@
         "bound": "I",
         "service_type": "1",
         "seq": "9",
-        "stop": "2B9DA1FE14596F2E",
+        "stop": "1FFFFBAE28F48D03",
         "stop_name_tc": "杜老誌道"
     },
     {
@@ -161844,7 +161844,7 @@
         "bound": "I",
         "service_type": "1",
         "seq": "9",
-        "stop": "2B9DA1FE14596F2E",
+        "stop": "1FFFFBAE28F48D03",
         "stop_name_tc": "杜老誌道"
     },
     {
@@ -270300,7 +270300,7 @@
         "bound": "I",
         "service_type": "1",
         "seq": "11",
-        "stop": "1FFFFBAE28F48D03",
+        "stop": "2B9DA1FE14596F2E",
         "stop_name_tc": "杜老誌道"
     },
     {
