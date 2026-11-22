@@ -4069,7 +4069,7 @@
         "service_type": "1",
         "seq": "19",
         "stop": "AC1E2BBDC663717F",
-        "stop_name_tc": "杜老誌道"
+        "stop_name_tc": null
     },
     {
         "route": "103",
@@ -148533,7 +148533,7 @@
         "service_type": "1",
         "seq": "9",
         "stop": "AC1E2BBDC663717F",
-        "stop_name_tc": "杜老誌道"
+        "stop_name_tc": null
     },
     {
         "route": "621",
@@ -256277,7 +256277,7 @@
         "service_type": "1",
         "seq": "11",
         "stop": "AC1E2BBDC663717F",
-        "stop_name_tc": "杜老誌道"
+        "stop_name_tc": null
     },
     {
         "route": "N182",
