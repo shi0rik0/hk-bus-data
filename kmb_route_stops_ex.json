@@ -130052,6 +130052,62 @@
         "bound": "O",
         "service_type": "1",
         "seq": "1",
+        "stop": "9C6800DD6E0CD683",
+        "stop_name_tc": "香港科學園"
+    },
+    {
+        "route": "49P",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "2",
+        "stop": "6E821768CA09E8C9",
+        "stop_name_tc": "香港科學園第三期"
+    },
+    {
+        "route": "49P",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "3",
+        "stop": "A0D379E172F5BC93",
+        "stop_name_tc": "香港生物科技研究院"
+    },
+    {
+        "route": "49P",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "4",
+        "stop": "853CD1316EB5227B",
+        "stop_name_tc": "水上活動中心"
+    },
+    {
+        "route": "49P",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "5",
+        "stop": "BE6EC9708F5FB613",
+        "stop_name_tc": "馬料水公眾碼頭"
+    },
+    {
+        "route": "49P",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "6",
+        "stop": "9D3BCB233237C32C",
+        "stop_name_tc": "禾輋邨"
+    },
+    {
+        "route": "49P",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "7",
+        "stop": "4E56DD827C1F571A",
+        "stop_name_tc": "瀝源邨"
+    },
+    {
+        "route": "49P",
+        "bound": "O",
+        "service_type": "1",
+        "seq": "8",
         "stop": "CCA2F903BFE60A31",
         "stop_name_tc": "沙田市中心總站"
     },
@@ -130059,7 +130115,7 @@
         "route": "49P",
         "bound": "O",
         "service_type": "1",
-        "seq": "2",
+        "seq": "9",
         "stop": "620E14F31DA31490",
         "stop_name_tc": "城門隧道轉車站"
     },
@@ -130067,7 +130123,7 @@
         "route": "49P",
         "bound": "O",
         "service_type": "1",
-        "seq": "3",
+        "seq": "10",
         "stop": "0E61C7B5C90B8CAF",
         "stop_name_tc": "城門隧道轉車站"
     },
@@ -130075,7 +130131,7 @@
         "route": "49P",
         "bound": "O",
         "service_type": "1",
-        "seq": "4",
+        "seq": "11",
         "stop": "36880B47F043D519",
         "stop_name_tc": "青衣轉車站 - 長安總站"
     },
@@ -130083,7 +130139,7 @@
         "route": "49P",
         "bound": "O",
         "service_type": "1",
-        "seq": "5",
+        "seq": "12",
         "stop": "4E870B220826BEE0",
         "stop_name_tc": "楓樹窩體育館"
     },
@@ -130091,7 +130147,7 @@
         "route": "49P",
         "bound": "O",
         "service_type": "1",
-        "seq": "6",
+        "seq": "13",
         "stop": "5AD2A4D21C226335",
         "stop_name_tc": "青衣邨宜業樓"
     },
@@ -130099,7 +130155,7 @@
         "route": "49P",
         "bound": "O",
         "service_type": "1",
-        "seq": "7",
+        "seq": "14",
         "stop": "A454170B2B59B587",
         "stop_name_tc": "綠悠雅苑"
     },
@@ -130107,7 +130163,7 @@
         "route": "49P",
         "bound": "O",
         "service_type": "1",
-        "seq": "8",
+        "seq": "15",
         "stop": "F41714406F2D4E00",
         "stop_name_tc": "青衣碼頭總站"
     },
