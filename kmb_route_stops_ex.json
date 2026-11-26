@@ -4068,8 +4068,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "19",
-        "stop": "AC1E2BBDC663717F",
-        "stop_name_tc": null
+        "stop": "1FFFFBAE28F48D03",
+        "stop_name_tc": "杜老誌道"
     },
     {
         "route": "103",
@@ -148604,8 +148604,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "9",
-        "stop": "AC1E2BBDC663717F",
-        "stop_name_tc": null
+        "stop": "1FFFFBAE28F48D03",
+        "stop_name_tc": "杜老誌道"
     },
     {
         "route": "621",
@@ -256508,8 +256508,8 @@
         "bound": "I",
         "service_type": "1",
         "seq": "11",
-        "stop": "AC1E2BBDC663717F",
-        "stop_name_tc": null
+        "stop": "1FFFFBAE28F48D03",
+        "stop_name_tc": "杜老誌道"
     },
     {
         "route": "N182",
@@ -279652,8 +279652,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "1",
-        "stop": "7F8BF075DDF6231A",
-        "stop_name_tc": "迎東邨"
+        "stop": "833FF184B120B167",
+        "stop_name_tc": "翔東邨"
     },
     {
         "route": "S64P",
@@ -279844,8 +279844,8 @@
         "bound": "O",
         "service_type": "1",
         "seq": "25",
-        "stop": "7F8BF075DDF6231A",
-        "stop_name_tc": "迎東邨"
+        "stop": "833FF184B120B167",
+        "stop_name_tc": "翔東邨"
     },
     {
         "route": "S64P",
