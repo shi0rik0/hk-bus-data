@@ -15158,17 +15158,6 @@
         "dest_sc": "东涌码头"
     },
     {
-        "route": "E32A",
-        "bound": "O",
-        "service_type": "4",
-        "orig_en": "KWAI FONG (SOUTH)",
-        "orig_tc": "葵芳(南)",
-        "orig_sc": "葵芳(南)",
-        "dest_en": "Tung Chung Pier",
-        "dest_tc": "東涌碼頭",
-        "dest_sc": "东涌码头"
-    },
-    {
         "route": "E33",
         "bound": "I",
         "service_type": "1",
